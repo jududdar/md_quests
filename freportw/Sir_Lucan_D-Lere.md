@@ -43,7 +43,7 @@ if **You turn in:** [A Note](/item/18822)
 * __Faction:__ [Priests of Marr](/faction/362) (-2)
 
 
- **You receive:** None 
+ **You receive:** 0 (+5000 exp)
 
 
 
@@ -68,7 +68,7 @@ elseif **You turn in:** [Slashed Militia Tunic](/item/13926)
 * __Faction:__ [Priests of Marr](/faction/362) (-2)
 
 
- **You receive:** None 
+ **You receive:** 0 (+7500 exp)
 
 
 

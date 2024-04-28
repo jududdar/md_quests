@@ -26,7 +26,7 @@ local text = "Wait, Soandso, are you not forgetting something?";
 if **You turn in:** [Shadowed Ball](/item/10528)
 
 
-e.self:Say("You must be another one from Vilissia. I will tell you what I tell all the others
+>**Trankia says:** You must be another one from Vilissia. I will tell you what I tell all the others - you must help me [avenge] my [brother] before I will help you attain Tishan's Kilt.
 
 
  **You receive:**  [A tattered note](/item/18797) (+500 exp)

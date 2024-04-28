@@ -160,7 +160,7 @@ elseif **You turn in:** [rolled up strip of cloth](/item/2049)
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
 elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of Bone Necklaces](/item/14582)
 
@@ -200,7 +200,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Odd Kobold Paw](/ite
 * __Faction:__ [Heretics](/faction/265) (-5)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Cure Disease](/item/15213), 15011) (+500 exp)
+ **You receive:** eq.ChooseRandom( [Spell: Cure Disease](/item/15213), [Spell: Holy Armor](/item/15011)) (+500 exp)
 
 elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of Bronze Symbols](/item/14583), [Initiate Symbol of Quellious](/item/1564)
 

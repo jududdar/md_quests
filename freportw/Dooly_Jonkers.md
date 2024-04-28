@@ -5,7 +5,7 @@
 
 
 
-e.self:Say(string.format("Greetings, %s! Welcome to the Academy of Arcane Science. Nowhere on Norrath can you find a greater learning center.",e.other:GetName()));
+>**Dooly Jonkers says:** Greetings, Soandso! Welcome to the Academy of Arcane Science. Nowhere on Norrath can you find a greater learning center.
 
 **You say:** `retlon brenclog`
 

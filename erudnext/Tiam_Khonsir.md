@@ -36,8 +36,6 @@ end
 
 
 
-local ranitem = 0;
-
 
 if **You turn in:** [Kobold Molar](/item/1761)
 
@@ -45,12 +43,15 @@ if **You turn in:** [Kobold Molar](/item/1761)
 >**Tiam Khonsir says:** Wonderful work, friend Soandso. One less land dwelling, flea ridden, primitive for our wondrous lord to sweep aside when the apocalypse is upon us. Here is your reward. Perhaps if you gather enough molars, we can offer you a [quest of greater importance].
 
 
-if(math.random(4) == 1) then
+if(math.random(1,4) == 1) then
 
 
 
-ranitem = eq.ChooseRandom(3120,3123,3115,3117,3122,3113,3116,3118,3121,3124,3119,3108,3107,3111,3103,3105,3110,3101,3104,3106,3109,3112,3132,3135,3127,3129,3134,3125,3128,3130,3133,3136,3131); 
+ **You receive:** eq.ChooseRandom( [Small Ringmail Sleeves](/item/3120), [Small Ringmail Pants](/item/3123), [Small Ringmail Neckguard](/item/3115), [Small Ringmail Mantle](/item/3117), [Small Ringmail Gloves](/item/3122), [Small Ringmail Coif](/item/3113), [Small Ringmail Coat](/item/3116), [Small Ringmail Cape](/item/3118), [Small Ringmail Bracelet](/item/3121), [Small Ringmail Boots](/item/3124), [Small Ringmail Belt](/item/3119), [Ringmail Sleeves](/item/3108), [Ringmail Skirt](/item/3107), [Ringmail Pants](/item/3111), [Ringmail Neckguard](/item/3103), [Ringmail Mantle](/item/3105), [Ringmail Gloves](/item/3110), [Ringmail Coif](/item/3101), [Ringmail Coat](/item/3104), [Ringmail Cape](/item/3106), [Ringmail Bracelet](/item/3109), [Ringmail Boots](/item/3112), [Large Ringmail Sleeves](/item/3132), [Large Ringmail Pants](/item/3135), [Large Ringmail Neckguard](/item/3127), [Large Ringmail Mantle](/item/3129), [Large Ringmail Gloves](/item/3134), [Large Ringmail Coif](/item/3125), [Large Ringmail Coat](/item/3128), [Large Ringmail Cape](/item/3130), [Large Ringmail Bracelet](/item/3133), [Large Ringmail Boots](/item/3136), [Large Ringmail Belt](/item/3131)) 
 
+
+
+note = "You always receive the exp and coin, but only get the item if the statement above succeeds"
 
 
 * __Faction:__ [Deepwater Knights](/faction/242) (7)
@@ -62,7 +63,7 @@ ranitem = eq.ChooseRandom(3120,3123,3115,3117,3122,3113,3116,3118,3121,3124,3119
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+3800 exp)
 
 
 e.other:GiveCash(12,14,5,0); 

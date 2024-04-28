@@ -77,7 +77,7 @@ if **Faction** >= Amiable and  **You turn in:** [Raw Short Sword 1](/item/12241)
 * __Faction:__ [Knights of Truth](/faction/281) (4)
 
 
- **You receive:** None 
+ **You receive:**  [Reward Raw Short Sword](/item/13919) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

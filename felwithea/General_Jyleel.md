@@ -139,14 +139,14 @@ if(math.random(100) > 10) then
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Small Lantern](/item/13003), [Large Lantern](/item/13004), [Potion of Sustenance](/item/14013), [Dagger](/item/7001), [Iron Ration](/item/13005), [Bandages](/item/13009)) (+500 exp)
 
 
 else
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Pillage Enchantment](/item/15025), [Spell: Brilliance](/item/15033), [Spell: Plague](/item/15032), [Spell: Minor Conjuration: Air](/item/15623)) (+500 exp)
 
 
 elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)
@@ -168,14 +168,14 @@ if(math.random(100) > 10) then
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Small Lantern](/item/13003), [Large Lantern](/item/13004), [Potion of Sustenance](/item/14013), [Dagger](/item/7001), [Iron Ration](/item/13005), [Bandages](/item/13009)) (+500 exp)
 
 
 else
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Pillage Enchantment](/item/15025), [Spell: Brilliance](/item/15033), [Spell: Plague](/item/15032), [Spell: Minor Conjuration: Air](/item/15623)) (+500 exp)
 
 
 

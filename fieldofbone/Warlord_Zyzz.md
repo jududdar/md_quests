@@ -57,7 +57,7 @@ if **You turn in:** [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/1265
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+2500 exp)
 
 
 elseif **You turn in:** [Note to Iksar Lord](/item/18213)

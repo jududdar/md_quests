@@ -99,7 +99,7 @@ if **You turn in:** [Broken Heirloom Necklace](/item/13159)
 * __Faction:__ [The Freeport Militia](/faction/330) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+200 exp)
 
 **This NPC *should* return incorrect items given.**
 

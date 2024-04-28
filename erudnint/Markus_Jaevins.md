@@ -84,7 +84,7 @@ elseif **You turn in:** [Bones](/item/13127)
 * __Faction:__ [Heretics](/faction/265) (-3)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 elseif **You turn in:** [Bones](/item/13128)
 
@@ -107,7 +107,7 @@ elseif **You turn in:** [Bones](/item/13128)
 * __Faction:__ [Heretics](/faction/265) (-7)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

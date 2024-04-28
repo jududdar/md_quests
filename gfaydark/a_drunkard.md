@@ -55,7 +55,7 @@ elseif **You turn in:** [Dull Pearl Necklace](/item/13347), [Dull Pearl Necklace
 * __Faction:__ [Anti-mage](/faction/5002) (7)
 
 
- **You receive:** eq.ChooseRandom( [Bearskin Gloves](/item/2314), 2007, 2005, 9003) (+1000 exp)
+ **You receive:** eq.ChooseRandom( [Bearskin Gloves](/item/2314), [Leather Belt](/item/2007), [Leather Shoulderpads](/item/2005), [Targ Shield](/item/9003)) (+1000 exp)
 
 
 

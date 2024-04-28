@@ -96,7 +96,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+15 exp)
 
 
 

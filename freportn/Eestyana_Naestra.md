@@ -46,7 +46,7 @@ if **You turn in:** [A Note](/item/18822)
 * __Faction:__ [Steel Warriors](/faction/311) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Courage*](/item/9985) (+500 exp)
 
 elseif **You turn in:** [A Note](/item/18816)
 
@@ -72,7 +72,7 @@ elseif **You turn in:** [A Note](/item/18816)
 * __Faction:__ [Steel Warriors](/faction/311) (2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Rusty Morning Star](/item/6016), [Prayer Beads](/item/13296)) (+1000 exp)
 
 elseif **You turn in:** [A tattered note](/item/18735)
 

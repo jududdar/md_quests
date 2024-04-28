@@ -41,7 +41,7 @@ if **You turn in:** [Pack of Meat](/item/12121)
 * __Faction:__ [Kelethin Merchants](/faction/276) (4)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bronze Short Sword](/item/5026), [Bronze Long Sword](/item/5027), [Bronze Battle Axe](/item/5028), [Bronze Bastard Sword](/item/5029), [Bronze Two Handed Sword](/item/5030), [Bronze Halberd](/item/5031), [Bronze Axe](/item/5032), [Bronze Broad Sword](/item/5033), [Bronze Scimitar](/item/5034), [Bronze Scythe](/item/5035), [Bronze Claymore](/item/5036), [Bronze Two Handed Battle Axe](/item/5037), [Cast-Iron Long Sword](/item/5082), [Cast-Iron Warhammer](/item/6041), [Cast-Iron Mace](/item/6042), [Cast-Iron Two Handed Hammer](/item/6046), [Cast-Iron Rapier](/item/7032)) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 

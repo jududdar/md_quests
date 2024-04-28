@@ -27,6 +27,6 @@ elseif **You turn in:** [Scroll of the Burning Dead](/item/18474)
 >**Sir Artanis says:** By Marr, what is this? .. Burning Dead .. .. Marnek! By my blade this must be stopped! Where did you find this?
 
 
- **You receive:** None 
+ **You receive:** 0 (+6400 exp)
 
 **This NPC *should* return incorrect items given.**

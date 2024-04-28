@@ -7,7 +7,7 @@ local hour = zone_time["zone_hour"];
 
 local minute = zone_time["zone_minute"];
 
-eq.debug("Shuttle spawned! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Shuttle spawned! Name is: Barrel Barge Time is: " .. hour ..":" .. minute .. "", 1);
 ## Arrive at Waypoint Script
 
 local zone_time = eq.get_zone_time();
@@ -19,12 +19,12 @@ local minute = zone_time["zone_minute"];
 if(e.wp == 5) then
 
 
-eq.debug("Shuttle to timorous (1) has reached the docks.  Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Shuttle to timorous (1) has reached the docks.  Name is: Barrel Barge Time is: " .. hour ..":" .. minute .. "", 1);
 
 elseif(e.wp == 11) then
 
 
-eq.debug("Shuttle to timorous (1) has reached its destination! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Shuttle to timorous (1) has reached its destination! Name is: Barrel Barge Time is: " .. hour ..":" .. minute .. "", 1);
 
 
 eq.get_entity_list():ForeachClient(

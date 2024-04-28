@@ -108,6 +108,6 @@ elseif **You turn in:** [L.S. Pouch](/item/13814)
 * __Faction:__ [Steel Warriors](/faction/311) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Snapped Pole](/item/13922), [Moggoks Right Eye](/item/13923)) (+200 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -7,7 +7,7 @@ local hour = zone_time["zone_hour"];
 
 local minute = zone_time["zone_minute"];
 
-eq.debug("Boat spawned! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Boat spawned! Name is: Golden Maiden Time is: " .. hour ..":" .. minute .. "", 1);
 ## Arrive at Waypoint Script
 
 local zone_time = eq.get_zone_time();
@@ -21,7 +21,7 @@ local minute = zone_time["zone_minute"];
 if(e.self:GetGrid() == 5 and e.wp == 3) then
 
 
-eq.debug("Boat to Qeynos (5) has reached its destination! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Boat to Qeynos (5) has reached its destination! Name is: Golden Maiden Time is: " .. hour ..":" .. minute .. "", 1);
 
 
 eq.get_entity_list():ForeachClient(
@@ -71,7 +71,7 @@ return false;
 elseif(e.self:GetGrid() == 7 and e.wp == 20) then
 
 
-eq.debug("Boat to Erud (7) has reached its destination! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Boat to Erud (7) has reached its destination! Name is: Golden Maiden Time is: " .. hour ..":" .. minute .. "", 1);
 
 
 eq.get_entity_list():ForeachClient(

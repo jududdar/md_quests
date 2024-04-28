@@ -79,7 +79,7 @@ if **Faction** >= Amiable and  **You turn in:** [Poacher's Head](/item/13825)
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Copper Band](/item/10004), [Small Lantern](/item/13003), [Malachite](/item/10015), [Rusty Spear](/item/7009)) (+3000 exp)
 
 elseif **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13913)
 
@@ -99,7 +99,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13913
 * __Faction:__ [Heretics](/faction/265) (-2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Courage](/item/15202), [Spell: Holy Armor](/item/15011)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

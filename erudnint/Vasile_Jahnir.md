@@ -110,7 +110,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/13895)
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Fire Flux](/item/15313) (+250 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

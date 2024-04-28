@@ -7,7 +7,7 @@ local hour = zone_time["zone_hour"];
 
 local minute = zone_time["zone_minute"];
 
-eq.debug("Boat spawned! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Boat spawned! Name is: Shuttle II Time is: " .. hour ..":" .. minute .. "", 1);
 ## Signals
 
 if(e.signal == 1) then
@@ -33,7 +33,7 @@ eq.spawn_condition("butcher",4,1);
 eq.spawn_condition("timorous",6,0);
 
 
-eq.debug("Shuttle to butcher (4) has reached its destination! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Shuttle to butcher (4) has reached its destination! Name is: Shuttle II Time is: " .. hour ..":" .. minute .. "", 1);
 
 
 eq.get_entity_list():ForeachClient(

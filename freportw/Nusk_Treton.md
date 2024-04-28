@@ -84,7 +84,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [A Strongbox](/item/13860
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

@@ -54,7 +54,7 @@ if **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone 
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+250 exp)
 
 **This NPC *should* return incorrect items given.**
 

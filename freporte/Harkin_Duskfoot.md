@@ -51,7 +51,7 @@ if **You turn in:** [Note to Harkin](/item/18016)
 * __Faction:__ [The Freeport Militia](/faction/330) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Used Merchants Gloves](/item/1054) (+1500 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

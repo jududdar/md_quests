@@ -31,7 +31,7 @@ if **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/1030
 >**Raskena Djor says:** You have passed your first task. Nice work. Take this spell as your payment.
 
 
- **You receive:** eq.ChooseRandom( [Spell: Sphere of Light](/item/15373), 15054, 15205, 15288, 15372, 15374) (+150 exp)
+ **You receive:** eq.ChooseRandom( [Spell: Sphere of Light](/item/15373), [Spell: Frost Bolt](/item/15054), [Spell: True North](/item/15205), [Spell: Minor Shielding](/item/15288), [Spell: Shock of Frost](/item/15372), [Spell: Numbing Cold](/item/15374)) (+150 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

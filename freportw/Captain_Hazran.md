@@ -48,7 +48,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+9350 exp)
 
 
 

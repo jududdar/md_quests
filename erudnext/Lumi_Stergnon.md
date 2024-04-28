@@ -1,9 +1,6 @@
 # Lumi Stergnon
 ## Dialog
 
-local fac = e.other:GetFaction(e.self);
-
-
 **You say:** `hail`
 
 

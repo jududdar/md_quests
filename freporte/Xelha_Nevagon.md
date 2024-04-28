@@ -89,7 +89,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Spiderling Silk](/item/1309
 * __Faction:__ [Opal Darkbriar](/faction/296) (2)
 
 
- **You receive:** None 
+ **You receive:**  [Xelha's Sparkler](/item/12247) (+2500 exp)
 
 elseif **Faction** >= Indifferent and  **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307)
 
@@ -109,7 +109,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Fire Beetle Eye](/item/
 * __Faction:__ [Opal Darkbriar](/faction/296) (2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Cavorting Bones](/item/15338), [Spell: Reclaim Energy](/item/15331)) (+2500 exp)
 
 elseif **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
 
@@ -132,7 +132,7 @@ elseif **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [B
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+2500 exp)
 
 
 
@@ -154,7 +154,7 @@ elseif **Faction** >= Kindly and  **You turn in:** [Cyclops Eye](/item/13927)
 * __Faction:__ [Opal Darkbriar](/faction/296) (5)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Gate](/item/15036), [Spell: Leering Corpse](/item/15491)) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

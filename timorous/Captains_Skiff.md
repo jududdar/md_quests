@@ -24,7 +24,7 @@ if(e.wp == 2) then
 eq.stop();
 
 
-eq.debug("Shuttle to butcherblock (4) has reached its destination! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Shuttle to butcherblock (4) has reached its destination! Name is: Captains Skiff Time is: " .. hour ..":" .. minute .. "", 1);
 
 
 eq.get_entity_list():ForeachClient(

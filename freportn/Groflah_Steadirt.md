@@ -53,6 +53,6 @@ elseif **You turn in:** [A tattered flier](/item/18818)
 >**Groflah Steadirt says:** Where did you find this? This was the main price list of Zimel's Blades, but it should be all burnt up. I was at Zimel's right after the fire and I did not see it hanging where it should have been. The entire inside was gutted and . . . wait . . . the sequence of the dots!! Hmmm. I cannot talk with you here. Meet me at the Seafarer's by the docks at night. Give me the note when next we meet.
 
 
- **You receive:** None 
+ **You receive:**  [A tattered flier](/item/18818) 
 
 **This NPC *should* return incorrect items given.**

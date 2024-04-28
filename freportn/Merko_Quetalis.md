@@ -234,6 +234,6 @@ elseif **Faction** >= Amiable and  **You turn in:** [Token of Truth](/item/13866
 * __Faction:__ [Steel Warriors](/faction/311) (10)
 
 
- **You receive:** None 
+ **You receive:**  [Testimony](/item/18828) (+100 exp)
 
 **This NPC *should* return incorrect items given.**

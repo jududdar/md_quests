@@ -66,7 +66,7 @@ if **Faction** >= Amiable and  **You turn in:** [Fish in a Jar](/item/13862)
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Torch](/item/13002), [Ration](/item/13007)) (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

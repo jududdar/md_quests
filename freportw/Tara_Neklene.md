@@ -68,7 +68,7 @@ if **You turn in:** [Illegible Cantrip](/item/13845)
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007), [Torch](/item/13002), [Water Flask](/item/13006)) (+250 exp)
 
 elseif **Faction** >= Amiable +100 and  **You turn in:** [Illegible Scroll](/item/13225)
 
@@ -88,7 +88,7 @@ elseif **Faction** >= Amiable +100 and  **You turn in:** [Illegible Scroll](/ite
 * __Faction:__ [The Freeport Militia](/faction/330) (-2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Elementalkin: Air](/item/15317), [Spell: Elementalkin: Earth](/item/15058), [Spell: Elementalkin: Fire](/item/15316), [Spell: Elementalkin: Water](/item/15315)) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

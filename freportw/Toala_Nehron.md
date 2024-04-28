@@ -1,9 +1,6 @@
 # Toala Nehron
 ## Dialog
 
-local fac = e.other:GetFaction(e.self);
-
-
 **You say:** `hail`
 
 
@@ -22,7 +19,7 @@ local fac = e.other:GetFaction(e.self);
 
 >**Toala Nehron says:** Cain Darkmoore is only the most handsome of warriors!  He is also the strongest and most bold.  He has slain the mightiest of fiends.  He is truly the manliest man around.  It is no wonder he is the guildmaster of the Steel Warriors.
 
-elseif(fac < 5) then
+elseif( **Faction is** > Indifferent) then
 
 
 **You say:** `have time`
@@ -41,7 +38,7 @@ elseif(fac < 5) then
 >**Toala Nehron says:** Lenka Stoutheart is an old friend of mine. I met her in my younger days when the Steel Warriors sent me to train in the ways of the Wolves of the North, the barbarian warriors of Halas. She is now an adventurer of great renown. She travels from continent to continent aboard her ship,the Blue Beast, her ship.
 
 
-elseif(fac == 5) then
+elseif( **Faction is** == Indifferent) then
 
 
 **You say:** `have time`
@@ -53,7 +50,7 @@ elseif(fac == 5) then
 
 
 
-elseif(fac > 5) then
+elseif( **Faction is** < Indifferent) then
 
 
 **You say:** `have time`
@@ -70,10 +67,7 @@ end
 
 
 
-local fac = e.other:GetFaction(e.self);
-
-
-if(fac < 5) then
+if( **Faction is** > Indifferent) then
 
 
 if **You turn in:** [A Sealed Letter](/item/18814)
@@ -115,10 +109,10 @@ elseif **You turn in:** [Box with Two Heads](/item/12246)
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Leather Skullcap](/item/2001), [Leather Mask](/item/2002), [Leather Gorget](/item/2003), [Leather Tunic](/item/2004), [Leather Shoulderpads](/item/2005), [Leather Cloak](/item/2006), [Leather Belt](/item/2007), [Leather Sleeves](/item/2008), [Leather Wristbands](/item/2009), [Leather Gloves](/item/2010), [Leather Leggings](/item/2011), [Leather Boots](/item/2012), [Round Shield](/item/9002)) (+2000 exp)
 
 
-elseif(fac == 5) then
+elseif( **Faction is** == Indifferent) then
 
 
 if **You turn in:** [A Sealed Letter](/item/18814)
@@ -128,7 +122,7 @@ if **You turn in:** [A Sealed Letter](/item/18814)
 >**Toala Nehron says:** The Steel Warriors have no cause to dislike you, but you have yet to truly prove your worth to this guild.
 
 
-elseif(fac > 5) then
+elseif( **Faction is** < Indifferent) then
 
 
 if **You turn in:** [A Sealed Letter](/item/18814)

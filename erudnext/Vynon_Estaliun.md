@@ -57,7 +57,7 @@ if **Faction** >= Amiable and  **You turn in:** [Fishy Cat Tail](/item/13884)
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Torch](/item/13002), [Brass Ring](/item/13053)) (+2000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

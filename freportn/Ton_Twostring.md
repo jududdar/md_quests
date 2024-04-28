@@ -89,6 +89,6 @@ if **You turn in:** [A Pouch of Mail (Freeport)](/item/18164)
 * __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+100 exp)
 
 **This NPC *should* return incorrect items given.**

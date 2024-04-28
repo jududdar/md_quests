@@ -62,7 +62,7 @@ if **You turn in:** [A Canine](/item/12977), [A Canine](/item/12977), [A Canine]
 * __Faction:__ [Pirates of Gunthak](/faction/313) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Elven Trail Mix](/item/13155) (+10000 exp)
 
 elseif **You turn in:** [blood soaked note](/item/18076)
 

@@ -106,7 +106,7 @@ if(fac < 5 and  **You turn in:** [A Sealed Letter](/item/18814)
 
 
 
- **You receive:** None 
+ **You receive:**  [A Sealed Letter](/item/18814) 
 
 elseif(fac == 5 and  **You turn in:** [A Sealed Letter](/item/18814)
 

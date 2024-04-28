@@ -32,7 +32,7 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 * __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (2)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 
@@ -52,7 +52,7 @@ elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 * __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (4)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 
 **This NPC *should* return incorrect items given.**

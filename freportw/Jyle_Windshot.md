@@ -56,7 +56,7 @@ if **You turn in:** [Small Lantern](/item/13003)
 * __Faction:__ [Crushbone Orcs](/faction/234) (-1)
 
 
- **You receive:** eq.ChooseRandom( [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824),  [Wooden Shards](/item/13824), 12334) (+50 exp)
+ **You receive:** eq.ChooseRandom( [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [a wooden heart](/item/12334)) (+50 exp)
 
 **This NPC *should* return incorrect items given.**
 

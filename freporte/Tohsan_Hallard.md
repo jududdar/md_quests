@@ -39,7 +39,7 @@ if **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), 
 * __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (4)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Lottery Ticket \# 14350](/item/12264), [Lottery Ticket \# 14001](/item/12265), [Lottery Ticket \# 15600](/item/12261), [Lottery Ticket \# 15601](/item/12262), [Lottery Ticket \# 15602](/item/12263), [Lottery Ticket \# 16568](/item/12266)) (+200 exp)
 
 **This NPC *should* return incorrect items given.**
 

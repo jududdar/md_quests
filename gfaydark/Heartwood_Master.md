@@ -75,7 +75,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Short Sword](/item/50
 * __Faction:__ [Faydarks Champions](/faction/246) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Worn Great Staff](/item/6012)) (+250 exp)
 
 **This NPC *should* return incorrect items given.**
 

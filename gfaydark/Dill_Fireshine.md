@@ -147,17 +147,17 @@ if **Faction** >= Amiable and  **You turn in:** [Orc Hatchet](/item/12108), [Orc
 * __Faction:__ [Crushbone Orcs](/faction/234) (-2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) (+2500 exp)
 
 
-e.other:SummonItem(eq.ChooseRandom(5047,5048,7032,5046)); 
+ **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) 
 
 
 if ( math.random() < 0.5 ) then
 
 
 
-e.other:SummonItem(eq.ChooseRandom(5047,5048,7032,5046));
+ **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) 
 
 
 elseif **You turn in:** [A Sealed Letter](/item/18840)
@@ -204,7 +204,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)
 * __Faction:__ [Crushbone Orcs](/faction/234) (-5)
 
 
- **You receive:** eq.ChooseRandom( [Leather Skullcap](/item/2001), 2002, 2008, 2010, 2140, 2142, 2147, 2148) (+21800 exp)
+ **You receive:** eq.ChooseRandom( [Leather Skullcap](/item/2001), [Leather Mask](/item/2002), [Leather Sleeves](/item/2008), [Leather Gloves](/item/2010), [Raw-hide Tunic](/item/2140), [Raw-hide Cloak](/item/2142), [Raw-hide Leggings](/item/2147), [Raw-hide Boots](/item/2148)) (+21800 exp)
 
 **This NPC *should* return incorrect items given.**
 

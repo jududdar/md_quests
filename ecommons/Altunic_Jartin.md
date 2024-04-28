@@ -64,7 +64,7 @@ elseif **You turn in:** [A Human Head](/item/13867)
 * __Faction:__ [Steel Warriors](/faction/311) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 elseif **You turn in:** [Cloth Shirt](/item/1004)
 

@@ -7,7 +7,7 @@ local hour = zone_time["zone_hour"];
 
 local minute = zone_time["zone_minute"];
 
-eq.debug("Boat spawned! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Boat spawned! Name is: Golden Maiden Time is: " .. hour ..":" .. minute .. "", 1);
 
 ## Arrive at Waypoint Script
 
@@ -20,7 +20,7 @@ local minute = zone_time["zone_minute"];
 if(e.wp == 12) then
 
 
-eq.debug("Boat to Erudsxing has reached its destination! Name is: " .. e.self:GetName() .. " Time is: " .. hour ..":" .. minute .. "", 1);
+eq.debug("Boat to Erudsxing has reached its destination! Name is: Golden Maiden Time is: " .. hour ..":" .. minute .. "", 1);
 
 
 eq.spawn_condition("qeynos",3,0);

@@ -89,7 +89,7 @@ if **Faction** >= Amiable and  **You turn in:** [Snapped Pole](/item/13922)
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Raw-hide Sleeves](/item/2144), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Backpack](/item/17005)) (+4000 exp)
 
 elseif **Faction** >= Amiable and  **You turn in:** [Bag of Zombie Flesh](/item/13880)
 
@@ -109,7 +109,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Bag of Zombie Flesh](/item/
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Raw-hide Sleeves](/item/2144), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Backpack](/item/17005), [Spell: True North](/item/15205), [Spell: Cure Poison](/item/15203), [Spell: Divine Aura](/item/15207), [Spell: Flash of Light](/item/15201), [Spell: Lull](/item/15208), [Spell: Spook the Dead](/item/15209)) (+4000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

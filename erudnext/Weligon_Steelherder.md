@@ -278,7 +278,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Full Bag of Pearls](/item/1
 * __Faction:__ [Heretics](/faction/265) (-1)
 
 
- **You receive:** eq.ChooseRandom( [Patchwork Tunic](/item/2104), 2106, 2108, 2111, 2112) (+1000 exp)
+ **You receive:** eq.ChooseRandom( [Patchwork Tunic](/item/2104), [Patchwork Cloak](/item/2106), [Patchwork Sleeves](/item/2108), [Patchwork Pants](/item/2111), [Patchwork Boots](/item/2112)) (+1000 exp)
 
 elseif **Faction** >= Amiable +250 and  **You turn in:** [A Sealed List](/item/18835), [Human Decapitated Head](/item/13838), [Dwarf Decapitated Head](/item/13839), [Gnome Decapitated Head](/item/13840)
 

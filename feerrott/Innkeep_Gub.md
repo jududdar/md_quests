@@ -46,6 +46,6 @@ elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 * __Faction:__ [Oggok Guards](/faction/337) (3)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 **This NPC *should* return incorrect items given.**

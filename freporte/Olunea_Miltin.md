@@ -37,7 +37,7 @@ if **You turn in:** [Snapped Pole](/item/13922)
 * __Faction:__ [Priests of Marr](/faction/362) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Fishing Pole](/item/13100) (+2000 exp)
 
 **This NPC *should* return incorrect items given.**
 

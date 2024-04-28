@@ -64,7 +64,7 @@ if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/1210
 * __Faction:__ [Scouts of Tunare](/faction/316) (15)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Patchwork Tunic](/item/2104), [Patchwork Cloak](/item/2106), [Patchwork Sleeves](/item/2108), [Patchwork Pants](/item/2111), [Patchwork Boots](/item/2112)) (+800 exp)
 
 elseif **You turn in:** [Crumpled Piece of Paper](/item/16390)
 

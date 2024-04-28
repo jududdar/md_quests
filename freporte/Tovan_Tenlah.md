@@ -66,7 +66,10 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Rough Blue Gem](/item/19918)
 * __Faction:__ [The Freeport Militia](/faction/330) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Faceted Blue Gem](/item/19919) (+100 exp)
+
+
+ **You receive:**  [Dull Coalition Dirk](/item/19920) 
 
 **This NPC *should* return incorrect items given.**
 ;

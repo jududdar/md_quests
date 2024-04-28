@@ -30,7 +30,10 @@ if **You turn in:** [Sealed Parchment](/item/1772), [Odd Cold Iron Necklace](/it
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Odd Cold Iron Necklace](/item/14585) (+1000 exp)
+
+
+ **You receive:**  [Sealed Parchment](/item/1779) 
 
 
 local enchant_bars_lib = require("self_found_enchant_bars");
