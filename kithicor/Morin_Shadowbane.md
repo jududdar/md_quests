@@ -1,0 +1,69 @@
+# Morin Shadowbane
+## Dialog
+
+**You say:** `hail`
+
+
+
+>**Morin Shadowbane says:** Hail, Soandso. I am the leader of this beleagured troop of rangers. Even though the once fair Kithicor slowly succumbs to the [darkness] at hand, we shall not abandon the woods without a fight.
+
+**You say:** `darkness`
+
+
+
+>**Morin Shadowbane says:** The denizens of these woods are slowly being overrun by dark fiends and shadowed men. As valiantly as we have fought, our numbers dwindle. We know very little about our aggressors, but if we [acquire some information] or perhaps [fine weapons], then we may yet have a chance to retake the woods once more.
+
+**You say:** `acquire some information`
+
+
+
+>**Morin Shadowbane says:** Your tracking skills are invaluable to our cause, brave Soandso. Our scouts have reported of a Ghoul Messenger. They have spotted him traveling between Kithicor and an undead camp in the Plains of Karana. They have attempted to track the monster and obtain any Strategic Domumentation he may be carrying. Perhaps you can succeed where others have failed. Perhaps you can earn my personal short sword.
+
+**You say:** `fine weapons`
+
+
+
+>**Morin Shadowbane says:** My soldiers are valiant, but poorly equipped. I have heard of a magical weapon of great power, some call it the Ebony Blade. Amongst the Froglocks there can be found a Minotaur who wields this sword of might. If you are a ranger and could provide me with this sword then I would gladly exchange it with my own meager weapon. If you prefer, you may attempt to [acquire some information] for us instead.
+
+**You say:** `another service`
+
+
+
+>**Morin Shadowbane says:** Very well then, your help will bring us closer to solving the mystery of Kithicor! Find Bryn Fynndel in Lesser Faydark and tell him Morin sent you. His band of elven warriors are observing the activities of the Crushbone Orcs and Mistmoore dark elves, perhaps you can help them shed some light on our plight.
+end
+
+## Turn-Ins
+
+
+
+
+
+if **You turn in:** [A strategic map of Kithicor](/item/16548)
+
+
+>**Morin Shadowbane says:** Excellent work, Soandso!! It is obvious that you are a highly skilled tracker and warrior. Accept this reward, my personal sword which has served me well in countless battles. Perhaps you are willing to perform [another service] on our behalf?
+
+
+ **You receive:**  [Short Sword of Morin](/item/5422) (+5000 exp)
+
+elseif **You turn in:** [Ebony Bladed Sword](/item/5405)
+
+
+>**Morin Shadowbane says:** Excellent work, Soandso!! It is obvious that you are a highly skilled tracker and warrior. Accept this reward, my personal sword which has served me well in countless battles. Perhaps you are willing to perform [another service] on our behalf?
+
+
+ **You receive:**  [Short Sword of Morin](/item/5422) (+5000 exp)
+
+elseif **You turn in:** [Sealed Ghoul Boss' Log Book](/item/20638)
+
+
+>**Morin Shadowbane says:** We meet again, Soandso.  The ghoul boss' log reveals much of the machinations of our dark oppressors, but not enough.  Deliver these orders to Bryn in Lesser Faydark, and he will provide you with another weapon to aid in our defense of Kithicor.
+
+
+ **You receive:**  [Orders for Bryn](/item/20639) (+1000 exp)
+
+**This NPC *should* return incorrect items given.**
+
+
+
+

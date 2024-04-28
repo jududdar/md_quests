@@ -1,0 +1,76 @@
+# Clockwork VIIX
+
+
+## Dialog
+
+**You say:** `are you mizzle`
+
+
+
+>**Clockwork VIIX says:** Oh hello! I'm Mizzle, that I am. I bet you want to be given true clarity, don't you?
+
+**You say:** `required component`
+
+
+
+>**Clockwork VIIX says:** Then bring me a spoon, the one key, the lost scroll, and the book Charm and Sacrifice. I will then reward you with what you seek.
+
+**You say:** `spoon`
+
+
+
+>**Clockwork VIIX says:** Its a giant sized tool I will use to stir my magical pot. The spoon will help finish the ritual of crafting.
+
+**You say:** `one key`
+
+
+
+>**Clockwork VIIX says:** It is a key I lost long ago when I was travelling with a companion. We were traveling in the new lands flying over some large crevices when the key dropped out of my pocket.
+
+**You say:** `lost scroll`
+
+
+
+>**Clockwork VIIX says:** The lost scroll contains the magical incantation I need to help you out. It was penned ages ago by the Elves. It was lost along with its protector during one of the raids on the Outpost in Firiona. I fear it may be lost for good.
+
+**You say:** `book of charm and sacrifice`
+
+
+
+>**Clockwork VIIX says:** Oh, that is a book of good reading. If you want to take the time to read it. I haven't had much free time to read it, but now that you are getting supplies for me, I can take a break.
+
+**You say:** `sack`
+
+
+
+>**Clockwork VIIX says:** Before I provide the item, you must show me that you have spoken to Jeb.
+
+end
+
+## Turn-Ins
+
+
+
+if  **You turn in:** [Jeb's Seal](/item/10604)
+
+
+>**Clockwork VIIX says:** It is time then, are you ready to get the required components?
+
+
+ **You receive:**  [Jeb's Seal](/item/10604) 
+
+
+ **You receive:**  [An Enchanters Sack](/item/17861) 
+
+elseif  **You turn in:** [A Sack For Mizzle](/item/10636)
+
+
+>**Clockwork VIIX says:** Oh excellent, you have done what is required. Here take this part, and seek the third master, you are well on your way.
+
+
+* __Faction:__ [Truespirit](/faction/404) (100)
+
+
+ **You receive:**  [2nd Piece of Staff](/item/10611) (+10000 exp)
+
+**This NPC *should* return incorrect items given.**

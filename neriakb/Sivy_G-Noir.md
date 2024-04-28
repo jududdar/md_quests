@@ -1,0 +1,20 @@
+# Sivy G-Noir
+## Dialog
+
+**You say:** `hail`
+
+
+
+>**Sivy G-Noir says:** Do you wish to view my wares or have you simply come to gawk in awe?
+
+**You say:** `wares`
+
+
+
+>**Sivy G-Noir says:** The various molds that I have for sale are used in the smithing of weapons. Simply use the necessary molds with a sheet of metal, a forge, and a water flask. Weapons with hilts and pommels will also need molds for those pieces and weapons such as pole-arms and axes require an oak shaft.
+end
+
+
+
+
+

@@ -1,0 +1,91 @@
+# Lars McMannus
+## Dialog
+
+**You say:** `hail`
+
+
+
+>**Lars McMannus says:** Hello. The name's Lars McMannus of Clan McMannus.
+
+**You say:** `halas`
+
+
+
+
+
+>**Lars McMannus says:** Halas is the mighty city of the barbarians of the North. It lies among the Everfrost Peaks.
+
+**You say:** `frostbite`
+
+
+
+
+>**Lars McMannus says:** Frostbite is our trusty wolf. We found him as a pup.
+
+
+
+**You say:** `ulrich`
+
+
+
+
+>**Lars McMannus says:** He is my brother and the oldest of my siblings.
+
+**You say:** `misla`
+
+
+
+
+>**Lars McMannus says:** She is my sister.
+
+**You say:** `einhorst`
+
+
+
+
+>**Lars McMannus says:** He is my father. We hail from Halas.
+
+**You say:** `sera`
+
+
+
+
+>**Lars McMannus says:** She is my sister and the youngest of the clan.
+
+**You say:** `brenzl`
+
+
+
+
+>**Lars McMannus says:** He is my brother and a fine bowyer and net maker.
+
+**You say:** `junth`
+
+
+
+
+>**Lars McMannus says:** He is my brother.
+
+**You say:** `wolves of the north`
+
+
+
+
+>**Lars McMannus says:** The Wolves of the North are the barbarian warriors of Halas. All of us in Clan McMannus are members. Mess with us and you mess with the Wolves of the North.
+
+
+
+end
+
+## Arrive at Waypoint Script
+
+if(e.wp == 1 or e.wp == 6) then
+
+
+e.self:SetRunning(true);
+
+elseif(e.wp == 4 or e.wp == 7) then
+
+
+e.self:SetRunning(false);
+end
