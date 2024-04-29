@@ -170,10 +170,6 @@ repeat
 
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (1)
-
-
-
  **You receive:** 0 (+10 exp)
 
 

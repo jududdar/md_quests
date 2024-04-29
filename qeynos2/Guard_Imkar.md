@@ -11,7 +11,7 @@
 
 
 
->**Guard Imkar says:** I really don't know yet.  I just know that chills shoot up and down my spine when I pass certain places on my patrol.  My mother was of the consortium and told me I had the 'gift of sense.'  I think the chills are part of that gift.  Just be careful.  Especially near the entrances to the aqueducts below the city.
+>**Guard Imkar says:** I really don't know yet.  I just know that chills shoot up and down my spine when I pass certain places on my patrol.  My mother was a gypsy and told me I had the 'gift of sense.'  I think the chills are part of that gift.  Just be careful.  Especially near the entrances to the aqueducts below the city.
 
 **You say:** `gnoll`
 

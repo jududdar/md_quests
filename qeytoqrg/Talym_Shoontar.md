@@ -36,7 +36,7 @@ end
 
 
 
->**Talym Shoontar says:** Then do your best, whelp! I need the practice. I hope for your sake that my consortium friends are not nearby.
+>**Talym Shoontar says:** Then do your best, whelp! I need the practice. I hope for your sake that my gypsy friends are not nearby.
 
 **You say:** `no`
 

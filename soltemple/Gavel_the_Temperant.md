@@ -19,7 +19,7 @@
 
 
 
->**Gavel the Temperant says:** Regis the Reverent fell in love with a consortium woman named Lianna Ferasa who lives in the Rathe Mountains. Ask her what has become of him. Bring me the ingot of the Reverent, the icon of the Reverent, and two enchanted platinum bars and I will forge them into a reward for you.
+>**Gavel the Temperant says:** Regis the Reverent fell in love with a gypsy girl named Lianna Ferasa who lives in the Rathe Mountains. Ask her what has become of him. Bring me the ingot of the Reverent, the icon of the Reverent, and two enchanted platinum bars and I will forge them into a reward for you.
 
 **You say:** `constant`
 

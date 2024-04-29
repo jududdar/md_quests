@@ -100,7 +100,7 @@ CrocUp = CrocUp - 1;
 if(CrocUp == 0) then
 
 
-**Set a timer** named *spawn timer* for 975 seconds
+**Set a timer** named *spawn timer* for 487 seconds
 end
 
 ## Timer(s)
@@ -113,5 +113,3 @@ croc_spawns();
 
 **Stop timer** named *spawn timer*
 end
-
-

@@ -44,7 +44,7 @@ if **Faction** >= Indifferent then
 
 
 
->**Cryssia Stardreamer says:** This is the most difficult piece to make. In order for me to craft it I will be needing a Basalt Carapace, a Consortium Lute, and a Lambent Ruby. Return to me with these and I will craft your breastplate.
+>**Cryssia Stardreamer says:** This is the most difficult piece to make. In order for me to craft it I will be needing a Basalt Carapace, a Gypsy Lute, and a Lambent Ruby. Return to me with these and I will craft your breastplate.
 
 
 **You say:** `helm`
