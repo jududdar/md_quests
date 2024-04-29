@@ -132,7 +132,7 @@ repeat
 
 
 
- **You receive:** 0 (+[Minor Healing](/spell/200) exp)
+ **You receive:** 0 (+200 exp)
 
 
 
@@ -173,6 +173,6 @@ elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073)) t
 
 
 
- **You receive:** 0 (+[Minor Healing](/spell/200) exp)
+ **You receive:** 0 (+200 exp)
 
 **This NPC *should* return incorrect items given.**
