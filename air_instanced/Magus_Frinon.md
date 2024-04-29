@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Forms of Magic](/item/18532)
+if( **You turn in:** [Forms of Magic](/item/18532)) then 
 
 
 >**Magus Frinon says:** Till next time!  Farewell!
@@ -47,7 +47,7 @@ if **You turn in:** [Forms of Magic](/item/18532)
 
 **Magus Frinon despawns.**
 
-elseif **You turn in:** [Channeling](/item/18533)
+elseif( **You turn in:** [Channeling](/item/18533)) then 
 
 
 >**Magus Frinon says:** Till next time!  Farewell!

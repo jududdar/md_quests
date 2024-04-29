@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [a rabbit foot](/item/6883)
+if( **You turn in:** [a rabbit foot](/item/6883)) then 
 
 
 >**Debbis the Fish says:** Oh wow! A rabbits foot!! Thank you so much. Here take this, I won't need this smelly thing any more.

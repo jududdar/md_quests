@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Fresh Chunk of Wooly Rhino](/item/30066), [Fresh Chunk of Wooly Rhino](/item/30066), [Fresh Chunk of Wooly Rhino](/item/30066), [Fresh Chunk of Wooly Rhino](/item/30066)
+if( **You turn in:** [Fresh Chunk of Wooly Rhino](/item/30066), [Fresh Chunk of Wooly Rhino](/item/30066), [Fresh Chunk of Wooly Rhino](/item/30066), [Fresh Chunk of Wooly Rhino](/item/30066)) then 
 
 
 >*mist panther jumps at you and snatches the meat from your hand.  It runs away from you and feasts on the other side of the water.  As it runs away you notice a small shiny object fall from its mouth.*

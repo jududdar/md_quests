@@ -46,7 +46,7 @@ end
 
 
 
-if **You turn in:** [Griffon Statuette](/item/20950), [Blood Sky Emerald](/item/20703), [Rusted Pauldrons](/item/20704)
+if( **You turn in:** [Griffon Statuette](/item/20950), [Blood Sky Emerald](/item/20703), [Rusted Pauldrons](/item/20704)) then 
 
 
 
@@ -57,7 +57,7 @@ if **You turn in:** [Griffon Statuette](/item/20950), [Blood Sky Emerald](/item/
  **You receive:**  [Blood Sky Face Plate](/item/4322) (+100000 exp)
 
 
-elseif **You turn in:** [Efreeti War Shield](/item/20705), [Dark Spiroc Feather](/item/20957), [Obsidian Shard](/item/20706)
+elseif( **You turn in:** [Efreeti War Shield](/item/20705), [Dark Spiroc Feather](/item/20957), [Obsidian Shard](/item/20706)) then 
 
 
 
@@ -70,7 +70,7 @@ elseif **You turn in:** [Efreeti War Shield](/item/20705), [Dark Spiroc Feather]
  **You receive:**  [Obtenebrate Mithril Guard](/item/11678) (+100000 exp)
 
 
-elseif **You turn in:** [Large Sky Pearl](/item/20707), [Jar of Honey](/item/20708), [Sphinxian Ring](/item/20709), [Fae Pauldrons](/item/20710)
+elseif( **You turn in:** [Large Sky Pearl](/item/20707), [Jar of Honey](/item/20708), [Sphinxian Ring](/item/20709), [Fae Pauldrons](/item/20710)) then 
 
 
 
@@ -80,7 +80,7 @@ elseif **You turn in:** [Large Sky Pearl](/item/20707), [Jar of Honey](/item/207
  **You receive:**  [Pearlescent Pauldrons](/item/11699) (+100000 exp)
 
 
-elseif **You turn in:** [Efreeti War Axe](/item/20711), [Dulcet Nectar](/item/20964), [Blood Sky Ruby](/item/20713), [Bloodstained Hilt](/item/20712)
+elseif( **You turn in:** [Efreeti War Axe](/item/20711), [Dulcet Nectar](/item/20964), [Blood Sky Ruby](/item/20713), [Bloodstained Hilt](/item/20712)) then 
 
 
 

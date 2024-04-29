@@ -108,7 +108,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Note to Torin Krentar](/item/20207)
+if(expansion_flag >= 4.0 and  **You turn in:** [Note to Torin Krentar](/item/20207)) then
 
 
 >**Torin Krentar says:** Well met young disciple of Bertoxxulous. Perhaps one day you shall serve the Plague Lord in his realm, but for now you will serve the Bloodsabers, his mortal agents on Norrath. The armor you seek must be assembled using this Mail Assembly Kit. The materials necessary to construct the armor vary depending on the piece being crafted. Do you wish to craft [Gauntlets] of the Pestilence Priests, [Boots] of the Pestilence Priests, a [Bracer] of the Pestilence Priests, a [Helm] of the Pestilence Priests, [Greaves] of the Pestilence Priests, [Vambraces] of the Pestilence Priests, or a [Breastplate] of the Pestilence Priests?
@@ -116,7 +116,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Note to Torin Krentar](/item/202
 
  **You receive:**  [Mail Assembly Kit](/item/17124) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Bloodsaber Mace](/item/20199), [Giant King Snake Skin](/item/19946)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Bloodsaber Mace](/item/20199), [Giant King Snake Skin](/item/19946)) then
 
 
 >*Torin Krentar fashions a grip from the giant king snake skin and polishes the mace with a strange dark substance. 'Wield it with pride young priest, may you spread the disease!*

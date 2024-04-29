@@ -61,7 +61,7 @@ end
 if ( **Faction is** >= Indifferent) then 
 
 
-if **You turn in:** [Giant Leopard Hide](/item/6960), [Giant White Sabertooth Hide](/item/6946)
+if( **You turn in:** [Giant Leopard Hide](/item/6960), [Giant White Sabertooth Hide](/item/6946)) then 
 
 
 
@@ -88,7 +88,7 @@ if **You turn in:** [Giant Leopard Hide](/item/6960), [Giant White Sabertooth Hi
  **You receive:**  [Astral Cloak of the Titans](/item/2573) (+500 exp)
 
 
-elseif **You turn in:** [Gigantic Gorilla Hide](/item/6958), [Gargantuan Panda Pelt](/item/6964)
+elseif( **You turn in:** [Gigantic Gorilla Hide](/item/6958), [Gargantuan Panda Pelt](/item/6964)) then 
 
 
 
@@ -116,7 +116,7 @@ elseif **You turn in:** [Gigantic Gorilla Hide](/item/6958), [Gargantuan Panda P
  **You receive:**  [Astral Leggings of the Titans](/item/2575) (+500 exp)
 
 
-elseif **You turn in:** [Ancient Snake Skin](/item/6947), [Platinum Thread](/item/12097)
+elseif( **You turn in:** [Ancient Snake Skin](/item/6947), [Platinum Thread](/item/12097)) then 
 
 
 

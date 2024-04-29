@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Marked Runed Signet](/item/16256), [Hope Stone](/item/16258)
+if( **You turn in:** [Marked Runed Signet](/item/16256), [Hope Stone](/item/16258) and not **You possess item:**  [Signet of Might](/item/16255) x 1
 
 
 >**Councilman Taldarius says:** Wonderful! You have proven yourself as both a Master of the Trade as well as a valiant spirit. Take this and may it server you well! If this signet does not suffice, bring it back to me and i will exchange it for one more attuned to your needs.
@@ -33,7 +33,7 @@ if **You turn in:** [Marked Runed Signet](/item/16256), [Hope Stone](/item/16258
 
  **You receive:**  [Signet of Might](/item/16255) 
 
-elseif **You turn in:** [Signet of Might](/item/16255)
+elseif( **You turn in:** [Signet of Might](/item/16255)) then 
 
 
 >**Councilman Taldarius says:** I hope this is more attuned to your needs.
@@ -41,7 +41,7 @@ elseif **You turn in:** [Signet of Might](/item/16255)
 
  **You receive:**  [Signet of  the Arcane](/item/16257) 
 
-elseif **You turn in:** [Signet of  the Arcane](/item/16257)
+elseif( **You turn in:** [Signet of  the Arcane](/item/16257)) then 
 
 
 >**Councilman Taldarius says:** I hope this is more attuned to your needs.

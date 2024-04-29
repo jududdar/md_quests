@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Hardened Buckler of the Beetle](/item/3466)
+if( **You turn in:** [Hardened Buckler of the Beetle](/item/3466)) then
 
 
 >*Taruun Joharr takes the buckler and spins it in his hand for a moment. Eventually he says*
@@ -13,9 +13,9 @@ if **You turn in:** [Hardened Buckler of the Beetle](/item/3466)
 >**Taruun Joharr says:** I suppose assumin' you were sent here by Harbin isn't too far from the reality of things. I'll try to think of a few things for you to do, but in the meantime, take these daggers and practice until you can use both of them. You need to get out of the habit of toting this shield around. If your enemy is gettin' close enough to hit you on it, you ain't doin' your job right anyway. I'll do what I can to train you from here, but I'm going to need to eat first. It's been a while since my last meal. Take this meal voucher to Cook Yalkiin. Once they fill the order bring it back and we'll start your lesson. Now scoot.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Meal Voucher](/item/5559), [Black Handled Dagger](/item/5560), [Black Handled Dagger](/item/5561)) 
 
-elseif **You turn in:** [Bag of Food](/item/5563)
+elseif( **You turn in:** [Bag of Food](/item/5563)) then
 
 
 >*Taruun Joharr takes the bag and takes a huge bite of the sandwich.*
@@ -35,7 +35,7 @@ elseif **You turn in:** [Bag of Food](/item/5563)
 
  **You receive:**  [Worn Scoutpack](/item/17607) (+1250 exp)
 
-elseif **You turn in:** [Pack of Skulls](/item/5568)
+elseif( **You turn in:** [Pack of Skulls](/item/5568)) then
 
 
 >**Taruun Joharr says:** Very good, Soandso! Elder Ternq will be very pleased with the results of your patrol. Take this regional status report to him and see if he has anything else for you to do. Your skill as a hunter is really starting to show. You can keep the daggers that I gave you. Make good use of them. I'm sure that you're going to be too busy to come back this way for a bit. Take care.

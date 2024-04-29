@@ -85,7 +85,7 @@ end
 
 
 
-if **You turn in:** [Book of Scale](/item/18302)
+if( **You turn in:** [Book of Scale](/item/18302)) then 
 
 
 >**Oracle of K-Arnon says:** Unbelievable! The legendary Book of Scale is mine! Please, take this as a small token of my thanks. I warn you however, if you ever manage to join the corporeal body to the evil that resides within, you will rue the day.
@@ -99,7 +99,7 @@ if **You turn in:** [Book of Scale](/item/18302)
 
  **You receive:**  [Miragul's Phylactery](/item/19072) (+25000 exp)
 
-elseif **You turn in:** [Book of Turmoil](/item/18202)
+elseif( **You turn in:** [Book of Turmoil](/item/18202)) then 
 
 
 >**Oracle of K-Arnon says:** Thank thee for this tome. Be sure to check back with me later, as I might have another task for thee.

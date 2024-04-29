@@ -41,7 +41,7 @@ local text = "Come now.. I said I require the ring of the Dead and 10 gold piece
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Ring of the Dead](/item/13394), gold = 10
+if **Faction** >= Kindly and  **You turn in:** [Ring of the Dead](/item/13394), gold = 10) then 
 
 
 >**Xantis Ixtax says:** Here you are, disciple. I have enchanted your ring once more.

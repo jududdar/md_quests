@@ -34,7 +34,7 @@ local text = "Did I not ask for FOUR scrolls? What are you? Some kind of idiot?"
 
 
 
-if **You turn in:** [Helle Splitpaw-Haut](/item/18504), [Tanned Split Paw Skin](/item/18505), [Tanned Split Paw Skin](/item/18506), [Tanned Split Paw Skin](/item/18507)
+if( **You turn in:** [Helle Splitpaw-Haut](/item/18504), [Tanned Split Paw Skin](/item/18505), [Tanned Split Paw Skin](/item/18506), [Tanned Split Paw Skin](/item/18507)) then
 
 
 
@@ -43,9 +43,9 @@ if **You turn in:** [Helle Splitpaw-Haut](/item/18504), [Tanned Split Paw Skin](
 >**Umvera Dekash says:** It's about time. Let's see here. Right.. right.. right. Very good. Right. There you are! I translated the text. Now the scrolls need to be bound. Take these scrolls to Jheron Felkis in Freeport. I believe he is staying in one of the spare rooms in Velith and Bardo's establishment. He will ensure they are bound correctly. Return to me when the binding is complete.
 
 
- **You receive:** None 
+ **You receive:**  [Tesch Val Compilation](/item/18508) (+2500 exp)
 
-elseif **You turn in:** [Pawbook](/item/18510)
+elseif( **You turn in:** [Pawbook](/item/18510)) then
 
 
 
@@ -54,6 +54,6 @@ elseif **You turn in:** [Pawbook](/item/18510)
 >**Umvera Dekash says:** You have returned safely. That is wonderful! Where the heck is my book, child? In my hands, I see. Such a bright little twinkle you are! Well, let me scribble something down on this pad here. There you are. Take this note to Durkis Battlemore in the Butcherblock Mountains. He is a remarkable smith, but more importantly, he owes me for his smithing books.
 
 
- **You receive:** None 
+ **You receive:**  [A Note To Battlemore](/item/8910) (+12000 exp)
 
 **This NPC *should* return incorrect items given.**

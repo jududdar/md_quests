@@ -6,7 +6,7 @@
 
 
 
-if **You turn in:** [Full Muffin Crate](/item/1839)
+if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
 
 
 >**Innkeep Rille says:** These are quality muffins! You are obviously quite a skilled baker. Here is your payment as promised. Now I can get back to business again.
@@ -26,7 +26,7 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
+elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
 
 
 >**Innkeep Rille says:** Oh, wonderful fresh bread! Thank you for making the trip, that is such a long way. Here, I hope this covers your travel expenses. You have my deepest thanks.

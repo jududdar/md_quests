@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A Tribal Prowler's Pelt](/item/31475)
+if( **You turn in:** [A Tribal Prowler's Pelt](/item/31475)) then
 
 
  **You receive:**  [Sambata Tribal Warbeads](/item/29900) 

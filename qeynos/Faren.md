@@ -75,7 +75,7 @@ end
 
 
 
-if **You turn in:** [Wooden Fishing Tackle](/item/13702)
+if( **You turn in:** [Wooden Fishing Tackle](/item/13702)) then
 
 
 >**Faren says:** Thank you so much! If you want some free advice, steer clear of those [Irontoes]! They are nothing but trouble. Here, It's not much but I must thank you somehow.
@@ -99,6 +99,6 @@ if **You turn in:** [Wooden Fishing Tackle](/item/13702)
 * __Faction:__ [Merchants of Qeynos](/faction/291) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Hurrieta's Tunic](/item/13129) (+200 exp)
 
 **This NPC *should* return incorrect items given.**

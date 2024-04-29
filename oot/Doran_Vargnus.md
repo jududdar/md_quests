@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Knight](/item/13995)
+if( **You turn in:** [Knight](/item/13995)) then
 
 
 >**Doran Vargnus says:** Ahh! You must have been sent by Beno of the Stormguard. I have been wondering when he would return my card. I have not been playing with a full deck. How about a reward? Hmm. Let's see what I have lying around... Here! Take this. I cannot possibly give you any of my good armor.

@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Honeyed Nectar](/item/20963), [Bixie Stinger](/item/20994), [Lightning Rod](/item/20995), [Bloodsky Sapphire](/item/20996)
+if( **You turn in:** [Honeyed Nectar](/item/20963), [Bixie Stinger](/item/20994), [Lightning Rod](/item/20995), [Bloodsky Sapphire](/item/20996)) then  
 
 
 
@@ -48,7 +48,7 @@ if **You turn in:** [Honeyed Nectar](/item/20963), [Bixie Stinger](/item/20994),
 
 **Rayne despawns.**
 
-elseif **You turn in:** [Pegasus Statuette](/item/20949), [Prismatic Sphere](/item/20990), [A fine wool cloak](/item/20991)
+elseif( **You turn in:** [Pegasus Statuette](/item/20949), [Prismatic Sphere](/item/20990), [A fine wool cloak](/item/20991)) then 
 
 
 
@@ -60,7 +60,7 @@ elseif **You turn in:** [Pegasus Statuette](/item/20949), [Prismatic Sphere](/it
 
 **Rayne despawns.**
 
-elseif **You turn in:** [Bronze Disc](/item/20935), [Jester's Mask](/item/20987), [Red Face Paint](/item/20986)
+elseif( **You turn in:** [Bronze Disc](/item/20935), [Jester's Mask](/item/20987), [Red Face Paint](/item/20986)) then 
 
 
 

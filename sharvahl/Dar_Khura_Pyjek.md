@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Tailfangs Tail](/item/30667)
+if( **You turn in:** [Tailfangs Tail](/item/30667)) then
 
 
 >**Dar Khura Pyjek says:** Great spirit you've done it! Thank you Soandso. we are in your debt. You have earned this weapon of the venomous scourge. wield it with honor and pride.

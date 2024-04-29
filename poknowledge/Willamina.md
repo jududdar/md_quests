@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [New Sewing Needles](/item/28092)
+if( **You turn in:** [New Sewing Needles](/item/28092)) then 
 
 
 
@@ -47,7 +47,7 @@ if **You turn in:** [New Sewing Needles](/item/28092)
 
 
 
- **You receive:** None 
+ **You receive:**  [Planar Traveler's Manual](/item/28745) (+100 exp)
 
 
 

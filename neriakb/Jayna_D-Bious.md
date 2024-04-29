@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18754)
+if( **You turn in:** [A tattered note](/item/18754)) then 
 
 
 >**Jayna D-Bious says:** Welcome, young magician. I am Jayna D'Bious. You have much to learn, so let's get you started. Here is your guild tunic.  Go find Belux, he is in charge of instructing our new recruits.  Study hard, and you will do well.

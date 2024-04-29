@@ -96,7 +96,7 @@ local text3 = "I will require four sarnak whelp brains for my experiment. When I
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408)
+if **Faction** >= Amiable and  **You turn in:** [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408)) then
 
 
 >**Master Xydoz says:** Good work, my young apprentice. You will make a fine addition to our ranks. Here is your first apprentice skullcap. Wear it as a sign of our circle. Do not lose it. Someday you shall wear a necromancer skullcap, but next shall come the [second rank skullcap].
@@ -110,7 +110,7 @@ if **Faction** >= Amiable and  **You turn in:** [Sarnak Hatchling Brain](/item/1
 
  **You receive:**  [Apprentice Skullcap - 1st Rank](/item/4260) (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Apprentice Skullcap - 1st Rank](/item/4260), [Mended Tapestry](/item/18208)
+elseif **Faction** >= Amiable and  **You turn in:** [Apprentice Skullcap - 1st Rank](/item/4260), [Mended Tapestry](/item/18208)) then
 
 
 >**Master Xydoz says:** A job well done, apprentice Soandso. Your fine service shall earn you the second circle apprentice skullcap. I would advise you to forget this tapestry, it is nothing more than an ancient rug of no importance.
@@ -124,7 +124,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Apprentice Skullcap - 1st R
 
  **You receive:**  [Apprentice Skullcap - 2nd Rank](/item/4261) (+120 exp)
 
-elseif **You turn in:** [Illegible Note: Greaves](/item/14793)
+elseif( **You turn in:** [Illegible Note: Greaves](/item/14793)) then
 
 
 >*Master Xydoz snatches the paper from your hand and hisses in anger. Without even looking at the paper he growls*
@@ -132,7 +132,7 @@ elseif **You turn in:** [Illegible Note: Greaves](/item/14793)
 
 >**Master Xydoz says:** WHAT?! What is this tra... He stares down at the paper, mouth hanging open wide in disbelief. He finally continues, saying, Very well, then. If you wish to know confidence I have a task for you. Our hated enemies, the sarnak, have a tome we have sought to return to our libraries for centuries. At this point, we believe it to be found in a small fortress they maintain near the Great Lake. One of their scholars will most likely have it on their person. Bring it to me along with two star rubies.
 
-elseif **You turn in:** [Iron Bound Tome](/item/14811), [Star Ruby](/item/10032), [Star Ruby](/item/10032)
+elseif( **You turn in:** [Iron Bound Tome](/item/14811), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
 
 
 >**Master Xydoz says:** Well done

@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [a sealed letter](/item/18833)
+if( **You turn in:** [a sealed letter](/item/18833)) then
 
 
 >**Emil Parsini says:** I have been waiting for someone to come and retrieve this staff. Here you are. You will have to combine it with treant resin and an Odus pearl. You can find Odus pearls in the water in the harbor. As for the resin. I can make it if you can find me some treant shards.  Maybe another woodworker or cobbler in Qeynos has some.
@@ -34,7 +34,7 @@ if **You turn in:** [a sealed letter](/item/18833)
 
  **You receive:**  [Peacekeeper Staff](/item/17917) (+2500 exp)
 
-elseif **You turn in:** [Wooden Shards](/item/13824)
+elseif( **You turn in:** [Wooden Shards](/item/13824)) then
 
 
 >**Emil Parsini says:** Wonderful work!! These shards will work nicely. Here you are then. I found a few flasks of treant resin in the back. You can have one. Thanks again. It kept me from having to go out and hunt treants.

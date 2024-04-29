@@ -147,7 +147,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Wisp Essence](/item/27399), [Wisp Essence](/item/27399), [Flawless Gnoll Hides](/item/27417), [Flawless Gnoll Hides](/item/27417)
+if(expansion_flag >= 4.0 and  **You turn in:** [Wisp Essence](/item/27399), [Wisp Essence](/item/27399), [Flawless Gnoll Hides](/item/27417), [Flawless Gnoll Hides](/item/27417)) then
 
 
 >**Davloran Girionlis says:** These are exactly what I needed! Its for sure that I have a lot to learn about Smithing but low and behold I was able to create this fine blade out of my remaining materials. Please carry it with you as a symbol of my gratitude. Rodcet smiles down upon you young Soandso, you have done well.
@@ -168,7 +168,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Wisp Essence](/item/27399), [Wis
 * __Faction:__ [Guards of Qeynos](/faction/262) (7)
 
 
- **You receive:** None 
+ **You receive:**  [Rodcet Nife Defenders Blade](/item/27490) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

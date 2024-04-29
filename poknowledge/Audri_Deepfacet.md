@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Permafrost Crystals](/item/22121)
+if( **You turn in:** [Permafrost Crystals](/item/22121)) then
 
 
 >**Audri Deepfacet says:** It is so lovely, just as I saw before! I believe I can fashion something quite nice for you out of it. I need only a chip to study for myself. Thanks so much! 

@@ -155,7 +155,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if (expansion_flag >= 4.0 and  **You turn in:** [War Documents pg1](/item/22940), [War Documents pg2](/item/22941), [War Documents pg3](/item/22942), [War Documents pg4](/item/22943)
+if (expansion_flag >= 4.0 and  **You turn in:** [War Documents pg1](/item/22940), [War Documents pg2](/item/22941), [War Documents pg3](/item/22942), [War Documents pg4](/item/22943)) then
   
 
 >**Dalorio Blistbobble says:** Your good deeds shall be echoed in the Rivervale Hall of Heroes for many years to come. With these documents I will be able to have my army prepared for whatever they decide to come at us with. I thank you, young Warhumago. Please take this sword as a symbol of your loyalty to the Vale.

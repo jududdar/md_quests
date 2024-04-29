@@ -44,7 +44,7 @@ local text = "No reward until I've got TWO wrath orc wristbands!";
 
 
 
-if **You turn in:** [Polar Bear Skin](/item/13761)
+if( **You turn in:** [Polar Bear Skin](/item/13761)) then 
 
 
 >**Cindl says:** This is much apprreciated! Please accept this used armor in return and a gold piece as well, fer yer troubles. Ye've done well! I may have a [second job] fer ye, if ye like?
@@ -64,9 +64,9 @@ if **You turn in:** [Polar Bear Skin](/item/13761)
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Large Tattered Belt](/item/2131), [Large Tattered Gloves](/item/2134), [Large Tattered Gorget](/item/2127), [Large Tattered Mask](/item/2126), [Large Tattered Shoulderpads](/item/2129), [Large Tattered Skullcap](/item/2125), [Large Tattered Wristbands](/item/2133)) (+1000 exp)
 
-elseif **You turn in:** [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223)
+elseif( **You turn in:** [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223)) then 
 
 
 >**Cindl says:** Fine work hunter!  As your reward please accept this item which I have fashioned for you.
@@ -88,7 +88,7 @@ elseif **You turn in:** [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristban
 
 
 
- **You receive:** eq.ChooseRandom( [Large Leather Gloves](/item/2034), 2171, 2164) (+1000 exp)
+ **You receive:** eq.ChooseRandom( [Large Leather Gloves](/item/2034), [Large Raw-hide Leggings](/item/2171), [Large Raw-hide Tunic](/item/2164)) (+1000 exp)
 
 
 **This NPC *should* return incorrect items given.**

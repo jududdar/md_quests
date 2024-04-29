@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Stupendous Tome](/item/18051), [Crusader's Coffin](/item/17031)
+if( **You turn in:** [Stupendous Tome](/item/18051), [Crusader's Coffin](/item/17031)) then
 
 
 >**Crusader Vragor says:** The tome! I can finally pass on in peace. Before I go I will tell you that Zhaoku rests to the east of here near Old Sebilis. He is gigantic and not easily missed.

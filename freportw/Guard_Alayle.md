@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Letter](/item/18817)
+if( **You turn in:** [A Sealed Letter](/item/18817)) then 
 
 
 >**Guard Alayle says:** This is not good news. I must leave immediately. Here. Take this to Kala.. I mean my father. I found it on the floor of Sir Lucan D'Lere's quarters. Thanks again, messenger. I got this just in time.

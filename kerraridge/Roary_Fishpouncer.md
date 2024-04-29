@@ -22,7 +22,7 @@ local text = "Rrrrr... I need both the spear and a frrresh fish to prrrepare the
 
 
 
-if **You turn in:** [Raw Darkwater Piranha](/item/12318)
+if( **You turn in:** [Raw Darkwater Piranha](/item/12318)) then
 
 
 >**Roary Fishpouncer says:** Rrrr... my mouth is waterrring alrrrready. Ourrr trribe shall feast well tonight. You have prrroven yourself a fisherrrman worrrthy of one of my special spearrrs. They are coated with a specially prrrepared fish oil. When all the oil has washed off, you may rrreturn the spear to me along with a frrresh fish and I will rrreapply the oil for you.
@@ -34,7 +34,7 @@ if **You turn in:** [Raw Darkwater Piranha](/item/12318)
 
  **You receive:**  [Kerran Fishing Spear](/item/7027) 
 
-elseif **You turn in:** [Kerran Fishing Spear](/item/7027), [Fresh Fish](/item/13019)
+elseif( **You turn in:** [Kerran Fishing Spear](/item/7027), [Fresh Fish](/item/13019)) then 
 
 
 >**Roary Fishpouncer says:** Rrrr... been doing some deepwater fishing, I presume? Here is your spear with a frrresh coat of my special oil.

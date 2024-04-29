@@ -131,7 +131,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Vial of Gnoll Blood](/item/27423), [Vial of Gnoll Blood](/item/27423), [Gnoll Pelvis](/item/27424), [Gnoll Pelvis](/item/27424)
+if(expansion_flag >= 4.0 and  **You turn in:** [Vial of Gnoll Blood](/item/27423), [Vial of Gnoll Blood](/item/27423), [Gnoll Pelvis](/item/27424), [Gnoll Pelvis](/item/27424)) then
 
 
 >**Sollari Bekines says:** I will get this to my friend at once so that he can finish his antidote. I appreciate all you have done for me and you have surely proven yourself as a worth songweaver! Please take this blade I have forged for all graduates of my tests. May it lead you to unforeseen treasures and guard you always.
@@ -155,7 +155,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Vial of Gnoll Blood](/item/27423
 * __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Wind Spirits Longsword](/item/27493) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

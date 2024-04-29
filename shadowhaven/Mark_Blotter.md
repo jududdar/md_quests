@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** gold = 1000
+if( **You turn in:** gold = 1000) then
 
 
 >**Mark Blotter says:** Here it is, I am sure you will be very satisfied with this purchase!

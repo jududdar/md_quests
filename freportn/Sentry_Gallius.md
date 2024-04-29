@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Part of Potion of Marr](/item/12129)
+if( **You turn in:** [Part of Potion of Marr](/item/12129)) then
 
 
 >**Sentry Gallius says:** Excellent!! I feel quite refreshed with but a sip. You may take this to the next sentry.

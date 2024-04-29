@@ -56,7 +56,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Halfling Head](/item/13111)
+if( **Faction is** > Indifferent and  **You turn in:** [Halfling Head](/item/13111)) then
 
 
 >**Captain Boshinko says:** Good work, bounty hunter! You have served your legend well. I hope a few plat is good enough and, please, take this item we confiscated from one of our guests now serving time in our dungeon.

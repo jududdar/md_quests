@@ -60,7 +60,7 @@ end
 
 
 
-if **You turn in:** [Lion Delight](/item/12221)
+if( **You turn in:** [Lion Delight](/item/12221)) then
 
 
 >*Iceberg growls with happiness and licks your face.  Just enough time to swipe the sweaty shirt from his collar!!  Iceberg then runs off to enjoy his lion delight!!*

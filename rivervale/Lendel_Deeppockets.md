@@ -147,7 +147,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if **You turn in:** [A tattered note](/item/18732)
+if( **You turn in:** [A tattered note](/item/18732)) then 
 
 
 >**Lendel Deeppockets says:** HA! I asked that fool Denry to send me a professional, and this is what I get?!? Oh diddlepicks! That crotchety old coot never liked me anyway. And after all I've done for him! Hrrmf! Ah well, let's get you started and see what ya got, huh, kid? Here, wear this. Maybe I'll have Toelia break you in, huh? Yeah, that'll work! Go find her, and she'll put you to work. Just remember, we all earn our keep around here, or else it's back to hay farm for you! Oh yeah, tell her you're the [new dishwasher] so she knows you are on the level.
@@ -170,7 +170,7 @@ if **You turn in:** [A tattered note](/item/18732)
 
  **You receive:**  [Old Brown Vest*](/item/13539) (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Orc Bone Fragments](/item/22693), [Fractured Orc Jawbone](/item/22694)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Orc Bone Fragments](/item/22693), [Fractured Orc Jawbone](/item/22694)) then
 
 
 * __Faction:__ [Deeppockets](/faction/241) (10)

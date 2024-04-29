@@ -123,7 +123,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Kilij Plans](/item/12206)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Kilij Plans](/item/12206)) then 
 
 
 >**Nicholas says:** Ahh!!  The kilij!!  The legend was true.  As for you..  the mold for the Boots of Ro.  Go and speak with Thomas for the final component.  Ask him of [Lord Searfire].  Brell be with you.

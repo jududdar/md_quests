@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Black Lava Powder](/item/28090)
+if( **You turn in:** [Black Lava Powder](/item/28090)) then
 
 
 >*Mirao Frostpouch takes the powder and quickly dashes it into a boiling cauldron. He then stirs it and pours the concoction into a small bottle. 'Here you go, this should make poor Bolcen feel much better. Hurry now, he's waiting.*

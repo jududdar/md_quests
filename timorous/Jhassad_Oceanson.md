@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Orb of Clear Water](/item/28048), [Orb of Frozen Water](/item/28049), [Orb of Vapor](/item/28050)
+if( **You turn in:** [Orb of Clear Water](/item/28048), [Orb of Frozen Water](/item/28049), [Orb of Vapor](/item/28050)) then 
 
 
 >*Jhassad Oceanson kneels in the sand and places the three orbs into a large abalone shell bowl. A blue glow surrounds his hands as he waves them over the orbs resting in the bowl. The orbs crack and fall apart, releasing their contents, then reform into a single glowing orb. Jhassad Oceanson gently removes the Orb of the Triumvirate and places it in your hands.*

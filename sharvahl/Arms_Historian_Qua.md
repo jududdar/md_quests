@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Note for Historian Qua](/item/9049)
+if( **You turn in:** [Note for Historian Qua](/item/9049)) then
 
 
 >**Arms Historian Qua says:** It is a pleasure to meet you, Soandso. The Animists mentioned that someone would be by, but for me not to wait, so I sent the information that they requested to Weapons Master Rahoul. He is having a master smith finish the blades.

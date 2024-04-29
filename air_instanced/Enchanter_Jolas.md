@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Practical Uses](/item/18535)
+if( **You turn in:** [Practical Uses](/item/18535)) then 
 
 
 >**Enchanter Jolas says:** Till next time!  Farewell!
@@ -47,7 +47,7 @@ if **You turn in:** [Practical Uses](/item/18535)
 
 **Enchanter Jolas despawns.**
 
-elseif **You turn in:** [Tempt and Suggestion](/item/18534)
+elseif( **You turn in:** [Tempt and Suggestion](/item/18534)) then 
 
 
 >**Enchanter Jolas says:** Till next time!  Farewell!

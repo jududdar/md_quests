@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [Sealed Box](/item/28057)
+if( **You turn in:** [Sealed Box](/item/28057)) then
 
 
 >**Tasi V-ghera says:** The General will take care of you!

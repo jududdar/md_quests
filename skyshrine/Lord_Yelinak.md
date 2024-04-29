@@ -62,7 +62,7 @@ end
 
 
 
-if **You turn in:** [King Tormax's Head](/item/30516)
+if( **You turn in:** [King Tormax's Head](/item/30516)) then
 
 
 if **Faction** >= Amiable +100 then
@@ -88,7 +88,7 @@ if **Faction** >= Amiable +100 then
  **You receive:**  [Clawed Griffin Sword](/item/29647) (+1000 exp)
 
 
-elseif **You turn in:** [Clawed Griffin Sword](/item/29647)
+elseif( **You turn in:** [Clawed Griffin Sword](/item/29647)) then
 
 
 if **Faction** >= Amiable +100 then
@@ -102,7 +102,7 @@ if **Faction** >= Amiable +100 then
  **You receive:**  [White Dragonscale Boots](/item/29645) 
 
 
-elseif **You turn in:** [White Dragonscale Boots](/item/29645)
+elseif( **You turn in:** [White Dragonscale Boots](/item/29645)) then
 
 
 if **Faction** >= Amiable +100 then
@@ -116,7 +116,7 @@ if **Faction** >= Amiable +100 then
  **You receive:**  [White Dragon Helm](/item/29648) 
 
 
-elseif **You turn in:** [White Dragon Helm](/item/29648)
+elseif( **You turn in:** [White Dragon Helm](/item/29648)) then
 
 
 if **Faction** >= Amiable +100 then

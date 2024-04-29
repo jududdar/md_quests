@@ -100,7 +100,7 @@ if(**You possess item:**  [Rune of Revenge](/item/1894) x 1
 * __Faction:__ [Kromzek](/faction/448) (-2)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Jualicns Token](/item/1908), [Rune of Revenge](/item/1894)) (+1000 exp)
 
 
 **Ionat despawns.**

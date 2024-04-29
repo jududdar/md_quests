@@ -165,7 +165,7 @@ local text1 = "Excuse me, Soandso, aren't you forgetting something?";
 
 
 
-if **You turn in:** [Coldain Hunting Blanket](/item/30135)
+if( **You turn in:** [Coldain Hunting Blanket](/item/30135)) then
 
 
 >**Garadain Glacierbane says:** Ahh, that'll do fine. Take this, it is but a trinket for now, but continue to serve the Coldain and it will grow in power. I must get some rest now, for I have been told my [nephew] has disappeared again and I will need to track him down tomorrow.
@@ -196,7 +196,7 @@ if **You turn in:** [Coldain Hunting Blanket](/item/30135)
 
 
 
-elseif **You turn in:** [Copper Coldain Insignia Ring](/item/30131), [Broken Axe](/item/30267)
+elseif( **You turn in:** [Copper Coldain Insignia Ring](/item/30131), [Broken Axe](/item/30267)) then
 
 
 >**Garadain Glacierbane says:** Well done friend! My nephew is safe at home and his thirst for adventure is quenched for now. The beast will claim no more of our people. I couldn't have handled it better myself. Now I can get back to the business of [hunting].
@@ -227,7 +227,7 @@ elseif **You turn in:** [Copper Coldain Insignia Ring](/item/30131), [Broken Axe
 
 
 
-elseif **You turn in:** [Silver Coldain Insignia Ring](/item/30133), [Coldain Hunting Knife](/item/30137)
+elseif( **You turn in:** [Silver Coldain Insignia Ring](/item/30133), [Coldain Hunting Knife](/item/30137)) then
 
 
 >**Garadain Glacierbane says:** Hrmm, not quite the work of a Coldain. Barely functional, in fact. I'll be needing to touch this up a bit. Fetch me a Coldain [smithing hammer] and I'll be sure to tell my associates in Thurgadin of your deeds.
@@ -258,7 +258,7 @@ elseif **You turn in:** [Silver Coldain Insignia Ring](/item/30133), [Coldain Hu
 
 
 
-elseif **You turn in:** [Coldain Smithing Hammer](/item/30140), [Gold Coldain Insignia Ring](/item/30132)
+elseif( **You turn in:** [Coldain Smithing Hammer](/item/30140), [Gold Coldain Insignia Ring](/item/30132)) then
 
 
 >**Garadain Glacierbane says:** Ahh, there we go now, that's more like it. It would be time to return to the hunt were it not for the [plans] our spies have discovered.
@@ -289,7 +289,7 @@ elseif **You turn in:** [Coldain Smithing Hammer](/item/30140), [Gold Coldain In
 
 
 
-elseif **You turn in:** [Head of Scarbrow](/item/30141), [Platinum Coldain Insignia Ring](/item/30134)
+elseif( **You turn in:** [Head of Scarbrow](/item/30141), [Platinum Coldain Insignia Ring](/item/30134)) then
 
 
 >**Garadain Glacierbane says:** Without your assistance, we would have lost our camp and our lives. Again, I thank you. Now that you have proven your loyalty to the throne I have a special [favor] to ask of you.
@@ -320,7 +320,7 @@ elseif **You turn in:** [Head of Scarbrow](/item/30141), [Platinum Coldain Insig
 
 
 
-elseif **You turn in:** [Rodrick's Head](/item/1045), [Note from Kromrif](/item/18084), [Obsidian Coldain Insignia Ring](/item/30268)
+elseif( **You turn in:** [Rodrick's Head](/item/1045), [Note from Kromrif](/item/18084), [Obsidian Coldain Insignia Ring](/item/30268)) then
 
 
 >*Garadain Glacierbane lowers his head and mutters, 'At least there will be some closure for their families, thanks to you. The Ry\`gorr will pay for this with their lives! I will ask you to help us in the invasion of Ry\`gorr keep, but first I have a delicate [mission] I was hoping you'd handle.*
@@ -351,7 +351,7 @@ elseif **You turn in:** [Rodrick's Head](/item/1045), [Note from Kromrif](/item/
 
 
 
-elseif **You turn in:** [Note from Corbin](/item/1047)
+elseif( **You turn in:** [Note from Corbin](/item/1047)) then
 
 
 >*Garadain Glacierbane Thank you, Soandso, your service to our people has been most helpful. The time has come for our people to make war with the Ry\`gorr. They must pay for their transgressions against our people. We are just waiting on you. Prepare yourself for glorious battle and tell me when you are [ready].*
@@ -382,7 +382,7 @@ elseif **You turn in:** [Note from Corbin](/item/1047)
 
 
 
-elseif **You turn in:** [Adamantium Coldain Insignia Ring](/item/30163)
+elseif( **You turn in:** [Adamantium Coldain Insignia Ring](/item/30163)) then
 
 
 >*Garadain Glacierbane Give this to Gloradin and return to me immediately, it is time. May Brell be with us!*

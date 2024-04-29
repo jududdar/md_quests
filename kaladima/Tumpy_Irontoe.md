@@ -34,7 +34,7 @@ local text = "Okay. Where are the other ingredients?";
 
 
 
-if **You turn in:** [Kiola Nut](/item/13340), [Water Flask](/item/13006)
+if( **You turn in:** [Kiola Nut](/item/13340), [Water Flask](/item/13006)) then 
 
 
 >**Tumpy Irontoe says:** Here you go. One Tumpy Tonic. Don't drink that too fast now.

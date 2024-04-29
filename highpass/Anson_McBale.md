@@ -120,7 +120,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Stanos' Pouch](/item/28014)
+if **Faction** >= Apprehensive and  **You turn in:** [Stanos' Pouch](/item/28014)) then
 
 
 >**Anson McBale says:** Ah, we have been expecting this. Let me get Stanos, he will want to inspect it first, but here are your coins.

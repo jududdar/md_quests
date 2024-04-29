@@ -3,7 +3,7 @@
 
 
 
-if **You turn in:** [A Note](/item/18013)
+if( **You turn in:** [A Note](/item/18013)) then
 
 
 >**Deputy Tagil says:** What's this?  Oh dear. I am very sorry. Please take this to Uner with my apologies.

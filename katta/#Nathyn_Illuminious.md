@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Katta Castellum Badge of Service](/item/31752)
+if( **You turn in:** [Katta Castellum Badge of Service](/item/31752)) then
 
 
 >**Nathyn Illuminious says:** Ahh I see you're assisting Phenic. Perhaps looking into more information on [Valdanov Zefeer]?

@@ -70,7 +70,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [One Quarter of Elixir](/item/13244)
+if( **Faction is** > Indifferent and  **You turn in:** [One Quarter of Elixir](/item/13244)) then 
 
 
 >**Megan OReilly says:** Oh thank you. Sorry, but the bottle is empty now. I hope you did't need any. Take the empty bottle back to Dargon. He may refill it for you.

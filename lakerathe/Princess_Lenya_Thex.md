@@ -51,7 +51,7 @@ local text = "I will require both the shackle key for the dark shackles and some
 
 
 
-if **You turn in:** [Brass Key](/item/20008), [Tearons Bracer](/item/13108)
+if( **You turn in:** [Brass Key](/item/20008), [Tearons Bracer](/item/13108)) then
 
 
 >**Princess Lenya Thex says:** You have saved me!!  Soandso, you are my hero!!  Take my amulet and the royal suite key to Tearon in Highkeep.  Help put his soul at ease and he shall reward you.  Now I must go.. I am sorry I cannot transport you as well, but my powers are weak from much swimming.  Farewell, brave soul!

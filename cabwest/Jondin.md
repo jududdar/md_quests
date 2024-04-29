@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Bone Granite Powder](/item/12442)
+if( **You turn in:** [Bone Granite Powder](/item/12442)) then
 
 
 >**Jondin says:** You have done well. Here is your reward.

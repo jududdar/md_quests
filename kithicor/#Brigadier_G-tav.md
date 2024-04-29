@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [Sealed Box](/item/28057)
+if( **You turn in:** [Sealed Box](/item/28057)) then
 
 
 >**Brigadier G-tav says:** The General will take care of you!

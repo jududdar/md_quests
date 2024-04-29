@@ -42,7 +42,7 @@ local text = "I will need four portions of fairy dust to create the soil of Unde
 
 
 
-if **You turn in:** [Dirt Covered Letter](/item/18765)
+if( **You turn in:** [Dirt Covered Letter](/item/18765)) then
 
 
 >**Priestess Ghalea says:** Welcome to the Underfoot Cathedral. I am High Priestess Ghalea. Here is your guild tunic. Now. let's get you started helping us spread the will of Brell.
@@ -59,7 +59,7 @@ if **You turn in:** [Dirt Covered Letter](/item/18765)
 
  **You receive:**  [Dusty Tunic*](/item/13514) (+20 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Fairy Dust](/item/12106), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106)
+elseif **Faction** >= Kindly and  **You turn in:** [Fairy Dust](/item/12106), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106)) then  
 
 
 >**Priestess Ghalea says:** May the mighty power of Brell saturate this soil with his divinity.  Here you are, my noble friend.  You may have a pouch of the soil of Underfoot.

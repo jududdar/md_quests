@@ -58,7 +58,7 @@ local text = "There is another! I have reports that there were two Mudtoe ogres 
 
 
 
-if **You turn in:** [Recruitment Letter](/item/18766)
+if( **You turn in:** [Recruitment Letter](/item/18766)) then 
 
 
 >**Furtog Ogrebane says:** Greetings, friend, and welcome to Stormguard Hall! I am Furtog Ogrebane, Captain of the Guard. We shall train you to be a fearless warrior, who will serve and protect King Kazon well. Here is your tunic.  Now, let's begin your training.
@@ -81,7 +81,7 @@ if **You turn in:** [Recruitment Letter](/item/18766)
 
  **You receive:**  [Dirt Stained Tunic*](/item/13515) (+20 exp)
 
-elseif **You turn in:** [Ogre Head](/item/13316), [Ogre Head](/item/13317)
+elseif( **You turn in:** [Ogre Head](/item/13316), [Ogre Head](/item/13317)) then 
 
 
 >**Furtog Ogrebane says:** Finally my great father's work has been completed. All the Mudtoe ogres have been exterminated. Thank you. Take this weapon which my father pried from the cold, dead hands of the Mudtoe ogre captain. It is called an ogre war maul. May you wield it with honor in the name of Kaladim.
@@ -105,6 +105,6 @@ elseif **You turn in:** [Ogre Head](/item/13316), [Ogre Head](/item/13317)
 * __Faction:__ [Craknek Warriors](/faction/232) (-12)
 
 
- **You receive:** None 
+ **You receive:**  [Ogre War Maul](/item/6302) (+250 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -46,7 +46,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [The Bone Garrison](/item/18054)
+if **Faction** >= Amiable and  **You turn in:** [The Bone Garrison](/item/18054)) then
 
 
 >**Crusader Quarg says:** Ah, i see you have proven yourself to Zand and he wishes to see more of your prowess.  go to the Tower of Kurn and bring him the Skulls of the Caste of Bone Brethren, a caste of powerful shamans who perished fighting undead in the Field of Bone several decades ago.
@@ -62,7 +62,7 @@ if **Faction** >= Amiable and  **You turn in:** [The Bone Garrison](/item/18054)
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full C.O.B.B. Chest](/item/12735), [Iron Cudgel of the Seer](/item/5142)
+elseif **Faction** >= Amiable and  **You turn in:** [Full C.O.B.B. Chest](/item/12735), [Iron Cudgel of the Seer](/item/5142)) then
 
 
 >**Crusader Quarg says:** The temple shall be pleased. As instructed by the Hierophants, here is your Iron Cudgel of the Mystic. You have done well that I must ask you to [collect the Crusaders of Rok Nilok].

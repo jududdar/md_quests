@@ -100,7 +100,7 @@ local text = "I require all four reagents, anything less is useless. Incompetenc
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Ice Giant Toes](/item/16540), [Griffon Eye](/item/13739), [Brain of the Ishva Mal](/item/14111), [Powder of Reanimation](/item/14112)
+if **Faction** >= Amiable and  **You turn in:** [Ice Giant Toes](/item/16540), [Griffon Eye](/item/13739), [Brain of the Ishva Mal](/item/14111), [Powder of Reanimation](/item/14112)) then
 
 
 >**Nivold Predd says:** Commendable work, you have proven yourself a valuable member of our order. Our chanters have summoned the avatar of Dread. Hurry and take him this mundane shield so that he may forge it into a truly valuable symbol of your devotion to the lord of Fear!
@@ -121,7 +121,7 @@ if **Faction** >= Amiable and  **You turn in:** [Ice Giant Toes](/item/16540), [
 * __Faction:__ [Crimson Hands](/faction/233) (-400)
 
 
- **You receive:** None 
+ **You receive:**  [Mundane Shield](/item/14105) (+5000 exp)
 
 
 **Spawn NPC:**  [avatar of dread](/npc/75194) at (**y:** 1230, **x:** 474)

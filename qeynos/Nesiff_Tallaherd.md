@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Crate of Defective Arrows](/item/13925)
+if( **You turn in:** [Crate of Defective Arrows](/item/13925)) then 
 
 
 >**Nesiff Tallaherd says:** Oh dear. I hope my mistake will not bring too much grief down on poor Weleth. He was told not to order arrows from me after the last time I fouled up their shipment. But Weleth knew I needed the account to stay in business. Could you please rush this new invoice to him right away? Thank you.
@@ -58,7 +58,7 @@ if **You turn in:** [Crate of Defective Arrows](/item/13925)
 
  **You receive:**  [A Slip of Parchment](/item/18824) (+250 exp)
 
-elseif **You turn in:** [Claim Check](/item/18012)
+elseif( **You turn in:** [Claim Check](/item/18012)) then
 
 
 >**Nesiff Tallaherd says:** Oh.  Vesteri sent you?  Here you go.  I hope Te'Anara likes it.

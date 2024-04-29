@@ -171,7 +171,7 @@ local head =  **You turn in:**  { [Coldain Head](/item/30081)}
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301)
+if **Faction** >= Amiable and  **You turn in:** [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301)) then
 
 
 >**Captain Bvellos says:** You have done well to hunt down these foul dogs.
@@ -192,9 +192,9 @@ if **Faction** >= Amiable and  **You turn in:** [Icepaw Kobold's Paw](/item/2530
 * __Faction:__ [Claws of Veeshan](/faction/430) (-20)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Silvery Mask](/item/25077), [Antlered Mask](/item/25084), [Giant Scalemail Tunic](/item/25018)) 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Wurmscale Scroll](/item/1718)
+elseif **Faction** >= Amiable and  **You turn in:** [Wurmscale Scroll](/item/1718)) then 
 
 
 >**Captain Bvellos says:** This indeed points to Wenglawks being a traitor. If only there were more proof I could take this to the king. Thank you, Soandso, you have done a great service for Kael. Take this mask as a reward for your service to this city.

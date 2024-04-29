@@ -55,7 +55,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/12109)
+if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/12109)) then 
 
 
 >**Expin says:** Good work, scout!!  You have earned this reward.  It is all we have at the time.  I am certain you are satisfied.  If not, then do not let me hear of it.
@@ -66,7 +66,7 @@ if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/1210
 
  **You receive:** eq.ChooseRandom( [Patchwork Tunic](/item/2104), [Patchwork Cloak](/item/2106), [Patchwork Sleeves](/item/2108), [Patchwork Pants](/item/2111), [Patchwork Boots](/item/2112)) (+800 exp)
 
-elseif **You turn in:** [Crumpled Piece of Paper](/item/16390)
+elseif( **You turn in:** [Crumpled Piece of Paper](/item/16390)) then 
 
 
 >**Expin says:** Ahhh! You found it! Here let me make you a copy and put this in a secure spot so I don't lose it again.

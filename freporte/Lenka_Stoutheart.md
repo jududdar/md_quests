@@ -64,7 +64,7 @@ end
 
 
 
-if **You turn in:** [Boat Beacon](/item/13818)
+if( **You turn in:** [Boat Beacon](/item/13818)) then 
 
 
 >**Lenka Stoutheart says:** Oh!! You must work for that Erudite named Palatos. I guess he won't have to spend anymore money drinking in Freeport. Here. Here is the portrait I kept until he could get me a new boat beacon.
@@ -87,7 +87,7 @@ if **You turn in:** [Boat Beacon](/item/13818)
 
  **You receive:**  [AkAnons Portrait](/item/12146) (+20000 exp)
 
-elseif **You turn in:** [L.S. Pouch](/item/13814)
+elseif( **You turn in:** [L.S. Pouch](/item/13814)) then 
 
 
 >**Lenka Stoutheart says:** You found my pouch! Thanks kid. Let me buy you A drink and this is for the good work. Hmmmm. It looks as though they took my voucher. Darn it! Hey... It looks like they were using my bag to hold items they were stealing. Here you go. You can have it. It looks like junk.

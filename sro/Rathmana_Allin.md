@@ -54,7 +54,7 @@ local text = "I believe there is more yet.";
 
 
 
-if **You turn in:** gold = 30
+if( **You turn in:** gold = 30) then
 
 
 >**Rathmana Allin says:** Good luck, my friend. May Solusek Ro guide your hand.
@@ -66,14 +66,14 @@ if **You turn in:** gold = 30
 * __Faction:__ [Shadowed Men](/faction/416) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Force Shock](/item/15022), [Spell: Bind Affinity](/item/15035), [Spell: Lightning Bolt](/item/15038), [Spell: Quickness](/item/15039), [Spell: Whirl till you hurl](/item/15303), [Spell: Column of Fire](/item/15328), [Spell: Engulfing Darkness](/item/15355), [Spell: Banshee Aura](/item/15364), [Spell: Lifedraw](/item/15445), [Spell: Charm](/item/15300), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360)) (+100 exp)
 
 
 
 
 
 
-elseif  **You turn in:** [Bayle List I](/item/18808), [Bayle List II](/item/18809), [Bayle List III](/item/18810), gold = 20
+elseif ( **You turn in:** [Bayle List I](/item/18808), [Bayle List II](/item/18809), [Bayle List III](/item/18810), gold = 20) then 
 
 
 >**Rathmana Allin says:** A simple code. Why do you even bother Rathmana with such child's play? Here is your translation. That was the easiest twenty gold coins I ever earned.

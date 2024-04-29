@@ -58,7 +58,7 @@ end
 
 
 
-if **You turn in:** [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476)
+if( **You turn in:** [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476)) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Bracer! Would you like to get some [Boots]?
@@ -69,7 +69,7 @@ if **You turn in:** [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/
 
  **You receive:**  [Ghulam Bracer](/item/2453) 
 
-elseif **You turn in:** [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460)
+elseif( **You turn in:** [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460)) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Gloves! Would you like to get a [Bracer]?
@@ -80,7 +80,7 @@ elseif **You turn in:** [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling
 
  **You receive:**  [Ghulam Gloves](/item/2452) 
 
-elseif **You turn in:** [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477)
+elseif( **You turn in:** [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477)) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Boots! Would you like to get some [Sleeves]?
@@ -91,7 +91,7 @@ elseif **You turn in:** [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477)
 
  **You receive:**  [Ghulam Boots](/item/2454) 
 
-elseif **You turn in:** [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478)
+elseif( **You turn in:** [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478)) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Sleeves! Would you like to get a [Cap]?
@@ -102,7 +102,7 @@ elseif **You turn in:** [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item
 
  **You receive:**  [Ghulam Armguards](/item/2455) 
 
-elseif **You turn in:** [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479)
+elseif( **You turn in:** [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479)) then
 
 
 >**Kaza Raj says:** Excellent! Here is your Cap! Would you like to get some [Pants]?
@@ -113,7 +113,7 @@ elseif **You turn in:** [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/it
 
  **You receive:**  [Ghulam Cap](/item/2456) 
 
-elseif **You turn in:** [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [Saurek Fang](/item/2480)
+elseif( **You turn in:** [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [Saurek Fang](/item/2480)) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Pants! Would you like to get a [Tunic]?
@@ -124,7 +124,7 @@ elseif **You turn in:** [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [S
 
  **You receive:**  [Ghulam Legplates](/item/2457) 
 
-elseif **You turn in:** [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481)
+elseif( **You turn in:** [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481)) then
 
 
 >**Kaza Raj says:** Excellent! Here is your Tunic!

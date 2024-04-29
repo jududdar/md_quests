@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Letter](/item/18893)
+if( **You turn in:** [A Sealed Letter](/item/18893)) then 
 
 
 >**Axe Broadsmith says:** So you are the new warrior. Let us test your skill. Across the pond is a skeleton. See him? Engage him in combat. He awaits. Return his skull to me and I shall call you a Steel Warrior. Be quick. He will dissipate soon.
@@ -48,7 +48,7 @@ if **You turn in:** [A Sealed Letter](/item/18893)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Skull](/item/13397)
+elseif( **You turn in:** [Skull](/item/13397)) then 
 
 
 >**Axe Broadsmith says:** So you have returned. Victory is yours, young Steel Warrior. Take this letter of recommendation to Brin Stolunger at the arena in Qeynos. You have passed.
@@ -72,6 +72,6 @@ elseif **You turn in:** [Skull](/item/13397)
 * __Faction:__ [Knights of Truth](/faction/281) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Letter of Recommendation](/item/18895) (+750 exp)
 
 **This NPC *should* return incorrect items given.**

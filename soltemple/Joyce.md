@@ -103,7 +103,7 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Globe of Mist](/item/10545), [Ring of Evoluoy](/item/10547), [Sapphire](/item/10034), [Water Ring](/item/10546)
+if **Faction** >= Indifferent and  **You turn in:** [Globe of Mist](/item/10545), [Ring of Evoluoy](/item/10547), [Sapphire](/item/10034), [Water Ring](/item/10546)) then
 
 
 >**Joyce says:** Astounding! You found all four components that I need to make the Circlet of Mist. Wasn't that ring annoying ? I always find goblins hard to deal with. Well done! Take this circlet with my complements.
@@ -119,7 +119,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Globe of Mist](/item/10545)
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Rune of Clay](/item/10539), [Rune of Clay](/item/10542), [Rune of Clay](/item/10540), [Rune of Clay](/item/10541)
+elseif **Faction** >= Indifferent and  **You turn in:** [Rune of Clay](/item/10539), [Rune of Clay](/item/10542), [Rune of Clay](/item/10540), [Rune of Clay](/item/10541)) then
 
 
 >**Joyce says:** One, two, three.. all four runes of clay! I knew you looked competent. I am very impressed! Please take the Clay Bracelet that you have earned.
@@ -135,7 +135,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Rune of Clay](/item/105
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A Stone Marker](/item/10543), [Cat's Eye Agate](/item/10026), [Heart of Stone](/item/10544), [Soiled Boots](/item/2363)
+elseif **Faction** >= Indifferent and  **You turn in:** [A Stone Marker](/item/10543), [Cat's Eye Agate](/item/10026), [Heart of Stone](/item/10544), [Soiled Boots](/item/2363)) then
 
 
 >**Joyce says:** Marker, heart, boots and gem. All four items that I need to cobble earthen boots for you. Well done! Take these boots, and may they serve you well!
@@ -151,7 +151,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [A Stone Marker](/item/1
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fire Goblin Skin](/item/2361), [Frost Goblin Skin](/item/2362), [Spell: Elemental Armor](/item/15109), [Twice-Woven Cloak](/item/2360)
+elseif **Faction** >= Indifferent and  **You turn in:** [Fire Goblin Skin](/item/2361), [Frost Goblin Skin](/item/2362), [Spell: Elemental Armor](/item/15109), [Twice-Woven Cloak](/item/2360)) then
 
 
 >**Joyce says:** Oh, you brought me all of the components! I knew you could do it. It is my pleasure to give you a Robe of the Elements.

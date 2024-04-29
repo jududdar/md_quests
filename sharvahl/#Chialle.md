@@ -240,7 +240,7 @@ end
 
 
 
-if **You turn in:** [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625)
+if( **You turn in:** [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625)) then
 
 
 >**Chialle says:** Oh wow! This is just what I was hoping for. Thank you so much! You must be a real good friend to Saren to have her make you these, she never makes freshly squeezed nectar unless she really likes someone. You have a kind heart Soandso. Please take this with you as a token of my friendship.

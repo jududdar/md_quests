@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [drixie remains](/item/24876)
+if( **You turn in:** [drixie remains](/item/24876)) then
 
 
 >**Lord Prismwing says:** This is sad news you have returned to the court, but now his body may be laid to rest in the soil of Tunares land.

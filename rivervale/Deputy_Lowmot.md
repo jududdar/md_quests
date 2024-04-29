@@ -97,7 +97,7 @@ end
 
 
 
-if **You turn in:** [Carrot Stew](/item/13959)
+if( **You turn in:** [Carrot Stew](/item/13959)) then 
 
 
 >**Deputy Lowmot says:** Oh good!  Hey.  You are not Jillin..  Helping out Blinza huh?  She is quite a woman..  Yes indeed.  Quite a woman..  ah..  Oh sorry.  Here you go.  Thanks again.  Mayor Gubbin will be pleased.

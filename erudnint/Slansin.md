@@ -16,7 +16,7 @@ end
 
 
 
-if **You turn in:** [Inert Potion](/item/13983)
+if( **You turn in:** [Inert Potion](/item/13983)) then
 
 
 if(e.self:GetClass() == 41) then

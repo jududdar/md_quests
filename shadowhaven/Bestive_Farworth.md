@@ -22,7 +22,7 @@ local text = "This is just one item I need to complete this task for you. Please
 
 
 
-if **You turn in:** [Pristine Rhino Beetle Carapace](/item/30662),gold = 10
+if( **You turn in:** [Pristine Rhino Beetle Carapace](/item/30662),gold = 10) then 
 
 
 >*Bestive Farworth rattles around in a drawer and pulls out some tools and hinges. 'Ah yes, this will do, shouldn't take but a minute.'*
@@ -43,6 +43,6 @@ if **You turn in:** [Pristine Rhino Beetle Carapace](/item/30662),gold = 10
 * __Faction:__ [House of Stout](/faction/1512) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Pristine Beetle Box](/item/17072) (+500 exp)
 
 **This NPC *should* return incorrect items given.**

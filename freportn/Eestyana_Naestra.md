@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [A Note](/item/18822)
+if( **You turn in:** [A Note](/item/18822)) then
 
 
 >**Eestyana Naestra says:** You must be the young member of the Hall of Truth who was sent by Theron. I am glad to see you avoided any interference. Please take this as a reward for your service.
@@ -48,7 +48,7 @@ if **You turn in:** [A Note](/item/18822)
 
  **You receive:**  [Spell: Courage*](/item/9985) (+500 exp)
 
-elseif **You turn in:** [A Note](/item/18816)
+elseif( **You turn in:** [A Note](/item/18816)) then
 
 
 >**Eestyana Naestra says:** Thank you, defender of Karana! We have heard rumors of the followers of Bertoxxulous gaining knowledge of our knight who infiltrated the ranks of the [Militia]. They would have tried to sell the information to the Militia. We will inform our knight immediately. As for you, here is a donation to your journey's expenses. Stay clear of the Freeport Militia. There is no doubt they have learned of your alliance with us.
@@ -74,7 +74,7 @@ elseif **You turn in:** [A Note](/item/18816)
 
  **You receive:** eq.ChooseRandom( [Rusty Morning Star](/item/6016), [Prayer Beads](/item/13296)) (+1000 exp)
 
-elseif **You turn in:** [A tattered note](/item/18735)
+elseif( **You turn in:** [A tattered note](/item/18735)) then 
 
 
 >**Eestyana Naestra says:** The Truthbringer welcomes you into his life. Here is the tunic of Marr. Wear it with pride and be sure to conduct yourself with valor.

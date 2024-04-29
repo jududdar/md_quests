@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Old Bone Key](/item/31758)
+if( **You turn in:** [Old Bone Key](/item/31758)) then
 
 
 **Spawn NPC:**  [an imprisoned shade](/npc/160002) at this location.

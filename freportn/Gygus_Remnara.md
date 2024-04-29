@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18738)
+if( **You turn in:** [A tattered note](/item/18738)) then 
 
 
 >**Gygus Remnara says:** Welcome to the Sentries of Passion. We are the protectors of the Temple of Marr. Wear our tunic with pride, young knight! Find your wisdom within these walls and in the words of our priests. And remember to aid all who follow the twin deities, Mithaniel and Erollisi Marr.

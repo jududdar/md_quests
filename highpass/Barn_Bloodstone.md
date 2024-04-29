@@ -24,7 +24,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Blackburrow Stout](/item/13130)
+if( **Faction is** > Indifferent and  **You turn in:** [Blackburrow Stout](/item/13130)) then 
 
 
 >**Barn Bloodstone says:** Why thank you, kind citizen! Mutt, throw me the package! Here. This is for your boss. Do not return return to Kane without the other two lists. Some other bixie boy might just beat you to one of the other pieces. Go to Freeport. There you will find a woman called Opal. Quite a looker. I hear she works with the Arcane Scientists. Tell her the disease is spreading. She will help you.
@@ -48,7 +48,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Blackburrow Stout](/item
 * __Faction:__ [The Freeport Militia](/faction/330) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Bayle List I](/item/18808) (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

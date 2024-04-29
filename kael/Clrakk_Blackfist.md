@@ -98,7 +98,7 @@ end
 
 
 
-if **You turn in:** [Hand of Deaen Greyforge](/item/25115)
+if( **You turn in:** [Hand of Deaen Greyforge](/item/25115)) then 
 
 
 >**Clrakk Blackfist says:** You truly are a bringer of strife, Soandso. Take this. I hope it will assist you. Use it in our war against the Coldain scum.
@@ -121,7 +121,7 @@ if **You turn in:** [Hand of Deaen Greyforge](/item/25115)
 
  **You receive:**  [Mask of Malediction](/item/25054) (+1000 exp)
 
-elseif **You turn in:** [Legs of Deaen Greyforge](/item/25114)
+elseif( **You turn in:** [Legs of Deaen Greyforge](/item/25114)) then 
 
 
 >**Clrakk Blackfist says:** You truly are a bringer of strife, Soandso. Take this. I hope it will assist you. Use it in our war against the Coldain scum.

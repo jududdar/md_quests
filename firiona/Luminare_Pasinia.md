@@ -40,7 +40,7 @@ local text = "Do you not remember that I asked for powder of Nok, a Ton warrior 
 
 
 
-if **You turn in:** [Nok Shaman Powder](/item/12948), [Heart of Ice](/item/12834), [Ton Warrior Totem](/item/12743), [Sabertooth Tiger Mane](/item/12824)
+if( **You turn in:** [Nok Shaman Powder](/item/12948), [Heart of Ice](/item/12834), [Ton Warrior Totem](/item/12743), [Sabertooth Tiger Mane](/item/12824)) then
 
 
 >*Luminare Pasinia places the items into a sack and removes a scroll from her robe. This is yours. A spell I discovered and translated for one with less intelligence than the great Luminare of Firiona Vie. You may kiss my feet now.*

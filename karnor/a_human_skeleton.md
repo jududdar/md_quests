@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [an Ornate Bottle](/item/12964)
+if( **You turn in:** [an Ornate Bottle](/item/12964)) then
 
 
  **You receive:**  [bottle of swirling smoke](/item/12967) 

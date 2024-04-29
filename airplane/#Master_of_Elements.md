@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [Element of Earth](/item/28032), [Element of Fire](/item/28009), [Element of Water](/item/28006), [Element of Wind](/item/28033)
+if( **You turn in:** [Element of Earth](/item/28032), [Element of Fire](/item/28009), [Element of Water](/item/28006), [Element of Wind](/item/28033)) then
 
 
 >**Master of Elements says:** You... are.. balanced... and.. powerful.. for.. a.. mortal... Soandso ..... Soandso. More.. so.. than.... Magi'kot. But.... you.. are.. not.. yet.. ready.. to.. transcend.. transcend... this.. mortal.. coil. Take.. take.. seize.. this.. Orb... for.. you.. are.. worthy.. of.. reward.. and.. with... the.. aid.. of... the... balance.. balance.. contained.. within.. the.. Orb.. you.. may.. yet.. reach.. the... ultimate... Mastery.

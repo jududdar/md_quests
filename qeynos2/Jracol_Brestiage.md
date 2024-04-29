@@ -84,7 +84,7 @@ end
 
 
 
-if **You turn in:** [Bent Playing Card](/item/13903)
+if( **You turn in:** [Bent Playing Card](/item/13903)) then 
 
 
 >**Jracol Brestiage says:** 'Ah, good, it seems we have much in common after all. Take this back to the Circle, before the city guards come nosing around over here.

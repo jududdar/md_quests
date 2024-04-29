@@ -42,7 +42,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if **You turn in:** [A tattered note](/item/18857)
+if( **You turn in:** [A tattered note](/item/18857)) then 
 
 
 >**Brutol Rhaksen says:** Hahaha.. I sure hope you prove more valuable than you look, little one.
@@ -59,7 +59,7 @@ if **You turn in:** [A tattered note](/item/18857)
 
  **You receive:**  [Faded Crimson Tunic*](/item/13561) (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Tarsa Yovar's Head](/item/19932)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Tarsa Yovar's Head](/item/19932)) then 
 
 
 >**Brutol Rhaksen says:** Take this and get it sharpened. Bring it back to me with a Giant Rattlesnake Skin and you will have proven yourself able to wield a Dismal Rage Battle Axe, to help teach the way of Innoruuk!
@@ -67,7 +67,7 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Tarsa Yovar's Head](/item/19
 
  **You receive:**  [Dull Dismal Battleaxe](/item/19921) (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Dismal Battleaxe](/item/19926), [Giant Rattlesnake Skin](/item/19852)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Dismal Battleaxe](/item/19926), [Giant Rattlesnake Skin](/item/19852)) then 
 
 
 >**Brutol Rhaksen says:** You have proven your faith Soandso. Take this to vanquish any and all whom question the absolute power of Innoruuk!

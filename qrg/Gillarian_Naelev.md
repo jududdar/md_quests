@@ -101,7 +101,7 @@ end
 
 
 
-if **You turn in:** [Gnoll Head](/item/13813)
+if( **You turn in:** [Gnoll Head](/item/13813)) then 
 
 
 >**Gillarian Naelev says:** Fantastic work!! Hager will be pleased. Not only do we rid ourself of a poacher, but we rid the land of these destructive gnolls. Our fletchers crafted this for me... Please take it as thanks.
@@ -121,7 +121,7 @@ if **You turn in:** [Gnoll Head](/item/13813)
 
  **You receive:**  [Rough Elm Recurve Bow](/item/8803) (+6000 exp)
 
-elseif **You turn in:** [Poacher's Head](/item/13825)
+elseif( **You turn in:** [Poacher's Head](/item/13825)) then 
 
 
 >**Gillarian Naelev says:** Your deeds are great indeed. We shall cleanse our land of these poachers once and for all. A report has surfaced of a [master poacher].

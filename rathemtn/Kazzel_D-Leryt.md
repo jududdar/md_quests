@@ -48,7 +48,7 @@ local text = "Quickly now, give me the rest of the ingredients for the telesm...
 
 
 
-if(**Your level** >= 50 and  **You turn in:** platinum = [Vale Reinforced Boots](/item/2000)
+if(**Your level** >= 50 and  **You turn in:** platinum = [Vale Reinforced Boots](/item/2000)) then
 
 
 >**Kazzel D-Leryt says:** Very well, Soandso. Take this gem to a master jeweler and return it to me with the other three items.
@@ -56,7 +56,7 @@ if(**Your level** >= 50 and  **You turn in:** platinum = [Vale Reinforced Boots]
 
  **You receive:**  [Uncut Hyacinth](/item/10191) 
 
-elseif **You turn in:** [Faceted Hyacinth](/item/10192), [White Gold Necklace](/item/10147), [Crystalline Orb](/item/10218), [Bloodied Piece of Parchment](/item/10196)
+elseif( **You turn in:** [Faceted Hyacinth](/item/10192), [White Gold Necklace](/item/10147), [Crystalline Orb](/item/10218), [Bloodied Piece of Parchment](/item/10196)) then
 
 
 >**Kazzel D-Leryt says:** You are quite cunning. After I fashion this telesm, take it back to Xenyari. She would 'enjoy' another 'gift,' eh?
@@ -64,7 +64,7 @@ elseif **You turn in:** [Faceted Hyacinth](/item/10192), [White Gold Necklace](/
 
  **You receive:**  [Faceted Hyacinth Telesm](/item/10193) 
 
-elseif **You turn in:** [Pulsating Hyacinth Telesm](/item/10194)
+elseif( **You turn in:** [Pulsating Hyacinth Telesm](/item/10194)) then
 
 
 >*Kazzel D-Leryt laughs heartily and whispers to you, 'Well done, worm, your servitude to my will has now expired...'*
@@ -75,7 +75,7 @@ elseif **You turn in:** [Pulsating Hyacinth Telesm](/item/10194)
 
 **Spawn NPC:**  [a monstrous zombie](/npc/50335) at this location.
 
-elseif **You turn in:** [Monstrous Zombie Heart](/item/10197)
+elseif( **You turn in:** [Monstrous Zombie Heart](/item/10197)) then
 
 
 >**Kazzel D-Leryt says:** Oh! Umm... Well, I was just playing with you. Certainly you know I was joking! We had a deal and I will abide by the terms of our agreement. Here is my payment for your services. Bye..

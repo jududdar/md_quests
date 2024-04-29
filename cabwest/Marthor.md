@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Trog Brew](/item/8348), [Trog Brew](/item/8348), [Trog Brew](/item/8348), [Trog Brew](/item/8348)
+if( **You turn in:** [Trog Brew](/item/8348), [Trog Brew](/item/8348), [Trog Brew](/item/8348), [Trog Brew](/item/8348)) then
 
 
 >**Marthor says:** Ha! How did you know my favorite drink? Master Rinmark told you? That crazy old monk spends his days sitting on that mountain in Timorous Deep doesn't he? And they call me a drunkard! Anyhow, I bet he told you about the Whistling Fists. I have never seen them myself, and have only heard legend passed down by [Master Tynn].
@@ -42,7 +42,7 @@ eq.set_global("Brew1","1",1,"F");
 
 eq.set_global("Brew2","1",1,"F");
 
-if **You turn in:** [Shackle of Tynnonium](/item/4199)
+if( **You turn in:** [Shackle of Tynnonium](/item/4199)) then
 
 
 >**Marthor says:** You earned the Tynnonium Shackle? I am sure you wish to seek the fists of lore. Gandan has come as close as anyone, you would have to talk to him. Last I heard his expedition has taken him to the Howling Stones.

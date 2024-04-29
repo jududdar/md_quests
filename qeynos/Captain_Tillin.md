@@ -59,28 +59,28 @@ local fang = 0;
 
 
 
-if **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)
+if( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then 
 
 
 fang = 4;
 
-elseif **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)
+elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then
 
 
 
 fang = 3;
 
-elseif **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)
+elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then
 
 
 fang = 2;
 
-elseif **You turn in:** [Gnoll Fang](/item/13915)
+elseif( **You turn in:** [Gnoll Fang](/item/13915)) then
 
 
 fang = 1;
 
-elseif **You turn in:** [A tattered note](/item/18815)
+elseif( **You turn in:** [A tattered note](/item/18815)) then
 
 
 >**Captain Tillin says:** I heard you were on your way. I have called for the state [executioner]. She should be on her way now. She will deal with our friend, McNeal Jocub. Thank you for your help, citizen.
@@ -106,7 +106,7 @@ elseif **You turn in:** [A tattered note](/item/18815)
 
 **Spawn NPC:**  [Executioner](/npc/1202) at (**y:** 75, **x:** -412)
 
-elseif **You turn in:** [A Tattered Cloth Note](/item/18912)
+elseif( **You turn in:** [A Tattered Cloth Note](/item/18912)) then
 
 
 >**Captain Tillin says:** So, an assassin has been sent to Qeynos! I shall have my guards keep an eye out for any suspicious looking visitors. As for you... you should speak with the Surefall Glade ambassador. Ambassador Gash is staying at the Lion's Mane Inn here in South Qeynos. Inform him that [an assassin has been sent to kill] him. Do not let the assassin near him!
@@ -132,7 +132,7 @@ elseif **You turn in:** [A Tattered Cloth Note](/item/18912)
 
  **You receive:** 0 (+10 exp)
 
-elseif **You turn in:** [Compiled Report](/item/8280)
+elseif( **You turn in:** [Compiled Report](/item/8280)) then
 
 
 >*Captain Tillin scans the report with a furrowed brow. 'So the threat is worse then we had anticipated. The intelligence we have gathere is true. We have little time, return to Sergeant Caelin and give him these orders. Time is of the essence. Hurry now, these people are in grave danger and something must be done to stop this!*

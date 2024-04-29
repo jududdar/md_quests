@@ -82,7 +82,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Book of Applied Magic](/item/4724), [Cloud Jewel](/item/4491), [Mark of Potency](/item/4723)
+if( **You turn in:** [Book of Applied Magic](/item/4724), [Cloud Jewel](/item/4491), [Mark of Potency](/item/4723)) then 
 
 
 FactionReward(e)
@@ -90,7 +90,7 @@ FactionReward(e)
 
  **You receive:**  [Bracer of Detonation](/item/3715) (+25000 exp)
 
-elseif **You turn in:** [Book of Wizardry](/item/4711), [Explosive Dust](/item/4709), [Mark of Explosion](/item/4710), [Meteor Jewel](/item/4493)
+elseif( **You turn in:** [Book of Wizardry](/item/4711), [Explosive Dust](/item/4709), [Mark of Explosion](/item/4710), [Meteor Jewel](/item/4493)) then 
 
 
 FactionReward(e)
@@ -98,7 +98,7 @@ FactionReward(e)
 
  **You receive:**  [Cap of Detonation](/item/3710) (+25000 exp)
 
-elseif **You turn in:** [Fiery Sand](/item/4720), [Gilded Branch](/item/4719), [Mark of Energy](/item/4718), [Moon Jewel](/item/4489)
+elseif( **You turn in:** [Fiery Sand](/item/4720), [Gilded Branch](/item/4719), [Mark of Energy](/item/4718), [Moon Jewel](/item/4489)) then 
 
 
 FactionReward(e)
@@ -106,7 +106,7 @@ FactionReward(e)
 
  **You receive:**  [Pants of Detonation](/item/3713) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Book of Sorcery](/item/4713), [Globe of Power](/item/4714), [Mark of Sorcery](/item/4712)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Book of Sorcery](/item/4713), [Globe of Power](/item/4714), [Mark of Sorcery](/item/4712)) then 
 
 
 FactionReward(e)
@@ -114,7 +114,7 @@ FactionReward(e)
 
  **You receive:**  [Robe of Detonation](/item/3711) (+25000 exp)
 
-elseif **You turn in:** [Mark of Intensity](/item/4725), [Sky Jewel](/item/4492), [Sun Stained Steel Rod](/item/4726)
+elseif( **You turn in:** [Mark of Intensity](/item/4725), [Sky Jewel](/item/4492), [Sun Stained Steel Rod](/item/4726)) then 
 
 
 FactionReward(e)
@@ -122,7 +122,7 @@ FactionReward(e)
 
  **You receive:**  [Sandals of Detonation](/item/3716) (+25000 exp)
 
-elseif **You turn in:** [Mark of Force](/item/4721), [Star Jewel](/item/4490), [Tro Jeg Toes](/item/4722)
+elseif( **You turn in:** [Mark of Force](/item/4721), [Star Jewel](/item/4490), [Tro Jeg Toes](/item/4722)) then 
 
 
 FactionReward(e)
@@ -130,7 +130,7 @@ FactionReward(e)
 
  **You receive:**  [Shawl of Detonation](/item/3714) (+25000 exp)
 
-elseif **You turn in:** [Fiery Heart](/item/4717), [Grub Worm Guts](/item/4716), [Mark of Implosion](/item/4715), [Sun Jewel](/item/4488)
+elseif( **You turn in:** [Fiery Heart](/item/4717), [Grub Worm Guts](/item/4716), [Mark of Implosion](/item/4715), [Sun Jewel](/item/4488)) then 
 
 
 FactionReward(e)

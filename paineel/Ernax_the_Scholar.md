@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Tattered Book](/item/18956)
+if( **You turn in:** [Tattered Book](/item/18956)) then 
 
 
 >**Ernax the Scholar says:** For your sake, I wish you a quick and painless death. For mine, I wish you a slow and painful one, as a warning to any fool who wishes to follow in your path.

@@ -79,7 +79,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18714)
+if( **You turn in:** [A tattered note](/item/18714)) then 
 
 
 >**Priestess Jahnda says:** Welcome to the Temple of Life. I am Jahnda, the High Priestess of the Clerics of Nife. Wear this tunic with pride and carry out the will of Nife. Please, see Tonmerk Plorsin or Nomsoe Jusagta. They will help get you started spreading the will of The Prime Healer.
@@ -102,7 +102,7 @@ if **You turn in:** [A tattered note](/item/18714)
 
  **You receive:**  [Faded Tunic*](/item/13506) (+100 exp)
 
-elseif **You turn in:** [Pouch of Evidence](/item/13724)
+elseif( **You turn in:** [Pouch of Evidence](/item/13724)) then
 
 
 >**Priestess Jahnda says:** Excellent work! You are surely under the protection and guidance of the Prime Healer. This evidence will help us greatly to convince Antonious and the guild leaders of Qeynos that the Bloodsabers are here and seek to destroy all we have worked so long for.
@@ -140,7 +140,7 @@ else
  **You receive:** eq.ChooseRandom( [Skullcap of Rodcet Nife](/item/13723), [Shield of Nife](/item/13720)) (+4000 exp)
 
 
-elseif **You turn in:** [PrayerBeads](/item/13911)
+elseif( **You turn in:** [PrayerBeads](/item/13911)) then 
 
 
 >**Priestess Jahnda says:** Oh my word!! This is terrible news. This belongs to Hayle Mool. He has been captured by the Splitpaw Clan while in Karana. You must go to his aid. We cannot do so at this time. Here. Be sure to hand him this summons. I will need to speak with him.

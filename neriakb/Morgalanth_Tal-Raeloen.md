@@ -164,7 +164,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Chief Deroslans Prayer Beads](/item/22642), [Chief Ferilsars Prayer Beads](/item/22643), [Chief Wasolors Prayer Beads](/item/22644)
+if(expansion_flag >= 4.0 and  **You turn in:** [Chief Deroslans Prayer Beads](/item/22642), [Chief Ferilsars Prayer Beads](/item/22643), [Chief Wasolors Prayer Beads](/item/22644)) then
 
 
 >**Morgalanth Tal-Raeloen says:** Your prowess both in the classroom and on the battlefield has certainly amazed me. Please take this relic that is only presented to the most dedicated initiates and carry it with pride. You have made your house very proud on this day.

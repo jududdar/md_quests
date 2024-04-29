@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Legion Order](/item/18245)
+if( **You turn in:** [Legion Order](/item/18245)) then 
 
 
 

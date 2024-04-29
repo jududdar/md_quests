@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601)
+if( **You turn in:** [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601)) then
 
 
 >**Tiamon Aroo says:** Well done! You have brought me plenty of claws. I have enough now to make a needle for you. May it serve you well.

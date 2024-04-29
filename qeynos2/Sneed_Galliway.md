@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Rat Head](/item/13717)
+if( **You turn in:** [Rat Head](/item/13717)) then 
 
 
 >**Sneed Galliway says:** HA! Good work! I knew you were the person for the job. A regular ratslayer you are. Here is your reward as promised. be sure you keep this between us.
@@ -65,7 +65,7 @@ if **You turn in:** [Rat Head](/item/13717)
 * __Faction:__ [Guards of Qeynos](/faction/262) (5)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Water Flask](/item/13006), [Bandages](/item/13009), [Torch](/item/13002), [Fishing Pole](/item/13100)) (+200 exp)
 
 
 

@@ -132,7 +132,7 @@ end
 
 
 
-if(closeby == 1 and  **You turn in:** [Ruined Backpack](/item/13769)
+if(closeby == 1 and  **You turn in:** [Ruined Backpack](/item/13769)) then 
 
 
 >**Tomer Instogle says:** Oh, you have the makings of a true hero.. The Silent Fist Clan is proud to have you as ally. May your soul guide and protect you through these chaotic times.

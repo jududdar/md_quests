@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18728)
+if( **You turn in:** [A tattered note](/item/18728)) then 
 
 
 >**Markus Jaevins says:** Welcome. young one! I see you show interest in the circle of magic. Nowhere upon Norrath will you find a greater school than this - the Gatecallers. You shall wear this tunic as a sign that you have begun the training of this circle. Remember. the power of the Gatecaller is the power of summoning. Go find Vasile. he will help teach you the basics of summoning. Good luck, friend!
@@ -63,7 +63,7 @@ if **You turn in:** [A tattered note](/item/18728)
 
  **You receive:**  [Old Torn Robe*](/item/13548) (+20 exp)
 
-elseif **You turn in:** [Bones](/item/13127)
+elseif( **You turn in:** [Bones](/item/13127)) then 
 
 
 >**Markus Jaevins says:** This is fine work, young one. You keep this up and you shall be knighted before long.
@@ -86,7 +86,7 @@ elseif **You turn in:** [Bones](/item/13127)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bones](/item/13128)
+elseif( **You turn in:** [Bones](/item/13128)) then 
 
 
 >**Markus Jaevins says:** This is fine work, young one. You keep this up and you shall be knighted before long.

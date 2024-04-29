@@ -100,7 +100,7 @@ if(**You possess item:**  [Rune of Eradication](/item/1893) x 1
 * __Faction:__ [Kromzek](/faction/448) (-2)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Jualicns Token](/item/1908), [Rune of Eradication](/item/1893)) (+1000 exp)
 
 
 **Entariz despawns.**

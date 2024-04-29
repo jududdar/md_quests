@@ -81,7 +81,7 @@ local text = "You want a Mane Attraction? Not until I get the two clumps of gori
 
 
 
-if **You turn in:** [Full Gem Bag](/item/6710)
+if( **You turn in:** [Full Gem Bag](/item/6710)) then 
 
 
 >*Ping Fuzzlecutter smiles broadly as he rifles through the bag, then looks up at you and says, 'Bout time! Here is the coffin as promised.'*
@@ -91,7 +91,7 @@ if **You turn in:** [Full Gem Bag](/item/6710)
 
 
 
-elseif **You turn in:** [A Clump of Gorilla Hair](/item/12335), [A Clump of Gorilla Hair](/item/12335), [A Lock of Hair](/item/12338), [A Tattered Toupee](/item/12337)
+elseif( **You turn in:** [A Clump of Gorilla Hair](/item/12335), [A Clump of Gorilla Hair](/item/12335), [A Lock of Hair](/item/12338), [A Tattered Toupee](/item/12337)) then
 
 
 >**Ping Fuzzlecutter says:** You are a good helper. Here you go. One genuine, charismatic, lady magnet, zero to hero making Mane Attraction!! Guaranteed to lower prices world wide. Guaranteed to last forever.. Err.. Well,.. It has a 1000 year warranty at least.

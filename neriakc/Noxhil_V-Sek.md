@@ -98,7 +98,7 @@ local text = "I was expecting a mammoth tusk and the combined beetle eye box!";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Box of Beetle Eyes](/item/13389)
+if **Faction** >= Amiable and  **You turn in:** [Box of Beetle Eyes](/item/13389)) then
 
 
 >**Noxhil V-Sek says:** Fantastic work, my child! We shall store these for further experiments. Take this as extra payment for a fine job. You have done so well I believe you can assist in obtaining two [other components].
@@ -126,24 +126,24 @@ if(randomloot == 1) then
 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Neriak Nectar](/item/13021), [Rotgrub Rye](/item/13022)) (+17150 exp)
 
 
 elseif(randomloot == 2) then
 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Neriak Nectar](/item/13021), [Neriak Nectar](/item/13021), [Rotgrub Rye](/item/13022), [Rotgrub Rye](/item/13022)) (+17150 exp)
 
 
 elseif(randomloot == 3) then
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+17150 exp)
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Beetle Eye Chest](/item/13395), [Mammoth Tusks](/item/10124)
+elseif **Faction** >= Amiable and  **You turn in:** [Beetle Eye Chest](/item/13395), [Mammoth Tusks](/item/10124)) then 
 
 
 >**Noxhil V-Sek says:** Excellent work, young one! You are sure to be an asset to our faction. Let us see if we can help you on your journey to power. I believe this can be of assistance to a young necromancer of the Dead.

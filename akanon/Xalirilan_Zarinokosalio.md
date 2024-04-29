@@ -148,7 +148,7 @@ end
 if(eq.get_current_expansion() >= 4.0) then
 
 
-if **You turn in:** [An Ancient Tome Insert pg1](/item/9116), [An Ancient Tome Insert pg2](/item/9117), [An Ancient Tome Insert pg3](/item/9118), [An Ancient Tome Insert pg4](/item/9119)
+if( **You turn in:** [An Ancient Tome Insert pg1](/item/9116), [An Ancient Tome Insert pg2](/item/9117), [An Ancient Tome Insert pg3](/item/9118), [An Ancient Tome Insert pg4](/item/9119)) then
 
 
 

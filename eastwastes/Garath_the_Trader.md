@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Priceless Velium Battlehammer](/item/27301)
+if( **You turn in:** [Priceless Velium Battlehammer](/item/27301)) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
@@ -44,7 +44,7 @@ if **You turn in:** [Priceless Velium Battlehammer](/item/27301)
 
 
 
-elseif **You turn in:** [Primal Velium Battlehammer](/item/27321)
+elseif( **You turn in:** [Primal Velium Battlehammer](/item/27321)) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
@@ -54,7 +54,7 @@ elseif **You turn in:** [Primal Velium Battlehammer](/item/27321)
 
 
 
-elseif **You turn in:** [Priceless Velium Warsword](/item/27300)
+elseif( **You turn in:** [Priceless Velium Warsword](/item/27300)) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
@@ -64,7 +64,7 @@ elseif **You turn in:** [Priceless Velium Warsword](/item/27300)
 
 
 
-elseif **You turn in:** [Primal Velium Warsword](/item/27328)
+elseif( **You turn in:** [Primal Velium Warsword](/item/27328)) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!

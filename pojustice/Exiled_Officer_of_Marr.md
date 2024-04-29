@@ -27,9 +27,9 @@ end
 
 
 
-if **You turn in:** [Box of Souls](/item/29281)
+if( **You turn in:** [Box of Souls](/item/29281)) then
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Soul Sphere](/item/29294), [Box of Souls](/item/29281)) 
 
 **This NPC *should* return incorrect items given.**

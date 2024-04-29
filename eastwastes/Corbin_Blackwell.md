@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Shackle key](/item/1046), [Mithril Coldain Insignia Ring](/item/30162)
+if( **You turn in:** [Shackle key](/item/1046), [Mithril Coldain Insignia Ring](/item/30162)) then
 
 
 >**Corbin Blackwell says:** I thought I was a dwarfskin rug there for a minute! Thank Brell for your help stranger! Now cover me while I make good my escape. I am weakened and cannot endure much more.

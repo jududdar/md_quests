@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Note to Ruathey](/item/2417)
+if( **You turn in:** [Note to Ruathey](/item/2417)) then
 
 
 >**Ruathey says:** I see that you've spoken to Llara. She too came to me looking for Amstaf. Though she wasn't able to find her friend, she was able to recover his [sword].

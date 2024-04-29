@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [Mechanical Pen](/item/10600), [Ink of the Dark](/item/10601), [White Paper](/item/10602)
+if( **You turn in:** [Mechanical Pen](/item/10600), [Ink of the Dark](/item/10601), [White Paper](/item/10602)) then
 
 
 >**Stofo Olan says:** Yes, that is what I wanted. Here, take these notes. My teacher will be very interested if he is shown what I have found.

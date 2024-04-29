@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692)
+if( **You turn in:** [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692)) then
 
 
 >**Legionnaire Delaren says:** Although your service to Seru is appreciated, I just received word that you were not the one that was sent to do this menial task. That lazy boy [Peran] was supposed to take the job.

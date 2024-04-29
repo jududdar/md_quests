@@ -350,7 +350,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Charred Pearl](/item/10083), [Ruby](/item/10035), [Wand](/item/14160), [Bloodstone](/item/10019)
+if **Faction** >= Indifferent and  **You turn in:** [Charred Pearl](/item/10083), [Ruby](/item/10035), [Wand](/item/14160), [Bloodstone](/item/10019)) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -383,7 +383,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Charred Pearl](/item/10083)
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item/10520), [Eye of Urd](/item/10523), [Star Rose Quartz](/item/10021)
+elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item/10520), [Eye of Urd](/item/10523), [Star Rose Quartz](/item/10021)) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -416,7 +416,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fetid Skin](/item/13150), [Scare Straw](/item/13152), [Turmoil Warts](/item/8331), [Pearl](/item/10024)
+elseif **Faction** >= Indifferent and  **You turn in:** [Fetid Skin](/item/13150), [Scare Straw](/item/13152), [Turmoil Warts](/item/8331), [Pearl](/item/10024)) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -449,7 +449,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Fetid Skin](/item/13150
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Eye of Jin](/item/10525), [Jade](/item/10023)
+elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Eye of Jin](/item/10525), [Jade](/item/10023)) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.

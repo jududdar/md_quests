@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Power of the Orb](/item/18958), [Torch of the Elements](/item/28007), [Blazing Wand](/item/10376), [Burning Embers](/item/28008)
+if( **You turn in:** [Power of the Orb](/item/18958), [Torch of the Elements](/item/28007), [Blazing Wand](/item/10376), [Burning Embers](/item/28008)) then
 
 
 >**Jennus Lyklobar says:** I see that you are well versed in the ways of Fire. Indeed, if you are as adept in the other, lesser elements, you may just seize the Orb of Mastery after all, and avoid Magi'kot's fate. Take this element, and guard it well, for more trials are to come, I assure you. Succeed and you shall be remembered always! Oh, and Soandso? Watch out for the puddles! HAHAHAHAHAHA!

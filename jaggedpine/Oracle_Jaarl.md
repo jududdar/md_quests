@@ -123,7 +123,7 @@ end
 
 
 
-if **You turn in:** [Wolf Fang Necklace](/item/8258), [Bear Fang Necklace](/item/8261), [Panther Fang Necklace](/item/8257)
+if( **You turn in:** [Wolf Fang Necklace](/item/8258), [Bear Fang Necklace](/item/8261), [Panther Fang Necklace](/item/8257)) then
 
 
 >*Oracle Jaarl puts the necklaces around his neck as his body shakes, causing the various bits and pieces of bone and tooth to clatter loudly. 'Ah yes! I feel the power flowing through me, I am ever closer to the spirit world! I thank you for your devotion to the temple!'*
@@ -131,7 +131,7 @@ if **You turn in:** [Wolf Fang Necklace](/item/8258), [Bear Fang Necklace](/item
 
 * __Faction:__ [Anchorites of Brell Serilis](/faction/1598) (100)
 
-elseif **Faction** >= Amiable +250 and  **You turn in:** [Treant Finger](/item/8268), [Griffon Skull](/item/8267), [Griffon Down](/item/8266), [Diseased Bear Liver](/item/8265)
+elseif **Faction** >= Amiable +250 and  **You turn in:** [Treant Finger](/item/8268), [Griffon Skull](/item/8267), [Griffon Down](/item/8266), [Diseased Bear Liver](/item/8265)) then
 
 
 >**Oracle Jaarl says:** Very well. These will do just fine. Here, it is finished. Take this and smite your enemies with terrible disease.

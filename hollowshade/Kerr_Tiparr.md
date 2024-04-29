@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Pot of Spicy Fish Stew](/item/5566)
+if( **You turn in:** [Pot of Spicy Fish Stew](/item/5566)) then
 
 
 >**Kerr Tiparr says:** Thanks Soandso! That was delicious. Here is the empty bowl.

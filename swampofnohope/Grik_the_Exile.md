@@ -47,7 +47,7 @@ local text1 = "I thought I told you to bring me the head of Streaven and 3 rubie
 
 
 
-if **You turn in:** [Illegible Note: Breastplate](/item/14789)
+if( **You turn in:** [Illegible Note: Breastplate](/item/14789)) then
 
 
 >*Grik the Exile snickers to himself and looks out over the swamp for a moment before saying,*
@@ -55,7 +55,7 @@ if **You turn in:** [Illegible Note: Breastplate](/item/14789)
 
 >**Grik the Exile says:** Perseverance is indeed our greatest virtue. Perhaps if we as warriors looked more to cultivate our virtue rather than to hoard glory our people would be rulers of this entire land. I will send you on a [mission] to learn of perseverance. If you complete it I will give you my reference.
 
-if **You turn in:** [Ruby](/item/10035), [Ruby](/item/10035), [Ruby](/item/10035), [Streaven's Head](/item/14819)
+if( **You turn in:** [Ruby](/item/10035), [Ruby](/item/10035), [Ruby](/item/10035), [Streaven's Head](/item/14819)) then
 
 
 >*Grik the Exile watches as you drop the head onto the soft earth of the swamp. With his foot,Grik tactfully pushes the head off into the water.A sly grin passes over his gace briefly as watches it sink and pockets the rubies. He says, 'Excellent work " .. e.other:Race() .. ". Here is your reference as promissed.'*

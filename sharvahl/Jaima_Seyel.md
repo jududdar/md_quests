@@ -20,15 +20,15 @@ end
 
 
 
-if **You turn in:** [Cloak of the Dar Khura Apprentice](/item/5544)
+if( **You turn in:** [Cloak of the Dar Khura Apprentice](/item/5544)) then
 
 
 >*Jaima Seyel smiles and says 'Very good. I am glad to have you here. I hope your studies have proven to be worthwhile thus far. Our sect is challenging, but we are vital to the survival of our people. Our research and ability to commune with the spirit world has allowed our people to overcome the challenges of the wilderness here. Here, take this bag. It is time for you to face your first real challenge.'*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Brown Leather Bag](/item/17116), [Cloak of the Dar Khura Apprentice](/item/5544)) 
 
-elseif **You turn in:** [Bag of Wolf Paws](/item/6264)
+elseif( **You turn in:** [Bag of Wolf Paws](/item/6264)) then
 
 
 >**Jaima Seyel says:** I see that you've met those beasts and made it back in one piece. I'm not sure if you noticed their ability to move and communicate as a pack, but it is both amazing and horrific to witness in action. They have proven to be enough of a problem to warrant special research. We have been able to build a weapon type that produces severe wounds on the wolves.
@@ -37,6 +37,6 @@ elseif **You turn in:** [Bag of Wolf Paws](/item/6264)
 >**Jaima Seyel says:** The constant threat of attack by the wolves has made it the responsibility of each citizen to carry one of those weapons. This strainer will be necessary in the construction of such a weapon. Take this note and seek out Amal Iuziq. He is a researcher that resides in the Library of Spiritual and Natural Studies. Give him this note and he will guide you further.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Note to Amat](/item/6265), [Ceremonial Metal Strainer](/item/6140)) 
 
 **This NPC *should* return incorrect items given.**

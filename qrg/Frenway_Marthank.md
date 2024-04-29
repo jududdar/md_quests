@@ -104,7 +104,7 @@ end
 
 
 
-if **You turn in:** [Bayle List II](/item/18809), [Mammoths Hide](/item/13912)
+if( **You turn in:** [Bayle List II](/item/18809), [Mammoths Hide](/item/13912)) then
 
 
 >**Frenway Marthank says:** It is not right to feel satisfied at the sight of Mammoth's hide, but I do. Thank you, Soandso.

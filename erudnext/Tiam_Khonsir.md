@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Kobold Molar](/item/1761)
+if( **You turn in:** [Kobold Molar](/item/1761)) then 
 
 
 >**Tiam Khonsir says:** Wonderful work, friend Soandso. One less land dwelling, flea ridden, primitive for our wondrous lord to sweep aside when the apocalypse is upon us. Here is your reward. Perhaps if you gather enough molars, we can offer you a [quest of greater importance].

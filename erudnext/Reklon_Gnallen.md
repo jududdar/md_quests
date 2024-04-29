@@ -78,7 +78,7 @@ end
 
 
 
-if **You turn in:** [Tainted Darksteel Breastplate](/item/29001), [Pure Crystal](/item/29006)
+if( **You turn in:** [Tainted Darksteel Breastplate](/item/29001), [Pure Crystal](/item/29006)) then
 
 
 >*Reklon Gnallen presses the gem of purity against the breastplate. Its dark gleam softens and then glows bright once again. 'Compassion is strong in you. Few so called heroes would sacrifice their time for such a menial task as you performed. Continue your work. Hold this ancient breastplate until you have completed your task.*
@@ -86,7 +86,7 @@ if **You turn in:** [Tainted Darksteel Breastplate](/item/29001), [Pure Crystal]
 
  **You receive:**  [Gleaming Crested Breastplate](/item/29004) 
 
-elseif **You turn in:** [Tainted Darksteel Sword](/item/29000), [bucket of pure water](/item/29009)
+elseif( **You turn in:** [Tainted Darksteel Sword](/item/29000), [bucket of pure water](/item/29009)) then
 
 
 >*Reklon Gnallen washes the sword's blade in the water of purity. Its dark surface begins to shine, as true as the day it was forged. 'Such a sacrifice is rare among the poor. Truly, the woman must have loved her brother. Remember the lesson you have learned from her. Keep the sword until your work is done.'*
@@ -94,7 +94,7 @@ elseif **You turn in:** [Tainted Darksteel Sword](/item/29000), [bucket of pure 
 
  **You receive:**  [Gleaming Crested Sword](/item/29003) 
 
-elseif **You turn in:** [Gleaming Crested Sword](/item/29003), [Gleaming Crested Breastplate](/item/29004), [Gleaming Crested Shield](/item/29005)
+elseif( **You turn in:** [Gleaming Crested Sword](/item/29003), [Gleaming Crested Breastplate](/item/29004), [Gleaming Crested Shield](/item/29005)) then
 
 
 >**Reklon Gnallen says:** I never thought our order would see these artifacts again. With the return of these relics we can now put at ease a scar upon the history of our order. This cleansing will atone for his failure. Your soul must be pure to have given so freely of yourself. Go now, take this crested token of our order. If you wish to free his soul you must undertake another sacrifice.

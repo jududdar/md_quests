@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [Busted Froglok Slave Shackles](/item/12660), [Busted Froglok Slave Shackles](/item/12660)
+if( **You turn in:** [Busted Froglok Slave Shackles](/item/12660), [Busted Froglok Slave Shackles](/item/12660)) then
 
 
 >**The Toilmaster says:** A deal is a deal. Here is one pile of granite pebbles. I hope you need more because I know there are more escaped froglok slaves.
@@ -79,7 +79,7 @@ if **You turn in:** [Busted Froglok Slave Shackles](/item/12660), [Busted Froglo
 
  **You receive:**  [Pile of Granite Pebbles](/item/12689) (+350 exp)
 
-elseif **You turn in:** [A Ragged Book](/item/18271)
+elseif( **You turn in:** [A Ragged Book](/item/18271)) then 
 
 
 >*The Toilmaster looks at the tome and speaks to you, scowling, 'Very well Broodling, I have a task for you. I should make you work at the feet of my Froglok Slaves, crushing granite, but the lore of the Brood has a specific rite for this situation. Take this book and learn the will of Cazic-Thule. Read it and ask me any questions that you may have before you start your penance. It would be a shame for you to fail at this task as well... though I wouldn't mind destroying you.*

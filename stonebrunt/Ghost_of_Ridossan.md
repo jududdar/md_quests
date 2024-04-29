@@ -18,7 +18,7 @@
 
 
 
-if **You turn in:** [Idol of Fear](/item/2297)
+if( **You turn in:** [Idol of Fear](/item/2297)) then 
 
 
 >*Ghost of Ridossan takes the idol into his spectral hand and shoves the lance into your arms. After letting go of the lance, the ghost immediately begins to fade away. Before it is gone completely, it looks into your eyes and says, 'Suffer.'*

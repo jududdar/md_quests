@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [A Ragged Cloth Note](/item/18901)
+if( **You turn in:** [A Ragged Cloth Note](/item/18901)) then
 
 
 >**Guard Settine says:** I.. but.. she.. You can take this. I guess I don't need it any more.

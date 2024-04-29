@@ -30,7 +30,7 @@ local text = "Thanks, but remember, I need all four items to show you the spell.
 
 
 
-if **You turn in:** [Rat Whiskers](/item/13071), [Snake Scales](/item/13070), [Bat Wing](/item/13068), [Bat Wing](/item/13068)
+if( **You turn in:** [Rat Whiskers](/item/13071), [Snake Scales](/item/13070), [Bat Wing](/item/13068), [Bat Wing](/item/13068)) then
 
 
 >**Unsar Koldhagon says:** All right, check this out. . . Maybe one day you'll be good enough to do this, too

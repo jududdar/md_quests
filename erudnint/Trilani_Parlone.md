@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Black Stone Candlestick](/item/1598)
+if( **You turn in:** [Black Stone Candlestick](/item/1598)) then 
 
 
 >**Trilani Parlone says:** I sense a great evil power in this candlestick. I will need you to concoct a divinatory aid for me before I can discern more. Take this suspension and brew it in a brew barrel with one white hellebore, a pouch of the red dust created by the Fire Peak Goblin Wizards, and the caustic substance used by the werebats in Unrest.
@@ -30,7 +30,7 @@ if **You turn in:** [Black Stone Candlestick](/item/1598)
 
  **You receive:**  [Magical Suspension Fluid](/item/1596) 
 
-elseif **You turn in:** [Divinatory Concoction](/item/1597)
+elseif( **You turn in:** [Divinatory Concoction](/item/1597)) then 
 
 
 >*Trilani Parlone performs a subtle divinatory ritual. 'This is a powerful evil indeed. The smoke from special candles crafted by the Teir'Dal and burned in this candlestick allows the creation of undead of unordinary might. The Ghasts are only one of its many possible creations. I will concoct a powder for you to take back to Yeolarn that will assist in defeating the monstrosities the candle has produced. The candlestick itself will remain here within the High Tower of Erudin for the time being.'*
@@ -50,7 +50,7 @@ elseif **You turn in:** [Divinatory Concoction](/item/1597)
 
  **You receive:**  [Powder of Unanimation](/item/1599) (+1500 exp)
 
-elseif **You turn in:** [Faded Cloak](/item/1056)
+elseif( **You turn in:** [Faded Cloak](/item/1056)) then 
 
 
 >**Trilani Parlone says:** Oh my lord Tunare! I did not know my daughter was in trouble. I thank you for saving her. Here, I have returned the once lost power to this cloak. Wear it with my humblest gratitude.

@@ -88,7 +88,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Monogrammed Cloth](/item/13302)
+if **Faction** >= Amiable and  **You turn in:** [Monogrammed Cloth](/item/13302)) then
 
 
 >**Rihtur Fullome says:** You have done a truly wicked deed. Good work! Milea was a prestigious member of the Hall of Steel and a friend to the Knights of Truth. It is better that she now fertilizes the flowers of the Plains of Karana. Here. A fitting reward for such a deed.
@@ -109,6 +109,6 @@ if **Faction** >= Amiable and  **You turn in:** [Monogrammed Cloth](/item/13302)
 * __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -149,7 +149,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [A Torn Qeynos Newsletter](/item/9931), [Pristine Scarab Eye](/item/9932), [Pristine Scarab Eye](/item/9932)
+if(expansion_flag >= 4.0 and  **You turn in:** [A Torn Qeynos Newsletter](/item/9931), [Pristine Scarab Eye](/item/9932), [Pristine Scarab Eye](/item/9932)) then 
 
 
 >**Salinsa Delfdosan says:** 'I knew that Deisnak would still have this! This has more useful information to us here at the temple then you could imagine. I am very happy to see that you were able to get it back for me. For your tireless devotion to our House I would like to present you with this mace. It has brought me good fortune in all the days that I carried it, I only wish that it can do the same for you. Good luck Knobinshu, and thank you.

@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Useless Token](/item/12184)
+if( **You turn in:** [Useless Token](/item/12184)) then
 
 
 >**Kelynn says:** You were sent by Geeda!! Here. Take the information. Maybe next you shall earn your [Scout Blade] from Laren. Quickly!! Leave at once!!

@@ -105,7 +105,7 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Polar Bear Skin](/item/13761), [Thick Grizzly Bear Skin](/item/13756), [Shark Skin](/item/13075), [Alligator Skin](/item/13749)
+if **Faction** >= Amiable +100 and  **You turn in:** [Polar Bear Skin](/item/13761), [Thick Grizzly Bear Skin](/item/13756), [Shark Skin](/item/13075), [Alligator Skin](/item/13749)) then 
 
 
 >**Marshal Anrey says:** So I see the young troll has become a young warrior.  You have stepped up to the challenge of the Leatherfoot Raiders, you may wear the petitioner's skullcap, but to receive the true cap of the raiders, bring me the dirk of a fallen Neriak dragoon and the cap I have given you.  Only then can I be sure that you can truly be one of the few and bold, the Leatherfoot Raiders.
@@ -129,9 +129,9 @@ if **Faction** >= Amiable +100 and  **You turn in:** [Polar Bear Skin](/item/137
 * __Faction:__ [Dreadguard Outer](/faction/334) (-3)
 
 
- **You receive:** None 
+ **You receive:**  [Leatherfoot Skullcap](/item/13941) (+1000 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Leatherfoot Skullcap](/item/13941), [Dragoon Dirk](/item/13942)
+elseif **Faction** >= Amiable +100 and  **You turn in:** [Leatherfoot Skullcap](/item/13941), [Dragoon Dirk](/item/13942)) then 
 
 
 >**Marshal Anrey says:** Congratulations, my young deputy! Welcome to the brotherhood of the Leatherfoot Raiders. You have earned your skullcap. Wear it with pride. You are now one of the elite. Remember our motto, 'Those who risk, prevail'.

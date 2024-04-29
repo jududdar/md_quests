@@ -78,7 +78,7 @@ end
 local text = "I'll need both the kobold medicine pouch and the diviner's bowl before I can reward you, Soandso. Good luck.";
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Kobold Shamans Pouch](/item/17056), [Diviners Bowl](/item/1766)
+if( **Faction is** > Indifferent and  **You turn in:** [Kobold Shamans Pouch](/item/17056), [Diviners Bowl](/item/1766)) then 
 
 
 >**Breya Nostulia says:** Well done, Soandso. I had a feeling you would return victorious. Here is your reward, the Leggings of Midnight Sea. Wear them with pride for the Ocean Lord. If you are interested in aiding us further, you may want to ask Gans about his brother.

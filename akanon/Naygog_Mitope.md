@@ -64,7 +64,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Yulcabis Axe](/item/10990)
+if(expansion_flag >= 4.0 and  **You turn in:** [Yulcabis Axe](/item/10990)) then 
 
 
 >**Naygog Mitope says:** Well done Soandso. Take this Dull Dark Reflection Axe and sharpen it in a forge with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once the axe has been sharpened take it to Clockwork SmithXIII with a Coyote Pelt and he will put the finishing touches on the weapon.
@@ -88,7 +88,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Yulcabis Axe](/item/10990)
  **You receive:**  [Dull Dark Reflection Axe](/item/10995) (+100 exp)
 
 
-elseif  **You turn in:** [Stained Parchment](/item/18759)
+elseif ( **You turn in:** [Stained Parchment](/item/18759)) then 
 
 
 >**Naygog Mitope says:** This is fabulous news!!  You have done well, young one. Once you are ready for [further instruction] please let me know, I will guide you through your early and most dangerous days. When you have become more experienced in our art, I will be able to further instruct you on how to progress through your early ranks.

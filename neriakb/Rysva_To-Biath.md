@@ -108,7 +108,7 @@ end
 local text = "Phagh! This is not enough. Get out of my sight!";
 
 
-if **You turn in:** [A Note](/item/18200)
+if( **You turn in:** [A Note](/item/18200)) then
 
 
 
@@ -130,7 +130,7 @@ if **You turn in:** [A Note](/item/18200)
 
  **You receive:**  [A Note](/item/18201) 
 
-elseif **You turn in:** [Dark Elf Decapitated Head](/item/13846), [A Note](/item/18201)
+elseif( **You turn in:** [Dark Elf Decapitated Head](/item/13846), [A Note](/item/18201)) then
 
 
 >**Rysva To-Biath says:** Take this book and be gone with you.
@@ -150,7 +150,7 @@ elseif **You turn in:** [Dark Elf Decapitated Head](/item/13846), [A Note](/item
 
  **You receive:**  [Book of Turmoil](/item/18202) (+72900 exp)
 
-elseif **You turn in:** [Torn, burnt book](/item/19071), [Torn, Frost covered book](/item/19070),platinum = 1000
+elseif( **You turn in:** [Torn, burnt book](/item/19071), [Torn, Frost covered book](/item/19070),platinum = 1000) then
 
 
 >**Rysva To-Biath says:** I have done what you asked, now begone from this place, I can bear your stink no longer.

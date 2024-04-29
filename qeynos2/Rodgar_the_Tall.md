@@ -40,7 +40,7 @@ end
 local text = "You know the deal!! Four Odus Pearls and you get the Treant Wood.";
 
 
-if **You turn in:** [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878)
+if( **You turn in:** [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878)) then 
 
 
 >**Rodgar the Tall says:** Wonderful!! I am sure that was a lot safer than battling a treant.

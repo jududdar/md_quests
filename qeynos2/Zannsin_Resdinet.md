@@ -106,7 +106,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Message to Zannsin](/item/18028)
+if **Faction** >= Amiable and  **You turn in:** [Message to Zannsin](/item/18028)) then
 
 
 >**Zannsin Resdinet says:** Great work, Soandso... The Circle is very pleased with your performance of late, and as a small reward for our more trusted members, I give you this... the cloak of the Unseen Hands. It's good to know that we can count on you to get the job done... here, Soandso, go relax and have some wine, on me.

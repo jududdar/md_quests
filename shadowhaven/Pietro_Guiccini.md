@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** gold = 1000
+if( **You turn in:** gold = 1000) then 
 
 
 >**Pietro Guiccini says:** Here you are, you have made a marvelous purchase. I see that you have excellent taste.

@@ -67,7 +67,7 @@ end
 
 
 
-if **You turn in:** [Tome of Elemental Understanding](/item/31435), [Tome of Elemental Cognizance](/item/31436), [Tome of Elemental Contemplation](/item/31437), [Tome of Elemental Thought](/item/31438)
+if( **You turn in:** [Tome of Elemental Understanding](/item/31435), [Tome of Elemental Cognizance](/item/31436), [Tome of Elemental Contemplation](/item/31437), [Tome of Elemental Thought](/item/31438) and **Your level** >= 55) then
 
 
 >*a mosscovered treant whispers, like wind through the tree tops, as it speaks hushed words to the tree.* 

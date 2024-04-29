@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18727)
+if( **You turn in:** [A tattered note](/item/18727)) then 
 
 
 >**Ghanlin Skyphire says:** Greetings. I am Ghanlin Skyphire, Master Wizard of the Crimson Hands. All of us here have devoted our lives to the studies of the arcane and mystical. Let's get you started. Here's your training robe.  Now, go find Raskena. She'll help train you and give you your first lesson.

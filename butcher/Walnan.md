@@ -36,7 +36,7 @@ local text = "Wait, Soandso, are you not forgetting something?";
 
 
 
-if **You turn in:** [Power of Fire](/item/28036), [Power of Wind](/item/28037), [Power of Earth](/item/28038), [Power of Water](/item/28039)
+if( **You turn in:** [Power of Fire](/item/28036), [Power of Wind](/item/28037), [Power of Earth](/item/28038), [Power of Water](/item/28039)) then
 
 
 >**Walnan says:** The arcane art of Summoning is derived from the power of the elements which surround us. Continue your journey across the Ocean of Tears. In a dark fortress, you should find Akksstaf lurking about. Be wary, but tell him that you seek Magi'kot. Hurry now Soandso, you do not wish to miss the ship!

@@ -87,7 +87,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Kevlins Debt](/item/13182)
+if **Faction** >= Amiable and  **You turn in:** [Kevlins Debt](/item/13182)) then 
 
 
 >**Ace Slighthand says:** Heh heh! You got a career ahead of ya kid! Good work. Here is your cut.

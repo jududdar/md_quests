@@ -31,17 +31,17 @@ end
 
 
 
-if **You turn in:** gold = 4
+if( **You turn in:** gold = 4) then
 
 
 **Cipse Tospyr casts:** [Healing](/spell/12) on target.
 
-elseif **You turn in:** gold = 3
+elseif( **You turn in:** gold = 3) then
 
 
 **Cipse Tospyr casts:** [Cure Poison](/spell/203) on target.
 
-elseif **You turn in:** gold = 2
+elseif( **You turn in:** gold = 2) then
 
 
 **Cipse Tospyr casts:** [Cure Disease](/spell/213) on target.

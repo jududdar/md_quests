@@ -51,7 +51,7 @@ end
 
 
 
-if  **You turn in:** [Jeb's Seal](/item/10604)
+if ( **You turn in:** [Jeb's Seal](/item/10604)) then
 
 
 >**Clockwork VIIX says:** It is time then, are you ready to get the required components?
@@ -62,7 +62,7 @@ if  **You turn in:** [Jeb's Seal](/item/10604)
 
  **You receive:**  [An Enchanters Sack](/item/17861) 
 
-elseif  **You turn in:** [A Sack For Mizzle](/item/10636)
+elseif ( **You turn in:** [A Sack For Mizzle](/item/10636)) then
 
 
 >**Clockwork VIIX says:** Oh excellent, you have done what is required. Here take this part, and seek the third master, you are well on your way.

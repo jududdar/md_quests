@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Skin of Blood Like Substance](/item/7776)
+if( **You turn in:** [Skin of Blood Like Substance](/item/7776)) then 
 
 
 >**Celris Shadetracker says:** You have done well Soandso! I will have this substance examined by our experts at the Magus Conlegium. Perhaps the results will give us some clue as to what teh Coterie of the Eternal Night is collecting it for.

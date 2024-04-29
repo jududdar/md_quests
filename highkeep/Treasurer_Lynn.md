@@ -42,15 +42,15 @@ end
 
 
 
-if **You turn in:** [Lottery Ticket \# 15600](/item/12261)
+if( **You turn in:** [Lottery Ticket \# 15600](/item/12261)) then
 
 
 >**Treasurer Lynn says:** You have the runner up ticket from last season!! Here is your reward. Remember, a copper gambled is a plat earned!!
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Lottery Ticket \# 16568](/item/12266)
+elseif( **You turn in:** [Lottery Ticket \# 16568](/item/12266)) then
 
 
 >**Treasurer Lynn says:** Congratulations!! You are the winner of last season's Highkeep lottery. Here is the key to the royal suite. You should find this room on the third floor.

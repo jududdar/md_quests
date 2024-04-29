@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Katta Castellum Badge of Service](/item/31754)
+if( **You turn in:** [Katta Castellum Badge of Service](/item/31754)) then
 
 
 >**Kerzar Clawtore says:** You've been sent by the Validus Custodus to question me!! You mortals are more foolish than I had presumed! The only information I have for you is the fact that you are about to face your death!!

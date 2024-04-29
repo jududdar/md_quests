@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18745)
+if( **You turn in:** [A tattered note](/item/18745)) then 
 
 
 >**Elisi Nasin says:** Welcome to the Coalition of Tradesfolk underground. We like to keep a low profile around here and not draw any unneeded attention to our operations, you following me? I hope so, for your sake. Anyways, Nestral T'Gaza is in charge with helping out our newest members. Go see her as soon as you get a chance.

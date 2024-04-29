@@ -110,7 +110,7 @@ local text = "No, No, No! I said to bring me the happy love bracers and the trol
 
 
 
-if  **You turn in:** [A tattered note](/item/18792)
+if ( **You turn in:** [A tattered note](/item/18792)) then 
 
 
 >**Hukulk says:** Haaah!! Bow to Hukulk!! Hukulk make you feared.. make you powered! Dark power flow through you! Hate and Fear in your blood! Go to Vergad. He give you first lesson in pain.
@@ -135,7 +135,7 @@ if  **You turn in:** [A tattered note](/item/18792)
  **You receive:**  [Black and Green Tunic*](/item/13530) (+20 exp)
 
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+elseif  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
 
 
 >**Hukulk says:** You good. Take dis. Make much pain and hurt. Make tings bleeds. Kill, hurt all. Innoruuk and me say do, now go. You do much, come bak. Teach you how more hurt and pain make. Go.
@@ -162,7 +162,7 @@ elseif  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), 
 
  **You receive:**  [Rusty Two Handed Sword](/item/5023) (+1000 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/12201), [Happy Love Bracers](/item/12202)
+elseif  **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/12201), [Happy Love Bracers](/item/12202)) then 
 
 
 >**Hukulk says:** Ha!! Ha!! Who have last laugh now!! You do good werk.  Now me give you extra helm of Hukulk. Now go away!!
@@ -184,6 +184,6 @@ elseif  **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/12201), 
 
 
 
- **You receive:** None 
+ **You receive:**  [Helm of Hukulk](/item/3316) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

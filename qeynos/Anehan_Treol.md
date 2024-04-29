@@ -13,7 +13,7 @@ end
 
   
 
-if **You turn in:** [Jusean's Report Request](/item/18021)
+if( **You turn in:** [Jusean's Report Request](/item/18021)) then
 
 
 >**Anehan Treol says:** Oh, report time already again? Yeah, here ya go, Soandso. Be careful around here at night, I've been seeing some rough looking characters lurking about.

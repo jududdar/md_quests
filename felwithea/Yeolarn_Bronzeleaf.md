@@ -67,7 +67,7 @@ end
 local text1 = "I requested four Ghast hearts!";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+if **Faction** >= Indifferent and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare! I knew you would be victorious. I reward you with this spell, and pray that it will help you in your fight against the unholy forces of Innoruuk. When you are ready you will make a fine [Initiate of Tunare].
@@ -84,7 +84,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Bone Chips](/item/13073), [
 
  **You receive:**  [Spell: Strike](/item/15014) (+4400 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199)
+elseif **Faction** >= Indifferent and  **You turn in:** [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199)) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare!! You have done well young Initiate. Here the symbol of your station within our faith. Return to me when you are ready to [slay the necromancer] that has been creating the undead.
@@ -101,7 +101,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Putrescent Heart](/item
 
  **You receive:**  [Initiate Symbol of Tunare](/item/1570) (+3250 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Initiate Symbol of Tunare](/item/1570), [Teir\`Dal Courier's Head](/item/12514), [Teir\`Dal Crate](/item/19065), [Larik Z\`Vole's Head](/item/12513)
+elseif **Faction** >= Indifferent and  **You turn in:** [Initiate Symbol of Tunare](/item/1570), [Teir\`Dal Courier's Head](/item/12514), [Teir\`Dal Crate](/item/19065), [Larik Z\`Vole's Head](/item/12513)) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare! The Mother smiles on you this day Disciple Soandso! I present you with the symbol of your new station among the Priests of Tunare. Return to me when you are ready to become a [Warden of Tunare]?
@@ -118,7 +118,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Initiate Symbol of Tuna
 
  **You receive:**  [Disciple Symbol of Tunare](/item/1571) (+4000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Disciple Symbol of Tunare](/item/1571), [Powder of Unanimation](/item/1599)
+elseif **Faction** >= Indifferent and  **You turn in:** [Disciple Symbol of Tunare](/item/1571), [Powder of Unanimation](/item/1599)) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare!! I will have our sorcerers examine this power immediately to see if we can reproduce it in quantities enough to eliminate the undead plague. I award you the rank of Warden of Tunare, the All Mother smiles upon you, Soandso!
@@ -135,7 +135,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Disciple Symbol of Tuna
 
  **You receive:**  [Warden Symbol of Tunare](/item/1572) (+5000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/18780)
+elseif **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/18780)) then 
 
 
 >**Yeolarn Bronzeleaf says:** Welcome, friend, to the Clerics of Tunare. I am Yeolarn Bronzeleaf, head of the guild and devout follower of Tunare. Here is your guild tunic - it will help to protect you against this world's evils.

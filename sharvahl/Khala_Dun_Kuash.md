@@ -200,15 +200,15 @@ end
 
 
 
-if **You turn in:** [Horn Covered Buckler](/item/5550)
+if( **You turn in:** [Horn Covered Buckler](/item/5550)) then
 
 
 >**Khala Dun Kuash says:** You must think you're pretty tough wearin a buckler like that, eh? Well well... Perhaps you're looking to hunt some bigger game, eh? Earn a little scruff on your ears like Kuash? I thought so. I know a good place for you to start... and it's part of your civil duty. Our scouts have always had trouble with the wolves in the moor. I'm thinkin that you can start there. Maybe break in a few of the younger wolves' paws, eh? I thought so. Put your buckler back on and take this bag. Fill it with wolf paws and bring it back to me. Maybe then I'll give you a real challenge.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Horn Covered Buckler](/item/5550), [Worn Work Sack](/item/17114)) 
 
-elseif **You turn in:** [Sack of Paws](/item/6217)
+elseif( **You turn in:** [Sack of Paws](/item/6217)) then
 
 
 >**Khala Dun Kuash says:** Well, you're beginning to scare me you're so tough! Just pullin your tail. Those were some scary beasts, eh? I thought so. I've got a dagger that helps me to deal with them. It's made in a special way to hurt the wolves more than usual. If you want one, you're going to need to make your own. I still got the molds that I used when I was craftin blades for people. If you run this status report to Bookkeeper Leaha in the Grunt Forest outpost for me, I'll go by my house and get the molds for you. Sound like a deal? I thought so.
@@ -219,7 +219,7 @@ elseif **You turn in:** [Sack of Paws](/item/6217)
 
  **You receive:**  [Daily Status Report](/item/6219) (+1000 exp)
 
-elseif **You turn in:** [Daily Status Report](/item/6221)
+elseif( **You turn in:** [Daily Status Report](/item/6221)) then
 
 
 >**Khala Dun Kuash says:** Thank you very much. I see you got it all filled out. I gathered up all of those molds for you while you were gone. You can even have this old hilt that I found with them. Make sure you keep them in a safe place. You're going to need them and the books that the book fellow Qua sells. He's got a bunch of them and a kit that you'll need. When you get done with makin your dagger, bring it back by here with your cloak and I'll show you a surprise!
@@ -228,14 +228,14 @@ elseif **You turn in:** [Daily Status Report](/item/6221)
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Blade Mold](/item/6141), [Claw Mold](/item/6142), [Khala Dun Hilt Piece](/item/6148)) (+1000 exp)
 
-elseif **You turn in:** [Cloak of the Khala Dun Apprentice](/item/5557), [Sonic Wolf Bane Dagger](/item/6158)
+elseif( **You turn in:** [Cloak of the Khala Dun Apprentice](/item/5557), [Sonic Wolf Bane Dagger](/item/6158)) then
 
 
 e.self:Say("You have done well 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Cloak of the Khala Dun Journeyman](/item/6222), [Sonic Wolf Bane Dagger](/item/6158)) (+10000 exp)
 
 **This NPC *should* return incorrect items given.**

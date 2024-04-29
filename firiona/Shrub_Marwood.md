@@ -42,7 +42,7 @@ local text2 = "If you want the [Fertile Crop] druid spell, I must insist that yo
 
 
 
-if **You turn in:** [Mantrap Root](/item/12960), [A Tump Stump](/item/12955), [A Tump Stump](/item/12958)
+if( **You turn in:** [Mantrap Root](/item/12960), [A Tump Stump](/item/12955), [A Tump Stump](/item/12958)) then
 
 
 >*Shrub Marwood tosses the mantrap root out the window.. SPLASH!! 'I made a mistake. I didn't need that one. Here is the shillelagh I told you about. I found it in some burned out woods far from here. I cleaned it up and found it had a spark of mana so I had it enchanted with a few charges of my spell, [Fertile Crop]. Hope you like it.'*
@@ -65,7 +65,7 @@ if **You turn in:** [Mantrap Root](/item/12960), [A Tump Stump](/item/12955), [A
 
  **You receive:**  [Dark Oak Shillelagh](/item/12953) (+25000 exp)
 
-if **You turn in:** [A Farsight Crystal](/item/11579), [Pouch of Dust](/item/12753), [Strathbone Silk](/item/12957), [Shaman Powder](/item/12959)
+if( **You turn in:** [A Farsight Crystal](/item/11579), [Pouch of Dust](/item/12753), [Strathbone Silk](/item/12957), [Shaman Powder](/item/12959)) then
 
 
 >**Shrub Marwood says:** Great work! I wish I had the coin to hire you on permanently. Maybe I will, when I find the lost trade city of Torsis. Here is the spell I copied for you. Careful, the ink is still drying.

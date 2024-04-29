@@ -41,7 +41,7 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Butcher Apron](/item/12217)
+if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Butcher Apron](/item/12217)) then 
 
 
 >**a skeleton says:** Great! Thanks a lot, pal. Lets get moving. I hear my bonehead roomie called the Captain was spotted by Basher Sklama. Go ask [where the Captain] is.

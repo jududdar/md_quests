@@ -107,7 +107,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18709)
+if( **You turn in:** [A tattered note](/item/18709)) then
 
 
 >**Hager Sureshot says:** Welcome, we are the Protectors of the Pine. Wear this tunic of our guild, and help us defend our great and beautiful woods. Go to Larsk Juton, he will help train you and teach you the power of the woods.
@@ -127,7 +127,7 @@ if **You turn in:** [A tattered note](/item/18709)
 
  **You receive:**  [Mud Stained Tunic*](/item/13509) (+20 exp)
 
-elseif **You turn in:** [Barbarian Head](/item/13913)
+elseif( **You turn in:** [Barbarian Head](/item/13913)) then
 
 
 >**Hager Sureshot says:** His days of hunting are over. In the name of the Protectors of the Pine, I offer you this reward. If you are unable to make use of it, you may sell it. I suggest you hold onto it. If you are a ranger it will come in handy.
@@ -145,7 +145,7 @@ elseif **You turn in:** [Barbarian Head](/item/13913)
 * __Faction:__ [Guards of Qeynos](/faction/262) (5)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Tailored Quiver](/item/17804), [Wooden Shield](/item/9006), [Buckler](/item/9001), [Hunting Bow](/item/8011)) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

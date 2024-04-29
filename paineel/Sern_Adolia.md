@@ -87,7 +87,7 @@ local text = "I need no fewer than four infected rat livers!! Now, go get me wha
 local text1 = "I require all four reagents, anything less is useless. Incompetence will get you nowhere amongst the faithful of Cazic-Thule!";
 
 
-if **You turn in:** [Harbingers of Fear Guild Note](/item/18019)
+if( **You turn in:** [Harbingers of Fear Guild Note](/item/18019)) then 
 
 
 >**Sern Adolia says:** You are welcomed into the fold. Now go out. and prove yourself. young one. You have much to learn about the Dark Truth.
@@ -110,7 +110,7 @@ if **You turn in:** [Harbingers of Fear Guild Note](/item/18019)
 
  **You receive:**  [Blood Splattered Tunic](/item/13573) (+20 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Infected Rat Livers](/item/13270), [Infected Rat Livers](/item/13270), [Infected Rat Livers](/item/13270), [Infected Rat Livers](/item/13270)
+elseif **Faction** >= Indifferent and  **You turn in:** [Infected Rat Livers](/item/13270), [Infected Rat Livers](/item/13270), [Infected Rat Livers](/item/13270), [Infected Rat Livers](/item/13270)) then
 
 
 >**Sern Adolia says:** Well done, go now and continue your contemplations of fear. Keep up with your [duties] and you will soon be reaping the rewards granted by our Lord Cazic-Thule!!
@@ -131,9 +131,9 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Infected Rat Livers](/i
 * __Faction:__ [Gate Callers](/faction/254) (-5)
 
 
- **You receive:** None 
+ **You receive:**  [Initiate Symbol of Cazic Thule](/item/1437) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Zombie Skin](/item/13074), [Embalming Dust](/item/16990), [Charred Bone Chips](/item/14102), [Vial of Tunares Breath](/item/14103)
+elseif **Faction** >= Amiable and  **You turn in:** [Zombie Skin](/item/13074), [Embalming Dust](/item/16990), [Charred Bone Chips](/item/14102), [Vial of Tunares Breath](/item/14103)) then
 
 
 >**Sern Adolia says:** Excellent Job Soandso. These components will help with our research immeasurably. You will soon be reaping the rewards granted by our Lord Cazic-Thule!! If you want to further assist our research effots, talk to Atdehim Sqonci.

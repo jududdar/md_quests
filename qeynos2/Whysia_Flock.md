@@ -47,7 +47,7 @@ end
 
 
 
-if **You turn in:** [Shining Star of Light](/item/6356), gold=20
+if( **You turn in:** [Shining Star of Light](/item/6356), gold=20) then 
 
 
 >**Whysia Flock says:** Here you are, then.  May the power of the Prime Healer guide you through life and keep you healthy.

@@ -11,7 +11,7 @@ function event(e)
 
 
 
-if **You turn in:** [Shoeon Malicus' Belongings](/item/10684)
+if( **You turn in:** [Shoeon Malicus' Belongings](/item/10684)) then
 
 
 >*Shoeon Malicus reaches forward as his hands materialize to grasp the box of belongings then places them carefully in his crypt. He then reaches towards Soandso again as an etherial warhammer materializes in his hands and is offered to Soandso.*

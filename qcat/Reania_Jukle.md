@@ -32,7 +32,7 @@ enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
 
 
 
-if **You turn in:** [Blood Stained Note](/item/18851)
+if( **You turn in:** [Blood Stained Note](/item/18851)) then 
 
 
 * __Faction:__ [Bloodsabers](/faction/221) (100)

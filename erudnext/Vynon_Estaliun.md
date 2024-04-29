@@ -39,7 +39,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Fishy Cat Tail](/item/13884)
+if **Faction** >= Amiable and  **You turn in:** [Fishy Cat Tail](/item/13884)) then 
 
 
 >**Vynon Estaliun says:** Good work. I knew you could do it. Take this as reward.

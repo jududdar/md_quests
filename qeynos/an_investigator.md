@@ -75,7 +75,7 @@ end
 
 
 
-if **You turn in:** [Investigators Briefing](/item/18289)
+if( **You turn in:** [Investigators Briefing](/item/18289)) then
 
 
 >**an investigator says:** Very well, let's get to work. I assume you have read the briefing and committed it to memory. This is how you will be tested. I shall play the part of student and you shall play the master who directs me. I promise I won't make it easy on you either, we want only the best. We'll see how you do and then I'll decide if you are worthy to wear the badge or not.
@@ -92,7 +92,7 @@ eq.follow(e.other:GetID());
 
 eq.set_global("invest_badge","first_suspect",3,"F");
 
-elseif **You turn in:** [Rileys Confession](/item/2369), [Willies Confession](/item/2394), [Head of Donally Stultz](/item/2279)
+elseif( **You turn in:** [Rileys Confession](/item/2369), [Willies Confession](/item/2394), [Head of Donally Stultz](/item/2279)) then
 
 
 eq.stop_follow();

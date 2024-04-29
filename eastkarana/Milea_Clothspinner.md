@@ -73,7 +73,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A Tattered Note](/item/18801)
+if **Faction** >= Indifferent and  **You turn in:** [A Tattered Note](/item/18801)) then
 
 
 >**Milea Clothspinner says:** My sister is in danger. She is all the family I have left. I shall be on my way soon. Please take her my handkerchief, so she knows you have contacted me. Thank you. I am thankful Nerissa ran into you. I just wonder why she did not tell Kane about her suspicions.
@@ -102,7 +102,7 @@ if **Faction** >= Indifferent and  **You turn in:** [A Tattered Note](/item/1880
 
 **Spawn NPC:**  [\#Guard Elias](/npc/15193) at (**y:** -1870, **x:** -5521)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Sealed Note](/item/18934)
+elseif **Faction** >= Amiable and  **You turn in:** [Sealed Note](/item/18934)) then 
 
 
 >**Milea Clothspinner says:** Oh great!! I thought I'd saw that last of Plagus, or as all the women in the Steel Warriors called him, the Plague. Please do not tell him where I am. It must have been a long journey for you. Here. A little something for your wasted trip. I found it on the ground. Have fun going back to Freeport.

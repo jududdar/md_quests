@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Black Sapphire](/item/10036), [Ruby](/item/10035)
+if( **You turn in:** [Black Sapphire](/item/10036), [Ruby](/item/10035)) then
 
 
 >**Niblek says:** I much happy now!! I want shiny tings for long time! I give you ugly broken necklace now!

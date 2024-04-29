@@ -76,7 +76,7 @@ end
 
 
 
-if **You turn in:** [Full Sack for Master](/item/12815)
+if( **You turn in:** [Full Sack for Master](/item/12815)) then
 
 
 >*an Iksar master bows before you and takes a wrinkled, mummified hand from a pouch at his side. 'Take the hand. Let it rest within Cabilis and be reunited with the left.'*
@@ -88,9 +88,9 @@ if **You turn in:** [Full Sack for Master](/item/12815)
 * __Faction:__ [Legion of Cabilis](/faction/441) (10)
 
 
- **You receive:** None 
+ **You receive:**  [Iksar Right Hand =|-](/item/12797) (+20000 exp)
 
-elseif **You turn in:** [A Tin Box](/item/12829)
+elseif( **You turn in:** [A Tin Box](/item/12829)) then
 
 
 >*an Iksar master opens the box to reveal a variety of pebbles. 'How grand!! My pebbles!! Now I can continue with my rock garden!! Hmmm. You look familiar. Hey!! I bet you can help me complete my garden!! Would you please [assist old Rinmark in completing his rock garden]?'*
@@ -104,7 +104,7 @@ elseif **You turn in:** [A Tin Box](/item/12829)
 
  **You receive:** 0 (+30000 exp)
 
-elseif **You turn in:** [A Pebble Filled Box](/item/12836)
+elseif( **You turn in:** [A Pebble Filled Box](/item/12836)) then
 
 
 >*an Iksar master graciously accepts the tin box filled with precious rocks and gems. 'Thank you greatly, young Soandso. For your deed, I bestow upon you the shackle of bronze!! You have completed the third rung. Alas, there is no time for celebration. I need your help in rescuing a [student] of mine.'*

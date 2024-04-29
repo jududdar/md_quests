@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Scepter of Storms](/item/9233), [Scroll of the Tempest Eye](/item/9234)
+if( **You turn in:** [Scepter of Storms](/item/9233), [Scroll of the Tempest Eye](/item/9234)) then 
 
 
 >**D-mitrious Irska says:** The Scepter of Storms. . . but how could this be? You have spoken with Shayna, yes? I see that she has found one to retrieve the stolen tome. But what is even more intriguing is the acquisition of the scepter itself. I am impressed and these items represent your deeds better than any arrogant boasting that I hear day in and day out from the other youths of the order. Aaaah and yes, you have the scroll! Well then, we cannot let an opportunity like this slip through our fingers, now can we?'' The mage quickly eyes the scroll before closing his eyes and beginning an arcane chant. The scroll in his hand begins to smolder, although the page is not damaged. A glowing silver image of a swirling storm seems to reflect off the surface of the parchment. Then, the scepter begins to slightly chime and runes begin to magically imbed themselves into the scepter's base. The mage opens his eyes and extends the scepter to you, ''Now then, [shall we continue]?
@@ -40,7 +40,7 @@ if **You turn in:** [Scepter of Storms](/item/9233), [Scroll of the Tempest Eye]
 
  **You receive:**  [Scepter of Storms ](/item/17170) (+2000 exp)
 
-elseif **You turn in:** [Cloudy Azure Sphere](/item/9236), [Essence of the Storm](/item/9235)
+elseif( **You turn in:** [Cloudy Azure Sphere](/item/9236), [Essence of the Storm](/item/9235)) then 
 
 
 e.self:Emote("studies both items intently, muttering softly to himself at an inaudible tone. Eventually, the mage closes his eyes and begins to chant, the melodic weave of arcane words causing the essence to shimmer with the brilliance of an electrical storm. Slowly, he brings both hands together, sealing the ethereal essence within the magical sphere 

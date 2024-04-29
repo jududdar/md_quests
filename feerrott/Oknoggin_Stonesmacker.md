@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Wax Sealed Note](/item/20673)
+if( **You turn in:** [Wax Sealed Note](/item/20673)) then
 
 
 >*Oknoggin Stonesmacker snatches the note from your hand and rips it open with his large hands. 'You take dis to Kargek. He want!'*

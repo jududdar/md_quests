@@ -83,7 +83,7 @@ end
 
 
 
-if **You turn in:** [Head of Elishia Blackguard](/item/9270), [Head of Reynold Blackguard](/item/9271), [Head of Zed Sticklebush](/item/9272), [Head of Vaurien Sticklebush](/item/9273)
+if( **You turn in:** [Head of Elishia Blackguard](/item/9270), [Head of Reynold Blackguard](/item/9271), [Head of Zed Sticklebush](/item/9272), [Head of Vaurien Sticklebush](/item/9273)) then
 
 
 >**Randel Stormwind says:** Great Karana's blessing!! I see justice by your hand is both swift and eternal. I would never have had the skill nor the heart to carry out these miscreant's punishment the way you have. I'm glad to call you a friend and not an enemy. Well, I did promise just compensation for your efforts and I'm true to my word. Please take this ring as a token of my gratitude.

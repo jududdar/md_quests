@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Chief Ry\`Gorrs Head](/item/1092)
+if( **You turn in:** [Chief Ry\`Gorrs Head](/item/1092)) then
 
 
 >**Garadain Glacierbane says:** Good work friend! The Dain will hear of this right away. We couldn't have defeated the Ry'gorr  without your help. Take this ring as proof that you have served the Coldain well. You may wish to show it to the Seneschal should you ever stop in our fine city. Farewell, Soandso, it has been my pleasure knowing you.

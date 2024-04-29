@@ -192,7 +192,7 @@ end
 
 
 
-if **You turn in:** [Gawfeds Receipt](/item/5954)
+if( **You turn in:** [Gawfeds Receipt](/item/5954)) then
 
 
 >*Jihli Mahej looks at the note and begins to look a bit nervous. 'The vase that Master Gawfed purchased was accidentally knocked off of the shelf last night by a most clumsy customer. I apologize greatly, but I have only the broken pieces of the vase to offer you. Here, please take them with my sincere apologies. I will give Master Gawfed house credit for the vase and I can recommend someone that may be able to assist you in this most unfortunate dilemma. Give the pieces to Chogar and he may be able to assist you in repairing the vase.*

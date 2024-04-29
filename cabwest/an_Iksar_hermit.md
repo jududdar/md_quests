@@ -38,7 +38,7 @@ local text = "All is not complete. A cap and the rest, which was asked for, is r
 
 
 
-if **You turn in:** [Barbed Scaled Whip](/item/12886), [Sorcerer Skullcap](/item/4266)
+if( **You turn in:** [Barbed Scaled Whip](/item/12886), [Sorcerer Skullcap](/item/4266)) then
 
 
 >*an Iksar hermit takes the flail and vanishes with a brilliant flash!! Within your hands appears a skullcap. You hear a voice echo through the cave. Well done. You are a formidable necromancer. We thank you.*

@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Banded Mail](/item/3056), [Star Ruby](/item/10032), [Watchmans Spectacles](/item/14777), [Nectar of Isolation](/item/14778)
+if( **You turn in:** [Banded Mail](/item/3056), [Star Ruby](/item/10032), [Watchmans Spectacles](/item/14777), [Nectar of Isolation](/item/14778)) then
 
 
 >**Shezlie Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
@@ -40,7 +40,7 @@ if **You turn in:** [Banded Mail](/item/3056), [Star Ruby](/item/10032), [Watchm
 
  **You receive:**  [Scaled Mystic Breastplate](/item/4989) (+2000 exp)
 
-elseif **You turn in:** [Banded Gauntlets](/item/3062), [Ruby](/item/10035), [Venomous Parchment](/item/14773), [Warlord Drawing Pen](/item/14774)
+elseif( **You turn in:** [Banded Gauntlets](/item/3062), [Ruby](/item/10035), [Venomous Parchment](/item/14773), [Warlord Drawing Pen](/item/14774)) then
 
 
 >**Shezlie Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
@@ -48,7 +48,7 @@ elseif **You turn in:** [Banded Gauntlets](/item/3062), [Ruby](/item/10035), [Ve
 
  **You receive:**  [Scaled Mystic Gauntlets](/item/4985) (+1000 exp)
 
-elseif **You turn in:** [Banded Leggings](/item/3063), [Fire Emerald](/item/10033), [Sarnak Recruitment Letter](/item/14775), [Exiled Iksar Head](/item/14776)
+elseif( **You turn in:** [Banded Leggings](/item/3063), [Fire Emerald](/item/10033), [Sarnak Recruitment Letter](/item/14775), [Exiled Iksar Head](/item/14776)) then
 
 
 >**Shezlie Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
@@ -56,7 +56,7 @@ elseif **You turn in:** [Banded Leggings](/item/3063), [Fire Emerald](/item/1003
 
  **You receive:**  [Scaled Mystic Greaves](/item/4987) (+1000 exp)
 
-elseif **You turn in:** [Banded Helm](/item/3053), [Sapphire](/item/10034), [Bargynns Digger](/item/14771), [Sythrax Building Plans](/item/14772)
+elseif( **You turn in:** [Banded Helm](/item/3053), [Sapphire](/item/10034), [Bargynns Digger](/item/14771), [Sythrax Building Plans](/item/14772)) then
 
 
 >**Shezlie Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild

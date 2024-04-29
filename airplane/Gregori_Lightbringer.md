@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Efreeti Zweihander](/item/20725), [Dulcet Nectar](/item/20964), [Golden Hilt](/item/20726), [Large Sky Diamond](/item/20727)
+if( **You turn in:** [Efreeti Zweihander](/item/20725), [Dulcet Nectar](/item/20964), [Golden Hilt](/item/20726), [Large Sky Diamond](/item/20727)) then 
 
 
 
@@ -53,7 +53,7 @@ if **You turn in:** [Efreeti Zweihander](/item/20725), [Dulcet Nectar](/item/209
 
  **You receive:**  [Truvinan](/item/11682) (+100000 exp)
 
-elseif **You turn in:** [Griffon Statuette](/item/20950), [Spiroc Peace Totem](/item/20721), [Bixie Sword Blade](/item/20722)
+elseif( **You turn in:** [Griffon Statuette](/item/20950), [Spiroc Peace Totem](/item/20721), [Bixie Sword Blade](/item/20722)) then 
 
 
 
@@ -62,7 +62,7 @@ elseif **You turn in:** [Griffon Statuette](/item/20950), [Spiroc Peace Totem](/
 
  **You receive:**  [Aldryn, Blade of the Ocean](/item/27708) (+100000 exp)
 
-elseif **You turn in:** [Dark Spiroc Feather](/item/20957), [Ethereal Topaz](/item/20723), [Sphinx Claw](/item/20724)
+elseif( **You turn in:** [Dark Spiroc Feather](/item/20957), [Ethereal Topaz](/item/20723), [Sphinx Claw](/item/20724)) then 
 
 
 

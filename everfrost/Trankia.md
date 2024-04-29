@@ -23,7 +23,7 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if **You turn in:** [Shadowed Ball](/item/10528)
+if( **You turn in:** [Shadowed Ball](/item/10528)) then
 
 
 >**Trankia says:** You must be another one from Vilissia. I will tell you what I tell all the others - you must help me [avenge] my [brother] before I will help you attain Tishan's Kilt.
@@ -31,7 +31,7 @@ if **You turn in:** [Shadowed Ball](/item/10528)
 
  **You receive:**  [A tattered note](/item/18797) (+500 exp)
 
-elseif **You turn in:** [A Barbarian Head](/item/10556)
+elseif( **You turn in:** [A Barbarian Head](/item/10556)) then
 
 
 >**Trankia says:** Oh Wulfthan, look what has become of you. I told you that you should not have trusted Martar.  Soandso, as a final service, I want you to kill Martar IceBear for me. He is known to roam these parts. Bring me the Warthread Kilt that he wears and my two reminder notes, and I will give to you Tishan's Kilt.
@@ -39,7 +39,7 @@ elseif **You turn in:** [A Barbarian Head](/item/10556)
 
  **You receive:**  [A tattered note](/item/18798) (+500 exp)
 
-elseif **You turn in:** [Warthread Kilt](/item/1347), [A tattered note](/item/18797), [A tattered note](/item/18798)
+elseif( **You turn in:** [Warthread Kilt](/item/1347), [A tattered note](/item/18797), [A tattered note](/item/18798)) then
 
 
 >**Trankia says:** Ah, Wulfthan, you are at last avenged. Thank you, Soandso- please take this kilt as a reward for services well done.

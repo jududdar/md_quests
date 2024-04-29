@@ -47,7 +47,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if **You turn in:** [Blood Stained Note](/item/18853)
+if( **You turn in:** [Blood Stained Note](/item/18853)) then 
 
 
 * __Faction:__ [Bloodsabers](/faction/221) (100)
@@ -67,7 +67,7 @@ if **You turn in:** [Blood Stained Note](/item/18853)
 
  **You receive:**  [Ruined Training Tunic*](/item/13598) (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Lukas Hergo's Head](/item/20175)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Lukas Hergo's Head](/item/20175)) then
 
 
 >**Rocthar Bekesna says:** Well done Soandso. Now take this Rusty Scourge Warrior Broadsword to a forge and sharpen it with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done take the Tarnished Scourge Warrior Sword and a Giant King Snake Skin to Illie Roln and he will put the finishing touches on the weapon.

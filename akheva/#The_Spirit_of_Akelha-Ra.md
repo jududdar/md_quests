@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [Essence Emerald](/item/9963)
+if( **You turn in:** [Essence Emerald](/item/9963)) then
 
 
 >*The Spirit of Akelha-Ra  laughs quietly as the energy of the gem is absorbed into her being. She begins to chant in what you presume to be Akhevan. She suddenly cries out in pain and her image begins to flicker. She looks at Soandso directly in the eyes and says, 'Vyanemis Tuis, use my gift wisely.' She disappears into the black marble leaving only a dark scepter frame lying on the floor. Soandso picks it up.*

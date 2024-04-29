@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Grimling Runner Pouch](/item/31730)
+if( **You turn in:** [Grimling Runner Pouch](/item/31730)) then
 
 
 >**Rallic Aristos says:** Excellent. The contents of the pouch shall be examined immediately. Take this pattern for a crafting a pack that will be sure to lighten the burden of its contents. I'm afraid I do not have the rest of the [required materials] at hand.

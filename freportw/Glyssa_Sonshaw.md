@@ -12,7 +12,7 @@ enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
 local text = "I require the parchment from Leraena as well as the Odd Cold Iron Necklace.";
 
 
-if **You turn in:** [Sealed Parchment](/item/1772), [Odd Cold Iron Necklace](/item/14585)
+if( **You turn in:** [Sealed Parchment](/item/1772), [Odd Cold Iron Necklace](/item/14585)) then 
 
 
 >**Glyssa Sonshaw says:** Ah..yes, I have seen this symbol before. There is a kobold that lives among the gnomes of Ak'anon. He may be reluctant to speak with you but you have no need to fear him. He is a follower of Brell Serilis and a valuable source of information on kobold society and culture. I will construct a message for him. Deliver the message and necklace and perhaps he can enlighten you to its meaning.

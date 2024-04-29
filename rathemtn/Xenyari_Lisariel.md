@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Prickly Pear](/item/10195)
+if( **You turn in:** [Prickly Pear](/item/10195)) then
 
 
 >**Xenyari Lisariel says:** Prickly pears! I just love prickly pears!! Thank you so much for getting these for me. I really, really appreciate your gift and I shall not.. OWW!! I hate it when I stick myself with the needles! Oh look, I am bleeding now! <Sigh.> Can you hold this note for a moment, please? My hands are full and I must clean up.
@@ -28,7 +28,7 @@ if **You turn in:** [Prickly Pear](/item/10195)
 
  **You receive:**  [Bloodied Piece of Parchment](/item/10196) (+1000 exp)
 
-elseif **You turn in:** [Faceted Hyacinth Telesm](/item/10193)
+elseif( **You turn in:** [Faceted Hyacinth Telesm](/item/10193)) then
 
 
 >*Xenyari Lisariel bounces around with glee at the sight of your gift, smiles at you, and dons the telesm. As she clasps the telesm around her neck, she begins to writhe in agony, and slowly fades from sight leaving just the telesm, which is now pulsating with vibrant energy.*

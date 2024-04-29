@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** gold = 2
+if( **You turn in:** gold = 2) then
 
 
 >**Lashun Novashine says:** Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.
@@ -88,7 +88,7 @@ if **You turn in:** gold = 2
 
  **You receive:** 0 (+1 exp)
 
-elseif **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
 
 
 local times = 2
@@ -144,7 +144,7 @@ until times <= 0
 
 
 
-elseif **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then
 
 
 >**Lashun Novashine says:** Very well, young one. May the light of the Prime Healer wash away your scars.

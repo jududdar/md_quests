@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Grayish Liquid](/item/14799)
+if( **You turn in:** [Grayish Liquid](/item/14799)) then
 
 
  **You receive:**  [Froglok Goo](/item/14805) 

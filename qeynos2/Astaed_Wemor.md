@@ -111,7 +111,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/18862)
+if **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/18862)) then
 
 
 
@@ -137,9 +137,9 @@ if **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/1886
 * __Faction:__ [Antonius Bayle](/faction/219) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bronze Warhammer](/item/6022), [Bronze Flail](/item/6023), [Bronze Morning Star](/item/6024), [Bronze Warclub](/item/6025)) (+4000 exp)
 
-elseif **Faction** >= Amiable +50 and  **You turn in:** [Honey Jum](/item/13952)
+elseif **Faction** >= Amiable +50 and  **You turn in:** [Honey Jum](/item/13952)) then
 
 
 >**Astaed Wemor says:** I pray to Rodcet Nife that you have made it back in time. Let's add a small amount of this honey jum to this and.. here is the potion. This potion must be taken to a sick member of the congregation. The man is Lempeck Hargrin. He lives in the west plains of Karana between the river and the crop fields. He is in dire need of this potion. He has an odd disease. We have tried everything to cure him and this is his last chance. Run to him.
@@ -163,9 +163,9 @@ elseif **Faction** >= Amiable +50 and  **You turn in:** [Honey Jum](/item/13952)
 * __Faction:__ [Antonius Bayle](/faction/219) (3)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Prime Healer Potion](/item/13954), [Prime Healer Potion](/item/13955)) (+1000 exp)
 
-elseif **Faction** >= Amiable +50 and  **You turn in:** [Rusty Scythe](/item/13970)
+elseif **Faction** >= Amiable +50 and  **You turn in:** [Rusty Scythe](/item/13970)) then
 
 
 >**Astaed Wemor says:** It is good to know that we saved Lempeck. He has given us his scythe as a donation to the temple. We shall find a use for it. As for your fine work at preserving the life of another, I reward you with the Shining Star of Life. Should you ever desire more strength in battle, call upon it to give you strength, but let it be known that at battle's you shall feel weaker than before you called upon the power. Just for a short time. When the power is drained, go to our temple storehouse and ask Whysia to [recharge the Shining Star of Life]. Go and serve life.
@@ -189,7 +189,7 @@ elseif **Faction** >= Amiable +50 and  **You turn in:** [Rusty Scythe](/item/139
 * __Faction:__ [Antonius Bayle](/faction/219) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Shining Star of Light](/item/6356) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

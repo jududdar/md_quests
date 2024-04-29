@@ -60,7 +60,7 @@ end
 
 
 
-if **You turn in:** [Head of Sir Edwin Motte](/item/20641)
+if( **You turn in:** [Head of Sir Edwin Motte](/item/20641)) then 
 
 
 >**Kazen Fecae says:** 'Excellent!' You watch Kazen hold the head by the hair and begin to cast a spell. A flash of darkness centers around the head, and the eyes of the dead knight open, a terrible scream emanating from its lips. 'This poor fool here - I think I will keep him in my bag from now on. You have done well, my new apprentice. Take this symbol and know that you can do other tasks to advance within my apprentice ranks.'
@@ -68,7 +68,7 @@ if **You turn in:** [Head of Sir Edwin Motte](/item/20641)
 
  **You receive:**  [Symbol of the Apprentice](/item/20642) (+5000 exp)
 
-if **You turn in:** [Symbol of Testing](/item/20647)
+if( **You turn in:** [Symbol of Testing](/item/20647)) then 
 
 
 >**Kazen Fecae says:** As you hand Kazen the symbol, you hear him speak directly into your mind. 'Good luck, my student!' Kazen finishes an incantation and suddenly hands begin to reach up from the ground, as if they were pulling themselves from the grave all around you. A piercing scream fills the air as the creatures advance upon you!
@@ -76,7 +76,7 @@ if **You turn in:** [Symbol of Testing](/item/20647)
 
 **Spawn NPC:**  [a bone golem](/npc/51153) at (**y:** 283.8, **x:** -1498.9)
 
-if **You turn in:** [Prepared Reagent Box](/item/20653)
+if( **You turn in:** [Prepared Reagent Box](/item/20653)) then 
 
 
 >*Kazen Fecae stares through you at the horizon, pausing as he reaches into his robes. Kazen pulls out a scythe with a shimmering black blade that seems too large to have been hidden there. As quickly and gracefully as it was displayed to you, it is returned to the void inside Kazen's robes. 'It is a creation of Miragul which was looted from his lair under the ice. Take this tome, it will be your final task for me as an apprentice.'*
@@ -84,7 +84,7 @@ if **You turn in:** [Prepared Reagent Box](/item/20653)
 
  **You receive:**  [Tome of Instruction](/item/18087) (+10000 exp)
 
-if **You turn in:** [Gkzzallk in a Box](/item/20652)
+if( **You turn in:** [Gkzzallk in a Box](/item/20652)) then 
 
 
 >*Kazen Fecae grins wildly and his eyes flare a deep red. The scythe he promised you flies through the air and into your hand. 'Enjoy your toy, I have no more need of you as a servant.'*

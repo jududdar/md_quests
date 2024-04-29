@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Bark Potion](/item/14519), [Bark Potion](/item/14519), [Spring Crystal](/item/14512), [Harvest Crystal](/item/14511)
+if( **You turn in:** [Bark Potion](/item/14519), [Bark Potion](/item/14519), [Spring Crystal](/item/14512), [Harvest Crystal](/item/14511)) then
 
 
 >**Reothe says:** This is great! We can treat our injured and have something to eat for weeks. I can vaguely recall Bregun heading towards the Lair of the Netherbians. You might ask a guard there if they have seen him.
@@ -31,6 +31,6 @@ if **You turn in:** [Bark Potion](/item/14519), [Bark Potion](/item/14519), [Spr
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

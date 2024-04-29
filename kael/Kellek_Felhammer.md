@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Voucher for Toolset](/item/25279)
+if( **You turn in:** [Voucher for Toolset](/item/25279)) then 
 
 
 >**Kellek Felhammer says:** Here you go Soandso. I dunno why master Wenglawks trusts you with this but take it anyways and don't mess up.' smacks his fists together as he looks at you.
@@ -40,7 +40,7 @@ if **You turn in:** [Voucher for Toolset](/item/25279)
 
  **You receive:**  [Coldain Toolset](/item/25104) 
 
-elseif **You turn in:** [Voucher for Spear](/item/25280)
+elseif( **You turn in:** [Voucher for Spear](/item/25280)) then 
 
 
 >**Kellek Felhammer says:** Another delivery eh? Be careful with this spear, if you break it I'll break you.
@@ -48,7 +48,7 @@ elseif **You turn in:** [Voucher for Spear](/item/25280)
 
  **You receive:**  [Bekeraks New Spear](/item/25106) 
 
-elseif **You turn in:** [Voucher for Mechanical Net](/item/25281)
+elseif( **You turn in:** [Voucher for Mechanical Net](/item/25281)) then 
 
 
 >**Kellek Felhammer says:** It's hard to believe a " .. e.other:Race() .. " like you is going to make a trip like this. I don't envy you little fool.
@@ -56,12 +56,15 @@ elseif **You turn in:** [Voucher for Mechanical Net](/item/25281)
 
  **You receive:**  [Mechanical Net](/item/25107) 
 
-elseif **You turn in:** [Helssen's Voucher](/item/1722)
+elseif( **You turn in:** [Helssen's Voucher](/item/1722)) then 
 
 
 >**Kellek Felhammer says:** I still cannot believe we are giving such a prized possesion as the Collar of the Storm to a mere mercenary. You better pray you don't bring shame upon the smith who created and enchanted this item. Oh and here is your seal as Helssen has ordered me to give you. It is proof of your service to us.
 
 
- **You receive:** None 
+ **You receive:**  [Noble's Seal](/item/1723) (+2000 exp)
+
+
+ **You receive:**  [Collar of the Storm](/item/1721) 
 
 **This NPC *should* return incorrect items given.**

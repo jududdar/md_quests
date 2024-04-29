@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Crown of Elemental Mastery](/item/20764), [Elemental Binder](/item/28043), [Pegasus Feather Cloak](/item/2463)
+if( **You turn in:** [Crown of Elemental Mastery](/item/20764), [Elemental Binder](/item/28043), [Pegasus Feather Cloak](/item/2463)) then
 
 
 >**Kihun Solstin says:** If you have obtained the other, lesser Elements, go speak with The Master of Elements, who is now waiting for you. I wish you luck. If you have not completed all the tasks set for you, let me know, and I shall let you see the Master.

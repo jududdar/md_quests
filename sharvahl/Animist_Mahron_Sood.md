@@ -199,7 +199,7 @@ end
 
 
 
-if **You turn in:** [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918)
+if( **You turn in:** [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918)) then 
 
 
 >**Animist Mahron Sood says:** Thanks, here is your reward!
@@ -207,7 +207,7 @@ if **You turn in:** [Grimling Finger Bones](/item/3918), [Grimling Finger Bones]
 
  **You receive:** eq.ChooseRandom( [Hopperhide Wristbands](/item/7079), [Hopperhide Tunic](/item/7074), [Hopperhide Skullcap](/item/7071), [Hopperhide Sleeves](/item/7078), [Hopperhide Shoulderpads](/item/7075), [Hopperhide Mask](/item/7072), [Hopperhide Leggings](/item/7081), [Hopperhide Gorget](/item/7073), [Hopperhide Gloves](/item/7080), [Hopperhide Cloak](/item/7076), [Hopperhide Boots](/item/7082), [Hopperhide Belt](/item/7077)) (+1000 exp)
 
-elseif **You turn in:** [Grimling Toes](/item/3812), [Grimling Toes](/item/3812), [Grimling Toes](/item/3812), [Grimling Toes](/item/3812)
+elseif( **You turn in:** [Grimling Toes](/item/3812), [Grimling Toes](/item/3812), [Grimling Toes](/item/3812), [Grimling Toes](/item/3812)) then 
 
 
 >**Animist Mahron Sood says:** Thanks, here is your reward!
@@ -215,7 +215,7 @@ elseif **You turn in:** [Grimling Toes](/item/3812), [Grimling Toes](/item/3812)
 
  **You receive:** eq.ChooseRandom( [Hopperhide Wristbands](/item/7079), [Hopperhide Tunic](/item/7074), [Hopperhide Skullcap](/item/7071), [Hopperhide Sleeves](/item/7078), [Hopperhide Shoulderpads](/item/7075), [Hopperhide Mask](/item/7072), [Hopperhide Leggings](/item/7081), [Hopperhide Gorget](/item/7073), [Hopperhide Gloves](/item/7080), [Hopperhide Cloak](/item/7076), [Hopperhide Boots](/item/7082), [Hopperhide Belt](/item/7077)) (+1000 exp)
 
-elseif **You turn in:** [Seal of Animist Poren](/item/3670)
+elseif( **You turn in:** [Seal of Animist Poren](/item/3670)) then 
 
 
 >**Animist Mahron Sood says:** I can tell by the manner in which you approached me that Poren did not explain what I would require of you, little friend. Your development as a Khati Sha will be demanding. Our expectations of you should only be exceeded by your own. Our namesake, Khati Sha, was an unrivalled hero to our people. The story of his life is an example that you will be expected to learn. You will be expected to research and explore the path that he took and strive to understand what that path means for the future of our people. Take this map to Kery Miann. She will start you on the path.

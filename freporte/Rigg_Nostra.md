@@ -19,12 +19,12 @@ end
 
 
 
-if **You turn in:** [Bent Playing Card](/item/19917)
+if( **You turn in:** [Bent Playing Card](/item/19917)) then
 
 
 >**Rigg Nostra says:** Excellent I've been waiting for the Coalition to send me some assistance. I have an associate waiting for some supplies that have not yet been collected. I need you to acquire a [crate of pick heads] and a [bundle of hardwood shafts] and bring them to me so that I may prepare them for delivery to my associate.
 
-elseif **You turn in:** [Bundle of Hardwood Staves](/item/19931), [Crate of Pick Axe Heads](/item/19929)
+elseif( **You turn in:** [Bundle of Hardwood Staves](/item/19931), [Crate of Pick Axe Heads](/item/19929)) then
 
 
 >**Rigg Nostra says:** Thanks Soandso.  Now hand this crate to the fellow behind you.

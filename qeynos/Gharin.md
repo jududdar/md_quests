@@ -141,7 +141,7 @@ local text = "Oh! That's tasty. I guess I could handle a few more.";
 
 
 
-if **You turn in:** [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799)
+if( **You turn in:** [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799)) then
 
 
 >**Gharin says:** Oohhh! My head. Stop the pub from spinning. I cannot make it to the Jaggedpine feeling like this. Please take this note to Te'Anara of the Treefolk. Here is a little silver for the favor. Thanks. Ooohhhh..

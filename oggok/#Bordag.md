@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18846)
+if( **You turn in:** [A tattered note](/item/18846)) then 
 
 
 >**Bordag says:** You strong and mean like bear!  You wear bear fur so all know you beastlord o' da Feerrott!  Talk to Grapok and get to work!

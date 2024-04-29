@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [Maid Issis Fang](/item/10179), [Butler Syncalls Fang](/item/10178)
+if( **You turn in:** [Maid Issis Fang](/item/10179), [Butler Syncalls Fang](/item/10178)) then
 
 
 >**an avenging caitiff says:** Mother? Father? May you find peace at last. I shall avenge your suffering! I will grow stronger and set free the souls of the others.

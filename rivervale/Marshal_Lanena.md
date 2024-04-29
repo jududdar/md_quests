@@ -85,7 +85,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Piranha Tooth](/item/13929)
+if **Faction** >= Amiable and  **You turn in:** [Piranha Tooth](/item/13929)) then
 
 
 >**Marshal Lanena says:** What was I thinking?!! Piranha are coming downstream and eating our supply of fish! We have never had a problem like this!!  Where are these little beasts coming from?  For now we must collect more. Take this bag. Collect enough teeth to fill the bag. Don't worry, if it takes a while I shall reward you with the [Rantho Rapier].  We will need to examine the teeth.
@@ -106,9 +106,9 @@ if **Faction** >= Amiable and  **You turn in:** [Piranha Tooth](/item/13929)
 * __Faction:__ [Dreadguard Outer](/faction/334) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Piranha Bag](/item/17968) (+200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bag of Piranha Teeth](/item/12155)
+elseif **Faction** >= Amiable and  **You turn in:** [Bag of Piranha Teeth](/item/12155)) then
 
 
 >**Marshal Lanena says:** Fine work. We shall continue to study these and shall determine if we need to seek the source.
@@ -129,7 +129,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Bag of Piranha Teeth](/item
 * __Faction:__ [Dreadguard Outer](/faction/334) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Rantho Rapier](/item/5423) (+200 exp)
 
 elseif **Faction** >= Indifferent then
 

@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A Jar of Liquid](/item/13861)
+if( **You turn in:** [A Jar of Liquid](/item/13861)) then
 
 
 >*a minnow darts into the jar, or just darted past it!! The Knights of Truth do not tolerate people attempting to catch these fish!!*

@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Onirelins Jewel](/item/28088)
+if( **You turn in:** [Onirelins Jewel](/item/28088)) then
 
 
 >**Onirelin Gali says:** How did you get this away from Narik? Oh never mind, I'm just happy to have it back. I shall give you what Cador desires now, keep it secure and deliver it to him.

@@ -78,7 +78,7 @@ end
 if( **Faction is** > Indifferent) then
 
 
-if **You turn in:** [Dark Metal Coin](/item/20447)
+if( **You turn in:** [Dark Metal Coin](/item/20447)) then
 
 
 
@@ -89,7 +89,7 @@ if **You turn in:** [Dark Metal Coin](/item/20447)
  **You receive:**  [Worn Dark Metal Coin](/item/20448) 
 
 
-elseif **You turn in:** [Warmly Glowing Stone](/item/20468)
+elseif( **You turn in:** [Warmly Glowing Stone](/item/20468)) then
 
 
 
@@ -100,7 +100,7 @@ elseif **You turn in:** [Warmly Glowing Stone](/item/20468)
  **You receive:**  [Ancient Longsword](/item/20477) (+1000000 exp)
 
 
-elseif **You turn in:** [Refined Ancient Sword](/item/20481)
+elseif( **You turn in:** [Refined Ancient Sword](/item/20481)) then
 
 
 

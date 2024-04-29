@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Crimson Tessera](/item/20931), [Ethereal Sapphire](/item/20754), [Feathered Cape](/item/20755)
+if( **You turn in:** [Crimson Tessera](/item/20931), [Ethereal Sapphire](/item/20754), [Feathered Cape](/item/20755)) then 
 
 
 >**Frederic Calermin says:** Take this as your reward.
@@ -48,7 +48,7 @@ if **You turn in:** [Crimson Tessera](/item/20931), [Ethereal Sapphire](/item/20
 
 **Frederic Calermin despawns.**
 
-elseif **You turn in:** [Iron Disc](/item/20937), [Gem of Empowerment](/item/20756), [Ceramic Mask](/item/20757)
+elseif( **You turn in:** [Iron Disc](/item/20937), [Gem of Empowerment](/item/20756), [Ceramic Mask](/item/20757)) then 
 
 
 >**Frederic Calermin says:** This mask will suit you well, mage. Use it sparingly.
@@ -59,7 +59,7 @@ elseif **You turn in:** [Iron Disc](/item/20937), [Gem of Empowerment](/item/207
 
 **Frederic Calermin despawns.**
 
-elseif **You turn in:** [Hyaline Globe](/item/20944), [Ivory Pendant](/item/20758), [Golden Coffer](/item/20759)
+elseif( **You turn in:** [Hyaline Globe](/item/20944), [Ivory Pendant](/item/20758), [Golden Coffer](/item/20759)) then
 
 
 

@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Mithril Coldain Insignia Ring](/item/30162)
+if( **You turn in:** [Mithril Coldain Insignia Ring](/item/30162)) then
 
 
 >**Dobbin Crossaxe says:** Thank you, Soandso. Your deeds will be mentioned to  the Dain. Please take this note from Corbin to Garadain. It may help him to achieve victory over the enemy.

@@ -137,7 +137,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [A Box of Bones](/item/13882)
+if **Faction** >= Dubious and  **You turn in:** [A Box of Bones](/item/13882)) then 
 
 
 >**Wolten Grafe says:** You have done well. Let it be known to all that you fight for the Rainkeeper. Go and continue the battle.
@@ -158,9 +158,9 @@ if **Faction** >= Dubious and  **You turn in:** [A Box of Bones](/item/13882)
 * __Faction:__ [Guards of Qeynos](/faction/262) (7)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Water Flask](/item/13006), [Ration](/item/13007)) (+4500 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [A Sealed Letter](/item/18805)
+elseif **Faction** >= Apprehensive and  **You turn in:** [A Sealed Letter](/item/18805)) then
 
 
 >**Wolten Grafe says:** This is terrible news. It is good you did not find your grave in the catacombs. You completed your mission regardless of the odds of survival. The temple thanks you. We shall still require your service, Knight of Thunder. Events have transpired which put all agents of righteousness in danger. We cannot explain all as yet. Take this note to Freeport. You will give it to Eestyana Naestra at the Hall of Truth. Beware, now. The Shrine of Bertoxxulous now knows of your allegiance. Give me any other item.
@@ -181,9 +181,9 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [A Sealed Letter](/item
 * __Faction:__ [Guards of Qeynos](/faction/262) (37)
 
 
- **You receive:** None 
+ **You receive:**  [A Note](/item/18822) (+500 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Human Head](/item/13396)
+elseif **Faction** >= Dubious and  **You turn in:** [Human Head](/item/13396)) then 
 
 
 >**Wolten Grafe says:** We have finally destroyed the Rat King. You have performed a great service to Qeynos. Here is a small reward. Please continue with the work of the Rainkeeper.
@@ -206,7 +206,7 @@ elseif **Faction** >= Dubious and  **You turn in:** [Human Head](/item/13396)
 
  **You receive:** eq.ChooseRandom( [Patchwork Boots](/item/2112), 2106, 2111, 2104, 2108) (+4900 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Order of Thunder](/item/13288)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Order of Thunder](/item/13288)) then 
 
 
 >**Wolten Grafe says:** Ahh. Drosco's Order of Thunder. You are truly an honorable knight. Many vile people would pay greatly for this medal. I thank you for its return. I shall honor you by rewarding you with a thunder staff. Meant for young clerics and paladins of this temple. Never let it leave your side.
@@ -227,7 +227,7 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Order of Thunder](/ite
 * __Faction:__ [Guards of Qeynos](/faction/262) (37)
 
 
- **You receive:** None 
+ **You receive:**  [Thunder Staff](/item/6357) (+2000 exp)
 
 **This NPC *should* return incorrect items given.**
 

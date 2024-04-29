@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Strange Jeweler's Schematic](/item/28278)
+if( **You turn in:** [Strange Jeweler's Schematic](/item/28278)) then 
 
 
 >*Tabben Bromal takes the document from you and looks at it for a moment. 'Well, this is a beautiful looking schematic. I wonder what they are trying to make with it? Where did you get this? No wait; don't tell me. I'd rather not know. I can make some of this writing out but just barely. What I can read leads me to believe that I'd be better off not knowing.'*
@@ -42,9 +42,9 @@ e.self:Emote("falls victim to his curiosity and grabs a small kit from the table
 >**Tabben Bromal says:** Seal those things up in the container that I just gave you and bring it straight back to me. I'll wait here for you and see if I can decipher anymore of this schematic.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Small parts kit](/item/17277), [Strange Jeweler's Schematic](/item/28278)) 
 
-elseif **You turn in:** [Sealed Parts Box](/item/28283)
+elseif( **You turn in:** [Sealed Parts Box](/item/28283)) then 
 
 
 >**Tabben Bromal says:** Oh, you've returned! Very good, Soandso! Saria and I have made some real progress on the document that you brought us. Watch this and you'll see what I mean!
@@ -56,9 +56,9 @@ elseif **You turn in:** [Sealed Parts Box](/item/28283)
 >**Tabben Bromal says:** That should work for you, but from what we gathered, there's another layer of mechanics that works to shield and envelope the existing talisman. It's going to require more parts. So take this container and let me know when you're [ready] to write down the names of the next set of parts.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Small Parts Container](/item/17278), [Small Clockwork Talisman](/item/28284)) 
 
-elseif **You turn in:** [Locked Parts Box](/item/28289)
+elseif( **You turn in:** [Locked Parts Box](/item/28289)) then
 
 
 >*Tabben Bromal nods at you and takes the parts box over to the table. He seems to have laid out the extra tools that he needs prior to your return. With only a few twists and clicks, the pieces of the talisman lock together and begin to glow. The gnome turns and hands you the talisman and the design schematic in an exaggeratedly sharp gesture.*
@@ -70,6 +70,6 @@ elseif **You turn in:** [Locked Parts Box](/item/28289)
 >**Tabben Bromal says:** It's seems that words are beginning to write themselves onto that schematic of yours. Maybe she'll be able to understand them. I sure don't want to. Take care.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [The Talisman Schematic](/item/28291), [Powered Clockwork Talisman](/item/28290)) 
 
 **This NPC *should* return incorrect items given.**

@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Tenals note to Kargek](/item/20684), [Spiroc Wingblade](/item/20679)
+if( **You turn in:** [Tenals note to Kargek](/item/20684), [Spiroc Wingblade](/item/20679)) then 
 
 
 >**Kargek Redblade says:** What is this? A note from my brother? Thank you for the gift as well.' Kargek reads the note and hands you the huge sword hilt. Your mind is filled with the sound of battle and a voice. 'Place the ancient sword blade, ancient blade, finely crafted dragon head hilt and the jeweled dragon head hilt into the scabbard to receive your rewards. If you think you are worthy, place your rewards into the scabbard and see what havoc you can unleash on the world. Kargek addresses you as you turn to leave. 'One more thing. Gartrog over there has told me of a great discovery. Seems there are all sorts of stones being found in the recently discovered lost dungeons scattered around Antonica. The Wayfarer's Brotherhood has found a way to make items even more powerful by using the stones with existing items.
@@ -42,7 +42,7 @@ if **You turn in:** [Tenals note to Kargek](/item/20684), [Spiroc Wingblade](/it
 
  **You receive:**  [Red Scabbard](/item/17859) (+1000000 exp)
 
-elseif **You turn in:** [Tiny Lute](/item/20674)
+elseif( **You turn in:** [Tiny Lute](/item/20674)) then 
 
 
 >**Kargek Redblade says:** Thank you for delivering the note to my associate. Take this book - it will tell you a little of the history of the old scabbard. If you would like to own the scabbard, seek out my younger brother Tenal and give him the book.

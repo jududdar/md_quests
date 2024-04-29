@@ -64,7 +64,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Iron Cudgel of the Channeler](/item/5145), [An Iksar Skull](/item/12748), [An Iksar Skull](/item/12750), [An Iksar Skull](/item/12749)
+if **Faction** >= Amiable and  **You turn in:** [Iron Cudgel of the Channeler](/item/5145), [An Iksar Skull](/item/12748), [An Iksar Skull](/item/12750), [An Iksar Skull](/item/12749)) then
 
 
 >*Hierophant Dexl goes into a trance and speaks with the voice of an ancient. 'You have returned the skulls of the Sisters of Scale. For this you shall be rewarded. Take this hierophant's weapon. May you use it to smite the foes of our people.' Dexl comes out of the trance. 'What?!! Whew. Hey!! Where is my cudgel?*

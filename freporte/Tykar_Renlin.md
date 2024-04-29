@@ -28,7 +28,7 @@ local text = "Oooh!! That is the taste. My lips are almost loose. Maybe another 
 
 
 
-if **You turn in:** [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829)
+if( **You turn in:** [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829)) then 
 
 
 >**Tykar Renlin says:** Ahh!! That was good. Now where were we?. Oh yes. My friend Zimel is a fellow beggar. He was locked up in the arena. They were going to let him go when the Freeport Militia came for him. Ha!! He is crazy as a troll now. I took this blanket from his cell before I was released. I no longer need it and my guilt has reached its peak. I do not want crazy old Zimel to freeze. Perhaps you can return it to him.

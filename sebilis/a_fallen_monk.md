@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Shackle of Tynnonium](/item/4199)
+if( **You turn in:** [Shackle of Tynnonium](/item/4199)) then
 
 
 >**a fallen monk says:** Earn what is mine. Show me you have the power worthy to wield what I possess.

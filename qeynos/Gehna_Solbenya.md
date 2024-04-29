@@ -130,7 +130,7 @@ local text = "The bounty will not be paid until two spectacles are received.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [An Empty Chalice](/item/12104)
+if **Faction** >= Amiable and  **You turn in:** [An Empty Chalice](/item/12104)) then
 
 
 >**Gehna Solbenya says:** You have done a good service for the flock of Karana. Study the words upon this scroll and soon Karana shall keep you from thirst.
@@ -151,9 +151,9 @@ if **Faction** >= Amiable and  **You turn in:** [An Empty Chalice](/item/12104)
 * __Faction:__ [Guards of Qeynos](/faction/262) (7)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Yaulp](/item/15210), [Spell: Divine Aura](/item/15207), [Spell: Flash of Light](/item/15201)) (+2000 exp)
 
-elseif **Faction** >= Amiable +150 and  **You turn in:** [A Spectacle](/item/12101), [A Spectacle](/item/12101)
+elseif **Faction** >= Amiable +150 and  **You turn in:** [A Spectacle](/item/12101), [A Spectacle](/item/12101)) then 
 
 
 >**Gehna Solbenya says:** Excellent work. These foul men have no right to be proficient in the ways of healing. Here then is your bounty. Use it in your continued war against the Karana bandits.
@@ -174,6 +174,6 @@ elseif **Faction** >= Amiable +150 and  **You turn in:** [A Spectacle](/item/121
 * __Faction:__ [Guards of Qeynos](/faction/262) (15)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Endure Disease](/item/15226), [Spell: Center](/item/15219)) (+20000 exp)
 
 **This NPC *should* return incorrect items given.**

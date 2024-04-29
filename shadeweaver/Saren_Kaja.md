@@ -23,7 +23,7 @@ local text = "Oh thank you ever so much! You are truly as sweet as the gift you 
 
 
 
-if **You turn in:** [Payala Fruit](/item/30619), [Payala Fruit](/item/30619), [Payala Fruit](/item/30619), [Payala Fruit](/item/30619)
+if( **You turn in:** [Payala Fruit](/item/30619), [Payala Fruit](/item/30619), [Payala Fruit](/item/30619), [Payala Fruit](/item/30619)) then
 
 
 >**Saren Kaja says:** You're just wonderful Soandso! I have little to repay your kindness with, but I will squeeze you some fresh Payala Nectar.

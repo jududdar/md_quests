@@ -72,7 +72,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Patched Gnoll Fur Bundle](/item/1330)
+if **Faction** >= Indifferent and  **You turn in:** [Patched Gnoll Fur Bundle](/item/1330)) then
 
 
 
@@ -86,10 +86,10 @@ if **Faction** >= Indifferent and  **You turn in:** [Patched Gnoll Fur Bundle](/
 
 
 
- **You receive:** None 
+ **You receive:**  [Fang of the Wolf](/item/1349) (+6000 exp)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Shrieking Ahlspiess](/item/7507)
+elseif **Faction** >= Indifferent and  **You turn in:** [Shrieking Ahlspiess](/item/7507)) then
 
 
 

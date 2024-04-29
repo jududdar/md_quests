@@ -39,7 +39,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Ulia Yovar's Head](/item/19933)
+if(expansion_flag >= 4.0 and  **You turn in:** [Ulia Yovar's Head](/item/19933)) then
 
 
 >**Zhem Xecia says:** I see your mission was a success. Take this Rough Dismal Flail and refine it in forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done take the Refined Dismal Flail and a Giant Rattlesnake Skin to Jerra Renlock. She will put the finishing touches on your new weapon.

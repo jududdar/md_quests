@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [Efreeti Statuette](/item/20951), [Mithril  Air Ring](/item/20747), [Box of Winds](/item/20748)
+if( **You turn in:** [Efreeti Statuette](/item/20951), [Mithril  Air Ring](/item/20747), [Box of Winds](/item/20748)) then
 
 
 
@@ -55,7 +55,7 @@ if **You turn in:** [Efreeti Statuette](/item/20951), [Mithril  Air Ring](/item/
 
 **Abec Ianor despawns.**
 
-elseif **You turn in:** [White-tipped Spiroc Feather](/item/20958), [Pulsating Sapphire](/item/20749), [Amethyst Amulet](/item/20750)
+elseif( **You turn in:** [White-tipped Spiroc Feather](/item/20958), [Pulsating Sapphire](/item/20749), [Amethyst Amulet](/item/20750)) then
 
 
 
@@ -71,7 +71,7 @@ elseif **You turn in:** [White-tipped Spiroc Feather](/item/20958), [Pulsating S
 
 **Abec Ianor despawns.**
 
-elseif **You turn in:** [Efreeti War Staff](/item/20753), [Lush Nectar](/item/20965), [Copper Air Band](/item/20751), [Large Sky Sapphire](/item/20752)
+elseif( **You turn in:** [Efreeti War Staff](/item/20753), [Lush Nectar](/item/20965), [Copper Air Band](/item/20751), [Large Sky Sapphire](/item/20752)) then
 
 
 

@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [Letter to Duriek](/item/18099)
+if( **You turn in:** [Letter to Duriek](/item/18099)) then
 
 
 >**Duriek Bloodpool says:** Yes, most unfortunate. I was informed last week of the death of my most recent apprentice. A few months ago, I paid a substantial sum to a group of rogues sent from Neriak to collect on a gambling debt. He swore to me that was theof it, but I suspected otherwise. My warnings of gambling with the rogues fell on deaf ears.
@@ -55,7 +55,7 @@ if **You turn in:** [Letter to Duriek](/item/18099)
 
  **You receive:** 0 (+15000 exp)
 
-elseif **You turn in:** [Cough Elixir](/item/14365)
+elseif( **You turn in:** [Cough Elixir](/item/14365)) then
 
 
 
@@ -65,7 +65,7 @@ elseif **You turn in:** [Cough Elixir](/item/14365)
 
 * __Faction:__ [Truespirit](/faction/404) (3)
 
-elseif **You turn in:** [Dusty Tome](/item/14382)
+elseif( **You turn in:** [Dusty Tome](/item/14382)) then
 
 
 
@@ -78,7 +78,7 @@ elseif **You turn in:** [Dusty Tome](/item/14382)
 elseif **Faction** >= Apprehensive +17 then
 
 
-if **You turn in:** [Ghoulbane](/item/5403), [Soul Leech, Dark Sword of Blood](/item/11609), [Blade of Abrogation](/item/5430), [Decrepit Sheath](/item/14366)
+if( **You turn in:** [Ghoulbane](/item/5403), [Soul Leech, Dark Sword of Blood](/item/11609), [Blade of Abrogation](/item/5430), [Decrepit Sheath](/item/14366)) then
 
 
 

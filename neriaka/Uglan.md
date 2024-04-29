@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [A Cracked Stein](/item/13357)
+if( **You turn in:** [A Cracked Stein](/item/13357)) then
 
 
 >**Uglan says:** You from Oggok. Me waiting for you. Me know dark elves have dark plan for ogres. We must stop plan. You must go to Nektulos Forest. Wait for blue orc. He deliver message for dark elf king. Not good. You kill blue orc runners. If message on them then you take to Lork in Oggok. Ogres must know plan.

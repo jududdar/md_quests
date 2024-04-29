@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Practical Arts](/item/18540)
+if( **You turn in:** [Practical Arts](/item/18540)) then 
 
 
 >**Josin Faithbringer says:** Farewell.
@@ -48,7 +48,7 @@ if **You turn in:** [Practical Arts](/item/18540)
 
 **Josin Faithbringer despawns.**
 
-elseif **You turn in:** [True Healing](/item/18541)
+elseif( **You turn in:** [True Healing](/item/18541)) then 
 
 
 >**Josin Faithbringer says:** Farewell.

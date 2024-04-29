@@ -180,7 +180,7 @@ end
 local text = "Look what you have found! It is tragic to know that for every broken crook that is recovered, one of the Treefolk has lost his life. Those gnolls will pay some day. If you have the other half of the crook I will repair it for you.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Gnoll Paw](/item/13700)
+if **Faction** >= Amiable and  **You turn in:** [Gnoll Paw](/item/13700)) then
 
 
 >**Corun Finisc says:** Thank you for tracking down the filthy little poacher. Take this as your reward.
@@ -201,9 +201,9 @@ if **Faction** >= Amiable and  **You turn in:** [Gnoll Paw](/item/13700)
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+1500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bottom of Broken Staff](/item/13231), [Top of Broken Staff](/item/13232)
+elseif **Faction** >= Amiable and  **You turn in:** [Bottom of Broken Staff](/item/13231), [Top of Broken Staff](/item/13232)) then
 
 
 >**Corun Finisc says:** Excellent! Here is a Jaggedpine Crook of your own. Please use it only to defend yourself and never to attack one of Tunare's creatures. You will find that while wielding the crook, Tunare grants you a boon of strength and the power to smite enemies who would otherwise be impervious to physical attacks.

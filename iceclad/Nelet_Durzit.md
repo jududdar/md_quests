@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Capt. Nalot's Triple Strength Rum](/item/30034)
+if( **You turn in:** [Capt. Nalot's Triple Strength Rum](/item/30034)) then
 
 
 >*Nelet Durzit greedily swigs rum from the jug.  After a few drinks, he starts to gag and make faces.  'Oh, geez!  Rendap told me this stuff was strong but this tastes like clockwork grease!  It burns but now I feel - ugh.'  Nelet doubles over and passes out on the ground.  As he falls over, a small silver trinket slips out of his pocket.*

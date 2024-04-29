@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Ornate Sea Shell](/item/28056)
+if( **You turn in:** [Ornate Sea Shell](/item/28056)) then
 
 
 

@@ -141,7 +141,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Crushbone Battle Beads](/item/27537), [Crushbone Battle Beads](/item/27537), [Crushbone Battle Plans](/item/27538)
+if(expansion_flag >= 4.0 and  **You turn in:** [Crushbone Battle Beads](/item/27537), [Crushbone Battle Beads](/item/27537), [Crushbone Battle Plans](/item/27538)) then
 
 
 >**Aliafya Mistrunner says:** There was no doubt in my mind that you could be counted on for this important mission. I will see that our tacticians get these battle plans so that they can be studied at once. Please take this Scimitar as a symbol of your dedication to your house and your god. You have done well, young Kiliak, may Tunare guide you always.

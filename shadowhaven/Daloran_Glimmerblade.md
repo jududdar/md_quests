@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Gem Encrusted Sword Hilt](/item/4763)
+if( **You turn in:** [Gem Encrusted Sword Hilt](/item/4763)) then 
 
 
 >**Daloran Glimmerblade says:** Fantastic work, Soandso. It would seem that this hilt is fit to be attached to a blade and distributed amongst my guards. I have many other hilts that I need delivered to Yaeorat should you choose to courier another in the future. Until then good luck to you.

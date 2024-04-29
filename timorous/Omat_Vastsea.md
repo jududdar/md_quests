@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Ornate Sea Shell](/item/28047)
+if( **You turn in:** [Ornate Sea Shell](/item/28047)) then 
 
 
 >**Omat Vastsea says:** So, you are a friend of Natasha's? That is good to see. She is a very wise and gifted woman. The Riptide goblins have adopted a new king but are still in a vulnerable state until his subjects accept his rule. The Plasmatic Priesthood is aware of the weakened state of the Riptides and has convinced the Fire Peak goblins to strike against them. Although I do not agree with the mannerisms or actions of any goblin clan, such a war would be detrimental to all who are caught in its path. Lord Gimblox of the Fire Peak clan has been meeting with a member of the Plasmatic Priesthood in the Temple of Solusek Ro. Locate the Plasmatic Priest, hand him this statue to hinder his powers, then eliminate him and bring me his robe.
@@ -40,7 +40,7 @@ if **You turn in:** [Ornate Sea Shell](/item/28047)
 
  **You receive:**  [Coral Statue of Tarew](/item/28051) 
 
-elseif **You turn in:** [Blood Soaked Plasmatic Priest Robe](/item/1299)
+elseif( **You turn in:** [Blood Soaked Plasmatic Priest Robe](/item/1299)) then 
 
 
 >**Omat Vastsea says:** You have proven yourself to be one who is willing to take responsibility for his own actions. Such a trait is desired by all deities to be present in their faithful. I pray that you had the wisdom to slay Lord Gimblox as well as the Plasmatic Priest in order to prevent further advancement in the incursion against the Riptides. Priestess Natasha awaits inside the inn for Lord Gimblox's ring, make haste for she is a busy women and will depart soon.
@@ -51,7 +51,7 @@ elseif **You turn in:** [Blood Soaked Plasmatic Priest Robe](/item/1299)
 
 **Spawn NPC:**  [Natasha Whitewater](/npc/96080) at (**y:** -11601, **x:** -2198)
 
-elseif **You turn in:** [A Singed Scroll](/item/18170), [Sceptre of Ixiblat Fer](/item/28017)
+elseif( **You turn in:** [A Singed Scroll](/item/18170), [Sceptre of Ixiblat Fer](/item/28017)) then 
 
 
 >**Omat Vastsea says:** I commend you on your success over the fire elemental lord, Ixiblat Fer. The fact that the Plasmatic Priesthood has mustered up the power to summon such a being means drastic actions must be taken to stop the fanatic cult of Fennin Ro. I wonder what kind of favor Zordak Ragefire performed for the sarnak summoners to convince them to assist in the ritual that brought forth Ixiblat Fer. The dragon Iksar hybrid abominations are not beings who ally with others easily. All I have seen in my divinations of the High Plasmatic Priest are riddles, and signs that the one who slays him may be awarded an Orb of the Triumvirate. If you are the one whom my visions foretell, then seek Zordak Ragefire and bring me his heart.
@@ -62,7 +62,7 @@ elseif **You turn in:** [A Singed Scroll](/item/18170), [Sceptre of Ixiblat Fer]
 
 **Spawn NPC:**  [Natasha Whitewater](/npc/96080) at (**y:** -11601, **x:** -2198)
 
-elseif **You turn in:** [Zordak Ragefires Heart](/item/28019)
+elseif( **You turn in:** [Zordak Ragefires Heart](/item/28019)) then
 
 
 >**Omat Vastsea says:** I see now that Zordak Ragefire and the exiled elder dragon Zordakalicus were the same being. That explains how he resisted our attempts to divine his affairs and past. Each of these orbs I have granted you represents one of the Triumvirate. Jhassad Oceanson awaits on the shore below to perform the ritual that will merge the orbs into a single Orb of the Triumvirate and summon an avatar from the Plane of Water. Present the Orb of the Triumvirate to the Avatar of Water when it arrives and allow your destiny to be unraveled.

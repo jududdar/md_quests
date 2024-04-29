@@ -50,7 +50,7 @@ end
 
 
 
-if  **You turn in:** [A tattered note](/item/18790)
+if ( **You turn in:** [A tattered note](/item/18790)) then 
 
 
 >**Ranjor says:** Arhh.. Ranjor mighty warrior.. Ranjor teach you warrior.. you fight for Ranjor now.
@@ -65,7 +65,7 @@ if  **You turn in:** [A tattered note](/item/18790)
 
  **You receive:**  [Mud Covered Tunic*](/item/13528) (+20 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Froglok Meat](/item/13409), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)
+elseif  **Faction** >= Amiable and  **You turn in:** [Froglok Meat](/item/13409), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)) then
 
 
 >**Ranjor says:** You is berry slow. Me too hungry. Me shood eats you for being slow. Gib me dat stuff. Here, take dis and git more stuff fer us. You much kllin, come backs sees me. I teeches ya hows ta kill bedder. Now git and kill stuff. We be Da Bashers fer a reesun.

@@ -59,7 +59,7 @@ end
 
 
 
-if **You turn in:** [Short Beer](/item/13032)
+if( **You turn in:** [Short Beer](/item/13032)) then 
 
 
 >**Rueppy Kutpurse says:** Oh, thank you.  AH! That sure is good. Not as good as a [Blackburrow stout], but what is?
@@ -69,7 +69,7 @@ if **You turn in:** [Short Beer](/item/13032)
 
 
 
-elseif **Faction** >= Amiable +200 and  **You turn in:** [Case of Blackburrow Stout](/item/13131)
+elseif **Faction** >= Amiable +200 and  **You turn in:** [Case of Blackburrow Stout](/item/13131)) then 
 
 
 >**Rueppy Kutpurse says:** Heh heh! You did it! I thought the deputies would get you for sure! I mean... You did it! Heh! Here buy yourself a drink on me.

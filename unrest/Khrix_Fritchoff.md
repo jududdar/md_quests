@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [Greater Lightstone](/item/10400)
+if( **You turn in:** [Greater Lightstone](/item/10400)) then
 
 
 >**Khrix Fritchoff says:** At last I may leave this place!! Good luck destroying my abomination, you will surely need it against my most powerful yet uncontrollable creation!

@@ -40,7 +40,7 @@ end
 if **Faction** >= Indifferent then
 
 
-if **You turn in:** [Crafted Gauntlets](/item/4178)
+if( **You turn in:** [Crafted Gauntlets](/item/4178)) then
 
 
 
@@ -67,7 +67,7 @@ if **You turn in:** [Crafted Gauntlets](/item/4178)
  **You receive:**  [Small Crafted Gauntlets](/item/4186) 
 
 
-elseif **You turn in:** [Crafted Vambraces](/item/4176)
+elseif( **You turn in:** [Crafted Vambraces](/item/4176)) then
 
 
 
@@ -94,7 +94,7 @@ elseif **You turn in:** [Crafted Vambraces](/item/4176)
  **You receive:**  [Small Crafted Vambraces](/item/4184) 
 
 
-elseif **You turn in:** [Crafted Helm](/item/4173)
+elseif( **You turn in:** [Crafted Helm](/item/4173)) then
 
 
 
@@ -121,7 +121,7 @@ elseif **You turn in:** [Crafted Helm](/item/4173)
  **You receive:**  [Small Crafted Helm](/item/4181) 
 
 
-elseif **You turn in:** [Crafted Plate Boots](/item/4180)
+elseif( **You turn in:** [Crafted Plate Boots](/item/4180)) then
 
 
 

@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Sack of Piranha](/item/13872)
+if( **You turn in:** [Sack of Piranha](/item/13872)) then
 
 
 >**Celsar Vestagon says:** You have done well. The Marr Minnow shall have a greater chance of flourishing. Please take this as a reward.

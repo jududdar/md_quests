@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Dwarven Ale](/item/13036)
+if( **You turn in:** [Dwarven Ale](/item/13036)) then 
 
 
 >**Beur Tenlah says:** Well, well, well.. It's about time. Whatta ya got, boots fulla stones? Or maybe yer just part turtle? Bah, anyways, thanks for the ale. Maybe I'll buy you one sometime, eh? Bwahaha!

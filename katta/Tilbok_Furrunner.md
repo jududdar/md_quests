@@ -67,7 +67,7 @@ end
 
 
 
-if **You turn in:** [Report to Tilbok](/item/29891)
+if( **You turn in:** [Report to Tilbok](/item/29891)) then 
 
 
 >*Tilbok Furrunner reads through the report, hands you a small satchel then starts to explain. 'Finally, news from Euzan. I knew that it would take a long time to get planted within Seru, but I still worried about their mission constantly. This report shows that you have earned trust from Euzan, so I in turn will show the same trust. Euzan and Torsten were placed in the city for information. They are deep undercover and risk their life everyday. Every person in that city is ingrained with the [purpose] of either destroying Katta or converting his people.'*
@@ -105,7 +105,7 @@ if **You turn in:** [Report to Tilbok](/item/29891)
 
  **You receive:**  [Report Satchel](/item/17121) (+1000 exp)
 
-elseif **You turn in:** [Etched Earring of Veracity](/item/29858), [Full Satchel](/item/29889)
+elseif( **You turn in:** [Etched Earring of Veracity](/item/29858), [Full Satchel](/item/29889)) then 
 
 
 >**Tilbok Furrunner says:** According to these reports Seru resides in a building called the Arx Seru. It is the large complex in the center of the four Praesertum Consillium. We must take [action] now. Do not underestimate the power of Sanctus Seru for what they do they feel is right.
@@ -143,7 +143,7 @@ elseif **You turn in:** [Etched Earring of Veracity](/item/29858), [Full Satchel
 
  **You receive:**  [Runed Earring of Veracity](/item/29859) (+10000 exp)
  
-elseif **You turn in:** [Dossier: Case 3463827](/item/29844)
+elseif( **You turn in:** [Dossier: Case 3463827](/item/29844)) then 
 
 
 >*Tilbok Furrunner reads through the dossier and then looks at you, eyebrow raised curiously, 'look at the mess you have gotten yourself in the middle of,' he says with a chuckle, while beginning to jot a note. 'Here take this and...' he stops midsentence. 'I guess I haven't even given you the chance to say whether or not you want to help. Would you like to see this through to the'*
@@ -178,7 +178,7 @@ elseif **You turn in:** [Dossier: Case 3463827](/item/29844)
 
  **You receive:**  [Field Orders](/item/29845) (+5000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Mask of Espionage](/item/5105)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Mask of Espionage](/item/5105)) then
 
 
 >**Tilbok Furrunner says:** I see you've spoken with Condor, and no doubt he told you I can recharge this for you. Well, it's true, but don't go around telling everyone. It's not something I like to make public, you know. Keep up the good work, though, we all appreciate it around here.

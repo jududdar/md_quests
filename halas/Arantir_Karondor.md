@@ -88,7 +88,7 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 
 
 
-if **You turn in:** [Blue Crystal Staff](/item/14337), [Gnarled Staff](/item/14338), [Staff of Gabstik](/item/14339)
+if( **You turn in:** [Blue Crystal Staff](/item/14337), [Gnarled Staff](/item/14338), [Staff of Gabstik](/item/14339)) then 
 
 
 >**Arantir Karondor says:** Here, this pack contains all of our items. You will never be able to open it again, so you must deliver the pack, intact, to Solomen. He will then reward you. Now that I have helped you, leave me in peace.
@@ -102,7 +102,7 @@ eq.delete_global("wizepicA");
 
 eq.delete_global("wizepicB");
 
-elseif **You turn in:** [Arantir's Ring](/item/14335)
+elseif( **You turn in:** [Arantir's Ring](/item/14335)) then
 
 
 
@@ -118,7 +118,7 @@ eq.set_global("wizepicA","1",1,"F");
 
 **Set a timer** named *ArantirDepop* for 640 seconds
 
-elseif **You turn in:** [Note to Arantir](/item/18168)
+elseif( **You turn in:** [Note to Arantir](/item/18168)) then
 
 
 

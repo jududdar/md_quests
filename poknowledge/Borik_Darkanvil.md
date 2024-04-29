@@ -48,7 +48,7 @@ end
 
 
 
-if **You turn in:** [Nightmare Mephit Heart](/item/29228), [Crystal Spider Brain](/item/29229), [Solid Block of Perilium](/item/29230), platinum =  [Zaharns Coronet](/item/3000)
+if( **You turn in:** [Nightmare Mephit Heart](/item/29228), [Crystal Spider Brain](/item/29229), [Solid Block of Perilium](/item/29230), platinum =  [Zaharns Coronet](/item/3000)) then
 
 
 >**Borik Darkanvil says:** Ah ha! Here we go one box of souls!

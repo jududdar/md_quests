@@ -81,7 +81,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18831)
+if( **You turn in:** [A tattered note](/item/18831)) then
 
 
 >**Einhorst McMannus says:** Yes. We almost forgot of the shipment of Karana clovers. Here you are, my friend. Back to the north with you. I am sure the Shamans of Justice will need this.
@@ -102,6 +102,6 @@ if **You turn in:** [A tattered note](/item/18831)
 * __Faction:__ [Steel Warriors](/faction/311) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Karana Clover Shipment](/item/13962) (+1600 exp)
 
 **This NPC *should* return incorrect items given.**

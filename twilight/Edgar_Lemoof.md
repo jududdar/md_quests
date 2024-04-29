@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Moon Jewel](/item/4489), [Mark of Storms](/item/5097), [Etched Fire Opal of Nature](/item/5098)
+if( **You turn in:** [Moon Jewel](/item/4489), [Mark of Storms](/item/5097), [Etched Fire Opal of Nature](/item/5098)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Veil](/item/3769) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of the Earth](/item/5099), [Tablet of Wolves](/item/5107), [Etched Peridot of Nature](/item/6395)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Earth](/item/5099), [Tablet of Wolves](/item/5107), [Etched Peridot of Nature](/item/6395)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Cape](/item/3770) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Blossoms](/item/5108), [Etched Pearl of Nature](/item/5109)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Blossoms](/item/5108), [Etched Pearl of Nature](/item/5109)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Gloves](/item/3771) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Rain](/item/5110), [Etched Opal of Nature](/item/5116)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Rain](/item/5110), [Etched Opal of Nature](/item/5116)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Talisman](/item/3772) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Flora](/item/5117), [Etched Onyx of Nature](/item/5118), [Ancient Writ of Nature](/item/5119)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Flora](/item/5117), [Etched Onyx of Nature](/item/5118), [Ancient Writ of Nature](/item/5119)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Belt](/item/3773) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Fauna](/item/5129), [Etched Fire Emerald of Nature](/item/5190), [Vial of Moon Dew](/item/5191)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Fauna](/item/5129), [Etched Fire Emerald of Nature](/item/5190), [Vial of Moon Dew](/item/5191)) then 
 
 
 FactionReward(e)

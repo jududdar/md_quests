@@ -16,22 +16,22 @@ local bottles = 0
 
 
 
-if **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598)
+if( **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598)) then
 
 
 bottles = 4;
 
-elseif **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598)
+elseif( **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598)) then
 
 
 bottles = 3;
 
-elseif **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598)
+elseif( **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598)) then
 
 
 bottles = 2;
 
-elseif **You turn in:** [Bottle](/item/16598)
+elseif( **You turn in:** [Bottle](/item/16598)) then
 
 
 bottles = 1;

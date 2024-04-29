@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Imp Statuette](/item/20953), [Obsidian Amulet](/item/20786), [Pulsating Ruby](/item/20787)
+if( **You turn in:** [Imp Statuette](/item/20953), [Obsidian Amulet](/item/20786), [Pulsating Ruby](/item/20787)) then 
 
 
 
@@ -52,7 +52,7 @@ if **You turn in:** [Imp Statuette](/item/20953), [Obsidian Amulet](/item/20786)
 
 **Dugaas Helpyre despawns.**
 
-elseif **You turn in:** [Gorgon Head](/item/20790), [Aged Nectar](/item/20967), [Glowing Black Pearl](/item/20791), [Efreeti Great Staff](/item/20792)
+elseif( **You turn in:** [Gorgon Head](/item/20790), [Aged Nectar](/item/20967), [Glowing Black Pearl](/item/20791), [Efreeti Great Staff](/item/20792)) then 
 
 
 
@@ -64,7 +64,7 @@ elseif **You turn in:** [Gorgon Head](/item/20790), [Aged Nectar](/item/20967), 
 
 **Dugaas Helpyre despawns.**
 
-elseif **You turn in:** [White Spiroc Feather](/item/20960), [Nebulous Ruby](/item/20788), [Ring of Veeshan](/item/20789)
+elseif( **You turn in:** [White Spiroc Feather](/item/20960), [Nebulous Ruby](/item/20788), [Ring of Veeshan](/item/20789)) then 
 
 
 

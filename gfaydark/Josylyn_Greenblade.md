@@ -139,12 +139,12 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Orcish Arsons Torch](/item/20281)
+if(expansion_flag >= 4.0 and  **You turn in:** [Orcish Arsons Torch](/item/20281)) then
 
 
  **You receive:**  [Dull Emerald Novice Sword](/item/20294) (+200 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Emerald Novice Sword](/item/20298), [Arborean Amber](/item/20274), [Pristine Forest Drakeling Scales](/item/20271)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Emerald Novice Sword](/item/20298), [Arborean Amber](/item/20274), [Pristine Forest Drakeling Scales](/item/20271)) then
 
 
  **You receive:**  [Emerald Novice Long Sword](/item/20331) (+300 exp)

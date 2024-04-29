@@ -152,7 +152,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Centurion Relgle's Head](/item/20288), [Head of an Ebon Mask Spy](/item/20289)
+if(expansion_flag >= 4.0 and  **You turn in:** [Centurion Relgle's Head](/item/20288), [Head of an Ebon Mask Spy](/item/20289)) then
 
 
 >**Seria Woodwind says:** Good work Soandso.  King Tearis Thex and the Royal Order of the Koada'Vie shall be pleased.  Take the Dull Felwithe Defenders Sword to a forge and sharpen it with a sharpening stone.  It may take you several attempts if you are unfamiliar with the process.  Once that is accomplished bring me the Sharp Felwithe Defenders Sword, a Pristine Forest Drakeling Scale, and an Arborean Amber and I will put the finishing touches on the weapon.
@@ -169,7 +169,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Centurion Relgle's Head](/item/2
 
  **You receive:**  [Dull Felwithe Defenders Sword](/item/20295) (+1000 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Felwithe Defenders Sword](/item/20299), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Felwithe Defenders Sword](/item/20299), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)) then
 
 
 >*Seria Woodwind fashions a grip from the pristine forest drakeling scales, fastens the arborean amber to the pommel of the hilt and polishes the blade of the sword with a luminescent substance. 'Here is your new weapon young defender. May it serve you well in your service to the Koada'Vie.'*

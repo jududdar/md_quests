@@ -186,7 +186,7 @@ end
 
 
 
-if **You turn in:** [Jharin Hilt Piece](/item/6144)
+if( **You turn in:** [Jharin Hilt Piece](/item/6144)) then
 
 
 >**Hana Sulm says:** Well, you're going to need to practice for a while to make these things. Take these sketches and read up on the lore concerning sonic wolves. You'll learn how to use the sketches. Practice all you can. I'm sure that you're going to have a lot of people coming to you with requests.
@@ -195,6 +195,6 @@ if **You turn in:** [Jharin Hilt Piece](/item/6144)
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Claw Lining Sketches](/item/6139), [Jharin Hilt Piece](/item/6144), [Blade Lining Sketches](/item/6137)) 
 
 **This NPC *should* return incorrect items given.**

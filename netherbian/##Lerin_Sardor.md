@@ -11,7 +11,7 @@
 
 
 
-if **You turn in:** [Signed Agreement](/item/5983)
+if( **You turn in:** [Signed Agreement](/item/5983)) then
 
 
 >**Lerin Sardor says:** Thank you so much for your help!  As I promised here is a small token of my appreciation.

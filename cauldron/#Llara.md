@@ -71,7 +71,7 @@ end
 
 
 
-if **You turn in:** [A Pendant](/item/2414)
+if( **You turn in:** [A Pendant](/item/2414)) then
 
 
 >**Llara says:** Oh my, this belongs to Amstaf! Where did you get it?

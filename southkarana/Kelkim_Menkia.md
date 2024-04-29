@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Chromodrac Gut](/item/20527), [Red Wurm Gut](/item/20528), [Onyx Drake Gut](/item/20529)
+if( **You turn in:** [Chromodrac Gut](/item/20527), [Red Wurm Gut](/item/20528), [Onyx Drake Gut](/item/20529)) then 
 
 
 e.self:Emote(string.format("snatches the gut strings from your hand and immediately begins to string her lute. 'This is wonderful, I will be able to play my lute again soon! Take this old sheet of music I found - I don't think I will have much use for it. My new desire is to bash gnoll heads in with my lute. Safe travels to you, %s.",e.other:GetName()));

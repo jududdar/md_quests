@@ -15,7 +15,7 @@ enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
 
 
 
-if **You turn in:** [A tattered note](/item/18856)
+if( **You turn in:** [A tattered note](/item/18856)) then 
 
 
 >**Konious Eranon says:** Hey, Nex, we got another sucker.. er.. volunteer, that is, to help us out around here. Here ya go friend, put this on and let's whip you into shape.

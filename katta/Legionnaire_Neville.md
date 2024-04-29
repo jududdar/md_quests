@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Spiced Grimroot Tea](/item/31772)
+if( **You turn in:** [Spiced Grimroot Tea](/item/31772)) then
 
 
 >**Legionnaire Neville says:** Oh that is good. I feel a little better already, thanks Soandso! A little more of that stuff and I'll be better in no time.

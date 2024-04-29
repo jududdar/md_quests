@@ -84,7 +84,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Giant Sack of Supplies](/item/25266)
+if **Faction** >= Apprehensive and  **You turn in:** [Giant Sack of Supplies](/item/25266)) then 
 
 
 >**Fjloaren Icebane says:** Thank you for bringing the supplies, Soandso. This season has not treated my clan well.  The winds have grown colder and the Coldain are now brazen enough to hunt the same animals we do.  Take this torque back to Svekk and he will repay you for the supplies.

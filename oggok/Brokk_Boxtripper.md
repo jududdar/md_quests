@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Scribbled Parchment](/item/10629)
+if( **You turn in:** [Scribbled Parchment](/item/10629)) then
 
 
 >**Brokk Boxtripper says:** Brokk sorry, me no smush Bozlum's perty garden on purpose. Me felt bad and me too shy to go tell Boz Brokk sorry. Umm....go give her these perty flowers. Dem smell good and maybe make Bozlum feel better.

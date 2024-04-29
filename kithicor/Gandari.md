@@ -48,7 +48,7 @@ local text1 = "Wait, Soandso, are you not forgetting something?";
 
 
 
-if **You turn in:** [Rune of Ivy](/item/10569), [Water Ring](/item/10546), [Fire Emerald](/item/10033)
+if( **You turn in:** [Rune of Ivy](/item/10569), [Water Ring](/item/10546), [Fire Emerald](/item/10033)) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.
@@ -68,7 +68,7 @@ if **You turn in:** [Rune of Ivy](/item/10569), [Water Ring](/item/10546), [Fire
 
  **You receive:**  [Ivy Etched Bracer](/item/3189) (+10000 exp)
 
-elseif **You turn in:** [Rune of Ivy](/item/10566), [Cyclops Charm](/item/10570), [Sapphire](/item/10034)
+elseif( **You turn in:** [Rune of Ivy](/item/10566), [Cyclops Charm](/item/10570), [Sapphire](/item/10034)) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.
@@ -88,7 +88,7 @@ elseif **You turn in:** [Rune of Ivy](/item/10566), [Cyclops Charm](/item/10570)
 
  **You receive:**  [Ivy Etched Helm](/item/3181) (+10000 exp)
 
-elseif **You turn in:** [Heart of Fire](/item/10548), [Rune of Ivy](/item/10568), [Star Ruby](/item/10032), [Star Ruby](/item/10032)
+elseif( **You turn in:** [Heart of Fire](/item/10548), [Rune of Ivy](/item/10568), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.
@@ -108,7 +108,7 @@ elseif **You turn in:** [Heart of Fire](/item/10548), [Rune of Ivy](/item/10568)
 
  **You receive:**  [Ivy Etched Sleeves](/item/3188) (+10000 exp)
 
-elseif **You turn in:** [Skull of Meldrath](/item/10571), [Rune of Ivy](/item/10567), [Ruby](/item/10035), [Ruby](/item/10035)
+elseif( **You turn in:** [Skull of Meldrath](/item/10571), [Rune of Ivy](/item/10567), [Ruby](/item/10035), [Ruby](/item/10035)) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.

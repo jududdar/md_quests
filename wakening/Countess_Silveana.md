@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Kromzek Surveyor Scope](/item/30221)
+if( **You turn in:** [Kromzek Surveyor Scope](/item/30221)) then
 
 
 >*Countess Silveana claps boisterously 'My people are in your debt for putting anto that monsters murderous squashings! Here is the crest of the Sifaye*

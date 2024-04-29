@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Original Records](/item/29856), [Insignia Earring of Veracity](/item/29857)
+if( **You turn in:** [Original Records](/item/29856), [Insignia Earring of Veracity](/item/29857)) then
 
 
 >**Euzan Jurek says:** By now you must realize that we need to avoid the question because of whom we are. Seru is not the Noble Paladin this city would have you believe. You see they teach that Katta feared Seru and that he had faked his own poisoning so they could pin the blame on Seru. The next thing that I ask of you, I ask because you can travel without question from one city to another. Go to Katta and give this report to Tilbok Furrunner. Tell him we are successfully rooted within Sanctus Seru and await any commands.
@@ -77,6 +77,6 @@ if **You turn in:** [Original Records](/item/29856), [Insignia Earring of Veraci
 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Report to Tilbok](/item/29891), [Etched Earring of Veracity](/item/29858)) 
 
 **This NPC *should* return incorrect items given.**

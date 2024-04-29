@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Giant Loyalist Token](/item/1782)
+if( **You turn in:** [Giant Loyalist Token](/item/1782)) then 
 
 
 >**Tomekeeper Bjordnessin says:** Amazing! Simply Amazing! The legends must be true! This item was said to have been given to the Dragon Sage as a sign of friendship and trust, but I have always considered it to be legend. The discovery of this artifact will work wonders for my status! I have discovered a legend! Oh... Oh yes. You sought information on that herb. Take this back to the sage. Maybe he can decipher it.

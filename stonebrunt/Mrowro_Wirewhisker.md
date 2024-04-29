@@ -26,7 +26,7 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Kejek Spirit Powder](/item/6980), [Fading Soul Orb](/item/6978)
+if **Faction** >= Dubious +300 and  **You turn in:** [Kejek Spirit Powder](/item/6980), [Fading Soul Orb](/item/6978)) then 
 
 
 >**Mrowro Wirewhisker says:** I require a Fading Soul Orb and Kejek Spirit Dust in order to perform the ritual that will free the imprisoned souls.

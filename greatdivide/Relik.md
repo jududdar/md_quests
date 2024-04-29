@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262)
+if( **You turn in:** [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262)) then
 
 
 >**Relik says:** Oh, yeah. That's strong, very strong. With these, we can make our shipment for this month. I gotta be thankin' ya properly. This be one of our best tools. Here, ya can swing a pick with us anytime, Soandso.

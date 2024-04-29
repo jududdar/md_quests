@@ -66,7 +66,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Empty Bottle of Elixir](/item/13245)
+if( **Faction is** > Indifferent and  **You turn in:** [Empty Bottle of Elixir](/item/13245)) then 
 
 
 >**Dargon McPherson says:** Ye've proven yerself to be a cut above the rest and aided yer fellow warriors, no matter how worthless they were. Ye may take this. It was found in the snow by one of our foraging parties. I hope it can be of use to a warrior like yerself.
@@ -87,6 +87,6 @@ if( **Faction is** > Indifferent and  **You turn in:** [Empty Bottle of Elixir](
 * __Faction:__ [Steel Warriors](/faction/311) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Leather Boots](/item/2012), [Wrist Pouch](/item/17001), [Copper Band](/item/10004), [Turquoise](/item/10017), [Tattered Cloth Sandal](/item/1038), [Lapis Lazuli](/item/10016), [Corroded Buckler](/item/13877), [Large Patchwork Pants](/item/2135), [Rusty Dagger](/item/7007), [Throwing Axe](/item/8008), [Bead Necklace](/item/10009), [Ration](/item/13007), [Rusty Axe](/item/5014), [Small Lantern](/item/13003), [Black Burrow Stout](/item/13107)) (+125 exp)
 
 **This NPC *should* return incorrect items given.**

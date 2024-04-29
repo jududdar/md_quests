@@ -164,7 +164,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Spider Venom Sac](/item/14018)
+if **Faction** >= Amiable and  **You turn in:** [A Spider Venom Sac](/item/14018)) then 
 
 
 >**Merko Quetalis says:** You have earned the token of bravery. Now you must ask yourself if you are ready to face true fear. You will have but one chance. If you feel you are powerful enough to easily slay that desert tarantula, then hand me both tokens earned and you shall face the Test of Truth.
@@ -187,7 +187,7 @@ if **Faction** >= Amiable and  **You turn in:** [A Spider Venom Sac](/item/14018
 
  **You receive:**  [Token of Bravery](/item/12144) (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Token of Bravery](/item/12144), [Token of Generosity](/item/13865)
+elseif **Faction** >= Amiable and  **You turn in:** [Token of Bravery](/item/12144), [Token of Generosity](/item/13865)) then 
 
 
 >**Merko Quetalis says:** Go to the open sewer across the way. Inside you shall find your opponent. Victory shall bring your final token. Return it to me. Remember our ways and remember our foes. Send them to their judgement in the afterlife. Be swift with your thoughts. May Marr be with you.
@@ -213,7 +213,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Token of Bravery](/item/121
 
  **You receive:** 0 (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Token of Truth](/item/13866)
+elseif **Faction** >= Amiable and  **You turn in:** [Token of Truth](/item/13866)) then 
 
 
 >**Merko Quetalis says:** You have performed well. You have shown your allegiance to truth and cast aside the Freeport Militia. The militia will surely despise you from now on. This is how they treat the Knights of Truth. Beware. The followers of Marr stand alone in this city.

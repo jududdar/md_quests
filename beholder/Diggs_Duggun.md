@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Pick](/item/5018), [Dwarven Ale](/item/13036), [Dwarven Ale](/item/13036)
+if( **You turn in:** [Pick](/item/5018), [Dwarven Ale](/item/13036), [Dwarven Ale](/item/13036)) then
 
 
 >*Diggs Duggun drinks one of the ales, burps loudly, then says 'By Brell's Beard! Yer a lifesaver, ya are! 'ere, take dis bone I've found 'ere in dis maze. Looks human ta me and I'm thinkin that a proper burial is in order. Freeport's the closest place dat has one o Marr's temples. I'm thinkin dis was one o' his Holy Knights by da look o' da tattered tunic I found it wrapped in. I'm thinkin Valeron might be havin an interest in it if you show that to him.'*

@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Seal of Kastane](/item/14375)
+if( **You turn in:** [Seal of Kastane](/item/14375)) then
 
 
 >**Gerot Kastane says:** At last! I have been waiting for my brother for weeks! We are doomed! Innoruuk will taint our seed into some perverse, twisted, maddened breed. The prophecy has begun to unfold and there are none capable of stopping it. Quickly, return this note to Marl, we must hide! We have failed the master! We must escape the hateful one's wrath!
@@ -24,9 +24,9 @@ if **You turn in:** [Seal of Kastane](/item/14375)
 * __Faction:__ [Truespirit](/faction/404) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Note to Marl](/item/14376) 
 
-elseif **Faction** >= Apprehensive +28 and  **You turn in:** [Head of Glohnor](/item/14378)
+elseif **Faction** >= Apprehensive +28 and  **You turn in:** [Head of Glohnor](/item/14378)) then  
 
 
 >**Gerot Kastane says:** Good travels, dark one! May Innoruuk curse your enemies!
@@ -35,6 +35,6 @@ elseif **Faction** >= Apprehensive +28 and  **You turn in:** [Head of Glohnor](/
 * __Faction:__ [Truespirit](/faction/404) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Head of the Valiant](/item/14369) 
 
 **This NPC *should* return incorrect items given.**

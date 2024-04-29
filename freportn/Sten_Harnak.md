@@ -148,7 +148,7 @@ end
 local expansion_flag = eq.get_current_expansion();
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Chief Fosloas Warbeads](/item/9924), [Chief Diedridans Warbeads](/item/9925), [Chief Kellerus Warbeads](/item/9926)
+if(expansion_flag >= 4.0 and  **You turn in:** [Chief Fosloas Warbeads](/item/9924), [Chief Diedridans Warbeads](/item/9925), [Chief Kellerus Warbeads](/item/9926)) then
 
 
 >**Sten Harnak says:** I knew I could count on you Soandso! The defeat of these high ranking orcs will definitely be a positive turn in our constant battle of ridding the commons of these vile creatures. For your dedication to the Choir of Lore I would like to present you with this blade. May it keep you safe and serve you well wherever your journeys may take you.

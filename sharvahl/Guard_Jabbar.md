@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Crate of Tea](/item/31766)
+if( **You turn in:** [Crate of Tea](/item/31766)) then
 
 
 >**Guard Jabbar says:** Ah the tea! I've been anxiously awaiting your arrival Soandso! We'd almost run out of this wonderful Gravel leaf tea. Take this seal back to Ahlam, and give him my thanks.

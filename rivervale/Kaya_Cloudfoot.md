@@ -63,7 +63,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if **You turn in:** [Halfling Paladin Note](/item/18431)
+if( **You turn in:** [Halfling Paladin Note](/item/18431)) then 
 
 
 >**Kaya Cloudfoot says:** Karana smiles upon you young Soandso! Take this tunic to keep you warm through the storms you must face. There is evil encroaching upon the lands of Karana's faithful. The wicked minions of Bertoxxulous and the Teir'Dal children of Hate corrupt the lands to the west and east, and the Deathfist Clan of Orcs are waging war on this region while destoying the wilderness for lumber and stone. It is Karana's will that we defend our lands and way of life from these evil threats.
@@ -83,7 +83,7 @@ if **You turn in:** [Halfling Paladin Note](/item/18431)
 
  **You receive:**  [Jumjum Sack Tunic*](/item/13541) (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Severed TeirDal Hands](/item/19688)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Severed TeirDal Hands](/item/19688)) then
 
 
 >**Kaya Cloudfoot says:** Take this Dull Bravefoot Short Sword to the forge at Tagglefoots farm and sharpen it with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once that is done present the blade and a large snake skin to Bodbin Gimple and he will put the finishing touches on the sword.

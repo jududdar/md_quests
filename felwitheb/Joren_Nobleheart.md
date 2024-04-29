@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Head of a Prince](/item/10627)
+if( **You turn in:** [Head of a Prince](/item/10627)) then
 
 
 >**Joren Nobleheart says:** Vengeance has been fufilled! However, the King still has a heavy heart. Not until Firiona has been returned can this sadness be lifted. But in appreciation of your efforts, I am honored to present to you the King's Chalice.

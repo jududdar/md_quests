@@ -48,7 +48,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Giant Snake Fang](/item/7005), [Aviak Charm](/item/13737), [Tiger Skin](/item/13762)
+if **Faction** >= Dubious and  **You turn in:** [Giant Snake Fang](/item/7005), [Aviak Charm](/item/13737), [Tiger Skin](/item/13762)) then
 
 
 >**Errrak Thickshank says:** I cannot believe. Thank you. Please, take this talisman. I bought from wandering shaman but it no help Graalf, maybe it help you. Now please go, Errrak must see if this will help Graalf.

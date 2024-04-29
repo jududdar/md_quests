@@ -65,7 +65,7 @@ end
 
 
 
-if **You turn in:** [Sealed Letter](/item/18863)
+if( **You turn in:** [Sealed Letter](/item/18863)) then 
 
 
 >**Brohan Ironforge says:** Oh! thank you! Now I know she is safe. My sweet Tayla. Here is your reward, as promised. A hero such as yourself deserves a weapon with which to uphold your noble values.

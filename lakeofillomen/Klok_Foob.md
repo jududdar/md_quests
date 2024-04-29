@@ -49,7 +49,7 @@ local text = "No. Foob needs two sandwiches to makes it through da day.";
 
 
 
-if **You turn in:** [Catfish Croak Sandwich](/item/12451), [Catfish Croak Sandwich](/item/12451)
+if( **You turn in:** [Catfish Croak Sandwich](/item/12451), [Catfish Croak Sandwich](/item/12451)) then
 
 
 

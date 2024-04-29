@@ -7,7 +7,7 @@
 
 
 
-if **You turn in:** [Reagent pouch](/item/1797), [Reagent pouch](/item/1797), [Reagent pouch](/item/1797)
+if( **You turn in:** [Reagent pouch](/item/1797), [Reagent pouch](/item/1797), [Reagent pouch](/item/1797)) then
 
 
 >**Driana Poxsbourne says:** Ahh wonderful work Soandso Here is the substance....don't spill it HAHAHAaahhahehehe...yes......you don't want to spill that heheh.

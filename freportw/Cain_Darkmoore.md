@@ -85,7 +85,7 @@ count = count - 1;
 
 until count == 0;
 
-elseif **You turn in:** [A tattered note](/item/18748)
+elseif( **You turn in:** [A tattered note](/item/18748)) then 
 
 
 >**Cain Darkmoore says:** Welcome to the Steel Warriors, young warrior. It is time to prove your mettle. Look to the outskirts of Freeport and join the fray. Show Clan Deathfist what a warrior of the bunker can do.

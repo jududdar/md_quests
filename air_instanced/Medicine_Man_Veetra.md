@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Spirits Among Us](/item/18544)
+if( **You turn in:** [Spirits Among Us](/item/18544)) then 
 
 
 >**Medicine Man Veetra says:** I am no longer needed and will take my leave.
@@ -47,7 +47,7 @@ if **You turn in:** [Spirits Among Us](/item/18544)
 
 **Medicine Man Veetra despawns.**
 
-elseif **You turn in:** [Alkeme](/item/18545)
+elseif( **You turn in:** [Alkeme](/item/18545)) then 
 
 
 >**Medicine Man Veetra says:** I am no longer needed and will take my leave.

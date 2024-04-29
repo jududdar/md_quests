@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Hope Stone](/item/16258), [Advanced Combat Manual](/item/28791), [Advanced Magic Manual](/item/28797), [Advanced Stealth Manual](/item/28794)
+if( **You turn in:** [Hope Stone](/item/16258), [Advanced Combat Manual](/item/28791), [Advanced Magic Manual](/item/28797), [Advanced Stealth Manual](/item/28794)) then
 
 
 >*Tenada Jeried 's eyes go wide. 'This is incredible! You have proven yourself to be truly worthy of these planar secrets, Soandso. May its knowledge contained within guide you safely wherever you travel.'*
@@ -37,7 +37,7 @@ if **You turn in:** [Hope Stone](/item/16258), [Advanced Combat Manual](/item/28
 
 
 
- **You receive:** None 
+ **You receive:**  [Secrets of the Planes](/item/28798) (+1000000 exp)
 
 **This NPC *should* return incorrect items given.**
 

@@ -52,7 +52,7 @@ end
 
 
 
-if **You turn in:** [Sarnak Berserker Head](/item/14822), [Sarnak Knights Sword](/item/14826), [Banded Helm](/item/3053), [Ruby](/item/10035)
+if( **You turn in:** [Sarnak Berserker Head](/item/14822), [Sarnak Knights Sword](/item/14826), [Banded Helm](/item/3053), [Ruby](/item/10035)) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
@@ -62,7 +62,7 @@ if **You turn in:** [Sarnak Berserker Head](/item/14822), [Sarnak Knights Sword]
 
 
 
-if **You turn in:** [Cactus Quills](/item/14828), [Skeletal Feet](/item/14823), [Banded Boots](/item/3064), [Fire Emerald](/item/10033)
+if( **You turn in:** [Cactus Quills](/item/14828), [Skeletal Feet](/item/14823), [Banded Boots](/item/3064), [Fire Emerald](/item/10033)) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
@@ -72,7 +72,7 @@ if **You turn in:** [Cactus Quills](/item/14828), [Skeletal Feet](/item/14823), 
 
 
 
-if **You turn in:** [Skeletal Hand](/item/14825), [Banded Gauntlets](/item/3062), [Star Ruby](/item/10032), [Star Ruby](/item/10032)
+if( **You turn in:** [Skeletal Hand](/item/14825), [Banded Gauntlets](/item/3062), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
@@ -82,7 +82,7 @@ if **You turn in:** [Skeletal Hand](/item/14825), [Banded Gauntlets](/item/3062)
 
 
 
-if **You turn in:** [Golra Skin](/item/14830), [Banded Sleeves](/item/3060), [Sapphire](/item/10034), [Sapphire](/item/10034)
+if( **You turn in:** [Golra Skin](/item/14830), [Banded Sleeves](/item/3060), [Sapphire](/item/10034), [Sapphire](/item/10034)) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!

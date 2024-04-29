@@ -100,7 +100,7 @@ if(**You possess item:**  [Rune of Concentration](/item/1896) x 1
 * __Faction:__ [Kromzek](/faction/448) (-2)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Rune of Concentration](/item/1896), [Jualicns Token](/item/1908)) (+1000 exp)
 
 
 **Draazak despawns.**

@@ -68,7 +68,7 @@ end
 
 
 
-if **You turn in:** [A Heavy Coin](/item/3877)
+if( **You turn in:** [A Heavy Coin](/item/3877)) then
 
 
 >**Examiner Malikin says:** Good job! I'm glad that you have returned. I'm also very glad that you were able to see this task as what it was, a purpose to be fulfilled. I'm not sure that you understand, so please allow me to elaborate. The coin that i handed you has great value. That value is obvious in the fact that the coin is made of a precious metal and carries with it more wright than a standard coin. That said, you did not take the coin for your personal gain. You simple carried out your purpose. The fact that you can be trusted has earned you that coin. Do you understand the [meaning of the task] now?
@@ -76,7 +76,7 @@ if **You turn in:** [A Heavy Coin](/item/3877)
 
  **You receive:**  [A Heavy Coin](/item/3878) 
 
-elseif **You turn in:** [Official Seal of the Hand](/item/3879)
+elseif( **You turn in:** [Official Seal of the Hand](/item/3879)) then
 
 
 >**Examiner Malikin says:** Splendid job, Soandso! You managed that task quite nicely. Please, keep the coin. The most important part of that task was the fact that you did not stop to question what was being asked of you. That sort of trust is commendable. The Eye is looking for people like you. We need people who display not only integrity, but trust. Trust in our purpose here and you will do well. Out means may seem a bit harsh at times, but we are here to protect our people from an enemy whose methods are without honor. It is one of those very [attacks] on our people that I will need your help with at this time.
@@ -84,7 +84,7 @@ elseif **You turn in:** [Official Seal of the Hand](/item/3879)
 
  **You receive:**  [Official Seal of the Hand](/item/3879) 
 
-elseif **You turn in:** [An Empty Poison Vial](/item/3882)
+elseif( **You turn in:** [An Empty Poison Vial](/item/3882)) then
 
 
 >**Examiner Malikin says:** Your worth to us is not going unnoticed. There are many people within the Eye that are very pleased with your progress. Finish this next task and we will have something for you. Your willingness to assist us with this most unpleasant task is a great display of allegiance. We are very excited about your future with us, but let's finish with this before we talk further. Take this poison and do with it as you did to Ornis. This time the target is a guard within Katta Castellum. His name is Erallic. Find him when he is asleep after a guard shift and kill him. Be sure to bring me the empty vial and be careful. They will have guards posted. Stealth is key in this matter. Take care.
@@ -92,7 +92,7 @@ elseif **You turn in:** [An Empty Poison Vial](/item/3882)
 
  **You receive:**  [A Vial of Thick Liquid](/item/3881) 
 
-elseif **You turn in:** [An Empty Poison Vial](/item/3883)
+elseif( **You turn in:** [An Empty Poison Vial](/item/3883)) then
 
 
 >**Examiner Malikin says:** It is good to see you again friend. Your deeds are well known within the ranks of the Eye. You have allowed us to remove several traintors from the walls of this sanctum. We are extremely tankful for you dedication and efforts. Please take this gift and watch for us to call upon you again in the bear future.

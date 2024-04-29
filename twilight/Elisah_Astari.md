@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Letter of Relief](/item/29868)
+if( **You turn in:** [Letter of Relief](/item/29868)) then 
 
 
 >**Elisah Astari says:** So you have been sent to relieve me? Not that I need I need it but if you were ordered by Yuka then I will tell you what I know. Tergus Raslin was given the escape route that leads through Twilight Sea. He was to suppose to come through Scarlet Desert, so he should be coming this way. It has been a few days though and I do not know what has become of him. I will head back to Sanctus Seru to let Yuka know you are on the case.

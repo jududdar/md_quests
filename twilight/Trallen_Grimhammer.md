@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sun Jewel](/item/4488), [Mark of Destiny](/item/5904), [Fleshy Vine](/item/5905)
+if( **You turn in:** [Sun Jewel](/item/4488), [Mark of Destiny](/item/5904), [Fleshy Vine](/item/5905)) then 
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Boots](/item/3978) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of the Steadfast](/item/5908), [Lexicon of the Sun](/item/5909), [Glade Dew](/item/5910)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Steadfast](/item/5908), [Lexicon of the Sun](/item/5909), [Glade Dew](/item/5910)) then 
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Cloak](/item/3980) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Honor](/item/5911), [Naturally Formed Quartz](/item/5912)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Honor](/item/5911), [Naturally Formed Quartz](/item/5912)) then 
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Gauntlets](/item/3981) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Heart](/item/5915), [Lexicon of the Moon](/item/5916), [Dread Leech Eye](/item/5917)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Heart](/item/5915), [Lexicon of the Moon](/item/5916), [Dread Leech Eye](/item/5917)) then 
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Girdle](/item/3983) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Gallantry](/item/5913), [Lunar Marked Stone](/item/5914)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Gallantry](/item/5913), [Lunar Marked Stone](/item/5914)) then 
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Gorget](/item/3982) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Blessings](/item/5906), [Crystallized Dew](/item/5907)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Blessings](/item/5906), [Crystallized Dew](/item/5907)) then 
 
 
 FactionReward(e)
@@ -118,7 +118,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Mask](/item/3979) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of the Noble](/item/5918), [Hardened Clay Sculpture](/item/5919), [Runic Ear Plug](/item/5920)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of the Noble](/item/5918), [Hardened Clay Sculpture](/item/5919), [Runic Ear Plug](/item/5920)) then 
 
 
 FactionReward(e)

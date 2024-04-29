@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Book of Sales Secrets](/item/26057)
+if( **You turn in:** [Book of Sales Secrets](/item/26057)) then 
 
 
 >**Thar Anton says:** I see you have brought a book from the Commissioner. Well I'm not much for reading but I will surely try anything that may increase my sales. Anyways I'm sure you aren't that interested in how bad my sales are and would like to be on your way so here you go.

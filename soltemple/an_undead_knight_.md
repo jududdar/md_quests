@@ -48,7 +48,7 @@ local text4 = "A Qeynos kite shield and the right and left decayed vambraces.";
 
 
 
-if **You turn in:** [Decayed Helm](/item/12283), [Decayed Visor](/item/12284), [Damaged Militia Helm](/item/13921), [Damaged Militia Helm](/item/13921)
+if( **You turn in:** [Decayed Helm](/item/12283), [Decayed Visor](/item/12284), [Damaged Militia Helm](/item/13921), [Damaged Militia Helm](/item/13921)) then
 
 
 >**an undead knight  says:** You now own the darkforge helm.
@@ -56,7 +56,7 @@ if **You turn in:** [Decayed Helm](/item/12283), [Decayed Visor](/item/12284), [
 
  **You receive:**  [Darkforge Helm](/item/3140) (+5000 exp)
 
-if **You turn in:** [Decayed Breastplate](/item/12285), [Decayed Chainmail](/item/12286), [Enchanted Platinum Bar](/item/16507), [Enchanted Platinum Bar](/item/16507)
+if( **You turn in:** [Decayed Breastplate](/item/12285), [Decayed Chainmail](/item/12286), [Enchanted Platinum Bar](/item/16507), [Enchanted Platinum Bar](/item/16507)) then
 
 
 >**an undead knight  says:** I grant you the darkforge breastplate!!
@@ -64,7 +64,7 @@ if **You turn in:** [Decayed Breastplate](/item/12285), [Decayed Chainmail](/ite
 
  **You receive:**  [Darkforge Breastplate](/item/3141) (+5000 exp)
 
-if **You turn in:** [Decayed Left Vambrace](/item/12288), [Decayed Right Vambrace](/item/12287), [Qeynos Kite Shield](/item/9023)
+if( **You turn in:** [Decayed Left Vambrace](/item/12288), [Decayed Right Vambrace](/item/12287), [Qeynos Kite Shield](/item/9023)) then
 
 
 >**an undead knight  says:** You now have the darkforge vambraces.
@@ -72,7 +72,7 @@ if **You turn in:** [Decayed Left Vambrace](/item/12288), [Decayed Right Vambrac
 
  **You receive:**  [Darkforge Vambraces](/item/3142) (+5000 exp)
 
-if **You turn in:** [Decayed Left Bracer](/item/12290), [Decayed Right Bracer](/item/12289), [Broken Minotaur Lord's Horn](/item/19075)
+if( **You turn in:** [Decayed Left Bracer](/item/12290), [Decayed Right Bracer](/item/12289), [Broken Minotaur Lord's Horn](/item/19075)) then
 
 
 >**an undead knight  says:** You now own a darkforge bracer.

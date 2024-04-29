@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [A Jarbled Note](/item/4754)
+if( **You turn in:** [A Jarbled Note](/item/4754)) then
 
 
 >**Terasol says:** Ah, of course, you must be sent to pick up the supplies that Daesorak has been needing for his mining operation. I was wondering when that crazy Dwarf was going to come and pick these up. I imagine then that you will [take the mining picks] to Daesorak?

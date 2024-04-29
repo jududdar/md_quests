@@ -112,7 +112,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18737)
+if( **You turn in:** [A tattered note](/item/18737)) then 
 
 
 >**Valeron Dushire says:** Welcome to the Guild, here's your guild tunic. Now, let's get to work.
@@ -135,7 +135,7 @@ if **You turn in:** [A tattered note](/item/18737)
 
  **You receive:**  [Faded Purple Tunic*](/item/13554) (+20 exp)
 
-elseif **You turn in:** [A Dusty Old Leg Bone](/item/6701)
+elseif( **You turn in:** [A Dusty Old Leg Bone](/item/6701)) then 
 
 
 >**Valeron Dushire says:** Hail, adventurer! I... what's this? Where did you get this? Never mind.. I.. I never thought we would find [him]!
@@ -143,7 +143,7 @@ elseif **You turn in:** [A Dusty Old Leg Bone](/item/6701)
 
  **You receive:**  [A Dusty Old Leg Bone](/item/6701) (+1 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Testimony of Truth](/item/18827)
+elseif **Faction** >= Amiable and  **You turn in:** [A Testimony of Truth](/item/18827)) then 
 
 
 >**Valeron Dushire says:** Praise be to Marr!! You have done the impossible!! Sir Lucan is finally sent to the higher courts of the Tribunal. The city now has a chance to prosper. The Hall of Truth has been redeemed and gives you thanks. Take this, it is the Sword of Faith. May you wield it with righteousness. Beware of the remainder of the militia. They will be hunting for your head.

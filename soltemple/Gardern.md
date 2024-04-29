@@ -70,7 +70,7 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Heart of Fire](/item/10548), [Heart of Frost](/item/10549), [Rod of Bone](/item/10550), [Darkwood Staff](/item/6048)
+if **Faction** >= Indifferent and  **You turn in:** [Heart of Fire](/item/10548), [Heart of Frost](/item/10549), [Rod of Bone](/item/10550), [Darkwood Staff](/item/6048)) then
 
 
 >**Gardern says:** Well done, Soandso - here is the staff of Temperate Flux. Use it with the blessings of the Temple of Solusek Ro.
@@ -84,7 +84,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Heart of Fire](/item/10548)
 
  **You receive:**  [Staff of Temperate Flux](/item/6342) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Bloodblack Wand](/item/10551), [Silver Wand](/item/6338), [Twice-Woven Silk](/item/10557), [A Scepter](/item/14364)
+elseif **Faction** >= Indifferent and  **You turn in:** [Bloodblack Wand](/item/10551), [Silver Wand](/item/6338), [Twice-Woven Silk](/item/10557), [A Scepter](/item/14364)) then
 
 
 >**Gardern says:** Well done, Soandso. Now I will craft your Weeping Wand, as promised.
@@ -98,7 +98,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Bloodblack Wand](/item/
 
  **You receive:**  [Weeping Wand](/item/6341) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Sapphire](/item/10034), [Sapphire](/item/10034), [Lambent Stone](/item/10000)
+elseif **Faction** >= Indifferent and  **You turn in:** [Sapphire](/item/10034), [Sapphire](/item/10034), [Lambent Stone](/item/10000)) then
 
 
 >**Gardern says:** Here is your prize - a lambent sapphire.

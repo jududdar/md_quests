@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Dawnshroud Cider](/item/29851)
+if( **You turn in:** [Dawnshroud Cider](/item/29851)) then 
 
 
 >**Legionnaire Dalini says:** Dorey usually roams in the troglodyte caves, you might find him there.

@@ -79,7 +79,7 @@ end
 
 
 
-if **You turn in:** [Bloody Shank](/item/13110)
+if( **You turn in:** [Bloody Shank](/item/13110)) then 
 
 
 >**Bronin Higginsbot says:** AHH!! You have been sent by the Highkeep Guards!! You will never take Bronin Higginsbot alive!!
@@ -105,7 +105,7 @@ e.self:AddItem(13111,0);
 
 **Bronin Higginsbot attacks you.**
 
-elseif(( **Faction is** > Indifferent) and  **You turn in:** [A Froglok Leg](/item/12192)
+elseif(( **Faction is** > Indifferent) and ( **You turn in:** [A Froglok Leg](/item/12192))) then 
 
 
 >**Bronin Higginsbot says:** So I see you have defeated Slaythe. I shall sleep much better now that he is gone. I placed the emerald shard in one of the Highkeep strongboxes in Highpass. Give the Bank Clerk this key. There is a [second piece of the gem] which I hid near Kelethin. You will need it to complete the gem. I hope it brings you better luck than I.

@@ -147,7 +147,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if **You turn in:** [Recruitment Flyer](/item/18707)
+if( **You turn in:** [Recruitment Flyer](/item/18707)) then 
 
 
 >**Ebon Strongbear says:** Welcome to the Hall of Steel, our swords are strong, and our warriors stronger. Here is our guild tunic. Brin Stolunger is in charge of our new recruits. Go see him, and he'll teach the basics. You look like you'll make a fine addition to our guild.
@@ -168,9 +168,9 @@ if **You turn in:** [Recruitment Flyer](/item/18707)
 * __Faction:__ [Knights of Truth](/faction/281) (20)
 
 
- **You receive:** None 
+ **You receive:**  [Dirty Training Tunic*](/item/13572) (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Perfect Gnoll Skin](/item/27421), [Perfect Gnoll Skin](/item/27421), [Perfect Gnoll Skin](/item/27421), [A Studded Coin Purse](/item/27422)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Perfect Gnoll Skin](/item/27421), [Perfect Gnoll Skin](/item/27421), [Perfect Gnoll Skin](/item/27421), [A Studded Coin Purse](/item/27422)) then
 
 
 >**Ebon Strongbear says:** I knew he would still have it, such an unintelligent one Beris is. As I promised I have crafted you a blade for your trouble. I hope you will promptly stain it with the blood of the gnolls. You have done well Soandso, good luck to you.
@@ -194,7 +194,7 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Perfect Gnoll Skin](/item/27
 * __Faction:__ [Knights of Truth](/faction/281) (2)
 
 
- **You receive:** None 
+ **You receive:**  [Warsword of the Battlemaster](/item/27492) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

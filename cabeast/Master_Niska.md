@@ -136,7 +136,7 @@ local text1 = "Tsk, tsk, tsk. There were more of Talon's Fists than this. Only b
 local text2 = "This is not all. Bring me the item this caste seeks and the shackles of stone and rock.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Iksar Right Hand =|-](/item/12797), [Iksar Left Hand =|-](/item/12798), [Iksar Left Hand =|-](/item/12799)
+if **Faction** >= Amiable and  **You turn in:** [Iksar Right Hand =|-](/item/12797), [Iksar Left Hand =|-](/item/12798), [Iksar Left Hand =|-](/item/12799)) then
 
 
 >*Master Niska removes a crudley hewn shackle. 'This is yours. It is one of the keys to the third rung. I see that you are truely a great monk and have studied your disciplines well. I have need of one as you. I have heard of [troubles with an outlander].'*
@@ -151,7 +151,7 @@ if **Faction** >= Amiable and  **You turn in:** [Iksar Right Hand =|-](/item/127
  **You receive:**  [Shackle of Rock](/item/4193) (+20000 exp)
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [An Outlander's Head](/item/12821), [Shackle of Stone](/item/4192), [Shackle of Rock](/item/4193)
+elseif **Faction** >= Amiable and  **You turn in:** [An Outlander's Head](/item/12821), [Shackle of Stone](/item/4192), [Shackle of Rock](/item/4193)) then
 
 
 >**Master Niska says:** Very good!! Here is your Shackle of Copper. The Emperor shall be pleased that I, Mistress Niska, have slain the outlander. Do you have some time? I need someone to be my [personal courier]. Will you?
@@ -166,7 +166,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [An Outlander's Head](/item/
  **You receive:**  [Shackle of Copper](/item/4194) (+40000 exp)
 
 
-elseif **You turn in:** [Light Grey Tome](/item/18466), [Kromdul Bracelet](/item/22921)
+elseif( **You turn in:** [Light Grey Tome](/item/18466), [Kromdul Bracelet](/item/22921)) then
 
 
 >*Master Niska smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -181,7 +181,7 @@ elseif **You turn in:** [Light Grey Tome](/item/18466), [Kromdul Bracelet](/item
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
 
-elseif **You turn in:** [Greyed Tome](/item/18465), [Ring of the Construct](/item/22920)
+elseif( **You turn in:** [Greyed Tome](/item/18465), [Ring of the Construct](/item/22920)) then
 
 
 >*Master Niska smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -195,7 +195,7 @@ elseif **You turn in:** [Greyed Tome](/item/18465), [Ring of the Construct](/ite
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)
+elseif( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then
 
 
 >**Master Niska says:** You dare disgrace us?' She hisses at you. 'If you have truly lost the marking of our caste, you will need to take this note and speak to the Toilmaster immediately. Read it on the way and praise the will of Cazic-Thule.

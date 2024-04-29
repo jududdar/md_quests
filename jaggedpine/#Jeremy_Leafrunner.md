@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Letter to Jeremy](/item/8970)
+if( **You turn in:** [Letter to Jeremy](/item/8970)) then 
 
 
 >**Jeremy Leafrunner says:** Thank you very much!

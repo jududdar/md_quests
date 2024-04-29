@@ -77,7 +77,7 @@ end
 
 
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Vluudeens Tail](/item/25137)
+if( **Faction is** > Apprehensive and  **You turn in:** [Vluudeens Tail](/item/25137)) then
 
 
 >**Gleed Dragonhunter says:** My, you do have a hunters spirit! If you could track down Vluudeen and slay him without the aid of my bow, you must be worthy. Take the bow, huntsman. Use it to slay others of Vluudeen's kind.

@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Letter to Elisha](/item/28086)
+if( **You turn in:** [Letter to Elisha](/item/28086)) then
 
 
 >*Elisha Dirtyshoes reads the letter and says, 'Oh happy day! Boiron will be visiting me soon. You may take Narik's ring back to him now. If you'll excuse me, I have some cleaning up to do.'*

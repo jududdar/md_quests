@@ -102,7 +102,7 @@ if(**You possess item:**  [Rune of Bleve](/item/1895) x 1
 * __Faction:__ [Kromzek](/faction/448) (-2)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Jualicns Token](/item/1908), [Rune of Bleve](/item/1895)) (+1000 exp)
 
 
 **Derasinal despawns.**

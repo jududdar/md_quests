@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Wood Painting](/item/20475)
+if( **You turn in:** [Wood Painting](/item/20475)) then
 
 
 >*a human skeleton begins to crack and disintegrate, its body collapsing into a pile of dust that scatters into the winds. On the ground you notice a locket on a fine, thin chain which you pick up.*

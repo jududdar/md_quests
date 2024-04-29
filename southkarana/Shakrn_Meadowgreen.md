@@ -85,7 +85,7 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if **You turn in:** [Goblin Fire Totem](/item/13743), [Ruby](/item/10035)
+if( **You turn in:** [Goblin Fire Totem](/item/13743), [Ruby](/item/10035)) then
 
 
 >**Shakrn Meadowgreen says:** By the gods, a fire goblin totem! Well done, warrior! Here is your crafted helm. Wear it with pride, for it is a true warrior's helmet.
@@ -93,7 +93,7 @@ if **You turn in:** [Goblin Fire Totem](/item/13743), [Ruby](/item/10035)
 
  **You receive:**  [Crafted Helm](/item/4173) (+25000 exp)
 
-elseif **You turn in:** [Aviak Charm](/item/13737), [Star Ruby](/item/10032), [Star Ruby](/item/10032)
+elseif( **You turn in:** [Aviak Charm](/item/13737), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
 
 
 >**Shakrn Meadowgreen says:** Ho ho! An aviak charm. These are not easy to come by. You have proven yourself a mighty warrior, and therefore deserve to wear these crafted warrior gauntlets.
@@ -101,7 +101,7 @@ elseif **You turn in:** [Aviak Charm](/item/13737), [Star Ruby](/item/10032), [S
 
  **You receive:**  [Crafted Gauntlets](/item/4178) (+25000 exp)
 
-elseif **You turn in:** [Goblin Frost Totem](/item/13744), [Sapphire](/item/10034), [Sapphire](/item/10034)
+elseif( **You turn in:** [Goblin Frost Totem](/item/13744), [Sapphire](/item/10034), [Sapphire](/item/10034)) then
 
 
 >**Shakrn Meadowgreen says:** What strength you must have to return with a frost goblin totem. You have surprised me - I did not think you up to the task. Take these crafted boots - you have indeed earned them.
@@ -109,7 +109,7 @@ elseif **You turn in:** [Goblin Frost Totem](/item/13744), [Sapphire](/item/1003
 
  **You receive:**  [Crafted Plate Boots](/item/4180) (+25000 exp)
 
-elseif **You turn in:** [Griffon Eye](/item/13739), [Fire Emerald](/item/10033), [Fire Emerald](/item/10033)
+elseif( **You turn in:** [Griffon Eye](/item/13739), [Fire Emerald](/item/10033), [Fire Emerald](/item/10033)) then
 
 
 >**Shakrn Meadowgreen says:** A griffon eye - I shall eat well tonight, and toast you in the manner of my ancestors. Take these crafted vambraces - they will serve you well.

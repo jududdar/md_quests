@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Torch of Rathe](/item/20534)
+if( **You turn in:** [Torch of Rathe](/item/20534)) then
 
 
 >*Misty Tekcihta hands you a small ring.*

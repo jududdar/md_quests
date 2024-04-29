@@ -93,7 +93,7 @@ end
 
 
 
-if **You turn in:** [Krofers Requisition](/item/1706)
+if( **You turn in:** [Krofers Requisition](/item/1706)) then 
 
 
 >*Staff Sergeant Drioc takes the note and begins reading. Seeing a certain passage, he squints and rereads, his brow furrowed. He glances over at you and says, 'Very well. I will assign you a squad lead by Corporal Hlash. They will rendezvous with you out in the field. Oh and take this back to Krofer.'*
@@ -101,12 +101,12 @@ if **You turn in:** [Krofers Requisition](/item/1706)
 
  **You receive:**  [Signed Requisition](/item/1707) 
 
-elseif **You turn in:** [Report of Failure](/item/1709)
+elseif( **You turn in:** [Report of Failure](/item/1709)) then 
 
 
 >*Staff Sergeant Drioc reads over the report, his face begins to turn red with anger. Drioc shouts, 'How can this be?! I sent you a squad of some of our best trained men and you had them destroyed!! This was supposed to be a routine raid and you return in FAILURE!! I would crush you under my boot right now if I wasn't so angry but I think I'll send you to my finacier. YOU can explain what happened and why his investments have been lost. Now take your carcass out of here!'*
 
 
- **You receive:** None 
+ **You receive:**  [Report of Failure](/item/1709) 
 
 **This NPC *should* return incorrect items given.**

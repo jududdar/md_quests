@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Cloud Jewel](/item/4491), [Mark of the Martial](/item/5496), [Hope Ruby](/item/5497)
+if( **You turn in:** [Cloud Jewel](/item/4491), [Mark of the Martial](/item/5496), [Hope Ruby](/item/5497)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Boots](/item/3939) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of the Siege](/item/5494), [Blue Egg](/item/5495)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Siege](/item/5494), [Blue Egg](/item/5495)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Bracer](/item/3938) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of War](/item/5483), [Weathered Yew Wand](/item/5484), [Dew of Dawn](/item/5485)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of War](/item/5483), [Weathered Yew Wand](/item/5484), [Dew of Dawn](/item/5485)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Breastplate](/item/3934) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Archery](/item/5489), [Golden Torch](/item/5490), [Small Meteor Fragment](/item/5491)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Archery](/item/5489), [Golden Torch](/item/5490), [Small Meteor Fragment](/item/5491)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Greaves](/item/3936) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Battle](/item/5480), [Petrified Toes](/item/5481), [Fire Blossom](/item/5482)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Battle](/item/5480), [Petrified Toes](/item/5481), [Fire Blossom](/item/5482)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Helm](/item/3933) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Swordsmanship](/item/5492), [Water Blossom](/item/5493)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Swordsmanship](/item/5492), [Water Blossom](/item/5493)) then 
 
 
 FactionReward(e)
@@ -112,7 +112,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Pauldrons](/item/3937) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Arms](/item/5486), [Small Sponge](/item/5487), [Scorched Rock](/item/5488)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Arms](/item/5486), [Small Sponge](/item/5487), [Scorched Rock](/item/5488)) then 
 
 
 FactionReward(e)

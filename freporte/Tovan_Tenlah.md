@@ -45,7 +45,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Rough Blue Gem](/item/19918)
+if(expansion_flag >= 4.0 and  **You turn in:** [Rough Blue Gem](/item/19918)) then
 
 
 >**Tovan Tenlah says:** Sharpen this dagger and take it with this gem and a rattlesnake skin to Verona Rankin.

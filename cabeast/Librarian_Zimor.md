@@ -17,7 +17,7 @@ end
 if( **Faction is** > Threatening) then 
 
 
-if **You turn in:** [The History of the Greenmist](/item/3887)
+if( **You turn in:** [The History of the Greenmist](/item/3887)) then
 
 
 
@@ -36,7 +36,7 @@ if **You turn in:** [The History of the Greenmist](/item/3887)
  **You receive:**  [A note to Oxyn](/item/3895) (+5000 exp)
 
 
-elseif **You turn in:** [Note to Librarian Zimor](/item/3893)
+elseif( **You turn in:** [Note to Librarian Zimor](/item/3893)) then
 
 
 

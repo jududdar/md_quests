@@ -124,7 +124,7 @@ end
 
 
 
-if **You turn in:** [Stained Note](/item/18769)
+if( **You turn in:** [Stained Note](/item/18769)) then  
 
 
 >**Evah Xokez says:** Join us in fulfilling teh will of Bertoxxulous. You can train with us here, in the shadows of the Abbey. Wear this tunic to help conceal your true identity.
@@ -148,7 +148,7 @@ if **You turn in:** [Stained Note](/item/18769)
  **You receive:**  [Tin Patched Tunic*](/item/13518) (+20 exp)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Empty Infectious Vial](/item/10263)
+elseif **Faction** >= Indifferent and  **You turn in:** [Empty Infectious Vial](/item/10263)) then 
 
 
 >**Evah Xokez says:** I hope you enjoyed the thrill of your first lesson and the awakening of your vision. Now you must prove your utility to our society. Take this airtight container and gather the [components] for another dose of the plague rat disease.
@@ -173,7 +173,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Empty Infectious Vial](
  **You receive:**  [Airtight Metal Box](/item/17357) (+150 exp)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Container of Infectious Reagents](/item/10266)
+elseif **Faction** >= Indifferent and  **You turn in:** [Container of Infectious Reagents](/item/10266)) then
 
 
 >**Evah Xokez says:** It appears that you truly seek to expand your vision into the Dark Reflection, Soandso. I grant you the Initiate Symbol of Bertoxxulous!

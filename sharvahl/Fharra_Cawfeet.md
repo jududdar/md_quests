@@ -24,15 +24,15 @@ end
 
 
 
-if **You turn in:** [Treated Hopperhide Buckler](/item/3495)
+if( **You turn in:** [Treated Hopperhide Buckler](/item/3495)) then
 
 
 >*Fharra Cawfeet looks like she has been awake for many hours. She looks up and says 'Are you here to assist me with these sick citizens? I was told that a few of our newest Dar Khura recruits might be coming to aid me. I could definitly use the help. Here, take the jar while I explain. Were you told about the [tasks] that I need help with?' The room is filled with the smell of aromatic herbs and the sweat of the feverish.*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Treated Hopperhide Buckler](/item/3495), [Blackened Clay Jar](/item/17077)) 
 
-elseif **You turn in:** [Jar of Tonic](/item/5536)
+elseif( **You turn in:** [Jar of Tonic](/item/5536)) then
 
 
 >*Fharra Cawfeet perks up when you hand her the jar. 'Many thanks,' she exclaims, as she digs in her medicine bag. 'Your assistance is greatly appreciated. Please take this tincture. It will help to strength your buckler. Mydi Darjik can help you apply it. She is a friend and a wonderful alchemist. Tell her that you need her to treat your buckler. Take care, friend!'*

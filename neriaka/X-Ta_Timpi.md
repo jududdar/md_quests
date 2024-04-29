@@ -350,7 +350,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Charred Dagger](/item/7036), [Bloodstone](/item/10019), [Dull Bone Chips](/item/10517)
+if **Faction** >= Indifferent and  **You turn in:** [Charred Dagger](/item/7036), [Bloodstone](/item/10019), [Dull Bone Chips](/item/10517)) then
 
 
 >**X-Ta Timpi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -383,7 +383,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Charred Dagger](/item/7036)
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Festering Cloak](/item/1343), [Jasper](/item/10020), [Ebon Wand](/item/10515), [Ebon Wand](/item/10515)
+elseif **Faction** >= Indifferent and  **You turn in:** [Festering Cloak](/item/1343), [Jasper](/item/10020), [Ebon Wand](/item/10515), [Ebon Wand](/item/10515)) then
 
 
 >**X-Ta Timpi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -416,7 +416,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Festering Cloak](/item/
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Eye of Fright](/item/13151), [Wraithstone](/item/10298), [Pearl](/item/10024)
+elseif **Faction** >= Indifferent and  **You turn in:** [Eye of Fright](/item/13151), [Wraithstone](/item/10298), [Pearl](/item/10024)) then
 
 
 >**X-Ta Timpi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -449,7 +449,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Eye of Fright](/item/13
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Star Rose Quartz](/item/10021), [Iced Bone Chips](/item/10519)
+elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Star Rose Quartz](/item/10021), [Iced Bone Chips](/item/10519)) then
 
 
 >**X-Ta Timpi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.

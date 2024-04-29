@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Pyrrhotite Sample](/item/29843)
+if( **You turn in:** [Pyrrhotite Sample](/item/29843)) then 
 
 
 >**Berk Thurstone says:** Aww, noice, this'll do just right. Thanks millions, Soandso. Yer ok by me, ye are.

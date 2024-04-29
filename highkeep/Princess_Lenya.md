@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Tearons Bracer](/item/13108)
+if( **You turn in:** [Tearons Bracer](/item/13108)) then
 
 
 >**Princess Lenya says:** So you are a member of the Silent Watch!! They are accepting anyone these days. I shall leave then. Here is your bracer back. Thank you for unlocking the door. 

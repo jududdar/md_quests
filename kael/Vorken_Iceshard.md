@@ -395,7 +395,7 @@ end
 
 
 
-if **You turn in:** [Bllizents Fang](/item/25117)
+if( **You turn in:** [Bllizents Fang](/item/25117)) then
 
 
 if  **Faction** >= Amiable then
@@ -440,7 +440,7 @@ else
 e.self:SummonItem( [Bllizents Fang](/item/25117)); 
 
 
-elseif **You turn in:** [Head of Ekelng Thunderstone](/item/25116)
+elseif( **You turn in:** [Head of Ekelng Thunderstone](/item/25116)) then
 
 
 if  **Faction** >= Amiable then

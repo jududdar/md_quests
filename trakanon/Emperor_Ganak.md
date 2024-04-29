@@ -48,7 +48,7 @@ end
 
 
 
-if **You turn in:** [Medallion of the Kunzar](/item/19951), [Medallion of the Nathsar](/item/19952)
+if( **You turn in:** [Medallion of the Kunzar](/item/19951), [Medallion of the Nathsar](/item/19952)) then
 
 
 >**Emperor Ganak says:** You have returned to me two medallions of my people. In return, I give you this key to enter the ruins of Sebilis. Be wary though, for Trakanon, Scourge of the Sibilisian empire resides within. 
@@ -56,7 +56,7 @@ if **You turn in:** [Medallion of the Kunzar](/item/19951), [Medallion of the Na
 
  **You receive:**  [Trakanon Idol](/item/20883) (+10000 exp)
 
-elseif **You turn in:** [Trakanon's Tooth](/item/7276), [Medallion of the Obulus](/item/19953), [Medallion of the Jarsath](/item/19954), [Medallion of the Kylong](/item/19955)
+elseif( **You turn in:** [Trakanon's Tooth](/item/7276), [Medallion of the Obulus](/item/19953), [Medallion of the Jarsath](/item/19954), [Medallion of the Kylong](/item/19955)) then
 
 
 >**Emperor Ganak says:** I must say, I thought your flesh would be rotting from your bones alongside the remains of the ancient Sebilisians. I commend you on your victory over the poison dragon and thank you for returning the ancient medallions of my people. I reward you with the key you seek. A place shall be prepared for your souls among the most honored of the dead. Soon you will be seeing the world through the shroud of death.

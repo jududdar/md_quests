@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Tumpy Tonic](/item/12114)
+if( **You turn in:** [Tumpy Tonic](/item/12114)) then
 
 
 >**Jovan says:** <SLURP!!>  Ahh thhhhat'thh betterr. Take thithhh. <BURP!>

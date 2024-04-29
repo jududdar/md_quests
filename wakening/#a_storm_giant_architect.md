@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872)
+if( **You turn in:** [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872)) then
 
 
 >**a storm giant architect says:** So you proved to be of value after all, take this for your work. Don't let it go to your head.

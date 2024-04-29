@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Beginner Magic Manual](/item/28795), [Heart of Vhaksiz](/item/28801)
+if( **You turn in:** [Beginner Magic Manual](/item/28795), [Heart of Vhaksiz](/item/28801)) then
 
 
 >**Cadelid Etord says:** I say, Soandso, you have certainly proven yourself, and I am quite proud of you. I believe your time has come, take this and when you are ready, speak to Zalil Nyvin. And remember, difficult tasks are put in our way not to stop us, but to call out our strength and resolve.
@@ -39,6 +39,6 @@ if **You turn in:** [Beginner Magic Manual](/item/28795), [Heart of Vhaksiz](/it
 
 
 
- **You receive:** None 
+ **You receive:**  [Intermediate Magic Manual](/item/28796) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

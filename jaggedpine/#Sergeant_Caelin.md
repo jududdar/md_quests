@@ -67,7 +67,7 @@ end
 
 
 
-if **You turn in:** [Qeynos Badge of Honor](/item/2388)
+if( **You turn in:** [Qeynos Badge of Honor](/item/2388)) then 
 
 
 if( **Faction is** > Indifferent) then 
@@ -78,10 +78,14 @@ if( **Faction is** > Indifferent) then
 
 
 
- **You receive:** None 
+ **You receive:**  [Marked Qeynos Badge of Honor](/item/8285) 
 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Stack of Shift Reports](/item/8279)
+
+ **You receive:**  [Official Warning](/item/8283) 
+
+
+elseif( **Faction is** > Indifferent and  **You turn in:** [Stack of Shift Reports](/item/8279)) then 
 
 
 >**Sergeant Caelin says:** Oh praise Karana, how did you manage to get these out of him? Never mind, I don't really care. Here, take this Compiled Report to Captain Tillin in Qeynos at once.
@@ -89,15 +93,18 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Stack of Shift Repor
 
  **You receive:**  [Compiled Report](/item/8280) 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Orders for Sergeant Caelin](/item/8287)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Orders for Sergeant Caelin](/item/8287)) then 
 
 
 >*Sergeant Caelin face grows pale as he reads the orders. 'Bossamir was right. The gnolls are far stronger than we expected. We lack the resources for a frontal assault so we have no choice to but to resort to covert operations and strike teh gnolls at their heart. Their leader must fall and you look like the one for the job. Take this Writ of Execution and carry out the sentence. Your target is the leader of the gnolls, Barducks Darkpaw. Affix the Writ of Execution to the Head of Barducks Darkpaw and seal it in this Black Satchel. Return to me with the Closed Black Satchel and your Marked Qeynos Badge of Honor for your just reward.*
 
 
- **You receive:** None 
+ **You receive:**  [Writ of Execution](/item/8282) 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Closed Black Satchel](/item/8286), [Marked Qeynos Badge of Honor](/item/8285)
+
+ **You receive:**  [Black Satchel](/item/17160) 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** [Closed Black Satchel](/item/8286), [Marked Qeynos Badge of Honor](/item/8285)) then 
 
 
 >**Sergeant Caelin says:** A job well done! Perhaps now that will throw the gnolls into disarray and show them that we are not to be trifled with! The people of Qeynos and it's surrounding territories are in a great debt to you. You have prove time and again your willingness to take great risks to protect those who can't protect themselves. I am hereby empowered to grant to you an honorary rank of nobility. Take this badge and wear it proudly.

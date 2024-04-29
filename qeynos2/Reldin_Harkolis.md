@@ -132,7 +132,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Message in Thieves Cant](/item/19942)
+if(expansion_flag >= 4.0 and  **You turn in:** [Message in Thieves Cant](/item/19942)) then
 
 
 >**Reldin Harkolis says:** Excellent! It is fortunate you recovered this message in time. Take this Rusty Unseen Hands Dagger to a forge and sharpen it with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is accomplished bring me the sharpened dagger, a gnoll fang, and a large king snake skin and I will put the finishing touches on the weapon for you.
@@ -164,9 +164,9 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Message in Thieves Cant](/item/1
 
 
 
- **You receive:** None 
+ **You receive:**  [Rusty Unseen Hands Dagger](/item/19943) (+1000 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Unseen Hands Dagger](/item/19944), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Unseen Hands Dagger](/item/19944), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)) then
 
 
 >*Reldin Harkolis fashions a grip out of the large king snake skin, fastens the gnoll fang to the heel of the hilt, and polishes the blade with a faintly glowing polish. 'Herei syour new weapon young rogue.'*
@@ -175,6 +175,6 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Unseen Hands Dagge
 
 
 
- **You receive:** None 
+ **You receive:**  [Dagger of Unseen Hands](/item/20266) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

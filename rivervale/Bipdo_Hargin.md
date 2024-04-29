@@ -81,13 +81,13 @@ end
 
 
 
-if  **You turn in:** [Letter to Bipdo Hargin](/item/19627)
+if ( **You turn in:** [Letter to Bipdo Hargin](/item/19627)) then
 
 
 e.self:Say(string.format("Pleased to meet you %s! You must be one of Megosh's new trainees. Megosh has asked me to help get you outfitted in a suit of armor to protect you from the vile weapons of Rivervales foes. I have assembled a kit for you that will allow you to construct the armor pieces once you have gathered the necessary components. The required components vary according to which piece of Thorn Mail armor you are planning on assembling. Do you wish to craft a [thorn mail coif], a [thorn mail bracer], [thorn mail gloves], [thorn mail boots], [thorn mail sleeves], [thorn mail leggings], or a [thorn mail tunic].", e.other:GetCleanName()));
 
 
- **You receive:** None 
+ **You receive:**  [Mail Assembly Kit](/item/17124) 
 
 else
 

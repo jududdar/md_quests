@@ -158,7 +158,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Clockwork Oil Extract](/item/9111), [Minotaur Tibia](/item/9112), [Young Ebon Drake Ribcage](/item/9113), [Renegade Clockwork Scrapmetal](/item/9114)
+if(expansion_flag >= 4.0 and  **You turn in:** [Clockwork Oil Extract](/item/9111), [Minotaur Tibia](/item/9112), [Young Ebon Drake Ribcage](/item/9113), [Renegade Clockwork Scrapmetal](/item/9114)) then
 
 
 >**Narron Jenork says:** Well done, young Soandso! Since you have brought me the necessary items, I now present you with this Initiate Watchman's Long Sword. Use it worthily.
@@ -185,7 +185,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Clockwork Oil Extract](/item/911
 
  **You receive:**  [Initiate Watchmans Long Sword](/item/9115) 
 
-elseif **You turn in:** [Box of Undead Brownie Bones](/item/12378)
+elseif( **You turn in:** [Box of Undead Brownie Bones](/item/12378)) then 
 
 
 >**Narron Jenork says:** Wonderful!! Watchman Dexlin sent word that you would be returning these specimens. I shall see that the Eldritch Collective gets them.  For you there is a reward. Manik has donated a pair of Watchman Boots!!
@@ -210,7 +210,7 @@ elseif **You turn in:** [Box of Undead Brownie Bones](/item/12378)
 * __Faction:__ [Clan Grikbar](/faction/1604) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Watchman Boots](/item/12379) (+10000 exp)
 
 
 **This NPC *should* return incorrect items given.**

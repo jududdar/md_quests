@@ -86,7 +86,7 @@ end
 
 
 
-if **You turn in:** [Worn Coldain Tome](/item/18237)
+if( **You turn in:** [Worn Coldain Tome](/item/18237)) then
 
 
 >**Historian Baenek says:** You found one of our lost tomes! A lost volume of the Book of Grudges, quite a find! Oh, dear Brell! This evidence proves that the legend of Burdael is true! Thank you, Soandso. And now I suppose you wish to meet his ghostly form. I have sensed him from time to time. I will call to him now. Go and wait for him in the lower halls. His spirit sometimes calls to me from the fearsome stalagterrors' lair. Be wary though, undeath may have twisted his mind beyond reason.

@@ -111,7 +111,7 @@ local text2 = "I shall keep this and you shall get no reward, unless you wield a
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full Pack of Sarnak Heads](/item/12381), [Pawn's Khukri](/item/5120)
+if **Faction** >= Amiable and  **You turn in:** [Full Pack of Sarnak Heads](/item/12381), [Pawn's Khukri](/item/5120)) then 
 
 
 >**Lord Gikzic says:** You have learned to behead your opponents with great precision. Take the khukri of the knave. It shall prove most formidable in combat when wielded by a young crusader. You may now assist us with a [greater concern] than your training.
@@ -125,7 +125,7 @@ if **Faction** >= Amiable and  **You turn in:** [Full Pack of Sarnak Heads](/ite
 
  **You receive:**  [Knave's Khukri](/item/5121) (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Magically Locked Tome](/item/12382), [Knave's Khukri](/item/5121)
+elseif **Faction** >= Amiable and  **You turn in:** [Magically Locked Tome](/item/12382), [Knave's Khukri](/item/5121)) then 
 
 
 >**Lord Gikzic says:** You have done as instructed. You are wise to hand this tome to me. It could bring you nothing more than insanity. As your reward, you shall have the squire's khukri. Soon you shall wield the knight's khukri, but that is for another Lord of Pain to decide.

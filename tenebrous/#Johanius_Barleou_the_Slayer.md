@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Blood Crusted Stake](/item/2690)
+if( **You turn in:** [Blood Crusted Stake](/item/2690)) then
 
 
 >**Johanius Barleou the Slayer says:** On behalf of the citizens of Katta Castellum I extend our gratitude for your assistance in our war with the Coterie of the Eternal Night!

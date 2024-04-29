@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Shadowed Code Book](/item/20636)
+if( **You turn in:** [Shadowed Code Book](/item/20636)) then 
 
 
 >**Bryn Fynndel says:** Excellent work, Soandso!  According to these codes, it seems the ghoul boss has been alerted to our probes now that his messenger is missing.  We have a scout, Glidara Myllar, who may be in danger.  Give her this note as soon as you can, she is in grave danger!
@@ -28,7 +28,7 @@ if **You turn in:** [Shadowed Code Book](/item/20636)
 
  **You receive:**  [Warning to Glidara](/item/20635) (+1500 exp)
 
-elseif **You turn in:** [Orders for Bryn](/item/20639)
+elseif( **You turn in:** [Orders for Bryn](/item/20639)) then 
 
 
 >**Bryn Fynndel says:** The vile ghoul boss has been defeated!  My new orders state to arm you with our finest weaponry.  Take this, the mighty orc impaler.  Safe journeys, brave adventurer.

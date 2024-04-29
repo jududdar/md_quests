@@ -89,7 +89,7 @@ local text = "Very good <cough> work. But I need both the full tax collection bo
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Full Tax Collection Box](/item/13181), [List of Debtors](/item/18009)
+if **Faction** >= Apprehensive and  **You turn in:** [Full Tax Collection Box](/item/13181), [List of Debtors](/item/18009)) then
 
 
 >**Vicus Nonad says:** <cough> Great! Thank you so much. Here is a small gratuity for a job well done. Thank you again. <cough> Antonius Bayle and the People of Qeynos appreciate all yo have done.
@@ -113,6 +113,6 @@ if **Faction** >= Apprehensive and  **You turn in:** [Full Tax Collection Box](/
 * __Faction:__ [Merchants of Qeynos](/faction/291) (10)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Brass Ring](/item/13053), [Copper Amulet](/item/10010), [Hematite](/item/10018), [Turquoise](/item/10017), [Malachite](/item/10015)) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

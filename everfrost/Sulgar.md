@@ -37,13 +37,16 @@ end
 
 
 
-if **You turn in:** [Staff of the Wheel](/item/14360), [Star of Eyes](/item/14361)
+if( **You turn in:** [Staff of the Wheel](/item/14360), [Star of Eyes](/item/14361)) then 
 
 
 >**Sulgar says:** Wonderful, you have brought me the Wheel. Here is the reward I promised you.
 
 
- **You receive:** None 
+ **You receive:**  [Rune of the Astral](/item/11881) (+100000 exp)
+
+
+ **You receive:**  [Rune of Frost](/item/11880) 
 
 **This NPC *should* return incorrect items given.**
 ;

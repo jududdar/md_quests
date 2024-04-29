@@ -92,7 +92,7 @@ end
 
 
 
-if **You turn in:** [Message to Wenglawks](/item/28600),platinum = 200
+if( **You turn in:** [Message to Wenglawks](/item/28600),platinum = 200) then
 
 
 
@@ -103,7 +103,7 @@ if **You turn in:** [Message to Wenglawks](/item/28600),platinum = 200
 
  **You receive:**  [Message to Herald](/item/28601) 
 
-elseif **You turn in:** [Receipt](/item/20474)
+elseif( **You turn in:** [Receipt](/item/20474)) then 
 
 
 >**Wenglawks Kkeak says:** I assume the delivery went well? You can have these as payment. One of my customers just decided he does not wish to buy them. They are rather sturdy! I do have another task available if you wish to [undertake] it.
@@ -111,7 +111,7 @@ elseif **You turn in:** [Receipt](/item/20474)
 
  **You receive:**  [Engraved Bone Pauldrons](/item/25062) (+1000 exp)
 
-elseif **You turn in:** [Giant Icewurm Talisman](/item/25130)
+elseif( **You turn in:** [Giant Icewurm Talisman](/item/25130)) then 
 
 
 >**Wenglawks Kkeak says:** He has reconsidered the offer, you say? This is most excellent! I hope this will be acceptable payment for your troubles, Soandso. My cash situation is not the best at this point in time. I do have a [third client] who needs delivery...
@@ -119,7 +119,7 @@ elseif **You turn in:** [Giant Icewurm Talisman](/item/25130)
 
  **You receive:**  [Bracer of Midnight](/item/25061) (+1500 exp)
 
-elseif **You turn in:** [Giant Siren Scale Cloak](/item/25110)
+elseif( **You turn in:** [Giant Siren Scale Cloak](/item/25110)) then 
 
 
 >**Wenglawks Kkeak says:** It is truly a sight to behold. This is the most fashionable cloak I have yet to see. Even King Tormax will be green with envy. This old bag has served me well, I hope you find it to your liking.
@@ -127,15 +127,18 @@ elseif **You turn in:** [Giant Siren Scale Cloak](/item/25110)
 
  **You receive:**  [Wenglawks Manly Purse](/item/17049) (+2000 exp)
 
-elseif **You turn in:** [Helssen's Voucher](/item/1722)
+elseif( **You turn in:** [Helssen's Voucher](/item/1722)) then 
 
 
 >**Wenglawks Kkeak says:** So you are the mercenary I have been hearing about! Not what I expected. Anyway, here is your reward. Carry it well. Also, this noble's seal will prove your loyalty to anyone who is skeptical.
 
 
- **You receive:** None 
+ **You receive:**  [Girdle of Reflection](/item/1719) (+2000 exp)
 
-elseif **You turn in:** [Note to Wenglawks](/item/29068), platinum = 100
+
+ **You receive:**  [Noble's Seal](/item/1723) 
+
+elseif( **You turn in:** [Note to Wenglawks](/item/29068), platinum = 100) then
 
 
 >**Wenglawks Kkeak says:** Here is the information your employer requested. Now be gone. I have more business to take care of.

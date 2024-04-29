@@ -280,7 +280,7 @@ end
 
 
 
-if **You turn in:** [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648)
+if( **You turn in:** [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648)) then
 
 
 >**Dharr Nadim says:** Excellent, hopefully my fishing business can start to thrive once again! As I said before you can have this old lure. You won't be able to catch anything with it but maybe you can pawn it off to a jewelry merchant.

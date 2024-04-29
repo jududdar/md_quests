@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Ivory Tessera](/item/20928), [Gem of Invigoration](/item/20984), [Inlaid Choker](/item/20985)
+if( **You turn in:** [Ivory Tessera](/item/20928), [Gem of Invigoration](/item/20984), [Inlaid Choker](/item/20985)) then 
 
 
 
@@ -49,7 +49,7 @@ if **You turn in:** [Ivory Tessera](/item/20928), [Gem of Invigoration](/item/20
 
 **Kendrick despawns.**
 
-elseif **You turn in:** [Spiroc Sky Totem](/item/20989), [Pearlescent Globe](/item/20942), [Black Griffon Feather](/item/20988)
+elseif( **You turn in:** [Spiroc Sky Totem](/item/20989), [Pearlescent Globe](/item/20942), [Black Griffon Feather](/item/20988)) then 
 
 
 >**Kendrick says:** These spauldors made from griffon wings will aid you in your ascent to greatness, Soandso.
@@ -61,7 +61,7 @@ elseif **You turn in:** [Spiroc Sky Totem](/item/20989), [Pearlescent Globe](/it
 
 **Kendrick despawns.**
 
-elseif **You turn in:** [Mottled Spiroc Feather](/item/20956), [Cracked Leather Belt](/item/20992), [Sphinxian Circlet](/item/20993)
+elseif( **You turn in:** [Mottled Spiroc Feather](/item/20956), [Cracked Leather Belt](/item/20992), [Sphinxian Circlet](/item/20993)) then 
 
 
 >**Kendrick says:** If one is slow, he dies a quick death. With this belt, you can avoid all that with nary a breath.

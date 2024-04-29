@@ -196,7 +196,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Slip of Parchment](/item/18824)
+if **Faction** >= Indifferent +50 and  **You turn in:** [A Slip of Parchment](/item/18824)) then 
 
 
 >**Guard Weleth says:** Thank you so much for the favor. Please be careful here in Qeynos. I have come to suspect that even some of my fellow guards are not to be trusted - Lieutenant Dagarok, for one.
@@ -220,7 +220,7 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [A Slip of Parchment](/i
 * __Faction:__ [Merchants of Qeynos](/faction/291) (2)
 
 
- **You receive:** None 
+ **You receive:** 0 (+250 exp)
 
 **This NPC *should* return incorrect items given.**
 

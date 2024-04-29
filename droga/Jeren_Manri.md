@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Goblins and Their Religions](/item/15959)
+if( **You turn in:** [Goblins and Their Religions](/item/15959)) then
 
 
 >*Jeren Manri Oh! Thank you, I assume this means that Thiran sent you. I ran off with the incorrect book without thinking to check. Would you be kind enough to return this to him?*

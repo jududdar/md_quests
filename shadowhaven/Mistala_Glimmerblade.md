@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Journal of Broansas](/item/4761)
+if( **You turn in:** [Journal of Broansas](/item/4761)) then
 
 
 >**Mistala Glimmerblade says:** It's nice to see that Broansas is doing well. I would not have been able to retrieve this information without your assistance, Soandso. I thank you for your help and will be sure to tell the council members of your good deeds. I often need reports retrieved so please check back if you would like to help to the House of Fordel.

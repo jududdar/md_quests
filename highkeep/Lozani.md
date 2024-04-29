@@ -37,7 +37,7 @@ local text2 = "Hey! I said FOUR gold and the illegible scroll! Sheesh.";
 local scroll = 0;
 
 
-if **You turn in:** [Illegible Scroll](/item/13225),gold = 4
+if( **You turn in:** [Illegible Scroll](/item/13225),gold = 4) then 
 
 
 >**Lozani says:** Hmmm... Aha! Well, I think this is it. A fine spell. I hope you need it because you are not getting your gold back.
@@ -45,7 +45,7 @@ if **You turn in:** [Illegible Scroll](/item/13225),gold = 4
 
 scroll = 1;
 
-elseif **You turn in:** [Illegible Cantrip](/item/13845), [Illegible Cantrip](/item/13845)
+elseif( **You turn in:** [Illegible Cantrip](/item/13845), [Illegible Cantrip](/item/13845)) then 
 
 
 >**Lozani says:** And the winning spell is... Here, you do the honors.

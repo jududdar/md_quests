@@ -98,7 +98,7 @@ end
 local fac = e.other:GetFaction(e.self);
 
 
-if(fac < 5 and  **You turn in:** [A Sealed Letter](/item/18814)
+if(fac < 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then 
 
 
 
@@ -108,13 +108,13 @@ if(fac < 5 and  **You turn in:** [A Sealed Letter](/item/18814)
 
  **You receive:**  [A Sealed Letter](/item/18814) 
 
-elseif(fac == 5 and  **You turn in:** [A Sealed Letter](/item/18814)
+elseif(fac == 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then
 
 
 
 >**Plagus Ladeson says:** The Steel Warriors have no cause to dislike you, but you have yet to prove your worth to this guild.
 
-elseif(fac > 5 and  **You turn in:** [A Sealed Letter](/item/18814)
+elseif(fac > 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then
 
 
 

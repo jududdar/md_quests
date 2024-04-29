@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** gold = 3
+if( **You turn in:** gold = 3) then
 
 
 >**Pungla says:** Bottoms up!

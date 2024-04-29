@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Small Lantern](/item/13003)
+if( **You turn in:** [Small Lantern](/item/13003)) then 
 
 
 >**Jyle Windshot says:** Thanks, friend. I have run a long way to get here in time. Mostly at night. I lost my lantern in a card game in Highkeep.

@@ -193,7 +193,7 @@ end
 
 
 
-if **You turn in:** [Regional Status Report](/item/5564)
+if( **You turn in:** [Regional Status Report](/item/5564)) then
 
 
 >**Elder Taruun Ternq says:** I see that Joharr introduced you to our cavern dwelling friends. This report shows that you were very successful on your last patrol. Your progress as a Taruun is most pleasing. You have shown us that you are ready to advance to the level of apprentice. I will send someone for your new cloak in a moment. While I am doing that, please use this bowl to prepare some spicy fish stew and take it to Kerr Tiparr in the Hollowshade outpost. It's not often that they get good food out there. If you don't remember the recipe, just ask cook Mylis. When you are done, please return with your old cloak and the empty pot. Always remember... Service to the community should always precede any thoughts of personal advancement.
@@ -204,7 +204,7 @@ if **You turn in:** [Regional Status Report](/item/5564)
 
  **You receive:**  [Large Stewing Pot](/item/5570) (+1000 exp)
 
-elseif **You turn in:** [Empty Stew Bowl](/item/5567), [Cloak of the Taruun Recruit](/item/3465)
+elseif( **You turn in:** [Empty Stew Bowl](/item/5567), [Cloak of the Taruun Recruit](/item/3465)) then
 
 
 >**Elder Taruun Ternq says:** Very well done,Soandso. Take this cloak and wear it with pride. May it keep your silhouette hidden from our enemies and keep you safe from those things that may walk in shadows darker than ours. Your work is being noticed, young Taruun. Please keep a clear eye on the path that lies before you. Speak to Elam Arruk when you are ready to continue your training. You will need only to show him the cloak that I just gave you. He will know how to instruct you from there. Be well.
@@ -218,7 +218,7 @@ elseif **You turn in:** [Empty Stew Bowl](/item/5567), [Cloak of the Taruun Recr
 
  **You receive:**  [Cloak of the Taruun Apprentice](/item/5558) (+2500 exp)
 
-elseif **You turn in:** [Cloak of the Taruun Apprentice](/item/5558), [Sonic Wolf Bane Dagger](/item/6158)
+elseif( **You turn in:** [Cloak of the Taruun Apprentice](/item/5558), [Sonic Wolf Bane Dagger](/item/6158)) then
 
 
 >**Elder Taruun Ternq says:** Well done.  Take this new cloak and wear it with pride.  You can now be called journeyman!
@@ -227,6 +227,6 @@ elseif **You turn in:** [Cloak of the Taruun Apprentice](/item/5558), [Sonic Wol
 **Elder Taruun Ternq shouts:** <span class="text-danger">Hear me fellow Vah Shir! The Taruun have seen fit to escalate citizen Soandso to the rank of journeyman. He grows in strength and wisdom daily. We are proud as should you all be. May this student of our ways continue to progress and live worthy of our noble heritage.</span>
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Sonic Wolf Bane Dagger](/item/6158), [Cloak of the Taruun Journeyman](/item/6275)) (+10000 exp)
 
 **This NPC *should* return incorrect items given.**

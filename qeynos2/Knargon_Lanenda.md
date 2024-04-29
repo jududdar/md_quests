@@ -156,7 +156,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Sealed Note For Knargon](/item/18722)
+if **Faction** >= Indifferent and  **You turn in:** [Sealed Note For Knargon](/item/18722)) then 
 
 
 >**Knargon Lanenda says:** Hmm. Carson better deal with his little 'problem' soon, it's costing us a lot of money. Hanns is gonna skin us all when he hears this. Go tell Hanns that [Carson has a mole in the Highpass] guards, and see what he wants us to do.

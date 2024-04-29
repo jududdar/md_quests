@@ -141,7 +141,7 @@ end
 
 
 
-if **You turn in:** [Monogrammed Cloth](/item/13302)
+if( **You turn in:** [Monogrammed Cloth](/item/13302)) then 
 
 
 >**Nerissa Clothspinner says:** Thank you my friend. I understand that Astaed Wemor of the Temple of Life has been concerned for my well being. Take him this note. I am sure he will reward you for easing my troubled mind.. If you are a respected member.
@@ -162,6 +162,6 @@ if **You turn in:** [Monogrammed Cloth](/item/13302)
 * __Faction:__ [Guards of Qeynos](/faction/262) (3)
 
 
- **You receive:** None 
+ **You receive:**  [A tattered note](/item/18862) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

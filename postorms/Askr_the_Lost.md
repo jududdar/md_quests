@@ -410,13 +410,13 @@ local karana = tonumber(eq.get_qglobals(e.other).karana or 0);
 
 
 
-if (  **You turn in:** [Storm Giant Head](/item/28749) 
+if (  **You turn in:** [Storm Giant Head](/item/28749)  
 
 
-or  **You turn in:** [Storm Giant Head](/item/28781) 
+or  **You turn in:** [Storm Giant Head](/item/28781)  
 
 
-or  **You turn in:** [Storm Giant Head](/item/28782) 
+or  **You turn in:** [Storm Giant Head](/item/28782)  
 
 ) then
 
@@ -439,7 +439,7 @@ headTable[e.other:GetName()] = true;
 
 
 
-if (  **You turn in:** [Askr's Sealed Bag of Verity](/item/11487) 
+if (  **You turn in:** [Askr's Sealed Bag of Verity](/item/11487)  ) then 
 
 
 
@@ -471,7 +471,7 @@ SetState(e.other:GetName(), 12);
 
 
 
-if (  **You turn in:** [Esoteric Meld](/item/11488) 
+if (  **You turn in:** [Esoteric Meld](/item/11488)  ) then 
 
 
 

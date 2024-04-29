@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Froglok Essence](/item/20696), [Green Tree Bark](/item/20686), [Pure Lakewater](/item/20685), [Pod of Seawater](/item/20687)
+if( **You turn in:** [Froglok Essence](/item/20696), [Green Tree Bark](/item/20686), [Pure Lakewater](/item/20685), [Pod of Seawater](/item/20687)) then
 
 
 >*Nekexin Virulence stares at the swirling bottle of essence. His eyes open wide as he realizes what it is. As its warm bright waves wash over him his skin dissolves into a green goo that coats the ground. From his remains a floating white ball is retrieved.*

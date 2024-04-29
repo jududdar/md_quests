@@ -21,7 +21,7 @@ end
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Sarnak Dragoon Helm](/item/12761)
+if( **Faction is** >= Indifferent and  **You turn in:** [Sarnak Dragoon Helm](/item/12761)) then
 
 
 >**Klok Sargin says:** Uhh. Thanks. I sort of told the lizard who bought the skull that you were asking for him, and, well, he was kinda mad, and... Soandso, meet Bruiser.

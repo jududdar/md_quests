@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Deathmaw Claw](/item/7808), [Deathmaw Claw](/item/7808), [Deathmaw Claw](/item/7808), [Wooden Practice Flail](/item/30579)
+if( **You turn in:** [Deathmaw Claw](/item/7808), [Deathmaw Claw](/item/7808), [Deathmaw Claw](/item/7808), [Wooden Practice Flail](/item/30579)) then
 
 
 >*Jolneg takes the flail and starts placing the claws into it forming a formidable looking weapon. 'This seems a good weapon indeed. Here, you can take it for helping to test my theory of weapon crafting. Safe travels to you friend.'*

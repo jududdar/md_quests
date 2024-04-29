@@ -81,7 +81,7 @@ end
 if( **Faction is** > Apprehensive) then
 
 
-if **You turn in:** [Velium Torque](/item/25278)
+if( **You turn in:** [Velium Torque](/item/25278)) then 
 
 
 
@@ -108,7 +108,7 @@ if **You turn in:** [Velium Torque](/item/25278)
  **You receive:** 0 (+250 exp)
 
 
-elseif **You turn in:** [Bekerak's Letter to Svekk](/item/25267)
+elseif( **You turn in:** [Bekerak's Letter to Svekk](/item/25267)) then 
 
 
 
@@ -135,7 +135,7 @@ elseif **You turn in:** [Bekerak's Letter to Svekk](/item/25267)
  **You receive:**  [Supply Voucher](/item/25270) (+250 exp)
 
 
-elseif **You turn in:** copper = 50000
+elseif( **You turn in:** copper = 50000) then
 
 
 
@@ -146,7 +146,7 @@ elseif **You turn in:** copper = 50000
  **You receive:**  [Giant Sack of Supplies](/item/25266) 
 
 
-elseif **You turn in:** [Supply Voucher](/item/25270), [Klezendian Crystal](/item/25271)
+elseif( **You turn in:** [Supply Voucher](/item/25270), [Klezendian Crystal](/item/25271)) then 
 
 
 

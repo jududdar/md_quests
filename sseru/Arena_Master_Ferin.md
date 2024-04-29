@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Arena Ticket](/item/29866)
+if( **You turn in:** [Arena Ticket](/item/29866)) then 
 
 
 >**Arena Master Ferin says:** So you wish to show off your skills in the arena? Well come on let us see what you are made of! Be warned that this is a fight to the death, if a guard sees you fleeing like a coward they will assist in helping to finish you off!
@@ -22,7 +22,7 @@ if **You turn in:** [Arena Ticket](/item/29866)
 
 eq.unique_spawn(eq.ChooseRandom(159108,159103,159109),0,0,-231,-1514,-68,128);
 
-elseif **You turn in:** [Arena Medal](/item/29867)
+elseif( **You turn in:** [Arena Medal](/item/29867)) then 
 
 
 >**Arena Master Ferin says:** Wonderful battle skills! You have pleased the audience. Here are a few coins for your valiant effort!

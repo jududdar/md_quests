@@ -192,7 +192,7 @@ end
 
 
 
-if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
+if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**Harbin Gernawl says:** Ahh, Soandso, I was told you'd be coming. I am Harbin, and I will oversee the next bit of your progress in the Taruun. You have bravely chosen a path that will put your every skill to the test. May your abilities be honed in the service of the noble Vah Shir. To begin, bring me the soft chitin of three of the Rhinobeetles that dwell in the crater surrounding our city.
@@ -200,7 +200,7 @@ if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
 
  **You receive:**  [Acrylia Slate of Shar Vahl](/item/2877) 
 
-if **You turn in:** [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chitin](/item/3455)
+if( **You turn in:** [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chitin](/item/3455)) then
 
 
 >*Harbin Gernawl takes the chitin and deftly fashions a buckler as he speaks, 'Your progress will be reported, Soandso. For your effort thus far I present you with this buckler. It will help to protect you until you become adept enough to wield a weapon in each of your hands. Meanwhile, it is time for you to practice the skill that Shar Vahl relies on to feed it's people. Following this recipe, deliver four boiled rockhopper eggs to Sergeant Tylah in Hollowshade moor. Return to me with the acrylia he will pay you.'*
@@ -208,7 +208,7 @@ if **You turn in:** [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chi
 
  **You receive:**  [Buckler of the Beetle](/item/3456) 
 
-if **You turn in:** [Acrylia Flakes](/item/3459)
+if( **You turn in:** [Acrylia Flakes](/item/3459)) then
 
 
 >**Harbin Gernawl says:** Your progress will be rewarded, Soandso. Soon all will recognize you as a recruit of the cunning Taruun! Speak with Merchant Rytan. When he is through with you return to me with his seal, your buckler, your initiate's cloak and this seal.
@@ -216,12 +216,12 @@ if **You turn in:** [Acrylia Flakes](/item/3459)
 
  **You receive:**  [Initiate Seal of the Taruun](/item/3460) 
 
-if **You turn in:** [Initiate Seal of the Taruun](/item/3460), [Seal of Rytan](/item/3464), [Initiate's Cloak of Shar Vahl](/item/2878), [Buckler of the Beetle](/item/3456)
+if( **You turn in:** [Initiate Seal of the Taruun](/item/3460), [Seal of Rytan](/item/3464), [Initiate's Cloak of Shar Vahl](/item/2878), [Buckler of the Beetle](/item/3456)) then
 
 
 >**Harbin Gernawl says:** Your hard work is pleasing to the Taruun, Soandso, which now accepts you as an official recruit. Wear this cloak with pride. Your buckler has been treated with a special epoxy and should protect you more effectively now. Show the buckler to Taruun Joharr and he will continue to guide you on your sacred path. I sense a strong spirit in you, young one. May it guide you to greatness!
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Cloak of the Taruun Recruit](/item/3465), [Hardened Buckler of the Beetle](/item/3466)) 
 
 **This NPC *should* return incorrect items given.**

@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Rolekos Report of Occurrences](/item/31849)
+if( **You turn in:** [Rolekos Report of Occurrences](/item/31849)) then  
 
 
 >**Scribe Cholsa says:** So it seems there is more truth to the legends of the Rakshasa than is commonly believed. I recall much of the tales of the wicked shaman who sold their souls and bodies to the dark spirits.  There is a ritual that must be performed to force the Rakshasa to fully materialize in our realm so that it may be slain. I will write down the instructions for the ritual but the [components] I'm afraid may be difficult to obtain.

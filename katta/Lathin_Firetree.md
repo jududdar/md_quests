@@ -16,7 +16,7 @@ local text = "I require the instructions from Phenic and the Autarkic Shade Lord
 
 
 
-if **You turn in:** [Instructions for Lathin Firetree](/item/7270), [Autarkic Shade Lord Belt](/item/7169)
+if( **You turn in:** [Instructions for Lathin Firetree](/item/7270), [Autarkic Shade Lord Belt](/item/7169)) then
 
 
 >**Lathin Firetree says:** Phenic wishes me to summon the Shade that is the owner of this belt for questioning. That is quite a dangerous request but it is not uncommon of Phenic to be a risk taker when it comes to his plots against the Coterie of the Eternal Night. Take this sketch and find a skilled potter to craft you a likeness of a shade from a large block of clay as a focus item for the ritual. When you have the unfired figurine fire it in a kiln with this special glaze on a High Quality Firing Sheet and return to me.
@@ -43,9 +43,9 @@ if **You turn in:** [Instructions for Lathin Firetree](/item/7270), [Autarkic Sh
 * __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Shade Figurine Sketch](/item/7271), [Conlegium Enchanted Glaze](/item/7272)) (+1000000 exp)
 
-elseif **You turn in:** [Shade Summoning Figurine](/item/7273)
+elseif( **You turn in:** [Shade Summoning Figurine](/item/7273)) then
 
 
 >**Lathin Firetree says:** Excellent, this figurine will work wonderfully. A group of my best summoners is gathering on the first floor at the largest of the summoning circles to call forth the shade. Please take the figurine to Theurgus Ajeea Polaja immediately.

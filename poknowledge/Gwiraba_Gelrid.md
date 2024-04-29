@@ -28,12 +28,12 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Rage Filled Gem](/item/26697), [Sandstorm Gem](/item/9421), [Intermediate Combat Manual](/item/28790)
+if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Rage Filled Gem](/item/26697), [Sandstorm Gem](/item/9421), [Intermediate Combat Manual](/item/28790)) then
 
 
 >**Gwiraba Gelrid says:** I must say, this is a surprise. I was beginning to wonder if you would ever return with these. I'm glad you see you have though. Take this new book and use it well in your future journeys. You may also be interested to know that Tenada Jeried also has a few lesson plans for very advanced students. If you should see him, be sure to tell him you are interested in learning from him. Good luck to you, Soandso!
 
 
- **You receive:** None 
+ **You receive:**  [Advanced Combat Manual](/item/28791) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

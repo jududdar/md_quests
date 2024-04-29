@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Meteor Jewel](/item/4493), [Mark of Refinement](/item/4691), [Hope Onyx](/item/4692)
+if( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Refinement](/item/4691), [Hope Onyx](/item/4692)) then 
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Sandals of Enrapturement](/item/3703) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Charm](/item/4693), [Hope Pearl](/item/4694)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Charm](/item/4693), [Hope Pearl](/item/4694)) then 
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Veil of Enrapturement](/item/3704) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Desire](/item/4695), [Hope Diamond](/item/4696), [Tarnished Silver Nugget](/item/4697)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Desire](/item/4695), [Hope Diamond](/item/4696), [Tarnished Silver Nugget](/item/4697)) then 
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Cape of Enrapturement](/item/3705) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Intellect](/item/4698), [Tarnished Gold Nugget](/item/4699)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Intellect](/item/4698), [Tarnished Gold Nugget](/item/4699)) then 
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Gloves of Enrapturement](/item/3706) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Thought](/item/4701), [Tarnished Platinum Nugget](/item/4702)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Thought](/item/4701), [Tarnished Platinum Nugget](/item/4702)) then 
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Choker of Enrapturement](/item/3707) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Reason](/item/4703), [Tarnished Electrum Nugget](/item/4704), [Bracelet of Friendship](/item/4705)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Reason](/item/4703), [Tarnished Electrum Nugget](/item/4704), [Bracelet of Friendship](/item/4705)) then 
 
 
 FactionReward(e)
@@ -118,7 +118,7 @@ FactionReward(e)
 
  **You receive:**  [Belt of Enrapturement](/item/3708) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Mind](/item/4706), [Enchanted Bundle of Wood](/item/4707), [Shadowed Crystal](/item/4708)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Mind](/item/4706), [Enchanted Bundle of Wood](/item/4707), [Shadowed Crystal](/item/4708)) then 
 
 
 FactionReward(e)

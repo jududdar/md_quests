@@ -47,7 +47,7 @@ end
 
 
 
-if **You turn in:** [Elixir of Obsession](/item/5994)
+if( **You turn in:** [Elixir of Obsession](/item/5994)) then
 
 
 >*Hoober struggles as you try to force-feed him the elixir, making you think twice about the wisdom of force-feeding something to a madman. 'I DON'T WANT TO DRINK MY JUICE, MOTHER! NOW GET YOUR HANDS OFF OF ME!' he shouts.*

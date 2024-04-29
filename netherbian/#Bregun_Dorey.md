@@ -56,26 +56,26 @@ end
 
 
 
-if **You turn in:** [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464)
+if( **You turn in:** [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464)) then 
 
 
 >**Bregun Dorey says:** Ah hum!
 
 
-e.self:RemoveItem(29852);
+e.self:RemoveItem( [Bixie Charm](/item/29852));
 
 
- **You receive:** None 
+ **You receive:**  [Bixie Charm](/item/29852) 
 
 
 >**Bregun Dorey says:** Give this charm to Torsten as a present from his old friend.
 
-elseif **You turn in:** [Sealed Note to Bregun](/item/29853)
+elseif( **You turn in:** [Sealed Note to Bregun](/item/29853)) then 
 
 
 >**Bregun Dorey says:** Hahaha! Silly Torsten. Always snooping over my shoulder. Well I have nothing to lose... Take this to him, it's directions on how to find the Journal I kept. I hid it where no one would look! Haha! Trog trog trog!
 
 
- **You receive:** None 
+ **You receive:**  [Breguns Directions](/item/29854) 
 
 **This NPC *should* return incorrect items given.**

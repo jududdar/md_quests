@@ -177,7 +177,7 @@ local expansion_flag = eq.get_current_expansion();
 
 local item_awarded = eq.ChooseRandom(5374, 13394);
 
-if **Faction** >= Amiable and  **You turn in:** [Testimony](/item/18828)
+if **Faction** >= Amiable and  **You turn in:** [Testimony](/item/18828)) then
 
 
 >**Loveal S-Nez says:** So you have succeeded where others have failed. You show promise. Take this then. You shall be a valuable asset to the Dead and soon this shall be of value to one so great. This will help you on your way. Are you still interested in my [appointed tasks]?
@@ -203,7 +203,7 @@ if **Faction** >= Amiable and  **You turn in:** [Testimony](/item/18828)
 
  **You receive:**  [Cloak of the Undead Eye](/item/2317) (+33750 exp)
 
-elseif **You turn in:** [Thex Mallet](/item/13390)
+elseif( **You turn in:** [Thex Mallet](/item/13390)) then
 
 
 >**Loveal S-Nez says:** Oh how grand it is!! Look at it!! I feel the power trembling within. Who would have thought such an item would be abandoned? You have performed supremely. Queen Cristanos shall reward me greatly and I shall reward you greatly. Here is my weapon from years past.. the Reaper of the Dead. I believe it has one soul still trapped within.

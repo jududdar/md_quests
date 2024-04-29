@@ -66,7 +66,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [A Strongbox](/item/13860)
+if( **Faction is** > Indifferent and  **You turn in:** [A Strongbox](/item/13860)) then 
 
 
 >**Nusk Treton says:** Grand and fantastic!! You have made my day complete. Here is what little I can offer. Most of my money goes into my research. Thank you.

@@ -121,7 +121,7 @@ local text = "Oh you have a complete collection for me?! Good! Good! Well done. 
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Complete Bug Collection](/item/13268), [Want List](/item/18011)
+if **Faction** >= Apprehensive and  **You turn in:** [Complete Bug Collection](/item/13268), [Want List](/item/18011)) then
 
 
 >**Blixkin Entopop says:** Excellent! Good work! I knew you were the one for this job! Thank you so much! My collection just gets better and better each day. Here is your reward as I promised.
@@ -142,6 +142,6 @@ if **Faction** >= Apprehensive and  **You turn in:** [Complete Bug Collection](/
 * __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Potion of Poison Warding](/item/14010), [Silver Bracelet](/item/13281), [Bracelet of Beetlekind](/item/13280), [Spider Venom](/item/14015), [Stalking Probe](/item/16875)) (+65 exp)
 
 **This NPC *should* return incorrect items given.**

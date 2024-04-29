@@ -386,7 +386,7 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Moss-Threaded Rawhide Leggings](/item/8790), [Polished Jade Acorns](/item/8769)
+if **Faction** >= Warmly and  **You turn in:** [Moss-Threaded Rawhide Leggings](/item/8790), [Polished Jade Acorns](/item/8769)) then 
 
 
 >*Cheyloh Greenwood smiles warmly at Soandso, 'Excellent work, friend.  I have sewn the Polished Jade Acorns into your leggings.  May they serve you as well as you have served the natural world.'*
@@ -406,7 +406,7 @@ if **Faction** >= Warmly and  **You turn in:** [Moss-Threaded Rawhide Leggings](
 
  **You receive:**  [Leggings of the Pine](/item/8442) 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Shark Tooth Sleeves](/item/8796), [Polished Jade Leaves](/item/8795)
+elseif **Faction** >= Warmly and  **You turn in:** [Shark Tooth Sleeves](/item/8796), [Polished Jade Leaves](/item/8795)) then 
 
 
 >**Cheyloh Greenwood says:** Marvelously done, my friend. I am pleased to know that the natural world has embraced and recognized you so. I have bound the moss thread to the Polished Jade Leaves and your sleeves are complete. Take them and wear them with the selfless knowledge that you are equal to all of nature’s most devoted warders.
@@ -426,7 +426,7 @@ elseif **Faction** >= Warmly and  **You turn in:** [Shark Tooth Sleeves](/item/8
 
  **You receive:**  [Sleeves of the Pine](/item/8445) 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Mithril Fern Boots](/item/8877), [Polished Jade Plate](/item/8876)
+elseif **Faction** >= Warmly and  **You turn in:** [Mithril Fern Boots](/item/8877), [Polished Jade Plate](/item/8876)) then 
 
 
 >**Cheyloh Greenwood says:** Aaaah. . . these will do nicely. Lerian's gifts upon the hide that you have expertly sewn into the boots have proved an extra enchantment that allowed me to appropriately fit the plates onto the toes and sides of the boots. You have earned this reward justly and without a selfish nature or compromise of your dedication to nature. May they serve you as you have served the world that has granted them to you.
@@ -446,7 +446,7 @@ elseif **Faction** >= Warmly and  **You turn in:** [Mithril Fern Boots](/item/88
 
  **You receive:**  [Boots of the Pine](/item/8758) 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Bracer of Braided Pine](/item/8865), [Polished Jade Blossoms](/item/8864)
+elseif **Faction** >= Warmly and  **You turn in:** [Bracer of Braided Pine](/item/8865), [Polished Jade Blossoms](/item/8864)) then 
 
 
 >**Cheyloh Greenwood says:** Marvelously done, my friend. I am pleased to know that the natural world has embraced and recognized you so. I have bound the braided pine to the Polished Jade Blossoms and your bracer is complete. Take it and wear it with the selfless knowledge that you are equal to all of nature's most devoted warders.
@@ -466,7 +466,7 @@ elseif **Faction** >= Warmly and  **You turn in:** [Bracer of Braided Pine](/ite
 
  **You receive:**  [Bracer of the Pine](/item/8499) 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Forest Woven Gloves](/item/8871), [Polished Jade Studs](/item/8870)
+elseif **Faction** >= Warmly and  **You turn in:** [Forest Woven Gloves](/item/8871), [Polished Jade Studs](/item/8870)) then 
 
 
 >**Cheyloh Greenwood says:** Well done, Soandso. The Jade Studs have been easily bound to the enchantment of the Forest Woven Gloves. Although you will not see bindings to hold the studs in-place, know that they are quite secure. Lerian's gifts are not to be underestimated, nor taken for granted. You have earned this item selflessly in displaying your protection of the natural order of this world, and in-turn, your ward has blessed you in many ways with the creation of this item. May it protect you as you have protected the land and order that forged it.
@@ -486,7 +486,7 @@ elseif **Faction** >= Warmly and  **You turn in:** [Forest Woven Gloves](/item/8
 
  **You receive:**  [Gloves of the Pine](/item/8757) 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Shadowjade Circlet](/item/8883), [Polished Jade Tear](/item/8882)
+elseif **Faction** >= Warmly and  **You turn in:** [Shadowjade Circlet](/item/8883), [Polished Jade Tear](/item/8882)) then 
 
 
 >**Cheyloh Greenwood says:** Marvelously done, my friend. I am pleased to know that the natural world has embraced and recognized you so. I have bound the shadowjade circlet to the Polished Jade Tear. Take it and wear it with the selfless knowledge that you are equal to all of nature's most devoted warders.

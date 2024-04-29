@@ -161,7 +161,7 @@ local text = "What are you?! Some kinda' slacker?! I told you to return with FOU
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054)
+if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054)) then 
 
 
 >**Jeet says:** It's about time you managed to smash these four!! Here. You do good work. We could use someone like you to [run to the gnome city].
@@ -184,7 +184,7 @@ if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [
 
  **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122), [Small Patchwork Pants](/item/2123), [Small Patchwork Boots](/item/2124)) (+4000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)
+elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)) then 
 
 
 >**Jeet says:** Great work!! We need this junk for something and we sure didn't need this rat sucking up any of our gems. Here. This is a Mining Cap 628. It's not much, but it is the mark of our miners and provides light for mining purposes. Hold onto it. You never know when we may call upon you to produce it.
@@ -207,7 +207,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)
 
  **You receive:**  [Miners Cap 628](/item/12165) (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12167)
+elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12167)) then 
 
 
 >**Jeet says:** What is all this junk!! That blasted tin rat is supposed to be heisting expensive goods from rich gnomes - not all this garbage!! Here. This is your cut of this junk.
@@ -231,9 +231,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12167)
 * __Faction:__ [Ebon Mask](/faction/244) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bead Necklace](/item/10009), [Malachite](/item/10015), [Small Piece of Ore](/item/10500), [Iony's Absorber](/item/13220), [Small Piece of Ore](/item/10500), [Lapis Lazuli](/item/10016)) (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12162)
+elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12162)) then 
 
 
 >**Jeet says:** Good work miner. This is a fantastic haul!! Those wrinkly little gnomes don't know what is going on. Here is your cut. Now get back to work.

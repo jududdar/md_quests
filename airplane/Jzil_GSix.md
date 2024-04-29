@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [Griffons Beak](/item/20781)
+if( **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [Griffons Beak](/item/20781)) then 
 
 
 
@@ -51,7 +51,7 @@ if **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [
 
  **You receive:**  [Bloody Griffon-Hide Wrist Guard](/item/27712) (+1000000 exp)
 
-elseif **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/20782), [Black Silk Cape](/item/20783)
+elseif( **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/20782), [Black Silk Cape](/item/20783)) then 
 
 
 >**Jzil GSix says:** This feathered cape should be more than enough payment, now be gone from my sight!
@@ -59,7 +59,7 @@ elseif **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/2078
 
  **You receive:**  [Cloak of Spiroc Feathers](/item/1278) (+1000000 exp)
 
-elseif **You turn in:** [Rugous Globe](/item/20945), [Djinni Blood](/item/20784), [Fine Cloth Raiment](/item/20785)
+elseif( **You turn in:** [Rugous Globe](/item/20945), [Djinni Blood](/item/20784), [Fine Cloth Raiment](/item/20785)) then 
 
 
  **You receive:**  [Bloodsoaked Raiment](/item/1279) (+1000000 exp)

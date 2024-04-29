@@ -85,7 +85,7 @@ end
 
 
 
-if **You turn in:** [Baby Joseph Sayer](/item/12204)
+if( **You turn in:** [Baby Joseph Sayer](/item/12204)) then
 
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -120,7 +120,7 @@ else
 
  **You receive:**  [Gnoll Slayer](/item/5416) (+500 exp)
 
-elseif(eq.get_current_expansion() >= 6.0 and  **You turn in:** [Gnolls Eye](/item/8357), [Journal of Greater Enchantment](/item/8356), [Gnoll Slayer](/item/5416)
+elseif(eq.get_current_expansion() >= 6.0 and  **You turn in:** [Gnolls Eye](/item/8357), [Journal of Greater Enchantment](/item/8356), [Gnoll Slayer](/item/5416)) then
 
 
 >**Marton Sayer says:** The eye and the journal! What a great day! The Gnoll Slayer shall be returned to full strength because of you. Your service to Qeynos will not soon be forgotten.

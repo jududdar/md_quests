@@ -55,7 +55,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Grennet Stormhand's Head](/item/20186)
+if(expansion_flag >= 4.0 and  **You turn in:** [Grennet Stormhand's Head](/item/20186)) then
 
 
 >**Unmuz Tukore says:** Excellent, the Knights of Thunder must learn that by beginning an inquisition of the Bloodsabers they are effectively declaring war. Take this Rusty Scourge Knight Saber to a forge and sharpen it with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done take the Tarnished Scourge Knight Saber and a Giant King Snake Skin to Wellis Pestule and he will put the finsihing touches on the weapon.

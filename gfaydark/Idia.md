@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [A Pouch of Mail (Kelethin)](/item/18167)
+if( **You turn in:** [A Pouch of Mail (Kelethin)](/item/18167)) then
 
 
 >**Idia says:** More mail - you have done us a noteworthy service!  Please take this gold for your troubles.  If you are interested in more work, just ask me.

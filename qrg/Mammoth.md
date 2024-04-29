@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Regurgitonic](/item/12139)
+if( **You turn in:** [Regurgitonic](/item/12139)) then
 
 
 * __Faction:__ [QRG Protected Animals](/faction/343) (1)

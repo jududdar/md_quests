@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [A Gossamer Wing](/item/24870), [a prismatic wing](/item/24871)
+if( **You turn in:** [A Gossamer Wing](/item/24870), [a prismatic wing](/item/24871)) then 
 
 
 >**a storm giant foreman says:** You've done well. Maybe that foolish court will learn yet that the expansion of Kael cannot be impeded.

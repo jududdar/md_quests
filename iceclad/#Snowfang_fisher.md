@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Strong Wooden Branch](/item/30295), [Strong Raptor Gut](/item/30296)
+if( **You turn in:** [Strong Wooden Branch](/item/30295), [Strong Raptor Gut](/item/30296)) then
 
 
 >*Snowfang fisher sniffs the offering and seems to relax.  'Very good, very worthy.   You take this magic thing, with you maybe this evil is broken.'  Before he can hand you the parchment a roar explodes from the ocean and a gigantic dark shadow slams into the ice floe.*

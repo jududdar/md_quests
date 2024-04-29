@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [cold plate of beef and bread](/item/29007)
+if( **You turn in:** [cold plate of beef and bread](/item/29007)) then 
 
 
 >**Jark says:** Har, har! No time fer eatin' now! While you were gone I struck me a rich vein. Lookie here! Ya ever seen a gem so pure? It's tiny but clear as glass. Ya take it, Soandso. Ya showed me some kindness, least I can do. Besides, still a share here for me.

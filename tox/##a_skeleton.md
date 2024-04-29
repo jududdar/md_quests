@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Useless Cloth Cap](/item/13894)
+if( **You turn in:** [Useless Cloth Cap](/item/13894)) then
 
 
 >**a skeleton says:** Aye.. You cut out the middleman..  I shall reward you.. hmm..  I have not found anything. how about..  <CRACK!! SNAP!! RIPP!!>  How about something off meself?

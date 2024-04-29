@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Part of Potion of Marr](/item/12133)
+if( **You turn in:** [Part of Potion of Marr](/item/12133)) then
 
 
 >**Sentry Warren says:** Thank you. I believe you need to seek out Sentry Xyrin. She is not at the temple. I believe she left to speak with [Sisterhood of Erollisi]. She was to speak with Styria.

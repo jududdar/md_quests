@@ -258,7 +258,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Sironan's Head](/item/27425), [Yalroen's Head](/item/27426), [High Quality Gnoll Fur](/item/27427)
+if(expansion_flag >= 4.0 and  **You turn in:** [Sironan's Head](/item/27425), [Yalroen's Head](/item/27426), [High Quality Gnoll Fur](/item/27427)) then
 
 
 >**Seta Bakindo says:** There are many more corrupt guards. I am sure this is just the beginning. You have helped Konem and for that I thank you . You are well on your way to enlightenment and tranquility. I bid you farewell and wish you well where ever your travels may take you.
@@ -276,6 +276,6 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Sironan's Head](/item/27425), [Y
 * __Faction:__ [Ashen Order](/faction/361) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Silent Fist Clansman Hand Wraps](/item/27494) (+500 exp)
 
 **This NPC *should* return incorrect items given.**

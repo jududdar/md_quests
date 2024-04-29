@@ -101,7 +101,7 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [White Tear](/item/31261), [Runed Tear](/item/31263), [Glowing Drake Orb](/item/31260)
+if **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [White Tear](/item/31261), [Runed Tear](/item/31263), [Glowing Drake Orb](/item/31260)) then 
 
 
 FactionHits(e);
@@ -109,7 +109,7 @@ FactionHits(e);
 
  **You receive:**  [Mask of the Silver Eyes](/item/31463) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Tear](/item/31267), [Poison Tear](/item/31266), [Serrated Tear](/item/31265), [Silver Tear](/item/31264)
+elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Tear](/item/31267), [Poison Tear](/item/31266), [Serrated Tear](/item/31265), [Silver Tear](/item/31264)) then 
 
 
 FactionHits(e);
@@ -117,7 +117,7 @@ FactionHits(e);
 
  **You receive:**  [Silver Mask of the Slayer](/item/31464) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Ruby Symbol](/item/31259), [Ruby Tear](/item/31270), [Silver Symbol](/item/31253), [White Symbol](/item/31250)
+elseif **Faction** >= Kindly and  **You turn in:** [Ruby Symbol](/item/31259), [Ruby Tear](/item/31270), [Silver Symbol](/item/31253), [White Symbol](/item/31250)) then 
 
 
 FactionHits(e);
@@ -125,7 +125,7 @@ FactionHits(e);
 
  **You receive:**  [Silver Charm of Tranquility](/item/31460) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Black Symbol](/item/31251), [Platinum Tear](/item/31269), [Runed Symbol](/item/31252), [Serrated Symbol](/item/31254)
+elseif **Faction** >= Kindly and  **You turn in:** [Black Symbol](/item/31251), [Platinum Tear](/item/31269), [Runed Symbol](/item/31252), [Serrated Symbol](/item/31254)) then 
 
 
 FactionHits(e);
@@ -133,7 +133,7 @@ FactionHits(e);
 
  **You receive:**  [Silver Bracelet of Speed](/item/31461) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Emerald Symbol](/item/31257), [Emerald Tear](/item/31268), [Flame Kissed Symbol](/item/31256), [Poison Symbol](/item/31255)
+elseif **Faction** >= Kindly and  **You turn in:** [Emerald Symbol](/item/31257), [Emerald Tear](/item/31268), [Flame Kissed Symbol](/item/31256), [Poison Symbol](/item/31255)) then 
 
 
 FactionHits(e);

@@ -19,7 +19,7 @@ end
 
  
 
-if **You turn in:** [Lceas Jewel Box](/item/7000)
+if( **You turn in:** [Lceas Jewel Box](/item/7000)) then
 
 
 >**Lcea Katta says:** Amazing! I had no doubt in your loyalty to Katta but I underestimated your ability to actually acomplish getting the Arx Key. Now that you have this key you must know what I ask of you next. Seru must be defeated, if there will ever be peace in Katta and truth spread among the people of  Sanctus Seru. Destroy this vile betrayer, bring me his head, and your Signet Earring. Go now before they have time to retaliate your previous attacks!
@@ -37,9 +37,9 @@ if **You turn in:** [Lceas Jewel Box](/item/7000)
 
 
 
- **You receive:** None 
+ **You receive:**  [Signet Earring of Veracity](/item/29860) (+10000 exp)
 
-elseif **You turn in:** [Signet Earring of Veracity](/item/29860), [Head of the Inquisitor](/item/7810)
+elseif( **You turn in:** [Signet Earring of Veracity](/item/29860), [Head of the Inquisitor](/item/7810)) then
 
 
 >**Lcea Katta says:** This is astounding, I find myself at a loss for words. You have done Katta a great justice, Sanctus Seru will never be the same now that the truth is known. Their leader has fallen.

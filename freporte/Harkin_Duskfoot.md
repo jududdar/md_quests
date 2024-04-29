@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Note to Harkin](/item/18016)
+if( **You turn in:** [Note to Harkin](/item/18016)) then 
 
 
 >**Harkin Duskfoot says:** Ah, good work, Soandso. And quick too, I'll makes sure that Elisi hears of your loyal work. Here... take this for your efforts.. it's not much, but it's all I have on me right now.

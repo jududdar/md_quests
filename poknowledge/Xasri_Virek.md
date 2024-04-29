@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Beginner Combat Manual](/item/28788), [Junk Beast Power Source](/item/29145)
+if( **You turn in:** [Beginner Combat Manual](/item/28788), [Junk Beast Power Source](/item/29145)) then 
 
 
 >**Xasri Virek says:** Very impressive, Soandso. This proves you have clearly graduated to the next phase of training we have to offer. Keep this book by your side and speak to Gwiraba Gelrid when you are ready for your next lesson.
@@ -36,6 +36,6 @@ if **You turn in:** [Beginner Combat Manual](/item/28788), [Junk Beast Power Sou
 
 
 
- **You receive:** None 
+ **You receive:**  [Intermediate Combat Manual](/item/28790) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

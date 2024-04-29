@@ -61,7 +61,7 @@ end
 local text = "Hey..  wow..  Now THESE are some good, meaty ears..  These will make one great rat ear pie..  Tell ya what, kid..  bring me a few more o' these beauties, and I'll give you my secret recipe for cooking 'em.";
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Rat Ears](/item/13072)
+if **Faction** >= Apprehensive and  **You turn in:** [Rat Ears](/item/13072)) then
 
 
 >**Rephas says:** Ahh yes..  These are a little small, but still some good eating, if you know how to cook 'em of course..   Here ya go, enjoy and may Karana keep your fields lush and green.
@@ -82,9 +82,9 @@ if **Faction** >= Apprehensive and  **You turn in:** [Rat Ears](/item/13072)
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Grilled Rat Ears](/item/13719) (+10 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Grilled Rat Ears](/item/13719)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Grilled Rat Ears](/item/13719)) then
 
 
 >**Rephas says:** Wha?..   Ah, I guess it's a bit of an acquired taste..  Oh well, your loss..  Here, take this..  They ain't no ears, but it's the least I could do..   And if ya find any more rat ears, good ol' Rephas here will be glad to take 'em off your hands for ya!
@@ -105,9 +105,9 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Grilled Rat Ears](/ite
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Tattered Cloth Sandal](/item/1038), [Fish Scales](/item/13076), [Spell: Weaken](/item/15041), [Spell: Lull](/item/15208), [Spell: True North](/item/15205)) (+5 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Giant Rat Ear](/item/13050), [Giant Rat Ear](/item/13050), [Giant Rat Ear](/item/13050)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Giant Rat Ear](/item/13050), [Giant Rat Ear](/item/13050), [Giant Rat Ear](/item/13050)) then
 
 
 >**Rephas says:** Wow!..  How big was the dang varmint that these come off of?!  Bigger'n a ol' grizzly, I bet!  You've earned this, my friend!  It's my own secret recipe for rat ear pie..  sure is tasty, easy to make, and keeps your belly full while you're running about in the hills and such.  Take care, and may Karana keep your path clear and our lakes full.
@@ -128,9 +128,9 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Giant Rat Ear](/item/1
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Rat Ear Pie](/item/18103) (+10 exp)
 
-elseif **You turn in:** [Assorted Research pg1](/item/27428), [Assorted Research pg2](/item/27429), [Assorted Research pg3](/item/27430)
+elseif( **You turn in:** [Assorted Research pg1](/item/27428), [Assorted Research pg2](/item/27429), [Assorted Research pg3](/item/27430)) then
 
 
 >**Rephas says:** These were the exact pages I was missing. I have been compiling this research for Juegile. It is now finished so please bring this book to him. Thank you!
@@ -151,7 +151,7 @@ elseif **You turn in:** [Assorted Research pg1](/item/27428), [Assorted Research
 * __Faction:__ [The Freeport Militia](/faction/330) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [An Enchanted Book](/item/27431) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

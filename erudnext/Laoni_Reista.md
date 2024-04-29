@@ -64,7 +64,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Nicked Coin](/item/13881)
+if **Faction** >= Amiable and  **You turn in:** [A Nicked Coin](/item/13881)) then 
 
 
 >**Laoni Reista says:** Good work. You have shown these rogues who are the better swimmers. Now we have proof of their involvement. You are a fine addition to the temple. Take this small reward. Go, and serve Prexus.

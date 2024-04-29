@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** platinum = 1000
+if( **You turn in:** platinum = 1000) then
 
 
 >*Taralani Rahnta beams the brightest smile you've ever seen in this dark place at you when you tell him you accept his offer. He quickly hands you the satchel and takes the platinum eagerly. As you leave, you swear you hear chuckle at something.*

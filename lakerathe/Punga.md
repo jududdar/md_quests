@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Dufrenite](/item/10073)
+if( **You turn in:** [Dufrenite](/item/10073)) then 
 
 
 >**Punga says:** GRIND! GRIND! GRIND!

@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [Human Blood](/item/22514), [Jade Inlaid Coffin](/item/17355), [Vial of Clear Mana](/item/10252), [Essence Emerald](/item/9963)
+if( **You turn in:** [Human Blood](/item/22514), [Jade Inlaid Coffin](/item/17355), [Vial of Clear Mana](/item/10252), [Essence Emerald](/item/9963)) then
 
 
 >**Annaelia Wylassi says:** I will now try the reanimation.' Streams of mana surround the bones but nothing happens. Annaelia looks annoyed. 'Worthless bones! Why do they hum like this? Grah, I don't care I have too much to study. You want them? Take them!

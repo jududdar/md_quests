@@ -61,7 +61,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Pack of Materials](/item/12112)
+if **Faction** >= Amiable and  **You turn in:** [Pack of Materials](/item/12112)) then 
 
 
 >**Maesyn Trueshot says:** I shall see that my father gets the materials. I hope this can be of use to you. It will serve as your starting point toward fletching a Trueshot longbow. It is unfortunate that we are unable to enchant the bow to its [next incarnation], but it is still a fine weapon. You do know the [correct components] needed for fletching such a bow, do you not?
@@ -82,9 +82,9 @@ if **Faction** >= Amiable and  **You turn in:** [Pack of Materials](/item/12112)
 * __Faction:__ [Crushbone Orcs](/faction/234) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Treant Bow Staff](/item/8091) (+500 exp)
 
-elseif **You turn in:** [A tattered note](/item/18785)
+elseif( **You turn in:** [A tattered note](/item/18785)) then 
 
 
 >**Maesyn Trueshot says:** Hail, Soandso, and welcome.. I am Maesyn Trueshot, leader of Faydark's Champions. I will teach and train you, as I have done for many others. Let's get started.. Here, put this on.. it'll help protect you from the elements. You look pretty bright. Train hard, and I'm sure you'll do well.

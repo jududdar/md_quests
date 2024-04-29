@@ -106,7 +106,7 @@ end
 
 
 
-if **You turn in:** [A Slip of Parchment](/item/18824)
+if( **You turn in:** [A Slip of Parchment](/item/18824)) then 
 
 
 >**Lieutenant Dagarok says:** What is this? Hmmm. It seems Weleth has a problem with following orders. I will deal with him. Good work in bringing this to my attention. Our job here would be much more difficult without the help of loyal citizens like yourself. Take this as a token of Commander Kane's appreciation.
@@ -130,6 +130,6 @@ if **You turn in:** [A Slip of Parchment](/item/18824)
 * __Faction:__ [Bloodsabers](/faction/221) (3)
 
 
- **You receive:** None 
+ **You receive:** 0 (+250 exp)
 
 **This NPC *should* return incorrect items given.**

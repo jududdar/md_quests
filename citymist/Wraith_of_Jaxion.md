@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Dull Ruby](/item/10633)
+if( **You turn in:** [Dull Ruby](/item/10633)) then
 
 
 >**Wraith of Jaxion says:** Hisss...my spirit is forever trapped here. Leave before your fate is as mine.

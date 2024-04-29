@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Bundle of Poisons](/item/9470)
+if( **You turn in:** [Bundle of Poisons](/item/9470)) then
 
 
 

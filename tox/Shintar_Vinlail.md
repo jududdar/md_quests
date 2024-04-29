@@ -61,7 +61,7 @@ end
 
 
 
-if **You turn in:** [A Leaflet](/item/18830)
+if( **You turn in:** [A Leaflet](/item/18830)) then 
 
 
 >**Shintar Vinlail says:** You beast! I shall send you back to the sty where you belong!

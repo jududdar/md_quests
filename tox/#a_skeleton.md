@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Useless Cloth Cap](/item/13894)
+if( **You turn in:** [Useless Cloth Cap](/item/13894)) then
 
 
 >**a skeleton says:** Good work, you should be running this operation instead of that Talrigar fellow. Have a small reward. A little bit of the gems I found while tunneling through this rock.

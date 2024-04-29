@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Report to Skargus](/item/6474)
+if( **You turn in:** [Report to Skargus](/item/6474)) then 
 
 
 eq.start(99);

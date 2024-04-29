@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Chunk of Tundra](/item/20690), [Clean Lakewater](/item/20689), [Ancient Rock](/item/20688)
+if( **You turn in:** [Chunk of Tundra](/item/20690), [Clean Lakewater](/item/20689), [Ancient Rock](/item/20688)) then
 
 
 >**withered treant says:** My heart cleansed of Corruption can interrupt the Flow of the corruption between the priest and his dark god, force it upon him quickly, I can sense him, he is in the Karana's somewhere.

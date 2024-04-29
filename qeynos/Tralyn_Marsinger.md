@@ -60,7 +60,7 @@ end
 
 
 
-if **You turn in:** [A Bardic Letter (Qeynos)](/item/18150)
+if( **You turn in:** [A Bardic Letter (Qeynos)](/item/18150) or  **You turn in:** [A Bardic Letter (Qeynos)](/item/18151) or  **You turn in:** [A Bardic Letter (Qeynos)](/item/18153) or  **You turn in:** [A Bardic Letter (Qeynos)](/item/18154)) then
 
 
 >**Tralyn Marsinger says:** Incoming mail - very good! Please take this gold for your troubles.

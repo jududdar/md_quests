@@ -63,7 +63,7 @@ end
 if( **Faction is** >= Kindly) then 
 
 
-if **You turn in:** [Champion's Crown](/item/31084)
+if( **You turn in:** [Champion's Crown](/item/31084)) then
 
 
 
@@ -74,7 +74,7 @@ if **You turn in:** [Champion's Crown](/item/31084)
  **You receive:**  [Custom Champion's Crown](/item/31519) 
 
 
-elseif **You turn in:** [Cowl of Mortality](/item/26025)
+elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then
 
 
 
@@ -85,7 +85,7 @@ elseif **You turn in:** [Cowl of Mortality](/item/26025)
  **You receive:**  [Custom Cowl of Mortality](/item/2612) 
 
 
-elseif **You turn in:** [Crown of Forbidden Rites](/item/31042)
+elseif( **You turn in:** [Crown of Forbidden Rites](/item/31042)) then
 
 
 
@@ -96,7 +96,7 @@ elseif **You turn in:** [Crown of Forbidden Rites](/item/31042)
  **You receive:**  [Custom Crown of Forbidden Rites](/item/31518) 
 
 
-elseif **You turn in:** [Crown of the Kromzek Kings](/item/25194)
+elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then
 
 
 
@@ -107,7 +107,7 @@ elseif **You turn in:** [Crown of the Kromzek Kings](/item/25194)
  **You receive:**  [Custom Crown of the Kromzek Kings](/item/2611) 
 
 
-elseif **You turn in:** [Dark Runed Crown](/item/31000)
+elseif( **You turn in:** [Dark Runed Crown](/item/31000)) then
 
 
 
@@ -118,7 +118,7 @@ elseif **You turn in:** [Dark Runed Crown](/item/31000)
  **You receive:**  [Custom Dark Runed Crown](/item/31515) 
 
 
-elseif **You turn in:** [Frostreaver's Velium Crown](/item/30507)
+elseif( **You turn in:** [Frostreaver's Velium Crown](/item/30507)) then
 
 
 
@@ -129,7 +129,7 @@ elseif **You turn in:** [Frostreaver's Velium Crown](/item/30507)
  **You receive:**  [Custom Frostreavers Velium Crown](/item/2610) 
 
 
-elseif **You turn in:** [Resonant Helm](/item/31035)
+elseif( **You turn in:** [Resonant Helm](/item/31035)) then
 
 
 
@@ -140,7 +140,7 @@ elseif **You turn in:** [Resonant Helm](/item/31035)
  **You receive:**  [Custom Resonant Helm](/item/31517) 
 
 
-elseif **You turn in:** [Runed Protector's Helm](/item/31021)
+elseif( **You turn in:** [Runed Protector's Helm](/item/31021)) then
 
 
 

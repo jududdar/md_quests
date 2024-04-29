@@ -99,7 +99,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if (expansion_flag >= 4.0 and  **You turn in:** [Parchment to Glerbella](/item/10989)
+if (expansion_flag >= 4.0 and  **You turn in:** [Parchment to Glerbella](/item/10989)) then
 
 
 >**Glerbella Gibblix says:** Hail Soandso! You must be one of Derthix new disciples. Derthix has asked me to help get you outfitted in a suit of armor to protect you from the weapons of our foes. I have assembled a kit for you that will allow you to construct the armor pieces once you have gathered the necessary components. The required components vary according to which piece of Plague Raiser Armor you are planning on assembling. Do you wish to craft a [plague raiser helm], a [plague raiser bracer], [plague raiser gauntlets], [plague raiser boots], [plague raiser vambraces], [plague raiser greaves], or a [plague raiser breastplate].

@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Trunt's Head](/item/1686)
+if( **You turn in:** [Trunt's Head](/item/1686)) then 
 
 
 >*Astral Projection looks up and down.*

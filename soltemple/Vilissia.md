@@ -74,7 +74,7 @@ end
 local text = "Solusek Ro does not believe in half measures.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), [Bonechipped Mask](/item/2367), [Patch of Shadow](/item/2368), [Darkbone Skull](/item/10558)
+if **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), [Bonechipped Mask](/item/2367), [Patch of Shadow](/item/2368), [Darkbone Skull](/item/10558)) then
 
 
 >**Vilissia says:** Mask, patch, skull and mask. All of the items necessary for me to make an acumen mask.  Excellent.  All praise Solusek Ro!
@@ -88,7 +88,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), 
 
  **You receive:**  [Acumen Mask](/item/2366) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000), [Ruby](/item/10035), [Ruby](/item/10035)
+elseif **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000), [Ruby](/item/10035), [Ruby](/item/10035)) then 
 
 
 e.other:Say("Here is your prize - a lambent ruby.");
@@ -102,7 +102,7 @@ e.other:Say("Here is your prize - a lambent ruby.");
 
  **You receive:**  [Lambent Ruby](/item/10118) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Lizardscale Cloak](/item/2332), [Rune of Scale](/item/10553), [Rune of Scale](/item/10554), [Rune of Scale](/item/10555)
+elseif **Faction** >= Indifferent and  **You turn in:** [Lizardscale Cloak](/item/2332), [Rune of Scale](/item/10553), [Rune of Scale](/item/10554), [Rune of Scale](/item/10555)) then 
 
 
 e.other:Say("You impress me, adventurer! I had not expected you to return with all of the runes. Very well, I shall keep my half of the bargain. Here is your Runescale Cloak.");
@@ -116,7 +116,7 @@ e.other:Say("You impress me, adventurer! I had not expected you to return with a
 
  **You receive:**  [Runescale Cloak](/item/2364) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)
+elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)) then 
 
 
 e.other:Say("I see that Gavel has sent you to me.  Very well, I have vulcanized your platinum bar - take it.");

@@ -23,7 +23,7 @@ local text = "That's one of the fiend's daggers. Quickly, where is the other one
 
 
 
-if **You turn in:** [Woe](/item/1676), [Envy](/item/1677)
+if( **You turn in:** [Woe](/item/1676), [Envy](/item/1677)) then 
 
 
 >**Tabien the Goodly says:** Ahh, thank Mithaniel you have put Glaron and his terrible reign to an You have done the world a great service by carrying out my instructions. Take this gem and give it to the one who sent you. He will reward you as befits such an accomplished mercenary such as yourself. Oh, and Marr be with you!

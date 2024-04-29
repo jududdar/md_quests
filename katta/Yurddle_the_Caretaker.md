@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [Aeridia Family Signet Ring](/item/10670), [Tarnished Copper Runed Wand](/item/10673), [Faded Silver Embroidered Robe](/item/10672), [Sealed Golden Scroll Tube](/item/10671)
+if( **You turn in:** [Aeridia Family Signet Ring](/item/10670), [Tarnished Copper Runed Wand](/item/10673), [Faded Silver Embroidered Robe](/item/10672), [Sealed Golden Scroll Tube](/item/10671)) then
 
 
 >**Yurddle the Caretaker says:** I require the Aeridia Family Signet Ring, the Sealed Golden Scroll Tube, the Faded Silver Embroidered Robe, and the Tarnished Copper Runed Wand that were stolen from Holin Aeridias crypt.
@@ -85,7 +85,7 @@ if **You turn in:** [Aeridia Family Signet Ring](/item/10670), [Tarnished Copper
 
  **You receive:**  [Holin Aeridia's Belongings](/item/10682) (+1000 exp)
 
-elseif **You turn in:** [Ancient Ornate Combine Dagger](/item/10674), [Talikar Family Signet Ring](/item/10675), [Faded Portrait of a Lady](/item/10676), [Antique Platinum Medal](/item/10677)
+elseif( **You turn in:** [Ancient Ornate Combine Dagger](/item/10674), [Talikar Family Signet Ring](/item/10675), [Faded Portrait of a Lady](/item/10676), [Antique Platinum Medal](/item/10677)) then
 
 
 >**Yurddle the Caretaker says:** I require the Ancient Ornate Combine Dagger, Talikar Family Signet Ring, Faded Portrait of a Lady, and the Antique Platinum Medal that were stolen from Raien Talikars crypt.
@@ -117,7 +117,7 @@ elseif **You turn in:** [Ancient Ornate Combine Dagger](/item/10674), [Talikar F
 
  **You receive:**  [Raien Talikars Belongings](/item/10683) (+1000 exp)
 
-elseif **You turn in:** [Gold Embroidered Kilt](/item/10678), [Silver Embroidered Tabard](/item/10679), [Ancient Ceremonial Warhammer](/item/10680), [Old Sealed Medicine Pouch](/item/10681)
+elseif( **You turn in:** [Gold Embroidered Kilt](/item/10678), [Silver Embroidered Tabard](/item/10679), [Ancient Ceremonial Warhammer](/item/10680), [Old Sealed Medicine Pouch](/item/10681)) then
 
 
 >**Yurddle the Caretaker says:** I require the Gold Embroidered Kilt, Silver Embroidered Tabard, Ancient Ceremonial Varhammer, and Old Sealed Medicine Pouch that were stolen from Shoeon Malicus' crypt.

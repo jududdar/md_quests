@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Lunch Bag](/item/8271)
+if( **You turn in:** [Lunch Bag](/item/8271)) then 
 
 
 >**Waldo Pinemyer says:** Huh... Who are you? Oh, you have my lunch. Thank you. Mmmm... This is great. Nerdala sure is an amazing cook.

@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Head of Stanos](/item/28058)
+if( **You turn in:** [Head of Stanos](/item/28058)) then
 
 
 >**General V-ghera says:** Life is indeed sweet! Thank you, Soandso, you have done me a great service this day. Take this, Stanos was kind enough to return it to me, and I have no use for it now. Know that you have the blessing of Innoruuk for this deed! But of course, I leave it to you to leave here alive. A leader has to feed his minions, you know.

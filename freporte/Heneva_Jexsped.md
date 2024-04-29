@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18855)
+if( **You turn in:** [A tattered note](/item/18855)) then
 
 
 >**Heneva Jexsped says:** Welcome, friend. I see more than a slight glimmer of hate in your eyes. Good... for we have much work to do.

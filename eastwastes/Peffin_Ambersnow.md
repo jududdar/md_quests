@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Letter to Peffin](/item/18171)
+if( **You turn in:** [Letter to Peffin](/item/18171)) then
 
 
  **You receive:** 0 (+5000 exp)

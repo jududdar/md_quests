@@ -68,7 +68,7 @@ end
 
 
 
-if **You turn in:** [Medium Quality Cougarskin](/item/30064), [Cutting Shells](/item/30065), [Cutting Shells](/item/30065)
+if( **You turn in:** [Medium Quality Cougarskin](/item/30064), [Cutting Shells](/item/30065), [Cutting Shells](/item/30065)) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
@@ -76,7 +76,7 @@ if **You turn in:** [Medium Quality Cougarskin](/item/30064), [Cutting Shells](/
 
  **You receive:**  [Cougarskin Boots](/item/30020) 
 
-elseif **You turn in:** [High Quality Cougarskin](/item/30030), [Mammoth Meat](/item/13407), [Mammoth Meat](/item/13407)
+elseif( **You turn in:** [High Quality Cougarskin](/item/30030), [Mammoth Meat](/item/13407), [Mammoth Meat](/item/13407)) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
@@ -84,7 +84,7 @@ elseif **You turn in:** [High Quality Cougarskin](/item/30030), [Mammoth Meat](/
 
  **You receive:**  [Cougarskin Mask](/item/30027) 
 
-elseif **You turn in:** [Low Quality Cougarskin](/item/30031), [Walrus Meat](/item/30097), [Walrus Meat](/item/30097)
+elseif( **You turn in:** [Low Quality Cougarskin](/item/30031), [Walrus Meat](/item/30097), [Walrus Meat](/item/30097)) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
@@ -92,7 +92,7 @@ elseif **You turn in:** [Low Quality Cougarskin](/item/30031), [Walrus Meat](/it
 
  **You receive:**  [Cougarskin Sleeves](/item/30028) 
 
-elseif **You turn in:** [Medium Quality Dire Wolf Fur](/item/30025), [Skinning Rock](/item/30062), [Skinning Rock](/item/30062)
+elseif( **You turn in:** [Medium Quality Dire Wolf Fur](/item/30025), [Skinning Rock](/item/30062), [Skinning Rock](/item/30062)) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
@@ -100,7 +100,7 @@ elseif **You turn in:** [Medium Quality Dire Wolf Fur](/item/30025), [Skinning R
 
  **You receive:**  [Dire Wolf-Hide Cloak](/item/25019) 
 
-elseif **You turn in:** [Low Quality Dire Wolf Fur](/item/30024), [Bark Bindings](/item/30063), [Bark Bindings](/item/30063)
+elseif( **You turn in:** [Low Quality Dire Wolf Fur](/item/30024), [Bark Bindings](/item/30063), [Bark Bindings](/item/30063)) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*

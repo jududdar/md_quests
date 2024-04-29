@@ -62,7 +62,7 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Large Brick of High Quality Ore](/item/10469), [Oak Shaft](/item/10456)
+if **Faction** >= Dubious +300 and  **You turn in:** [Large Brick of High Quality Ore](/item/10469), [Oak Shaft](/item/10456)) then 
 
 
 >*Emylie Steelclaws takes the supplies and begins to work on the hammer. She works swiftly and efficiently then cools the finished hammer and hands it to you.*

@@ -133,7 +133,7 @@ local sirranName = "sirran";
 
 sirranName = sirranName .. eq.get_zone_guild_id();
 
-if **You turn in:** [Miniature Sword](/item/20920)
+if( **You turn in:** [Miniature Sword](/item/20920)) then 
 
 
 
@@ -160,7 +160,7 @@ else
  **You receive:**  [Miniature Sword](/item/20920) 
 
 
-elseif **You turn in:** [Lost rabbits foot](/item/20921)
+elseif( **You turn in:** [Lost rabbits foot](/item/20921)) then 
 
 
 
@@ -186,7 +186,7 @@ else
  **You receive:**  [Lost rabbits foot](/item/20921) 
 
 
-elseif **You turn in:** [Broken Mirror](/item/20922)
+elseif( **You turn in:** [Broken Mirror](/item/20922)) then 
 
 
 
@@ -212,7 +212,7 @@ else
  **You receive:**  [Broken Mirror](/item/20922) 
 
 
-elseif **You turn in:** [Animal Figurine](/item/20923)
+elseif( **You turn in:** [Animal Figurine](/item/20923)) then 
 
 
 
@@ -238,7 +238,7 @@ else
  **You receive:**  [Animal Figurine](/item/20923) 
 
 
-elseif **You turn in:** [Bird Whistle](/item/20924)
+elseif( **You turn in:** [Bird Whistle](/item/20924)) then 
 
 
 
@@ -264,7 +264,7 @@ else
  **You receive:**  [Bird Whistle](/item/20924) 
 
 
-elseif **You turn in:** [Noise Maker](/item/20925)
+elseif( **You turn in:** [Noise Maker](/item/20925)) then 
 
 
 
@@ -290,7 +290,7 @@ else
  **You receive:**  [Noise Maker](/item/20925) 
 
 
-elseif **You turn in:** [Dull Dragon Scale](/item/20926)
+elseif( **You turn in:** [Dull Dragon Scale](/item/20926)) then 
 
 
 
@@ -316,7 +316,7 @@ else
  **You receive:**  [Dull Dragon Scale](/item/20926) 
 
 
-elseif **You turn in:** [Replica of the Wyrm Queen](/item/20927)
+elseif( **You turn in:** [Replica of the Wyrm Queen](/item/20927)) then 
 
 
 

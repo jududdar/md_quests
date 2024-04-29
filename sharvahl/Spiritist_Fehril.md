@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
+if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**Spiritist Fehril says:** Soandso! So good to see you! It is my honor to guide you for a time. May the spirits inspire my words that you might grow wise in the hearing. You are young and need to be strengthened. Bring me three hairless hides of rockhopper young. You can find them in the crater surrounding our city, formed when the portion of Norrath our city is built upon came to rest in its current location.
@@ -36,7 +36,7 @@ if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
 
  **You receive:**  [Acrylia Slate of Shar Vahl](/item/2877) 
 
-elseif **You turn in:** [Hairless Rockhopper Hide](/item/3488), [Hairless Rockhopper Hide](/item/3488), [Hairless Rockhopper Hide](/item/3488)
+elseif( **You turn in:** [Hairless Rockhopper Hide](/item/3488), [Hairless Rockhopper Hide](/item/3488), [Hairless Rockhopper Hide](/item/3488)) then
 
 
 >*Spiritist Fehril craftily places the hides in a circular frame and hands you the product, 'You've completed my first task and as a reward I present you with this small token. May it serve to protect you from our enemies.*
@@ -48,9 +48,9 @@ elseif **You turn in:** [Hairless Rockhopper Hide](/item/3488), [Hairless Rockho
 **Signaled to:**  [Elder Spiritist Grawleh](/npc/155164)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Hopperhide Buckler](/item/3489), [Empty Cask](/item/17232)) (+500 exp)
 
-elseif **You turn in:** [Cask of Sweetwater](/item/3493)
+elseif( **You turn in:** [Cask of Sweetwater](/item/3493)) then
 
 
 >*Spiritist Fehril takes a sip from the cask and furrows his brow.*
@@ -64,7 +64,7 @@ elseif **You turn in:** [Cask of Sweetwater](/item/3493)
 
  **You receive:**  [Hopperhide Treatment](/item/3494) (+500 exp)
 
-elseif **You turn in:** [Hopperhide Buckler](/item/3489), [Hopperhide Treatment](/item/3494), [Ayyad's seal](/item/3499), [Initiate's Cloak of Shar Vahl](/item/2878)
+elseif( **You turn in:** [Hopperhide Buckler](/item/3489), [Hopperhide Treatment](/item/3494), [Ayyad's seal](/item/3499), [Initiate's Cloak of Shar Vahl](/item/2878)) then
 
 
 >**Spiritist Fehril says:** Well done you Soandso, your deeds will not go unnoticed. You will now be known throughout the land as an official recruit of the revered Dar Khura. As your status improves so will the rewards for your service. Here is your treated buckler, your new cloak, and a spell I trust you will find a use for. Show your buckler to Fharra Cawfeet and she will continue your training.
@@ -76,9 +76,9 @@ elseif **You turn in:** [Hopperhide Buckler](/item/3489), [Hopperhide Treatment]
 eq.set_global("Shar_Vahl_Cit","8",5,"F");
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Treated Hopperhide Buckler](/item/3495), [Cloak of the Dar Khura Recruit](/item/3496), [Spell: Frost Rift](/item/15275)) (+500 exp)
 
-elseif **You turn in:** [Mydi's Token](/item/5542), [Cloak of the Dar Khura Recruit](/item/3496), [Imbued Hopperhide Buckler](/item/5543)
+elseif( **You turn in:** [Mydi's Token](/item/5542), [Cloak of the Dar Khura Recruit](/item/3496), [Imbued Hopperhide Buckler](/item/5543)) then
 
 
 >**Spiritist Fehril says:** Your progress fills me with pride. Please take these things as a sign of our appreciation. I hope that they help you as much as you have helped us. When you are ready to continue your training, please contact Jaima Seyel. You'll most likely find her in the Dar Khura Guildhall. She will train you from this point.
@@ -90,6 +90,6 @@ elseif **You turn in:** [Mydi's Token](/item/5542), [Cloak of the Dar Khura Recr
 * __Faction:__ [Dar Khura](/faction/1533) (20)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Imbued Hopperhide Buckler](/item/5543), [Cloak of the Dar Khura Apprentice](/item/5544), [Spell: Spirit Strike](/item/15282)) (+1500 exp)
 
 **This NPC *should* return incorrect items given.**

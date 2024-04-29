@@ -58,7 +58,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Meteor Jewel](/item/4493), [Mark of Glory](/item/5530), [Ring of Wit](/item/5584), [Twilight Fish Scales](/item/5585)
+if( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Glory](/item/5530), [Ring of Wit](/item/5584), [Twilight Fish Scales](/item/5585)) then 
 
 
 FactionReward(e)
@@ -66,7 +66,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Cloak](/item/3941) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Opposition](/item/5586), [Hope Quartz](/item/5587)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Opposition](/item/5586), [Hope Quartz](/item/5587)) then 
 
 
 FactionReward(e)
@@ -74,7 +74,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Gauntlets](/item/3942) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Contention](/item/5590), [Fire Scorched Stick](/item/5591), [Hope Star Ruby](/item/5592)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Contention](/item/5590), [Fire Scorched Stick](/item/5591), [Hope Star Ruby](/item/5592)) then 
 
 
 FactionReward(e)
@@ -82,7 +82,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Girdle](/item/3944) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Pride](/item/5588), [Star Dust](/item/5589)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Pride](/item/5588), [Star Dust](/item/5589)) then 
 
 
 FactionReward(e)
@@ -90,7 +90,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Gorget](/item/3943) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Defiance](/item/5528), [Bag of Scarlet Sand](/item/5529)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Defiance](/item/5528), [Bag of Scarlet Sand](/item/5529)) then 
 
 
 FactionReward(e)
@@ -98,7 +98,7 @@ FactionReward(e)
 
  **You receive:**  [Soldier's Mask](/item/3940) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Warfare](/item/5668), [Hope Fire Opal](/item/5669), [Fire Powder](/item/5677)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Warfare](/item/5668), [Hope Fire Opal](/item/5669), [Fire Powder](/item/5677)) then 
 
 
 FactionReward(e)

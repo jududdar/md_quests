@@ -15,10 +15,10 @@ end
 
 
 
-if **You turn in:** [Confession Document](/item/2344)
+if( **You turn in:** [Confession Document](/item/2344)) then
 
 
- **You receive:** None 
+ **You receive:**  [Rileys Confession](/item/2369) 
 
 
 eq.set_global("invest_badge","second_suspect",3,"F");

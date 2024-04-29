@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Gant's Remains](/item/30173)
+if( **You turn in:** [Gant's Remains](/item/30173)) then
 
 
 >**Bryce McFadden says:** No way! You're telling me you were able to recover Gant's Remains?! Gant will finally be able to rest in peace now. Here take this.

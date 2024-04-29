@@ -48,7 +48,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 1.0 and  **You turn in:** [A tattered note](/item/18744)
+if(expansion_flag >= 1.0 and  **You turn in:** [A tattered note](/item/18744)) then 
 
 
 >**Venox Tarkog says:** Here we find a new follower.. Here we find a tunic of the Dismal Rage. Put the two together and let the hate grow. Let it be known from now on that your soul belongs to the Prince of Hate, Innoruuk. It is his power which flows within you. Destroy all those who oppose us. Please introduce your hate to the others in this shrine.

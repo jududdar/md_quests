@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Leather Gripped Short Sword](/item/5545)
+if( **You turn in:** [Leather Gripped Short Sword](/item/5545)) then
 
 
 >*Noril Galoon examines the hilt for a moment and hands the sword back to you.*
@@ -21,9 +21,9 @@ if **You turn in:** [Leather Gripped Short Sword](/item/5545)
 >**Noril Galoon says:** This looks like it will work fine.' He says. 'If you are up to doing me a favor, I can teach you how to modify your shield as well. Take this bag and these files and come back to me when you have some [spare time] and want to learn more about shields.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Leather Gripped Short Sword](/item/5545), [Set of Engraved Files](/item/5546), [Grime Covered Bag](/item/17605)) 
 
-elseif **You turn in:** [Bag of Bolts](/item/5556), [Buckler of the Recruit](/item/3452)
+elseif( **You turn in:** [Bag of Bolts](/item/5556), [Buckler of the Recruit](/item/3452)) then
 
 
 >**Noril Galoon says:** Thanks for the Bag of Bolts Soandso.
@@ -34,7 +34,7 @@ elseif **You turn in:** [Bag of Bolts](/item/5556), [Buckler of the Recruit](/it
 
  **You receive:**  [Friazs Shopping List](/item/18321) 
 
-elseif **You turn in:** [Bag of Beetle Horns](/item/5549)
+elseif( **You turn in:** [Bag of Beetle Horns](/item/5549)) then
 
 
 >**Noril Galoon says:** Great work Soandso.  Thanks for the tools to finish your upgrade.  Here is your new shield.  Take your buckler, cloak and sword back to Armsman Khaigesh and show him the progress you have made.

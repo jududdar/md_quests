@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)
+if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then
 
 
 

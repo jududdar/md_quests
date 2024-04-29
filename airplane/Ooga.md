@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Efreeti War Club](/item/20845), [Djinni Statuette](/item/20955), [Corrosive Venom](/item/20842), [Wooden Bands](/item/20841)
+if( **You turn in:** [Efreeti War Club](/item/20845), [Djinni Statuette](/item/20955), [Corrosive Venom](/item/20842), [Wooden Bands](/item/20841)) then 
 
 
 
@@ -43,7 +43,7 @@ if **You turn in:** [Efreeti War Club](/item/20845), [Djinni Statuette](/item/20
 
  **You receive:**  [Warhammer of the Wind](/item/27729) (+100000 exp)
 
-elseif **You turn in:** [Emerald Spiroc Feather](/item/20962), [Bixie Essence](/item/20843), [Spiritualist\`s Ring](/item/20844)
+elseif( **You turn in:** [Emerald Spiroc Feather](/item/20962), [Bixie Essence](/item/20843), [Spiritualist\`s Ring](/item/20844)) then 
 
 
 
@@ -52,7 +52,7 @@ elseif **You turn in:** [Emerald Spiroc Feather](/item/20962), [Bixie Essence](/
 
  **You receive:**  [Vermilion Sky Ring](/item/27730) (+100000 exp)
 
-elseif **You turn in:** [Efreeti War Maul](/item/20846), [Thickened Nectar](/item/20969), [Fire Sky Ruby](/item/20848), [Symbol of Veeshan](/item/20847)
+elseif( **You turn in:** [Efreeti War Maul](/item/20846), [Thickened Nectar](/item/20969), [Fire Sky Ruby](/item/20848), [Symbol of Veeshan](/item/20847)) then 
 
 
 

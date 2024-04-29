@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Blood Stained Note](/item/18852)
+if( **You turn in:** [Blood Stained Note](/item/18852)) then 
 
 
 * __Faction:__ [Bloodsabers](/faction/221) (100)

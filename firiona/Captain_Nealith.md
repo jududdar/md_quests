@@ -38,7 +38,7 @@ local text = "holds the canine in his palm. 'Good work, but you will have to sla
 
 
 
-if **You turn in:** [A Canine](/item/12977), [A Canine](/item/12977), [A Canine](/item/12977), [A Canine](/item/12977)
+if( **You turn in:** [A Canine](/item/12977), [A Canine](/item/12977), [A Canine](/item/12977), [A Canine](/item/12977)) then
 
 
 >*Captain Nealith tosses the teeth into a very large cask full of similar teeth. 'Fine work, Soandso. I wish all my own troops showed the same tenacity. I salute you. This will keep you well fed during your long patrols. Use your wages to better equip yourself. Continue the fight!! The General is pleased.'*
@@ -64,7 +64,7 @@ if **You turn in:** [A Canine](/item/12977), [A Canine](/item/12977), [A Canine]
 
  **You receive:**  [Elven Trail Mix](/item/13155) (+10000 exp)
 
-elseif **You turn in:** [blood soaked note](/item/18076)
+elseif( **You turn in:** [blood soaked note](/item/18076)) then 
 
 
 >*Captain Nealith nearly faints after reading the letter. 'Dear Marltek!! I shall miss you. There is more evil in this land!! Madness beyond description. Thank you Soandso. You put my soul at ease and give me new direction. Please accept my brothers blade. He found it in the wilds. May you use it to slay many Drolvarg!!'*

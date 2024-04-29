@@ -162,7 +162,7 @@ end
 local text = "Oh....well.....This is nice, but I'll need the swollen, waterlogged, and algae covered flesh before I can reward you.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Algae Covered Flesh](/item/1736), [Swollen Flesh](/item/1737), [Waterlogged Flesh](/item/1735)
+if **Faction** >= Indifferent and  **You turn in:** [Algae Covered Flesh](/item/1736), [Swollen Flesh](/item/1737), [Waterlogged Flesh](/item/1735)) then
 
 
 >*Gapeers Johhanis cheers as you hand him the samples of zombie flesh. He says, 'You have them! Excellent! Thank you very much, Soandso! Now I have much work to do so shoo before you break something else. Oh and here is your reward. It's an anklet that all our acolytes wear. Not only is it functional, but we can show off our beautiful foot hairs at the same time. Us halflings are pretty smart really.*

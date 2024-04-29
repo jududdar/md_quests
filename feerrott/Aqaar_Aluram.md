@@ -82,7 +82,7 @@ end
 
 
 
-if (  **You turn in:** [Phobonomicon of Thul Tae Ew](/item/8720)
+if (  **You turn in:** [Phobonomicon of Thul Tae Ew](/item/8720) ) then
 
 
 >**Aqaar Aluram says:** Thank you for returning this to us. I'll secure it until it can be returned for analysis. Please take this as a sign of my appreciation.

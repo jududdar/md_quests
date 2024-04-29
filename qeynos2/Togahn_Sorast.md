@@ -282,7 +282,7 @@ local text2 = "Good work, Soandso, your task is almost completed.";
 
 
 
-if **Faction** >= Amiable +175 and  **You turn in:** [Orange Headband](/item/10112), [Head of Ghanex Drah](/item/13165), [Dareb's Skull](/item/13166), [Head of Shen](/item/13167)
+if **Faction** >= Amiable +175 and  **You turn in:** [Orange Headband](/item/10112), [Head of Ghanex Drah](/item/13165), [Dareb's Skull](/item/13166), [Head of Shen](/item/13167)) then
 
 
 >**Togahn Sorast says:** We are deeply honored to have such great warrior as part of our Clan. With a proper burial, Shen and Dareb's souls will finally be at peace, and with the death of that vile Ghanex, the plains will be much safer for travelers. It is a great honor to present you, Soandso, with the red headband of the Silent Fist Clan.
@@ -301,7 +301,7 @@ if **Faction** >= Amiable +175 and  **You turn in:** [Orange Headband](/item/101
 
 
 
-elseif **Faction** >= Amiable +250 and  **You turn in:** [Red Headband](/item/10113), [Skull of Jhen\`Tra](/item/13168), [Dagger of Marnek](/item/13169), [Zaharns Coronet](/item/3000)
+elseif **Faction** >= Amiable +250 and  **You turn in:** [Red Headband](/item/10113), [Skull of Jhen\`Tra](/item/13168), [Dagger of Marnek](/item/13169), [Zaharns Coronet](/item/3000)) then
 
 
 >**Togahn Sorast says:** In honor of your recent acts of courage and dedication, I reward you, Soandso, with the purple headband of the Silent Fist Clan.

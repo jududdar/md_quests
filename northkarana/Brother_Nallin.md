@@ -73,7 +73,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Water Flask](/item/13006), [Water Flask](/item/13006), [Water Flask](/item/13006), [Water Flask](/item/13006)
+if **Faction** >= Indifferent and  **You turn in:** [Water Flask](/item/13006), [Water Flask](/item/13006), [Water Flask](/item/13006), [Water Flask](/item/13006)) then
 
 
 >**Brother Nallin says:** May Rodcet Nife breathe upon your body and soul and banish the evil from within.
@@ -81,7 +81,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Water Flask](/item/13006), 
 
 **Brother Nallin casts:** [Cure Poison](/spell/203) on target.
 
-elseif **Faction** >= Indifferent and  **You turn in:** gold = 5
+elseif **Faction** >= Indifferent and  **You turn in:** gold = 5) then
 
 
 >**Brother Nallin says:** May Rodcet Nife breathe upon your body and soul and banish the evil from within.

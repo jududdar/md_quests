@@ -35,7 +35,7 @@ end
 
 
 
-if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet of Marr](/item/20606) 
+if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet of Marr](/item/20606)  ) then 
 
 
 >*A Wandering Spirit quickly grabs the amulet and crescent symbol before speaking. 'At long last! I can now rest in peace along with my fellow brethren. Thank you Soandso. May the might of Marr follow you wherever you may go.'*

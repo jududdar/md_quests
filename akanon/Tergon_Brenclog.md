@@ -176,7 +176,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Iron Pellet](/item/13333)
+if **Faction** >= Amiable and  **You turn in:** [Iron Pellet](/item/13333)) then
 
 
 >**Tergon Brenclog says:** So, you have survived. There is no doubt in my mind that you achieved this solely with your own powers. Only a dim one requires the assistance of others. Take this. May it help you in your pursuit of greatness. [Further tasks] may bring you to that point.
@@ -199,7 +199,7 @@ if **Faction** >= Amiable and  **You turn in:** [Iron Pellet](/item/13333)
 
  **You receive:** eq.ChooseRandom( [Spell: Elementaling: Air](/item/15400), [Spell: Elementaling: Earth](/item/15397), [Spell: Elementaling: Fire](/item/15399), [Spell: Elementaling: Water](/item/15398), [Spell: Elementalkin: Air](/item/15317), [Spell: Elementalkin: Earth](/item/15058)) (+150 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Tergon's Spellbook](/item/13387)
+elseif **Faction** >= Amiable and  **You turn in:** [Tergon's Spellbook](/item/13387)) then
 
 
 >**Tergon Brenclog says:** You have done well. I did not expect you for weeks. It is good to have my spellbook returned. It was a simple task. Now I have news of a larger matter. It has to do with a [defector].
@@ -222,7 +222,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Tergon's Spellbook](/item/1
 
  **You receive:**  [Spell: Elementaling: Fire](/item/15399) (+150 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Teir\`Dal Head](/item/13388)
+elseif **Faction** >= Indifferent and  **You turn in:** [Teir\`Dal Head](/item/13388)) then
 
 
 >**Tergon Brenclog says:** The Elemental Grimoire contains the knowledge which will advance your techniques in research. With it you shall learn to research spells and scribe them for your own spellbook.

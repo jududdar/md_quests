@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Velium Focus](/item/1693)
+if( **You turn in:** [Velium Focus](/item/1693)) then
 
 
 >*a geonid seems as if it doesn't recognize you as anything of importance. You attempt to speak with the geonid through your velium focus but all you are able to hear is the same though over and over.., Eat. You have gained no knowledge from these creatures but you notice your focus has been altered slightly.*

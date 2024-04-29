@@ -81,133 +81,120 @@ end
 
 
 
-local bloodling = 0;
 
 
 
 
-
-if **You turn in:** [Bloodling Plate Helm](/item/30646)
-
-
-bloodling =  [Bloodling Plate Helm](/item/30646); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Mask](/item/30647)
-
-
-bloodling =  [Bloodling Plate Mask](/item/30647); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Gorget](/item/30648)
-
-
-bloodling =  [Bloodling Plate Gorget](/item/30648); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Mail](/item/30649)
-
-
-bloodling =  [Bloodling Plate Mail](/item/30649); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Mantle](/item/30650)
-
-
-bloodling =  [Bloodling Plate Mantle](/item/30650); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Cloak](/item/30651)
-
-
-bloodling =  [Bloodling Plate Cloak](/item/30651); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Belt](/item/30652)
-
-
-bloodling =  [Bloodling Plate Belt](/item/30652); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Sleeves](/item/30653)
-
-
-bloodling =  [Bloodling Plate Sleeves](/item/30653); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Bracer](/item/30654)
-
-
-bloodling =  [Bloodling Plate Bracer](/item/30654); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Gauntlets](/item/30655)
-
-
-bloodling =  [Bloodling Plate Gauntlets](/item/30655); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Leggings](/item/30656)
-
-
-bloodling =  [Bloodling Plate Leggings](/item/30656); 
-
-
-vah_armor = 1;
-
-elseif **You turn in:** [Bloodling Plate Boots](/item/30657)
-
-
-bloodling =  [Bloodling Plate Boots](/item/30657); 
-
-
-vah_armor = 1;
-
-if(vah_armor == 1) then
+if( **You turn in:** [Bloodling Plate Helm](/item/30646)) then
 
 
 >**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Bloodling Plate Helm](/item/30646), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Mask](/item/30647)) then
 
 
-vah_armor = 0;
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Mask](/item/30647), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Gorget](/item/30648)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Gorget](/item/30648), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Mail](/item/30649)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Mail](/item/30649), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Mantle](/item/30650)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Mantle](/item/30650), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Cloak](/item/30651)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Cloak](/item/30651), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Belt](/item/30652)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Belt](/item/30652), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Sleeves](/item/30653)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Sleeves](/item/30653), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Bracer](/item/30654)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Bracer](/item/30654), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Gauntlets](/item/30655)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Gauntlets](/item/30655), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Leggings](/item/30656)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Leggings](/item/30656), [Vah Shir Apprentice Mallet](/item/29802)) 
+
+elseif( **You turn in:** [Bloodling Plate Boots](/item/30657)) then
+
+
+>**Master Barkhem says:** I knew that old thing would make a fine bit of armor in the right hands. Talent like yours should not go to waste! Take this, it is the mallet that I used to smith my very first bit, you can learn with it until you earn something better. Here is your first lesson Soandso, use this mallet to pound out the dents in the guard's shields. The ones guarding the bridges into town will need it most, as they can not leave their posts. Show each guard a [repair order] and have them sign off on it when you are through.
+
+
+ **You receive:** GiveAll( [Bloodling Plate Boots](/item/30657), [Vah Shir Apprentice Mallet](/item/29802)) 
 
 
 
-if **You turn in:** [Bloodling Shield](/item/30658), [Bloodling Shield](/item/30658)
+if( **You turn in:** [Bloodling Shield](/item/30658), [Bloodling Shield](/item/30658)) then
 
 
 >*Master Barkhem smiles and nods his head in approval before speaking. 'This is some quality work my friend. Although you could use some practice in your style, I can sense true potential in your smithing skills. This was too large for me to use for a shield, but I think you can craft it into some fairly good armor. Just treat it in a forge with nepeta oil and the proper mold, the oil should soften it up enough to become pliable. Once fired in the forge it will harden to the mold. I'd love to see how It turns out.'*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [A Bloodling Carapace Plate](/item/30664), [A Bloodling Carapace Plate](/item/30664)) 
 
 
 
 
-elseif **You turn in:** [Kobys work order](/item/29806), [Jasirs work order](/item/29809), [Aihjins work order](/item/29812), [Bokhs work order](/item/29815)
+elseif( **You turn in:** [Kobys work order](/item/29806), [Jasirs work order](/item/29809), [Aihjins work order](/item/29812), [Bokhs work order](/item/29815)) then
 
 
 >*Master Barkhem shuffles through the work orders. 'Well they have some lovely things to say about your work!'*
@@ -229,7 +216,7 @@ elseif **You turn in:** [Kobys work order](/item/29806), [Jasirs work order](/it
 
 
 
-elseif **You turn in:** [Vah Shir Apprentice Mallet](/item/29802), [Box of Shadow Disks](/item/29819)
+elseif( **You turn in:** [Vah Shir Apprentice Mallet](/item/29802), [Box of Shadow Disks](/item/29819)) then
 
 
 >**Master Barkhem says:** Well done, Soandso! I trust you are beginning to see the power that shadow can grant you. Now it is time for you to learn to manipulate sound. Here is your very own mallet, use it to form the substance of sound into tangible matter. Pound yourself out a few humming orbs and I'll know you're ready to combine shadow and sound into a precarious balance of forces.
@@ -244,7 +231,7 @@ elseif **You turn in:** [Vah Shir Apprentice Mallet](/item/29802), [Box of Shado
 
 
 
-elseif **You turn in:** [Luclinite Mallet](/item/29820), [Humming Orb](/item/29823), [Humming Orb](/item/29823), [Humming Orb](/item/29823)
+elseif( **You turn in:** [Luclinite Mallet](/item/29820), [Humming Orb](/item/29823), [Humming Orb](/item/29823), [Humming Orb](/item/29823)) then
 
 
 >*Master Barkhem looks genuinely pleased with your craftsmanship. He sets down one of the orbs onto a special anvil and swings your mallet high in the air crashing it down on the orb causing it to shatter with a terrible shriek. He repeats this action with each of the remaining orbs and hands you back the now humming mallet. 'Here, Soandso, this mallet will enable you to combine shadow with sound. Smith wisely and be careful what you create with it,' Barkhem pauses, looking quite serious, 'it is very powerful. You'll be able to make Shadowscream steel with it.'*
@@ -257,7 +244,7 @@ elseif **You turn in:** [Luclinite Mallet](/item/29820), [Humming Orb](/item/298
 
 
 
-elseif **You turn in:** [Rakutah's Seal](/item/29826)
+elseif( **You turn in:** [Rakutah's Seal](/item/29826)) then
 
 
 >**Master Barkhem says:** Back already, Soandso? I've only just sent you out and you've finished your very first professional job, well done! I'm very proud of your progression! My wife and I have made you a pair of greaves that I'm sure you'll love to wear. Take them as a reward on a job well done. I have pressing matters that require my attention right now, or else I'd teach you more about the powers of shadow and sound. Experiment with the Shadowscream steel until I can teach you more.

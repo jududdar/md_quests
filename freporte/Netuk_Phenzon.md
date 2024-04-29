@@ -46,7 +46,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A tattered flier](/item/18818)
+if **Faction** >= Amiable and  **You turn in:** [A tattered flier](/item/18818)) then 
 
 
 >**Netuk Phenzon says:** It is about time you returned! Innoruuk would be proud of the red you have spread upon the land.

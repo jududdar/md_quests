@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [An old worn Talisman](/item/1861), [Head of the Taskmaster](/item/1862)
+if( **You turn in:** [An old worn Talisman](/item/1861), [Head of the Taskmaster](/item/1862)) then
 
 
 if( **Faction is** >= Kindly) then

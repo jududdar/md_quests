@@ -98,7 +98,7 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Valley Spiritling Stone](/item/6970), [Jungle Spiritling Stone](/item/6971), [Mountain Spiritling Stone](/item/6972)
+if **Faction** >= Dubious +300 and  **You turn in:** [Valley Spiritling Stone](/item/6970), [Jungle Spiritling Stone](/item/6971), [Mountain Spiritling Stone](/item/6972)) then 
 
 
 >*Saemey Wirewhisker grinds the spiritling stones in a mortar and pestle with foreign runes scratched into the ceramic. 'This powder will assist in matters concerning the contacting or freeing of spirits.'*
@@ -110,9 +110,9 @@ if **Faction** >= Dubious +300 and  **You turn in:** [Valley Spiritling Stone](/
 * __Faction:__ [Peace Keepers](/faction/298) (1)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Kejek Spirit Powder](/item/6980),eq.ChooseRandom(0, [Kejek Spirit Powder](/item/6980)) 
 
-elseif **Faction** >= Dubious +300 and  **You turn in:** [Kejek Spirit Powder](/item/6980), [Soul Orb](/item/6977)
+elseif **Faction** >= Dubious +300 and  **You turn in:** [Kejek Spirit Powder](/item/6980), [Soul Orb](/item/6977)) then 
 
 
 >**Saemey Wirewhisker says:** I require a Soul Orb and Kejek Spirit Dust in order to perform the ritual that will free the imprisoned souls.

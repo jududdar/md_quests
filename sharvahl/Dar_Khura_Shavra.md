@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [A Frosted Claw](/item/30961)
+if( **You turn in:** [A Frosted Claw](/item/30961)) then
 
 
 >**Dar Khura Shavra says:** Oh Soandso! This is a whisperling. and she is beautiful! You must find a way to free her of this anchor. Take her to Ragnar. he may know what to do. Let me put her in this bag to keep her safe for now.

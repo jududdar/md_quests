@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Innoruuk's Kiss of Death](/item/13121)
+if( **You turn in:** [Innoruuk's Kiss of Death](/item/13121)) then
 
 
 >**Sinnkin Highbrow says:** It's about time you figured it out, genius! Maybe you should spend more time in the library. Here, take this tonic and get out of here before they see me giving it to you and turn us both inside out.

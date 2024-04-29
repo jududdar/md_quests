@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [Blood Stained Note](/item/18721)
+if( **You turn in:** [Blood Stained Note](/item/18721)) then 
 
 
 >**Lyris Moonbane says:** So, you wish to to walk with the dead, eh? The army of the Plaguebringer is quietly amassing its diseased soldiers in the shadows and sewers of Norrath. Go to Brother Bruax. He will turn you into something useful, I hope.
@@ -61,7 +61,7 @@ if **You turn in:** [Blood Stained Note](/item/18721)
 
  **You receive:**  [Dark Stained Purple Robe*](/item/13552) (+20 exp)
 
-elseif **You turn in:** [Heavy Locked Chest](/item/1792)
+elseif( **You turn in:** [Heavy Locked Chest](/item/1792)) then 
 
 
 >*Lyris Moonbane examines the lock on the chest and pulls a black key from a pouch at her hip. The lock clicks open. Her eyes widen as she carefully opens the chest, revealing a pile of platinum coins and a small note. After admiring the coins she takes the note and reads it. The necromancer glances up, then at her spectral pet who then hands you a glass jar. She says, 'Are you ready for your first [assignment], " .. e.other:Race() .. "?*
@@ -69,7 +69,7 @@ elseif **You turn in:** [Heavy Locked Chest](/item/1792)
 
  **You receive:**  [Thick Glass Jar](/item/17060) 
 
-elseif **You turn in:** [Sealed Jar](/item/1795)
+elseif( **You turn in:** [Sealed Jar](/item/1795)) then 
 
 
 >*Lyris Moonbane 's eyes light up with childish glee as she takes the jar containing the disgusting and deadly substance. From her pouch she removes a gob of putty and a gem carved into the likeness of a flying insect. After sticking the putty to the lid of the jar, she mashes the carved gem into the putty and hands the jar back to you. She then says, 'This is enchant the substance. You must then [deliver] the substance.*

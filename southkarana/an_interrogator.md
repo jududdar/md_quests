@@ -8,7 +8,7 @@ local name;
 
 
 
-if **You turn in:** [Interrogators Briefing](/item/18292) 
+if( **You turn in:** [Interrogators Briefing](/item/18292) ) then 
 
 
 >**an interrogator says:** I see you wish to become an interrogator. This is not a duty for the weak of heart you know. This job sometimes requires...
@@ -25,7 +25,7 @@ name = e.other:GetName();
 
 brief = 0;
 
-elseif **You turn in:** [Head of Markus Cachexia](/item/2390), [Head of Morley Murrain](/item/2391), [Theodore's Confession](/item/2395)
+elseif( **You turn in:** [Head of Markus Cachexia](/item/2390), [Head of Morley Murrain](/item/2391), [Theodore's Confession](/item/2395)) then 
 
 
 >**an interrogator says:** Excellent work, you did just fine today. You'll make a fine interrogator. Talk to Vegalys about advancing further.

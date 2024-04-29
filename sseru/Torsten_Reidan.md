@@ -29,15 +29,15 @@ end
 
 
 
-if **You turn in:** [Bixie Charm](/item/29852)
+if( **You turn in:** [Bixie Charm](/item/29852)) then
 
 
 >**Torsten Reidan says:** Bregun is still alive!? Amazing, I thought in his fragile state he wouldn't last long in Marus Seru or the Lair of the Netherbians for that matter. Here before anyone hears us talking, take this note to him. I believe he was onto something big and I must know what it was.
 
 
- **You receive:** None 
+ **You receive:**  [Sealed Note to Bregun](/item/29853) 
 
-elseif **You turn in:** [Breguns Directions](/item/29854)
+elseif( **You turn in:** [Breguns Directions](/item/29854)) then
 
 
 >*Torsten Reidan pulls out a hollow book entitled 'A Detailed Look at Etiquette and Proper Grammar' and opens it to find a journal placed inside. 'This is astounding. The information in this journal is invaluable and must be brought to the others attention. Take this insignia. When you are ready to help us further seek out Euzan Jurek, tell him you were sent by me, and he will tell you what you can do to further our cause. I can not tell you more than this, but keep the insignia close to you for now.'*
@@ -70,7 +70,7 @@ elseif **You turn in:** [Breguns Directions](/item/29854)
 * __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Insignia Earring of Veracity](/item/29857) 
 
 **This NPC *should* return incorrect items given.**
 

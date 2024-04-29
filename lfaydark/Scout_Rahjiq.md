@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Official Seal of the Khati Sha](/item/9031)
+if( **You turn in:** [Official Seal of the Khati Sha](/item/9031)) then
 
 
 >**Scout Rahjiq says:** Keep your head down, mate! The spirit that you have come for is very close. I have spotted it several times today. It keeps appearing near that odd structure just over the hill. Be careful not to attract the attention of those invisible creatures that roam near the structure. Just release the spirit and return the totem to me. I'll prepare the totem for placement in the container that you were given.

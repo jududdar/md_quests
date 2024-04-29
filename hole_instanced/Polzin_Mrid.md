@@ -49,15 +49,18 @@ end
 
 
 
-if **You turn in:** [Jeb's Seal](/item/10604)
+if( **You turn in:** [Jeb's Seal](/item/10604)) then 
 
 
 >**Polzin Mrid says:** Jeb has spoken with you already, excellent. Tell me are you ready for the test of the phantasm?
 
 
- **You receive:** None 
+ **You receive:**  [An Enchanters Sack](/item/17861) 
 
-elseif **You turn in:** [A Sack For Polzin](/item/10638)
+
+ **You receive:**  [Jeb's Seal](/item/10604) 
+
+elseif( **You turn in:** [A Sack For Polzin](/item/10638)) then
 
 
 >**Polzin Mrid says:** You have done well, take this last piece and return them to Jeb. He will be able to complete the final crafting.

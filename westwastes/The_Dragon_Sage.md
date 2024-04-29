@@ -59,7 +59,7 @@ end
 
 
 
-if **You turn in:** [Giant Scalebound Tome](/item/1783)
+if( **You turn in:** [Giant Scalebound Tome](/item/1783)) then 
 
 
 >*The Dragon Sage takes the guide and immediately begins to scan through it. He then says, 'Ah... Ah yes... According to this book, the dragonbane herb grows only in one place, deep inside the lair of the sirens. If my memory serves me properly one of the creatures there is very fond of its flavor. I will also need the blood of a dragon, but not just any dragon. The blood must come from a beast of Lord Yelinak's bloodline. Please go now and see if you can find this herb and the dragon blood. No time to waste, child. You will need to take this box to contain and combine the herbs and dragon blood in. Once you have accomplished this, please return the box to me.*
@@ -67,7 +67,7 @@ if **You turn in:** [Giant Scalebound Tome](/item/1783)
 
  **You receive:**  [Ornate Reagent Box](/item/17059) 
 
-elseif **You turn in:** [Sealed Reagent Box](/item/1786)
+elseif( **You turn in:** [Sealed Reagent Box](/item/1786)) then 
 
 
 >**The Dragon Sage says:** Ahhh! With the knowledge that I have gained from the Giant Scalebound Tome and these reagents, I can finish my research and create a most powerful spell for you! If successful, I will call it the Porlos' Fury spell. It will cause near fatal wounds to any dragon or dragon kin in Lord Yelinak's bloodline. Take this and study it. The magiks contained within will aid you in your fight. The Dragon Sage hands you the scroll and says, 'You will need a reagent to channel the magical energies through to enhance the power of the spell. Two peridots will be required to cast this spell. I wish you good fortune in your fight.

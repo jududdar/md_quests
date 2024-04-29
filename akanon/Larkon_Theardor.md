@@ -168,7 +168,7 @@ local text1 = "I believe I called for FOUR basilisk tongues.";
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Minotaur Horn](/item/13077), [Minotaur Horn](/item/13077)
+if **Faction** >= Apprehensive and  **You turn in:** [Minotaur Horn](/item/13077), [Minotaur Horn](/item/13077)) then 
 
 
 >**Larkon Theardor says:** Fine work. You have earned the respect of the Library. Here is a small token of our appreciation. We shall have this ground down as soon as we find someone to go to Kaladim.
@@ -195,7 +195,7 @@ if **Faction** >= Apprehensive and  **You turn in:** [Minotaur Horn](/item/13077
 
  **You receive:** 0 (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Air Tight Box](/item/13271)
+elseif **Faction** >= Amiable and  **You turn in:** [Air Tight Box](/item/13271)) then 
 
 
 >**Larkon Theardor says:** Whew! What smells of rotting disease? Oh... It's you. I see you've gathered all the diseased livers. I shall have them incinerated in the scrapyard. The only reason we do this is to keep the Dark Reflection from using these components in their black arts. Take this. I hope you use it wisely. Oh, and... take a bath. You stink!
@@ -222,7 +222,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Air Tight Box](/item/13271)
 
  **You receive:**  [Turquoise](/item/10017) (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160)
+elseif **Faction** >= Amiable and  **You turn in:** [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160)) then 
 
 
 >**Larkon Theardor says:** Very very good! I can use these in some of our experiments. These tongues are hard to come by and more than a few of our scouts have been turned to stone because of these creatures, but I'm sure you found that out by now, eh?
@@ -249,7 +249,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Basilisk Tongue](/item/1216
 
  **You receive:** eq.ChooseRandom( [Spell: True North](/item/15205), [Spell: Summon Drink](/item/15211), [Spell: Minor Shielding](/item/15288), [Spell: Flare](/item/15310), [Spell: Summon Dagger](/item/15311), [Spell: Fire Flux](/item/15313), [Spell: Reclaim Energy](/item/15331), [Spell: Summon Food](/item/15050), [Spell: Burst of Flame](/item/15093), [Spell: Elementalkin: Water](/item/15315), [Spell: Elementalkin: Fire](/item/15316), [Spell: Elementalkin: Earth](/item/15058), [Spell: Elementalkin: Air](/item/15317), [Spell: Summon Bandages](/item/15318), [Spell: Gate](/item/15036), [Spell: Burn](/item/15094), [Spell: Lesser Shielding](/item/15246), [Spell: Flame Bolt](/item/15322), [Spell: Eye of Zomm](/item/15323), [Spell: Dimensional Pocket](/item/15325), [Spell: Renew Elements](/item/15851), [Spell: Shock of Blades](/item/15324), [Spell: Shield of Fire](/item/15332), [Spell: Elementaling: Air](/item/15400), [Spell: Elementaling: Fire](/item/15399), [Spell: Elementaling: Water](/item/15398), [Spell: Invisibility](/item/15042), [Spell: Staff of Tracing](/item/15613)) (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bozinite Pestle](/item/13272)
+elseif **Faction** >= Amiable and  **You turn in:** [Bozinite Pestle](/item/13272)) then 
 
 
 >**Larkon Theardor says:** The Eldritch Collective thanks you. You have done a great service. We need these special bozinite pestles for use with our eldritch mortars. Here is a scroll from our library. Study it and use it wisely.

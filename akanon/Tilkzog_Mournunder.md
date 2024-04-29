@@ -141,7 +141,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Winexs Staff](/item/10994)
+if(expansion_flag >= 4.0 and  **You turn in:** [Winexs Staff](/item/10994)) then
 
 
 >**Tilkzog Mournunder says:** It is good to know that one so zealously opposed to the Dark Reflection has been eliminated. Take this Rough Hewn Staff and when you have acquired a Harpies Eye and Pristine Ebon Drakeling Scales take the Staff, Eye, and Scales to Clockwork SmithXIII. The clockwork will put the finishing touches on your new staff.

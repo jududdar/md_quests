@@ -383,7 +383,7 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Black Rawhide Tunic](/item/8763), [Pouch of Polished Jade Stones](/item/8762)
+if **Faction** >= Warmly and  **You turn in:** [Black Rawhide Tunic](/item/8763), [Pouch of Polished Jade Stones](/item/8762)) then 
 
 
 >**Jhaya Wyndrunner says:** Excellent, my friend! Well done indeed. These are exactly what I needed to make the tunic Nolan has requested of you. And. . . thank you for avenging my dear, departed friend. She shall be missed, and it is in her memory that I give you the Jade Studded Tunic. Go now, my friend. Nolan awaits and I am sure that he will be most impressed with your success thus far
@@ -403,7 +403,7 @@ if **Faction** >= Warmly and  **You turn in:** [Black Rawhide Tunic](/item/8763)
 
  **You receive:**  [Jade Studded Rawhide Tunic](/item/8761) (+2000 exp)
 
-elseif **Faction** >= Warmly and  **You turn in:** [Shadowjade Weave](/item/8884), [Blackened Mithril Chain](/item/8885)
+elseif **Faction** >= Warmly and  **You turn in:** [Shadowjade Weave](/item/8884), [Blackened Mithril Chain](/item/8885)) then 
 
 
 >**Jhaya Wyndrunner says:** Excellent, my friend! Well done indeed. These are exactly what I needed to make the circlet. Go now, my friend. Cheyloh awaits and I am sure that he will be most impressed with your success thus far.

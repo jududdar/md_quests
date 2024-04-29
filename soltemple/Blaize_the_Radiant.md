@@ -47,7 +47,7 @@ end
 local text = "Impressive, do you have the rest?";
 
 
-if **You turn in:** [Ingot of the Reliant](/item/19001), [Icon of the Reliant](/item/19002), [Enchanted Platinum Bar](/item/16507)
+if( **You turn in:** [Ingot of the Reliant](/item/19001), [Icon of the Reliant](/item/19002), [Enchanted Platinum Bar](/item/16507)) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!
@@ -55,7 +55,7 @@ if **You turn in:** [Ingot of the Reliant](/item/19001), [Icon of the Reliant](/
 
  **You receive:**  [Boots of the Reliant](/item/4921) (+1000 exp)
 
-elseif **You turn in:** [Ingot of the Penitent](/item/19007), [Icon of the Penitent](/item/19008), [Magnetized Platinum Bar](/item/19049)
+elseif( **You turn in:** [Ingot of the Penitent](/item/19007), [Icon of the Penitent](/item/19008), [Magnetized Platinum Bar](/item/19049)) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!
@@ -63,7 +63,7 @@ elseif **You turn in:** [Ingot of the Penitent](/item/19007), [Icon of the Penit
 
  **You receive:**  [Greaves of the Penitent](/item/4924) (+1000 exp)
 
-elseif **You turn in:** [Ingot of the Ardent](/item/19003), [Icon of the Ardent](/item/19004), [Galvanized Platinum Bar](/item/19047)
+elseif( **You turn in:** [Ingot of the Ardent](/item/19003), [Icon of the Ardent](/item/19004), [Galvanized Platinum Bar](/item/19047)) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!
@@ -71,7 +71,7 @@ elseif **You turn in:** [Ingot of the Ardent](/item/19003), [Icon of the Ardent]
 
  **You receive:**  [Gauntlets of the Ardent](/item/4922) (+1000 exp)
 
-elseif **You turn in:** [Ingot of the Fervent](/item/19005), [Icon of the Fervent](/item/19006), [Vulcanized Platinum Bar](/item/19048)
+elseif( **You turn in:** [Ingot of the Fervent](/item/19005), [Icon of the Fervent](/item/19006), [Vulcanized Platinum Bar](/item/19048)) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!

@@ -65,7 +65,7 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Planar Blood Brew](/item/28787), [Planar Traveler's Manual](/item/28745)
+if(**Your level** > 19 and  **You turn in:** [Planar Blood Brew](/item/28787), [Planar Traveler's Manual](/item/28745)) then 
 
 
 >**Zauvudd Gigoth says:** Wow, this is great! Wow! This is may be the best Planar Blood Brew I have ever tasted! You have passed the first test with flying colors. Here, you take this book and learn well from it. When you are ready for your next lesson, speak to Xasri Virek.

@@ -74,7 +74,7 @@ end
 
 
 
-if **You turn in:** [Tattered Note](/item/18884)
+if( **You turn in:** [Tattered Note](/item/18884) or  **You turn in:** [A Sealed Letter](/item/18886)) then
 
 
 >**Marda says:** I see you finally decided to return. Hmmm. What is this? Those little hoppers have done well. What!! So the troll scum have been aiding our foes, the lizards!! The lizard mystics are trained by this troll shaman called Zimbittle. Find him!! Kill him. Bring me his shaman pouch!! Now!!
@@ -83,14 +83,14 @@ if **You turn in:** [Tattered Note](/item/18884)
 * __Faction:__ [Shamen of War](/faction/394) (10)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Endure Disease](/item/15226), [Spell: Spirit of Bear](/item/15279), [Spell: Summon Drink](/item/15211)) (+50 exp)
 
-elseif **You turn in:** [A Sealed Letter](/item/18886)
+elseif( **You turn in:** [A Sealed Letter](/item/18886)) then
 
 
 >**Marda says:** I see you finally decided to return. Hmmm. What is this? This troll called Zimbittle. Find her! Kill her. Bring me proof she dead!
 
-elseif **You turn in:** [A Tattered Cloth Note](/item/18885)
+elseif( **You turn in:** [A Tattered Cloth Note](/item/18885)) then
 
 
 >**Marda says:** What is this? More information? There seems to be a larger plan in the making. B'Dynn sounds like a Dark Elf name. I do no like the sound of this.  You must go quickly to North Ro.  Find this Dark Elf.  Find out what he knows.  any way you can.
@@ -99,9 +99,9 @@ elseif **You turn in:** [A Tattered Cloth Note](/item/18885)
 * __Faction:__ [Shamen of War](/faction/394) (20)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Endure Disease](/item/15226), [Spell: Spirit of Bear](/item/15279), [Spell: Summon Drink](/item/15211)) (+100 exp)
 
-elseif **You turn in:** [Zimbittles Pouch](/item/17929)
+elseif( **You turn in:** [Zimbittles Pouch](/item/17929)) then
 
 
 >**Marda says:** Ahhh!! Good work. You are a bright one. Now let us see if you can master this spell. Learn it well and may it bring you much glory.
@@ -110,6 +110,6 @@ elseif **You turn in:** [Zimbittles Pouch](/item/17929)
 * __Faction:__ [Shamen of War](/faction/394) (25)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Endure Disease](/item/15226), [Spell: Spirit of Bear](/item/15279), [Spell: Summon Drink](/item/15211)) (+150 exp)
 
 **This NPC *should* return incorrect items given.**

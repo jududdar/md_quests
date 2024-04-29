@@ -28,7 +28,7 @@ end
 if( **Faction is** >= Indifferent) then
 
 
-if **You turn in:** [Blessed Silver Wand](/item/6339),gold = 50
+if( **You turn in:** [Blessed Silver Wand](/item/6339),gold = 50) then
 
 
 
@@ -39,7 +39,7 @@ if **You turn in:** [Blessed Silver Wand](/item/6339),gold = 50
  **You receive:**  [Glowing Silver Wand](/item/6340) (+1000 exp)
 
 
-elseif **You turn in:** [Gleaming Coin of Tash](/item/10792)
+elseif( **You turn in:** [Gleaming Coin of Tash](/item/10792)) then
 
 
 

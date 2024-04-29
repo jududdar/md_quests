@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18715)
+if( **You turn in:** [A tattered note](/item/18715)) then 
 
 
 >**Renic Losaren says:** Welcome, friend, to the Temple of Thunder. Here, you can practice your skills and learn the ways of Karana. Take this tunic and wear it with pride, for you are now a Priest of Thunder. Guild Trainer Daedet Losaren will begin your tutoring, see him when you are ready.

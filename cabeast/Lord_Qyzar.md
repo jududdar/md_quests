@@ -166,7 +166,7 @@ local text3 = "I am saddened by your failure to procure the visceral dagger and 
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Chalp Diagram](/item/12496), [Knight's Khukri](/item/5123)
+if **Faction** >= Amiable and  **You turn in:** [Chalp Diagram](/item/12496), [Knight's Khukri](/item/5123)) then 
 
 
 >**Lord Qyzar says:** At last!! The Chalp diagram. I shall see that the emperor gets this at once. You have proven yourself more than just a mere knight, you are a zealot. Being new to the temple we have need of you in a [matter of betrayal].
@@ -180,7 +180,7 @@ if **Faction** >= Amiable and  **You turn in:** [Chalp Diagram](/item/12496), [K
 
  **You receive:**  [Zealot's Khukri](/item/5124) (+1600 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Charasis Tome Copy](/item/1730), [Zealot's Khukri](/item/5124), [Charasis Tome](/item/1729)
+elseif **Faction** >= Amiable and  **You turn in:** [Charasis Tome Copy](/item/1730), [Zealot's Khukri](/item/5124), [Charasis Tome](/item/1729)) then 
 
 
 >**Lord Qyzar says:** Congratulations! You are now a true crusader, but there is no time for celebration. We have lost two of our operatives. Crusaders Golin and Fodcod were dispatched to seek out an ancient artifact, the [visceral dagger]. Where they have gone, I do not know. They have been gone far too long. Find them and return the dagger to me with your crusader khukri and you shall be a hero.
@@ -194,7 +194,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Charasis Tome Copy](/item/1
 
  **You receive:**  [Crusader's Khukri](/item/5125) (+2000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [The Visceral Dagger](/item/7324), [Crusader's Khukri](/item/5125)
+elseif **Faction** >= Amiable and  **You turn in:** [The Visceral Dagger](/item/7324), [Crusader's Khukri](/item/5125)) then 
 
 
 >*Lord Qyzar gazes in astonishment at the dagger. 'Ahhh!! You have brought the sacred visceral dagger back to the Temple of Terror. Let all be aware that the great Soandso has returned to Cabilis a hero!! You now wield the weapon of a hero. Hail, Soandso, hero of the Crusaders of Greenmist.*

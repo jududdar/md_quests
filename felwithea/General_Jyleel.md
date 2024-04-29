@@ -120,7 +120,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Illegible Scroll](/item/13225)
+if **Faction** >= Amiable and  **You turn in:** [Illegible Scroll](/item/13225)) then
 
 
 >**General Jyleel says:** Very fine work. A pity you are not Koada'Vie. Here is a small reward for you. Anytime you come upon an oracle. remember to return its scroll to me. Go and find your fate on the field of battle.
@@ -149,7 +149,7 @@ else
  **You receive:** eq.ChooseRandom( [Spell: Pillage Enchantment](/item/15025), [Spell: Brilliance](/item/15033), [Spell: Plague](/item/15032), [Spell: Minor Conjuration: Air](/item/15623)) (+500 exp)
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)
+elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)) then
 
 
 >**General Jyleel says:** So, you succeeded in stopping a Crushbone runner! That is good. Now take this as reward. Keep up your fine work. The people of Felwithe are grateful.
@@ -179,7 +179,7 @@ else
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18840)
+elseif **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18840)) then
 
 
 >**General Jyleel says:** So, the Teir'Dal are behind the recent advances of the orcs?!! Your news has shed light on their union. It is time to step forth and prove yourself a [faithful paladin of this court].
@@ -196,7 +196,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/1884
 
  **You receive:** 0 (+1000 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [A Large Locked Crate](/item/12330), [Blue Orc Head](/item/12329), [Black Heart](/item/13227)
+elseif **Faction** >= Amiable +100 and  **You turn in:** [A Large Locked Crate](/item/12330), [Blue Orc Head](/item/12329), [Black Heart](/item/13227)) then 
 
 
 >**General Jyleel says:** A noble deed has been done and the alliance of evil has been stalled. I present you with the falchion of the Koada\`Vie. You are now an honorable member of our order. Hail Felwithe, and may you defender her with honor.

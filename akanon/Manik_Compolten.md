@@ -137,7 +137,7 @@ local text1 = "There are a total of four C series clockworks.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13208), [Rusted Blackbox](/item/13208)
+if **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13208), [Rusted Blackbox](/item/13208)) then
 
 
 >**Manik Compolten says:** Excellent work! You were born to be a warrior. Here is a little bonus for the good job.
@@ -171,7 +171,7 @@ if **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13208), 
 
  **You receive:** None 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Blackbox XIIC](/item/13212), [Blackbox XXVIC](/item/13211), [Blackbox XVIIC](/item/13213), [Blackbox XXVIIC](/item/13214)
+elseif **Faction** >= Amiable and  **You turn in:** [Blackbox XIIC](/item/13212), [Blackbox XXVIC](/item/13211), [Blackbox XVIIC](/item/13213), [Blackbox XXVIIC](/item/13214)) then
 
 
 >**Manik Compolten says:** Ah!! I see you had no problem finding all of the C series clockworks. Good work. Here. Take this blackbox. We received it from Clockwork 27C. Take it to Jogl Doobraugh. He is the operator of the only blackbox definer in Ak'Anon. He is out at the windmills checking on their operation.
@@ -205,7 +205,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Blackbox XIIC](/item/13212)
 
  **You receive:**  [Blackbox XXVIIC](/item/13209) 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13215)
+elseif **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13215)) then
 
 
 >**Manik Compolten says:** This is fabulous news!! You have done well, young one. Once you are ready for [further instruction] please let me know, I will guide you through your early most dangerous days. When you have become more experienced in our art, I wil be able to further instruct you on how to progress through your early ranks, as well as in some various [trades] you will have available to you.

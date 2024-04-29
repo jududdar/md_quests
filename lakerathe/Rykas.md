@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Words of Magi\`kot](/item/28003), [Words of Mastery](/item/28004), [Power of the Elements](/item/28031)
+if( **You turn in:** [Words of Magi\`kot](/item/28003), [Words of Mastery](/item/28004), [Power of the Elements](/item/28031)) then
 
 
 >**Rykas says:** I see that you have completed the quest I laid before you. That speaks well of your dedication, yet you do not realize your journey has just begun. Study this tome.

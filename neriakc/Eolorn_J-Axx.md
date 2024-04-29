@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18752)
+if( **You turn in:** [A tattered note](/item/18752)) then 
 
 
 >**Eolorn J-Axx says:** You wanna be part of the Ebon Mask, huh? Well, you'll need to impress me. Here's your guild tunic. Go find Hekzin, he'll have some work for you, I'm sure. Don't screw up, kid.  That pretty face of yours would make a fine trophy, got it? Now, quit breathin' my air, and go get some work done.
@@ -50,7 +50,7 @@ if **You turn in:** [A tattered note](/item/18752)
 
  **You receive:**  [Old Black Tunic*](/item/13581) (+20 exp)
 
-elseif **You turn in:** [A Locked Chest](/item/13891)
+elseif( **You turn in:** [A Locked Chest](/item/13891)) then
 
 
 >**Eolorn J-Axx says:** The Hall thanks you. You have performed supremely. We are glad to have you with us. I offer you this, loot from former takes. I hope you can use it.
@@ -71,7 +71,7 @@ elseif **You turn in:** [A Locked Chest](/item/13891)
 * __Faction:__ [Carson McCabe](/faction/329) (-2)
 
 
- **You receive:** None 
+ **You receive:**  [Rusty Dagger](/item/7007) (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

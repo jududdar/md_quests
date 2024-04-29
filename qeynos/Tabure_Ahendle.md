@@ -144,7 +144,7 @@ end
 local text = "I believe I stated that I need four kobold hides to make a rug.";
 
 
-if( **Faction is** >= Amiable and  **You turn in:** [A Blurred Map](/item/13423)
+if( **Faction is** >= Amiable and  **You turn in:** [A Blurred Map](/item/13423)) then 
 
 
 >**Tabure Ahendle says:** The map!! It is all blurred. The ink has run. I shall never be able to decipher it now. Still, I owe you for completion of your mission. May these be of assistance. It is always good for a warrior to be well supplied.
@@ -168,9 +168,9 @@ if( **Faction is** >= Amiable and  **You turn in:** [A Blurred Map](/item/13423)
 * __Faction:__ [Knights of Truth](/faction/281) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Cast-Iron Long Sword](/item/5082), [Buckler](/item/9001), [Rusty Halberd](/item/5024)) (+5000 exp)
 
-elseif( **Faction is** >= Amiable and  **You turn in:** [Kobold Hide](/item/13424), [Kobold Hide](/item/13424), [Kobold Hide](/item/13424), [Kobold Hide](/item/13424)
+elseif( **Faction is** >= Amiable and  **You turn in:** [Kobold Hide](/item/13424), [Kobold Hide](/item/13424), [Kobold Hide](/item/13424), [Kobold Hide](/item/13424)) then
 
 
 >**Tabure Ahendle says:** Incredible!! Such grand tones. It shall make a fine rug. You have shown me that you cannot always judge a book by its cover. You are quite skilled. Would you like to perform a [dangerous task] for me?
@@ -194,7 +194,7 @@ elseif( **Faction is** >= Amiable and  **You turn in:** [Kobold Hide](/item/1342
 * __Faction:__ [Knights of Truth](/faction/281) (4)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Raw-hide Tunic](/item/2140), [Raw-hide Leggings](/item/2147), [Round Shield](/item/9002)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**
 

@@ -69,7 +69,7 @@ end
 
 
 
-if **You turn in:** [Head of Skargus](/item/6476), [Di'zok Signet of Service](/item/5728)
+if( **You turn in:** [Head of Skargus](/item/6476), [Di'zok Signet of Service](/item/5728)) then 
 
 
 >**Herald Telcha says:** Ah hah! You are notworthy indeed amongst the servants of the Sarnak! Perhaps I should have you killed, before your deeds outdo mine.. Hmm.. Guards! Guards! Haha, do not panic menial being, in fact I am most impressed with your service. Here is the ring I promised you in exchange for your efforts.
@@ -95,7 +95,7 @@ eq.delete_global("RegalBandBathezid");
 
  **You receive:**  [Di'zok Signet of Service](/item/5728) 
 
-elseif(( **Faction is** >= Ally) and  **You turn in:** [Regal band of Bathezid](/item/5727)
+elseif(( **Faction is** >= Ally) and  **You turn in:** [Regal band of Bathezid](/item/5727)) then 
 
 
  **You receive:**  [Regal band of Bathezid](/item/5727) 

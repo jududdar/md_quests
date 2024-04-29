@@ -76,7 +76,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Astral Jewel](/item/4494), [Mark of Reliance](/item/5902), [Blessed Water](/item/5903)
+if( **You turn in:** [Astral Jewel](/item/4494), [Mark of Reliance](/item/5902), [Blessed Water](/item/5903)) then 
 
 
 FactionReward(e)
@@ -84,7 +84,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Bracer](/item/3977) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Courage](/item/5891), [White Marble Bowl](/item/5892), [Jagged Reed](/item/5893)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Courage](/item/5891), [White Marble Bowl](/item/5892), [Jagged Reed](/item/5893)) then 
 
 
 FactionReward(e)
@@ -92,7 +92,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Breastplate](/item/3973) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Bravery](/item/5897), [Sunflower Fruit](/item/5898), [Weathered Bundle of Wood](/item/5899)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Bravery](/item/5897), [Sunflower Fruit](/item/5898), [Weathered Bundle of Wood](/item/5899)) then 
 
 
 FactionReward(e)
@@ -100,7 +100,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Greaves](/item/3975) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Valor](/item/5888), [Withered Branch](/item/5889), [Pale Pearl](/item/5890)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Valor](/item/5888), [Withered Branch](/item/5889), [Pale Pearl](/item/5890)) then 
 
 
 FactionReward(e)
@@ -108,7 +108,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Helm](/item/3972) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Daring](/item/5900), [Life Gem](/item/5901)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Daring](/item/5900), [Life Gem](/item/5901)) then 
 
 
 FactionReward(e)
@@ -116,7 +116,7 @@ FactionReward(e)
 
  **You receive:**  [Blessed Knight's Pauldrons](/item/3976) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Righteousness](/item/5894), [Runic Card](/item/5895), [Pristine Ebony Idol](/item/5896)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Righteousness](/item/5894), [Runic Card](/item/5895), [Pristine Ebony Idol](/item/5896)) then 
 
 
 FactionReward(e)

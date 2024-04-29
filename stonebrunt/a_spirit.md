@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Grimy Lance](/item/2100)
+if( **You turn in:** [Grimy Lance](/item/2100)) then 
 
 
 >**a spirit says:** Yes, the lance!' and begins to glow as it draws power from the lance, which now floats in mid air next to the spirit. The form of the spirit expands and takes on a humanoid shape. The air itself then seems to condense about the spirit as bits of matter appear within the glowing form. The bits soon take the shape of bones and ropes of muscle. Within minutes, an emaciated Erudite male stands before you. Despite his frail appearance, he stands upright and strong, a fierce red light burning in his eyes.

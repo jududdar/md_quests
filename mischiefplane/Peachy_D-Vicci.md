@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Funny Money](/item/9504), [Funny Money](/item/9504), [Funny Money](/item/9504), [Funny Money](/item/9504)
+if( **You turn in:** [Funny Money](/item/9504), [Funny Money](/item/9504), [Funny Money](/item/9504), [Funny Money](/item/9504)) then
 
 
 >*Peachy D-Vicci reaches into her satchel and pulls out a small box. 'Here ya go! Enjoy it. Come back soon. Just a warning though, I cant give you a box that you already have. There isn't enough for everyone you know!'*

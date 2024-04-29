@@ -62,7 +62,7 @@ local text = "You must gather all four of the required items in order to receive
 
 
 
-if **You turn in:** [Dark Truth Guild Note](/item/18018)
+if( **You turn in:** [Dark Truth Guild Note](/item/18018)) then 
 
 
 >**Coriante Verisue says:** You are welcomed into the fold.  Now go out, and prove yourself, young one.  You have much to learn about the Dark Truth.
@@ -85,7 +85,7 @@ if **You turn in:** [Dark Truth Guild Note](/item/18018)
 
  **You receive:**  [Dirt Soiled Robe*](/item/13551) (+20 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Bat Wing](/item/13068), [Bat Wing](/item/13068), [Snake Fang](/item/13067), [Snake Fang](/item/13067)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Bat Wing](/item/13068), [Bat Wing](/item/13068), [Snake Fang](/item/13067), [Snake Fang](/item/13067)) then 
 
 
 >**Coriante Verisue says:** Very good, young acolyte. Maintain your diligence in your duties and you will quickly learn the secrets of the Dark Truth.

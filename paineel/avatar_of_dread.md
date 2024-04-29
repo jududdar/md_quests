@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Mundane Shield](/item/14105)
+if( **You turn in:** [Mundane Shield](/item/14105)) then
 
 
 >**avatar of dread says:** Wear this shield imbued with my very essence. Wear it in honor of your great services to our Lord Cazic-Thule!

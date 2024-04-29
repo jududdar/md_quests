@@ -110,7 +110,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Barkeep Compendium](/item/13379)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Barkeep Compendium](/item/13379)) then 
 
 
 >**Clurg says:** Ahhh!! My Barkeep Compendium has been returned!! I am in your debt. I do not like to be in any man's debt. Let me offer you this as payment for your great service. Obtaining my book could not have been a simple task.
@@ -136,7 +136,7 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Barkeep Compendium](/it
 
  **You receive:**  [Stein of Moggok](/item/13380) (+500 exp)
 
-elseif **Faction** >= Indifferent +50 and  **You turn in:** [Ogre Head](/item/13378)
+elseif **Faction** >= Indifferent +50 and  **You turn in:** [Ogre Head](/item/13378)) then 
 
 
 >**Clurg says:** Haha! He shall mix no more Flaming Pungla's! I shall drink from his rotting skull tonight. As for you, take this and call it yours. Consider yourself a friend of Clurg.

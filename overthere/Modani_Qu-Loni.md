@@ -51,15 +51,15 @@ end
 
 
 
-if **You turn in:** [Jeb's Seal](/item/10604)
+if( **You turn in:** [Jeb's Seal](/item/10604)) then 
 
 
 >**Modani Qu-Loni says:** Ah yes, Jeb's seal. The time to craft a Serpent must have come. I will need components collected to craft the first of the pieces. I will also provide you with a sack in which you must combine the items. Are you ready to collect them?
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [An Enchanters Sack](/item/17861), [Jeb's Seal](/item/10604)) 
 
-elseif **You turn in:** [A Sack For Modani](/item/10635)
+elseif( **You turn in:** [A Sack For Modani](/item/10635)) then
 
 
 >**Modani Qu-Loni says:** Excellent, you have done well. Here is the first piece of the staff. Now you must go seek out the second master; he will clear the path for you.

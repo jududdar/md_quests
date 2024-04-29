@@ -85,7 +85,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Padded Cap](/item/31584), [Padded Cape](/item/31589), [Padded Choker](/item/31586), [Padded Cord](/item/31590), [Padded Gloves](/item/31593), [Padded Pants](/item/31594), [Padded Sandals](/item/31595), [Padded Shawl](/item/31588), [Padded Veil](/item/31585), [Padded Wristband](/item/31592)) (+250 exp)
 
 
 
@@ -98,7 +98,7 @@ until gland == 0
 
 
 
-if **You turn in:** [A Bloodling Carapace](/item/30602), [Siver's Claw](/item/30964)
+if( **You turn in:** [A Bloodling Carapace](/item/30602), [Siver's Claw](/item/30964)) then
 
 
 >**Spiritist Ragnar says:** Well done Soandso, I hope it isnt too late.'' Ragnar begins to chant over the carapace and the claw, holding each in opposite hands. A soft light travels from the claw to the carapace as the claw turns to dust. Ragnar opens his eyes and begins to speak, ''It has worked, but all we have done is buy ourselves more time. While you were away, I have been speaking to Master Barkhem. He has a shield frame that can support these carapaces. You will need to craft such a shield by including this carapace and into the frame along with enough to fill each slot. You are doing quite well young Astrall, Siver has grown a little stronger. You can make use of her innate dexterity by weaving this spell.'
@@ -110,9 +110,12 @@ if **You turn in:** [A Bloodling Carapace](/item/30602), [Siver's Claw](/item/30
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Strengthen](/item/15040) 
 
-elseif **You turn in:** [Dull Frostweavers Shield](/item/30965)
+
+ **You receive:**  [A Frosted Carapace](/item/30977) 
+
+elseif( **You turn in:** [Dull Frostweavers Shield](/item/30965)) then
 
 
 >**Spiritist Ragnar says:** Nicely done Soandso. This anchor should be sufficient to keep Siver bound to this realm for a while. She is strong enough to blind your enemies with a bright flash of light now, all you have to do is call on her spirit. I still cannot make complete sense of her thoughts. I think she is trying to tell me of another whisperling entrapped within the crater. Keep an eye open for the whisperling Scorpialis.
@@ -124,9 +127,12 @@ elseif **You turn in:** [Dull Frostweavers Shield](/item/30965)
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Flash of Light](/item/15201) (+1000 exp)
 
-elseif **You turn in:** [A Frosted Bag](/item/30962)
+
+ **You receive:**  [Frostweavers Shield](/item/30966) 
+
+elseif( **You turn in:** [A Frosted Bag](/item/30962)) then
 
 
 >**Spiritist Ragnar says:** Eh? What have we here?'' Ragnar examines the frosted claw carefully. He closes his eyes and begins to chant while holding the claw cupped between his hands. As he opens his eyes he nods at you and begins to speak. ''You have done well to bring her here Astrall. This is a whisperling, her name is Siver. She is very young, so it is hard for me to understand her. From what I gather, she has an important task to fulfill, but I am still unsure what that task may be. Please take her with you for now, I think that is her wish. Perhaps Grawleh will be able to assist us further, and maybe even find a more suitable anchor for her. I think it would be wise to show her to him.

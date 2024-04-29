@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Four Sarnak Heads](/item/12914)
+if( **You turn in:** [Four Sarnak Heads](/item/12914)) then
 
 
 >**Warlord Geot says:** Very good. I cannot see any reason a warrior like you should waste their time on the patrols of a trooper. I shall recommend you for a promotion. I hope the War Baron agrees.
@@ -46,7 +46,7 @@ if **You turn in:** [Four Sarnak Heads](/item/12914)
 
  **You receive:**  [Legionnaire Recommendation](/item/18074) (+2000 exp)
 
-if **You turn in:** [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408)
+if( **You turn in:** [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408)) then
 
 
 >**Warlord Geot says:** Bravo!! You have done well. Here is a small reward. The greater reward is service to the empire.

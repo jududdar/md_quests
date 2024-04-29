@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [A Quill](/item/13051), [A Piece of Parchment](/item/13063), [Rile's Shattered Blade](/item/3888)
+if( **You turn in:** [A Quill](/item/13051), [A Piece of Parchment](/item/13063), [Rile's Shattered Blade](/item/3888)) then 
 
 
 >*Haggle Baron Dalnir stares at the broken blade for some time. After a few moments of studying, the apparition begins to draw and scribble on the parchment. He works with amazing speed as the memories from his past flood from his quill. The diagrams and runes that etch the surface of the parchment begin to glow. The legendary Haggle Baron rolls the parchment and hands it to you. Smiling, he bows deeply and quickly fades away.*

@@ -11,7 +11,7 @@
 if(e.self:GetX() == -1548 and e.self:GetY() == -2559) then
 
 
-if **You turn in:** [A Coin](/item/12691)
+if( **You turn in:** [A Coin](/item/12691)) then 
 
 
 

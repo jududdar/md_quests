@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Tome of Shadows](/item/18522)
+if( **You turn in:** [Tome of Shadows](/item/18522)) then 
 
 
 
@@ -49,7 +49,7 @@ if **You turn in:** [Tome of Shadows](/item/18522)
 
 **Thalik Silenthand despawns.**
 
-elseif **You turn in:** [Silent Strider](/item/18523)
+elseif( **You turn in:** [Silent Strider](/item/18523)) then 
 
 
 >**Thalik Silenthand says:** Farewell.

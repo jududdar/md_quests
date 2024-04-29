@@ -164,7 +164,7 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Head of the Huntsman](/item/25122)
+if **Faction** >= Amiable +300 and  **You turn in:** [Head of the Huntsman](/item/25122)) then 
 
 
 >**Yetarr says:** The death of this one must be causing great strife amoung the Coldain. Your work is greatly appreciated. I wish I could reward you with more, but these boots are among the few things I have to give.
@@ -184,7 +184,7 @@ if **Faction** >= Amiable +300 and  **You turn in:** [Head of the Huntsman](/ite
 
  **You receive:**  [Coldain Skin Boots](/item/25027) (+75000 exp)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Head of the Royal Scribe](/item/25123)
+elseif **Faction** >= Amiable +300 and  **You turn in:** [Head of the Royal Scribe](/item/25123)) then 
 
 
 >**Yetarr says:** Take these gloves and continue to strike fear into the heart of the Coldain.  A daring raid upon Icewell Keep itself deserves no less.

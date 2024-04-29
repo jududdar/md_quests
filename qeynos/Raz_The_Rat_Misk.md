@@ -53,7 +53,7 @@ else
 if **Faction** >= Apprehensive then 
 
 
-if **You turn in:** gold = 5
+if( **You turn in:** gold = 5) then
 
 
 
@@ -90,7 +90,7 @@ if **You turn in:** gold = 5
  **You receive:**  [A Tattered Leather Pouch](/item/17600) 
 
 
-elseif **You turn in:** gold = 3
+elseif( **You turn in:** gold = 3) then
 
 
 

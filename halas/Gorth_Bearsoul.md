@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** platinum = 50
+if( **You turn in:** platinum = 50) then
 
 
 >**Gorth Bearsoul says:** Here ye are.

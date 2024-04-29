@@ -40,7 +40,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Sharp Tooth](/item/6347)
+if **Faction** >= Dubious and  **You turn in:** [Sharp Tooth](/item/6347)) then
 
 
 >**Thalith Mamluk says:** You.. You kill the rats? Errr. Thalith thanks you. Here. Take this. It's good luck charm I've had for years.

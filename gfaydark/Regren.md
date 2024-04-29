@@ -43,7 +43,7 @@ local text = "Impressive, do you have the rest?";
 
 
 
-if **You turn in:** [Recruitment Letter](/item/18782)
+if( **You turn in:** [Recruitment Letter](/item/18782)) then 
 
 
 >**Regren says:** Welcome to the Emerald Warriors. Hmmm, you have a lot of training to do, so let's get started right away. Here's our guild tunic, represent us well, young Soandso.
@@ -63,7 +63,7 @@ if **You turn in:** [Recruitment Letter](/item/18782)
 
  **You receive:**  [Old Green Tunic*](/item/13533) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Ruined Wolf Pelt](/item/13782), [Spiderling Eye](/item/13253), [Bat Fur](/item/13069)
+elseif **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Ruined Wolf Pelt](/item/13782), [Spiderling Eye](/item/13253), [Bat Fur](/item/13069)) then
 
 
 >**Regren says:** Fine work! You are on your way to becoming an adequate combatant.

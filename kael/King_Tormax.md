@@ -148,7 +148,7 @@ end
 
 
 
-if **You turn in:** [Dain Frostreaver's Head](/item/30501)
+if( **You turn in:** [Dain Frostreaver's Head](/item/30501)) then 
 
 
 if( **Faction is** > Threatening) then
@@ -174,7 +174,7 @@ if( **Faction is** > Threatening) then
  **You receive:**  [Belt of Dwarf Slaying](/item/25858) (+500000 exp)
 
 
-elseif **You turn in:** [Yelinak's Head](/item/24984)
+elseif( **You turn in:** [Yelinak's Head](/item/24984)) then 
 
 
 if( **Faction is** > Threatening) then

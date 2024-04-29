@@ -18,12 +18,12 @@ end
 
 
 
-if **You turn in:** [Cloak of the Khati Sha Apprentice](/item/5580), [Small Owlbear Claw](/item/6181), [Small Owlbear Claw](/item/6181)
+if( **You turn in:** [Cloak of the Khati Sha Apprentice](/item/5580), [Small Owlbear Claw](/item/6181), [Small Owlbear Claw](/item/6181)) then
 
 
 >**Jhimis Khadwi says:** 'These claws are very nice! Don't you think they will make splendid earrings? Of course you do! Well, she'd better like them after all of the trouble I had to go through to get them. Here are your dowels. If you need more, I'll have a new crate of them tomorrow. Take care and enjoy... Thank you for shopping with Jhimis!
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Cloak of the Khati Sha Apprentice](/item/5580), [Sinew Stretching Dowels](/item/6138)) 
 
 **This NPC *should* return incorrect items given.**

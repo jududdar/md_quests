@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Snow Griffin Souffle](/item/1428), [Thoridains Napkin](/item/1418)
+if( **You turn in:** [Snow Griffin Souffle](/item/1428), [Thoridains Napkin](/item/1418)) then
 
 
 >**Grand Historian Thoridain says:** My compliments, Soandso, what a wonderful dish! Please accept my personal Seal as a token of my appreciation. May it give you power over your adversaries.

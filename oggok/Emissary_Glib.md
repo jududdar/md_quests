@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [Frog Eye Necklace](/item/13369)
+if( **You turn in:** [Frog Eye Necklace](/item/13369)) then
 
 
 >**Emissary Glib says:** Good work. That is one less troll slayer. My people shall learn of your good deed. Please search for the slayer captain. He must be stopped.
@@ -32,7 +32,7 @@ if **You turn in:** [Frog Eye Necklace](/item/13369)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Frog Eye Necklace](/item/13370)
+elseif( **You turn in:** [Frog Eye Necklace](/item/13370)) then
 
 
 >**Emissary Glib says:** 'Oooh!! .. You have dispatched the slayer captain. It will take them time to reorganize the slayers. During this time the froglok foragers can gather more provisions for Guk. Please take this as a token of my people's appreciation. Your standing with my brethren has grown. As for Marda's information.. within Grobb lies my aide, Groak. He was captured. Tell him Glib sent you.

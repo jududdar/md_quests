@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Tesch Val Compilation](/item/18508)
+if( **You turn in:** [Tesch Val Compilation](/item/18508)) then 
 
 
 

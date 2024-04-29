@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618)
+if( **You turn in:** [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618)) then
 
 
 >**Faer Shahar says:** Thank you friend, you have done an excellent service for our city. Take this and may it help you on your endeavors.

@@ -34,7 +34,7 @@ local text = "Do you have the other requirement?";
 
 
 
-if **You turn in:** [Uncut Hyacinth](/item/10191), platinum = 1000
+if( **You turn in:** [Uncut Hyacinth](/item/10191), platinum = 1000) then
 
 
 >**Darfumpel Zirubbel says:** I have not seen a gem such as this in quite some time! It was not since I dabbled in a bit of necro? Wait? What are you going to use this for? Never mind. I do not wish to know. Here, take your gem and leave!

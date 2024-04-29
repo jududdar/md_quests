@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Satchel of Cazic-Thule](/item/8226), [Flayed Skin Tome](/item/18898), [Flayed Skin Tome](/item/18899)
+if( **You turn in:** [Satchel of Cazic-Thule](/item/8226), [Flayed Skin Tome](/item/18898), [Flayed Skin Tome](/item/18899)) then
 
 
 >*Cazic Thule seems pleased with the amount of pain that you have been able to inflict. Cazic Thule then grabs your hands and begins to infuse them with his power. Your hands burn like they were placed in lava for a moment, then feel cool as ice. You can feel the sheer power flowing through your new weapons of pain.*

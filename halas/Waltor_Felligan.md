@@ -94,7 +94,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Jar of Fungus](/item/13966)
+if( **Faction is** > Indifferent and  **You turn in:** [Jar of Fungus](/item/13966)) then 
 
 
 
@@ -129,9 +129,9 @@ if( **Faction is** > Indifferent and  **You turn in:** [Jar of Fungus](/item/139
 * __Faction:__ [Ebon Mask](/faction/244) (-2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Cure Poison](/item/15203), [Spell: Drowsy](/item/15270), [Spell: Fleeting Fury](/item/15271), [Spell: Frost Rift](/item/15275), [Spell: Gate](/item/15036), [Spell: Sicken](/item/15075), [Spell: Endure Fire](/item/15224), [Spell: Feet like Cat](/item/15269)) (+3000 exp)
 
-elseif **You turn in:** gold = 10
+elseif( **You turn in:** gold = 10) then
 
 
 >**Waltor Felligan says:** The scales have been balanced and the Tribunal has spoken. Yer body shall be saved.
@@ -139,7 +139,7 @@ elseif **You turn in:** gold = 10
 
 **Waltor Felligan casts:** [Light Healing](/spell/17) on target.
 
-elseif **You turn in:** [Mammoth Steaks](/item/13445)
+elseif( **You turn in:** [Mammoth Steaks](/item/13445)) then
 
 
 **Waltor Felligan casts:** [Cure Poison](/spell/203) on target.
@@ -147,7 +147,7 @@ elseif **You turn in:** [Mammoth Steaks](/item/13445)
 
 >**Waltor Felligan says:** The scales have been balanced and the Tribunal has spoken. Yer body shall be saved.
 
-elseif **You turn in:** [Wooly Fungus](/item/13967), [Wooly Fungus](/item/13967)
+elseif( **You turn in:** [Wooly Fungus](/item/13967), [Wooly Fungus](/item/13967)) then
 
 
 **Waltor Felligan casts:** [Cure Disease](/spell/213) on target.

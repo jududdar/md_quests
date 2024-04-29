@@ -17,7 +17,7 @@ end
 ## Turn-Ins
   
   
-  if **You turn in:** [Confession Document](/item/2344)
+  if( **You turn in:** [Confession Document](/item/2344)) then
 
 >*Donally Stultz crumples the document into a ball, throws it to the ground and spits in your face, yelling, 'You are a fool if you really believe I would sign such a thing. Prepare to die!'*
 

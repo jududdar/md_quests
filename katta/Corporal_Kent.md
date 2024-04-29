@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [Full Sonic Receptacle](/item/29842)
+if( **You turn in:** [Full Sonic Receptacle](/item/29842)) then 
 
 
 >**Corporal Kent says:** Well done, Soandso, this should really help keep our costs down. Here, take these, and keep up the good work. Dismissed!

@@ -21,15 +21,15 @@ end
 
 
 
-if **You turn in:** [Buckler of the Jharin Recruit](/item/3659)
+if( **You turn in:** [Buckler of the Jharin Recruit](/item/3659)) then 
 
 
 >**Hymnist Gawfed says:** Very well met, young friend. I assume that Gherik has sent you to me for the purpose of training you. Unforunately, I will not be doing any formal training for the several days. I'm taking a bit of a holiday to celebrate my wife's birthday. If you could take this receipt to the [merchant] for me before my wife gets home, I'd appreciate it. I'll place you at the top of my training list as well.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Buckler of the Jharin Recruit](/item/3659), [Gawfeds Receipt](/item/5954)) 
 
-elseif **You turn in:** [Finished Vase Replica](/item/5958)
+elseif( **You turn in:** [Finished Vase Replica](/item/5958)) then 
 
 
 >*Hymnist Gawfed looks at the vase and nods his head in approval.*
@@ -40,7 +40,7 @@ elseif **You turn in:** [Finished Vase Replica](/item/5958)
 
  **You receive:**  [Large Cloth Sack](/item/17611) 
 
-elseif **You turn in:** [Bag of Feathers](/item/5959)
+elseif( **You turn in:** [Bag of Feathers](/item/5959)) then 
 
 
 >**Hymnist Gawfed says:** It looks like you're all set. I'll have this sent over to my brother at once. Thank you again for fetching the vase for me. I can't wait to give it to the missus. I just know that she's going to love it. I have another task for you. It shouldn't take much time at all. Your cloak won't be done for a while, so you can do this while you wait. Take this piece of parchment to Jangle. He'll give you a bag of lute strings. I'm restringing all of my instruments before the party. Please be quick. Thank you again.
@@ -51,7 +51,7 @@ elseif **You turn in:** [Bag of Feathers](/item/5959)
 
  **You receive:**  [Note for Jangle](/item/5960) (+1000 exp)
 
-elseif **You turn in:** [Note from Jangle](/item/5962)
+elseif( **You turn in:** [Note from Jangle](/item/5962)) then 
 
 
 >**Hymnist Gawfed says:** I really must be losing my mind. I could have sworn I specified the quantities. Oh well, I apologize for the confusion. Please take this back to him with my apologies.
@@ -59,7 +59,7 @@ elseif **You turn in:** [Note from Jangle](/item/5962)
 
  **You receive:**  [Gawfeds Request](/item/5963) 
 
-elseif **You turn in:** [Bag of Lute Strings](/item/5965)
+elseif( **You turn in:** [Bag of Lute Strings](/item/5965)) then 
 
 
 >**Hymnist Gawfed says:** My dear friend, Soandso, you have been a wondrous help! Though we have not had an opportunity to work on the more refined Jharin teachings, you have definitely proven yourself to be an honorable citizen and worthy apprentice. My brother has returned with your cloak. Please take it along with the title of Jharin Apprentice. To further demonstrate my appreciation of your work for me, please take this lute.
@@ -68,7 +68,7 @@ elseif **You turn in:** [Bag of Lute Strings](/item/5965)
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Cloak of the Jharin Apprentice](/item/5966), [Lute of the Jharin Apprentice](/item/5967)) (+3000 exp)
 
 
 **Hymnist Gawfed shouts:** <span class="text-danger">Everyone, please welcome my student and friend, Soandso, to the rank of Jharin Apprentice!</span>

@@ -11,7 +11,7 @@ end
 
 
 
-if **You turn in:** [Sack of Turnips](/item/16165)
+if( **You turn in:** [Sack of Turnips](/item/16165)) then 
 
 
 >**Deputy Eigon says:** Daleen sent you? She is so sweet. If she wasn't married.. ehem.. Thanks.
@@ -35,7 +35,7 @@ if **You turn in:** [Sack of Turnips](/item/16165)
 * __Faction:__ [Dreadguard Outer](/faction/334) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+10 exp)
 end
 
 

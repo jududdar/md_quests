@@ -162,7 +162,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if **You turn in:** [A note](/item/18776)
+if( **You turn in:** [A note](/item/18776)) then 
 
 
 >**Welno Tanlonikan says:** Yes, I just knew you'd see it my way, Soandso. Anyway, welcome to our little part of Ak'Anon's underworld. We have to pay a high price to keep our small orgainzation hidden, which keeps us all busy around here. Now throw this on, and let's put you to work.
@@ -187,7 +187,7 @@ if **You turn in:** [A note](/item/18776)
  **You receive:**  [Scuffed Tunic*](/item/13519) (+20 exp)
 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Minotaur Scalp](/item/9108), [Minotaur Scalp](/item/9108), [Mountain Lion Jawbone](/item/9109), [Mountain Lion Jawbone](/item/9109)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Minotaur Scalp](/item/9108), [Minotaur Scalp](/item/9108), [Mountain Lion Jawbone](/item/9109), [Mountain Lion Jawbone](/item/9109)) then 
 
 
 >**Welno Tanlonikan says:** Here is that dagger I promised you Soandso!

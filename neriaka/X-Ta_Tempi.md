@@ -324,7 +324,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Charred Dagger](/item/7036), [Bloodstone](/item/10019), [Barbed Bone Chips](/item/10516)
+if **Faction** >= Indifferent and  **You turn in:** [Charred Dagger](/item/7036), [Bloodstone](/item/10019), [Barbed Bone Chips](/item/10516)) then
 
 
 >**X-Ta Tempi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -359,7 +359,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Charred Dagger](/item/7036)
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Ebon Dagger](/item/7037), [Jasper](/item/10020), [Dark Bone Chips](/item/10518)
+elseif **Faction** >= Indifferent and  **You turn in:** [Ebon Dagger](/item/7037), [Jasper](/item/10020), [Dark Bone Chips](/item/10518)) then
 
 
 >**X-Ta Tempi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -392,7 +392,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Ebon Dagger](/item/7037
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item/10520), [Eye of Kor](/item/10524), [Amber](/item/10022)
+elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item/10520), [Eye of Kor](/item/10524), [Amber](/item/10022)) then
 
 
 >**X-Ta Tempi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
@@ -425,7 +425,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Eye of Guk](/item/10526), [Jade](/item/10023)
+elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Eye of Guk](/item/10526), [Jade](/item/10023)) then
 
 
 >**X-Ta Tempi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.

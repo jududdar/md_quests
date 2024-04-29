@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** item1 = 55523
+if( **You turn in:** item1 = 55523) then 
 
 
 >**Rellix says:** A note from Chef Chowderly, eh? I haven't heard from him in some time. Hope he is doing well.' Rellix reads the note. 'I do happen to have some spare dishes. Here, take them.

@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Promise Ring](/item/29849)
+if( **You turn in:** [Promise Ring](/item/29849)) then 
 
 
 >**Rifkin says:** Aye, this is it, did you kill her? Well anyway, here, I really didn't want this anymore- I was hoping some fool would give me something of value for it. Thanks.

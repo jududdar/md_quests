@@ -45,7 +45,7 @@ end
 
 
 
-if **You turn in:** [A Pouch of Mail (Highpass)](/item/18152)
+if( **You turn in:** [A Pouch of Mail (Highpass)](/item/18152) or  **You turn in:** [A Pouch of Mail (Highpass)](/item/18156)) then
 
 
 >**Lislia Goldtune says:** More mail - you have done us a noteworthy service!  Please take this gold for your troubles.  If you are interested in more work, just ask me.

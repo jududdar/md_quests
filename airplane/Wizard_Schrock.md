@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Fire and Ice](/item/18530)
+if( **You turn in:** [Fire and Ice](/item/18530)) then 
 
 
 >**Wizard Schrock says:** Till next time!  Farewell!
@@ -48,7 +48,7 @@ if **You turn in:** [Fire and Ice](/item/18530)
 
 **Wizard Schrock despawns.**
 
-elseif **You turn in:** [Knowledge and Power](/item/18531)
+elseif( **You turn in:** [Knowledge and Power](/item/18531)) then 
 
 
 >**Wizard Schrock says:** Till next time!  Farewell!

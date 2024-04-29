@@ -111,7 +111,7 @@ end
 
 
 
-if **You turn in:** [Dragon Crafted Urn](/item/2053)
+if( **You turn in:** [Dragon Crafted Urn](/item/2053)) then 
 
 
 >**Eldriaks Fe-Dhar says:** Hmm? What's this? Oh! You are the " .. e.other:Race() .. " who has been helping us with the nameless one. Well, not so nameless anymore. A part of Garzicor clings to this world, eager to wreak vengeance upon the giants who murdered him. We've decided that a weapon must be constructed, and the restless spirit of Garzicor must be bound to it. You must be the one to construct this weapon. This dust must be used in the forging of the weapon's blade. Are you a master smith, Soandso?
@@ -119,15 +119,15 @@ if **You turn in:** [Dragon Crafted Urn](/item/2053)
 
  **You receive:**  [Sanctified bone dust](/item/2054) (+1000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Finished Tsuba](/item/2055), [Bronzewood Staff](/item/1868), [Finished Naginata Blade](/item/2056)
+elseif( **Faction is** > Warmly and  **You turn in:** [Finished Tsuba](/item/2055), [Bronzewood Staff](/item/1868), [Finished Naginata Blade](/item/2056)) then 
 
 
 >*Eldriaks Fe-Dhar takes the staff, blade, and tsuba and looks them over. He says, 'Excellent craftsmanship. These will make a fine weapon. But one part remains to join all the pieces together. That is the fitings.' The Wyvern then hands you the items back along with a vial of blood and says, 'This vial of blood will allow you to awaken Garzicor's spirit.'*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Assembled Naginata](/item/2426), [Vial of Kromzek blood](/item/2063)) 
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata](/item/1728)
+elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata](/item/1728)) then 
 
 
 >**Eldriaks Fe-Dhar says:** You have succeeded Soandso. Garzicor's spirit no longer calls to us from beyond. Now we ask that you do one more thing. You must wield this weapon against all giant kind to satiate Garzicor's thirst for vengeance. The Naginata has a special power against the Kromzek, they will fall easily before it. However, if you do not wish to, hand the weapon back to me and I'll give you an earring more worthy of a being of faith. If you are one of sorcerous powers, hand me the earring and I'll hand you a ring more suited to you.
@@ -147,7 +147,7 @@ elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata]
 
  **You receive:**  [Ethereal Bladed Naginata](/item/2097) (+10000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata](/item/2097)
+elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata](/item/2097)) then 
 
 
 >**Eldriaks Fe-Dhar says:** Tis sad to see that the weapon will not be wielded by its maker, but here is your earring. Wear it well.
@@ -155,7 +155,7 @@ elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata]
 
  **You receive:**  [Sanctum Guardian's Earring](/item/2065) 
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Sanctum Guardian's Earring](/item/2065)
+elseif( **Faction is** > Warmly and  **You turn in:** [Sanctum Guardian's Earring](/item/2065)) then 
 
 
 >**Eldriaks Fe-Dhar says:** So you prefer the ring? Very well. May it serve you well, Soandso.
@@ -163,7 +163,7 @@ elseif( **Faction is** > Warmly and  **You turn in:** [Sanctum Guardian's Earrin
 
  **You receive:**  [Pitted Iron Ring](/item/2064) 
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Pitted Iron Ring](/item/2064)
+elseif( **Faction is** > Warmly and  **You turn in:** [Pitted Iron Ring](/item/2064)) then 
 
 
 >**Eldriaks Fe-Dhar says:** You have decided to wield the Naginata after all?

@@ -10,7 +10,7 @@
 
 
 
-if **You turn in:** [Stained Cloth Note](/item/18706)
+if( **You turn in:** [Stained Cloth Note](/item/18706)) then 
 
 
 >**Sragg Bloodheart says:** Ah, another would-be soldier for the army of the Plaguebringer. Unmuz has just lost a few of his men, he'll have plenty of work for you. I'm sure. Begone!
@@ -33,7 +33,7 @@ if **You turn in:** [Stained Cloth Note](/item/18706)
 
  **You receive:**  [Ruined Training Tunic*](/item/13598) (+20 exp)
 
-elseif **You turn in:** [A Sealed Letter](/item/18802)
+elseif( **You turn in:** [A Sealed Letter](/item/18802)) then 
 
 
 >**Sragg Bloodheart says:** What have you brought me, worm? Hmm... This is disappointing. That Tovax has failed us for the last time. Your loyalty to Bertoxxulous and the Bloodsabers has been noted. Now, if you will excuse me a moment...

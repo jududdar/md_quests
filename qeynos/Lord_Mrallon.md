@@ -43,7 +43,7 @@ end
 
   
 
-if( **Faction is** > Kindly and  **You turn in:** [Nyrein's Prayer](/item/8919), [Tempest Rune](/item/8951)
+if( **Faction is** > Kindly and  **You turn in:** [Nyrein's Prayer](/item/8919), [Tempest Rune](/item/8951)) then
 
 
 e.self:Say("Aaaah, yet another warrior brave enough to face their own faults and honorable enough to strive for a proof of their worth and devotion to The Rainkeeper. Your kind is too few and far too rare, but do not think that your trials are at their I have forged the necessary Hollowed Tempest Stone 

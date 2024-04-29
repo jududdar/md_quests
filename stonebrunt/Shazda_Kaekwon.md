@@ -84,7 +84,7 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Satchel of Heretic Heads](/item/6969)
+if **Faction** >= Dubious +300 and  **You turn in:** [Satchel of Heretic Heads](/item/6969)) then
 
 
 >**Shazda Kaekwon says:** Less heretics to defile the lands and spirits. You have the gratitude of Kejek for your assistance in repelling the heretic threat.
@@ -96,9 +96,9 @@ if **Faction** >= Dubious +300 and  **You turn in:** [Satchel of Heretic Heads](
 * __Faction:__ [Peace Keepers](/faction/298) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Kejekan Tribal Headband](/item/6955), [Swiftclaw Sash](/item/6953)) (+5000 exp)
 
-elseif **Faction** >= Dubious +300 and  **You turn in:** [Kobold Head](/item/6968)
+elseif **Faction** >= Dubious +300 and  **You turn in:** [Kobold Head](/item/6968)) then
 
 
 >**Shazda Kaekwon says:** By slaying Rognarog you have spared the lives of those who would have crossed his path. I thank you for your assistance, the spirits have noticed your actions and are pleased.
@@ -110,6 +110,6 @@ elseif **Faction** >= Dubious +300 and  **You turn in:** [Kobold Head](/item/696
 * __Faction:__ [Peace Keepers](/faction/298) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Titan Blessed Tanto](/item/6982), [Titan Blessed Tachi](/item/6983), [Titan Blessed Bokken](/item/6984)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

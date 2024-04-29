@@ -47,7 +47,7 @@ end
 
 
 
-if (  **You turn in:** [Box of the Hero of Shar Vahl](/item/6190) 
+if (  **You turn in:** [Box of the Hero of Shar Vahl](/item/6190)  ) then 
 
 
 >**General Staginar says:** Soldier, that's some fine work! The horde will not easily recover from the destruction you have inflicted upon their kind. You have earned an opportunity to wrestle the key from the grimling high commander. Take these orders to Veteran Cullin. If you can take possession of the grimling bases to the north and defeat the grimling high commander, return to me with his half of the obelisk and the battle orders. Show the grunts no mercy, Soandso! Good luck!
@@ -56,7 +56,7 @@ if (  **You turn in:** [Box of the Hero of Shar Vahl](/item/6190)
  **You receive:**  [Staginar's Battle Orders](/item/6191) 
 
 
-elseif (  **You turn in:** [Golden Medal of the Shar Vahl](/item/5989) 
+elseif (  **You turn in:** [Golden Medal of the Shar Vahl](/item/5989)  ) then 
 
 
 
@@ -70,13 +70,16 @@ elseif (  **You turn in:** [Golden Medal of the Shar Vahl](/item/5989)
  **You receive:**  [Staginar's Battle Orders](/item/6191) 
 
 
-elseif (  **You turn in:** [Acrylia Obelisk Half](/item/6192) 
+elseif (  **You turn in:** [Acrylia Obelisk Half](/item/6192)  ) then 
 
 
 e.self:Say(e.other:GetCleanName()..", your actions have earned you the respect of all Vah Shir. Upon your shoulders now rests the hope of our people. This hollow acrylia obelisk is the key that will gain you entry to the stronghold of the master of the grimling horde. Once there, you will need to collect enchanted pieces of acrylia from the enemy's vile minions. Once you have collected all five of them, you must place the obelisk into this smelting pot with the acrylia pieces. A special key will form inside that will grant you access to the deepest chamber of the stronghold.");
 
 
- **You receive:** None 
+ **You receive:**  [Hollow Acrylia Obelisk](/item/5972) 
+
+
+ **You receive:**  [Enchanted Acrylia Smelting Pot](/item/17868) 
 
 
 

@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [Legion Order](/item/18250)
+if( **You turn in:** [Legion Order](/item/18250)) then
 
 
 

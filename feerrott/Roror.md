@@ -56,7 +56,7 @@ end
 local text = "Yesss. But remember, Cazic-Thule demandsssss both the item and 66 gold piecessss assssss an offering.";
 
 
-if **You turn in:** [Sack of Hay](/item/13990),gold = 66
+if( **You turn in:** [Sack of Hay](/item/13990),gold = 66) then
 
 
 >**Roror says:** Whatsssss thisssss? You sssseek my blessssssssing? Heh heh heh... Very well... CAZIC-THULE! Take this fruit of Karana into horror'sss dark embrace. Fear and death made manifesssssst. A harvesssst of terror! Here, take your gift of blood and sssstraw. Use its dark powersssss in the name of the Fear Lord!

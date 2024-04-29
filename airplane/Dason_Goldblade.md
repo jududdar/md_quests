@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Virtuous Knight](/item/18526)
+if( **You turn in:** [Virtuous Knight](/item/18526)) then 
 
 
 >**Dason Goldblade says:** Farewell.
@@ -47,7 +47,7 @@ if **You turn in:** [Virtuous Knight](/item/18526)
 
 **Dason Goldblade despawns.**
 
-elseif **You turn in:** [Walk with Evil](/item/18527)
+elseif( **You turn in:** [Walk with Evil](/item/18527)) then 
 
 
 >**Dason Goldblade says:** Farewell.

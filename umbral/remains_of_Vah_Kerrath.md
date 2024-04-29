@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [Soul Essence of Aten Ha Ra](/item/8365)
+if( **You turn in:** [Soul Essence of Aten Ha Ra](/item/8365)) then 
 
 
 >**remains of Vah Kerrath says:** Soandso, you have done more than was ever expected. Take this and my blessing will be with you always.
@@ -65,7 +65,7 @@ if **You turn in:** [Soul Essence of Aten Ha Ra](/item/8365)
 
  **You receive:**  [Talisman of Vah Kerrath](/item/8364) (+2000 exp)
 
-elseif **You turn in:** [Elysian Skull](/item/28102), [Elysian Skull](/item/28102), [Elysian Skull](/item/28102), [Elysian Skull](/item/28102)
+elseif( **You turn in:** [Elysian Skull](/item/28102), [Elysian Skull](/item/28102), [Elysian Skull](/item/28102), [Elysian Skull](/item/28102)) then
 
 
 >**remains of Vah Kerrath says:** You have done well. Clear your mind of all distractions and ask the whisperlings if you are worthy of my knowledge.

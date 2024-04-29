@@ -123,7 +123,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18746)
+if( **You turn in:** [A tattered note](/item/18746)) then 
 
 
 >**Puab Closk says:** Welcome to the house of the Ashen Order. We are a small guild of monks who have devoted our lives to refining our minds, souls, and physical beings to their maximum potential. Please see Brother Torresk as soon as you get a chance. He is in charge of helping our newer members begin their training. Good luck, Soandso.
@@ -140,7 +140,7 @@ if **You turn in:** [A tattered note](/item/18746)
 
  **You receive:**  [Torn Cloth Tunic*](/item/13507) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [a pawprint](/item/12370)
+elseif **Faction** >= Amiable and  **You turn in:** [a pawprint](/item/12370)) then 
 
 
 >**Puab Closk says:** You have performed a great service to one who is your brother. Your loyalty shines brightly, as does your skill. Take the treant fists. They are yours now.

@@ -76,7 +76,7 @@ else
 
 
 
-if **You turn in:** [Damaged Militia Helm](/item/13921)
+if( **You turn in:** [Damaged Militia Helm](/item/13921)) then
 
 
 >**Theron Rolius says:** Fantastic work, my young knight.  Here is a small token of the my appreciation.  I would offer you a sharkskin shield, but I have made only a few and the paladins are testing them.
@@ -99,7 +99,7 @@ if **You turn in:** [Damaged Militia Helm](/item/13921)
 
  **You receive:** 0 (+1000 exp)
 
-elseif **You turn in:** [Sack of Sharkskins](/item/13873)
+elseif( **You turn in:** [Sack of Sharkskins](/item/13873)) then
 
 
 >**Theron Rolius says:** Thanks for the hard work, here is a shield to help you in your duties.

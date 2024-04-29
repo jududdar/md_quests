@@ -37,22 +37,22 @@ local bandage = 0;
 
 
 
-if **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)
+if( **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)) then
 
 
 bandage=4;
 
-if **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)
+if( **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)) then
 
 
 bandage=3;
 
-if **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009)
+if( **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009)) then
 
 
 bandage=2;
 
-if **You turn in:** [Bandages](/item/13009)
+if( **You turn in:** [Bandages](/item/13009)) then
 
 
 bandage=1;

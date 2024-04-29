@@ -193,25 +193,25 @@ local scalp = 0;
 
 
 
-if **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)
+if( **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)) then
 
 
 
 scalp = 4;
 
-elseif **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)
+elseif( **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)) then
 
 
 
 scalp = 3;
 
-elseif **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)
+elseif( **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)) then
 
 
 
 scalp = 2;
 
-elseif **You turn in:** [Gnoll Scalp](/item/13792)
+elseif( **You turn in:** [Gnoll Scalp](/item/13792)) then
 
 
 

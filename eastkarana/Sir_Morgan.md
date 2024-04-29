@@ -100,7 +100,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** gold = 5
+if **Faction** >= Apprehensive and  **You turn in:** gold = 5) then
 
 
 >**Sir Morgan says:** What a grand donation!! You must be a rich noble to be making such a donation. Here, I am but a simple warrior, but I found this lying on the highway to Highpass Hold. The lifeless corpse next to it had no more need of it.

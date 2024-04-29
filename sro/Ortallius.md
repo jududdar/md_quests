@@ -50,7 +50,7 @@ local text = "I was instructed to wait for two gems.";
 
 
 
-if **You turn in:** [Gem of Stamina](/item/12348), [A Sparkling Sapphire](/item/12349)
+if( **You turn in:** [Gem of Stamina](/item/12348), [A Sparkling Sapphire](/item/12349)) then 
 
 
 >**Ortallius says:** You serve the Burning Prince as I do. The Redeemed has instructed me to give you this reward upon completion of your test. Practice your arts and prepare yourself. Evil approaches our realm. Long live Ro!!
@@ -67,7 +67,7 @@ if **You turn in:** [Gem of Stamina](/item/12348), [A Sparkling Sapphire](/item/
  **You receive:**  [Burning Rapier](/item/7041) 
 
 
-elseif **You turn in:** [Cutthroat Insignia Ring](/item/1903), [Cutthroat Insignia Ring](/item/1903), [Cutthroat Insignia Ring](/item/1903)
+elseif( **You turn in:** [Cutthroat Insignia Ring](/item/1903), [Cutthroat Insignia Ring](/item/1903), [Cutthroat Insignia Ring](/item/1903)) then
 
 
 >**Ortallius says:** You will make a fine addition to the crusade. Continue the cleansing of the desert. Let it be known that the Defenders of Ro are here to challenge the evils of the desert. I call upon the righteousness of all paladins to assist me.

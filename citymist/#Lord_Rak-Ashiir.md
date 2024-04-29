@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Child's Tear](/item/1673)
+if( **You turn in:** [Child's Tear](/item/1673)) then
 
 
 if **Faction** >= Ally +700 then

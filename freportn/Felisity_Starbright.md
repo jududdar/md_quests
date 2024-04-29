@@ -66,7 +66,7 @@ end
 
 
 
-if **You turn in:** [A Bardic Letter (Freeport)](/item/18158)
+if( **You turn in:** [A Bardic Letter (Freeport)](/item/18158) or  **You turn in:** [A Bardic Letter (Freeport)](/item/18155) or  **You turn in:** [Bardic Letter (Freeport)](/item/18157) or  **You turn in:** [A Bardic Letter (Freeport)](/item/18159) or  **You turn in:** [A Pouch of Mail (Freeport)](/item/18166)) then
 
 
 >**Felisity Starbright says:** Mail from the front - thank you very much! Please take this gold for your troubles. If you are interested in more work, just ask Ton Twostring.

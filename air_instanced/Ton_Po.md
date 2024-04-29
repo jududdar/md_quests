@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/item/20794), [Verdant Tessera](/item/20932)
+if( **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/item/20794), [Verdant Tessera](/item/20932)) then 
 
 
 
@@ -45,7 +45,7 @@ if **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/ite
 
 **Ton Po despawns.**
 
-elseif **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/item/20939), [Tiny Ruby](/item/20795)
+elseif( **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/item/20939), [Tiny Ruby](/item/20795)) then 
 
 
 >**Ton Po says:** You have done well, Soandso.
@@ -56,7 +56,7 @@ elseif **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/it
 
 **Ton Po despawns.**
 
-elseif **You turn in:** [Adumbrate Globe](/item/20946), [Dove Slippers](/item/20798), [Shimmering Opal](/item/20797)
+elseif( **You turn in:** [Adumbrate Globe](/item/20946), [Dove Slippers](/item/20798), [Shimmering Opal](/item/20797)) then 
 
 
 >**Ton Po says:** You have done well, Soandso.

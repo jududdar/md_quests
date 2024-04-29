@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [Breath of Gwan](/item/1685)
+if( **You turn in:** [Breath of Gwan](/item/1685)) then 
 
 
 e.self:SetAppearance(0);

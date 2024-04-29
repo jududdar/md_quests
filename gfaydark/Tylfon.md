@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18784)
+if( **You turn in:** [A tattered note](/item/18784)) then 
  
 
 >**Tylfon says:** Hmm.. I hope you can prove yourself a lot more valuable than you look. Here, throw this on.. it'll help protect you a little. Let's get started on improving your skills.
@@ -68,7 +68,7 @@ if **You turn in:** [A tattered note](/item/18784)
 
  **You receive:**  [Old Worn Gray Tunic*](/item/13535) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), [Rusty Dagger](/item/7007),gold = 2
+elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), [Rusty Dagger](/item/7007),gold = 2) then
  
 
 >**Tylfon says:** Well, well. I didn't think you could do it. Here's your cut and don't be surprised that it's not much because it's your first lesson. Remember. the smaller the operation. the bigger the share, and the richest rogues have the tightest lips.
@@ -80,9 +80,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), 
 * __Faction:__ [Scouts of Tunare](/faction/316) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Tarnished Dagger](/item/7021) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/13346), [Rusty Dagger](/item/13346),gold = 2
+elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/13346), [Rusty Dagger](/item/13346),gold = 2) then
  
 
 >**Tylfon says:** Well, well. I didn't think you could do it. Here's your cut and don't be surprised that it's not much because it's your first lesson. Remember. the smaller the operation. the bigger the share, and the richest rogues have the tightest lips.
@@ -94,9 +94,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/13346),
 * __Faction:__ [Scouts of Tunare](/faction/316) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Tarnished Dagger](/item/7021) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), [Rusty Dagger](/item/13346),gold = 2
+elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), [Rusty Dagger](/item/13346),gold = 2) then
  
 
 >**Tylfon says:** Well, well. I didn't think you could do it. Here's your cut and don't be surprised that it's not much because it's your first lesson. Remember. the smaller the operation. the bigger the share, and the richest rogues have the tightest lips.
@@ -110,9 +110,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), 
 * __Faction:__ [Scouts of Tunare](/faction/316) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Tarnished Dagger](/item/7021) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Emerald Shard](/item/13322)
+elseif **Faction** >= Amiable and  **You turn in:** [Emerald Shard](/item/13322)) then
  
 
 >**Tylfon says:** Excellent job, Soandso, we will turn you into a rogue of Tunare yet.  Here this is for your trouble.

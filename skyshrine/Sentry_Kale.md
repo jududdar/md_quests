@@ -18,11 +18,9 @@ end
 
 
 
-local ringrew = 0;
 
 
-
-if **You turn in:** [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080)
+if( **You turn in:** [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080)) then
 
 
 >**Sentry Kale says:** Excellent work, Soandso. Here is your payment. I will also reward you for any more you bring.
@@ -40,14 +38,18 @@ if **You turn in:** [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/
 
 
 
-if(math.random(5) == 1) then
+if(math.random(1,5) == 1) then
 
 
 
-ringrew = 29063; 
+ **You receive:**  [Ring of the Chameleon](/item/29063) 
 
 
 
- **You receive:** None 
+note = Item not always given.
+
+
+
+ **You receive:** 0 (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

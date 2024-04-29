@@ -82,7 +82,7 @@ local text = "This one dead. Where other? Lork say Crushbone heart and Oggok hea
 
 
 
-if **You turn in:** [Intricate Toothed Ring](/item/20523)
+if( **You turn in:** [Intricate Toothed Ring](/item/20523)) then
 
 
 >**Lork says:** Ay danks. Take dis to Uglan.
@@ -90,7 +90,7 @@ if **You turn in:** [Intricate Toothed Ring](/item/20523)
 
  **You receive:**  [A Stein](/item/16547) 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Ogre Arm](/item/13356)
+elseif **Faction** >= Amiable and  **You turn in:** [Ogre Arm](/item/13356)) then
 
 
 >**Lork says:** Ahhh!! Boohoohoo. Nork!! That you arm. Me will take care of you now. Thank you for killing gator. You must be strong. Now you help Crakneks. We hear.. ohh, poor Nork, we hear trouble begins. Find ogre warrior [Uglan]. Give him this. It broken. He know where you from. Go. Nork.. Poor Nork.
@@ -107,7 +107,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Ogre Arm](/item/13356)
 
  **You receive:**  [A Cracked Stein](/item/13357) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18840)
+elseif **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18840)) then
 
 
 >**Lork says:** What this!! So, dark elves think they can bash ogres. Replace with blue orcs. Dumb Zulort friend with dark elf ambassador in Oggok. We kill him. We kill Crushbone dark elf ambassador also. This slow down plan. We need a hero. Me guess you do. You go. Go bring Lork both Crushbone and Oggok dark elf hearts. Then you be hero.
@@ -124,7 +124,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/1884
 
  **You receive:** eq.ChooseRandom( [Bronze Two Handed Sword](/item/5030), [Bronze Two Handed Hammer](/item/6021)) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Black Heart](/item/13358), [Black Heart](/item/13227)
+elseif **Faction** >= Amiable and  **You turn in:** [Black Heart](/item/13358), [Black Heart](/item/13227)) then
 
 
 >**Lork says:** That show dark elves who strongest. Me hope you kill many blue orcs. You Craknek Hero now. You take this. It mine. Hero reward. You great ogre now. Smash best.

@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Collection of Instruments](/item/28080)
+if( **You turn in:** [Collection of Instruments](/item/28080)) then
 
 
 >*Lohie Cantare inspects each instrument carefully. 'These are in much better condition then I thought I would get them in. Adding these to my exhibit pleases me greatly. As promised, here is something for you.'*

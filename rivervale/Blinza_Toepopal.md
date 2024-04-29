@@ -39,7 +39,7 @@ end
 
 
 
-if  **You turn in:** [Crate of Carrots](/item/13958)
+if ( **You turn in:** [Crate of Carrots](/item/13958)) then
 
 
 >**Blinza Toepopal says:** Well it is about time!  The mayor gets very upset if he does not have the freshest of carrots in his stew.  Here is the money for the carrots.  Be off with you.  Now, where the heck did [Jillin] go?
@@ -62,7 +62,7 @@ if  **You turn in:** [Crate of Carrots](/item/13958)
 
  **You receive:** 0 (+10 exp)
 
-elseif  **You turn in:** [Crate of Fine Carrots](/item/13957)
+elseif ( **You turn in:** [Crate of Fine Carrots](/item/13957)) then
 
 
 >**Blinza Toepopal says:** Oh excellent! These carrots are perfect! The finest Reebo has ever sent us. The mayor will be so pleased. Here is the payment for the carrots. Excuse me, but I must finish preparing the stew. Hmm. Where the heck did [Jillin] go?
@@ -85,7 +85,7 @@ elseif  **You turn in:** [Crate of Fine Carrots](/item/13957)
 
  **You receive:** 0 (+20 exp)
 
-elseif  **You turn in:** [Crate of Rotten Carrots](/item/13971)
+elseif ( **You turn in:** [Crate of Rotten Carrots](/item/13971)) then
 
 
 >**Blinza Toepopal says:** What are these?!  I am trying to make stew for the mayor and you bring me ROTTEN CARROTS?!  Have you no sense??  Take these back to Reebo.

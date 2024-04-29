@@ -54,7 +54,7 @@ end
 
 
 
-if (  **You turn in:** [Box of Souls](/item/29281), [Soul Sphere](/item/29292), [Soul Sphere](/item/29293), [Soul Sphere](/item/29294) 
+if (  **You turn in:** [Box of Souls](/item/29281), [Soul Sphere](/item/29292), [Soul Sphere](/item/29293), [Soul Sphere](/item/29294)  ) then 
 
 
 >**Grenic Drere says:** Hmm, this is minor vindication, but vindication nonetheless.  I will never again fight with my old compatriots, but now I know the punishment of those responsible for my exile is fitting for their crime.  We did have an agreement, and while stripped of my rank I still have my honor.  This ring is what all Soldiers of Marr wear to enter the Halls of Honor, it serves no use for me any longer, it is yours now.

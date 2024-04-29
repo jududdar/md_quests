@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Grandmaster's Satchel](/item/17900)
+if( **You turn in:** [Grandmaster's Satchel](/item/17900)) then
 
 
 

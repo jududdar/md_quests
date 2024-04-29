@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Bag of Assorted Gems](/item/4767)
+if( **You turn in:** [Bag of Assorted Gems](/item/4767)) then 
 
 
 >**Steaon Alarenier says:** Hey again Soandso. It's nice to see you back so soon, thank you for bringing my supplies to that crazy Gnome and bringing back my gems that he got for me. You are always welcome in my shop, good luck to you!

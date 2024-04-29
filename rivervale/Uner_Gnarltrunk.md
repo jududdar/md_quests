@@ -52,7 +52,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Deputy Tagils Payment](/item/13240)
+if **Faction** >= Amiable and  **You turn in:** [Deputy Tagils Payment](/item/13240)) then
 
 
 >**Uner Gnarltrunk says:** I knew that Deputy Tagil had simply forgotten. He really is a good young halfling. Here, take this as a small payment for your time.

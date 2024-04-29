@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Prime Healer Potion](/item/13954)
+if( **You turn in:** [Prime Healer Potion](/item/13954)) then 
 
 
 >**Lempeck Hargrin says:** Thank you!! I felt the madness nearing my brain, but now I feel much better. Please take this as thanks - it is all I have to donate to Astaed Wemor. Be sure he gets it. I shall thank Rodcet Nife every day for sending help.
@@ -54,7 +54,7 @@ if **You turn in:** [Prime Healer Potion](/item/13954)
 
  **You receive:**  [Rusty Scythe](/item/13970) (+50000 exp)
 
-elseif **You turn in:** [Prime Healer Potion](/item/13955)
+elseif( **You turn in:** [Prime Healer Potion](/item/13955)) then
 
 
 

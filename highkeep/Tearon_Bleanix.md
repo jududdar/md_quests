@@ -88,7 +88,7 @@ end
 
 
 
-if **You turn in:** [Highkeep Royal Suite](/item/12267), [Royal Amulet of Thex](/item/13109)
+if( **You turn in:** [Highkeep Royal Suite](/item/12267), [Royal Amulet of Thex](/item/13109)) then
 
 
 >**Tearon Bleanix says:** Peace..  I can rest now.  You now hold my Silent Watch Shield.  Protect Felwithe..
@@ -109,7 +109,7 @@ if **You turn in:** [Highkeep Royal Suite](/item/12267), [Royal Amulet of Thex](
 **Tearon Bleanix despawns.**
 
 
-if **You turn in:** [Tearon's Bracer](/item/13112)
+if( **You turn in:** [Tearon's Bracer](/item/13112)) then
 
 
 >**Tearon Bleanix says:** King Tearis Thex thanks you my friend. Could you please hand the princess this amulet. It is hers. I pryed it from the hands of some beggar.

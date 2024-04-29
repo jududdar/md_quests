@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [Mark of Agility](/item/7879), [Mark of Patience](/item/7880), [Mark of Clarity](/item/7881)
+if( **You turn in:** [Mark of Agility](/item/7879), [Mark of Patience](/item/7880), [Mark of Clarity](/item/7881)) then
 
 
 >**Veltar says:** So you are finally ready for the final rung. Here it is, you shall receive mine for I quest for the fists of Cazic Thule no longer.

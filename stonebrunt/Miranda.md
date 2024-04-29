@@ -62,7 +62,7 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Chocolate Marr Cherries](/item/19992)
+if **Faction** >= Dubious +300 and  **You turn in:** [Chocolate Marr Cherries](/item/19992)) then
 
 
 >*Miranda claps her hands with excitement 'Chocolate cherries! My favorite! Here try some of this!'*
@@ -76,7 +76,7 @@ if **Faction** >= Dubious +300 and  **You turn in:** [Chocolate Marr Cherries](/
 
  **You receive:**  [Pouch of Kejek Catnip](/item/20115) (+1000 exp)
 
-elseif **Faction** >= Dubious +300 and  **You turn in:** [Tiny Pouch of Bone Dice](/item/2088)
+elseif **Faction** >= Dubious +300 and  **You turn in:** [Tiny Pouch of Bone Dice](/item/2088)) then
 
 
 >**Miranda says:** You found my dice!!! Thank you Soandso!!

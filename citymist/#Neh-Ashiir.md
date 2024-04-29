@@ -4,7 +4,7 @@
 
 
 
-if **Faction** >= Warmly +50 and  **You turn in:** [Engraved Ring](/item/1681)
+if **Faction** >= Warmly +50 and  **You turn in:** [Engraved Ring](/item/1681)) then
 
 
 >**Neh-Ashiir says:** Nothing is left to hide now. You shall have the truth. But truth is not won easily and if you cannot defeat me, you have not the ability to see that vengeance is served. Brace yourself!

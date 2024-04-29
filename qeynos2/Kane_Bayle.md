@@ -72,7 +72,7 @@ end
 
 
 
-if **You turn in:** [Bayle List I](/item/18808)
+if( **You turn in:** [Bayle List I](/item/18808)) then
 
 
 >**Kane Bayle says:** Good Work, friend. I still need the other parts. You'd best hope no other gets to them first and returns them to me first. If they do you get no payment.
@@ -95,7 +95,7 @@ if **You turn in:** [Bayle List I](/item/18808)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bayle List II](/item/18809)
+elseif( **You turn in:** [Bayle List II](/item/18809)) then
 
 
 >**Kane Bayle says:** Thank you for your help. Soon Antonius' agents will be exterminated like roaches. May the virus of the Plaguebringer run through your veins.

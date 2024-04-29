@@ -77,7 +77,7 @@ local fac = e.other:GetFaction(e.self);
 local text = "We must have both Lord Grimrot's scythe, Pestilence, and his misshapen heart.";
 
 
-if **You turn in:** [A tattered note](/item/18711)
+if( **You turn in:** [A tattered note](/item/18711)) then 
 
 
 >**Camlend Serbold says:** Welcome to the Temple of Life. You have much to learn and we have much work to do. Pain, hurt, disease and death lurk everywhere, our job is seemingly endless, but none is more gratifying. Here is our guild tunic, represent us well. Davloran Girionlis will help you to get started.
@@ -102,7 +102,7 @@ if **You turn in:** [A tattered note](/item/18711)
 
 
 
-elseif **Faction** >= Warmly +250 and  **You turn in:** [Pestilence Scythe](/item/13324), [Decaying Heart](/item/13325)
+elseif **Faction** >= Warmly +250 and  **You turn in:** [Pestilence Scythe](/item/13324), [Decaying Heart](/item/13325)) then 
 
 
 >**Camlend Serbold says:** We thank you for your service. With Lord Grimrot's evil soul trapped in this scythe, all but the truly evil shadowknights would be able to wield it. I would like to present you with this as a token of our appreciation. Your devotion to life is supreme. Go now, and serve life.
@@ -126,7 +126,7 @@ elseif **Faction** >= Warmly +250 and  **You turn in:** [Pestilence Scythe](/ite
 * __Faction:__ [Antonius Bayle](/faction/219) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Aegis of Life](/item/12238) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

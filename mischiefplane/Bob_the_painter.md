@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Words of Wealth](/item/18008)
+if( **You turn in:** [Words of Wealth](/item/18008)) then
 
 
 >**Bob the painter says:** Ay!!! this is poifect! 'ere take this pot o' gold. It's empty at the moment. Go ask my brother Vinny about the pot and mebbe he'll have a clue how ta get it full agin.

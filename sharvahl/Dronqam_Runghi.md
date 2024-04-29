@@ -18,12 +18,12 @@ end
 
 
 
-if **You turn in:** [Redcap Mushroom](/item/3446), [Pinch of scarlet moss](/item/3447), [Bluecapped Mushroom](/item/3448)
+if( **You turn in:** [Redcap Mushroom](/item/3446), [Pinch of scarlet moss](/item/3447), [Bluecapped Mushroom](/item/3448)) then
 
 
 >**Dronqam Runghi says:** Wonderful! I have little to offer you for your trouble aside from my gratitude. Here is a pinch of acrylia dust. I know it's not much. If you have no need for it go to Mignah, he can always use all kinds of acrylia.
 
 
- **You receive:** None 
+ **You receive:**  [Pinch of Acrylia Dust](/item/3449) 
 
 **This NPC *should* return incorrect items given.**

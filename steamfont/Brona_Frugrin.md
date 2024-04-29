@@ -66,7 +66,7 @@ end
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Evil Eye Lens](/item/10170)
+if( **Faction is** >= Indifferent and  **You turn in:** [Evil Eye Lens](/item/10170)) then
 
 
 >**Brona Frugrin says:** Not only did you find Borxx but you were able to slay her as well?! You are truly a champion of great skill. This lens of Borxx's will greatly aid our research of other planes of existence. I have been authorized by the Eldritch Collective to offer you this Staff of the Observers. Carry it with pride.

@@ -73,7 +73,7 @@ else
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)
+if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) then 
 
 
 
@@ -171,7 +171,7 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)
 
  **You receive:**  [Spell: Spirit of Bear](/item/15279) (+1000 exp)
 
-elseif **You turn in:** [A tattered note](/item/18761)
+elseif( **You turn in:** [A tattered note](/item/18761)) then
 
 
 >**Margyn McCann says:** Welcome t' the Church o' the Tribunal. Here, we practice the will o' the Six Hammers. This is our guild tunic - wear it with pride and represent us well.

@@ -25,7 +25,7 @@ end
 if(   **Faction** >= Apprehensive +12 then  
 
 
-if **You turn in:** [Drake Spine](/item/14372), [Decrepit Hide](/item/14371), [Enchanted Platinum Bar](/item/16507)
+if( **You turn in:** [Drake Spine](/item/14372), [Decrepit Hide](/item/14371), [Enchanted Platinum Bar](/item/16507)) then
 
 
 

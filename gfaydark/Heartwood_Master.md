@@ -43,7 +43,7 @@ local text = "Tunare be praised! Do you have the rest I requested?";
 
 
 
-if **You turn in:** [A tattered note](/item/18786)
+if( **You turn in:** [A tattered note](/item/18786)) then 
 
 
 >**Heartwood Master says:** Welcome! We are the Soldiers of Tunare, the sworn protectors of Faydark. I thank you for joining our cause, we can always use the help. Here, put on this tunic, and let's get started.. you have much to learn.
@@ -60,7 +60,7 @@ if **You turn in:** [A tattered note](/item/18786)
 
  **You receive:**  [Green and Tan Tunic*](/item/13537) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Short Sword](/item/5013), [Rusty Broad Sword](/item/5016), [Rusty Long Sword](/item/5019), [Rusty Bastard Sword](/item/5022)
+elseif **Faction** >= Amiable and  **You turn in:** [Rusty Short Sword](/item/5013), [Rusty Broad Sword](/item/5016), [Rusty Long Sword](/item/5019), [Rusty Bastard Sword](/item/5022)) then
 
 
 >**Heartwood Master says:** You have done well, child! Take this as a blessing from Tunare for doing her will.

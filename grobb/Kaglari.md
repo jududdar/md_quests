@@ -47,7 +47,7 @@ end
 
 
 
-if  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Snake Scales](/item/13070), [Snake Scales](/item/13070)
+if  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Snake Scales](/item/13070), [Snake Scales](/item/13070)) then 
 
 
 >**Kaglari says:** SNORT!! Good. Innoruuk get special gift. Not you, dis time. Here. Learning majik wid dis. You more want to help Innoruuk?
@@ -64,7 +64,7 @@ if  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bon
 
  **You receive:**  [Spell: Burst of Flame](/item/15093) (+1000 exp)
 
-elseif  **You turn in:** [A tattered note](/item/18791)
+elseif ( **You turn in:** [A tattered note](/item/18791)) then 
 
 
 >**Kaglari says:** Good.. Kaglari need you help.. Kaglari teach you majik now.

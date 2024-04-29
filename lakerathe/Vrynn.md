@@ -41,7 +41,7 @@ end
 local text = "Impressive, do you have the rest?";
 
 
-if **You turn in:** [Banded Boots](/item/3064), [Dufrenite](/item/10073), [Chiefs Tongue](/item/19039), [Terror Spines](/item/19041)
+if( **You turn in:** [Banded Boots](/item/3064), [Dufrenite](/item/10073), [Chiefs Tongue](/item/19039), [Terror Spines](/item/19041)) then
 
 
 >**Vrynn says:** Wear this well, Soandso!
@@ -49,7 +49,7 @@ if **You turn in:** [Banded Boots](/item/3064), [Dufrenite](/item/10073), [Chief
 
  **You receive:**  [Totemic Boots](/item/4941) (+200 exp)
 
-elseif **You turn in:** [Banded Gauntlets](/item/3062), [Crushed Dufrenite](/item/19050), [Mammoth Rib Bone](/item/19043), [Griffenne Downfeather](/item/19046)
+elseif( **You turn in:** [Banded Gauntlets](/item/3062), [Crushed Dufrenite](/item/19050), [Mammoth Rib Bone](/item/19043), [Griffenne Downfeather](/item/19046)) then
 
 
 >**Vrynn says:** Wear this well, Soandso!
@@ -57,7 +57,7 @@ elseif **You turn in:** [Banded Gauntlets](/item/3062), [Crushed Dufrenite](/ite
 
  **You receive:**  [Totemic Gauntlets](/item/4942) (+200 exp)
 
-elseif **You turn in:** [Banded Sleeves](/item/3060), [Ground Dufrenite](/item/19051), [Ghoul Carrion](/item/19038), [Charger Hoof Chips](/item/19045)
+elseif( **You turn in:** [Banded Sleeves](/item/3060), [Ground Dufrenite](/item/19051), [Ghoul Carrion](/item/19038), [Charger Hoof Chips](/item/19045)) then
 
 
 >**Vrynn says:** Wear this well, Soandso!
@@ -65,7 +65,7 @@ elseif **You turn in:** [Banded Sleeves](/item/3060), [Ground Dufrenite](/item/1
 
  **You receive:**  [Totemic Vambraces](/item/4943) (+200 exp)
 
-elseif **You turn in:** [Banded Leggings](/item/3063), [Powdered Dufrenite](/item/19052), [Permafrost Snowball](/item/19034), [Bone Barbs](/item/19037)
+elseif( **You turn in:** [Banded Leggings](/item/3063), [Powdered Dufrenite](/item/19052), [Permafrost Snowball](/item/19034), [Bone Barbs](/item/19037)) then
 
 
 >**Vrynn says:** Wear this well, Soandso!

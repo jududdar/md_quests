@@ -133,7 +133,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Yovik Splegle's Head](/item/19935)
+if(expansion_flag >= 4.0 and  **You turn in:** [Yovik Splegle's Head](/item/19935)) then
 
 
 >**Marv Orilis says:** Poor, poor Yovik Splegle. Haha! Excellent work, Soandso. Quickly, fetch me a giant rattlesnake skin and a giant leaf scarab eye along with your Rough Hewn Dismal Staff and I will construct you the Staff of Dismal Rage before your very eyes.
@@ -150,7 +150,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Yovik Splegle's Head](/item/1993
 
  **You receive:**  [Rough Hewn Dismal Staff](/item/19924) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Hewn Dismal Staff](/item/19924), [Giant Rattlesnake Skin](/item/19852), [Giant Leaf Scarab Eye](/item/19936)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Hewn Dismal Staff](/item/19924), [Giant Rattlesnake Skin](/item/19852), [Giant Leaf Scarab Eye](/item/19936)) then
 
 
 * __Faction:__ [Dismal Rage](/faction/271) (10)

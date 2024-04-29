@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Banded Boots](/item/3064), [Fire Emerald](/item/10033), [Spirit Caller Beads](/item/14767), [Rhino Hoof](/item/14768)
+if( **You turn in:** [Banded Boots](/item/3064), [Fire Emerald](/item/10033), [Spirit Caller Beads](/item/14767), [Rhino Hoof](/item/14768)) then
 
 
 >**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
@@ -40,7 +40,7 @@ if **You turn in:** [Banded Boots](/item/3064), [Fire Emerald](/item/10033), [Sp
 
  **You receive:**  [Scaled Mystic Boots](/item/4984) (+1000 exp)
 
-elseif **You turn in:** [Banded Bracer](/item/3061), [Ruby](/item/10035), [Coercion Implant](/item/14769), [Gooey Adhesive](/item/14770)
+elseif( **You turn in:** [Banded Bracer](/item/3061), [Ruby](/item/10035), [Coercion Implant](/item/14769), [Gooey Adhesive](/item/14770)) then
 
 
 >**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
@@ -48,7 +48,7 @@ elseif **You turn in:** [Banded Bracer](/item/3061), [Ruby](/item/10035), [Coerc
 
  **You receive:**  [Scaled Mystic Bracers](/item/4988) (+1000 exp)
 
-elseif **You turn in:** [Banded Cloak](/item/3058), [Star Ruby](/item/10032), [Forest Giant Hammer](/item/14765), [Worn Charbone](/item/14766)
+elseif( **You turn in:** [Banded Cloak](/item/3058), [Star Ruby](/item/10032), [Forest Giant Hammer](/item/14765), [Worn Charbone](/item/14766)) then
 
 
 >**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
@@ -56,7 +56,7 @@ elseif **You turn in:** [Banded Cloak](/item/3058), [Star Ruby](/item/10032), [F
 
  **You receive:**  [Scaled Mystic Cloak](/item/4991) (+1000 exp)
 
-elseif **You turn in:** [Banded Sleeves](/item/3060), [Sapphire](/item/10034), [Frenzied Gnawer Tail](/item/14763), [Froglok Treated Planks](/item/14764)
+elseif( **You turn in:** [Banded Sleeves](/item/3060), [Sapphire](/item/10034), [Frenzied Gnawer Tail](/item/14763), [Froglok Treated Planks](/item/14764)) then
 
 
 >**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild

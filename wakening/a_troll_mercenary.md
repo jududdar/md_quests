@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Field Supplies](/item/1724)
+if( **You turn in:** [Field Supplies](/item/1724)) then
 
 
 >**a troll mercenary says:** It's about time, whelp.  Take your payment and leave, you're scaring away my... clients.
@@ -32,7 +32,7 @@ if **You turn in:** [Field Supplies](/item/1724)
 * __Faction:__ [Claws of Veeshan](/faction/430) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 
 **a troll mercenary despawns.**

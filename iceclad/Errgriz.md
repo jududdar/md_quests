@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [High Quality Dire Wolf Fur](/item/30023)
+if( **You turn in:** [High Quality Dire Wolf Fur](/item/30023)) then
 
 
 >*Errgriz starts to cut and scrape the furs. He growls softly as he works and his master watches his progress. 'Grrr. Much too small. I fail. I not ready to work on my own. Sorry to waste your time. Here, take what I made. Maybe you can find use for it.'*

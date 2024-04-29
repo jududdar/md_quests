@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Djinni Statuette](/item/20955), [Spiroc Thunder Totem](/item/20856), [White Gold Earring](/item/20857)
+if( **You turn in:** [Djinni Statuette](/item/20955), [Spiroc Thunder Totem](/item/20856), [White Gold Earring](/item/20857)) then 
 
 
 
@@ -50,7 +50,7 @@ if **You turn in:** [Djinni Statuette](/item/20955), [Spiroc Thunder Totem](/ite
 
 **Gordon Treecaller despawns.**
 
-elseif **You turn in:** [Bitter Honey](/item/20859), [Circlet of Brambles](/item/20860), [Efreeti Long Sword](/item/20858), [Emerald Spiroc Feather](/item/20962)
+elseif( **You turn in:** [Bitter Honey](/item/20859), [Circlet of Brambles](/item/20860), [Efreeti Long Sword](/item/20858), [Emerald Spiroc Feather](/item/20962)) then 
 
 
 
@@ -62,7 +62,7 @@ elseif **You turn in:** [Bitter Honey](/item/20859), [Circlet of Brambles](/item
 
 **Gordon Treecaller despawns.**
 
-elseif **You turn in:** [Efreeti War Bow](/item/20861), [Thickened Nectar](/item/20969), [Sphinx Tallow](/item/20862), [Shimmering Pearl](/item/20863)
+elseif( **You turn in:** [Efreeti War Bow](/item/20861), [Thickened Nectar](/item/20969), [Sphinx Tallow](/item/20862), [Shimmering Pearl](/item/20863)) then 
 
 
 

@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18854)
+if( **You turn in:** [A tattered note](/item/18854)) then
 
 
 >**Nexvok Thirod says:** Ah ha.. Fresh meat. here, put this on.. you're one of us now. Do your best to do your worst.

@@ -170,7 +170,7 @@ end
 local text = "Oh good! I see you have taught that nasty Nillipuss a thing or two! Good. But it seems to me that he has stolen more jumjum than this. Perhaps he needs another lesson?";
 
 
-if **You turn in:** [Crate of Rotten Carrots](/item/13971)
+if( **You turn in:** [Crate of Rotten Carrots](/item/13971)) then
 
 
 >**Reebo Leafsway says:** Very good. Very good indeed. Karana does not need the blind obedience that so many deities require. Trust your instincts, they are more often right than not. Here, take this to Blinza. Hurry, she is expecting them. You may keep the donation she gives you in return.
@@ -178,7 +178,7 @@ if **You turn in:** [Crate of Rotten Carrots](/item/13971)
 
  **You receive:**  [Crate of Fine Carrots](/item/13957) (+5 exp)
 
-elseif **You turn in:** [Crate of Rotten Carrots](/item/13972)
+elseif( **You turn in:** [Crate of Rotten Carrots](/item/13972)) then
 
 
 >**Reebo Leafsway says:** These carrots are rotten. They were rotten when I gave them to you. Why would you waste time and energy on such a fool's errand? Because I asked you to? Many, even those you trust will ask you to do things which you should not. Use the common sense that Karana has blessed you with to know which tasks can benefit our people and which could harm them. Learn this lesson well. You will need it if you plan to adventure beyond the vale. Now take these fresh carrots to Blinza and apologize for your error. You may keep the donation she gives you as payment.
@@ -186,7 +186,7 @@ elseif **You turn in:** [Crate of Rotten Carrots](/item/13972)
 
  **You receive:**  [Crate of Carrots](/item/13958) 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974)
+elseif **Faction** >= Indifferent and  **You turn in:** [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974)) then
 
 
 >**Reebo Leafsway says:** Excellent!!  You must have taught ol' Nillipuss a great deal!  But he never seems to learn..  Oh well.  The Stormreapers and all of Rivervale owe you a debt of gratitude.  Please accept this token of our appreciation.

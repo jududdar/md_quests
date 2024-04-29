@@ -16,7 +16,7 @@ end
 
 
 
-if **You turn in:** [Sack of Writhing Hay](/item/14321)
+if( **You turn in:** [Sack of Writhing Hay](/item/14321)) then
 
 
 >*Shakey Scarecrow shakes his head around and beams a smile at you.*
@@ -24,7 +24,7 @@ if **You turn in:** [Sack of Writhing Hay](/item/14321)
 
  **You receive:** eq.ChooseRandom( [Wee Harvester](/item/13980),  [Wee Harvester](/item/13980), 14031) (+500 exp)
 
-elseif **You turn in:** [Jack-O-Lantern](/item/11139)
+elseif( **You turn in:** [Jack-O-Lantern](/item/11139)) then
 
 
 **Message:** <span class="text-warning">*You remove the dilapidated pumpkin from Shakey's wooden neck post and replace it with the new one. A haunting voice rings in your ears*</span>

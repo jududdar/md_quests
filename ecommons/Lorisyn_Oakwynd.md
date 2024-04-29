@@ -75,7 +75,7 @@ end
 
 
 
-if **You turn in:** [Cloak of Flames and Frost (t)](/item/2662)
+if( **You turn in:** [Cloak of Flames and Frost (t)](/item/2662)) then 
 
 
 >*Lorisyn Oakwynd holds up a staff and applies the blood to the top of the weapon, turning it dark red. 'Thank you! I hope it wasn't too much trouble to finish off. This weapon should prove most effective against other lycanthropes and magical creatures that you may run across. Good luck!*

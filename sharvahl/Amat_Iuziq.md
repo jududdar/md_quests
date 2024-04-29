@@ -192,7 +192,7 @@ end
 
 
 
-if **You turn in:** [Note to Amat](/item/6265)
+if( **You turn in:** [Note to Amat](/item/6265)) then
 
 
 >**Amat Iuziq says:** So friend, I see Jaima is preparing you to deal with the sonic wolves. Have you heard the term 'sonic wolf' used yet? We call them that because of the face they do not use eyes like an ordinary wolf. They have overcome the night by using a sensory system similar to that of a bat. I sure hope we do not turn into such monstrosities over time... Blasted darkness! Well, back to your situation. You have your strainer, I'm sure. Now, you'll need to purchase the Sonic Wilf Bane books from my frien Qua in the other library and read them. Once you've read them, please take this voucher to Arrin Murij at the general mercantile. He will give you the staff that you will need for your weapon. Good luck, friend.
@@ -200,12 +200,12 @@ if **You turn in:** [Note to Amat](/item/6265)
 
  **You receive:**  [Supply Voucher](/item/6266) 
 
-elseif **You turn in:** [Cloak of the Dar Khura Apprentice](/item/5544), [Sonic Wolf Bane Spear](/item/6268)
+elseif( **You turn in:** [Cloak of the Dar Khura Apprentice](/item/5544), [Sonic Wolf Bane Spear](/item/6268)) then
 
 
 >**Amat Iuziq says:** Well done Soandso!  You have proven your worth and can now be considered a Dar Khura Journeyman!
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Cloak of the Dar Khura Journeyman](/item/6267), [Sonic Wolf Bane Spear](/item/6268)) (+10000 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -75,7 +75,7 @@ end
 
 
 
-if **You turn in:** [Broken Heirloom Necklace](/item/13159)
+if( **You turn in:** [Broken Heirloom Necklace](/item/13159)) then
 
 
 >**Gren Frikniller says:** What's this? Oh, ol' Grandpa Frikniller's lucky necklace, huh? I'll bet this broken piece of junk won't even get me a sip of ale up at the bar. And lucky? How lucky could this thing be? Poor gramps was lonely and copperless his whole life. Bah!! Oh, well. Here's some coin for your efforts, thanks, Soandso.

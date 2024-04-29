@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Magically Sealed Bag](/item/14340)
+if( **You turn in:** [Magically Sealed Bag](/item/14340)) then
 
 
 >**Solomen says:** You actually did it! I never would have thought that anyone could have truly followed this path. This is a tribute to your intelligence and patience. Here, take this staff and know that you have made Solusek Ro and all the wizards of the world proud this day.

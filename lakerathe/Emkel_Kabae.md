@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Twisted Symbol of the Apprentice](/item/20643), [Rolling Stone Moss](/item/20649)
+if( **You turn in:** [Twisted Symbol of the Apprentice](/item/20643), [Rolling Stone Moss](/item/20649)) then 
 
 
 >**Emkel Kabae says:** Very good, Soandso, you have done as the master asked yet again, take this as a reward.' Emkel reaches into his robes and pulls out a small symbol. He holds it out and the tiny symbol floats to your hand.
@@ -34,7 +34,7 @@ if **You turn in:** [Twisted Symbol of the Apprentice](/item/20643), [Rolling St
 
  **You receive:**  [Symbol of the Serpent](/item/20644) (+500 exp)
 
-elseif **You turn in:** [Refined Manisi Herb](/item/20650)
+elseif( **You turn in:** [Refined Manisi Herb](/item/20650)) then 
 
 
 >**Emkel Kabae says:** You are truly worthy of studying with our master. Bear this new symbol and contemplate what you wish from life before you let go of it. Ask the master about the symbol of testing and he will explain all. I too was tested by him.' Emkel pulls up his sleeve to show a grievous scar from his wrist to his shoulder.

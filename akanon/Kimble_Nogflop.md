@@ -32,7 +32,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Flask of Nitrates](/item/13945)
+if **Faction** >= Apprehensive and  **You turn in:** [Flask of Nitrates](/item/13945)) then 
 
 
 >**Kimble Nogflop says:** The flask of nitrates I sent for!! As was the deal, here is my [Regurgitonic]. Give it to whoever may need it and they will surely cough up whatever may be inside them with no harm to them whatsoever.

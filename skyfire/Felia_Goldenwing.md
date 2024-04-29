@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Dull Sapphire](/item/10632)
+if( **You turn in:** [Dull Sapphire](/item/10632)) then
 
 
 >**Felia Goldenwing says:** I have done as you wished, now leave me be.

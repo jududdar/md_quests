@@ -58,7 +58,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Cloud Jewel](/item/4491), [Mark of Twisted Souls](/item/5875), [Chilled Brazier](/item/5876), [Gem of Blue Skies](/item/5877)
+if( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Twisted Souls](/item/5875), [Chilled Brazier](/item/5876), [Gem of Blue Skies](/item/5877)) then 
 
 
 FactionReward(e)
@@ -66,7 +66,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Cloak](/item/3967) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Darkness](/item/5880), [Rune Stone Brazier](/item/5881)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Darkness](/item/5880), [Rune Stone Brazier](/item/5881)) then 
 
 
 FactionReward(e)
@@ -74,7 +74,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Gorget](/item/3969) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Fright](/item/5878), [True Silver Idol](/item/5879)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Fright](/item/5878), [True Silver Idol](/item/5879)) then 
 
 
 FactionReward(e)
@@ -82,7 +82,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Gauntlets](/item/3968) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Gloom](/item/5882), [Gilded Beads](/item/5883), [Etched Tablet](/item/5884)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Gloom](/item/5882), [Gilded Beads](/item/5883), [Etched Tablet](/item/5884)) then 
 
 
 FactionReward(e)
@@ -90,7 +90,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Girdle](/item/3970) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Night](/item/5885), [Beaded Circlet](/item/5886), [Heating Stone](/item/5887)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Night](/item/5885), [Beaded Circlet](/item/5886), [Heating Stone](/item/5887)) then 
 
 
 FactionReward(e)

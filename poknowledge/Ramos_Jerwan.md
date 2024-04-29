@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Vallorian Discus Bones](/item/29173), [Vallorian Discus Bones](/item/29173), [Nightmare Cichlid Bones](/item/29171), [Nightmare Cichlid Bones](/item/29171)
+if( **You turn in:** [Vallorian Discus Bones](/item/29173), [Vallorian Discus Bones](/item/29173), [Nightmare Cichlid Bones](/item/29171), [Nightmare Cichlid Bones](/item/29171)) then 
 
 
 >**Ramos Jerwan says:** Ah, you've done quite well. Take this, it's a special gift I recovered from a recent adventure, and I can think of no greater person to keep it than you. Remember if you're in need of fishing supplies, come see us any time.

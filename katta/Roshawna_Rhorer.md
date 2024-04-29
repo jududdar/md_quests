@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Sealed Runed Iron Bound Chest](/item/31836)
+if( **You turn in:** [Sealed Runed Iron Bound Chest](/item/31836)) then
 
 
 >*Roshawna Rhorer purrs an incantation and waves her claws back and forth over the chest. The runes inscribed on the chest and iron bands begin to softly glow with a golden light. 'You have done a great service for these poor souls. I have sent for a courier to come for the chest of skulls but he is quite late in his arrival. I will keep it safe until the courier arrives.*
@@ -57,7 +57,7 @@ if **You turn in:** [Sealed Runed Iron Bound Chest](/item/31836)
 
 **Spawn NPC:**  [a vah shir courier](/npc/160171) at (**y:** 665, **x:** -544)
 
-elseif **You turn in:** [Resealed Runed Iron Bound Chest](/item/31839)
+elseif( **You turn in:** [Resealed Runed Iron Bound Chest](/item/31839)) then 
 
 
 >**Roshawna Rhorer says:** It appears this situation is much more dire than we had first presumed. It would be unsafe to send this crate within the walls of Shar Vahl should another innocent be possessed and the tormented vah shir be resurrected once more. I shall scribe a note explaining the occurrences for you to deliver along with the crate to Spiritist Roleko at the vah shir outpost in Grimling Forest.
@@ -66,6 +66,6 @@ elseif **You turn in:** [Resealed Runed Iron Bound Chest](/item/31839)
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Resealed Warded Iron Bound Chest](/item/31840), [Roshawna's Report of Occurrences](/item/31841)) (+10000 exp)
 
 **This NPC *should* return incorrect items given.**

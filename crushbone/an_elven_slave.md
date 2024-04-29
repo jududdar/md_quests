@@ -30,14 +30,14 @@ end
 if(e.self:GetRace() == 5 and e.self:GetGender() == 0) then 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 
 >**an elven slave says:** Not that!! I need key number 20!!
 
 
-elseif **You turn in:** [Shackle Key 20](/item/20020)
+elseif( **You turn in:** [Shackle Key 20](/item/20020)) then
 
 
 
@@ -68,7 +68,7 @@ elseif **You turn in:** [Shackle Key 20](/item/20020)
 **an elven slave despawns.**
 
 
-elseif **You turn in:** [Brass Earring](/item/10351)
+elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
@@ -88,14 +88,14 @@ elseif **You turn in:** [Brass Earring](/item/10351)
 elseif(e.self:GetRace() == 5 and e.self:GetGender() == 1) then 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 
 >**an elven slave says:** Please!! I need a key with a number 21!!
 
 
-elseif **You turn in:** [Shackle Key 21](/item/20021)
+elseif( **You turn in:** [Shackle Key 21](/item/20021)) then
 
 
 
@@ -126,7 +126,7 @@ elseif **You turn in:** [Shackle Key 21](/item/20021)
 **an elven slave despawns.**
 
 
-elseif **You turn in:** [Brass Earring](/item/10351)
+elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
@@ -146,14 +146,14 @@ elseif **You turn in:** [Brass Earring](/item/10351)
 elseif(e.self:GetRace() == 4 and e.self:GetGender() == 0) then 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 
 >**an elven slave says:** Not that!! I need key number 18!!
 
 
-elseif **You turn in:** [Shackle Key 18](/item/20018)
+elseif( **You turn in:** [Shackle Key 18](/item/20018)) then
 
 
 
@@ -188,7 +188,7 @@ e.other:GiveCash(0,7,3,0);
 **an elven slave despawns.**
 
 
-elseif **You turn in:** [Brass Earring](/item/10351)
+elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
@@ -208,14 +208,14 @@ elseif **You turn in:** [Brass Earring](/item/10351)
 elseif(e.self:GetRace() == 4 and e.self:GetGender() == 1) then 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 
 >**an elven slave says:** Please!! I need a key with a number 19!!
 
 
-elseif **You turn in:** [Shackle Key 19](/item/20019)
+elseif( **You turn in:** [Shackle Key 19](/item/20019)) then
 
 
 
@@ -246,7 +246,7 @@ elseif **You turn in:** [Shackle Key 19](/item/20019)
 **an elven slave despawns.**
 
 
-elseif **You turn in:** [Brass Earring](/item/10351)
+elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 

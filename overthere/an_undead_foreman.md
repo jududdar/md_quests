@@ -32,7 +32,7 @@ end
 
 
 
-if( **Faction is** >= Amiable and  **You turn in:** [Jade](/item/10023)
+if( **Faction is** >= Amiable and  **You turn in:** [Jade](/item/10023)) then 
 
 
 >*an undead foreman an undead foreman places the gem deep within his hollow eye socket. He pulls a giant sledgehammer from thin air and hands it to you.*

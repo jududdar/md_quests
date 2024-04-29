@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [A Note](/item/18822)
+if( **You turn in:** [A Note](/item/18822)) then
 
 
 >**Raltur Caliskon says:** So the great Antonius Bayle wishes to ally himself with the mighty Knights of Truth. How pathetic. It would appear that the alliance has spawned infiltrators of sorts. Of course, we of the Dismal Rage are already aware of this, but I am sure Sir Lucan D'Lere knows nothing as usual. I have a [mission] for any evil shadowknight of Innoruuk.
@@ -44,7 +44,7 @@ if **You turn in:** [A Note](/item/18822)
 
  **You receive:** 0 (+5000 exp)
 
-elseif **You turn in:** [Bayle List III](/item/18810)
+elseif( **You turn in:** [Bayle List III](/item/18810)) then
 
 
 >**Raltur Caliskon says:** You have done well. This is the Bayle List. I have heard of it. It is useless without the remaining two parts. Take the list. You must collect the other two pieces of the list and take them to a scribe by the name of Rathmana Allin. He can be found in the deserts of South Ro. First, you must go ask Venox Tarkog what the Bayle List is. He is here in the shrine and will fill you in on your mission.

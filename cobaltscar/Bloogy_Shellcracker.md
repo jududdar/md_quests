@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Water Dragon Meat](/item/22812), [Saltwater Seaweed](/item/19113), [Fish Eggs](/item/16498), [Fish Eggs](/item/16498)
+if( **You turn in:** [Water Dragon Meat](/item/22812), [Saltwater Seaweed](/item/19113), [Fish Eggs](/item/16498), [Fish Eggs](/item/16498) or  **You turn in:** [Sea Dragon Meat](/item/22813), [Saltwater Seaweed](/item/19113), [Fish Eggs](/item/16498), [Fish Eggs](/item/16498)) then
 
 
 >**Bloogy Shellcracker says:** It has been many moons since my people have feasted on this rarest of meat. Take this totem crafted in the form of our oceanlord Prexus and inscribed with the runes of our people. May the oceans watch over you, Soandso.

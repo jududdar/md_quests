@@ -92,7 +92,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915)
+if **Faction** >= Amiable and  **You turn in:** [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915)) then
 
 
 >*Drill Master Dal hands you a shimmering black piece of armor which smells quite horrid. You find it hard to keep it from slithering out of your hand. 'Here is the armor the tailors have been working on for the legion. You may test it for us. Keep up your fine work and I may have other pieces available for you to test.'*
@@ -115,7 +115,7 @@ if **Faction** >= Amiable and  **You turn in:** [Marauder Snout Ring 'MM'](/item
 
  **You receive:** eq.ChooseRandom( [Leech Husk Tunic](/item/12917), [Leech Husk Leggings](/item/12918), [Leech Husk Gloves](/item/12919), [Leech Husk Wrist Bands](/item/12920), [Leech Husk Boots](/item/12921)) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full Partisan Pack](/item/12673)
+elseif **Faction** >= Amiable and  **You turn in:** [Full Partisan Pack](/item/12673)) then
 
 
 >**Drill Master Dal says:** Fantastic work, Partisan Soandso. Here is your reward. You may continue to perform this task as the baron has found it aids in our defense. I shall always pay for a good day's work. Just let me know if you are still [ready for the task]. As for the curskin shield, you may only have one. Perhaps soon you will prove yourself a formidable fighter and you can earn a militia pike from Drill Master Vygan.

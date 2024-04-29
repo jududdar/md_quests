@@ -76,7 +76,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sky Jewel](/item/4492), [Aged Gold Coin](/item/4741), [Dark Gem](/item/4742), [Priceless Book](/item/4743)
+if( **You turn in:** [Sky Jewel](/item/4492), [Aged Gold Coin](/item/4741), [Dark Gem](/item/4742), [Priceless Book](/item/4743)) then 
 
 
 FactionReward(e)
@@ -84,7 +84,7 @@ FactionReward(e)
 
  **You receive:**  [Cap of Pestilence](/item/3723) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Miniature Armband](/item/4744), [Mark of Fortune](/item/4745), [Sun Wraith Eye](/item/4746)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Miniature Armband](/item/4744), [Mark of Fortune](/item/4745), [Sun Wraith Eye](/item/4746)) then 
 
 
 FactionReward(e)
@@ -92,7 +92,7 @@ FactionReward(e)
 
  **You receive:**  [Robe of Pestilence](/item/3724) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Petrified Totem](/item/4748), [Frozen Hailstone](/item/4749), [Glowing Crystal](/item/4750)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Petrified Totem](/item/4748), [Frozen Hailstone](/item/4749), [Glowing Crystal](/item/4750)) then 
 
 
 FactionReward(e)
@@ -100,7 +100,7 @@ FactionReward(e)
 
  **You receive:**  [Sleeves of Pestilence](/item/3725) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Divining Rod](/item/4751), [Aged Platinum Symbol](/item/4752), [Silver Sign](/item/4753)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Divining Rod](/item/4751), [Aged Platinum Symbol](/item/4752), [Silver Sign](/item/4753)) then 
 
 
 FactionReward(e)
@@ -108,7 +108,7 @@ FactionReward(e)
 
  **You receive:**  [Pants of Pestilence](/item/3726) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Ancient Fossil](/item/4771), [Wrought Iron Shavings](/item/4772)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Ancient Fossil](/item/4771), [Wrought Iron Shavings](/item/4772)) then 
 
 
 FactionReward(e)
@@ -116,7 +116,7 @@ FactionReward(e)
 
  **You receive:**  [Shawl of Pestilence](/item/3727) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Granite Idol](/item/4773), [Ancient Silver Coin](/item/4774)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Granite Idol](/item/4773), [Ancient Silver Coin](/item/4774)) then 
 
 
 FactionReward(e)
@@ -124,7 +124,7 @@ FactionReward(e)
 
  **You receive:**  [Bracer of Pestilence](/item/3728) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Blackened Ornament](/item/4775), [Snake Scale Sceptre](/item/4776)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Blackened Ornament](/item/4775), [Snake Scale Sceptre](/item/4776)) then 
 
 
 FactionReward(e)

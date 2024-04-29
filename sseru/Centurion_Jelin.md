@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Tattered Letter](/item/6269)
+if( **You turn in:** [Tattered Letter](/item/6269)) then
 
 
 >*Centurion Jelin looks at you puzzled and takes the letter and reads it. 'Oh I am so glad that he is alive! I am happy that you took the time to ease my worries about him. I shall let the people of this town know that you come with good intentions. For now I will rest for I have not slept in days.*

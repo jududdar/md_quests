@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Tiny Gem](/item/1665)
+if( **You turn in:** [Tiny Gem](/item/1665)) then 
 
 
 >**Bondl Felligan says:** WOW, thanks! This must be worth a fortune! I could drink for a month after sellin' this to one of them fool merchants. I'm going to see how much I can get for it right now!

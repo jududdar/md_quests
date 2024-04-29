@@ -58,7 +58,7 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Planar Peridot Encrusted Stein](/item/29168), [Planar Traveler's Manual](/item/28745)
+if(**Your level** > 19 and  **You turn in:** [Planar Peridot Encrusted Stein](/item/29168), [Planar Traveler's Manual](/item/28745)) then
 
 
 >**Winon Glahar says:** Marvelous! You certainly have shown to be a skilled craftsman, and I thank you for such a lovely beverage conveyance. Take this book and use it to learn from. When you are ready, speak with Leramas Feston for your next lesson. Do not lose this manual or else he will not be able to train you.
@@ -67,6 +67,6 @@ if(**Your level** > 19 and  **You turn in:** [Planar Peridot Encrusted Stein](/i
 
 
 
- **You receive:** None 
+ **You receive:**  [Beginner Stealth Manual](/item/28792) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

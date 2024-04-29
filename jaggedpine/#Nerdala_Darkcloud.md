@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Empty Lunch Bag](/item/8272)
+if( **You turn in:** [Empty Lunch Bag](/item/8272)) then 
 
 
 >**Nerdala Darkcloud says:** Oh why thank you dear. Here's the pasta recipes as I promised.

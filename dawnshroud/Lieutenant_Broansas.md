@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [A Notorized Letter](/item/4760)
+if( **You turn in:** [A Notorized Letter](/item/4760)) then
 
 
 >**Lieutenant Broansas says:** You are sent from Lady Mistala I see? Ah of course she needs my reports. I trust you will return these documents to Mistala at once. Here you are, and thank you for your help. I shall have more reports soon.

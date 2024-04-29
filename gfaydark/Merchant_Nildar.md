@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A Tattered Cloth Note](/item/18903)
+if( **You turn in:** [A Tattered Cloth Note](/item/18903)) then
 
 
 >**Merchant Nildar says:** My brother still lives? Thank you for this news. Please, take this with my deepest thanks.

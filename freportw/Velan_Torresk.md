@@ -141,7 +141,7 @@ local text2 = "Ah, very good. You are well on your way to earning the yellow Sas
 if **Faction** >= Amiable +50 then
 
 
-if **You turn in:** [Deathfist Pawn Scalp](/item/13794), [Deathfist Pawn Scalp](/item/13794), [Snake Fang](/item/13067), [Bone Chips](/item/13073)
+if( **You turn in:** [Deathfist Pawn Scalp](/item/13794), [Deathfist Pawn Scalp](/item/13794), [Snake Fang](/item/13067), [Bone Chips](/item/13073)) then
 
 
 
@@ -168,7 +168,7 @@ if **You turn in:** [Deathfist Pawn Scalp](/item/13794), [Deathfist Pawn Scalp](
 
 
 
-if **Faction** >= Amiable +75 and  **You turn in:** [White Training Sash](/item/10130), [Giant Snake Rattle](/item/13058), [Deathfist Slashed Belt](/item/13916), [Desert Tarantula Chitin](/item/20901)
+if **Faction** >= Amiable +75 and  **You turn in:** [White Training Sash](/item/10130), [Giant Snake Rattle](/item/13058), [Deathfist Slashed Belt](/item/13916), [Desert Tarantula Chitin](/item/20901)) then
 
 
 >**Velan Torresk says:** Ah, well done, Soandso. You have proven that you are a very skillful fighter and it is an honor to have you as a member of the Ashen Order. On behalf of Master Closk, and under the watchful eyes of Quellious, I present you, Soandso, with this, the yellow Sash of Order. Go out and make us proud.

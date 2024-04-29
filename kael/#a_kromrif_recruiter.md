@@ -44,22 +44,22 @@ local head = 0;
 
 
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)
+if( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
 
 
 head = 4;
 
-elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)
+elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
 
 
 head = 3;
 
-elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081)
+elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
 
 
 head = 2;
 
-elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081)
+elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081)) then
 
 
 head = 1;

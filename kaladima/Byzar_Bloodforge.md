@@ -93,7 +93,7 @@ local text = "What good is one?! I called for the heads of both Corflunk and Zar
 
 
 
-if **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931)
+if( **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931)) then
 
 
 >**Byzar Bloodforge says:** You finally have proven yourself a warrior, a slow one!!  Take this reward and ask for nothing else.  You should be proud to defend Kaladim and expect no reward.
@@ -114,9 +114,9 @@ if **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/
 * __Faction:__ [Craknek Warriors](/faction/232) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122)) (+1000 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Ogre Head](/item/13741), [Ogre Head](/item/13740)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Ogre Head](/item/13741), [Ogre Head](/item/13740)) then
 
 
 >**Byzar Bloodforge says:** I underestimated you.  You are truly a great warrior.  I reward you with a piece of my own Bloodforge armor.  You would be fine Bloodforge Brigade material!  How would you like to [take a little trip] in the name of the Bloodforge Brigade?
@@ -139,7 +139,7 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Ogre Head](/item/13741
 
  **You receive:** eq.ChooseRandom( [Bloodforge Helm](/item/3090), [Bloodforge Mail](/item/3091), [Bloodforge Armplates](/item/3092), [Bloodforge Bracers](/item/3093), [Bloodforge Gauntlets](/item/3094), [Bloodforge Legplates](/item/3095), [Bloodforge Boots](/item/3096)) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12136)
+elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12136)) then
 
 
 >**Byzar Bloodforge says:** Ha!! His death brings me great happiness.  I owe you much.  Take this hammer.  It is the hammer of the Bloodforge Brigade.  May it serve you well.  Now go, so I can enjoy this moment of happiness alone.

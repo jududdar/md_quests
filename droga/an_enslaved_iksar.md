@@ -50,7 +50,7 @@ local text1 = "Oh no!! The bargain was, you bring me the keys to the main gates 
 
 
 
-if **You turn in:** [A Stone Key](/item/12708), [A Bone Key](/item/12712), [A Bone Necklace](/item/12713)
+if( **You turn in:** [A Stone Key](/item/12708), [A Bone Key](/item/12712), [A Bone Necklace](/item/12713)) then 
 
 
 >*an enslaved iksar escapes with a flash, but before he goes, he speaks, 'At last!! The keys which shall bring me freedom! I thank you and here is the contraption needle. Good luck.'*

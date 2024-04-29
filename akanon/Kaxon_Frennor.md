@@ -56,7 +56,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if (expansion_flag >= 4.0 and  **You turn in:** [Jibble's Stiletto](/item/10992)
+if (expansion_flag >= 4.0 and  **You turn in:** [Jibble's Stiletto](/item/10992)) then
 
 
 >**Kaxon Frennor says:** At last that haughty rogue has met his Take this Dull Dark Reflection Stiletto and sharpen it in a forge with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once the blade has been sharpened take the sharpened stiletto to Clockwork Smith XIII with a Giant Rat Pelt and he will put the finishing touches on your new weapon.
@@ -79,7 +79,7 @@ if (expansion_flag >= 4.0 and  **You turn in:** [Jibble's Stiletto](/item/10992)
 
  **You receive:**  [Dull Dark Reflection Stiletto](/item/10997) (+100 exp)
 
-elseif  **You turn in:** [Old Folded Letter](/item/18705)
+elseif ( **You turn in:** [Old Folded Letter](/item/18705)) then 
 
 
 * __Faction:__ [Dark Reflection](/faction/238) (100)

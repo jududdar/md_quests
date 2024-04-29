@@ -39,7 +39,7 @@ end
 if( **Faction is** > Apprehensive) then
 
 
-if **You turn in:** [Crafted Bracers](/item/4177)
+if( **You turn in:** [Crafted Bracers](/item/4177)) then
 
 
 
@@ -66,7 +66,7 @@ if **You turn in:** [Crafted Bracers](/item/4177)
  **You receive:**  [Small Crafted Bracers](/item/4185) 
 
 
-elseif **You turn in:** [Crafted Greaves](/item/4179)
+elseif( **You turn in:** [Crafted Greaves](/item/4179)) then
 
 
 
@@ -93,7 +93,7 @@ elseif **You turn in:** [Crafted Greaves](/item/4179)
  **You receive:**  [Small Crafted Greaves](/item/4187) 
 
 
-elseif **You turn in:** [Crafted Pauldron](/item/4175)
+elseif( **You turn in:** [Crafted Pauldron](/item/4175)) then
 
 
 
@@ -120,7 +120,7 @@ elseif **You turn in:** [Crafted Pauldron](/item/4175)
  **You receive:**  [Small Crafted Pauldron](/item/4183) 
 
 
-elseif **You turn in:** [Crafted Breastplate](/item/4174)
+elseif( **You turn in:** [Crafted Breastplate](/item/4174)) then
 
 
 

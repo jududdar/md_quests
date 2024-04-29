@@ -142,7 +142,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Lion Tooth](/item/9917), [Lion Tooth](/item/9917), [Shanas Necklace](/item/9933)
+if(expansion_flag >= 4.0 and  **You turn in:** [Lion Tooth](/item/9917), [Lion Tooth](/item/9917), [Shanas Necklace](/item/9933)) then 
 
 
 >**Shana Liskia says:** I am so happy to have my necklace back! I cannot begin to tell you how much this means to me Reveree. Please take this dagger as a symbol of my sincere thanks. It was presented to me by the academy for my years of teaching but I hope you will take it. Good luck to you and come back to visit us soon!

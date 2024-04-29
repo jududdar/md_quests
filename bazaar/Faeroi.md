@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Hardams Box of Goods](/item/4757)
+if( **You turn in:** [Hardams Box of Goods](/item/4757)) then 
 
 
 >**Faeroi says:** Ah Hardam sent you eh. Fair enough then, please let him know I will get to selling these goods as soon as possible and please let him know that the helm will be done soon. All I need is a certain [piece].
@@ -33,7 +33,7 @@ if **You turn in:** [Hardams Box of Goods](/item/4757)
  **You receive:** 0 (+500 exp)
 
 
-elseif **You turn in:** [Rhino Beetle Horn](/item/5985)
+elseif( **You turn in:** [Rhino Beetle Horn](/item/5985)) then 
 
 
 >**Faeroi says:** Its good to see you again so soon Soandso. I knew that you would be able to assist me in this task. As I said, here is Hardams finished helm. Please return it to him for me as I cannot leave my booth here.

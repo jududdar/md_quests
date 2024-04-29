@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [A Cracked Flute](/item/13310)
+if( **You turn in:** [A Cracked Flute](/item/13310)) then 
 
 
 >**Cordelia Minster says:** Why thank you, kind adventurer! Here is a little something to keep food in your belly. Now back to practice. La la la..
@@ -45,7 +45,7 @@ if **You turn in:** [A Cracked Flute](/item/13310)
 * __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Winds of Karana sheet 2](/item/13119) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 

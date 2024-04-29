@@ -36,7 +36,7 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if **You turn in:** [A Khala Dun Guild Summons](/item/18553)
+if( **You turn in:** [A Khala Dun Guild Summons](/item/18553)) then 
 
 
 >**High Armsman Trukhanah says:** Good Soandso. I am pleased to see you. You have come of age and it is time for you to register as a citizen of Shar Vahl. Your invitation indicates that the Khala Dun, defenders of our society, have noticed you and consider your potential to be worthy of our training. First, take this application to Registrar Bindarah and return to me with proof of your citizenship.
@@ -48,9 +48,9 @@ if **You turn in:** [A Khala Dun Guild Summons](/item/18553)
 eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
- **You receive:** None 
+ **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
 
-elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)
+elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**High Armsman Trukhanah says:** Congratulations Soandso! Welcome to your new life as an official citizen of Shar Vahl. This cloak symbolizes your commitment to serving this people through continuous self-improvement. For now, you must strenghten yourself until you become worthy to train in the way of the Khala Dun. Show your acylia slate to Guard Hebijeb. He will direct you further. May the spirits of our ancestors be your guide.
@@ -59,6 +59,6 @@ elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of S
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
 
 **This NPC *should* return incorrect items given.**

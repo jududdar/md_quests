@@ -131,7 +131,7 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item/25119)
+if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item/25119)) then
 
 
 >**Kyenka says:** This beast must have taken quite a force to slay. These boots have been crafted to reward your kind for such great efforts. Take them and wear them with pride. They will be a warning to other dragons that you are a great slayer of their kind.
@@ -151,7 +151,7 @@ if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item
 
  **You receive:**  [Barbed Dragonscale Boots](/item/25029) (+75000 exp)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Greater Dragon's Head](/item/25118)
+elseif **Faction** >= Amiable +300 and  **You turn in:** [Greater Dragon's Head](/item/25118)) then
 
 
 >**Kyenka says:** You serve the crown well, Soandso. This is one less beast to ruin our lands. Take these pauldrons which I have fashioned from the first dragon scales brought to King Tormax's court.

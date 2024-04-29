@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Shadowy Thoughts](/item/18536)
+if( **You turn in:** [Shadowy Thoughts](/item/18536)) then 
 
 
 >**Drakis Bloodcaster says:** Farewell.
@@ -48,7 +48,7 @@ if **You turn in:** [Shadowy Thoughts](/item/18536)
 
 **Drakis Bloodcaster despawns.**
 
-elseif **You turn in:** [Pomp and Circumstance](/item/18537)
+elseif( **You turn in:** [Pomp and Circumstance](/item/18537)) then 
 
 
 >**Drakis Bloodcaster says:** Farewell.

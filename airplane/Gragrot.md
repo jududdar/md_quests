@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Ebon Tessera](/item/20929), [Sphinx Eye Opal](/item/20997), [Finely Crafted Amulet](/item/20998)
+if( **You turn in:** [Ebon Tessera](/item/20929), [Sphinx Eye Opal](/item/20997), [Finely Crafted Amulet](/item/20998)) then 
 
 
 
@@ -51,7 +51,7 @@ if **You turn in:** [Ebon Tessera](/item/20929), [Sphinx Eye Opal](/item/20997),
 
  **You receive:**  [Amulet of the Sphinx Eye](/item/27705) (+100000 exp)
 
-elseif **You turn in:** [Copper Disc](/item/20936), [Small Sapphire](/item/20999), [Silvery Ring](/item/20700)
+elseif( **You turn in:** [Copper Disc](/item/20936), [Small Sapphire](/item/20999), [Silvery Ring](/item/20700)) then 
 
 
 >**Gragrot says:** Gragrot give uuz ring, now uuz use it!
@@ -59,7 +59,7 @@ elseif **You turn in:** [Copper Disc](/item/20936), [Small Sapphire](/item/20999
 
  **You receive:**  [Crimson Ring of the Djinni](/item/27706) (+100000 exp)
 
-elseif **You turn in:** [Diaphanous Globe](/item/20943), [Dried Leather](/item/20701), [Finely Woven Cloth Belt](/item/20702)
+elseif( **You turn in:** [Diaphanous Globe](/item/20943), [Dried Leather](/item/20701), [Finely Woven Cloth Belt](/item/20702)) then 
 
 
 >**Gragrot says:** Take this belt with the blessing of Veeshan, Soandso.

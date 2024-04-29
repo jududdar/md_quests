@@ -205,7 +205,7 @@ local text1 = "In my hand shall be placed three skulls of the Trilac Brotherhood
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A note to Oxyn](/item/3895)
+if **Faction** >= Indifferent and  **You turn in:** [A note to Oxyn](/item/3895)) then 
 
 
 
@@ -220,7 +220,7 @@ if **Faction** >= Indifferent and  **You turn in:** [A note to Oxyn](/item/3895)
 
  **You receive:**  [Bottle of Liquid Deklium](/item/3892) (+5000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Chunk of Tynnonium](/item/3886)
+elseif **Faction** >= Indifferent and  **You turn in:** [Chunk of Tynnonium](/item/3886)) then 
 
 
 >*Hierophant Oxyn holds the ore in his hands and begins to chant. His eyes go white as he raises the chunk of ore above his head. He lowers his arms and shakes his head for a moment. His eyes return to their normal state as they focus on you. The shaman hands you the ore and says, 'Seek out the creator of Rile's blade. He is still on this plane. I have felt his torment. Take this note to Librarian Zimor. He learned a great deal from the tome and can instruct you further.'*
@@ -240,7 +240,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Chunk of Tynnonium](/it
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full Component Mortar](/item/12403)
+elseif **Faction** >= Amiable and  **You turn in:** [Full Component Mortar](/item/12403)) then 
 
 
 >**Hierophant Oxyn says:** We appreciate your service. Take a few copper for your deed as well as some of our cursed waters. They will provide you with nourishment. As for future tasks, we are searching for a few [lost skulls] and i am sure you are searching for your [iron cudgel of the clairvoyant] And i also hear that the furscales are in need of some broodlings to do some manual labor. Tell them Oxyn sent you.
@@ -267,7 +267,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Full Component Mortar](/ite
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Morgl Skull](/item/12721), [Logrin Skull](/item/12722), [Waz Skull](/item/12723), [Iron Cudgel of the Petitioner](/item/5140)
+elseif **Faction** >= Amiable and  **You turn in:** [Morgl Skull](/item/12721), [Logrin Skull](/item/12722), [Waz Skull](/item/12723), [Iron Cudgel of the Petitioner](/item/5140)) then
 
 
 >**Hierophant Oxyn says:** Excellent! You have proved yourself worthy to wield the iron cudgel of the clairvoyant. As a clairvoyant I feel I can trust you, so I will tell you that the issue of the missing skulls is a [much larger problem] than last stated.
@@ -291,7 +291,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Morgl Skull](/item/12721), 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Skull with I](/item/12724), [Skull with II](/item/12725), [Iron Cudgel of the Clairvoyant](/item/5141)
+elseif **Faction** >= Amiable and  **You turn in:** [Skull with I](/item/12724), [Skull with II](/item/12725), [Iron Cudgel of the Clairvoyant](/item/5141)) then
 
 
 >**Hierophant Oxyn says:** We are in your debt,Soandso . You are truly one who shall collect all the lost ancient skulls. Take your weapon. Go to Hierophant Zand and he shall guide you further. Tell him you are [the chosen saviour].

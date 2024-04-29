@@ -69,7 +69,7 @@ end
 
 
 
-if **You turn in:** [Velium Focus](/item/1692)
+if( **You turn in:** [Velium Focus](/item/1692)) then 
 
 
 >*Phenocryst speaks to you from within your mind, You know the stone! This is wonderful! The fullfillment of the prophecy is now one step closer. The most ancient of the stone tells us that one not of stone will come forth and act as our harbringer of asscention. We believe you to be our harbringer. Please help us!*
@@ -80,7 +80,7 @@ if **You turn in:** [Velium Focus](/item/1692)
 
  **You receive:**  [Velium Focus](/item/1693) 
 
-elseif **You turn in:** [Velium Focus](/item/1701)
+elseif( **You turn in:** [Velium Focus](/item/1701)) then 
 
 
 >*Phenocryst sends it's thoughts to you, a feeling of disappointment washes over you, It seems the others are not aware of themselves yet. We are alone..So many questions yet we can find no answers. We have been given a very special gift but without direction we are lost. We must find who has made us aware of ourselves and why it has done so.*
@@ -89,9 +89,9 @@ elseif **You turn in:** [Velium Focus](/item/1701)
 * __Faction:__ [Geonid Collective](/faction/458) (100)
 
 
- **You receive:** None 
+ **You receive:**  [Velium Focus](/item/1701) 
 
-elseif **You turn in:** [Azurite Focus](/item/1698), [Holy Symbol of Zek](/item/1699), [Holy Symbol of Zek](/item/1699), [Holy Symbol of Zek](/item/1699)
+elseif( **You turn in:** [Azurite Focus](/item/1698), [Holy Symbol of Zek](/item/1699), [Holy Symbol of Zek](/item/1699), [Holy Symbol of Zek](/item/1699)) then
 
 
 >*Phenocryst thoughts become your own, a feeling of joy overwhelms you, 'Because of you we can at last speak with our maker. We were once given a gift, and we ask that you accept this gift from us now so that we may come closer to that which we owe our sentience to. Now. ,we must construct the Menhir.*
@@ -102,7 +102,7 @@ elseif **You turn in:** [Azurite Focus](/item/1698), [Holy Symbol of Zek](/item/
 
  **You receive:**  [Phenocrysts Focus](/item/1700) 
 
-elseif **You turn in:** [Elbaite Focus](/item/1694), [Reddish Crystal](/item/1695), [Heavy Metallic Crystal](/item/1697), [Bent Metallic Crystal](/item/1696)
+elseif( **You turn in:** [Elbaite Focus](/item/1694), [Reddish Crystal](/item/1695), [Heavy Metallic Crystal](/item/1697), [Bent Metallic Crystal](/item/1696)) then 
 
 
 >*Phenocryst makes no sound but it's voice fills your mind. We have always held our memories within the earth and stone but only recently have we become aware of them. We do not know what happened or who gave us this wonderful gift but we can now access those memories and are aware of it's storage. With that knowledge has come questions and desires. When the prophecy comes to be then we will have our answers and fulfill our desires.*

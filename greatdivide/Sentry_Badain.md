@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Declaration of War](/item/1567), [Coldain Hero's Insignia Ring](/item/30369)
+if( **You turn in:** [Declaration of War](/item/1567), [Coldain Hero's Insignia Ring](/item/30369)) then
 
 
 >*Sentry Badain breathes deeply and blows into an ornate horn. As the sound echoes through the mountain pass, the local inhabitants scurry to take cover.*

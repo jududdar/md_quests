@@ -148,7 +148,7 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [An old worn Talisman](/item/1861), [Teachings of Gkrean](/item/1864), [Head of Staff Sergeant Drioc](/item/1865), [A chipped fang](/item/1863)
+if **Faction** >= Warmly and ( **You turn in:** [An old worn Talisman](/item/1861), [Teachings of Gkrean](/item/1864), [Head of Staff Sergeant Drioc](/item/1865), [A chipped fang](/item/1863) or  **You turn in:** [Teachings of Gkrean](/item/1864), [Head of Staff Sergeant Drioc](/item/1865), [A chipped fang](/item/1863))) then
 
 
 >**Rolandal says:** So you finally made it ! Head back to Ralgyn to get your reward.
@@ -168,7 +168,7 @@ if **Faction** >= Warmly and  **You turn in:** [An old worn Talisman](/item/1861
 
 **Rolandal despawns.**
 
-elseif **Faction** >= Kindly and  **You turn in:** [An old worn Talisman](/item/1861)
+elseif **Faction** >= Kindly and  **You turn in:** [An old worn Talisman](/item/1861)) then
 
 
 >**Rolandal says:** It would be my guess that you present this to me in hopes of finding out more about the magics it possesses. Before I can do this I require some rare treasures that you must present to me.

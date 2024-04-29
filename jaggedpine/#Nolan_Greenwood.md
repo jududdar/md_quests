@@ -133,7 +133,7 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Jade Studded Rawhide Tunic](/item/8761), [Silver Griffon Feathers](/item/8760)
+if **Faction** >= Warmly and  **You turn in:** [Jade Studded Rawhide Tunic](/item/8761), [Silver Griffon Feathers](/item/8760)) then
 
 
 >**Nolan Greenwood says:** You have done well, Soandso. I am impressed and most pleased to know that you are adapting and accepting our ways so easily. Take this and may it protect you in these troubling times.

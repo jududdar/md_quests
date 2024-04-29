@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Drogan Warlord's Insignia](/item/6475), [Forged Note to Courier](/item/6471)
+if( **You turn in:** [Drogan Warlord's Insignia](/item/6475), [Forged Note to Courier](/item/6471)) then 
 
 
 >*a shady goblin gapes at the note in puzzlement, obviously a bit concerned by it. The courier looks at the note for more than a minute, then looks at you, and back at the note. 'Errm... welp, dunno what to make of the note. If I know the right of it, Skargus finally got him some girly to do his writin' for him. Ooooh I bet she a tasty one, graarr. If I was warlord I know I'd have me a girly too. Gah, take this report and get outta my sight.*

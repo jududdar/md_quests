@@ -16,7 +16,7 @@ end
 
 
 
-if **You turn in:** [Dull Bladed Axe](/item/30265)
+if( **You turn in:** [Dull Bladed Axe](/item/30265)) then
 
 
 >**Boridain Glacierbane says:** Say! This looks just like the axe my uncle uses. With this I can kill the beast for sure! Now please, be very quiet, I must track my prey. I won't return to Thurgadin without the hide of the rabid tundra kodiak!

@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Temple Blankets](/item/12102)
+if( **You turn in:** [Temple Blankets](/item/12102)) then
 
 
 >**Rongol says:** Thank you, protector of Karana. This will be handy when the cold rushes into the valley. Allow me to offer you some provisions for your journey. And, might I add, the [Karana bandits] have begun to operate much closer to Qeynos.
@@ -49,6 +49,6 @@ if **You turn in:** [Temple Blankets](/item/12102)
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+2000 exp)
 
 **This NPC *should* return incorrect items given.**

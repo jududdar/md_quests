@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Aching Blood](/item/14058), [Aching Blood](/item/14058), [Aching Blood](/item/14058), [Aching Blood](/item/14058)
+if( **You turn in:** [Aching Blood](/item/14058), [Aching Blood](/item/14058), [Aching Blood](/item/14058), [Aching Blood](/item/14058)) then
 
 
 >*Zabaltin Draux takes the poison from you and pours it into a bottle of ale. 'Here, deliver this to Brendar Mynden! Tell him first that I wish to find compromise between our differences to throw him off guard. Then give him the ale to drink. So that I know you were successful bring me that gaudy ring he always wears. I sure do hate that ugly ring.'*
@@ -30,7 +30,7 @@ if **You turn in:** [Aching Blood](/item/14058), [Aching Blood](/item/14058), [A
 
  **You receive:**  [Poisoned Wine](/item/29862) 
 
-elseif **You turn in:** [Unadorned Ring](/item/29863)
+elseif( **You turn in:** [Unadorned Ring](/item/29863)) then
 
 
 >**Zabaltin Draux says:** Ha! His gaudy ring! You have done well young rogue. Perhaps you would be an asset to the Eye after all. You can have his nasty ring back, I am sure that it is worthless. Darn thing weighs as much as a Netherbian and is twice as ugly!

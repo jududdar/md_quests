@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [never stop chopping](/item/12366)
+if( **You turn in:** [never stop chopping](/item/12366)) then 
 
 
 >**Bryan McGee says:** On second thought.. You can do a little favor for me first. An associate of mine has asked me to acquire a case of spirits for him. Take this box and seek out what is needed to fill it. Inside you will combine the spirits of Lendel's Grand Lager, Gator Gulp Ale, Blackburrow Swig, Tunare's Finest, Underfoot Triple Bock, Frozen Toe Rum, Blood Spirit, Vasty Deep Ale, Clockwork Oil Stout and the legendary..[Oblong Bottle].
@@ -78,7 +78,7 @@ if **You turn in:** [never stop chopping](/item/12366)
 
 **Signaled to:**  [Beef](/npc/5055)
 
-elseif **You turn in:** [Case of Spirits](/item/12365)
+elseif( **You turn in:** [Case of Spirits](/item/12365)) then
 
 
 >**Bryan McGee says:** I cannot believe you actually acquired all those drinks!! You do good work, kid. Here is the gem as I promised. And a few plat for good measure. Don't let it be said that the Axe doesn't treat his friends right.
@@ -99,6 +99,6 @@ elseif **You turn in:** [Case of Spirits](/item/12365)
 * __Faction:__ [The Freeport Militia](/faction/330) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Gem of Stamina](/item/12348) (+15000 exp)
 
 **This NPC *should* return incorrect items given.**

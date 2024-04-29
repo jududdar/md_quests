@@ -38,7 +38,7 @@ end
 
 
 
-if( **Faction is** > Amiable and  **You turn in:** [Scout Report](/item/29688)
+if( **Faction is** > Amiable and  **You turn in:** [Scout Report](/item/29688)) then
 
 
 >**Commander Leuz says:** Well this artifact will defently need study. Thank you for this report. Perhaps after we have researched this object more we will have more for you to search for.

@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Staff of Elemental Mastery: Water](/item/11569), [Tears of Erollisi](/item/28040), [Rain of Karana](/item/28041)
+if( **You turn in:** [Staff of Elemental Mastery: Water](/item/11569), [Tears of Erollisi](/item/28040), [Rain of Karana](/item/28041)) then
 
 
 >**Jinalis Andir says:** You have the control needed in order to manipulate the water which surrounds us. Take this Element and guard it well, you will need it in the times to come.

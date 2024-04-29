@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20767), [Finely Woven Cloth Cord](/item/20768)
+if( **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20767), [Finely Woven Cloth Cord](/item/20768)) then 
 
 
 >**Lelulean says:** Good work, Soandso, I hope you find this as useful as I find the items you retrieved for me.
@@ -41,7 +41,7 @@ if **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20
 
  **You receive:**  [Sphinx Hair Cord](/item/1277) (+100000 exp)
 
-elseif **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/20770), [Silver Disc](/item/20938)
+elseif( **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/20770), [Silver Disc](/item/20938)) then 
 
 
 >**Lelulean says:** The Wind Walker's Mantle will sit well upon your shoulders, Soandso.  Be well this day.
@@ -49,7 +49,7 @@ elseif **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/
 
  **You receive:**  [Wind Walkers Mantle](/item/1276) (+100000 exp)
 
-elseif **You turn in:** [Rugous Globe](/item/20945), [Silken Mask](/item/20772), [Sky Pearl](/item/20771)
+elseif( **You turn in:** [Rugous Globe](/item/20945), [Silken Mask](/item/20772), [Sky Pearl](/item/20771)) then 
 
 
 >**Lelulean says:** My thanks to you, Soandso.  Take this mask as a token of my gratitude.

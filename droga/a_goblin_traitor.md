@@ -44,7 +44,7 @@ end
 if( **Faction is** > Kindly) then  
 
 
-if **You turn in:** [Di'zok Signet of Service](/item/5728)
+if( **You turn in:** [Di'zok Signet of Service](/item/5728)) then 
 
 
 

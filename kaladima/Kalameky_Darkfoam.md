@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A Small Wood Carving](/item/18906)
+if( **You turn in:** [A Small Wood Carving](/item/18906)) then
 
 
 >**Kalameky Darkfoam says:** Why, that..! Bah! Fine. Stupid as a newborn gob. He's not gonna get this, then. Hey, you might as well take it. It was gonna be his reward fer a job well done.

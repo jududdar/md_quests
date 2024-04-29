@@ -54,7 +54,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Smuggled Goods](/item/19840)
+if **Faction** >= Apprehensive and  **You turn in:** [Smuggled Goods](/item/19840)) then
 
 
 >**Duke Norfin says:** Excellent work. I'm glad you were able to collect this shipment. The buyers were getting anxious to have it delivered. Come back later and I may have another job for you.

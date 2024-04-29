@@ -61,7 +61,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Poacher's Head](/item/13825)
+if **Faction** >= Amiable and  **You turn in:** [Poacher's Head](/item/13825)) then 
 
 
 >**Jras Solsier says:** You have served us well. The harmony of the forest shall be preserved. I have word that theses infidels were all working for one man. Find me evidence pertaining to this man. Surely one of these poachers has something which could aid in finding this man. We must stop him to stop the poachers. Go in peace.
@@ -81,7 +81,7 @@ if **Faction** >= Amiable and  **You turn in:** [Poacher's Head](/item/13825)
 
  **You receive:** eq.ChooseRandom( [Copper Band](/item/10004), [Small Lantern](/item/13003), [Malachite](/item/10015), [Rusty Spear](/item/7009)) (+3000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13913)
+elseif **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13913)) then 
 
 
 >**Jras Solsier says:** It is done! Quellious will look favorably upon our church and we will look favorably upon you. Go in peace.

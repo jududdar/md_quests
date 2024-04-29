@@ -46,7 +46,7 @@ end
 
 
 
-if **You turn in:** [Section of Lodizal's Shell](/item/22815),platinum = 1000
+if( **You turn in:** [Section of Lodizal's Shell](/item/22815),platinum = 1000) then
 
 
 >*Bungre Crawcrusher skillfully crafts the section of Lodizal's shell into the shape of a shield. He then attaches sturdy cured walrus hide leather straps to the inner side of the shield and inscribes intricate glowing runes on the shield's face. When he is finished, he hands you the shield and claps loudly.*

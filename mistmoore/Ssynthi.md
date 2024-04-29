@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [A Flower](/item/14362)
+if( **You turn in:** [A Flower](/item/14362)) then 
 
 
 >**Ssynthi says:** Thank you. Since you have done me a service with no thought of reward, I offer you this small token of my favor.

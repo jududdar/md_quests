@@ -75,7 +75,7 @@ local text1 = "You will be rewarded with the knight's khukri when I have possess
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Glowing Skull](/item/12401), [Squire's Khukri](/item/5122)
+if **Faction** >= Amiable and  **You turn in:** [A Glowing Skull](/item/12401), [Squire's Khukri](/item/5122)) then
 
 
 

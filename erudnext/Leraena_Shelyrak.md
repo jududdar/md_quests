@@ -114,7 +114,7 @@ end
 local text = "I require the hieroglyph translations, the doctrine of Rolfron Zek, and your disciple symbol of Quellious.";
 
 
-if **You turn in:** [A tattered note](/item/18723)
+if( **You turn in:** [A tattered note](/item/18723)) then 
 
 
 >**Leraena Shelyrak says:** Greetings. and welcome to the Temple of Divine Light! Here is your guild tunic. Serve Quellious well. Please see Lumi Stergnon - he has a task for you.
@@ -134,15 +134,18 @@ if **You turn in:** [A tattered note](/item/18723)
 
  **You receive:**  [Faded Silver Tunic*](/item/13546) (+20 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Odd Cold Iron Necklace](/item/14585)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Odd Cold Iron Necklace](/item/14585)) then 
 
 
 >**Leraena Shelyrak says:** It is imperative that we discern the nature of these symbols and the source of the kobolds shamanistic powers. There is a citizen of Erudin residing in Freeport named Glyssa Sonshaw. She is quite possibly the most knowledgeable individual in the field of heraldic and hieroglyphic studies. Take the high shamans necklace and this note to her. When you have discovered the nature of the symbols return to me with the documentation and your Disciple Symbol of Quellious.
 
 
- **You receive:** None 
+ **You receive:**  [Sealed Parchment](/item/1772) 
 
-elseif **You turn in:** [rolled up strip of cloth](/item/2049)
+
+ **You receive:**  [Odd Cold Iron Necklace](/item/14585) 
+
+elseif( **You turn in:** [rolled up strip of cloth](/item/2049)) then 
 
 
 >**Leraena Shelyrak says:** This is important news indeed. It seems there is a tribe of cat men in the Stonebrunt Mountains that wishes to form an alliance with Erudin. I must alert the High Council of this immediately, thank you for your services.
@@ -162,7 +165,7 @@ elseif **You turn in:** [rolled up strip of cloth](/item/2049)
 
  **You receive:** 0 (+1000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of Bone Necklaces](/item/14582)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of Bone Necklaces](/item/14582)) then 
 
 
 >**Leraena Shelyrak says:** I am unfamiliar with the markings that adorn these necklaces. You have done well thus far in hindering the kobolds worship of their evil deity. I award you the Initiate Symbol of Quellious. Return to me when you feel you are ready to deal with the [greater kobold shaman].
@@ -182,7 +185,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of B
 
  **You receive:**  [Initiate Symbol of Quellious](/item/1564) (+1000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Odd Kobold Paw](/item/13883), [Odd Kobold Paw](/item/13883), [Odd Kobold Paw](/item/13883)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Odd Kobold Paw](/item/13883), [Odd Kobold Paw](/item/13883), [Odd Kobold Paw](/item/13883)) then 
 
 
 >**Leraena Shelyrak says:** Fine work. They shall never lay hands upon another kobold again. I mean paws. Here is a small reward for a fine job. Unfortunatly we have recently learned that the shamen in the forest are merely underlings to [more powerful kobold shamen] that reside in the kobold warrens. Continue the work of Quellious.
@@ -202,7 +205,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Odd Kobold Paw](/ite
 
  **You receive:** eq.ChooseRandom( [Spell: Cure Disease](/item/15213), [Spell: Holy Armor](/item/15011)) (+500 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of Bronze Symbols](/item/14583), [Initiate Symbol of Quellious](/item/1564)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of Bronze Symbols](/item/14583), [Initiate Symbol of Quellious](/item/1564)) then 
 
 
 
@@ -222,7 +225,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Embroidered Bag of B
 
  **You receive:**  [Disciple Symbol of Quellious](/item/1565) (+1000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Hieroglyph Translations](/item/1780), [An encrypted document](/item/1781), [Disciple Symbol of Quellious](/item/1565)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Hieroglyph Translations](/item/1780), [An encrypted document](/item/1781), [Disciple Symbol of Quellious](/item/1565)) then 
 
 
 >**Leraena Shelyrak says:** You have done well yet again, young disciple. I award you the rank of Regent of the Peacekeepers. With this information we can hopefully gain some insight into the workings of the kobolds' religion.

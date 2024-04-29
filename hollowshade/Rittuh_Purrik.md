@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [A Folded Note](/item/5573)
+if( **You turn in:** [A Folded Note](/item/5573)) then
 
 
 >**Rittuh Purrik says:** Come to do some work, Soandso.  Looks like you need to gather some rockhopper tails.  Take this backpack and fill it up
@@ -22,7 +22,7 @@ if **You turn in:** [A Folded Note](/item/5573)
 
  **You receive:**  [Rough Leather Backpack](/item/17609) 
 
-elseif **You turn in:** [Bag of Tails](/item/5582)
+elseif( **You turn in:** [Bag of Tails](/item/5582)) then
 
 
 >**Rittuh Purrik says:** Well, look at you! You're quite the hunter. Not a bad job at all, young citizen. We can sure use a few more like you. I think a little padding of your daily report is in order considering the amount of work that you've done for us. Take this back to citizen Miann. She'll be pleased with you. I wrote it up pretty nice for you. Take care and good luck with your training.

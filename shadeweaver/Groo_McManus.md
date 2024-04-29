@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [A Needle Thin Claw](/item/30601)
+if( **You turn in:** [A Needle Thin Claw](/item/30601)) then
 
 
 >**Groo McManus says:** Excellent! You have done well.  I can sense that you are in tune with the spirits around you. Take this, for you will need it in your next task. When you are [ready] for your next lesson let me know.

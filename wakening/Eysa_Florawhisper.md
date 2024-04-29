@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Note to Tunares Court](/item/29067)
+if( **You turn in:** [Note to Tunares Court](/item/29067)) then
 
 
 >**Eysa Florawhisper says:** Ahh, why thank you, friend! We are greatful. I believe if we work together, those children of Zek can be driven back in time. Otherwise, survival hangs in the balance, for both of us. Take this token back to the sentry as a symbol of our acceptance.
@@ -43,7 +43,7 @@ if **You turn in:** [Note to Tunares Court](/item/29067)
 
 **Eysa Florawhisper despawns.**
 
-elseif **You turn in:** [Bag of Seeds](/item/24863)
+elseif( **You turn in:** [Bag of Seeds](/item/24863)) then
 
 
 >**Eysa Florawhisper says:** Ohhhh! You're the sweetest, Soandso. The nymphs of the Tunarean Court recognize you as a friend of our kind and our botanical brethren.

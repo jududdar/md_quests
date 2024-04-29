@@ -54,7 +54,7 @@ end
 if( **Faction is** >= Amiable) then 
 
 
-if **You turn in:** [Full Arena Sack](/item/13399)
+if( **You turn in:** [Full Arena Sack](/item/13399)) then 
 
 
 
@@ -89,7 +89,7 @@ if **You turn in:** [Full Arena Sack](/item/13399)
  **You receive:**  [A Sealed Letter](/item/18893) (+10000 exp)
 
 
-elseif **You turn in:** [Letter of Recommendation](/item/18895)
+elseif( **You turn in:** [Letter of Recommendation](/item/18895)) then 
 
 
 
@@ -121,7 +121,7 @@ elseif **You turn in:** [Letter of Recommendation](/item/18895)
 
 
 
- **You receive:** None 
+ **You receive:**  [A Sealed Letter](/item/18894) (+20000 exp)
 
 
 **This NPC *should* return incorrect items given.**

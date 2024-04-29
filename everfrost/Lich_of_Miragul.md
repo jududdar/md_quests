@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Miragul's Phylactery](/item/19072)
+if( **You turn in:** [Miragul's Phylactery](/item/19072)) then 
 
 
 **Spawn NPC:**  [Miragul](/npc/30094) at this location.

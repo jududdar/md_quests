@@ -131,7 +131,7 @@ local text1 = "You were instructed to return with the full footmans pack and you
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full Footmans Pack](/item/12430), [Militia's Pike](/item/5131)
+if **Faction** >= Amiable and  **You turn in:** [Full Footmans Pack](/item/12430), [Militia's Pike](/item/5131)) then
 
 
 >**Drill Master Kyg says:** Kyg knew you could do it. You will make a fine legionnaire some day but, for now, you shall be a footman. Take the footman pike head plans. Forge the footman's pike. Do so, and then you may have an audience with the War Baron on the subject of his [Memory of Sebilis].

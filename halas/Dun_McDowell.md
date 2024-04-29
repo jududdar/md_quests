@@ -3,7 +3,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18762)
+if( **You turn in:** [A tattered note](/item/18762)) then
 
 
 >**Dun McDowell says:** Ah.. ye wish to be a member o' the White Rose, then. eh? Well, let's train ye fer a bit. and see if ye've got what it takes.

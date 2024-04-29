@@ -27,7 +27,7 @@ return;
 
 
 
-if **You turn in:** [Marbled Acrylia Sphere](/item/4349)
+if( **You turn in:** [Marbled Acrylia Sphere](/item/4349)) then 
 
 
  **You receive:** 0 (+1000 exp)

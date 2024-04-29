@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Loop of Energy](/item/4736), [Mark of Thaumaturgy](/item/4735), [Small Magnifying Lens](/item/4738), [Star Jewel](/item/4490)
+if( **You turn in:** [Loop of Energy](/item/4736), [Mark of Thaumaturgy](/item/4735), [Small Magnifying Lens](/item/4738), [Star Jewel](/item/4490)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Belt of Detonation](/item/3721) (+25000 exp)
 
-elseif **You turn in:** [Mark of Destruction](/item/4734), [Moon Jewel](/item/4489), [Stick of Mastery](/item/4737)
+elseif( **You turn in:** [Mark of Destruction](/item/4734), [Moon Jewel](/item/4489), [Stick of Mastery](/item/4737)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Choker of Detonation](/item/3720) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Iced Nectar](/item/4731), [Mark of Temper](/item/4729), [Vial of Firewater](/item/4730)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Iced Nectar](/item/4731), [Mark of Temper](/item/4729), [Vial of Firewater](/item/4730)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Cloak of Detonation](/item/3718) (+25000 exp)
 
-elseif **You turn in:** [Book of Solutions](/item/4733), [Mark of Might](/item/4732), [Sun Jewel](/item/4488)
+elseif( **You turn in:** [Book of Solutions](/item/4733), [Mark of Might](/item/4732), [Sun Jewel](/item/4488)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Gloves of Detonation](/item/3719) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Detonation](/item/4739), [Opaque Glasses](/item/4740), [Pyro Wand](/item/5973)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Detonation](/item/4739), [Opaque Glasses](/item/4740), [Pyro Wand](/item/5973)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Staff of Detonation](/item/3722) (+25000 exp)
 
-elseif **You turn in:** [Iron Tipped Wand](/item/4728), [Mark of Potential](/item/4727), [Meteor Jewel](/item/4493)
+elseif( **You turn in:** [Iron Tipped Wand](/item/4728), [Mark of Potential](/item/4727), [Meteor Jewel](/item/4493)) then 
 
 
 FactionReward(e)

@@ -21,7 +21,7 @@ end
 
 local count =  **You turn in:**  { [Rune Etched Helm](/item/4871),  [Rune Etched Chestplate](/item/4872),  [Rune Etched Vambraces](/item/4873),  [Rune Etched Bracer](/item/4874),  [Rune Etched Gauntlets](/item/4875),  [Rune Etched Greaves](/item/4876),  [Rune Etched Boots](/item/4877)}
 
-if **You turn in:** [Cadors Artifact](/item/28089)
+if( **You turn in:** [Cadors Artifact](/item/28089)) then
 
 
 >**Oracle Cador says:** The spirits are restful now that this piece of legend is in safe hands. You may take this to Mirao for whatever purpose he desires it for. May your vision always be clear!

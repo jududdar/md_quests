@@ -40,7 +40,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Kerran Doll](/item/13716), [Ichor](/item/16989), [Initiate Symbol of Cazic Thule](/item/1437), [Giant Snake Fang](/item/7005)
+if **Faction** >= Apprehensive and  **You turn in:** [Kerran Doll](/item/13716), [Ichor](/item/16989), [Initiate Symbol of Cazic Thule](/item/1437), [Giant Snake Fang](/item/7005)) then 
 
 
 >**Atdehim Sqonci says:** Excellent work, Soandso. You are well on your way to proving yourself worthy to serve Cazic Thule.

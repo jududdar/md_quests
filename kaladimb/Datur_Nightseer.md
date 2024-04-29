@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Folded Parchment](/item/18768)
+if( **You turn in:** [Folded Parchment](/item/18768)) then
 
 
 >**Datur Nightseer says:** Welcome, we are the Paladins of the Underfoot. I am Datur, and I will help teach you the word and will of the Duke of Below, Brell Serilis. Here is our guild tunic. Let's get started, shall we?
@@ -54,7 +54,7 @@ if **You turn in:** [Folded Parchment](/item/18768)
 
  **You receive:**  [Dusty Tunic*](/item/13514) (+20 exp)
 
-elseif(( **Faction is** > Indifferent) and  **You turn in:** [Chalice Case](/item/12279)
+elseif(( **Faction is** > Indifferent) and ( **You turn in:** [Chalice Case](/item/12279))) then
 
 
 >**Datur Nightseer says:** The chalice is returned!! Praise be to Brell!! You have proven yourself to our church and have earned our respect. Let me welcome you into our brotherhood with the Cape of Underfoot. Wear it with pride as all of our finest paladins do.
@@ -72,6 +72,6 @@ elseif(( **Faction is** > Indifferent) and  **You turn in:** [Chalice Case](/ite
 * __Faction:__ [Miners Guild 249](/faction/293) (11)
 
 
- **You receive:** None 
+ **You receive:**  [Cape of Underfoot](/item/12281) (+2500 exp)
 
 **This NPC *should* return incorrect items given.**

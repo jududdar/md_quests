@@ -60,7 +60,7 @@ end
 
 
 
-if **You turn in:** [Recruitment Summons](/item/18733)
+if( **You turn in:** [Recruitment Summons](/item/18733)) then 
 
 
 >**Sheriff Roglio says:** Welcome to the Guardians of the Vale. I'm Roglio Bruth, and I run this proud little outfit. You seem to be of hearty stock, let's put you to work. Here's your guild tunic - hope it fits. Start your training right away.  Speak with the marshals of this guild.
@@ -104,7 +104,10 @@ elseif( **You turn in:**  { [RunnyEye Warbeads](/item/13931)}, 4) > 0
 * __Faction:__ [Dreadguard Outer](/faction/334) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Tagglefoot Tingle Drink](/item/13024) (+5000 exp)
+
+
+ **You receive:**  [Bixie Berry Buns](/item/13023) 
 
 **This NPC *should* return incorrect items given.**
 

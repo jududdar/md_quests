@@ -65,7 +65,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if (expansion_flag >= 4.0 and  **You turn in:** [Donlixs Short Sword](/item/10991)
+if (expansion_flag >= 4.0 and  **You turn in:** [Donlixs Short Sword](/item/10991)) then
 
 
 >**Garret Zethkog says:** Ah! Donlix's sword! You have done well to bring this to me... but oh! Look at your corruption seep into it. I think now this sword belongs to you. Use it well.
@@ -73,7 +73,7 @@ if (expansion_flag >= 4.0 and  **You turn in:** [Donlixs Short Sword](/item/1099
 
  **You receive:**  [Plague Knight Short Sword](/item/11078) 
 
-elseif  **You turn in:** [Gnome Shadowknight Note](/item/18434)
+elseif ( **You turn in:** [Gnome Shadowknight Note](/item/18434)) then 
 
 
 >**Garret Zethkog says:** Welcome to the Dark Reflection, Soandso ! Take this tunic as a gift for your desire to serve the will of Bertoxxulous, The Plague Lord. Beware of the followers of Brell Serilis, they would see us members of the Dark Reflection exiled from Ak'Anon.

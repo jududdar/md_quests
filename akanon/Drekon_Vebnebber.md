@@ -56,7 +56,7 @@ end
 
 
 
-if  **You turn in:** [A Daily Log](/item/18837)
+if ( **You turn in:** [A Daily Log](/item/18837)) then
 
 
 >**Drekon Vebnebber says:** Why, thank you. Hey!! This log indicates some messy business is going on at the scrapyard. Something happened to a group of gnomes. They never came out!! Go check out the scrapyard! I believe the rumors of [Red 5] are true.
@@ -85,7 +85,7 @@ if  **You turn in:** [A Daily Log](/item/18837)
 
 
 
-elseif  **You turn in:** [A Daily Log](/item/18838)
+elseif ( **You turn in:** [A Daily Log](/item/18838)) then
 
 
 >**Drekon Vebnebber says:** Oh my! It seems two of the obsolete duster models were not fully shut down. You must find them. They could be anywhere in Ak'Anon! After you destroy them, take their scraps to Sanfyrd Montop. He is the operator of the scrapyard.

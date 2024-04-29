@@ -65,7 +65,7 @@ end
 if( **Faction is** > Amiable) then
 
 
-if **You turn in:** [Malevolent Crown](/item/25349)
+if( **You turn in:** [Malevolent Crown](/item/25349)) then 
 
 
 
@@ -76,7 +76,7 @@ if **You turn in:** [Malevolent Crown](/item/25349)
  **You receive:**  [Custom Malevolent Crown](/item/31520) 
 
 
-elseif **You turn in:** [Warlord's Crown](/item/25433)
+elseif( **You turn in:** [Warlord's Crown](/item/25433)) then 
 
 
 
@@ -87,7 +87,7 @@ elseif **You turn in:** [Warlord's Crown](/item/25433)
  **You receive:**  [Custom Warlord's Crown](/item/31524) 
 
 
-elseif **You turn in:** [Shining Helm](/item/25370)
+elseif( **You turn in:** [Shining Helm](/item/25370)) then 
 
 
 
@@ -98,7 +98,7 @@ elseif **You turn in:** [Shining Helm](/item/25370)
  **You receive:**  [Custom Shining Helm](/item/31521) 
 
 
-elseif **You turn in:** [Templar's Crown](/item/25391)
+elseif( **You turn in:** [Templar's Crown](/item/25391)) then 
 
 
 
@@ -109,7 +109,7 @@ elseif **You turn in:** [Templar's Crown](/item/25391)
  **You receive:**  [Custom Templar's Crown](/item/31523) 
 
 
-elseif **You turn in:** [Troubadour's Helm](/item/25384)
+elseif( **You turn in:** [Troubadour's Helm](/item/25384)) then 
 
 
 
@@ -120,7 +120,7 @@ elseif **You turn in:** [Troubadour's Helm](/item/25384)
  **You receive:**  [Custom Troubadour's Helm](/item/31522) 
 
 
-elseif **You turn in:** [Frostreaver's Velium Crown](/item/30507)
+elseif( **You turn in:** [Frostreaver's Velium Crown](/item/30507)) then 
 
 
 
@@ -131,7 +131,7 @@ elseif **You turn in:** [Frostreaver's Velium Crown](/item/30507)
  **You receive:**  [Custom Frostreavers Velium Crown](/item/2610) 
 
 
-elseif **You turn in:** [Crown of the Kromzek Kings](/item/25194)
+elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then 
 
 
 
@@ -142,7 +142,7 @@ elseif **You turn in:** [Crown of the Kromzek Kings](/item/25194)
  **You receive:**  [Custom Crown of the Kromzek Kings](/item/2611) 
 
 
-elseif **You turn in:** [Cowl of Mortality](/item/26025)
+elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then 
 
 
 

@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Full Gathering Satchel](/item/6975)
+if( **You turn in:** [Full Gathering Satchel](/item/6975)) then
 
 
 >**Khonza Ayssla says:** I thought the kobolds would have you for dinner, but you made it back.' Ayssla takes the satchel and begins to pour different vials of foul smelling liquid into it. She then takes the entire contents of the bag and dumps it into a large kettle and begins to chant in an unknown language. After a few minutes, she takes a small amount of the now boiling liquid and puts it in a vial. 'Take this vial back to Jali. I pray to the Titan Spirits that it works.

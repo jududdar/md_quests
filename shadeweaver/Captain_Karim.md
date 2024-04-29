@@ -79,7 +79,7 @@ end
 
 
 
-if **You turn in:** [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835)
+if( **You turn in:** [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835)) then
 
 
 >**Captain Karim says:** Well done Soandso, your efforts are invaluable. Perhaps we can convince the Shak Dratha that we are not their enemy after all. Alas, with the turmoil in these parts I am afraid that I cannot part with any military supplies as they are needed by my troops. I can, however, at least send you off with a bit of coin and my thanks. Take care my friend!

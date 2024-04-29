@@ -59,7 +59,7 @@ local text = "I require three organs from the snake people.";
 
 
 
-if **You turn in:** [Muck Beetle Mandible](/item/10412), [Black Fungal Fiend Spores](/item/10413), [Green Fungal Fiend Spores](/item/10414), [Grimfang Poison Sac](/item/10415)
+if( **You turn in:** [Muck Beetle Mandible](/item/10412), [Black Fungal Fiend Spores](/item/10413), [Green Fungal Fiend Spores](/item/10414), [Grimfang Poison Sac](/item/10415)) then
 
 
 
@@ -93,7 +93,7 @@ if **You turn in:** [Muck Beetle Mandible](/item/10412), [Black Fungal Fiend Spo
 
 
 
-elseif **You turn in:** [Shissar Organs](/item/10416), [Shissar Organs](/item/10416), [Shissar Organs](/item/10416)
+elseif( **You turn in:** [Shissar Organs](/item/10416), [Shissar Organs](/item/10416), [Shissar Organs](/item/10416)) then
 
 
 

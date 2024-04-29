@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Ethereal Drape](/item/29865)
+if( **You turn in:** [Ethereal Drape](/item/29865)) then
 
 
 >*Jylian Frostshade delicately removes one of the embroidered symbols from the fading robe. Jylian then begins to weave spells to the robe until it becomes fully materialized. 'These robes have unusual symbols all about them. I must study this symbol in greater detail. Here you can have this robe, I have placed an enchantment on it to keep it from fading from this plane of existence any further. Your service to Seru is appreciated. Now go, I need silence to concentrate.'*

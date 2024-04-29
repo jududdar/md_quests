@@ -124,7 +124,7 @@ end
 
 
 
-if **You turn in:** [Sealed Letter](/item/18841)
+if( **You turn in:** [Sealed Letter](/item/18841)) then
 
 
 >**Tolon Nurbyte says:** So I see you completed your mission. Good work. You just may be a member of the Silent Watch someday. Well my friend. I will be keeping my eye on you. No doubt we will meet again. Oh, I almost forgot. The Princess wanted you to have this. Now show yourself the door.

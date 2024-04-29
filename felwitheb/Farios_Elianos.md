@@ -9,7 +9,7 @@
 if ( **Faction is** > Indifferent) then 
 
 
-if **You turn in:** [Crushed Pot](/item/20457)
+if( **You turn in:** [Crushed Pot](/item/20457)) then
 
 
 
@@ -21,7 +21,7 @@ if **You turn in:** [Crushed Pot](/item/20457)
 
 
 
-if **You turn in:** [Bag of Provisions](/item/20459)
+if( **You turn in:** [Bag of Provisions](/item/20459)) then
 
 
 

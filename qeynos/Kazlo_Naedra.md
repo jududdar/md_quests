@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Blank Scroll Sheets](/item/18006)
+if( **You turn in:** [Blank Scroll Sheets](/item/18006)) then
 
 
 >**Kazlo Naedra says:** Good work, Soandso! Here's a little something for your troubles. Your quick work and loyalty will be noted by the Order of Three.
@@ -60,7 +60,7 @@ if **You turn in:** [Blank Scroll Sheets](/item/18006)
 * __Faction:__ [Opal Darkbriar](/faction/296) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+200 exp)
 
 **This NPC *should* return incorrect items given.**
 

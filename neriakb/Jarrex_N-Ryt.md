@@ -81,7 +81,7 @@ if(e.other:GetClass() == 1 and e.other:GetRace() == 6) then
 
 
 
-if **You turn in:** [Deathfist Templar Scalp](/item/16173), [Orc Clavicle](/item/19565), [Orc Fibula](/item/19564)
+if( **You turn in:** [Deathfist Templar Scalp](/item/16173), [Orc Clavicle](/item/19565), [Orc Fibula](/item/19564)) then
 
 
 
@@ -95,7 +95,7 @@ if **You turn in:** [Deathfist Templar Scalp](/item/16173), [Orc Clavicle](/item
 
 
 
-elseif **You turn in:** [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562)
+elseif( **You turn in:** [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562)) then
 
 
 

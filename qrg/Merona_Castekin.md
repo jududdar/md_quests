@@ -109,7 +109,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Torn Parchment](/item/18014)
+if **Faction** >= Amiable and  **You turn in:** [Torn Parchment](/item/18014)) then
 
 
 >**Merona Castekin says:** Oh Tunare why!?!? Those foul Bloodsabers will pay for my brother's death!! Here. You have given us valuable information about a new threat to our homes. Take this a token of our appreciation.

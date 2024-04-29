@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Locked Tome of Dark Power](/item/28741)
+if( **You turn in:** [Locked Tome of Dark Power](/item/28741)) then 
 
 
 >*Elder Tal Almad looks the book over carefully, 'This is a most interesting find indeed. You seek to break the seal that surrounds this tome? This may take some time, please be patient.' As he waves his hand over the lock and mumbles a few syllables, the clasp instantly falls open. With a surprised look he says, 'That was odd, the seal was easier to break then I thought it would be. It's almost. . . Well, it's almost as if the book had a will to be opened. I sense much power inside this tome, you best be careful with it.' He hands the book back to you.*

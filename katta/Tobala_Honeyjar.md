@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Full Fertilizer Bag](/item/31779)
+if( **You turn in:** [Full Fertilizer Bag](/item/31779)) then
 
 
 >**Tobala Honeyjar says:** Oh! Thank you so much! You have saved much time and trouble! Now if only those tinkerers in the Illuminarium Industria could figure out how to get that artificial light working!
@@ -60,7 +60,7 @@ if **You turn in:** [Full Fertilizer Bag](/item/31779)
 
  **You receive:**  [Midnight Tangelo](/item/12809) (+500 exp)
 
-elseif **You turn in:** [Twilight Orchid](/item/14936), [Dawnflower Seeds](/item/14931), [Red Sands Cactus](/item/14952), [Letalis Zenith Vine](/item/14953)
+elseif( **You turn in:** [Twilight Orchid](/item/14936), [Dawnflower Seeds](/item/14931), [Red Sands Cactus](/item/14952), [Letalis Zenith Vine](/item/14953)) then
 
 
 >**Tobala Honeyjar says:** Oh! Thank you so much! You have saved much time and trouble! Now if only those tinkerers in the Illuminarium Industria could figure out how to get that artificial light working!

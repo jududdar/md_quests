@@ -80,7 +80,7 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Vial of Healing Liquid](/item/6976)
+if **Faction** >= Dubious +300 and  **You turn in:** [Vial of Healing Liquid](/item/6976)) then
 
 
 >**Jali Kaliio says:** Khonza Ayssla gave this to you? We must try it at once then.' Jali opens the vial and gently tilts back Yuio's head. He pours the liquid into her mouth and waits. Miraculously, Yuios fur begins to take on a healthy sheen and the sores begin to disappear! Yuio falls into Jali's arms then goes slack, passing out. 'She needs much rest. I cannot begin to thank you enough for helping us. Please accept this as a reward. It is not much but it should be of some use. You are indeed a friend of ours and if you ever need shelter from the wilds, please visit us again.

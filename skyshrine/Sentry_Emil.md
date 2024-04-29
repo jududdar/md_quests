@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Eysas Token](/item/29623)
+if( **You turn in:** [Eysas Token](/item/29623)) then
 
 
 >**Sentry Emil says:** Your service is appreciated, Soandso. I cannot reward you well at this point but you have come closer to the kin, the citizens of Skyshrine.  Continue to prove your loyalty and greater rewards you may see, perhaps the greatest of all.. in time.  I must go now and report this to my superiors.  Farewell.

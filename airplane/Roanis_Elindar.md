@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Harpy Statuette](/item/20952), [Finely Woven Cloth Amice](/item/20760), [Large Diamond](/item/20761)
+if( **You turn in:** [Harpy Statuette](/item/20952), [Finely Woven Cloth Amice](/item/20760), [Large Diamond](/item/20761)) then 
 
 
 >**Roanis Elindar says:** This amice suits you, Soandso.  Wear it.
@@ -48,7 +48,7 @@ if **You turn in:** [Harpy Statuette](/item/20952), [Finely Woven Cloth Amice](/
 
  **You receive:**  [Drake-Hide Amice](/item/2708) (+100000 exp)
 
-elseif **You turn in:** [Carmine Spiroc Feather](/item/20959), [Blood Sky Amethyst](/item/20762), [Golden Efreeti Ring](/item/20763)
+elseif( **You turn in:** [Carmine Spiroc Feather](/item/20959), [Blood Sky Amethyst](/item/20762), [Golden Efreeti Ring](/item/20763)) then 
 
 
 >**Roanis Elindar says:** The ring of Duennan will protect you in times of trouble, mage. Take it and wear it with pride.
@@ -56,7 +56,7 @@ elseif **You turn in:** [Carmine Spiroc Feather](/item/20959), [Blood Sky Amethy
 
  **You receive:**  [Duennan Shielding Ring](/item/11687) (+100000 exp)
 
-elseif **You turn in:** [Sweet Nectar](/item/20966), [Crown of Elemental Mastery](/item/20764), [Large Opal](/item/20766), [Djinni Stave](/item/20765)
+elseif( **You turn in:** [Sweet Nectar](/item/20966), [Crown of Elemental Mastery](/item/20764), [Large Opal](/item/20766), [Djinni Stave](/item/20765)) then 
 
 
 >**Roanis Elindar says:** Finally you return, Soandso. This staff will aid you, I hope.
@@ -64,7 +64,7 @@ elseif **You turn in:** [Sweet Nectar](/item/20966), [Crown of Elemental Mastery
 
  **You receive:**  [Staff of Elemental Mastery: Air](/item/11568) (+100000 exp)
 
-elseif **You turn in:** [Efreeti Magi Staff](/item/20870), [Sweet Nectar](/item/20966), [Sphinx Crown](/item/20871), [Hazy Opal](/item/20872)
+elseif( **You turn in:** [Efreeti Magi Staff](/item/20870), [Sweet Nectar](/item/20966), [Sphinx Crown](/item/20871), [Hazy Opal](/item/20872)) then 
 
 
 >**Roanis Elindar says:** Congratulations, Soandso.

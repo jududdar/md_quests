@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Field Supplies](/item/1724)
+if( **You turn in:** [Field Supplies](/item/1724)) then
 
 
 >**an ogre mercenary says:** It's about time, whelp.  Take your payment and leave, you're scaring away my... clients.

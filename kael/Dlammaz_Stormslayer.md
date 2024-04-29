@@ -265,7 +265,7 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item/25119)
+if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item/25119)) then
 
 
 >**Dlammaz Stormslayer says:** The bards will sing of your greatness, Soandso. Rage on like the Maelstrom when you wear this cloak. You have done a great service for the city of Kael Drakkel, and we Kromzek do not soon forget great deeds.
@@ -285,7 +285,7 @@ if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item
 
  **You receive:**  [Cloak of the Maelstrom](/item/25023) (+5000 exp)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Greater Dragon's Head](/item/25118)
+elseif **Faction** >= Amiable +300 and  **You turn in:** [Greater Dragon's Head](/item/25118)) then
 
 
 >**Dlammaz Stormslayer says:** We shall hang this head from the halls of Dragondeath Keep and sing your praises, Soandso. Take my axe as a reward for your great deeds. You are a true hero for Kael Drakkel!

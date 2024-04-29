@@ -17,13 +17,13 @@ end
 
 
 
-if **You turn in:** [A note of credit](/item/20879)
+if( **You turn in:** [A note of credit](/item/20879)) then
 
 
 >**Aanina Rockfinder says:** Ah, nice of you to come and pick this up for Ganelorn! I know he is a busy fellow. I certainly hope that his girlfriend will like this gift.
 
 
- **You receive:** None 
+ **You receive:**  [A Gift](/item/20880) 
 end
 
 

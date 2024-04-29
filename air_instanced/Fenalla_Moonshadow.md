@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Efreeti Scimitar](/item/20739), [Fire Sky Ruby](/item/20738), [Lush Nectar](/item/20965), [Storm Sky Opal](/item/20740)
+if( **You turn in:** [Efreeti Scimitar](/item/20739), [Fire Sky Ruby](/item/20738), [Lush Nectar](/item/20965), [Storm Sky Opal](/item/20740)) then 
 
 
 
@@ -56,7 +56,7 @@ if **You turn in:** [Efreeti Scimitar](/item/20739), [Fire Sky Ruby](/item/20738
 
 **Fenalla Moonshadow despawns.**
 
-elseif **You turn in:** [Divine Honeycomb](/item/20735), [Efreeti Statuette](/item/20951), [Wilders Girdle](/item/20734)
+elseif( **You turn in:** [Divine Honeycomb](/item/20735), [Efreeti Statuette](/item/20951), [Wilders Girdle](/item/20734)) then 
 
 
 
@@ -69,7 +69,7 @@ elseif **You turn in:** [Divine Honeycomb](/item/20735), [Efreeti Statuette](/it
 
 **Fenalla Moonshadow despawns.**
 
-elseif **You turn in:** [Acidic Venom](/item/20736), [Ethereal Ruby](/item/20737), [Spiroc Elders Totem](/item/20867), [White-tipped Spiroc Feather](/item/20958)
+elseif( **You turn in:** [Acidic Venom](/item/20736), [Ethereal Ruby](/item/20737), [Spiroc Elders Totem](/item/20867), [White-tipped Spiroc Feather](/item/20958)) then 
 
 
 

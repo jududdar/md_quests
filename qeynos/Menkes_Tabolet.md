@@ -236,7 +236,7 @@ local text4 = "Oh yea.. this will be the finest snake fang necklace I've ever ma
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [a piece of Rat Fur](/item/13064), [a piece of Rat Fur](/item/13064), gold = 3
+if **Faction** >= Dubious and  **You turn in:** [a piece of Rat Fur](/item/13064), [a piece of Rat Fur](/item/13064), gold = 3) then 
 
 
 >**Menkes Tabolet says:** Hey. look at this. some of my best work, if I do say so myself. Enjoy, and tell your friends
@@ -247,7 +247,7 @@ if **Faction** >= Dubious and  **You turn in:** [a piece of Rat Fur](/item/13064
 
  **You receive:**  [Rat Fur Cap](/item/1050) (+200 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054),gold = 4
+elseif **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054),gold = 4) then
 
 
 >**Menkes Tabolet says:** This cape turned out great. It'll sure help keep you warm on those cold and stormy nights out in the Karanas.
@@ -258,7 +258,7 @@ elseif **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054
 
  **You receive:**  [Rat Pelt Cape](/item/1051) (+200 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Snake Fang](/item/13067), [Snake Fang](/item/13067), [Snake Fang](/item/13067),gold = 2
+elseif **Faction** >= Dubious and  **You turn in:** [Snake Fang](/item/13067), [Snake Fang](/item/13067), [Snake Fang](/item/13067),gold = 2) then
 
 
 >**Menkes Tabolet says:** Hey, hey.. with this little baby, you will be the talk of the town tonight!
@@ -269,7 +269,7 @@ elseif **Faction** >= Dubious and  **You turn in:** [Snake Fang](/item/13067), [
 
  **You receive:**  [Snake Fang Necklace](/item/1052) (+200 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Rat Foot](/item/13065), [Rat Whiskers](/item/13071), [Honey Mead](/item/13033)
+elseif **Faction** >= Dubious and  **You turn in:** [Rat Foot](/item/13065), [Rat Whiskers](/item/13071), [Honey Mead](/item/13033)) then
 
 
 >**Menkes Tabolet says:** Now this here has got to be one of my best works.. I dare you to find someone who can make a higher quality necklace than this one! Enjoy, my good friend!

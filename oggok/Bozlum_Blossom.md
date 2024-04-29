@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Large Muddy Sandals](/item/10628)
+if( **You turn in:** [Large Muddy Sandals](/item/10628)) then
 
 
 >*Bozlum Blossom writes something down on a piece of parchment. 'You go tell dat Brokk dat he owe me big for smushing garden. Make him read dis.'*
@@ -35,7 +35,7 @@ if **You turn in:** [Large Muddy Sandals](/item/10628)
 
  **You receive:**  [Scribbled Parchment](/item/10629) 
 
-elseif **You turn in:** [Gift to Bozlum](/item/10630)
+elseif( **You turn in:** [Gift to Bozlum](/item/10630)) then
 
 
 >**Bozlum Blossom says:** Oh, dat silly Brokk. He sent me too many of these perty flowers. Me not know where put them all. Here, you take some cause you help Bozlum. Me like you. Flowers make you smell perty, too.

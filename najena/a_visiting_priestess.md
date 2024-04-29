@@ -43,7 +43,7 @@ local text = "grins evilly as she disassembles the staff and holds forth a runed
 
 
 
-if **You turn in:** [Ice Crystal Staff](/item/6323), [Fire Crystal Staff](/item/6324), [Slime Crystal Staff](/item/6335), [Water Crystal Staff](/item/6336)
+if( **You turn in:** [Ice Crystal Staff](/item/6323), [Fire Crystal Staff](/item/6324), [Slime Crystal Staff](/item/6335), [Water Crystal Staff](/item/6336)) then  
 
 
 >*a visiting priestess cackles with glee as she slowly assembles the runed rods, and with a muttered incantation and a flash of light, disappears, leaving only a note that slowly drifts to the ground.*

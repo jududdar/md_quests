@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Shainais Bag](/item/4460)
+if( **You turn in:** [Shainais Bag](/item/4460)) then
 
 
 >**Delival says:** Well I wish there was more I could do to repay you. Take this old compass and what change I can spare with my most sincere thanks. Now off to bed Shainai, you have had a busy day.

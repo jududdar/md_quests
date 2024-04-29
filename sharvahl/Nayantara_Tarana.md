@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Reflective Shard](/item/16860)
+if( **You turn in:** [Reflective Shard](/item/16860)) then
 
 
 >*Nayantara Tarana inspects the shard, 'This is perfect, Soandso, thank you. I will fit this into my telescope as soon as I get home, here is the drop of moonlight that I promised you. Good luck, my friend' she says with a bow.*

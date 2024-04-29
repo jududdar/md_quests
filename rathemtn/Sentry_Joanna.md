@@ -41,7 +41,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Locket](/item/12312)
+if **Faction** >= Indifferent +50 and  **You turn in:** [A Locket](/item/12312)) then
 
 
 >**Sentry Joanna says:** Thank you my friend.  It is good to see him free at last.  I shall miss him.  Here now is the mold of gauntlets as promised. Go and speak with Thomas for information about [Lord Searfire].

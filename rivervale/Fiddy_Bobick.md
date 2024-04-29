@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Piranha Tooth](/item/13929)
+if( **You turn in:** [Piranha Tooth](/item/13929)) then 
 
 
 >**Fiddy Bobick says:** Whew!! We are sure on the way to saving this village, pal! They're gonna erect a statue in our names.  Fishslayers is what we are!  Let's keep up the good work!
@@ -53,7 +53,7 @@ if **You turn in:** [Piranha Tooth](/item/13929)
 * __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+15 exp)
 
 else
 

@@ -69,7 +69,7 @@ end
 
 
 
-if **You turn in:** [Eruds Tonic](/item/13118), [Koalindl Fish](/item/13383), [Honey Jum](/item/13952), [Kiola Nut](/item/13340)
+if( **You turn in:** [Eruds Tonic](/item/13118), [Koalindl Fish](/item/13383), [Honey Jum](/item/13952), [Kiola Nut](/item/13340)) then
 
 
 >**Gregor Nasin says:** Now I have every ingredient mentioned in the Barkeep Compendium. Here. You take it. <..click!.> Whoops!! I just closed it. It's magically sealed, I never closed it before. It's useless to you. I have no need for it any longer. Maybe you can return it to [Clurg] for some type of reward.

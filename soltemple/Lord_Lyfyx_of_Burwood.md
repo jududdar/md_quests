@@ -58,7 +58,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Peridot](/item/10028), [Tektite](/item/12831)
+if **Faction** >= Indifferent and  **You turn in:** [Peridot](/item/10028), [Tektite](/item/12831)) then
 
 
 >*Lord Lyfyx of Burwood places the gems inside an ornate metal box.  He begins to tug at his skin.  Your vision blurs as he performs his magic. 'This is what you seek.  Now leave and bother me no further.' *

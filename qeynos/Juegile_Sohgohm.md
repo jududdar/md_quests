@@ -157,7 +157,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [An Enchanted Book](/item/27431)
+if(expansion_flag >= 4.0 and  **You turn in:** [An Enchanted Book](/item/27431)) then
 
 
 >**Juegile Sohgohm says:** I knew I could rely on Rephas to finish this research for me. We both know that this would not have been possible without your help young Soandso . Please take this dagger as a symbol of your dedication to the Order of Three. Your good deeds will surely be known throughout our guildhouse. Good luck to you!
@@ -178,7 +178,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [An Enchanted Book](/item/27431)
 * __Faction:__ [Opal Darkbriar](/faction/296) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Dagger of Arcane Order](/item/27495) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

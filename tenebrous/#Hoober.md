@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Elixir of Obsession](/item/5994)
+if( **You turn in:** [Elixir of Obsession](/item/5994)) then
 
 
 >*Hoober coughs a bit as you feed him the elixir. With a bit o a start he comes around to full consciousness with a calm in his eyes. 'Do I know you?' he asks.*

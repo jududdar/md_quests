@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Mundane Mask](/item/14106)
+if( **You turn in:** [Mundane Mask](/item/14106)) then 
 
 
 >**avatar of terror says:** I grant you a mask crafted with my own essence! Wear it in honor of your devotion to our Lord Cazic-Thule!

@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Collection of Plants](/item/28083)
+if( **You turn in:** [Collection of Plants](/item/28083)) then
 
 
 >**Randi Ellan says:** Plants and flowers are a special treasure I keep close to my heart. Did you ever stop to marvel at how beautiful these specimens are? I thank you greatly for them. Here, take this in return.

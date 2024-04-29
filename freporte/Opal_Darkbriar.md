@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18742)
+if( **You turn in:** [A tattered note](/item/18742)) then 
 
 
 >**Opal Darkbriar says:** Welcome to the Guild, here's your guild robe. Now, let's get to work.

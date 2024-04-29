@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Auburn Tessera](/item/20934), [Griffon Talon](/item/20850), [Ysgaril Root](/item/20849)
+if( **You turn in:** [Auburn Tessera](/item/20934), [Griffon Talon](/item/20850), [Ysgaril Root](/item/20849)) then 
 
 
 >**Relinin Skyrunner says:** Good work, ranger.
@@ -44,7 +44,7 @@ if **You turn in:** [Auburn Tessera](/item/20934), [Griffon Talon](/item/20850),
 
 **Relinin Skyrunner despawns.**
 
-elseif **You turn in:** [Fine Velvet Cloak](/item/20853), [Harpy Tongue](/item/20852), [Mithril Disc](/item/20851)
+elseif( **You turn in:** [Fine Velvet Cloak](/item/20853), [Harpy Tongue](/item/20852), [Mithril Disc](/item/20851)) then 
 
 
 >**Relinin Skyrunner says:** You should find this cloak useful.
@@ -55,7 +55,7 @@ elseif **You turn in:** [Fine Velvet Cloak](/item/20853), [Harpy Tongue](/item/2
 
 **Relinin Skyrunner despawns.**
 
-elseif **You turn in:** [Dragon-hide Mantle](/item/20854), [Gridelin Globe](/item/20948), [Spiroc Earth totem](/item/20855)
+elseif( **You turn in:** [Dragon-hide Mantle](/item/20854), [Gridelin Globe](/item/20948), [Spiroc Earth totem](/item/20855)) then 
 
 
 >**Relinin Skyrunner says:** The mantle I give you to wear houses a powerful enchantment. Use it with care.

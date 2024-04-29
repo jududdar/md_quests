@@ -47,7 +47,7 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 local text = "You are close to passing the test, keep up the good work.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Small Gem](/item/1667)
+if **Faction** >= Amiable and  **You turn in:** [A Small Gem](/item/1667)) then 
 
 
 >**a wandering spirit says:** Oh, it is you, shaman! Good! You must hurry before it's too late. Go now to the Mountains they call Rathe and find them! They need your help quickly! They will know you when they see you and instruct you on how you can help, but you must hurry!
@@ -58,7 +58,7 @@ if **Faction** >= Amiable and  **You turn in:** [A Small Gem](/item/1667)
 
  **You receive:** 0 (+1000 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Marrs Promise](/item/1675), [Woe](/item/1676), [Envy](/item/1677)
+elseif **Faction** >= Amiable +100 and  **You turn in:** [Marrs Promise](/item/1675), [Woe](/item/1676), [Envy](/item/1677)) then 
 
 
 >*a wandering spirit nods somberly and takes the items. After a moment, he says, 'It is unfortunate that it came to this, but nothing else was to be done. Both paragons had lost sight of their virtures to protect the items given to them. The mere protection of these material belongings was not as important to Mithaniel Marr or Bertoxulous as it was that they act with righteousness in their minds and purpose in their hearts. You saw this and acted accordingly. For that, we will reward you with the three treasures made into one to ward off the falsehood of possession, the [Shield of Falsehood]. You have walked the path and now, as your final test, we must set you along one [last path].'*
@@ -69,7 +69,7 @@ elseif **Faction** >= Amiable +100 and  **You turn in:** [Marrs Promise](/item/1
 
  **You receive:** 0 (+1000 exp)
 
-elseif **You turn in:** [Obsidian Pebble](/item/1669), [Marble Pebble](/item/1670)
+elseif( **You turn in:** [Obsidian Pebble](/item/1669), [Marble Pebble](/item/1670)) then 
 
 
 >**a wandering spirit says:** This is a sad day. You have failed and strayed from the path set before you. Please try to live as close to the spirits as you are able, though this is the closest you will ever get.
@@ -77,7 +77,7 @@ elseif **You turn in:** [Obsidian Pebble](/item/1669), [Marble Pebble](/item/167
 
 **a wandering spirit despawns.**
 
-elseif **You turn in:** [Obsidian Pebble](/item/1669)
+elseif( **You turn in:** [Obsidian Pebble](/item/1669)) then 
 
 
 >**a wandering spirit says:** This is a sad day. You have failed and strayed from the path set before you. Please try to live as close to the spirits as you are able, though this is the closest you will ever get.
@@ -85,7 +85,7 @@ elseif **You turn in:** [Obsidian Pebble](/item/1669)
 
 **a wandering spirit despawns.**
 
-elseif **You turn in:** [Marble Pebble](/item/1670)
+elseif( **You turn in:** [Marble Pebble](/item/1670)) then 
 
 
 >**a wandering spirit says:** This is a sad day. You have failed and strayed from the path set before you. Please try to live as close to the spirits as you are able, though this is the closest you will ever get.

@@ -51,7 +51,7 @@ end
 local text = "OK! Now, where is the rest?";
 
 
-if **You turn in:** [Polar Bear Skin](/item/13761),platinum = 5
+if( **You turn in:** [Polar Bear Skin](/item/13761),platinum = 5) then 
 
 
 >**Karg IceBear says:** Here is your polar bear cloak! It will serve you well and keep you warm even in the coldest conditions. Farewell, friend
@@ -60,7 +60,7 @@ if **You turn in:** [Polar Bear Skin](/item/13761),platinum = 5
 
  **You receive:**  [Polar Bear Cloak](/item/2912) 
 
-elseif **You turn in:** [Werewolf Pelt](/item/13714),platinum = 100
+elseif( **You turn in:** [Werewolf Pelt](/item/13714),platinum = 100) then 
 
 
 >**Karg IceBear says:** It has been a long time since I crafted items from werewolves. I hope this aids you in your journeys. Farewell, friend, until we meet again.
@@ -72,7 +72,7 @@ elseif **You turn in:** [Werewolf Pelt](/item/13714),platinum = 100
 
 
 
-elseif **You turn in:** [Werewolf Claws](/item/13715),platinum = 75
+elseif( **You turn in:** [Werewolf Claws](/item/13715),platinum = 75) then 
 
 
 >**Karg IceBear says:** It has been a long time since I crafted items from werewolves. I hope this aids you in your journeys. Farewell, friend, until we meet again.

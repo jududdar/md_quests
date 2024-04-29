@@ -30,7 +30,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+15000 exp)
 
 
 

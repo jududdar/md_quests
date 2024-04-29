@@ -111,7 +111,7 @@ end
 
 
 
-if **You turn in:** [Human Head](/item/13892)
+if( **You turn in:** [Human Head](/item/13892)) then
 
 
 >**Tani N-Mar says:** Good work! I knew you could prove your worth. Most waste time training. I do not reward those who waste my time. Please take this. It is from our horde, from countless robberies. I hope you can use it to advance yourself. Remember to always stay faithful to Neriak.

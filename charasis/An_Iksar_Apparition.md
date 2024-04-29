@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Iksar Relics](/item/30994)
+if( **You turn in:** [Iksar Relics](/item/30994)) then 
 
 
 **Spawn NPC:**  [Vauris Sathir](/npc/105007) at this location.

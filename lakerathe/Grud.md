@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Dufrenite](/item/10073)
+if( **You turn in:** [Dufrenite](/item/10073)) then 
 
 
 >**Grud says:** CRUSH! CRUSH! CRUSH!

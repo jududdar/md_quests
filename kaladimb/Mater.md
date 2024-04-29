@@ -78,7 +78,7 @@ local text = "I will not hand you a Mining Pick 628 until I see Boog Mudtoe's og
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Head](/item/13316), gold = 300
+if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Head](/item/13316), gold = 300) then 
 
 
 >**Mater says:** Very good!! You found him. His head shall bring us a great reward from the Stormguard. And as for you, here is your Mining Pick 628. Only a member of 628 can wield this fine weapon. We are the only ones who can wield it in such a way as to pierce our foes.
@@ -107,7 +107,7 @@ if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Head](/item/13316), g
  **You receive:**  [Mining Pick 628](/item/12161) (+5000 exp)
 
 
-elseif **You turn in:** [Small, Folded Note](/item/18767)
+elseif( **You turn in:** [Small, Folded Note](/item/18767)) then 
 
 
 >**Mater says:** Ah, welcome! We could use some fresh blood around here. The name's Mater, and I run this little outfit. Work hard for me, and I will reward you well. Cross me, and you'll find yourself buried under the mine cap. Now, let's get to work.

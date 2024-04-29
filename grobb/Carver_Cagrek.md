@@ -39,7 +39,7 @@ local text2 = "You want oven mittens den you gives me THREE froglok meats and TE
 
 
 
-if  **You turn in:** [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191)
+if ( **You turn in:** [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191)) then
 
 
 >**Carver Cagrek says:** Gud werk! Me already made, err, founds dung part of meal. Here we go. One fungus dung pie! Enjoys.
@@ -53,7 +53,7 @@ if  **You turn in:** [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/1
 
  **You receive:**  [Fungus Spore Pie](/item/12210) (+1000 exp)
 
-elseif  **You turn in:** [Froglok Meat](/item/13409), [Froglok Meat](/item/13409), [Froglok Meat](/item/13409), gold = 10
+elseif ( **You turn in:** [Froglok Meat](/item/13409), [Froglok Meat](/item/13409), [Froglok Meat](/item/13409), gold = 10) then
 
 
 >**Carver Cagrek says:** Bouts time you gets everyting! Here is you Grobb oven mittens. Dey good to keep you from hot stuff.
@@ -67,7 +67,7 @@ elseif  **You turn in:** [Froglok Meat](/item/13409), [Froglok Meat](/item/13409
 
  **You receive:**  [Grobb Oven Mittens](/item/12211) (+1000 exp)
 
-elseif  **You turn in:** [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [A Tattered Recipe](/item/18940)
+elseif ( **You turn in:** [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [A Tattered Recipe](/item/18940)) then
 
 
 >**Carver Cagrek says:** Finally!! What takes yous so long? Now carver Cagrek try and makes meat and feeds to trolls. Yous getting to be deputy carver. Mes give you Grobb cleaver!! Make strong and smarts on you it will. Just like carver Cagrek.

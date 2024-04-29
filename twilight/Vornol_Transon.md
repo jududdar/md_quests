@@ -58,7 +58,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sun Jewel](/item/4488), [Fire Idol](/item/4495), [Fire Marked Scroll](/item/4496), [Runed Ring of Fire](/item/4497)
+if( **You turn in:** [Sun Jewel](/item/4488), [Fire Idol](/item/4495), [Fire Marked Scroll](/item/4496), [Runed Ring of Fire](/item/4497)) then 
 
 
 FactionReward(e)
@@ -66,7 +66,7 @@ FactionReward(e)
 
  **You receive:**  [Cap of Matter](/item/3684) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Vial of Purified Fire](/item/4498), [Vial of Purified Water](/item/4499), [Vial of Purified Air](/item/4506)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Vial of Purified Fire](/item/4498), [Vial of Purified Water](/item/4499), [Vial of Purified Air](/item/4506)) then 
 
 
 FactionReward(e)
@@ -74,7 +74,7 @@ FactionReward(e)
 
  **You receive:**  [Robe of Matter](/item/3685) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Air Idol](/item/4507), [Air Marked Scroll](/item/4508), [Runed Ring of Air](/item/4509)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Air Idol](/item/4507), [Air Marked Scroll](/item/4508), [Runed Ring of Air](/item/4509)) then 
 
 
 FactionReward(e)
@@ -82,7 +82,7 @@ FactionReward(e)
 
  **You receive:**  [Sleeves of Matter](/item/3686) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Earth Idol](/item/4510), [Earth Marked Scroll](/item/4511), [Runed Ring of Earth](/item/4512)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Earth Idol](/item/4510), [Earth Marked Scroll](/item/4511), [Runed Ring of Earth](/item/4512)) then 
 
 
 FactionReward(e)
@@ -90,7 +90,7 @@ FactionReward(e)
 
  **You receive:**  [Pants of Matter](/item/3687) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Talisman of Burning Earth](/item/4513), [Vial of Purified Earth](/item/4514)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Talisman of Burning Earth](/item/4513), [Vial of Purified Earth](/item/4514)) then 
 
 
 FactionReward(e)
@@ -98,7 +98,7 @@ FactionReward(e)
 
  **You receive:**  [Shawl of Matter](/item/3688) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Talisman of Moisture](/item/4584), [Vial of Aqua Waters](/item/4585)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Talisman of Moisture](/item/4584), [Vial of Aqua Waters](/item/4585)) then 
 
 
 FactionReward(e)

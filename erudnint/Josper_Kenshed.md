@@ -71,7 +71,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Bag of Ice Necklaces](/item/13898)
+if **Faction** >= Amiable and  **You turn in:** [Bag of Ice Necklaces](/item/13898)) then 
 
 
 >**Josper Kenshed says:** Well done, my young apprentice. I call you apprentice for you are nothing but a spark to my fire. This is the final component for my greatest creation. AHA!! I call it - iced tea!! Never again shall I boil under the hot sun. As for you, take this. It should serve you well. Now go away. There is no iced tea for you.
@@ -94,7 +94,7 @@ if **Faction** >= Amiable and  **You turn in:** [Bag of Ice Necklaces](/item/138
 
  **You receive:**  [Servants Staff](/item/12208) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Half of a Spell](/item/12207)
+elseif **Faction** >= Amiable and  **You turn in:** [Half of a Spell](/item/12207)) then 
 
 
 >**Josper Kenshed says:** I see you found Ilanic. How is he doing? I hope he is well. As for you, you may have the spell Ice Capa... err, I mean Column of Frost. Don't go and lose it now.

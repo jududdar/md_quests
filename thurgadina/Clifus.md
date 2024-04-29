@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Fish Wine](/item/13040)
+if( **You turn in:** [Fish Wine](/item/13040)) then
 
 
 >*Clifus accepts the drink and gulps it down. 'Thanks, lad! Ye know, I guess ye're all right*

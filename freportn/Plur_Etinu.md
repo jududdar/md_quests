@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Zombie Skin](/item/13074), [Zombie Skin](/item/13074)
+if( **You turn in:** [Zombie Skin](/item/13074), [Zombie Skin](/item/13074)) then 
 
 
 >**Plur Etinu says:** May the unbridled passion of Erollisi Marr flow through your body.
@@ -39,7 +39,7 @@ if **You turn in:** [Zombie Skin](/item/13074), [Zombie Skin](/item/13074)
 
 **Plur Etinu casts:** [Cure Disease](/spell/213) on target.
 
-elseif **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029)
+elseif( **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029)) then 
 
 
 >**Plur Etinu says:** May the unbridled passion of Erollisi Marr flow through your body.
@@ -47,7 +47,7 @@ elseif **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/1402
 
 **Plur Etinu casts:** [Cure Poison](/spell/203) on target.
 
-elseif **You turn in:** gold = 10
+elseif( **You turn in:** gold = 10) then
 
 
 >**Plur Etinu says:** May the unbridled passion of Erollisi Marr flow through your body.

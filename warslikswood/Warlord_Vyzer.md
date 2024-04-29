@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Note to Iksar Lord](/item/18210)
+if( **You turn in:** [Note to Iksar Lord](/item/18210)) then
 
 
 >**Warlord Vyzer says:** I am glad to see they have sent a strong new recruit. I have a task for you which will require you to recover a few pages of a certain poem I once wrote. I never should have written of such weak-minded things, but the pages were stolen from me before I could destroy them. Take this poem binder and find the [thieves]. When you combine the pages in the binder, it will magically lock and you may return it to me for your prize, the geozite tool.
@@ -35,7 +35,7 @@ if **You turn in:** [Note to Iksar Lord](/item/18210)
 
  **You receive:**  [Book Binder](/item/17995) 
 
-elseif **You turn in:** [magically locked poem](/item/12667)
+elseif( **You turn in:** [magically locked poem](/item/12667)) then
 
 
 >**Warlord Vyzer says:** Great work!! You have saved me from disgrace. I reward you with the geozite tool. You may find its purpose within Cabils' warriors guild. A true Iksar warrior should always have one.
@@ -58,7 +58,7 @@ elseif **You turn in:** [magically locked poem](/item/12667)
 
  **You receive:**  [Geozite Tool](/item/12657) (+1000 exp)
 
-elseif **You turn in:** [Four Warbeads](/item/12912)
+elseif( **You turn in:** [Four Warbeads](/item/12912)) then
 
 
 >**Warlord Vyzer says:** Great job, Trooper Soandso. Such a warrior would serve the empire better as a legionnaire and not a trooper. I shall recommend you for the rank of legionnaire.

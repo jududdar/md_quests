@@ -37,7 +37,7 @@ local text = "Have you forgotten something, Soandso?";
 
 
 
-if **You turn in:** [Token of Mastery](/item/28035)
+if( **You turn in:** [Token of Mastery](/item/28035)) then
 
 
 >**Jahsohn Aksot says:** What is this? I cannot believe you found it! Where did you get this?
@@ -45,7 +45,7 @@ if **You turn in:** [Token of Mastery](/item/28035)
 
  **You receive:** 0 (+50 exp)
 
-elseif **You turn in:** [Torn Page of Magi\`kot pg. 1](/item/28000), [Torn Page of Magi\`kot pg. 2](/item/28001), [Torn Page of Magi\`kot pg. 3](/item/28002)
+elseif( **You turn in:** [Torn Page of Magi\`kot pg. 1](/item/28000), [Torn Page of Magi\`kot pg. 2](/item/28001), [Torn Page of Magi\`kot pg. 3](/item/28002)) then
 
 
 >**Jahsohn Aksot says:** Rykas may have been right about you, Soandso. Now, go find Walnan. Walnan was apprenticed to a very powerful Mage. After her apprenticeship was complete, she wished to begin teaching other beings of Norrath. Even those who knew nothing of the art! I do not believe she was successful, though. Seek her out to further your tale. Good luck in your journeys, Soandso!

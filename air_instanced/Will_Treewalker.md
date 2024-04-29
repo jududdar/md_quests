@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [Azure Tessera](/item/20930), [Black Face Paint](/item/20728), [Worn Leather Mask](/item/20729)
+if( **You turn in:** [Azure Tessera](/item/20930), [Black Face Paint](/item/20728), [Worn Leather Mask](/item/20729)) then 
 
 
 
@@ -52,7 +52,7 @@ if **You turn in:** [Azure Tessera](/item/20930), [Black Face Paint](/item/20728
 
 **Will Treewalker despawns.**
 
-elseif **You turn in:** [Copper Disc](/item/20936), [Mantle of Woven Grass](/item/20731), [Nature Walker's Sky Emerald](/item/20730)
+elseif( **You turn in:** [Copper Disc](/item/20936), [Mantle of Woven Grass](/item/20731), [Nature Walker's Sky Emerald](/item/20730)) then 
 
 
 >**Will Treewalker says:** This mantle will protect you from the winds on your journeys naturewalker.
@@ -64,7 +64,7 @@ elseif **You turn in:** [Copper Disc](/item/20936), [Mantle of Woven Grass](/ite
 
 **Will Treewalker despawns.**
 
-elseif **You turn in:** [Diaphanous Globe](/item/20943), [Hardened Clay](/item/20732), [Spiroc Battle Staff](/item/20733)
+elseif( **You turn in:** [Diaphanous Globe](/item/20943), [Hardened Clay](/item/20732), [Spiroc Battle Staff](/item/20733)) then 
 
 
 >**Will Treewalker says:** Great work, Soandso.

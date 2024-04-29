@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Note from Kellari](/item/3872)
+if( **You turn in:** [Note from Kellari](/item/3872)) then 
 
 
 >**Courier Balious says:** Of all of the horrid coincidences! Colian just walked by me a few moments ago!  She was heading to the Northeast.  Please run and catch her.  Do not let her escape!  I will go and notify the authorities. Take her back to Governor Unja, if you capture her before help arrives. Good luck!

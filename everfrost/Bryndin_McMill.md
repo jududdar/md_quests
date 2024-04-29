@@ -13,7 +13,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [One Quarter of Elixir](/item/13242)
+if( **Faction is** > Indifferent and  **You turn in:** [One Quarter of Elixir](/item/13242)) then 
 
 
 >**Bryndin McMill says:** Ahhh!! I feel warm all over. Thanks. You should go give Arnis McLish a drink of this elixir. Last time I saw him he was headed toward Blackburrow.

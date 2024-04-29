@@ -77,7 +77,7 @@ end
 
 
 
-if **You turn in:** [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396)
+if( **You turn in:** [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396)) then
 
 
 

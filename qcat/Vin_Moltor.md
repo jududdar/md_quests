@@ -34,7 +34,7 @@ local text = "What are you trying to do, cheat me?!  I need three bottles of Kal
 
 
 
-if **You turn in:** [Bottle of Kalish](/item/13016), [Bottle of Kalish](/item/13016), [Bottle of Kalish](/item/13016), [Rat Ear Pie](/item/13192)
+if( **You turn in:** [Bottle of Kalish](/item/13016), [Bottle of Kalish](/item/13016), [Bottle of Kalish](/item/13016), [Rat Ear Pie](/item/13192)) then
 
 
 >**Vin Moltor says:** Ah. Come to ol'Vin my dear sweet Kalish.. Mmmm.. And Rat Ear Pie.. I am going to eat and drink like a KING! Huh? Oh.. The Paw.. Here you go.. Hope it brings you more luck then it did me..

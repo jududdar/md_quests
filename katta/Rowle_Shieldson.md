@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Underfoot Brown](/item/19967)
+if( **You turn in:** [Underfoot Brown](/item/19967)) then
 
 
 >*Rowle Shieldson takes a wee sip and smacks his lips together, proclaiming, 'Ahhh, a finer stout has never passed my lips, ' before draining the mug in one gulp. 'Yer a saint amongst us, I say. Feel free to keep 'em coming, Soandso!'*

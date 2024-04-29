@@ -140,7 +140,7 @@ end
 
 
 
-if **You turn in:** [War Wolf Choker](/item/30245)
+if( **You turn in:** [War Wolf Choker](/item/30245) or  **You turn in:** [Velium War Wolf Choker](/item/30246)) then
 
 
 >**a frost giant wolf tamer says:** Ahhh.  Now this is interesting indeed.  I see.  Crafty little ice gnats.  Here, perhaps you can find use for one of our harnesses.  Fair trade eh?  If you want more work let me know.
@@ -148,7 +148,7 @@ if **You turn in:** [War Wolf Choker](/item/30245)
 
  **You receive:**  [Blood Wolf Harness](/item/30249) 
 
-elseif **You turn in:** [Gem of Persuasion](/item/30270)
+elseif( **You turn in:** [Gem of Persuasion](/item/30270)) then
 
 
 >**a frost giant wolf tamer says:** Ahhh.  Now that really is an interesting little trinket.  You know, that might be interesting with a harness.
@@ -156,7 +156,7 @@ elseif **You turn in:** [Gem of Persuasion](/item/30270)
 
  **You receive:**  [Giants Gem of Persuasion](/item/30273) 
 
-elseif **You turn in:** [Giants Gem of Persuasion](/item/30273)
+elseif( **You turn in:** [Giants Gem of Persuasion](/item/30273)) then
 
 
 >**a frost giant wolf tamer says:** Yes.  Exactly as I thought.  Hrm.  I'd keep this but you've done much work.  You may be one of the filthy outlanders but you can keep it.  You can save your thanks.
@@ -164,12 +164,15 @@ elseif **You turn in:** [Giants Gem of Persuasion](/item/30273)
 
  **You receive:**  [Giants Harness of Control](/item/30274) 
 
-elseif **You turn in:** [Giants Gem of Persuasion](/item/30273), [Blood Wolf Harness](/item/30249)
+elseif( **You turn in:** [Giants Gem of Persuasion](/item/30273), [Blood Wolf Harness](/item/30249)) then
 
 
 >**a frost giant wolf tamer says:** Yes.  Exactly as I thought.  Hrm.  I'd keep this but you've done much work.  You may be one of the filthy outlanders but you can keep it.  You can save your thanks.
 
 
- **You receive:** None 
+ **You receive:**  [Giants Harness of Control](/item/30274) 
+
+
+ **You receive:**  [Blood Wolf Harness](/item/30249) 
 
 **This NPC *should* return incorrect items given.**

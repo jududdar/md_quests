@@ -47,7 +47,7 @@ end
 
 
 
-if **You turn in:** [Emerald](/item/10029)
+if( **You turn in:** [Emerald](/item/10029)) then 
 
 
  **You receive:**  [Before Green](/item/18068) (+500 exp)

@@ -31,7 +31,7 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Writ of Thunder](/item/8908), [Silver Blade of Rot](/item/8911)
+if( **Faction is** > Warmly and  **You turn in:** [Writ of Thunder](/item/8908), [Silver Blade of Rot](/item/8911)) then 
 
 
 e.self:Emote("examines the blade carefully, his manner seeming distant 

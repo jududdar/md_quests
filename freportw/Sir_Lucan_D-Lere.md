@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [A Note](/item/18822)
+if( **You turn in:** [A Note](/item/18822)) then
 
 
 >**Sir Lucan D-Lere says:** So I see you decided to bring me the message. Good. I would hate to have to hunt you down. It could have gotten really messy and I hate reading bloodstained messages. Well it seems Antonius Bayle and the Knights of Truth have begun an alliance. And it sounds as though I may have a traitor among my guards. If you wish to switch your allegiance to Freeport, then find me this traitor. Bring me his militia tunic. Try to keep the blood from staining it.
@@ -47,7 +47,7 @@ if **You turn in:** [A Note](/item/18822)
 
 
 
-elseif **You turn in:** [Slashed Militia Tunic](/item/13926)
+elseif( **You turn in:** [Slashed Militia Tunic](/item/13926)) then
 
 
 >**Sir Lucan D-Lere says:** So, it was Alayle! He was of no importance to us. He knew nothing. I thank you for assisting the Freeport Militia. My men shall keep an eye out for you. Unfortunately, so will the Knights of Truth. Might I suggest you spend less time in North Freeport?

@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Fish Food](/item/12271)
+if( **You turn in:** [Fish Food](/item/12271)) then
 
 
 >*a royal fish gladly gulps up your odd mixture and transforms into..!!*

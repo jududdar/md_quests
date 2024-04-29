@@ -14,7 +14,7 @@ end
 
 
 
-if (  **You turn in:** [Silver Medal of War](/item/4396)
+if (  **You turn in:** [Silver Medal of War](/item/4396) ) then 
 
 
 >**Veteran Vadrel says:** Just in time, Soandso. I have finished plans for an attack deep in enemy territory. I have had scouts gather information on two newly constructed grimling camps. These grunts need to be taught that they will not be allowed to spread across the surface of this world unchecked! Take these plans and study them. Keep them confidential. When you have gathered an army of at least two dozen loyal soldiers return the plans to me and we will begin.
@@ -25,7 +25,7 @@ if (  **You turn in:** [Silver Medal of War](/item/4396)
 
 
 
-elseif (  **You turn in:** [Vadrel's Plans](/item/5987)
+elseif (  **You turn in:** [Vadrel's Plans](/item/5987) ) then 
 
 
 >**Veteran Vadrel says:** You know the drill by now, Soandso. Order your people to make ready for war! Follow me.

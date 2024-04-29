@@ -100,7 +100,7 @@ local text = "Good work! Now have you the rest of what I require?";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [High Quality Wolf Skin](/item/13755), gold = 21
+if **Faction** >= Indifferent and  **You turn in:** [High Quality Wolf Skin](/item/13755), gold = 21) then
 
 
 >**Baobob Miller says:** Here ya go! That should keep ya nice and warm! Be sure to tell all the friends you're going to impress where you got this fine cloak. Although I am sure they probably have heard of me already.
@@ -118,11 +118,11 @@ if **Faction** >= Indifferent and  **You turn in:** [High Quality Wolf Skin](/it
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Wolf-hide Cape](/item/2905) (+50 exp)
 
 
 
-elseif **You turn in:** [Medium Quality Wolf Skin](/item/13754), gold = 15
+elseif( **You turn in:** [Medium Quality Wolf Skin](/item/13754), gold = 15) then
 
 
 >**Baobob Miller says:** They are exquisite, if I do say so myself. Hope they fit.
@@ -140,9 +140,9 @@ elseif **You turn in:** [Medium Quality Wolf Skin](/item/13754), gold = 15
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Wolf-hide Boots](/item/2906) (+50 exp)
 
-elseif **You turn in:** [Low Quality Wolf Skin](/item/13753), gold = 5
+elseif( **You turn in:** [Low Quality Wolf Skin](/item/13753), gold = 5) then
 
 
 >**Baobob Miller says:** I hate working with such low quality hides. They lack the sheen that makes a high quality pelt look so fine! Anyhow, here's your belt.
@@ -160,6 +160,6 @@ elseif **You turn in:** [Low Quality Wolf Skin](/item/13753), gold = 5
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Wolf-hide Belt](/item/2907) (+50 exp)
 
 **This NPC *should* return incorrect items given.**

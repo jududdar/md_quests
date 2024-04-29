@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Giant Sack of Supplies](/item/25266)
+if( **You turn in:** [Giant Sack of Supplies](/item/25266)) then 
 
 
 >**Korzak Stonehammer says:** It's about time the supplies got here.  Not like it's a long trip from the center of Kael to us out here.  Payment?  I already paid Wenglawks for the supplies I ordered.  Don't give me any trouble, little one.  I have enough trouble with the missing helmets.

@@ -160,7 +160,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [A Tattered Journal pg 1](/item/22617), [A Tattered Journal pg 2](/item/22618), [A Tattered Journal pg 3](/item/22619)
+if(expansion_flag >= 4.0 and  **You turn in:** [A Tattered Journal pg 1](/item/22617), [A Tattered Journal pg 2](/item/22618), [A Tattered Journal pg 3](/item/22619)) then
 
 
 >**High Priestess Alexandria says:** Your prowess both in the classroom and on the battlefield has certainly amazed me. Please take this relic that is only presented to the most dedicated initiates and carry it with pride. You have made your house very proud on this day.

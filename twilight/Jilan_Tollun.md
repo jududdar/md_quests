@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sky Jewel](/item/4492), [Embedded Steel Figurine](/item/5949), [Mark of the Wolf](/item/5948), [Ancient Wrappings](/item/5950)
+if( **You turn in:** [Sky Jewel](/item/4492), [Embedded Steel Figurine](/item/5949), [Mark of the Wolf](/item/5948), [Ancient Wrappings](/item/5950)) then
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Belt](/item/3996) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of the Panther](/item/5941), [Iridescent Crystal](/item/5942), [Embedded Bronze Figurine](/item/5943)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of the Panther](/item/5941), [Iridescent Crystal](/item/5942), [Embedded Bronze Figurine](/item/5943)) then
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Cape](/item/3993) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of the Bestial](/item/5951), [Embedded Admantium Figurine](/item/5952), [Roaring Idol](/item/5953)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of the Bestial](/item/5951), [Embedded Admantium Figurine](/item/5952), [Roaring Idol](/item/5953)) then
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Claws](/item/3997) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of the Alligator](/item/5944), [Embedded Electrum Figurine](/item/5945)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Alligator](/item/5944), [Embedded Electrum Figurine](/item/5945)) then
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Gloves](/item/3994) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of the Shark](/item/5946), [Embedded Silver Figurine](/item/5947)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of the Shark](/item/5946), [Embedded Silver Figurine](/item/5947)) then
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Talisman](/item/3995) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of the Tiger](/item/5939), [Embedded Wooden Figurine](/item/5940)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of the Tiger](/item/5939), [Embedded Wooden Figurine](/item/5940)) then
 
 
 FactionReward(e)

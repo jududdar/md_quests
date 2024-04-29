@@ -67,7 +67,7 @@ local text = "Impressive, do you have the rest?";
 
 
 
-if **You turn in:** [Enchanted Platinum Bar](/item/16507), [Enchanted Platinum Bar](/item/16507), [Icon of the Reverent](/item/19010), [Ingot of the Reverent](/item/19009)
+if( **You turn in:** [Enchanted Platinum Bar](/item/16507), [Enchanted Platinum Bar](/item/16507), [Icon of the Reverent](/item/19010), [Ingot of the Reverent](/item/19009)) then
 
 
 >**Gavel the Temperant says:** Wear this with pride!
@@ -75,7 +75,7 @@ if **You turn in:** [Enchanted Platinum Bar](/item/16507), [Enchanted Platinum B
 
  **You receive:**  [Bracers of the Reverent](/item/4925) (+1000 exp)
 
-elseif **You turn in:** [Magnetized Platinum Bar](/item/19049), [Magnetized Platinum Bar](/item/19049), [Icon of Sacrament](/item/19016), [Ingot of Sacrament](/item/19015)
+elseif( **You turn in:** [Magnetized Platinum Bar](/item/19049), [Magnetized Platinum Bar](/item/19049), [Icon of Sacrament](/item/19016), [Ingot of Sacrament](/item/19015)) then
 
 
 >**Gavel the Temperant says:** It is an honor to forge such a weapon. Wield it with pride!
@@ -83,7 +83,7 @@ elseif **You turn in:** [Magnetized Platinum Bar](/item/19049), [Magnetized Plat
 
  **You receive:**  [Caduceus of Sacrament](/item/6407) (+1000 exp)
 
-elseif **You turn in:** [Galvanized Platinum Bar](/item/19047), [Galvanized Platinum Bar](/item/19047), [Ingot of the Constant](/item/19011), [Icon of the Constant](/item/19012)
+elseif( **You turn in:** [Galvanized Platinum Bar](/item/19047), [Galvanized Platinum Bar](/item/19047), [Ingot of the Constant](/item/19011), [Icon of the Constant](/item/19012)) then
 
 
 >**Gavel the Temperant says:** Wear this with pride!
@@ -91,7 +91,7 @@ elseif **You turn in:** [Galvanized Platinum Bar](/item/19047), [Galvanized Plat
 
  **You receive:**  [Chestplate of the Constant](/item/4926) (+1000 exp)
 
-elseif **You turn in:** [Vulcanized Platinum Bar](/item/19048), [Vulcanized Platinum Bar](/item/19048), [Ingot of the Devout](/item/19013), [Icon of the Devout](/item/19014)
+elseif( **You turn in:** [Vulcanized Platinum Bar](/item/19048), [Vulcanized Platinum Bar](/item/19048), [Ingot of the Devout](/item/19013), [Icon of the Devout](/item/19014)) then
 
 
 >**Gavel the Temperant says:** Wear this with pride!

@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Piece of a medallion](/item/19956), [Piece of a medallion](/item/19957), [Piece of a medallion](/item/19958)
+if( **You turn in:** [Piece of a medallion](/item/19956), [Piece of a medallion](/item/19957), [Piece of a medallion](/item/19958)) then 
 
 
 >**Slixin Klex says:** Ssssss. I thought I would never see these. I never thought the symbol of our people would be made whole again. I feel no rest for my sssoul though. My torment still flows as freely as when my peoples first suffered fiery death. I need this not. It is useless to me. Here, you take it. Maybe you can find some good to do with it.

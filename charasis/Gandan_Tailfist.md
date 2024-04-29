@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [Shackle of Tynnonium](/item/4199)
+if( **You turn in:** [Shackle of Tynnonium](/item/4199)) then
 
 
 >**Gandan Tailfist says:** The search for the fists has killed many so I hope that your strength is more than mine and those in the past. I was given this satchel by the lord Cazic Thule. I have searched for the fists in this place but they are not here. I suggest you seek audience with our lord. Tell him that I have failed in my task. I am sure that he ugnnnnnhnnn.' One last look to you is given before falling completely lifeless to the cold stone.

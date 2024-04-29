@@ -88,7 +88,7 @@ local text2 = "So you are expecting to earn your way to rank of revenant, eh? Yo
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full Component Sack](/item/12420), [Apprentice Skullcap - 3rd Rank](/item/4262)
+if **Faction** >= Amiable and  **You turn in:** [Full Component Sack](/item/12420), [Apprentice Skullcap - 3rd Rank](/item/4262)) then 
 
 
 
@@ -106,7 +106,7 @@ if **Faction** >= Amiable and  **You turn in:** [Full Component Sack](/item/1242
 
  **You receive:**  [Dark Binder Skullcap](/item/4263) (+200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Journal](/item/18065), [Dark Binder Skullcap](/item/4263)
+elseif **Faction** >= Amiable and  **You turn in:** [A Journal](/item/18065), [Dark Binder Skullcap](/item/4263)) then 
 
 
 
@@ -124,7 +124,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [A Journal](/item/18065), [D
 
  **You receive:**  [Occultist Skullcap](/item/4264) (+200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Stem of Candlestick](/item/12853), [Foot of Candlestick](/item/12852), [Occultist Skullcap](/item/4264)
+elseif **Faction** >= Amiable and  **You turn in:** [Stem of Candlestick](/item/12853), [Foot of Candlestick](/item/12852), [Occultist Skullcap](/item/4264)) then
 
 
 

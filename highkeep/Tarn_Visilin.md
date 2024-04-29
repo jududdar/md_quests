@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Coin of Tash](/item/10790)
+if( **You turn in:** [Coin of Tash](/item/10790)) then 
 
 
 >**Tarn Visilin says:** The Coin of Tash. Very good. I have laid a basic enhancement on it - to get it further enhanced you must take the coin to Mizn N'Mar in the Library of Neriak.
@@ -21,7 +21,7 @@ if **You turn in:** [Coin of Tash](/item/10790)
 
  **You receive:**  [Glowing Coin of Tash](/item/10791) (+1000 exp)
 
-elseif **You turn in:** [A Glamour Stone](/item/10086),gold = 50
+elseif( **You turn in:** [A Glamour Stone](/item/10086),gold = 50) then 
 
 
 >**Tarn Visilin says:** Here is your stone, fully enchanted.
@@ -29,7 +29,7 @@ elseif **You turn in:** [A Glamour Stone](/item/10086),gold = 50
 
  **You receive:**  [Glowing Glamour Stone](/item/10087) 
 
-elseif **You turn in:** [Bloodstone](/item/10019)
+elseif( **You turn in:** [Bloodstone](/item/10019)) then 
 
 
 >**Tarn Visilin says:** I see that Sultin has sent you to me.  Very well, here are your gloves.

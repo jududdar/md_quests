@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Star Jewel](/item/4490), [Mark of Belief](/item/4839), [Light Etched of Sapphire](/item/4840)
+if( **You turn in:** [Star Jewel](/item/4490), [Mark of Belief](/item/4839), [Light Etched of Sapphire](/item/4840)) then 
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Boots of the Holy Rite](/item/3742) (+25000 exp)
 
-elseif **You turn in:** [Light Etched Ruby](/item/4838), [Mark of Truth](/item/4829), [Moon Jewel](/item/4489)
+elseif( **You turn in:** [Light Etched Ruby](/item/4838), [Mark of Truth](/item/4829), [Moon Jewel](/item/4489)) then 
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Bracer of the Holy Rite](/item/3741) (+25000 exp)
 
-elseif **You turn in:** [Brazier of Light](/item/4798), [Genuine Leather Padding](/item/4797), [Mark of Faith](/item/4796), [Sky Jewel](/item/4492)
+elseif( **You turn in:** [Brazier of Light](/item/4798), [Genuine Leather Padding](/item/4797), [Mark of Faith](/item/4796), [Sky Jewel](/item/4492)) then 
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Breastplate of the Holy Rite](/item/3737) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Candle of Rites](/item/4818), [Lexicon of Omens](/item/4810), [Mark of Purity](/item/4809)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Candle of Rites](/item/4818), [Lexicon of Omens](/item/4810), [Mark of Purity](/item/4809)) then 
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Greaves of the Holy Rite](/item/3739) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Holy Statuette](/item/4795), [Mark of Remedy](/item/4793), [Vial of Holy Water](/item/4794)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Holy Statuette](/item/4795), [Mark of Remedy](/item/4793), [Vial of Holy Water](/item/4794)) then 
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Helm of the Holy Rite](/item/3736) (+25000 exp)
 
-elseif **You turn in:** [Decorative Bracers of Wistfulnees](/item/4820), [Mark of the Divine](/item/4819), [Sun Jewel](/item/4488)
+elseif( **You turn in:** [Decorative Bracers of Wistfulnees](/item/4820), [Mark of the Divine](/item/4819), [Sun Jewel](/item/4488)) then 
 
 
 FactionReward(e)
@@ -118,7 +118,7 @@ FactionReward(e)
 
  **You receive:**  [Pauldrons of the Holy Rite](/item/3740) (+25000 exp)
 
-elseif **You turn in:** [Mark of the Holy](/item/4799), [Meteor Jewel](/item/4493), [Restored Tapestry](/item/4808), [Tome of Deities](/item/4800)
+elseif( **You turn in:** [Mark of the Holy](/item/4799), [Meteor Jewel](/item/4493), [Restored Tapestry](/item/4808), [Tome of Deities](/item/4800)) then 
 
 
 FactionReward(e)

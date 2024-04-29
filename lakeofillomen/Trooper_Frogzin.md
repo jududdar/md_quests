@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Legion Order](/item/18240)
+if( **You turn in:** [Legion Order](/item/18240)) then 
 
 
 >*Trooper Frogzin grabs the order from your hand and mumbles something unpleasant and vaguely threatening. He then hands the signed order back to you.*

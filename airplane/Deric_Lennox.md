@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [Silvered Spiroc Necklace](/item/20813), [Spiroc Healing Totem](/item/20812), [Spiroc Statuette](/item/20954)
+if( **You turn in:** [Silvered Spiroc Necklace](/item/20813), [Spiroc Healing Totem](/item/20812), [Spiroc Statuette](/item/20954)) then 
 
 
 
@@ -52,7 +52,7 @@ if **You turn in:** [Silvered Spiroc Necklace](/item/20813), [Spiroc Healing Tot
 
  **You receive:**  [Necklace of Resolution](/item/14562) (+100000 exp)
 
-elseif **You turn in:** [Djinni Aura](/item/20815), [Efreeti Mace](/item/20816), [Glowing Sapphire](/item/20814), [Saffron Spiroc Feather](/item/20961)
+elseif( **You turn in:** [Djinni Aura](/item/20815), [Efreeti Mace](/item/20816), [Glowing Sapphire](/item/20814), [Saffron Spiroc Feather](/item/20961)) then 
 
 
 
@@ -61,7 +61,7 @@ elseif **You turn in:** [Djinni Aura](/item/20815), [Efreeti Mace](/item/20816),
 
  **You receive:**  [Theurgist's Star](/item/27718) (+100000 exp)
 
-elseif **You turn in:** [Efreeti Standard](/item/20817), [Manna Nectar](/item/20968), [Mithril Bands](/item/20819), [Shimmering Topaz](/item/20818)
+elseif( **You turn in:** [Efreeti Standard](/item/20817), [Manna Nectar](/item/20968), [Mithril Bands](/item/20819), [Shimmering Topaz](/item/20818)) then 
 
 
 

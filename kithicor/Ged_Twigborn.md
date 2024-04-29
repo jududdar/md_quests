@@ -129,7 +129,7 @@ local text3 = "Excellent choice!  My lionskin gloves are known throughout Norrat
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054)
+if **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054)) then 
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
@@ -149,7 +149,7 @@ if **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054)
 
  **You receive:**  [Ratskin Gloves](/item/2312) (+500 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [High Quality Wolf Skin](/item/13755),gold = 13
+elseif **Faction** >= Apprehensive and  **You turn in:** [High Quality Wolf Skin](/item/13755),gold = 13) then
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
@@ -169,7 +169,7 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [High Quality Wolf Skin
 
  **You receive:**  [Wolfskin Gloves](/item/2313) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/item/13752),gold = 25
+elseif **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/item/13752),gold = 25) then
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
@@ -189,7 +189,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin]
 
  **You receive:**  [Bearskin Gloves](/item/2314) (+1500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [High Quality Lion Skin](/item/13766),gold = 96
+elseif **Faction** >= Amiable and  **You turn in:** [High Quality Lion Skin](/item/13766),gold = 96) then
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.

@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [A List of Potion Components](/item/4764)
+if( **You turn in:** [A List of Potion Components](/item/4764)) then
 
 
 >**Daksins says:** I see you were sent by my friends from back home. I understand that they are very worried about me but they must understand that I am doing this to help my sister and anyone else infected by this horrible beasts. If only I could receive some help in collecting a vampyre blood extract sample I could return it home along with the other components that Zimloro decribes in this letter.
@@ -42,7 +42,7 @@ if **You turn in:** [A List of Potion Components](/item/4764)
 
  **You receive:** 0 (+5000 exp)
 
-elseif **You turn in:** [Vampyre Blood](/item/2693)
+elseif( **You turn in:** [Vampyre Blood](/item/2693)) then
 
 
 >**Daksins says:** The blood of one of the cursed! You have done it, Soandso. You must be a very skilled fighter to have bested one of these vile creatures. All that needs to be done now is to return this extract along with the other antidote supplies that I have prepared to Zimloro. Will you return this extract?

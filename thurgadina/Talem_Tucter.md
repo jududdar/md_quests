@@ -22,12 +22,12 @@ end
 
 
 
-if **You turn in:** [Velium etched rune](/item/1859)
+if( **You turn in:** [Velium etched rune](/item/1859)) then
 
 
 >**Talem Tucter says:** I've heard of your mission, Soandso. I must admit that I had my doubts you'd make it this far. The rune's creation is nearly impossible for even the most skilled of Coldain craftsmen. You should be exceedingly proud. Many have attempted this feat and nearly all have lacked the skill, faith, patience and persistence that is prerequisite for what destiny holds in store for you. You are now ready to use this pattern to construct the sacred rune's casing and complete the runed shawl.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Velium etched rune](/item/1859), [Rune Casing Pattern](/item/2040)) 
 
 **This NPC *should* return incorrect items given.**

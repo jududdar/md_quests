@@ -40,7 +40,7 @@ else
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Tunares Finest](/item/12360), [Thunderhoof Mushroom](/item/14914), [Tea Leaves](/item/14915), [Hand Made Backpack](/item/17969)
+if **Faction** >= Dubious and  **You turn in:** [Tunares Finest](/item/12360), [Thunderhoof Mushroom](/item/14914), [Tea Leaves](/item/14915), [Hand Made Backpack](/item/17969)) then
 
 
 >**Feskr Drinkmaker says:** Ahhh. This will help. Many Kerrans will like these. Here. Take this old bag. I have too many. Maybe it help you.

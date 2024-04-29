@@ -197,7 +197,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Kedge Backbone](/item/20524)
+if **Faction** >= Amiable and  **You turn in:** [Kedge Backbone](/item/20524)) then
 
 
 >**Bjoskhua Blackfist says:** Excellent, I guess his entire race is now wiped from Norrath. This will indeed make a wonderful scroll case. I am a giant of my word. Take your prized item and be gone, you greedy little beast!

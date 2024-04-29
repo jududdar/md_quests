@@ -46,7 +46,7 @@ end
 
 
 
-if **You turn in:** [Full C.O.R.N. Chest](/item/12736), [Iron Cudgel of the Mystic](/item/5143)
+if( **You turn in:** [Full C.O.R.N. Chest](/item/12736), [Iron Cudgel of the Mystic](/item/5143)) then
 
 
 >**Mystic Dovan says:** I see that you have found your answers. Now I must ask you to to retrieve for the council the skulls of the Di Nozok.  The sarnak in Lake of Ill Omen hold one of the skulls, while [Galdon Vok Nir] holds the other. Once you have retrieved them, give them to Hierphant Zand.
@@ -62,7 +62,7 @@ if **You turn in:** [Full C.O.R.N. Chest](/item/12736), [Iron Cudgel of the Myst
 
 
 
-elseif **You turn in:** [A Giant Blood Sac](/item/12671)
+elseif( **You turn in:** [A Giant Blood Sac](/item/12671)) then
 
 
 >*Mystic Dovan grabs from his beltpouch a fine dust and cakes the slimy blood sac with it. He then punctures the sac and smears the blood upon your chest. Your chest tingles. Your fill your lungs and exhale a bitter mist.*
@@ -81,7 +81,7 @@ elseif **You turn in:** [A Giant Blood Sac](/item/12671)
 
 
 
-elseif **You turn in:** [Brittle Iksar Skull](/item/12739), [Brittle Iksar Skull](/item/12739)
+elseif( **You turn in:** [Brittle Iksar Skull](/item/12739), [Brittle Iksar Skull](/item/12739)) then
 
 
 >*Mystic Dovan takes the skulls and holds them before your wounds. They shatter into a fine glowing powder and you feel your wounds being cauterized with no visible flame upon them.*
@@ -100,7 +100,7 @@ elseif **You turn in:** [Brittle Iksar Skull](/item/12739), [Brittle Iksar Skull
 
 
 
-elseif **You turn in:** [Watcher Signal Torch](/item/12441)
+elseif( **You turn in:** [Watcher Signal Torch](/item/12441)) then
 
 
 >*Mystic Dovan chants in an unknown tongue as he takes a dagger and slits your forearm. He then takes a tiny glowing vein worm from his beltpouch and forces it into the open wound. You feel the worm explode within. The pain is unbearable, but then, a coolness courses through your body.*

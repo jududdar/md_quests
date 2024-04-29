@@ -60,7 +60,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A Doll](/item/13712)
+if **Faction** >= Indifferent and  **You turn in:** [A Doll](/item/13712)) then
 
 
 >*Indaria tries to keep her composure. She hands you a silver locket with great effort, and then bursts into tears.*

@@ -75,7 +75,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000)
+if **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000)) then
 
 
 >**Romar Sunto says:** A stone for a staff - very well.
@@ -89,7 +89,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000)
 
  **You receive:**  [Darkwood Staff](/item/6048) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Radiant Coin of Tash](/item/10793)
+elseif **Faction** >= Indifferent and  **You turn in:** [Radiant Coin of Tash](/item/10793)) then 
 
 
 >**Romar Sunto says:** The Coin of Tash - fully enchanted! I am in your debt. Here is the scroll of Tashania that was promised to you.
@@ -97,15 +97,15 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Radiant Coin of Tash](/
 
  **You receive:**  [Spell: Tashania](/item/15678) (+20000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Coin of Tash](/item/10790)
+elseif **Faction** >= Indifferent and  **You turn in:** [Coin of Tash](/item/10790)) then 
 
 
 >**Romar Sunto says:** The Coin of Tash. It is of no use to me like this. You must take the coin to Tarn Visilin in High Keep to get it enchanted.
 
 
- **You receive:** None 
+ **You receive:**  [Coin of Tash](/item/10790) 
 
-elseif **Faction** >= Indifferent and  **You turn in:** gold = 50
+elseif **Faction** >= Indifferent and  **You turn in:** gold = 50) then 
 
 
 e.other:Say("Once you combine the coins within the pouch, you must take the Coin of Tash to Tarn Vislin in the HighKeep library to get it enchanted.  Give him the coin and he will enchant it for you.");

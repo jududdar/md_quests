@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Marching Orders](/item/15931), [Invasion Plans](/item/15932), [Area Maps of Qeynos Hills](/item/15933), [Encryption Key](/item/15934)
+if( **You turn in:** [Marching Orders](/item/15931), [Invasion Plans](/item/15932), [Area Maps of Qeynos Hills](/item/15933), [Encryption Key](/item/15934)) then
 
 
 >*Rilca Leafrunner takes a look at the documents you handed her and smiles, 'This is exactly what we needed. We'll be better prepared if the gnolls are foolish enough to actually attack. I hope you are willing to assist us in the defense of Surefall. Should you choose to aid us, this club will serve you well.'*

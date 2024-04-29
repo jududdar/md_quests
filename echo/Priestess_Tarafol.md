@@ -88,7 +88,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Underbulk Bile](/item/32403), [Razor Fungus Spores](/item/32510), [Saprophyte Spores](/item/19836)
+if **Faction** >= Apprehensive and  **You turn in:** [Underbulk Bile](/item/32403), [Razor Fungus Spores](/item/32510), [Saprophyte Spores](/item/19836)) then
 
 
 >**Priestess Tarafol says:** Thank you so much!! These will help so much in trying to find a cure for these people. Here, take this as a token of my gratitude.

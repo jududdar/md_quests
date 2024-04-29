@@ -22,7 +22,7 @@ local text = "No, NO! I want the goblin scout beads and the legion order.";
 
 
 
-if **You turn in:** [Legion Order](/item/18247), [Goblin Scout Beads](/item/12672)
+if( **You turn in:** [Legion Order](/item/18247), [Goblin Scout Beads](/item/12672)) then 
 
 
 >**Trooper Roklon says:** No, NO! I want the goblin scout beads and the legion order.

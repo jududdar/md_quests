@@ -104,7 +104,7 @@ local text = "Dis no good. We need the butcher, baker, minstrel and captain.";
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [The Baker](/item/12213), [The Butcher](/item/12214), [The Captain](/item/12215), [The Minstrel](/item/12216)
+if **Faction** >= Amiable +100 and  **You turn in:** [The Baker](/item/12213), [The Butcher](/item/12214), [The Captain](/item/12215), [The Minstrel](/item/12216)) then 
 
 
 >**Urako says:** Tank you. You saved me neck. Kaglari not learn me mistake now. Me give you a [Kaglari mana doll].

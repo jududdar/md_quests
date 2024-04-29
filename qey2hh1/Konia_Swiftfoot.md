@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Proof of Speed](/item/20379)
+if( **You turn in:** [Proof of Speed](/item/20379)) then
 
 
 >**Konia Swiftfoot says:** Excellent!  You are quite a runner.  Here is half of the sheet music.  I decided to keep the other half because it has this wonderful signature.  I think it might be quite valuable.  It is probably worth as much as an instrument the great Mahlin used.
@@ -45,7 +45,7 @@ if **You turn in:** [Proof of Speed](/item/20379)
 
  **You receive:**  [Maestro's Symphony Page 24 Top](/item/20376) (+1000 exp)
 
-elseif **You turn in:** [Mahlins Mystical Bongos](/item/20366)
+elseif( **You turn in:** [Mahlins Mystical Bongos](/item/20366)) then
 
 
 >**Konia Swiftfoot says:** Mahlin's bongos!  Here, take the other half of the sheet music.  I can't really make out what the signature was, anyway.

@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Efreeti War Spear](/item/20831)
+if( **You turn in:** [Efreeti War Spear](/item/20831)) then
 
 
 >**Efreeti Weapon Polisher says:** Excellent. Please accept this Sharpened Efreeti Spear in return.
@@ -27,7 +27,7 @@ if **You turn in:** [Efreeti War Spear](/item/20831)
 
 **You receive:**  [Sharpened Efreeti Spear](/item/30774)
 
-elseif **You turn in:** [Golden Efreeti Ring](/item/20763)
+elseif( **You turn in:** [Golden Efreeti Ring](/item/20763)) then
 
 
 >**Efreeti Weapon Polisher says:** Excellent. Please accept this Golden Efreeti Band in return.
@@ -35,7 +35,7 @@ elseif **You turn in:** [Golden Efreeti Ring](/item/20763)
 
 **You receive:**  [Golden Efreeti Band](/item/30771)
 
-elseif **You turn in:** [Efreeti War Horn](/item/20830)
+elseif( **You turn in:** [Efreeti War Horn](/item/20830)) then
 
 
 >**Efreeti Weapon Polisher says:** Excellent. Please accept this Polished Efreeti Horn in return.
@@ -43,7 +43,7 @@ elseif **You turn in:** [Efreeti War Horn](/item/20830)
 
 **You receive:**  [Polished Efreeti Horn](/item/30773)
 
-elseif **You turn in:** [Efreeti Standard](/item/20817)
+elseif( **You turn in:** [Efreeti Standard](/item/20817)) then
 
 
 >**Efreeti Weapon Polisher says:** Excellent. Please accept this Sharpened Efreeti Standard in return.

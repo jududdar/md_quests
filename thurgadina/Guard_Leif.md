@@ -7,7 +7,7 @@
 
 
 
-if **You turn in:** [Leif's Napkin](/item/1415), [Tundrabear Sandwich](/item/1425)
+if( **You turn in:** [Leif's Napkin](/item/1415), [Tundrabear Sandwich](/item/1425)) then
 
 
 >**Guard Leif says:** Well I'll be derned. An outlander that can make a good Bearmeat 'n Bread! Thank ye, Soandso.

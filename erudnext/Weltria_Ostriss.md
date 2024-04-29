@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Kobold History Collection](/item/31825)
+if( **You turn in:** [Kobold History Collection](/item/31825)) then
 
 
 >**Weltria Ostriss says:** You have my gratitude, Soandso! This will make a valuable addition to our historical volumes and perhaps offer some insight into the workings of Kobold society.

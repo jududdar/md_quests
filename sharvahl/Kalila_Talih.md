@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Aisha'a Locket](/item/5996)
+if( **You turn in:** [Aisha'a Locket](/item/5996)) then
 
 
 >*Kalila Talih gasps at the sight of what you have handed her, 'mother's locket! Have you found...' She looks into your eyes and sees the answer to her unspoken question. 'I... I thank you,' is all that she can manage.'*

@@ -114,7 +114,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)
+if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) then
 
 
 
@@ -178,7 +178,7 @@ if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)
 
  **You receive:**  [Field Priests Bracer](/item/7365) (+250 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), [Silk Thread](/item/16486), [Silk Thread](/item/16486), [Large Tattered Skullcap](/item/2125)
+elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), [Silk Thread](/item/16486), [Silk Thread](/item/16486), [Large Tattered Skullcap](/item/2125)) then 
 
 
 
@@ -246,7 +246,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 
  **You receive:**  [Field Priests Cap](/item/7366) (+400 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897)
+elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897)) then
 
 
 
@@ -310,7 +310,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/
 
  **You receive:**  [Field Priests Kilt](/item/7367) (+600 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [Giant Snake Fang](/item/7005), [Hunting Bow](/item/8011)
+elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [Giant Snake Fang](/item/7005), [Hunting Bow](/item/8011)) then 
 
 
 
@@ -382,7 +382,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 
  **You receive:**  [Field Priests Claw](/item/7368) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item/12223)
+elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item/12223)) then 
 
 
 

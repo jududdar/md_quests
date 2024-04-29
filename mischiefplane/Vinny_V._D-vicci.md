@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [a lucky skunk foot](/item/6876)
+if( **You turn in:** [a lucky skunk foot](/item/6876)) then
 
 
 >**Vinny V. D-vicci says:** Nice work kid. Now I'm feelin lucky. So's ya say ya wanna learn about cards right? Lemme tell ya. Them cards are nice but lets have some REAL fun. Yer resourceful, I like that. What say we take over this joint fer ourselves? Ol' Bristle's gettin soft, ya know? Wadda ya say? Man or mouse?

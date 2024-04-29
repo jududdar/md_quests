@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Tainted Avalanche Ale](/item/1459)
+if( **You turn in:** [Tainted Avalanche Ale](/item/1459)) then 
 
 
 >**Captain Berradin says:** You gotta be kiddin me, Avalanche Ale? Haven't had a bottle a this stuff in ages. Brell bless you, Soandso! Glug, glug, glug...

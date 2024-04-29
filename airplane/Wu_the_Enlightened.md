@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Silken Wrap](/item/20800), [Spiroc Statuette](/item/20954), [Spiroc Talon](/item/20799)
+if( **You turn in:** [Silken Wrap](/item/20800), [Spiroc Statuette](/item/20954), [Spiroc Talon](/item/20799)) then 
 
 
 >**Wu the Enlightened says:** You have come a long way in your search for enlightenment, Soandso.  Please, take these shoulder wraps of the legendary Ton Po.
@@ -41,7 +41,7 @@ if **You turn in:** [Silken Wrap](/item/20800), [Spiroc Statuette](/item/20954),
 
  **You receive:**  [Ton Po's Shoulder Wraps](/item/1283) (+100000 exp)
 
-elseif **You turn in:** [Brass Knuckles](/item/20803), [Ethereal Amethyst](/item/20801), [Nebulous Sapphire](/item/20802), [White Spiroc Feather](/item/20960)
+elseif( **You turn in:** [Brass Knuckles](/item/20803), [Ethereal Amethyst](/item/20801), [Nebulous Sapphire](/item/20802), [White Spiroc Feather](/item/20960)) then 
 
 
 >**Wu the Enlightened says:** You embody tranquility, Soandso. You may now wield the Fist of Wu.  May Quellious bless you with peace.
@@ -49,7 +49,7 @@ elseif **You turn in:** [Brass Knuckles](/item/20803), [Ethereal Amethyst](/item
 
  **You receive:**  [Wu's Fist of Mastery](/item/27715) (+100000 exp)
 
-elseif **You turn in:** [Aged Nectar](/item/20967), [Writ of Quellious](/item/20804), [Tear of Quellious](/item/20805)
+elseif( **You turn in:** [Aged Nectar](/item/20967), [Writ of Quellious](/item/20804), [Tear of Quellious](/item/20805)) then 
 
 
 >**Wu the Enlightened says:** You have done well, Soandso.  You have both my respect and the legendary golden sash.  Wear it well, enlightened one.

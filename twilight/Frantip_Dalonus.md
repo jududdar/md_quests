@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sky Jewel](/item/4492), [Jeweled Rod](/item/4777), [Bronze Brazier](/item/4778)
+if( **You turn in:** [Sky Jewel](/item/4492), [Jeweled Rod](/item/4777), [Bronze Brazier](/item/4778)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Veil of Pestilence](/item/3730) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Hardened Agate](/item/4779), [Veiled Lantern](/item/4781), [White Garnet](/item/4782)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Hardened Agate](/item/4779), [Veiled Lantern](/item/4781), [White Garnet](/item/4782)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Cape of Pestilence](/item/3731) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Antique Lantern](/item/4783), [Glowing Meteor Fragment](/item/4784)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Antique Lantern](/item/4783), [Glowing Meteor Fragment](/item/4784)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Gloves of Pestilence](/item/3732) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Ancient Relic of Tzon](/item/4785), [Fluorescent Gem](/item/4786)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Ancient Relic of Tzon](/item/4785), [Fluorescent Gem](/item/4786)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Choker of Pestilence](/item/3733) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Ancestral Statuette](/item/4787), [Dark Hued Wood](/item/4788), [Ocher Gem](/item/4789)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Ancestral Statuette](/item/4787), [Dark Hued Wood](/item/4788), [Ocher Gem](/item/4789)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Belt of Pestilence](/item/3734) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Cultured Spirits](/item/4790), [Golden Mushrooms](/item/4791), [Gem of Awe](/item/4792)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Cultured Spirits](/item/4790), [Golden Mushrooms](/item/4791), [Gem of Awe](/item/4792)) then 
 
 
 FactionReward(e)

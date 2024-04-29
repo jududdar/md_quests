@@ -3,7 +3,7 @@
 
 
 
-if **You turn in:** [Registration Letter](/item/18772)
+if( **You turn in:** [Registration Letter](/item/18772)) then 
 
 
 >**Wuggan Azusphere says:** Welcome to Library Mechanimagica. I am Master Magician Wuggan Azusphere. and I will help to teach you the ways of summoning. Here is our guild tunic, make us proud.

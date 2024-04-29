@@ -144,7 +144,7 @@ end
 
 
 
-if **You turn in:** [Head of a Halfling Spy](/item/12497), [Initiate Symbol of Innoruuk](/item/1369)
+if( **You turn in:** [Head of a Halfling Spy](/item/12497), [Initiate Symbol of Innoruuk](/item/1369)) then 
 
 
 >*Ithvol K-Jasn You have focused the hate within you and discovered that hate and rage are not the same. Hate can be calculating and deceptive. For your service in defending the Kingdom of King Naythox Thex from the halfling invaders, I award you the disciple symbol of Innoruuk. Wear it with pride, Soandso.*
@@ -170,7 +170,7 @@ if **You turn in:** [Head of a Halfling Spy](/item/12497), [Initiate Symbol of I
 
  **You receive:**  [Disciple Symbol of Innoruuk](/item/1370) (+4000 exp)
 
-elseif **You turn in:** [Voucher of Service to Naythox](/item/12499), [Swiftmoon's Head](/item/12498), [Receipt for Provisions Crate](/item/19029), [Disciple Symbol of Innoruuk](/item/1370)
+elseif( **You turn in:** [Voucher of Service to Naythox](/item/12499), [Swiftmoon's Head](/item/12498), [Receipt for Provisions Crate](/item/19029), [Disciple Symbol of Innoruuk](/item/1370)) then 
 
 
 >**Ithvol K-Jasn says:** Your devotion to the ideals of hatred and your service to our King Naythox Thex has proven your usefulness within these spires and within our great city. I award you the Regent Symbol of Innoruuk. Congratulations, Regent Soandso!

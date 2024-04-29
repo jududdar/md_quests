@@ -384,7 +384,7 @@ end
 
 
 
-if **You turn in:** [Imbued Breastplate](/item/15985)
+if( **You turn in:** [Imbued Breastplate](/item/15985)) then 
 
 
 >*Aid Grimel smiles. 'What a wonderful job!  Councilman Taldarius shall wear this on our next adventure, I am sure he will find it more protective than his old one.   Take this signet as a token of my gratitude.  If you are not too busy I have another task, do you have any brewing skill?'*
@@ -392,7 +392,7 @@ if **You turn in:** [Imbued Breastplate](/item/15985)
 
  **You receive:**  [Hardened Leather Signet](/item/16249) 
 
-if **You turn in:** [Portable Drink](/item/15993), [Portable Drink Barrel](/item/17179)
+if( **You turn in:** [Portable Drink](/item/15993), [Portable Drink Barrel](/item/17179)) then 
 
 
 >*Aid Grimel gulps down a Twice Brewed Constitutional and burps loudly! 'Ahhhh that was refreshing! That should hold me over for quite some time. I see you are quite deft of hand, perhaps you would care to put your jewel craft skills to the test?'*
@@ -400,7 +400,7 @@ if **You turn in:** [Portable Drink](/item/15993), [Portable Drink Barrel](/item
 
  **You receive:**  [Clay Signet](/item/16250) 
 
-if **You turn in:** [Velium Blue Diamond Ring](/item/15991)
+if( **You turn in:** [Velium Blue Diamond Ring](/item/15991)) then 
 
 
 >*Aid Grimel grins. 'Quite a nice ring you have made for me Soandso. May it serve me as well as my old ring. Here take this signet. We seem to be finishing the tasks on my list at a nice pace. Tell me when you are ready to use some clay.*
@@ -408,7 +408,7 @@ if **You turn in:** [Velium Blue Diamond Ring](/item/15991)
 
  **You receive:**  [Wooden Signet](/item/16251) 
 
-if **You turn in:** [Filled Sacred Urn](/item/16246)
+if( **You turn in:** [Filled Sacred Urn](/item/16246)) then 
 
 
 >**Aid Grimel says:** Outstanding work Soandso! I can feel the purity of the water radiating through the clay. Are ye skilled with the needle as well as an accomplished potter?
@@ -416,7 +416,7 @@ if **You turn in:** [Filled Sacred Urn](/item/16246)
 
  **You receive:**  [Metal Signet](/item/16252) 
 
-if **You turn in:** [Fire Undergarment Tunic](/item/15986)
+if( **You turn in:** [Fire Undergarment Tunic](/item/15986)) then 
 
 
 >*Aid Grimel Aid Grimel inspects the tunic. 'Good work Soandso.  This will definitely serve Councilman Taldarius well.  Here take this!  If you have skills with a fletching knife I may have a job for you to do.'*
@@ -424,7 +424,7 @@ if **You turn in:** [Fire Undergarment Tunic](/item/15986)
 
  **You receive:**  [Marked Signet](/item/1079) 
 
-if **You turn in:** [Signet Featherwood Bow](/item/16247)
+if( **You turn in:** [Signet Featherwood Bow](/item/16247)) then 
 
 
 >**Aid Grimel says:** Masterful work Soandso! I can see your skill in the curves of the bow. Take this as a sign of my respect for your skill. The last item I need before we can be off is some food. I warn you this will truly test your skills. Do you fancy yourself a master chef?
@@ -432,7 +432,7 @@ if **You turn in:** [Signet Featherwood Bow](/item/16247)
 
  **You receive:**  [Runed Signet](/item/16254) 
 
-if **You turn in:** [Food Satchel](/item/16248)
+if( **You turn in:** [Food Satchel](/item/16248)) then 
 
 
 >**Aid Grimel says:** Truly amazing! Now the Councilman and I can be off on our expedition to the Elemental Planes!' He takes out a tool and marks his signet before handing it to you, 'Before we depart you may want to ask the Councilman about the signet.

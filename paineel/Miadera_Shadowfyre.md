@@ -46,7 +46,7 @@ local text = "I require all four reagents, anything less is useless. Incompetenc
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Eye of Urd](/item/10523), [Basalt Drake Scales](/item/19032), [Lens of Lord Soptyvr](/item/14110), [Widowmistress Hair](/item/14109)
+if( **Faction is** > Indifferent and  **You turn in:** [Eye of Urd](/item/10523), [Basalt Drake Scales](/item/19032), [Lens of Lord Soptyvr](/item/14110), [Widowmistress Hair](/item/14109)) then 
 
 
 >**Miadera Shadowfyre says:** Yes! Can you feel the terror in the air, prickling your flesh, and standing your hair on The chanters have summoned the avatar of Terror! Quickly take this mundane mask to him and he shall forge it into a valuable symbol to be worn by loyal apostles of Terror!
@@ -67,7 +67,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Eye of Urd](/item/10523)
 * __Faction:__ [Crimson Hands](/faction/233) (-200)
 
 
- **You receive:** None 
+ **You receive:**  [Mundane Mask](/item/14106) (+5000 exp)
 
 
 **Spawn NPC:**  [avatar of terror](/npc/75195) at (**y:** 1182, **x:** 421)

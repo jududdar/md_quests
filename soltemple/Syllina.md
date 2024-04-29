@@ -68,7 +68,7 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **You turn in:** gold = 50
+if( **You turn in:** gold = 50) then
 
 
 >**Syllina says:** You will need to give the following components to a tailor: a Shadow Wolf Pelt, a Silk Swatch and a Scroll of Gather Shadows. Have the tailor weave them together and she will make you Shadow Silk. To make large shadow silk add an extra shadow wolf pelt. To make inky shadow silk, add an extra scroll.
@@ -81,7 +81,7 @@ if **You turn in:** gold = 50
 
 
 
-elseif **You turn in:** [Large Shadow Silk](/item/16484), [A Werebat Wing](/item/13239), [Mask of Shadow](/item/2309), [Globe of Shadow](/item/10535)
+elseif( **You turn in:** [Large Shadow Silk](/item/16484), [A Werebat Wing](/item/13239), [Mask of Shadow](/item/2309), [Globe of Shadow](/item/10535)) then
 
 
 >**Syllina says:** Silk, wing, mask, globe... all of the components necessary for the making of a robe of Enshroudment. Well done. Here is your reward.
@@ -97,7 +97,7 @@ elseif **You turn in:** [Large Shadow Silk](/item/16484), [A Werebat Wing](/item
 
 
 
-elseif **You turn in:** [A Scepter](/item/14363), [Hand of Shadow](/item/13234), [A skeletal finger](/item/10534), [Inky Shadow Silk](/item/16485)
+elseif( **You turn in:** [A Scepter](/item/14363), [Hand of Shadow](/item/13234), [A skeletal finger](/item/10534), [Inky Shadow Silk](/item/16485)) then
 
 
 >**Syllina says:** So you have gathered all of the components for me to weave Shadowbound Gloves... Well done. You will be wanting these.
@@ -113,7 +113,7 @@ elseif **You turn in:** [A Scepter](/item/14363), [Hand of Shadow](/item/13234),
 
 
 
-elseif **You turn in:** [A Scepter](/item/14364), [Eye of Shadow](/item/13180), [A skeletal toe](/item/10533), [Shadow Silk](/item/16483)
+elseif( **You turn in:** [A Scepter](/item/14364), [Eye of Shadow](/item/13180), [A skeletal toe](/item/10533), [Shadow Silk](/item/16483)) then
 
 
 >**Syllina says:** I see that you have gathered all of the necessary components... Well done. Here are your Shadowbound Boots.

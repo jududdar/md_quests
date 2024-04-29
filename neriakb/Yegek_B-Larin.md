@@ -71,7 +71,7 @@ else
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Bag of Eyes n Bones](/item/13887)
+if **Faction** >= Amiable and  **You turn in:** [Bag of Eyes n Bones](/item/13887)) then
 
 
 >**Yegek B-Larin says:** Very nice work. Here are some provisions. Now are you [ready for the second test]?
@@ -91,7 +91,7 @@ if **Faction** >= Amiable and  **You turn in:** [Bag of Eyes n Bones](/item/1388
 
  **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007)) (+3000 exp)
 
-elseif **You turn in:** [Short Sword*](/item/9998)
+elseif( **You turn in:** [Short Sword*](/item/9998)) then
 
 
 >**Yegek B-Larin says:** Those young warriors who dared to run from battle are now our fodder. They shall help us teach you that sometimes you must kill your own kind. In the center of the arena we have set a coward. Show me you can kill your own when required and bring me his head. Do not grant him mercy nor allow him to flee.
@@ -99,7 +99,7 @@ elseif **You turn in:** [Short Sword*](/item/9998)
 
 **Spawn NPC:**  [TeirDal coward](/npc/41119) at (**y:** -25, **x:** -1218)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Teir\`Dal Head](/item/13888)
+elseif **Faction** >= Amiable and  **You turn in:** [Teir\`Dal Head](/item/13888)) then
 
 
 >**Yegek B-Larin says:** You have performed greatly. A coward deserves no pity or mercy. You will be fine addition to our house. Let us replace your weapon with this, a sullied two handed sword! The weapon of a young brother of this hall. It is a finer weapon than your first. Go and spread the hate of Innoruuk.

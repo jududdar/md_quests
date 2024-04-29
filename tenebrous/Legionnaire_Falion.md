@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Orders for Legionnaire Falion](/item/31756)
+if( **You turn in:** [Orders for Legionnaire Falion](/item/31756)) then
 
 
 >**Legionnaire Falion says:** A Vah Shir vampyre!! Isn't that disturbing! How are you supposed to spot its pale skin under all that fur! Come to think of it I've heard that a strange Vah Shir has occasionally been spotted heading towards the villages of the Coterie of the Eternal Night here in the Tenebrous Mountains. This may be the Vah Shir you are seeking. I will be sure to question any arriving travelers if they have spotted him.

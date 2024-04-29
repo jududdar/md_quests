@@ -5,7 +5,7 @@
 
 
 
-if (  **You turn in:** [Phobonomicon of Thul Tae Ew](/item/8720)
+if (  **You turn in:** [Phobonomicon of Thul Tae Ew](/item/8720) ) then 
 
 
 **Zone Wide Emote:** <span class="text-warning">*A loud explosion sends ripples of energy through the air! Matter seems to lose its substance, but quickly solidifies. A shriek fills your ears, followed by the pounding sound of drums!*</span>

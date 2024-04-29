@@ -87,7 +87,7 @@ end
 
 
 
-if **You turn in:** [Request Parchment](/item/19584)
+if( **You turn in:** [Request Parchment](/item/19584)) then
 
 
 >**Krivn S-Tai says:** So you are one of Ulraz's new recruits. You are to assist in the construction of the armor you will don as a new Shadowknight of the Lodge of the Dead. I have assembled a kit that is used in the crafting of Bone Mail. You must travel beyond Neriak into the Nektulos Forest for the [materials] that compose the armor.

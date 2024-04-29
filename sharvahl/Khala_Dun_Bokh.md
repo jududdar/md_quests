@@ -242,7 +242,7 @@ end
 
 
 
-if **You turn in:** [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587)
+if( **You turn in:** [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587)) then
 
 
 >*Khala Dun Bokh tosses the beetle eyes into his mouth & attempts to say something to the effect of 'here is your payment.' The sound of crunching gristle & popping eyeballs prevents him from saying it properly.*
@@ -252,7 +252,7 @@ if **You turn in:** [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14
 
 
 
-if **You turn in:** [A Shield Repair Order](/item/29803)
+if( **You turn in:** [A Shield Repair Order](/item/29803)) then
 
 
 >**Khala Dun Bokh says:** Outstanding! Nothing like a sharp-looking shield to scare off the undesirables. And if you bring it back full of food I wouldn't complain either,
@@ -268,7 +268,7 @@ if **You turn in:** [A Shield Repair Order](/item/29803)
 
 
 
-if **You turn in:** [Bokhs Immaculate Shield](/item/29814)
+if( **You turn in:** [Bokhs Immaculate Shield](/item/29814)) then
 
 
 >**Khala Dun Bokh says:** Well done, shiny enough to eat off of. My compliments to you Soandso, Barkhem would be most pleased.

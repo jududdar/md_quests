@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Bracers of Erollisi](/item/13337)
+if( **You turn in:** [Bracers of Erollisi](/item/13337)) then 
 
 
 >**Styria Fearnon says:** Oh!! Thank you!! We are so grateful to you. I offer you this as reward. It is one of the dwarven smith's finest works.
@@ -66,9 +66,9 @@ if **You turn in:** [Bracers of Erollisi](/item/13337)
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Axe](/item/5007), [Broad Sword](/item/5008), [Ringmail Coif](/item/3101), [Iron Visor](/item/3102), [Ringmail Neckguard](/item/3103), [Ringmail Coat](/item/3104), [Ringmail Mantle](/item/3105), [Ringmail Cape](/item/3106), [Ringmail Skirt](/item/3107), [Ringmail Sleeves](/item/3108), [Ringmail Bracelet](/item/3109), [Ringmail Gloves](/item/3110), [Ringmail Pants](/item/3111), [Ringmail Boots](/item/3112)) (+250 exp)
 
-elseif **You turn in:** [Pirates Earring](/item/13336)
+elseif( **You turn in:** [Pirates Earring](/item/13336)) then 
 
 
 >**Styria Fearnon says:** Good work. That is one less pirate to worry about. We do not have much, but take this as payment.
@@ -92,6 +92,6 @@ elseif **You turn in:** [Pirates Earring](/item/13336)
 * __Faction:__ [Crushbone Orcs](/faction/234) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Aviak Feather](/item/13339), [Conch Shell](/item/13342), [Fishing Spear](/item/7017), [Kiola Nut](/item/13340), [Shark Skin](/item/13075)) (+100 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Curative Potion](/item/28091)
+if( **You turn in:** [Curative Potion](/item/28091)) then
 
 
 >**Bolcen Tendag says:** Oh thank you so much.' He drinks from the bottle, then reaches in his pocket and produces a set of needles. 'I believe this is what Willamina is in need of. Please take these to her and give her my best.

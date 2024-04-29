@@ -43,7 +43,7 @@ local text = "I want FOUR lizardman scout fifes.";
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198)
+if **Faction** >= Amiable +100 and  **You turn in:** [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198)) then 
 
 
 >**a skeleton says:** All right! I was kinda hoping the lizards would finish you off and I could stay free, but a deal is a deal. Let's go.

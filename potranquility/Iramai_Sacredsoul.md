@@ -39,18 +39,18 @@ local text = "Hmm, it looks like I will need both the cure and the purified bile
 
 
 
-if **You turn in:** [Vial of Opaque Fluid](/item/29295), [Purified Bubonian Bile](/item/29302)
+if( **You turn in:** [Vial of Opaque Fluid](/item/29295), [Purified Bubonian Bile](/item/29302)) then 
 
 
 >**Iramai Sacredsoul says:** You've done it! Praise the Tranquil! I can already see Phanti's condition improving. Take these, Phanti is not going to be doing any planar exploration any time soon. She was planning on using them to bring her research party into Torment, make good use of them, and stay safe. Thank you again for your help.
 
 
- **You receive:** None 
+ **You receive:**  [Symbol of Torment](/item/29213) (+6250 exp)
 
 
 
 
-elseif **You turn in:** [Bubonian Bile](/item/29315)
+elseif( **You turn in:** [Bubonian Bile](/item/29315)) then
 
 
 >*Iramai Sacredsoul pours the bile into a small flask, there is a puff of green smoke, which turns white as it floats into the sky. 'This is good news. It appears that this is the cause for her disease, but I have neither the tools, nor the knowledge to create a cure. There is rumor of an indigo orc who may prove useful to us in this area, but he is imprisoned in the Plane of Justice. Ask him about rare diseases. He was known to have cured many, prior to his imprisonment.*

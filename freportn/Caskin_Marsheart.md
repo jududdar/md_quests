@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18747)
+if( **You turn in:** [A tattered note](/item/18747)) then
 
 
 >**Caskin Marsheart says:** Welcome to the guild. here's your guild tunic. Now. let's get to work.

@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Zimloro Ingredient List](/item/4758)
+if( **You turn in:** [Zimloro Ingredient List](/item/4758)) then
 
 
 >**Elefan says:** Ah I see you are sent from master Zimloro eh, Soandso. This note reads that he needs some specific items at once. Perhaps he could find some use out of all of this research I have recently collected.

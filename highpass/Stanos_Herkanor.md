@@ -181,7 +181,7 @@ end
 local text = "Did you forget something?";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Stained Parchment Top](/item/28010), [Stained Parchment Bottom](/item/28011)
+if **Faction** >= Indifferent and  **You turn in:** [Stained Parchment Top](/item/28010), [Stained Parchment Bottom](/item/28011)) then
 
 
 >**Stanos Herkanor says:** Excellent!  With this document I can..' <He pauses for a moment>. 'Damnation!  Curse my tired old mind, I forgot that I could not read the document.  It is written in some obscure code or language.  I can't decipher it, but I know someone who can.  Seek out one called Eldreth, an Erudite who used to do work for me.  I know not where he may be found these days, only that he will not be found in Erudin, as they want his head for some misdeed in the past.  Give him the complete parchment, and tell him I sent you.  He owes me.
@@ -207,7 +207,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Stained Parchment Top](/ite
 
 **Stanos Herkanor despawns.**
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Generals Pouch](/item/28013), [Jagged Diamond Dagger](/item/7506), [Cazic Quill](/item/7505)
+elseif **Faction** >= Indifferent and  **You turn in:** [Generals Pouch](/item/28013), [Jagged Diamond Dagger](/item/7506), [Cazic Quill](/item/7505)) then
 
 
 e.self:Say("Very well done.  I leave now to confront Hanns with this evidence.  Even so, it will not be easy to regain his trust.  That is why I need those daggers, in case all else fails.<chuckle>   Bristlebane grant me luck - I can no longer live like a hunted dog.  In any case, I am grateful for your aid.  Take this wretched blade, I can bear it no longer.
@@ -234,7 +234,7 @@ I must warn you, I feel it carries Innoruuk's curse; all who are near it learn t
 
 **Stanos Herkanor despawns.**
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Translated Parchment](/item/18961)
+elseif **Faction** >= Indifferent and  **You turn in:** [Translated Parchment](/item/18961)) then
 
 
 >**Stanos Herkanor says:** Let me see what you have here. Aha, so that's who.. yes, yes! There is one more thing I need you to do. This document tells me who the originator of the plot really was. His name is General V'ghera, which is interesting, as Anson's men have spotted him in Kithicor recently. He will not be easy to get to, but if you give this box to one of his many aides, the General will HAVE to come to investigate. You see, this box used to contain the tools crafted for the assassination. When he arrives, kill him! I need any documents you find on him - with luck it will be enough evidence to convince Hanns that what I say is true. Bring any documents or dispatch cases you find, along with those blades Vilnius made you work so hard for, and we will make a trade.

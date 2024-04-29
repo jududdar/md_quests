@@ -28,7 +28,7 @@ local text = "I require the fangs of four Vampyres!";
 
 
 
-if **You turn in:** [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691)
+if( **You turn in:** [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691)) then
 
 
 

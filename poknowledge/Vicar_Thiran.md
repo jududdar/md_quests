@@ -13,12 +13,12 @@ end
 
 
 
-if **You turn in:** [Note from Tarerd](/item/15958)
+if( **You turn in:** [Note from Tarerd](/item/15958)) then
 
 
 >*Vicar Thiran quickly reads the note, and says 'Tarerd wants me to give you that book? I thought he wanted me to keep it secret. Well no matter.' Thiran rummages through the books in front of him. 'Well this is unfortunate. It looks like I loaned my friend the incorrect book. I'm not sure where he's gone off to, here is the book he was looking for. If you happen to run into Jeren Manri anywhere, he'll probably exchange this book for the book on the scrying pools.'*
 
 
- **You receive:** None 
+ **You receive:**  [Goblins and Their Religions](/item/15959) 
 
 **This NPC *should* return incorrect items given.**

@@ -65,7 +65,7 @@ end
 local text = "Solusek Ro does not believe in half measures.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Shadowed Scythe](/item/5103)
+if **Faction** >= Indifferent and  **You turn in:** [Shadowed Scythe](/item/5103)) then
 
 
 >**Vurgo says:** A shadowed scythe! Well done! The only good shadowed man is a banished one. As the weapons of the shadowed men have a tendency to disappear, I have given you a note to remind me that you have indeed supplied me with a scythe. Give me the note with the following items and I will forge you a harvester: a fungus eye from a mortuary fungus in the Estate of Unrest, a shadowed knife from an island goblin headmaster in the Ocean of Tears and a fire opal. Give me these items, and I will forge for you a harvester.
@@ -79,7 +79,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Shadowed Scythe](/item/5103
 
  **You receive:**  [A note](/item/18944) (+500 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Shadowed Book](/item/10529)
+elseif **Faction** >= Indifferent and  **You turn in:** [Shadowed Book](/item/10529)) then
 
 
 >**Vurgo says:** A shadowed book! Well done! The more banished shadowed men the better. As the items of the shadowed men tend to disappear, I have given you a note to remind me that you have indeed supplied me with a book. Give me the note with the following items, and I will scribe for you Words of Darkness: a book of darkness from the Erudites in the tower by Lake Rathe, a book of frost from the icy goblin in Permafrost Keep and 300 golden coins. Bring me these items, and I will scribe for you the Words of Darkness.
@@ -93,7 +93,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Shadowed Book](/item/10
 
  **You receive:**  [A note](/item/18945) (+500 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A fungus eye](/item/10538), [Fire Opal](/item/10031), [A shadowed knife](/item/7331), [A note](/item/18944)
+elseif **Faction** >= Indifferent and  **You turn in:** [A fungus eye](/item/10538), [Fire Opal](/item/10031), [A shadowed knife](/item/7331), [A note](/item/18944)) then 
 
 
 >**Vurgo says:** My note, a fungus eye, a shadowed knife and gold! All of the necessary components to make a harvester. Well done, adventurer!
@@ -107,7 +107,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [A fungus eye](/item/105
 
  **You receive:**  [Harvester](/item/5316) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Book of Darkness](/item/10536), [Book of Frost](/item/10537), [A note](/item/18945),gold = 300
+elseif **Faction** >= Indifferent and  **You turn in:** [Book of Darkness](/item/10536), [Book of Frost](/item/10537), [A note](/item/18945),gold = 300) then 
 
 
 >**Vurgo says:** All of the necessary components for me to scribe the Words of Darkness! Very good, adventurer. Take your tome, you have earned it.

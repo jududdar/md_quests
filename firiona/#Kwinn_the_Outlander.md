@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Full Kwinn Pack](/item/12828)
+if( **You turn in:** [Full Kwinn Pack](/item/12828)) then
 
 
 >**Kwinn the Outlander says:** Kackling Quellious!! This will bring a fortune on the black market!! Well, a deal is a deal. Here is the tail.

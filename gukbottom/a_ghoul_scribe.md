@@ -6,7 +6,7 @@
 
 
 
-if **You turn in:** [Empty Ink Vial](/item/10626)
+if( **You turn in:** [Empty Ink Vial](/item/10626)) then
 
 
 >**a ghoul scribe says:** Crroooaak! Crrroooooaaakk!

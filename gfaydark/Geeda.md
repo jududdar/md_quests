@@ -80,7 +80,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Crushbone Information](/item/12183)
+if **Faction** >= Amiable and  **You turn in:** [Crushbone Information](/item/12183)) then
 
 
 >**Geeda says:** Fine work. We are very grateful. Take this Scout Cape. May you use it to serve Kelethin.

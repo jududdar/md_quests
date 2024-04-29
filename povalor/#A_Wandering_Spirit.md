@@ -43,7 +43,7 @@ end
 
 
 
-if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet of Marr](/item/20606) 
+if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet of Marr](/item/20606)  ) then 
 
 
 >*A Wandering Spirit quickly grabs the amulet and crescent symbol before speaking. 'At long last! I can now rest in peace along with my fellow brethren. Thank you Soandso. May the might of Marr follow you wherever you may go.'*
@@ -57,7 +57,7 @@ if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet
 
 
 
-elseif (  **You turn in:** [Unwavering Shield of Faith](/item/20608), [Unwavering Sword of Faith](/item/20607) 
+elseif (  **You turn in:** [Unwavering Shield of Faith](/item/20608), [Unwavering Sword of Faith](/item/20607)  ) then 
 
 
 >*A Wandering Spirit looks at you with great surprise. 'It's been quite some time since I've been without my weaponry. Thank you for returning them to me Soandso.'*

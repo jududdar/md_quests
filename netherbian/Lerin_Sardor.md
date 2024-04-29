@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Unsigned Agreement](/item/5982)
+if( **You turn in:** [Unsigned Agreement](/item/5982)) then
 
 
 >**Lerin Sardor says:** Let us go then, please be alert throughout the cavern.  Once we get to the other side safely give me the signed agreement and you will have your payment.

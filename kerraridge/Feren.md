@@ -50,7 +50,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Razor Tooth](/item/6348)
+if **Faction** >= Dubious and  **You turn in:** [Razor Tooth](/item/6348)) then 
 
 
 >**Feren says:** Rarr, Feren not haunted by Razortooth no more. Feren grateful and give you this possession.

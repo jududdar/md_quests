@@ -64,7 +64,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Guk Bracket Mildew](/item/14042)
+if **Faction** >= Dubious and  **You turn in:** [Guk Bracket Mildew](/item/14042)) then
 
 
 >**Melixis says:** Many thanks... rrrr... here is dull ring.
@@ -72,7 +72,7 @@ if **Faction** >= Dubious and  **You turn in:** [Guk Bracket Mildew](/item/14042
 
  **You receive:**  [Copper Ring](/item/13733) 
 
-elseif **Faction** >= Dubious and  **You turn in:** [Faerix Spores](/item/14043)
+elseif **Faction** >= Dubious and  **You turn in:** [Faerix Spores](/item/14043)) then
 
 
 >**Melixis says:** Melixis thanks you, Hamed will be pleased. A kinda shiny ring is yours.
@@ -80,7 +80,7 @@ elseif **Faction** >= Dubious and  **You turn in:** [Faerix Spores](/item/14043)
 
  **You receive:**  [Silver Ring](/item/13731) 
 
-elseif **Faction** >= Dubious and  **You turn in:** [Degenerated Guk Weed](/item/14044)
+elseif **Faction** >= Dubious and  **You turn in:** [Degenerated Guk Weed](/item/14044)) then
 
 
 >**Melixis says:** You done good job, furless one. Here is really shiny ring. Rarr...

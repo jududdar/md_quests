@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [A Dusty Iksar Skull](/item/30984)
+if( **You turn in:** [A Dusty Iksar Skull](/item/30984)) then
 
 
 >*Oracle Qulin runs his scaled fingers slowly over the cracked, brittle skull. 'Granix did well to send you to me, I may yet be able to recover the spirit of this ancient and set it free. Come! I shall need your help with this ritual.'*
@@ -30,7 +30,7 @@ if **You turn in:** [A Dusty Iksar Skull](/item/30984)
 
 
 
-elseif **You turn in:** [Wet Skull Fragments](/item/30985)
+elseif( **You turn in:** [Wet Skull Fragments](/item/30985)) then
 
 
 >**Oracle Qulin says:** It seems this particular ancient does not wish to be put to rest. Return this note to Hierophant Granix and tell him what happened. He will surely wish this skull to be disposed of properly, but I do not have the power to do it myself.

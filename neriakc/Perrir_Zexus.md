@@ -60,7 +60,7 @@ else
 
 
 
-if **Faction** >= Amiable +50 and  **You turn in:** [Woven Grass Amulet](/item/14550), [Woven Grass Amulet](/item/14550), [Woven Grass Amulet](/item/14550), [Woven Grass Amulet](/item/14550)
+if **Faction** >= Amiable +50 and  **You turn in:** [Woven Grass Amulet](/item/14550), [Woven Grass Amulet](/item/14550), [Woven Grass Amulet](/item/14550), [Woven Grass Amulet](/item/14550)) then
 
 
 >**Perrir Zexus says:** You have done well, young initiate. I grant you this medallion invested with the divine hatred of Innoruuk. Wear it proudly as a representation of your importance to these sacred spires. Now, if you will excuse me, I must proceed with the burning of these pathetic halfling symbols of faith.
@@ -86,7 +86,7 @@ if **Faction** >= Amiable +50 and  **You turn in:** [Woven Grass Amulet](/item/1
 
  **You receive:**  [Initiate Symbol of Innoruuk](/item/1369) (+2000 exp)
 
-elseif **You turn in:** [A tattered note](/item/18756)
+elseif( **You turn in:** [A tattered note](/item/18756)) then 
 
 
 >**Perrir Zexus says:** Welcome, child of Hate. I am Perrir Zexus, High Priest. We all draw power from the very source that created us, the will of Innoruuk. Here, put on this tunic. It is the tunic of our guild. Represent us well.
@@ -112,7 +112,7 @@ elseif **You turn in:** [A tattered note](/item/18756)
 
  **You receive:**  [Crimson Training Tunic*](/item/13585) (+20 exp)
 
-elseif **You turn in:** [note of recommendation](/item/18148)
+elseif( **You turn in:** [note of recommendation](/item/18148)) then 
 
 
 >**Perrir Zexus says:** Soandso, eh? My sister has a keen perception for seeing into a person's soul. You may store an abundance of hate but hate can be devoted to different ideals. Prove to me your devotion to our Lord Innoruuk by bringing me the skullcap of a Leatherfoot Raider who has invaded our forest. Go, Soandso, and do as I have requested.
@@ -138,7 +138,7 @@ elseif **You turn in:** [note of recommendation](/item/18148)
 
  **You receive:** 0 (+750 exp)
 
-elseif **You turn in:** [Leatherfoot Raider Skullcap](/item/13113)
+elseif( **You turn in:** [Leatherfoot Raider Skullcap](/item/13113)) then 
 
 
 >**Perrir Zexus says:** Fine work, Soandso! You are well on your way to reaping the rewards of the Spires of Innoruuk.

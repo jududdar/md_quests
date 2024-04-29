@@ -55,20 +55,23 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Official Warning](/item/8283)
+if( **Faction is** > Indifferent and  **You turn in:** [Official Warning](/item/8283)) then
 
 
 >**Guard Finewine says:** So he wants to send me to jail simply because I'm not filling out some silly reports? How can I be expected to think in such a decrepit state? Maybe you could help me. If I had a meal worthy of someone of my breeding then maybe I could think. Bring me something elegant, I don't want anything dull and pedestrian. I don't know what I want though. Do you have any suggestions?
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Dryad Pate](/item/8199)
+elseif( **Faction is** > Indifferent and ( **You turn in:** [Dryad Pate](/item/8199) or  **You turn in:** [Potameid Pate](/item/8198))) then 
 
 
 >**Guard Finewine says:** hmm... This is interesting... The taste is very refined but sort of... odd... We're almost there but I don't think you have the recipe quite right. Rather than that peasant Brandy, use this in your recipe instead. And rather than whatever other 'meat' you were using before use a Panther Liver. You do seem to have some skill as a chef, mayhaps you could work for me some day. Prepare some Panther Pate for me. Give me the Panther Pate and let me read that warning again.
 
 
- **You receive:** None 
+ **You receive:**  [Finewine Family Brandy](/item/8284) 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Panther Pate](/item/8278)
+
+ **You receive:**  [Official Warning](/item/8283) 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** [Panther Pate](/item/8278)) then 
 
 
 >**Guard Finewine says:** Ah yes, this is perfect! I feel my head clearing already. Wait, is that the sun poking through the trees there or the moon? Hard to tell in this hideous jungle... Oh wait, yes. My shift reports for the last few weeks. Why don't you go ahead and turn these into Sergeant Caelin for me? I'm going to enjoy this fine pate.

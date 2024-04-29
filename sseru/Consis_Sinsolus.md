@@ -186,7 +186,7 @@ end
 
 
 
-if **You turn in:** [A Heavy Coin](/item/3878)
+if( **You turn in:** [A Heavy Coin](/item/3878)) then
 
 
 >*Consis Sinsolus turns to look at you for a moment, but does not appear to notice that you made the swap.*

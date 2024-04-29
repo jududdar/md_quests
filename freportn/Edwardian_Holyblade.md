@@ -141,7 +141,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Fefslans Bracer](/item/9927), [Gnoosals Bracer](/item/9928), [Walorinags Bracer](/item/9929), [Eridals Bracer](/item/9930)
+if(expansion_flag >= 4.0 and  **You turn in:** [Fefslans Bracer](/item/9927), [Gnoosals Bracer](/item/9928), [Walorinags Bracer](/item/9929), [Eridals Bracer](/item/9930)) then  
 
 
 >**Edwardian Holyblade says:** Your dedication to the Temple of Marr is unquestioned Soandso.You have made your house very proud. May this blade bring you the best of luck and good fortune wherever your adventures may take you.

@@ -95,7 +95,7 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if **You turn in:** [A Bunch of Optic Nerves](/item/14019), [Sapphire](/item/10034)
+if( **You turn in:** [A Bunch of Optic Nerves](/item/14019), [Sapphire](/item/10034)) then
 
 
 >**Ulan Meadowgreen says:** Very good. I am always in need of more optic nerves. Take this crafted bracer with my thanks.
@@ -103,7 +103,7 @@ if **You turn in:** [A Bunch of Optic Nerves](/item/14019), [Sapphire](/item/100
 
  **You receive:**  [Crafted Bracers](/item/4177) (+25000 exp)
 
-elseif **You turn in:** [Dark Circlet](/item/13742), [Star Ruby](/item/10032), [Star Ruby](/item/10032)
+elseif( **You turn in:** [Dark Circlet](/item/13742), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
 
 
 >**Ulan Meadowgreen says:** Is this.. it is! I did not recognize it at first, but this is indeed the circlet my father once crafted. It seems to have been enchanted since. Take these crafted greaves with my thanks for a job well done.
@@ -111,7 +111,7 @@ elseif **You turn in:** [Dark Circlet](/item/13742), [Star Ruby](/item/10032), [
 
  **You receive:**  [Crafted Greaves](/item/4179) (+25000 exp)
 
-elseif **You turn in:** [Bottom of a Fractured Rune](/item/13698), [Middle of a Fractured Rune](/item/13699), [Top of a Fractured Rune](/item/13738), [Fire Emerald](/item/10033)
+elseif( **You turn in:** [Bottom of a Fractured Rune](/item/13698), [Middle of a Fractured Rune](/item/13699), [Top of a Fractured Rune](/item/13738), [Fire Emerald](/item/10033)) then
 
 
 >**Ulan Meadowgreen says:** Most impressive - all three pieces of the dwarven rune. When joined, this shall serve me well. Take this crafted pauldron with my gratitude.
@@ -119,7 +119,7 @@ elseif **You turn in:** [Bottom of a Fractured Rune](/item/13698), [Middle of a 
 
  **You receive:**  [Crafted Pauldron](/item/4175) (+25000 exp)
 
-elseif **You turn in:** [Werewolf Talon](/item/13746), [Ruby](/item/10035), [Ruby](/item/10035), [Ruby](/item/10035)
+elseif( **You turn in:** [Werewolf Talon](/item/13746), [Ruby](/item/10035), [Ruby](/item/10035), [Ruby](/item/10035)) then
 
 
 >**Ulan Meadowgreen says:** I am most impressed that you have returned from Castle Mistmoore with a werewolf talon. You have justly earned your crafted breastplate.

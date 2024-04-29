@@ -30,7 +30,7 @@ local text = "May you have the correct items or lost forever will be all.";
 
 
 
-if **You turn in:** [A Metal Pipe](/item/12979), [A Metal Pipe](/item/12980), [Robe of the Lost Circle](/item/12256)
+if( **You turn in:** [A Metal Pipe](/item/12979), [A Metal Pipe](/item/12980), [Robe of the Lost Circle](/item/12256)) then 
 
 
 >*Brother Balatin holds his arms out and a fine robe materializes before your eyes. You grab it just in time to see the skeleton fade from existence.*
@@ -39,7 +39,7 @@ if **You turn in:** [A Metal Pipe](/item/12979), [A Metal Pipe](/item/12980), [R
  **You receive:**  [Robe of the Whistling Fists](/item/12970) 
 
 
-elseif **You turn in:** [Ancient Thin Flute](/item/12429)
+elseif( **You turn in:** [Ancient Thin Flute](/item/12429)) then
 
 
 >*Brother Balatin quickly stashes the flute inside of his ribcage, where it joins another. 'If you want the true Flute of Zan-Fi, you'll have to take it from me!'* 

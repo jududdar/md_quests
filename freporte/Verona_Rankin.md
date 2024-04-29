@@ -103,7 +103,7 @@ end
 
 
 
-if **You turn in:** [Note to Verona Rankin](/item/19846) 
+if( **You turn in:** [Note to Verona Rankin](/item/19846) ) then 
 
 
 >**Verona Rankin says:** Ah, Tovan sent you for a suit of traders clothing. I can instruct you on how to prepare your suit of clothing but you will have to acquire the required materials yourself. Use this Curing Kit to construct the clothing once you have done so. Do you wish to prepare Coalition Trader [Gloves], Coalition Trader [Boots], a Coalition Trader [Bracer], a Coalition Trader [Cap], Coalition Trader [Leggings], Coalition Trader [Sleeves], or a Coalition Trader [Tunic]?
@@ -111,7 +111,7 @@ if **You turn in:** [Note to Verona Rankin](/item/19846)
 
  **You receive:**  [Curing Kit](/item/17125) 
 
-elseif **You turn in:** [Faceted Blue Gem](/item/19919), [Sharpened Coalition Dirk](/item/19925), [Rattlesnake Skin](/item/19850)
+elseif( **You turn in:** [Faceted Blue Gem](/item/19919), [Sharpened Coalition Dirk](/item/19925), [Rattlesnake Skin](/item/19850)) then
 
 
 >**Verona Rankin says:** You have proven yourself worthy of our cause. Take this and use it to bring down non followers of Innoruuk.

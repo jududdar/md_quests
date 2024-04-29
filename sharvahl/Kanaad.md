@@ -113,7 +113,7 @@ end
 
 
 
-if **You turn in:** [Kanaad's Supplies](/item/5990)
+if( **You turn in:** [Kanaad's Supplies](/item/5990)) then
 
 
 >*Kanaad rummages through the box, 'let's see, some lucerne, the leaves I had needed and... What is this? A note form Ragnar...' He mumbles a bit to himself, 'I see, you are looking for this boy and Ragnar thinks I can help. Good lad that Ragnar. I am not much for story telling these days, but I suppose you want to know about Hoober.'*
@@ -121,7 +121,7 @@ if **You turn in:** [Kanaad's Supplies](/item/5990)
 
 * __Faction:__ [Kanaad](/faction/1560) (900)
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Essence of Sonnet](/item/5991), [Drop of Moonlight](/item/5992), [Luclin Clover](/item/5993)
+elseif( **Faction is** > Kindly and  **You turn in:** [Essence of Sonnet](/item/5991), [Drop of Moonlight](/item/5992), [Luclin Clover](/item/5993)) then
 
 
 >*Kanaad looks through your ingredients, inspecting them closely, 'Well done, that was fast. I must say that I am surprised that you managed to get them at all. I have my part prepared so... here goes.' He places the ingredients in a medicine bag, brow furrowed in concentration and slowly extracts a foul gray liquid into a vial. 'Yes, that's the stuff. Now take it please and go,' he says with a shudder and turns to leave.*

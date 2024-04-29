@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Golem Sprocket](/item/14319)
+if( **You turn in:** [Golem Sprocket](/item/14319)) then
 
 
 >**a broken golem says:** Error! Malfunction! Destroy!

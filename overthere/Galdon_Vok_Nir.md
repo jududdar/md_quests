@@ -43,7 +43,7 @@ local text1 = "To open the canopic, I require the two Dai keys, the Dai skull ca
 
 
 
-if **You turn in:** [Ton Warrior Totem](/item/12743), [Ton Warrior Totem](/item/12744), [Dai Nozok skull canopic](/item/12742), gold = 400
+if( **You turn in:** [Ton Warrior Totem](/item/12743), [Ton Warrior Totem](/item/12744), [Dai Nozok skull canopic](/item/12742), gold = 400) then
 
 
 >*Galdon Vok Nir takes the two keys. He inserts and twists them, one at a time, in hidden slots on the Dai skull canopic. Suddenly, it pops open and he hands you an iksar skull. 'Here you are,' he says, 'I hope it is what you were looking for.*

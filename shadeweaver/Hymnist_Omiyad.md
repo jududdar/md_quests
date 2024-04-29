@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289)
+if( **You turn in:** [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289)) then 
 
 
 >*Hymnist Omiyad takes the remains and throws them into the fire, flames blaze immediatey with a sicky hue. 'You have preformed a great service by helping destroy some of the wretched Lodi Kai. Take this small talisman, it is worn by the dancers here. Take it with you and feel free to do a dance whenever you like, haha!'*

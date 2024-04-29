@@ -199,7 +199,7 @@ local questState = tonumber(eq.get_qglobals(e.other).pov_orb_quest or 0);
 
 
 
-if (  **You turn in:** [A Crystalline Spider's Heart](/item/25597), [A Razorfiend's Heart](/item/25598), [A Planarian Larvae's Heart](/item/25599) 
+if (  **You turn in:** [A Crystalline Spider's Heart](/item/25597), [A Razorfiend's Heart](/item/25598), [A Planarian Larvae's Heart](/item/25599)  ) then 
 
 
 
@@ -219,7 +219,7 @@ if ( questState >= 4 ) then
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+1 exp)
 
 
 

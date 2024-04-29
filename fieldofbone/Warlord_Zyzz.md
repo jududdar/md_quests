@@ -25,7 +25,7 @@ local text = "The bounty is awarded to one who can return four scorpion pincers.
 if( **Faction is** > Apprehensive) then
 
 
-if **You turn in:** [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/12650)
+if( **You turn in:** [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/12650)) then 
 
 
 
@@ -60,7 +60,7 @@ if **You turn in:** [Scorpion Pincer](/item/12650), [Scorpion Pincer](/item/1265
  **You receive:** 0 (+2500 exp)
 
 
-elseif **You turn in:** [Note to Iksar Lord](/item/18213)
+elseif( **You turn in:** [Note to Iksar Lord](/item/18213)) then
 
 
 
@@ -71,7 +71,7 @@ elseif **You turn in:** [Note to Iksar Lord](/item/18213)
  **You receive:**  [Charred Bone Box](/item/17996) 
 
 
-elseif **You turn in:** [Full Charred Bone Box](/item/12668)
+elseif( **You turn in:** [Full Charred Bone Box](/item/12668)) then
 
 
 

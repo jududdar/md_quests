@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [A Tarnished Bronze Key](/item/12269)
+if( **You turn in:** [A Tarnished Bronze Key](/item/12269)) then 
 
 
 >**Linara Parlone says:** Oh my! Thank you so very much! here, take this note to my father. I am sure he will reward you well for my safety.

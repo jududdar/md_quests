@@ -53,7 +53,7 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Useless Token](/item/12185)
+if **Faction** >= Amiable +100 and  **You turn in:** [Useless Token](/item/12185)) then 
 
 
 

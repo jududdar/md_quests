@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Frayed Braided Grass Amulet](/item/20451)
+if( **You turn in:** [Frayed Braided Grass Amulet](/item/20451)) then
 
 
 >*Teloa begins walking toward the gathering spot. 'Follow, friend.'*

@@ -27,7 +27,7 @@ local text = "I don't see four bone chips.";
 
 
 
-if **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+if( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
 
 
 >*Trooper Mozo gasp's in astonishment.*

@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Seal of Vegalys](/item/2694)
+if( **You turn in:** [Seal of Vegalys](/item/2694)) then
 
 
 >**Guard Helminth says:** Well, well! Vegalys did send you after all. Are you [ready to complete the mission]? I am certain I know where Azibelle is hiding.

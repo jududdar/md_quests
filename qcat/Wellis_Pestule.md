@@ -103,7 +103,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Note to Wellis Pestule](/item/20206)
+if(expansion_flag >= 4.0 and  **You turn in:** [Note to Wellis Pestule](/item/20206)) then
 
 
 >**Wellis Pestule says:** Welcome to the Bloodsabers young Scourge Knight. I will help prepare you for your spreading of the disease. You must use this Mail Assembly Kit to construct the pieces of your armor. Each piece will require different materials for its construction. Will you craft [Gauntlets of the Scourge Knight], [Boots of the Scourge Knight], a [Bracer of the Scourge Knight], a [Helm of the Scourge Knight], [Greaves of the Scourge Knight], [Vambraces of the Scourge Knight], or a [Breastplate of the Scourge Knight]?
@@ -111,7 +111,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Note to Wellis Pestule](/item/20
 
  **You receive:**  [Mail Assembly Kit](/item/17124) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Scourge Knight Saber](/item/20188), [Giant King Snake Skin](/item/19946)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Scourge Knight Saber](/item/20188), [Giant King Snake Skin](/item/19946)) then
 
 
 >*Wellis Pestule Wellis Pestule fashions a grip out of the giant king snake skin, sharpens the edge of the blade to be razor sharp, and polishes the weapon with a strange blood like substance.*

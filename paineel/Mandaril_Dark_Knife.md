@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Fell Blade Guild Note](/item/18017)
+if( **You turn in:** [Fell Blade Guild Note](/item/18017)) then 
 
 
 >**Mandaril Dark Knife says:** You are welcomed into the fold.  Now go out, and prove yourself, young one.  You have much to learn about the Dark Truth.

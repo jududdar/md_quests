@@ -46,7 +46,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](/item/13968)
+if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](/item/13968)) then 
 
 
 >**Shamus Felligan says:** Shattered! This has happened frequently! These beads are very delicate. They're useless to me now, however, I'll reward ye fer the execution of yet more goblin casters. Continue yer work. The Tribunal watches ye!
@@ -147,9 +147,9 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Frost Rift](/item/15275), [Spell: Sicken](/item/15075), [Spell: Fleeting Fury](/item/15271), [Spell: Spirit of Bear](/item/15279), [Spell: Cure Blindness](/item/15212), [Spell: Spirit Sight](/item/15079), [Spell: Summon Food](/item/15050), [Spell: Endure Fire](/item/15224), [Spell: Gate](/item/15036)) (+1600 exp)
 
-elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item/13969)
+elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item/13969)) then
 
 
 
@@ -251,7 +251,7 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
- **You receive:** None 
+ **You receive:**  [Gavel of Justice](/item/6028) (+6400 exp)
 
 
 **This NPC *should* return incorrect items given.**

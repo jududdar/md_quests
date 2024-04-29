@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Astral Jewel](/item/4494), [Mark of Deceit](/item/5287), [Engraved Fire Opal Statuette](/item/5288)
+if( **You turn in:** [Astral Jewel](/item/4494), [Mark of Deceit](/item/5287), [Engraved Fire Opal Statuette](/item/5288)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Mask of Concealment](/item/3795) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Secrecy](/item/5289), [Engraved Ivory Statuette](/item/5290), [Polished Gemstone](/item/5291)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Secrecy](/item/5289), [Engraved Ivory Statuette](/item/5290), [Polished Gemstone](/item/5291)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Cloak of Concealment](/item/3796) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Deception](/item/5292), [Engraved Gold Statuette](/item/5293)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Deception](/item/5292), [Engraved Gold Statuette](/item/5293)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Gauntlets of Concealment](/item/3797) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Trickery](/item/5294), [Engraved Wooden Statuette](/item/5295)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Trickery](/item/5294), [Engraved Wooden Statuette](/item/5295)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Gorget of Concealment](/item/3798) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Silence](/item/5285), [Engraved Platinum Statuette](/item/5297), [True Silver Needle](/item/5298)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Silence](/item/5285), [Engraved Platinum Statuette](/item/5297), [True Silver Needle](/item/5298)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Girdle of Concealment](/item/3799) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Greed](/item/5299), [Engraved Mithril Statuette](/item/5326), [Dread Hilt](/item/5327)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Greed](/item/5299), [Engraved Mithril Statuette](/item/5326), [Dread Hilt](/item/5327)) then 
 
 
 FactionReward(e)

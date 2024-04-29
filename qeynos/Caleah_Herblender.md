@@ -60,7 +60,7 @@ end
 local text = "All right. Remember, I need all three ingredients to test this spell out. Keep up the good work, Soandso.";
   
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Rat Whiskers](/item/13071), [Bat Fur](/item/13069), [Fire Beetle Eye](/item/10307)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Rat Whiskers](/item/13071), [Bat Fur](/item/13069), [Fire Beetle Eye](/item/10307)) then 
 
 
 >**Caleah Herblender says:** Hmm. Good job, Soandso, let's give this a try. Flame and fire. Heat and spark. Touch of Ro, light this dark! Ahh. It stills needs a little work, I guess. Thanks for your help, here's a little something for your effort.
@@ -84,7 +84,7 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Rat Whiskers](/item/130
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+300 exp)
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

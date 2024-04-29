@@ -235,7 +235,7 @@ end
 
 
 
-if ( not walking and  **You turn in:** [Copper Node](/item/9295), [Bundle of Super Conductive Wires](/item/9426), [Intact Power Cell](/item/9434)
+if ( not walking and  **You turn in:** [Copper Node](/item/9295), [Bundle of Super Conductive Wires](/item/9426), [Intact Power Cell](/item/9434) ) then
 
 
 >**Nitram Anizok says:** Excellent!  This is wonderful, please follow me!  I will show you the power of my greatest invention.

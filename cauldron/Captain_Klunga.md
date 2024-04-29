@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Abandoned Orc Shovel](/item/12278)
+if( **You turn in:** [Abandoned Orc Shovel](/item/12278)) then
 
 
 **Stop timer** named *depop*

@@ -29,7 +29,7 @@ end
 
 
 
-if  **You turn in:** [Scrubber Key](/item/12164)
+if ( **You turn in:** [Scrubber Key](/item/12164)) then 
 
 
 >*clockwork scrubber .wizz.click.628.*

@@ -12,15 +12,15 @@ end
 
 
 
-if **You turn in:** [Buckler of the Recruit](/item/3452)
+if( **You turn in:** [Buckler of the Recruit](/item/3452)) then
 
 
 >**Armsman Khaigesh says:** I can see by your armaments, that Hebijeb has started you along the path of bravery. That's a very good foundation for a young Khala Dun recruit to build upon. Bravery is an important trait, but you will need to learn discipline and patience. The blacksmithing that we do as Khala Dun helps to reinforce and reflect upon those traits. Take this bag and I will help you with your next [lesson].
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Dusty Pouch](/item/17604), [Buckler of the Recruit](/item/3452)) 
 
-elseif **You turn in:** [Pouch of Nuggets](/item/5553), [Skeletonbane Short Sword](/item/3454)
+elseif( **You turn in:** [Pouch of Nuggets](/item/5553), [Skeletonbane Short Sword](/item/3454)) then
 
 
 >**Armsman Khaigesh says:** You're scruffy and you smell, but you're a fast enough learner.' He says as he pulls a leather strap out of his waistband and carefully wraps it around the hilt of your sword. He hands the sword back to you hilt first and says, 'Wrapping the hilt in that manners allows you to grip the sword better and hit harder. Take the sword and show it to Noril Galoon. He will instruct you further.
@@ -31,7 +31,7 @@ elseif **You turn in:** [Pouch of Nuggets](/item/5553), [Skeletonbane Short Swor
 
  **You receive:**  [Leather Gripped Short Sword](/item/5545) (+2000 exp)
 
-elseif **You turn in:** [Horn Covered Buckler](/item/5550), [Leather Gripped Short Sword](/item/5545), [Cloak of the Khala Dun Recruit](/item/3453)
+elseif( **You turn in:** [Horn Covered Buckler](/item/5550), [Leather Gripped Short Sword](/item/5545), [Cloak of the Khala Dun Recruit](/item/3453)) then
 
 
 >**Armsman Khaigesh says:** Excellent work! You're progressing nicely, young warrior. You are well suited to the path of the Khala Dun. Take this new cloak and wear it proudly. You have earned the right to consider yourself an Apprentice of the Khala Dun. Please speak to Guard Kuash and show him your new buckler.
@@ -43,6 +43,6 @@ elseif **You turn in:** [Horn Covered Buckler](/item/5550), [Leather Gripped Sho
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (5)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Leather Gripped Short Sword](/item/5545), [Cloak of the Khala Dun Apprentice](/item/5557), [Horn Covered Buckler](/item/5550)) (+3000 exp)
 
 **This NPC *should* return incorrect items given.**

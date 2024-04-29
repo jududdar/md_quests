@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [Flawless Diamond](/item/25814)
+if( **You turn in:** [Flawless Diamond](/item/25814)) then 
 
 
 >*Spirit of Garzicor  's ghostly hand takes the gem and clutches at it tightly. The spirit then looks towards the sky as it slowly begins to fade away. After a time, nothing is left but the gem, now glowly softly. You quickly take the gem from mid air before it to vanishes.*

@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18789)
+if( **You turn in:** [A tattered note](/item/18789)) then
 
 
 >**Soonog says:** Soonog own you now.. fight for Soonog.. Soonog make you strong.. Soonog army rule all!!
@@ -68,7 +68,7 @@ if **You turn in:** [A tattered note](/item/18789)
 
  **You receive:**  [Green Stained Skin Tunic*](/item/13527) (+20 exp)
 
-elseif **You turn in:** [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410)
+elseif( **You turn in:** [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410)) then
 
 
 >**Soonog says:** Small meats but is good nuff.  You take dis and go kill eberyting.  Make all scared of da Greenblood knights.  You get ready for next inb.. ins.. invat.. you get ready for next war.  You learning stuff, you come bak here and me teach you more Greenblood stuf so we be more tuffest.

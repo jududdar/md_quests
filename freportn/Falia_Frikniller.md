@@ -33,7 +33,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Letter to Falia](/item/18925)
+if **Faction** >= Dubious and  **You turn in:** [Letter to Falia](/item/18925)) then
 
 
 >**Falia Frikniller says:** Heh, that good for nothing fool. I've been here for over a month already, and I haven't seen him yet. Bah, anyway, could you take this back to him for me? It was our grandfather's lucky necklace. He passed it down to our father, and now onto my brother. Knowing that little worm, Grenny, he'll probably trade it for a mug of ale. Oh well, thanks for delivering the letter, friend. Good day to you, and safe travels.

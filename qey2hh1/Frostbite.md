@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Regurgitonic](/item/12139)
+if( **You turn in:** [Regurgitonic](/item/12139)) then
 
 
 >*Frostbite spits something into your hand.*
@@ -40,7 +40,7 @@ if **You turn in:** [Regurgitonic](/item/12139)
 
  **You receive:**  [Koalindl Fish](/item/13383) 
 
-elseif **You turn in:** [Sweaty Shirt](/item/12226)
+elseif( **You turn in:** [Sweaty Shirt](/item/12226)) then
 
 
 >*Frostbite takes a whiff of the sweaty shirt and barks.*

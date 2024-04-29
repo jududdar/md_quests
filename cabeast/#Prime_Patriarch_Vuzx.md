@@ -31,7 +31,7 @@ local text4 = "I requested four of the Froglok Tuk Bucklers.";
 
 
 
-if **You turn in:** [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech Husk](/item/12686)
+if( **You turn in:** [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech Husk](/item/12686)) then
 
 
 
@@ -49,7 +49,7 @@ if **You turn in:** [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech
 
  **You receive:**  [Patriarch's Bracer](/item/7827) (+250 exp)
 
-elseif **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Scarab Carapace](/item/13849)
+elseif( **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Scarab Carapace](/item/13849)) then
 
 
 
@@ -67,7 +67,7 @@ elseif **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/
 
  **You receive:**  [Patriarch's Cap](/item/7828) (+400 exp)
 
-elseif **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441)
+elseif( **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441)) then
 
 
 
@@ -85,7 +85,7 @@ elseif **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Tor
 
  **You receive:**  [Patriarch's Leggings](/item/7829) (+600 exp)
 
-elseif **You turn in:** [Sarnak Broodling Fang](/item/14599), [Sarnak Broodling Fang](/item/14599), [Goblin Hunter Javelin](/item/12432), [Goblin Hunter Javelin](/item/12432)
+elseif( **You turn in:** [Sarnak Broodling Fang](/item/14599), [Sarnak Broodling Fang](/item/14599), [Goblin Hunter Javelin](/item/12432), [Goblin Hunter Javelin](/item/12432)) then
 
 
 
@@ -103,7 +103,7 @@ elseif **You turn in:** [Sarnak Broodling Fang](/item/14599), [Sarnak Broodling 
 
  **You receive:**  [Patriarch's Claw](/item/7830) (+1000 exp)
 
-elseif **You turn in:** [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999)
+elseif( **You turn in:** [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999)) then
 
 
 
@@ -122,7 +122,7 @@ elseif **You turn in:** [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler]
 
  **You receive:**  [Patriarch's Leather](/item/7831) (+1000 exp)
 
-elseif **You turn in:** [A tattered note](/item/18848)
+elseif( **You turn in:** [A tattered note](/item/18848)) then
 
 
 

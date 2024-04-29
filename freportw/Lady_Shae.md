@@ -63,7 +63,7 @@ end
 local text = "Thank you... Oh my! A few more of these and I will be spilling my secrets.";
 
 
-if **You turn in:** [White Wine](/item/13031)
+if( **You turn in:** [White Wine](/item/13031)) then
 
 
 >**Lady Shae says:** Thank you. Pandos has been telling me to try white wine forever. I mostly only drink red wine. Pardon me for getting off track. Anyway, it is a good thing you showed up. The lady in room 2 has been receiving mail from a Dark Elf. You [need the mail for room two]. The Innkeeper usually holds it for the guests.
@@ -74,7 +74,7 @@ if **You turn in:** [White Wine](/item/13031)
 
  **You receive:** 0 (+5 exp)
 
-elseif **You turn in:** [Red Wine](/item/13030), [Red Wine](/item/13030), [Red Wine](/item/13030), [Red Wine](/item/13030)
+elseif( **You turn in:** [Red Wine](/item/13030), [Red Wine](/item/13030), [Red Wine](/item/13030), [Red Wine](/item/13030)) then
 
 
 >**Lady Shae says:** Oh my.. You are so kind. I can not tell you the last time I had so much fine wine. Well, there was the time Antonius Bayle told me he no longer had the time for a committed relationship. Mister big ruler of the world. Make it to the top and find someone younger. I know his plan. I hate him. I will never trust another human again. After all that, he goes and asks me to hold on to this list for him. Well I am glad it was taken from me by that [Dyllin]. Antonius Bayle has no ties to me any more!! Good riddance! Oooooh! I love him.

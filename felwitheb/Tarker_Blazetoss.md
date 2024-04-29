@@ -61,7 +61,7 @@ end
 
 
 
-if **You turn in:** [An Enrollment Letter](/item/18779)
+if( **You turn in:** [An Enrollment Letter](/item/18779)) then 
 
 
 >**Tarker Blazetoss says:** Welcome to the wizards' guild of the Keepers of the Art. My name's Tarker, and I run this guild. You've got a lot of training ahead of you, so let's get started. Here, take this - it's our guild tunic. Wear it with honor, friend.
@@ -81,7 +81,7 @@ if **You turn in:** [An Enrollment Letter](/item/18779)
 
  **You receive:**  [Singed Training Robe*](/item/13594) (+20 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Black Wolf Skin](/item/13758)
+elseif **Faction** >= Indifferent and  **You turn in:** [Black Wolf Skin](/item/13758)) then
 
 
 >**Tarker Blazetoss says:** This is just what I needed.. and with hardly a mark on it! You have my thanks. Here is a something that you might find useful.

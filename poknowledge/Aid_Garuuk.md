@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Troll Receipt](/item/28740)
+if( **You turn in:** [Troll Receipt](/item/28740)) then 
 
 
 if(e.other:Race() == "Troll") then

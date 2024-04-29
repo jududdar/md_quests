@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [Merchants Crate of Supplies](/item/15978)
+if( **You turn in:** [Merchants Crate of Supplies](/item/15978)) then
 
 
 >**Trep Thilcan says:** Fantastic! You got me everything I need to set up shop.  Here is some money for your troubles.  I hoped you learned something as well. I am sorry I have nothing more to give you except this advice, if you combine a clockwork carapace, a metal rod, gnomish bolts, firewater and grease in a toolbox you should get something nice!

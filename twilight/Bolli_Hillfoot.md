@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Meteor Jewel](/item/4493), [Mark of Silence](/item/5285), [Engraved Fire Emerald Statuette](/item/5286)
+if( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Silence](/item/5285), [Engraved Fire Emerald Statuette](/item/5286)) then 
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Boots of Concealment](/item/3794) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Cunning](/item/5283), [Engraved Black Diamond Statuette](/item/5284)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Cunning](/item/5283), [Engraved Black Diamond Statuette](/item/5284)) then 
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Bracer of Concealment](/item/3793) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Stealth](/item/5296), [Engraved Diamond Statuette](/item/5273), [Tethered Leash](/item/5274)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Stealth](/item/5296), [Engraved Diamond Statuette](/item/5273), [Tethered Leash](/item/5274)) then 
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Mail of Concealment](/item/3789) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Burglary](/item/5278), [Engraved Ruby Statuette](/item/5279), [Small Brass Figurine](/item/5280)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Burglary](/item/5278), [Engraved Ruby Statuette](/item/5279), [Small Brass Figurine](/item/5280)) then 
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Greaves of Concealment](/item/3791) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Thievery](/item/5269), [Engraved Sapphire Statuette](/item/5270), [Brass Linked Chain](/item/5271)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Thievery](/item/5269), [Engraved Sapphire Statuette](/item/5270), [Brass Linked Chain](/item/5271)) then 
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Coif of Concealment](/item/3788) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Forgery](/item/5281), [Engraved Star Sapphire Statuette](/item/5282)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Forgery](/item/5281), [Engraved Star Sapphire Statuette](/item/5282)) then 
 
 
 FactionReward(e)
@@ -118,7 +118,7 @@ FactionReward(e)
 
  **You receive:**  [Mantle of Concealment](/item/3792) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Robbery](/item/5275), [Engraved Emerald Statuette](/item/5276), [Half Melted Blade](/item/5277)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Robbery](/item/5275), [Engraved Emerald Statuette](/item/5276), [Half Melted Blade](/item/5277)) then 
 
 
 FactionReward(e)

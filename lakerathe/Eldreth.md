@@ -44,7 +44,7 @@ local text = "looks at you, obviously expecting more. Did you forget the milk?";
 
 
 
-if **You turn in:** [Bottle of Milk](/item/13087), [Bottle of Milk](/item/13087), [Combined Parchment](/item/28012), platinum = 100
+if( **You turn in:** [Bottle of Milk](/item/13087), [Bottle of Milk](/item/13087), [Combined Parchment](/item/28012), platinum = 100) then
 
 
 

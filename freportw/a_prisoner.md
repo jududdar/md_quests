@@ -38,7 +38,7 @@ end
 local text = "Bog n Goo.. Blanket too!!"
 
 
-if **You turn in:** [Bunker Cell \#1](/item/12196), [Bog Juice](/item/16581), [Edible Goo](/item/13498)
+if( **You turn in:** [Bunker Cell \#1](/item/12196), [Bog Juice](/item/16581), [Edible Goo](/item/13498)) then 
 
 
 >**a prisoner says:** Hide, hide, safe, cee.. lerk has the clue.. Must travel.. Travel.. Travel.. Tunaria's corridor..

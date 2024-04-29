@@ -33,7 +33,7 @@ end
 local text = "Whoooops! I'll need the two ruined wolf pelts along with the berries and black wolf skin before I can reward you, Soandso. Don't dawdle now.";
 
 
-if **You turn in:** [A tattered note](/item/18731)
+if( **You turn in:** [A tattered note](/item/18731)) then 
 
 
 >**Beek Guinders says:** Aye. Welcome. my fur-footed friend. My name is Beek Guinders. and I am guildmaster here at the Chapel of Mischief. Here is our guild tunic. Wear it with pride, as it will set you apart from the crowd.
@@ -50,7 +50,7 @@ if **You turn in:** [A tattered note](/item/18731)
 
  **You receive:**  [Faded Gold Felt Tunic*](/item/13538) (+20 exp)
 
-elseif **You turn in:** [Berries](/item/13045), [Ruined Wolf Pelt](/item/13782), [Ruined Wolf Pelt](/item/13782), [Black Wolf Skin](/item/13758)
+elseif( **You turn in:** [Berries](/item/13045), [Ruined Wolf Pelt](/item/13782), [Ruined Wolf Pelt](/item/13782), [Black Wolf Skin](/item/13758)) then 
 
 
 >**Beek Guinders says:** Hey, great! You found the materials! We'll get to work right away. If you find any more, please come by again. Here's a little something for your troubles, friend.
@@ -68,7 +68,7 @@ elseif **You turn in:** [Berries](/item/13045), [Ruined Wolf Pelt](/item/13782),
 * __Faction:__ [Guardians of the Vale](/faction/263) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Spell: Strike](/item/15014), [Spell: Flash of Light](/item/15201), [Spell: Divine Aura](/item/15207), [Spell: Lull](/item/15208), [Spell: Gate](/item/16303)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**
 

@@ -71,7 +71,7 @@ local text = "Mmmm. Ahh... <Burp!> That was delicious. How about another?";
 
 
 
-if **You turn in:** [Ogre Swill](/item/13038),item2=  [Ogre Swill](/item/13038), [Ogre Swill](/item/13038), [Ogre Swill](/item/13038)
+if( **You turn in:** [Ogre Swill](/item/13038),item2=  [Ogre Swill](/item/13038), [Ogre Swill](/item/13038), [Ogre Swill](/item/13038)) then
 
 
 

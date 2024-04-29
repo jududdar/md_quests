@@ -107,7 +107,7 @@ local text = "Oh.. I see.. But um.. I still need the other thing before I can ma
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/item/13752), gold = 21
+if **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/item/13752), gold = 21) then
 
 
 >**Chanda Miller says:** Oh, good! I can make you a nice new cloak now. Here. Here. Oh, this.. it is a good one. Nice bear fur. Here you go!
@@ -125,9 +125,9 @@ if **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/it
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Bear-hide Cape](/item/2902) (+50 exp)
 
-elseif **You turn in:** [Medium Quality Bear Skin](/item/13751), gold = 15
+elseif( **You turn in:** [Medium Quality Bear Skin](/item/13751), gold = 15) then
 
 
 >**Chanda Miller says:** Ohh good.. good! I.. um.. can make.. Oh great. Here you go. I hope you like it. I always um.. try my best. Tell your um.. friends where you got your bear things!
@@ -145,9 +145,9 @@ elseif **You turn in:** [Medium Quality Bear Skin](/item/13751), gold = 15
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Bear-hide Boots](/item/2903) (+50 exp)
 
-elseif **You turn in:** [Low Quality Bear Skin](/item/13750), gold = 5
+elseif( **You turn in:** [Low Quality Bear Skin](/item/13750), gold = 5) then
 
 
 >**Chanda Miller says:** Great. Oh, here, now I can make the.. um.. ok.. here. Yes.. good. I love making bear skin belts. Here you go. I hope you like it.
@@ -165,6 +165,6 @@ elseif **You turn in:** [Low Quality Bear Skin](/item/13750), gold = 5
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Bear-hide Belt](/item/2904) (+50 exp)
 
 **This NPC *should* return incorrect items given.**

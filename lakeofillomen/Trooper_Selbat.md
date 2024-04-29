@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Legion Order](/item/18248)
+if( **You turn in:** [Legion Order](/item/18248)) then 
 
 
 >*Trooper Selbat signs the note and hands back to you. 'Be off now. Before I do choose to slay the messenger.'*

@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Approved Issue Kit](/item/8898)
+if( **You turn in:** [Approved Issue Kit](/item/8898)) then
 
 
 >*General Bragmur begins to put the armor on, 'Finally the Dain has gotten word of my arrival here.  I await his final orders before proceeding.'*

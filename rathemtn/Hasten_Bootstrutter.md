@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Ring of the Ancients](/item/12268), [Shadowed Rapier](/item/7100), platinum = 325
+if( **You turn in:** [Ring of the Ancients](/item/12268), [Shadowed Rapier](/item/7100), platinum = 325) then
 
 
 >**Hasten Bootstrutter says:** The time to trade has come!! I am now rich and you are now fast. Take the Journeyman Boots and run like the wind.

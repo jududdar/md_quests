@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Strength](/item/18539)
+if( **You turn in:** [Strength](/item/18539)) then 
 
 
 >**Holwin says:** Farewell.
@@ -47,7 +47,7 @@ if **You turn in:** [Strength](/item/18539)
 
 **Holwin despawns.**
 
-elseif **You turn in:** [Tranquility](/item/18538)
+elseif( **You turn in:** [Tranquility](/item/18538)) then 
 
 
 >**Holwin says:** Farewell.

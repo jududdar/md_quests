@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Small Shipment of High Quality Ore](/item/10952)
+if( **You turn in:** [Small Shipment of High Quality Ore](/item/10952)) then 
 
 
 
@@ -43,7 +43,7 @@ if **You turn in:** [Small Shipment of High Quality Ore](/item/10952)
 
 **Yakem Oreslinger despawns.**
 
-elseif **You turn in:** [Large Shipment of High Quality Ore](/item/10953)
+elseif( **You turn in:** [Large Shipment of High Quality Ore](/item/10953)) then 
 
 
 

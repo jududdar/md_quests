@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** gold = 5
+if( **You turn in:** gold = 5) then
 
 
 >*The Great Oowomp flings the coins into the air and they all fall neatly into his oversized coin pouch. <Tink, tink, tink, tink, TINK!!> 'Gaze upon my awsome powers of the arcane!! You, a simple " .. e.other:Race() .. ", shall see my power. Allakabam!!'*
@@ -54,7 +54,7 @@ if **You turn in:** gold = 5
 
 **Set a timer** named *dance* for 3 seconds
 
-elseif **You turn in:** [Strange Ochre Clay](/item/12942), [Crushed Diamonds](/item/12945), [Yun Shaman Powder](/item/12944), [Greyish Bone Chips](/item/12943)
+elseif( **You turn in:** [Strange Ochre Clay](/item/12942), [Crushed Diamonds](/item/12945), [Yun Shaman Powder](/item/12944), [Greyish Bone Chips](/item/12943)) then
 
 
 >*The Great Oowomp begins to jump for joy. The ground trembles. 'Grand! Here is the secret of McMerin's Feast. Scribe it and you shall learn more of its power.*

@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [Dissolving Liquid](/item/30061)
+if( **You turn in:** [Dissolving Liquid](/item/30061)) then 
 
 
 >*gnomish deserter grins and pours the ooze on his hand and the box.  You hear a burning sizzle and then the box thumps onto the ground.  'Ow! Ow! Take it!  Hah.  I never thought I'd get rid of that piece of...'*

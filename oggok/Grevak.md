@@ -42,7 +42,7 @@ local text = "This enough is not! Two is what Grevak spoke!";
 
 
 
-if   **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)
+if  ( **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)) then
 
 
 >**Grevak says:** Now I shall take the lizard tails to shamans I will.  Healing spells will help create. You continue to slay. Continue to be the peon. Continue to live
@@ -67,7 +67,7 @@ if   **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [L
 
  **You receive:** eq.ChooseRandom( [Large Tattered Skullcap](/item/2125), [Large Tattered Mask](/item/2126), [Large Tattered Gorget](/item/2127), [Large Tattered Shoulderpads](/item/2129), [Large Tattered Wristbands](/item/2133), [Large Tattered Gloves](/item/2134), [Large Buckler](/item/9016)) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Mystic Doll](/item/13367), [Mystic Doll](/item/13367)
+elseif **Faction** >= Amiable and  **You turn in:** [Mystic Doll](/item/13367), [Mystic Doll](/item/13367)) then
 
 
 >**Grevak says:** A shaman doll! A great knight you some day become. A gift I give to help you on your way. The fight will continue. All hail the Greenbloods!

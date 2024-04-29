@@ -60,7 +60,7 @@ repeat
 * __Faction:__ [Merchants of Qeynos](/faction/291) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bunker Battle Blade](/item/5369), [Round Shield](/item/9002), [Bronze Bracers](/item/4209), [Bronze Battle Axe](/item/5028), [Bronze Scimitar](/item/5034), [Reinforced Boots](/item/2248), [Tentacle Whip](/item/5310), [Targ Shield](/item/9003), [Fine Steel Dagger](/item/7350), [Fine Steel Long Sword](/item/5350)) (+50000 exp)
 
 
 
@@ -71,7 +71,7 @@ until cgb == 0
 
 
 
-if **You turn in:** [Guard Bracelet](/item/13304)
+if( **You turn in:** [Guard Bracelet](/item/13304)) then 
 
 
 >**Capt Linarius says:** You fool! You have killed a fine and outstanding guard. You shall pay dearly for this!

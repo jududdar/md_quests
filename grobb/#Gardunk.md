@@ -5,7 +5,7 @@
 
 
 
-if  **You turn in:** [A tattered note](/item/18845)
+if ( **You turn in:** [A tattered note](/item/18845)) then 
 
 
 >**Gardunk says:** You fight like alligator and tear enemy limb from limb!  Wear tunic that smell of swamp an devour enemy wit brodder Dark Ones!  You go see Gargh now, he got work for you!

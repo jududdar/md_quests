@@ -41,7 +41,7 @@ local text2 = "Like this is going to get you anything.  I can't work with this! 
 
 
 
-if **You turn in:** [Trooper Shield](/item/12883), [Trooper Shield](/item/12883), [scribbled note](/item/12971)
+if( **You turn in:** [Trooper Shield](/item/12883), [Trooper Shield](/item/12883), [scribbled note](/item/12971)) then
 
 
 >*Gearin Gaxx places the formula in a box which appears to have similar copies in it. Thank you! I can now reward you with this Guard of Ik shield I had lying around.*

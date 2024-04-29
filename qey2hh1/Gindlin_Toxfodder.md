@@ -23,7 +23,7 @@ end
 local text = "You did hear me, didn't you? I want two spider venom sacs, a bottle of Crow's special brew and 20 gold pieces.";
 
 
-if **You turn in:** [A Spider Venom Sac](/item/14018), [A Spider Venom Sac](/item/14018), [Crows Special Brew](/item/13799), gold = 20
+if( **You turn in:** [A Spider Venom Sac](/item/14018), [A Spider Venom Sac](/item/14018), [Crows Special Brew](/item/13799), gold = 20) then
 
 
 >**Gindlin Toxfodder says:** Here. I could care less what you do with this. Hopefully you'll lay some on the Circle of Unseen Hands.

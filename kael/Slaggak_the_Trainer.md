@@ -73,7 +73,7 @@ end
 if( **Faction is** > Dubious) then
 
 
-if **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)
+if( **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
 
 
 
@@ -100,7 +100,7 @@ if **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [C
  **You receive:** eq.ChooseRandom( [Giant Scalemail Belt](/item/25011), 25016, 25013, 25010, 25017, 25014, 25007, 25005, 25015, 25009, 25006, 25012, 25018) (+50000 exp)
 
 
-elseif **You turn in:** [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100)
+elseif( **You turn in:** [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100)) then
 
 
 
@@ -127,7 +127,7 @@ elseif **You turn in:** [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/
  **You receive:**  [Cerulean Greaves](/item/25071) (+50000 exp)
 
 
-elseif **You turn in:** [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101)
+elseif( **You turn in:** [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101)) then
 
 
 

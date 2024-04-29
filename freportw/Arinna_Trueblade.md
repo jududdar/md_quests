@@ -130,7 +130,7 @@ end
 local expansion_flag = eq.get_current_expansion();
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Pristine Giant Scarab Leg](/item/9919), [Lion Paw](/item/9918), [Vial of Smoke](/item/9923)
+if(expansion_flag >= 4.0 and  **You turn in:** [Pristine Giant Scarab Leg](/item/9919), [Lion Paw](/item/9918), [Vial of Smoke](/item/9923)) then 
 
 
 >**Arinna Trueblade says:** Your determination to further your training and knowledge never ceases to amaze me. I knew I could count on you to retrieve these items for me. Luck was also on my side because I was able to craft the blade we spoke of before. May it protect you in all of your battles that await you. Excellent work Soandso.

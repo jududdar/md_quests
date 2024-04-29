@@ -52,7 +52,7 @@ end
 
 
 
-if **You turn in:** [Silver Chained Locket](/item/20476)
+if( **You turn in:** [Silver Chained Locket](/item/20476)) then
 
 
 >**Niera Farbreeze says:** This, this is my mother's amulet. I cannot believe it. Please, take this powder you say you need. Perhaps it does have powers, I don't know, I don't care. Thank you, my eternal thanks for this.

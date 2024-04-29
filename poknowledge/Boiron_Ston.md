@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Boirons Standard](/item/28085)
+if( **You turn in:** [Boirons Standard](/item/28085)) then
 
 
 >*Boiron Ston seems to perk up. 'Ah, 'tis a beauty, is it not? I thank you for its safe return. Perhaps I shall go and visit Elisha after all. Please take this letter to her, so she may be ready for me when I arrive.'*

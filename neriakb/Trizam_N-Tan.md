@@ -70,7 +70,7 @@ local text = "I instructed you to return with no fewer than four pawn picks!";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885)
+if **Faction** >= Amiable and  **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885)) then
 
 
 >**Trizam N-Tan says:** So you have done your part to serve the King. As instructed, I shall reward your good deed. But I choose to reward you with provisions from the pantries of Neriak. They shall keep you strong.

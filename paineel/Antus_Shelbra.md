@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Aglthins Fishing Pole](/item/9969)
+if( **You turn in:** [Aglthins Fishing Pole](/item/9969)) then 
 
 
 >**Antus Shelbra says:** Yes, this will do.
@@ -50,7 +50,7 @@ if **You turn in:** [Aglthins Fishing Pole](/item/9969)
 
  **You receive:**  [Staff of the Abattoir Initiate](/item/13697) (+500 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Karran's Head](/item/9967)
+elseif **Faction** >= Indifferent and  **You turn in:** [Karran's Head](/item/9967)) then 
 
 
 >**Antus Shelbra says:** Ah, it seems as if he was not a very cooperative kitty. So much for family. Oh well, take this token change as a show of my appreciation. Cazic-Thule shines on you in all his glorious fear this day, young one.

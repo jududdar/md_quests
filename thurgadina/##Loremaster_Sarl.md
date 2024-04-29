@@ -16,7 +16,7 @@ end
 
 
 
-if **You turn in:** platinum = 50
+if( **You turn in:** platinum = 50) then
 
 
 >*Loremaster Sarl pockets the change and hands you the book. He says, 'Be careful with that now, it's very old. If it comes back all ripped up, ye owe me a beer.'*

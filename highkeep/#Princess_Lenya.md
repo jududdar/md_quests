@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Royal Amulet of Thex](/item/13109)
+if( **You turn in:** [Royal Amulet of Thex](/item/13109)) then
 
 
 >**Princess Lenya says:** The Royal Amulet of Thex!! I missed it so. I am sorry I escaped so quickly. I am glad you did not run into the Teir'Dal torturers. They are quite formidable. I shall be continuing on to Qeynos. Here. Take this as proof that you have rescued me. My father should be quite happy with your deed. Such beauty as mine should never be locked up. If you cannot find my father then search for Tolon Nurbyte. He is usually at the Traveler's Inn. Good bye.

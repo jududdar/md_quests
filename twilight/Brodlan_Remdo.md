@@ -76,7 +76,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Moon Jewel](/item/4489), [Mark of Horror](/item/5871), [Fanged Talisman](/item/5872)
+if( **You turn in:** [Moon Jewel](/item/4489), [Mark of Horror](/item/5871), [Fanged Talisman](/item/5872)) then 
 
 
 FactionReward(e)
@@ -84,7 +84,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Boots](/item/3965) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Intimidation](/item/5869), [Small Rough Marble Figurine](/item/5870)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Intimidation](/item/5869), [Small Rough Marble Figurine](/item/5870)) then 
 
 
 FactionReward(e)
@@ -92,7 +92,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Bracer](/item/3964) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Fear](/item/5857), [Delicate Glass Sculpture](/item/5860), [Painted Ornament](/item/5859)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Fear](/item/5857), [Delicate Glass Sculpture](/item/5860), [Painted Ornament](/item/5859)) then 
 
 
 FactionReward(e)
@@ -100,7 +100,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Breastplate](/item/3960) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Dread](/item/5864), [King's Tome](/item/5865), [Polished Ivory Idol](/item/5866)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Dread](/item/5864), [King's Tome](/item/5865), [Polished Ivory Idol](/item/5866)) then 
 
 
 FactionReward(e)
@@ -108,7 +108,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Greaves](/item/3962) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Shadows](/item/5854), [Primitive Totem](/item/5855), [Golden Spoon](/item/5856)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Shadows](/item/5854), [Primitive Totem](/item/5855), [Golden Spoon](/item/5856)) then 
 
 
 FactionReward(e)
@@ -116,7 +116,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Helm](/item/3959) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Dark Fate](/item/5873), [Crystalline Idol](/item/5874)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Dark Fate](/item/5873), [Crystalline Idol](/item/5874)) then 
 
 
 FactionReward(e)
@@ -124,7 +124,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Mask](/item/3966) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Hatred](/item/5867), [Ancient Petrified Tulip](/item/5868)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Hatred](/item/5867), [Ancient Petrified Tulip](/item/5868)) then 
 
 
 FactionReward(e)
@@ -132,7 +132,7 @@ FactionReward(e)
 
  **You receive:**  [Darkened Knight's Pauldrons](/item/3963) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Terror](/item/5861), [Runed Ornamental Mace](/item/5862), [Ancient Tablet](/item/5863)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Terror](/item/5861), [Runed Ornamental Mace](/item/5862), [Ancient Tablet](/item/5863)) then 
 
 
 FactionReward(e)

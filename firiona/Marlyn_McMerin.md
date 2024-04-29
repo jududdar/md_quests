@@ -29,7 +29,7 @@ local text = "I requested the bone chips which touched the Bath of Obulus, clay 
 
 
 
-if **You turn in:** [Strange Ochre Clay](/item/12942), [Crushed Diamonds](/item/12945), [Yun Shaman Powder](/item/12944), [Greyish Bone Chips](/item/12943)
+if( **You turn in:** [Strange Ochre Clay](/item/12942), [Crushed Diamonds](/item/12945), [Yun Shaman Powder](/item/12944), [Greyish Bone Chips](/item/12943)) then
 
 
 >**Marlyn McMerin says:** What's this? This is amazing - you collected them all! To think, the power that these items hold if properly used. Never mind that now, here, take the scroll. You've certainly earned it.

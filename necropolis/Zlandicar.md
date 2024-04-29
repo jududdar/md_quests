@@ -190,7 +190,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Neb's head](/item/26010)
+if **Faction** >= Apprehensive and  **You turn in:** [Neb's head](/item/26010)) then
 
 
 >**Zlandicar says:** Excellent work! Here is your key, go bother that prattling fool Jaled Dar, and leave me be.

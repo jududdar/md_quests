@@ -3,7 +3,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18719)
+if( **You turn in:** [A tattered note](/item/18719)) then 
 
 
 >**Kinloc Flamepaw says:** Welcome to the Order of Three. I am Kinloc, Guild Master of the Magicians. This tunic of the Order is for you, wear it with honour. Study hard and master your skills, and you will become an important part of our Order. Yestura shall help introduce you to the ways of magic.

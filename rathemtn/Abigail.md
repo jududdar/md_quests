@@ -41,7 +41,7 @@ end
 local text = "I instructed you to return with no less than two dark pots.";
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Dark Cauldron](/item/12309), [A Dark Cauldron](/item/12309)
+if **Faction** >= Indifferent +50 and  **You turn in:** [A Dark Cauldron](/item/12309), [A Dark Cauldron](/item/12309)) then 
 
 
 >**Abigail says:** You have earned the mold.  You will now need go and speak with Thomas about [Lord Searfire].

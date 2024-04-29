@@ -41,7 +41,7 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Ship in a Bottle](/item/12218)
+if **Faction** >= Amiable +100 and  **You turn in:** [Ship in a Bottle](/item/12218)) then 
 
 
 >**a skeleton says:** Aye, matey! Ye found me another vessel with which to sail the seven seas? Let's be shoving off then! Come on, hop aboard, swabby! Be sure to pick up the minstrel. His hide was last seen by Basher Avisk. Only he be knowin' [where the minstrel ] be.

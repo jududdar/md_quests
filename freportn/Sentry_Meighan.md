@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Half of Potion of Marr](/item/12131)
+if( **You turn in:** [Half of Potion of Marr](/item/12131)) then
 
 
 >**Sentry Meighan says:** Very good. Nothing more than a sip and I feel much more alert. The next sentry awaits you.

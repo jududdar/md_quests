@@ -70,7 +70,7 @@ end
 if( **Faction is** > Indifferent) then
 
 
-if **You turn in:** [A Sealed Letter](/item/18814)
+if( **You turn in:** [A Sealed Letter](/item/18814)) then 
 
 
 
@@ -81,7 +81,7 @@ if **You turn in:** [A Sealed Letter](/item/18814)
  **You receive:**  [Toalas Box for heads](/item/17971) (+500 exp)
 
 
-elseif **You turn in:** [Box with Two Heads](/item/12246)
+elseif( **You turn in:** [Box with Two Heads](/item/12246)) then 
 
 
 
@@ -115,7 +115,7 @@ elseif **You turn in:** [Box with Two Heads](/item/12246)
 elseif( **Faction is** == Indifferent) then
 
 
-if **You turn in:** [A Sealed Letter](/item/18814)
+if( **You turn in:** [A Sealed Letter](/item/18814)) then 
 
 
 
@@ -125,7 +125,7 @@ if **You turn in:** [A Sealed Letter](/item/18814)
 elseif( **Faction is** < Indifferent) then
 
 
-if **You turn in:** [A Sealed Letter](/item/18814)
+if( **You turn in:** [A Sealed Letter](/item/18814)) then 
 
 
 

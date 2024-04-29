@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [A Scrap of Parchment](/item/18821)
+if( **You turn in:** [A Scrap of Parchment](/item/18821)) then  
 
 
 >**Nug Rellash says:** Let's see here... That is good for one free ale. Here you go. Enjoy it!

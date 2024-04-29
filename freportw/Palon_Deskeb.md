@@ -48,7 +48,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Fish in a Jar](/item/13862)
+if **Faction** >= Amiable and  **You turn in:** [Fish in a Jar](/item/13862)) then
 
 
 >**Palon Deskeb says:** Oh! A beautiful Marr Minnow. This shall look grand in my aquarium! How lucky that you are a friend to the Academy of Arcane Science. Take your reward.

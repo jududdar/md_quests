@@ -139,7 +139,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Bloodsaber Defilers Head](/item/20268)
+if(expansion_flag >= 4.0 and  **You turn in:** [Bloodsaber Defilers Head](/item/20268)) then
 
 
 >**Salmekia Treherth says:** It is a shame that some people decide to throw away their humanity with the worship of evil deities. Your actions have saved the lives of many creatures that rely on the waters of this glade. Take this Rusty Pine Druid Scimitar and sharpen it in a forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done return to me with the Sharpened Pine Druid Scimitar, a Gnoll Fang, and a Large King Snake Skin.
@@ -163,9 +163,9 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Bloodsaber Defilers Head](/item/
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Rusty Pine Druid Scimitar](/item/20258) (+1000 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Pine Druid Scimitar](/item/20259), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Pine Druid Scimitar](/item/20259), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)) then
 
 
 >*Salmekia Treherth fashions a grip from the large king snake skin, attaches the gnoll fang to the heel of the swords hilt, and polishes the blade of the sword with a luminescent green polish. 'Here is your new weapon young druid. May it serve you well.'*
@@ -189,6 +189,6 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Pine Druid Scimitar](/
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Pine Druid Scimitar](/item/20265) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

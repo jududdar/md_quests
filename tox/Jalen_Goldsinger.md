@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Potion of Sorrow](/item/7113), platinum = 100
+if( **You turn in:** [Potion of Sorrow](/item/7113), platinum = 100) then 
 
 
 >**Jalen Goldsinger says:** Excuse me while I add some other items to this mix. There. Finished. Here you go, and thank you for your business.

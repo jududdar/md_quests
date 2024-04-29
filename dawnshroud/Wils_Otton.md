@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [Note to Wils](/item/31782)
+if( **You turn in:** [Note to Wils](/item/31782)) then
 
 
 >**Wils Otton says:** We've been hunting those wolves for a long time now. They killed many of my men. I'm glad to see that they are gone. Take this Hunter's Pike and get some good use out of it.

@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [King Card](/item/22298)
+if( **You turn in:** [King Card](/item/22298)) then
 
 
 >**Zenita DRin says:** Why I will be.. You got it!! I thought I took it out of the deck. Very well. You win the Spare Lens fair and square. Here you are. Now get out of my sight.
@@ -42,7 +42,7 @@ if **You turn in:** [King Card](/item/22298)
 
  **You receive:**  [A Telescope Lens](/item/13279) (+500 exp)
 
-elseif **You turn in:** [Innoruuk's Kiss of Death](/item/13121)
+elseif( **You turn in:** [Innoruuk's Kiss of Death](/item/13121)) then
 
 
 >**Zenita DRin says:** Let see what card you pulled.
@@ -50,12 +50,12 @@ elseif **You turn in:** [Innoruuk's Kiss of Death](/item/13121)
 
  **You receive:** eq.ChooseRandom( [Castle Card](/item/22293), [Beggar Card](/item/22294), [Joker Card](/item/22295), [Wild Card](/item/22296), [Queen Card](/item/22297), [King Card](/item/22298), [Knight Card](/item/22299)) 
 
-elseif **You turn in:** [Knight Card](/item/22299)
+elseif( **You turn in:** [Knight Card](/item/22299)) then
 
 
 e.self:Say(string.format("Bad luck must be one of your strong suits. You should have been a beggar because you sure aren't a very good %s. You lose!",e.other:Class()));
 
-elseif **You turn in:** [Joker Card](/item/22295)
+elseif( **You turn in:** [Joker Card](/item/22295)) then
 
 
 e.self:Say(string.format("I see you have drawn the card that best represents a %s such as yourself. You lose!",e.other:Race()));

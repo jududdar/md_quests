@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [Symbol of the Apprentice](/item/20642)
+if( **You turn in:** [Symbol of the Apprentice](/item/20642)) then
 
 
 >**Venenzi Oberzendi says:** I see you serve my master as well now. I assume you are here to take the reagents from me which I have gathered for him? I don't know if I like the idea of you gaining the credit for my hard work here. I might consider giving you these reagents, if only you do a small [task] for me.
@@ -47,7 +47,7 @@ if **You turn in:** [Symbol of the Apprentice](/item/20642)
 
  **You receive:**  [Twisted Symbol of the Apprentice](/item/20643) (+500 exp)
 
-if **You turn in:** [Flowing Black Robe](/item/1320)
+if( **You turn in:** [Flowing Black Robe](/item/1320)) then 
 
 
 >**Venenzi Oberzendi says:** Thank you, Soandso. I did not think you would track down Najena and slay her. I think that I am going to return to my old life in Neriak. I am sick of the way Kazen has been treating me. He never seems to teach me anything worthwhile. Don't forget to give his lapdog that symbol with the reagents. I'm sure he will give you a new one.

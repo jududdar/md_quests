@@ -77,7 +77,7 @@ local text = "I am ordered to only enchant the spell when I have both Bonethunde
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13287)
+if **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13287)) then 
 
 
 >**Kasine Paegra says:** You are a very honorable person. You have returned an Order of Thunder which you truly do not need. I give you the protection of the Rainkeeper to watch over you. May it keep you from harm. Go and serve.
@@ -108,9 +108,9 @@ if **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/132
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13288)
+elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13288)) then 
 
 
 >**Kasine Paegra says:** You have returned an Order of Thunder which has been drained of all its power.  I wonder how this could have happened.  No doubt evil is behind this.  Thank you for its return.  I give you the blessings of Karana.  Go and serve the Rainkeeper.
@@ -138,9 +138,9 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
-elseif **Faction** >= Warmly +150 and  **You turn in:** [Bonethunder Staff](/item/6358), gold = 500
+elseif **Faction** >= Warmly +150 and  **You turn in:** [Bonethunder Staff](/item/6358), gold = 500) then 
 
 
 >**Kasine Paegra says:** The Rainkeeper has bestowed this weapon with power once more. Take it and defend our temple.

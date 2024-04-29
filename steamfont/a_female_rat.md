@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Vial of Infectious Disease](/item/10262)
+if( **You turn in:** [Vial of Infectious Disease](/item/10262)) then
 
 
 >*a female rat ingests the virulent substance and becomes ill.*

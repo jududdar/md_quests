@@ -161,7 +161,7 @@ end
 local text = "I thank you, but before I reward you I must have both the Bayle List II and your Thunder Staff.";
 
 
-if **You turn in:** [A tattered note](/item/18710)
+if( **You turn in:** [A tattered note](/item/18710)) then
 
 
 >**Runethar Hamest says:** Greetings, fellow knight of Karana, and welcome to the Temple of Thunder! Here, wear this tunic and help our crusade. Wolten Grafe is my assistant, he will get you started and teach you the ways of the Rainkeeper.
@@ -181,7 +181,7 @@ if **You turn in:** [A tattered note](/item/18710)
 
  **You receive:**  [Old Gray Tunic*](/item/13505) (+100 exp)
 
-elseif **Faction** >= Warmly +150 and  **You turn in:** [Bayle List II](/item/18809), [Thunder Staff](/item/6357)
+elseif **Faction** >= Warmly +150 and  **You turn in:** [Bayle List II](/item/18809), [Thunder Staff](/item/6357)) then
 
 
 >**Runethar Hamest says:** Antonius Bayle will be pleased. The Temple is also pleased. Here is the enchanted staff we call Bonethunder. Should you find the enchantment gone, just ask Kasine to [enchant Bonethunder]. We need more disciples like you! Go forth to tell the world of the Rainkeeper.

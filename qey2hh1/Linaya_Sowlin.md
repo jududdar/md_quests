@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Flask of Nitrates](/item/13945)
+if( **You turn in:** [Flask of Nitrates](/item/13945)) then
 
 
 >**Linaya Sowlin says:** Oh thank Tunare you showed up when you did. I was at a nearby merchant house when a fellow dropped a [note] and I picked it up and read it. It talked of the [Unkempt Druids] and before I could read on, the man swiped it from my hands. I ran for dear life, for surely he would kill me for reading the note. I think I lost him in the woods but I am not sure. Please stay with me a while to be sure.

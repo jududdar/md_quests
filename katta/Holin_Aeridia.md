@@ -11,7 +11,7 @@ function event(e)
 
 
 
-if **You turn in:** [Holin Aeridia's Belongings](/item/10682)
+if( **You turn in:** [Holin Aeridia's Belongings](/item/10682)) then
 
 
 >*Holin Aeridia reaches forward as his hands materialize to grasp the box of belongings then places them carefully in his crypt. He then reaches towards Soandso again as an etherial staff materializes in his hands and is offered to Soandso.*

@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Vial of Velium Vapors](/item/1553)
+if( **You turn in:** [Vial of Velium Vapors](/item/1553)) then
 
 
 >**Tanik Greskil says:** Thank you, Soandso. I shall be eternally grateful to you. Should you ever require my assistance I pledge to you my aid. Please deliver this to Borannin, it is imperative that he deliver this to the Dain at once. Farewell for now outlander....

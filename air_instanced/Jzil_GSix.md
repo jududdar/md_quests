@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [Griffons Beak](/item/20781)
+if( **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [Griffons Beak](/item/20781)) then 
 
 
 
@@ -54,7 +54,7 @@ if **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [
 
 **Jzil GSix despawns.**
 
-elseif **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/20782), [Black Silk Cape](/item/20783)
+elseif( **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/20782), [Black Silk Cape](/item/20783)) then 
 
 
 >**Jzil GSix says:** This feathered cape should be more than enough payment, now be gone from my sight!
@@ -65,7 +65,7 @@ elseif **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/2078
 
 **Jzil GSix despawns.**
 
-elseif **You turn in:** [Rugous Globe](/item/20945), [Djinni Blood](/item/20784), [Fine Cloth Raiment](/item/20785)
+elseif( **You turn in:** [Rugous Globe](/item/20945), [Djinni Blood](/item/20784), [Fine Cloth Raiment](/item/20785)) then 
 
 
 >**Jzil GSix says:** Very good. Now take this and leave me.

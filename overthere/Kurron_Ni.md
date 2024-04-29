@@ -59,7 +59,7 @@ end
 
 
 
-if **You turn in:** [Darkforge Breastplate](/item/3141), [Darkforge Greaves](/item/3145), [Darkforge Helm](/item/3140), platinum = 900
+if( **You turn in:** [Darkforge Breastplate](/item/3141), [Darkforge Greaves](/item/3145), [Darkforge Helm](/item/3140), platinum = 900) then 
 
 
 >**Kurron Ni says:** Well done, Soandso, I honestly didn't expect to see you again. Yes, yes, this is perfect! My mission is nearly complete!

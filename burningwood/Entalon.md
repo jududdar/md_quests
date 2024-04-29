@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Scribblings](/item/12990), [Stoneleer Emerald Plume](/item/12755)
+if( **You turn in:** [Scribblings](/item/12990), [Stoneleer Emerald Plume](/item/12755)) then 
 
 
 >**Entalon says:** Ha ha ha!! Fool! I have what I need. Now you are granted an audience with a noble sarnak lord, not my master. I am quite sure he shall do away with you. Ha ha ha!!

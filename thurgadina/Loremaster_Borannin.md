@@ -58,7 +58,7 @@ end
 
 
 
-if **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)
+if( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)) then
 
 
 >**Loremaster Borannin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
@@ -66,7 +66,7 @@ if **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)
 
  **You receive:**  [Runed Coldain Prayer Shawl](/item/1199) 
 
-elseif **You turn in:** [Frost Giant Toes](/item/29125), [Frost Giant Toes](/item/29125), [Frost Giant Toes](/item/29125), [Frost Giant Toes](/item/29125)
+elseif( **You turn in:** [Frost Giant Toes](/item/29125), [Frost Giant Toes](/item/29125), [Frost Giant Toes](/item/29125), [Frost Giant Toes](/item/29125)) then 
 
 
 >**Loremaster Borannin says:** Ahh, well done! On behalf of the Dain I thank you for making a dent in the number of our sworn enemy. Please accept this as a token of our appreciation. It is trivial, I know, but if you are as loyal as you claim to be, it will increase in power over time. It just so happens I have a [task] to further demonstrate your loyalty, Soandso.
@@ -77,7 +77,7 @@ ColdainFaction(e);
 
  **You receive:**  [Burlap Coldain Prayer Shawl](/item/1175) (+10000 exp)
 
-elseif **You turn in:** [Burlap Coldain Prayer Shawl](/item/1175), [Preserved Kromrif Heads](/item/1174)
+elseif( **You turn in:** [Burlap Coldain Prayer Shawl](/item/1175), [Preserved Kromrif Heads](/item/1174)) then 
 
 
 >**Loremaster Borannin says:** Ahh, some fine specimens indeed, Soandso. I will have the best of these mounted at once, wish me luck in the contest! Here is the Cloth Prayer Shawl of our people. Before I forget, the council has issued yet another [chore] for you to complete.
@@ -88,7 +88,7 @@ ColdainFaction(e);
 
  **You receive:**  [Cloth Coldain Prayer Shawl](/item/1176) (+25000 exp)
 
-elseif **You turn in:** [Cloth Coldain Prayer Shawl](/item/1176), [Seal of Thoridain](/item/1422)
+elseif( **You turn in:** [Cloth Coldain Prayer Shawl](/item/1176), [Seal of Thoridain](/item/1422)) then 
 
 
 >**Loremaster Borannin says:** Well done, Soandso, the council will be impressed with your effort. Here is the woven prayer shawl, wear it with pride. I know there is talk of great plans for you, be sure to come back and ask me what the council has [brewing].
@@ -97,9 +97,9 @@ elseif **You turn in:** [Cloth Coldain Prayer Shawl](/item/1176), [Seal of Thori
 ColdainFaction(e);
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Seal of Thoridain](/item/1422), [Woven Coldain Prayer Shawl](/item/1177)) (+50000 exp)
 
-elseif **You turn in:** [Woven Coldain Prayer Shawl](/item/1177), [Taniks note](/item/1560)
+elseif( **You turn in:** [Woven Coldain Prayer Shawl](/item/1177), [Taniks note](/item/1560)) then 
 
 
 >**Loremaster Borannin says:** Words cannot express our gratitude for your deeds outlander, you have saved a hero of our people from certain death. Please accept this, the Fur-lined shawl, as a token of our sincere appreciation. You are indeed among the most highly regarded " .. e.other:Race() .. "s to set foot in Thurgadin. The next time we meet be sure to ask me how to further advance your reputation with the coldain.

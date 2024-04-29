@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Legion Order](/item/18241), [A Quill](/item/13051)
+if( **You turn in:** [Legion Order](/item/18241), [A Quill](/item/13051)) then 
 
 
 >*Trooper Fryp signs the order and hands it back to you. 'Well... At least I now have this fancy writing quill.'*

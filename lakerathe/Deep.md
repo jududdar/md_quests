@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Trunt's Head](/item/1686)
+if( **You turn in:** [Trunt's Head](/item/1686)) then 
 
 
 >*Deep slowly opens her eyes and looks up at you. She stares at you a long while and then closes her eyes and lowers her head again.*

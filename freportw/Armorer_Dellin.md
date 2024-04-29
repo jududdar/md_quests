@@ -13,7 +13,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Militia Armory Token](/item/12273)
+if **Faction** >= Amiable and  **You turn in:** [Militia Armory Token](/item/12273)) then
 
 
 >**Armorer Dellin says:** Welcome to the Freeport Militia. As a reserve member we require you to wear this tunic and fight when, who and wherever Sir Lucan commands, no questions asked!! There is no turning back!! Remember to keep clear of North Freeport. You have made a wise decision. Hail Sir Lucan!!

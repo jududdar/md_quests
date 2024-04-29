@@ -187,7 +187,7 @@ end
 
 
 
-if ( escortDone and  **You turn in:** [Strand of Nightmare](/item/16261)
+if ( escortDone and  **You turn in:** [Strand of Nightmare](/item/16261) ) then 
 
 
 >**Aid Eino says:** Excellent!  You and your companions have served me well, take my mark as a symbol of trust.  The Council may smile more favorably upon you now.  May Quellious watch over you!

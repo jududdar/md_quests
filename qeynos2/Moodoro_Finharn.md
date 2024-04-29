@@ -88,7 +88,7 @@ if(e.signal == 1) then
 
 
 
-if **You turn in:** [Eruds Tonic](/item/13118)
+if( **You turn in:** [Eruds Tonic](/item/13118)) then
 
 
 >**Moodoro Finharn says:** Oh thank the maker you have returned. Here is a little something in return
@@ -111,7 +111,7 @@ if **You turn in:** [Eruds Tonic](/item/13118)
 
 e.other:QuestReward(0,0,0,0,0,0);
 
-elseif **You turn in:** [Jester](/item/13994)
+elseif( **You turn in:** [Jester](/item/13994)) then
 
 
 >**Moodoro Finharn says:** Lucky you. We were hoping to really clean you out. Here you go. Take the page. Even together, the book is nothing more than fiction.
@@ -119,7 +119,7 @@ elseif **You turn in:** [Jester](/item/13994)
 
  **You receive:**  [Page 34 of a Book](/item/13836) 
 
-elseif **You turn in:** gold = 4
+elseif( **You turn in:** gold = 4) then
 
 
 >**Moodoro Finharn says:** Well, what do you have?!!
@@ -127,7 +127,7 @@ elseif **You turn in:** gold = 4
 
  **You receive:** eq.ChooseRandom( [Jester](/item/13994), [Queen](/item/13993), [King](/item/13992), [Knight](/item/13995)) 
 
-elseif **You turn in:** gold = 2
+elseif( **You turn in:** gold = 2) then
 
 
 >**Moodoro Finharn says:** HA!! I hope you enjoy the book. It is missing pages 30 and 34. It is nothing more than garbage without them. A rogue ripped them from their bindings and sold them to [Ran].

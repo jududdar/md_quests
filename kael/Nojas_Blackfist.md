@@ -131,7 +131,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Wings of a Sifaye Knight](/item/25112), [Sifaye Head](/item/25113), [Sifaye Head](/item/25113), [Sifaye Head](/item/25113)
+if **Faction** >= Amiable and  **You turn in:** [Wings of a Sifaye Knight](/item/25112), [Sifaye Head](/item/25113), [Sifaye Head](/item/25113), [Sifaye Head](/item/25113)) then
 
 
 >**Nojas Blackfist says:** Congratulations, slayer of tiny beasts. Take this living tattoe for your troubles.  If you wish to continue to serve me, find a way to capture more noble sifaye... alive.

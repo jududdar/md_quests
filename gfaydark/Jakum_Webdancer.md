@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [A Bardic Letter (Kelethin)](/item/18161)
+if( **You turn in:** [A Bardic Letter (Kelethin)](/item/18161)) then
 
 
 
@@ -42,7 +42,7 @@ if **You turn in:** [A Bardic Letter (Kelethin)](/item/18161)
 
 
 
-elseif **You turn in:** [A Bardic Letter (Kelethin)](/item/18160)
+elseif( **You turn in:** [A Bardic Letter (Kelethin)](/item/18160)) then  
 
 
 >**Jakum Webdancer says:** More mail - you have done us a noteworthy service!  Please take this gold for your troubles.  If you are interested in more work, just ask Idia.
@@ -68,7 +68,7 @@ elseif **You turn in:** [A Bardic Letter (Kelethin)](/item/18160)
 
 
 
-elseif **You turn in:** [A Bardic Letter (Kelethin)](/item/18162)
+elseif( **You turn in:** [A Bardic Letter (Kelethin)](/item/18162)) then  
 
 
 >**Jakum Webdancer says:** More mail - you have done us a noteworthy service!  Please take this gold for your troubles.  If you are interested in more work, just ask Idia.
@@ -94,7 +94,7 @@ elseif **You turn in:** [A Bardic Letter (Kelethin)](/item/18162)
 
 
 
-elseif **You turn in:** [A Bardic Letter (Kelethin)](/item/18163)
+elseif( **You turn in:** [A Bardic Letter (Kelethin)](/item/18163)) then  
 
 
 >**Jakum Webdancer says:** More mail - you have done us a noteworthy service!  Please take this gold for your troubles.  If you are interested in more work, just ask Idia.

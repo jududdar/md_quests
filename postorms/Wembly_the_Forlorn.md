@@ -73,7 +73,7 @@ end
 
 
 
-if **You turn in:** [Quarter of a Diaku Emblem](/item/29216), [Quarter of a Diaku Emblem](/item/29217), [Quarter of a Diaku Emblem](/item/29218), [Quarter of a Diaku Emblem](/item/29219)
+if( **You turn in:** [Quarter of a Diaku Emblem](/item/29216), [Quarter of a Diaku Emblem](/item/29217), [Quarter of a Diaku Emblem](/item/29218), [Quarter of a Diaku Emblem](/item/29219)) then
 
 
 
@@ -95,72 +95,8 @@ if (  **Faction is** >= Amiable ) then
 
 
 
+ **You receive:**  [Completed Diaku Emblem](/item/29215) (+150000 exp)
 
-
-
-
-
-
-
-
-
-
-
-
-local group = e.other:GetGroup();
-
-
-
-if ( group and group:GroupCount() > 0 ) then
-
-
-
-
-for i = 0, 5 do
-
-
-
-
-
-local member = group:GetMember(i):CastToClient();
-
-
-
-
-
-
-if ( member.valid ) then
-
-
-
-
-
-
-member:QuestReward(e.self,{itemid = 29215,exp = 150000});
-
-
-
-
-
-
-
-
-
-
-else
-
-
-
-]]
-
-
-
-
- **You receive:** None 
-
-
-
--
 
 
 

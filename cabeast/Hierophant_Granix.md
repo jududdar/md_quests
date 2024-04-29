@@ -91,7 +91,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Dusty Iksar Skull](/item/30984)
+if **Faction** >= Amiable and  **You turn in:** [A Dusty Iksar Skull](/item/30984))  then
 
 
 >*Hierophant Granix peers at the skull intently. 'There is strange magic in this skull Soandso, whatever necromancer animated this skeleton was a powerful warlock indeed. I sense the power of several ancients in this relic. Take this skull to Oracle Qulin in the field of bone, he may be able to perform the ritual which will free this ancient's spirit from the mortal realm.'*
@@ -103,7 +103,7 @@ if **Faction** >= Amiable and  **You turn in:** [A Dusty Iksar Skull](/item/3098
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Note to Granix](/item/30986)
+elseif **Faction** >= Amiable and  **You turn in:** [Note to Granix](/item/30986)) then
 
 
 >**Hierophant Granix says:** It is as I feared, the mark of the warlock has surely driven these ancient spirits mad. We can not allow these spirits to roam free in our world Soandso. Take this case and place the glowing skulls of other ancients inside of it. Return it to me with your Cudgel of the Heirophant so that we may remove these cursed spirits from our world forcefully.
@@ -115,7 +115,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Note to Granix](/item/30986
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Filled Ornate Skull Case](/item/30988), [Iron Cudgel of the Hierophant](/item/5146)
+elseif **Faction** >= Amiable and  **You turn in:** [A Filled Ornate Skull Case](/item/30988), [Iron Cudgel of the Hierophant](/item/5146)) then
 
 
 >**Hierophant Granix says:** You have done well Soandso. Perhaps you can help clear these troubling dreams from my tired aging mind. Commune with the spirits of our Ancestors and learn from them. Never forget that the ultimate power comes from knowledge. The ancients are privy to much knowledge that mortals will never see. Should you be granted enlightenment from our ancestors, share your knowledge with me so that we may use this knowledge for the benefit of our brethren. I will continue to study the [dreams] that [cloud] my mind.

@@ -217,15 +217,15 @@ end
 
 
 
-if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
+if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**Merchant Ahlam says:** Ah good I was hoping you'd be along soon. I need you to collect some Gravel tea leaves from below the city. I need these leaves to make some tea for the guards under the arena. I need 10 of these leaves to brew enough tea for the guards. Take this pouch and fill it with leaves and return it to me.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [An Empty Pouch](/item/17098)) 
 
-elseif **You turn in:** [Pouch of Gravel tea leaves](/item/31764)
+elseif( **You turn in:** [Pouch of Gravel tea leaves](/item/31764)) then
 
 
 >**Merchant Ahlam says:** Many thanks Soandso, I'll be going to brew this tea up for the guards now. Take this seal as proof of your helping me. You wouldn't happen to know anyone who would be [interested] in learning the art of Vah Shir Brewing would you? I could really use the help in these hard times, I can barely keep up with all the demand.
@@ -233,7 +233,7 @@ elseif **You turn in:** [Pouch of Gravel tea leaves](/item/31764)
 
  **You receive:**  [Ahlam's seal](/item/31774) 
 
-elseif **You turn in:** [Ahlam's seal](/item/31774)
+elseif( **You turn in:** [Ahlam's seal](/item/31774)) then
 
 
 >**Merchant Ahlam says:** Well done, it is now time to start down the path of learning the art of Vah Shir brewing. You'll need a steady hand if you are to master the brew barrel. The first thing you'll need to learn is how to purify the water we use for all our finest brews. Take this Acrylia filter and use it to [purify water]. Bring me 4 flasks of crystal clear water and I'll teach you how to make the tea from the gravel tea leaves.
@@ -241,7 +241,7 @@ elseif **You turn in:** [Ahlam's seal](/item/31774)
 
  **You receive:**  [Acrylia sand purifier](/item/31760) 
 
-elseif **You turn in:** [Crystal clear water](/item/31762), [Crystal clear water](/item/31762), [Crystal clear water](/item/31762), [Crystal clear water](/item/31762)
+elseif( **You turn in:** [Crystal clear water](/item/31762), [Crystal clear water](/item/31762), [Crystal clear water](/item/31762), [Crystal clear water](/item/31762)) then
 
 
 >**Merchant Ahlam says:** Very good Soandso, this water is perfect for making Gravel leaf tea. I've just received a message from Guard Jabbar under the arena needs a shipment of [Gravel leaf tea] to help sedate the prisoners. Fill a crate with bottles of Gravel leaf tea and take it to Guard Jabbar.
@@ -249,7 +249,7 @@ elseif **You turn in:** [Crystal clear water](/item/31762), [Crystal clear water
 
  **You receive:**  [An Empty Crate](/item/17099) 
 
-elseif **You turn in:** [Jabbar's seal](/item/31775)
+elseif( **You turn in:** [Jabbar's seal](/item/31775)) then
 
 
 >**Merchant Ahlam says:** Very good Soandso, the guards had been waiting for that tea all day. I think you're ready to move on to something a bit more challenging now. Take this strainer, it will allow you to create some very potent brews from some of the more rare herbs to be found near the city. You'll want to start by making some [Hollow palm tea] to get used to how the strainer works.
@@ -257,7 +257,7 @@ elseif **You turn in:** [Jabbar's seal](/item/31775)
 
  **You receive:**  [Metal Strainer](/item/31768) (+2000 exp)
 
-elseif **You turn in:** [Hollow palm tea](/item/31769), [Metal Strainer](/item/31768)
+elseif( **You turn in:** [Hollow palm tea](/item/31769), [Metal Strainer](/item/31768)) then
 
 
 >*Merchant Ahlam sips the tea. A bit of a glazed look comes across his face. Ahlam says, 'Mmmmm, I do so love Hollow palm tea. This is a bit mild for Hollow palm tea though, you might want to try adding some spices next time for a bit more flavor. Here's your strainer back, I etched some runes into that should add to the potency of your brews. I hear the grimlings make a very potent sort of tea from the grimroot out in the forest, but the thought of drinking anything made from grimroot makes my stomach churn. At any rate, tinker a bit with that strainer and don't be afraid of trying some new brews with it. If you create anything interesting that you think I might like bring it to me so I can taste it.'*
@@ -265,7 +265,7 @@ elseif **You turn in:** [Hollow palm tea](/item/31769), [Metal Strainer](/item/3
 
  **You receive:**  [Runed Metal strainer](/item/31771) (+2000 exp)
 
-elseif **You turn in:** [Spiced Grimroot Tea](/item/31772)
+elseif( **You turn in:** [Spiced Grimroot Tea](/item/31772)) then
 
 
 >**Merchant Ahlam says:** Great job, here is my seal of approval.  Hand that back in along with your stainer for an upgrade.
@@ -273,12 +273,12 @@ elseif **You turn in:** [Spiced Grimroot Tea](/item/31772)
 
  **You receive:**  [Ahlam's Approval](/item/31776) 
 
-elseif **You turn in:** [Ahlam's Approval](/item/31776), [Runed Metal strainer](/item/31771)
+elseif( **You turn in:** [Ahlam's Approval](/item/31776), [Runed Metal strainer](/item/31771)) then
 
 
 >**Merchant Ahlam says:** Here is the Acrylia Handled Strainer.  Use it with regular water to replace the crystal clear water.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Ahlam's Approval](/item/31776), [Acrylia Handled Strainer](/item/31777)) (+2000 exp)
 
 **This NPC *should* return incorrect items given.**

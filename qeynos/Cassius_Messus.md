@@ -66,7 +66,7 @@ end
 
 
 
-if **You turn in:** [Note To Cassius](/item/18803)
+if( **You turn in:** [Note To Cassius](/item/18803)) then
 
 
 >**Cassius Messus says:** Thank you! I am in your debt. Here is the songsheet as I promised. I shall sing of you one day.
@@ -87,7 +87,7 @@ if **You turn in:** [Note To Cassius](/item/18803)
 * __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Song: Hymn of Restoration](/item/15007) (+100 exp)
  
 
 item_lib.return_items(e.self, e.other, e.trade, e.text)

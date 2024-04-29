@@ -83,7 +83,7 @@ end
 
 
 
-if **You turn in:** [A tattered flier](/item/18818)
+if( **You turn in:** [A tattered flier](/item/18818)) then 
 
 
 >**Kalatrina Plossen says:** Zimel's Blades?! Hmmmmm. It doesn't ring a bell and the remainder of the writing is too hard to make out. It kind of looks like a list of prices. You know, down at the Office of the People they might be able to tell us if this place exists. Go speak with Rashinda. She knows all about Freeport. If [Zimel's Blades] existed, you must report back to me what happened to it.

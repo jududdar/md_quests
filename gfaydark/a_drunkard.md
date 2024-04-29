@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Elven Wine](/item/13035)
+if( **You turn in:** [Elven Wine](/item/13035)) then
 
 
 >**a drunkard says:** Thank you kind sir <hic>, I am most grateful for your generosity.
@@ -40,7 +40,7 @@ if **You turn in:** [Elven Wine](/item/13035)
 
  **You receive:** 0 (+150 exp)
 
-elseif **You turn in:** [Dull Pearl Necklace](/item/13347), [Dull Pearl Necklace](/item/13349), [Dull Pearl Necklace](/item/13348), [Dull Pearl Necklace](/item/13350)
+elseif( **You turn in:** [Dull Pearl Necklace](/item/13347), [Dull Pearl Necklace](/item/13349), [Dull Pearl Necklace](/item/13348), [Dull Pearl Necklace](/item/13350)) then
 
 
 >**a drunkard says:** This is a sad day, but it was the just thing to do. The Nybright name will no longer be tarnished. Here you are my friend. This is a bit uncared for, but it is yours. My warrior days are over. Now go. I must be alone.

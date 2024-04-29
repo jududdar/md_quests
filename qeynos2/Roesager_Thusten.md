@@ -134,7 +134,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [A Sealed Letter](/item/18802)
+if **Faction** >= Dubious and  **You turn in:** [A Sealed Letter](/item/18802)) then 
 
 
 >**Roesager Thusten says:** Rodcet be praised!! This is what we have been searching for! On behalf of the Temple of Life, let me thank you and offer you this small reward for your aid in our war against the Plaguebringer.

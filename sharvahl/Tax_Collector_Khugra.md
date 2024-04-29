@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Certificate of Taxability](/item/2874)
+if( **You turn in:** [Certificate of Taxability](/item/2874)) then
 
 
 >*Tax Collector Khugra places his seal on the certificate before returning it to you.*

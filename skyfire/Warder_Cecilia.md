@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [An Assembled Pearlescent Shard](/item/24996)
+if( **You turn in:** [An Assembled Pearlescent Shard](/item/24996)) then 
 
 
  **You receive:**  [Pearlescent Seal](/item/24997) 

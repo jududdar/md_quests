@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Empty Vial](/item/13375)
+if( **You turn in:** [Empty Vial](/item/13375)) then
 
 
 >**Forager Grik says:** Grrrikk.. This is Groak's vial!! He must be in danger. Here. Return this liquid to him. Be quick!

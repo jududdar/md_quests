@@ -50,7 +50,7 @@ local text = "drinks the ale as if it were a shot. 'Ahhh!! Keep it coming. I thi
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Stein](/item/12862)
+if **Faction** >= Amiable and  **You turn in:** [A Stein](/item/12862)) then
 
 
 
@@ -60,7 +60,7 @@ if **Faction** >= Amiable and  **You turn in:** [A Stein](/item/12862)
  **You receive:**  [Foot of Candlestick](/item/12852) 
 
 
-elseif **You turn in:** [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609)
+elseif( **You turn in:** [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609)) then
 
 
 >*Grype swallows the whole bottle in one gulp. 'Here, go buy yourself a brain. What?!! You expecting something? How about this.. <BUUURRRPPPP!!> Thanks for helping me get through my dry spell, croak!! Never mess with a Blue Talon!!*

@@ -88,7 +88,7 @@ end
 
 
 
-if **You turn in:** [Dwarf Skull](/item/12137)
+if( **You turn in:** [Dwarf Skull](/item/12137)) then
 
 
 >**Lord Grimrot says:** The head for my commander. Let us see. I have a body ready for it. There. Hahahaha!! As for your fine work, take this. Also, I believe you can help me find my beloved [Arlena].
@@ -112,7 +112,7 @@ if **You turn in:** [Dwarf Skull](/item/12137)
  **You receive:** 0 (+0 exp)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Raw-hide Skullcap](/item/2137), [Raw-hide Mask](/item/2138), [Raw-hide Gorget](/item/2139), [Raw-hide Tunic](/item/2140), [Raw-hide Shoulderpads](/item/2141), [Raw-hide Cloak](/item/2142), [Raw-hide Belt](/item/2143), [Raw-hide Sleeves](/item/2144), [Raw-hide Wristbands](/item/2145), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Raw-hide Boots](/item/2148)) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 

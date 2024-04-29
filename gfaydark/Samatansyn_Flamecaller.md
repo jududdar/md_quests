@@ -141,7 +141,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Master Crushbone Cell Key](/item/27539), [Orc Eye](/item/13266), [Orc Eye](/item/13266)
+if(expansion_flag >= 4.0 and  **You turn in:** [Master Crushbone Cell Key](/item/27539), [Orc Eye](/item/13266), [Orc Eye](/item/13266)) then 
 
 
 >**Samatansyn Flamecaller says:** Well done, Soandso! Now we will be able to free more of our brothers and sisters from the orcs! Take this, as promised, a fine weapon with which to slay more orcs!!

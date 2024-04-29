@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Serrated Wire](/item/14812)
+if( **You turn in:** [Serrated Wire](/item/14812)) then
 
 
 >*an Iksar prisoner  takes the wire and quickly saws through the rusted shackles. He hands you an icon and says as he runs off, 'Show that to the Arch Duke in Cabilis! He will reward you. Now I'm off to escape!'*

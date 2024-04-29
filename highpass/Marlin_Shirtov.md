@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Silk Evening Tunic](/item/13352)
+if( **You turn in:** [Silk Evening Tunic](/item/13352)) then 
 
 
 >**Marlin Shirtov says:** Ahh!! The silk evening tunic. Mistress Anna will look stunning in this. Here is the key to Princess Lenya's cell. Good luck, hero!

@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [Vaniki's Heart](/item/26033), [Zlandicar's Heart](/item/26009)
+if( **You turn in:** [Vaniki's Heart](/item/26033), [Zlandicar's Heart](/item/26009)) then
 
 
 >**Neb says:** Ika Paebala ma ri skasha, Neb\`ri mi re skashi! The Paebala are joyful, Neb is joyful! Misu na tona Vaniki esa Zlandicar, no re Paebala soka mora Chetari, ika tu. With the death of Vaniki and Zlandicar, the Paebala can conquer the Chetari, and rule! Mika na so kaka rika, ug boro Neb\`ri, ek val Vaniki ushta. Take this, it is Neb's fighting bone, and here, this key I took from Vaniki.
@@ -65,6 +65,6 @@ if **You turn in:** [Vaniki's Heart](/item/26033), [Zlandicar's Heart](/item/260
 * __Faction:__ [Zlandicar](/faction/464) (-10)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Jaled Dar's Tomb Key](/item/28060), [Neb's Warbone](/item/26040)) (+25000 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -43,7 +43,7 @@ local text2 = "I now require all deliveries of Scrap Metal to be in loads of fou
 
 
 
-if **You turn in:** [Scrap Metal](/item/13198), [Scrap Metal](/item/13198), [Scrap Metal](/item/13198), [Scrap Metal](/item/13198)
+if( **You turn in:** [Scrap Metal](/item/13198), [Scrap Metal](/item/13198), [Scrap Metal](/item/13198), [Scrap Metal](/item/13198)) then 
 
 
 >**Sanfyrd Featherhead says:** Grand! We always need more scraps to melt down. Here you are, then... Some coins for supporting Ak'Anon and a salvaged item from the scrapyard.
@@ -64,9 +64,9 @@ if **You turn in:** [Scrap Metal](/item/13198), [Scrap Metal](/item/13198), [Scr
 * __Faction:__ [Clan Grikbar](/faction/1604) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Rusty Short Sword](/item/5013), [Hematite](/item/10018), [Rusty Axe](/item/5014), [Chunk of Metal Ore](/item/10060), [Small Raw-hide Leggings](/item/2159), [Rusty Scythe](/item/5015), [Rusty Morning Star](/item/6016), [Purse](/item/17009), [Rusty Broad Sword](/item/5016), [Small Buckler](/item/9009), [Rusty Shortened Spear](/item/7010), [Rusty Long Sword](/item/5019), [Rusty Spear](/item/7009), [Rusty Battle Axe](/item/5020), [Rusty Two Handed Sword](/item/5023), [Gnome Glow Rod](/item/12340), [Gnome Glow Rod](/item/12340), [Tinmizer's Stupendous Contraption](/item/17033), [Large Lantern](/item/13004), [Minotaur Horn](/item/13077), [Forging Hammer](/item/6027)) (+200 exp)
 
-elseif **You turn in:** [Bundle of Super Conductive Wires](/item/9426), [Gold tipped boar horn](/item/28618), [Shard of Pure Energy](/item/29906), [Silicorrosive Grease](/item/28165)
+elseif( **You turn in:** [Bundle of Super Conductive Wires](/item/9426), [Gold tipped boar horn](/item/28618), [Shard of Pure Energy](/item/29906), [Silicorrosive Grease](/item/28165)) then 
 
 
 >**Sanfyrd Featherhead says:** Wow! I see my nephew finally read my list of items. I also see he is not delivering them himself, he is too young to bind himself to the library like that. These items should help me in my research to upgrade the scrapyard. Here let me pen a note to him so you can take it back to him.
@@ -74,7 +74,7 @@ elseif **You turn in:** [Bundle of Super Conductive Wires](/item/9426), [Gold ti
 
  **You receive:**  [Note to Fimli](/item/15980) (+1000 exp)
 
-elseif **You turn in:** [A Crate of Tonic](/item/12336)
+elseif( **You turn in:** [A Crate of Tonic](/item/12336)) then
 
 
 >**Sanfyrd Featherhead says:** Huzzah!! You are my friend. Now you can take my old toupee and get it repaired. Just go to Freeport and ask Ping to [repair the toupee]. Hey!! You know what? He is the guy who sells the hair tonic!! I remember now. Well,.. Get my toupee repaired and I will give you the fairie wing.
@@ -82,7 +82,7 @@ elseif **You turn in:** [A Crate of Tonic](/item/12336)
 
  **You receive:**  [A Tattered Toupee](/item/12337) 
 
-elseif **You turn in:** [Mane Attraction](/item/12254)
+elseif( **You turn in:** [Mane Attraction](/item/12254)) then
 
 
 >**Sanfyrd Featherhead says:** Double Huzzah!! You are a good friend Soandso. Now mayhaps I shall find myself a wife. Here pal, the fairy wing. I hope it can give you a great head of hair. You need it.
@@ -90,7 +90,7 @@ elseif **You turn in:** [Mane Attraction](/item/12254)
 
  **You receive:**  [A Glimmering Fairie Wing](/item/12339) 
 
-elseif **You turn in:** [Scrap Metal](/item/13216), [Scrap Metal](/item/13217)
+elseif( **You turn in:** [Scrap Metal](/item/13216), [Scrap Metal](/item/13217)) then
 
 
 >**Sanfyrd Featherhead says:** Good. The citizens of Ak'Anon are safe from those little critters. They may have injured someone; that is why they are deactivated. Here is something I found in the scrapyard. I hope you can find a purpose for it.
@@ -111,6 +111,6 @@ elseif **You turn in:** [Scrap Metal](/item/13216), [Scrap Metal](/item/13217)
 * __Faction:__ [Clan Grikbar](/faction/1604) (-1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bootstrutter's Framed Pack](/item/17981), [Bootstrutter's Framed Pack](/item/17981), [Forging Hammer](/item/6027)) (+250 exp)
 
 **This NPC *should* return incorrect items given.**

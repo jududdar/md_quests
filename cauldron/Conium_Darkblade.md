@@ -33,7 +33,7 @@ end
 local text = "There shall be no wasp venom until three giant wasp venom sacs and 30 gold coins cross my palm."
 
 
-if **You turn in:** [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](/item/13260),gold = 30
+if( **You turn in:** [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](/item/13260),gold = 30) then
 
 
 >**Conium Darkblade says:** Take the giant wasp venom. Good or evil it is not. That is up to you.
@@ -41,7 +41,7 @@ if **You turn in:** [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](
 
  **You receive:**  [Giant Wasp Venom](/item/14024) (+500 exp)
 
-elseif **You turn in:** [a sealed note](/item/18955)
+elseif( **You turn in:** [a sealed note](/item/18955)) then
 
 
 >**Conium Darkblade says:** So Lon has sworn allegiance to a temple. What a fool, but he is a skilled fool. My word is my bond and if he asks for the gem, then so be it. Unfortunately I traded it for a much-needed axe. It was in the middle of a dungeon and... well, that is a long story. If you want to get the gem, take this axe back to the [one who once owned it].

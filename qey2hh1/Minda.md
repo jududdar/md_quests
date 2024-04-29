@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [A Full Chalice](/item/12103)
+if( **You turn in:** [A Full Chalice](/item/12103)) then
 
 
 >**Minda says:** May the Rainkeeper keep you safe. I thank you. Here is the empty chalice. By the way, inform your superior that the operations of the [Karana bandits] are getting closer to Qeynos.

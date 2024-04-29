@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Ancient Pottery](/item/5852), [Fossilized Skull](/item/5853), [Mark of the Naturalist](/item/5851), [Sun Jewel](/item/4488)
+if( **You turn in:** [Ancient Pottery](/item/5852), [Fossilized Skull](/item/5853), [Mark of the Naturalist](/item/5851), [Sun Jewel](/item/4488)) then 
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Axe](/item/3958) (+25000 exp)
 
-elseif **You turn in:** [Gilded Steel Rod](/item/5695), [Mark of Timber](/item/5694), [Star Jewel](/item/4490)
+elseif( **You turn in:** [Gilded Steel Rod](/item/5695), [Mark of Timber](/item/5694), [Star Jewel](/item/4490)) then 
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Boots](/item/3952) (+25000 exp)
 
-elseif **You turn in:** [Lightning Dust](/item/5693), [Mark of Lakes](/item/5692), [Moon Jewel](/item/4489)
+elseif( **You turn in:** [Lightning Dust](/item/5693), [Mark of Lakes](/item/5692), [Moon Jewel](/item/4489)) then 
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Bracer](/item/3951) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Cat Skin Pouch](/item/5689), [Mark of Oceans](/item/5687), [Pouch of Fire Stones](/item/5688)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Cat Skin Pouch](/item/5689), [Mark of Oceans](/item/5687), [Pouch of Fire Stones](/item/5688)) then 
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Greaves](/item/3949) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Frost Covered Leaf](/item/5679), [Mark of Leaves](/item/5678), [Sea Grass](/item/5680)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Frost Covered Leaf](/item/5679), [Mark of Leaves](/item/5678), [Sea Grass](/item/5680)) then 
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Coif](/item/3946) (+25000 exp)
 
-elseif **You turn in:** [Frozen Vial](/item/5682), [Mark of Forests](/item/5681), [Sky Jewel](/item/4492), [Tro Jeg Brain](/item/5683)
+elseif( **You turn in:** [Frozen Vial](/item/5682), [Mark of Forests](/item/5681), [Sky Jewel](/item/4492), [Tro Jeg Brain](/item/5683)) then 
 
 
 FactionReward(e)
@@ -118,7 +118,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Mail](/item/3947) (+25000 exp)
 
-elseif **You turn in:** [Mark of Mountains](/item/5684), [Meteor Jewel](/item/4493), [Solstice Rune](/item/5686), [Tro Jeg Eye](/item/5685)
+elseif( **You turn in:** [Mark of Mountains](/item/5684), [Meteor Jewel](/item/4493), [Solstice Rune](/item/5686), [Tro Jeg Eye](/item/5685)) then 
 
 
 FactionReward(e)

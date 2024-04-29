@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [A Deepspore](/item/32400), [A Deepspore](/item/32400), [A Deepspore](/item/32400), [A Deepspore](/item/32400)
+if( **You turn in:** [A Deepspore](/item/32400), [A Deepspore](/item/32400), [A Deepspore](/item/32400), [A Deepspore](/item/32400)) then
 
 
 >*Deklean Korgad eyes the spores hungrily. He shoves them all in his pockets and looks at you. 'I appreciate that friend, you've proven yourself worth a bit of trust. I hate to take the mushrooms and run, but I have to get across the [chasm] soon. Here take this, thanks for the mushrooms!'*

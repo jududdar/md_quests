@@ -131,7 +131,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Larkin Tolman's Head](/item/20204)
+if(expansion_flag >= 4.0 and  **You turn in:** [Larkin Tolman's Head](/item/20204)) then
 
 
 >**Bruax Grengar says:** Well done. The Bloodsabers have many enemies within the city of Qeynos and its surrounding regions. You must exercise much caution when not within the safety of our temple here in the Qeynos Catacombs. Take this Rough Bloodsaber Staff and when you have gathered a Giant King Snake Skin, two Gnoll Fangs, and a Giant Fire Beetle Eye, return them to me with this staff and I will complete its construction.
@@ -154,7 +154,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Larkin Tolman's Head](/item/2020
 
  **You receive:**  [Rough Bloodsaber Staff](/item/20203) (+500 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Gnoll Fang](/item/13915), [Rough Bloodsaber Staff](/item/20203), [Giant King Snake Skin](/item/19946), [Giant Fire Beetle Eye](/item/13251)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Gnoll Fang](/item/13915), [Rough Bloodsaber Staff](/item/20203), [Giant King Snake Skin](/item/19946), [Giant Fire Beetle Eye](/item/13251)) then
 
 
 >*Bruax Grengar smooths the shaft of the staff, fashions a grip from the giant king snake skin, secures the giant fire beetle eye in a metal fixture and attaches it to the top of the staff. 'Here is your Staff of the Bloodsabers young Scourge Sorcerer. Go now and spread the disease!*

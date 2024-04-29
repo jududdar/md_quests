@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Iksar Skull](/item/12764)
+if( **You turn in:** [Iksar Skull](/item/12764)) then
 
 
 **Atheling Plague shouts:** <span class="text-danger">Excellent. You show signs of a true Iksar slayer. Too, bad I have already given the skull of the Sister of Scale to another. Perhaps you would like to meet him before he departs. Say hello, Doval.</span>

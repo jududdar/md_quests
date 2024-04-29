@@ -31,7 +31,7 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Battle Worn Trinket](/item/26710), [Tornado Gem](/item/9424), [Intermediate Magic Manual](/item/28796)
+if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Battle Worn Trinket](/item/26710), [Tornado Gem](/item/9424), [Intermediate Magic Manual](/item/28796)) then
 
 
 >**Zalil Nyvin says:** 'When I saw you walk in the room with these, I nearly fainted. Bravo to you on a job well done. Take this book, may it light your path to day's Say, want to know something else? I hear Tenada Jeried is looking for some more students of your caliber. You may wish to seek him out and see what he has to offer. Just tell him you are interested in learning from him. Bye, Soandso!
@@ -40,6 +40,6 @@ if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Battl
 
 
 
- **You receive:** None 
+ **You receive:**  [Advanced Magic Manual](/item/28797) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

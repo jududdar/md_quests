@@ -114,7 +114,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Request Form](/item/31753)
+if(expansion_flag >= 4.0 and  **You turn in:** [Request Form](/item/31753)) then 
 
 
 >**Issva H-Rugla says:** So you are one of Jarrex's new recruits. You are to assist in the construction of the armor you will don as a new Warrior of the Indigo Brotherhood. I have assembled a kit that is used in the crafting of Orc Slayer Mail. You must travel beyond Neriak into the Nektulos Forest for the [materials] that compose the armor.

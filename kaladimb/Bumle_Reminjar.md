@@ -74,7 +74,7 @@ local text1 = "There is only a reward for the return of four aviak talons.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Aviak Chick Talon](/item/12157), [Aviak Chick Talon](/item/12157), [Aviak Chick Talon](/item/12157), [Aviak Chick Talon](/item/12157)
+if **Faction** >= Amiable and  **You turn in:** [Aviak Chick Talon](/item/12157), [Aviak Chick Talon](/item/12157), [Aviak Chick Talon](/item/12157), [Aviak Chick Talon](/item/12157)) then
 
 
 >**Bumle Reminjar says:** You have done well. Your deeds shall be recorded within our journals. Here, then, is your reward. May you strive to serve us to the full extent of your powers. The [elders] must also die.
@@ -94,7 +94,7 @@ if **Faction** >= Amiable and  **You turn in:** [Aviak Chick Talon](/item/12157)
 
  **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122), [Small Patchwork Pants](/item/2123), [Small Patchwork Boots](/item/2124), [Tarnished Long Sword](/item/5045), [Cast-Iron Warhammer](/item/6041)) (+5000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Aviak Talon](/item/12158), [Aviak Talon](/item/12158), [Aviak Talon](/item/12158), [Aviak Talon](/item/12158)
+elseif **Faction** >= Kindly and  **You turn in:** [Aviak Talon](/item/12158), [Aviak Talon](/item/12158), [Aviak Talon](/item/12158), [Aviak Talon](/item/12158)) then 
 
 
 >**Bumle Reminjar says:** Fine work! You shall be known for your great deeds. Take this and may it aid you in your defense of Kaladim. Hail King Kazon!

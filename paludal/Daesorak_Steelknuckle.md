@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Bag of Rations](/item/4747)
+if( **You turn in:** [Bag of Rations](/item/4747)) then
 
 
 >**Daesorak Steelknuckle says:** Ah these must be from ol Coggo! Ye see I had sent out a few men to gather some new picks an such for the mining operation ere but they haven't returned yet. I'm really in need of some picks that are being held in Katta by a friend of mine. Will you [retrieve the mining picks] for me?
@@ -54,7 +54,7 @@ if **You turn in:** [Bag of Rations](/item/4747)
 
  **You receive:** 0 (+5000 exp)
 
-elseif **You turn in:** [A Bundle of Mining Picks](/item/4755)
+elseif( **You turn in:** [A Bundle of Mining Picks](/item/4755)) then
 
 
 >**Daesorak Steelknuckle says:** Ye did it, Soandso! Ye hear dat, boys? Dis outlander ere jess delivered us our new minin picks! You have no idea how much these supplies will aid our operation! As a final task would you be able to [return a letter] to me wife back home?

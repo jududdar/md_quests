@@ -100,7 +100,7 @@ end
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Note for Ghil](/item/18796)
+if( **Faction is** >= Indifferent and  **You turn in:** [Note for Ghil](/item/18796)) then
 
 
 >**Ghil Starn says:** Ah, good job, Soandso. It's good to know that I can trust you to get the job done. Here, take this for your efforts. This is a pair of gloves that we hand out to some of our more trusted members. Keep up the good work.

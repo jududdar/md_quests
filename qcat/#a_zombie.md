@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [A Tattered Note](/item/18804)
+if( **You turn in:** [A Tattered Note](/item/18804)) then
 
 
 >**a zombie says:** kill me... kill...me

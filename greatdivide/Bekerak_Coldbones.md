@@ -56,7 +56,7 @@ end
 
 
 
-if **You turn in:** [Bekeraks New Spear](/item/25106)
+if( **You turn in:** [Bekeraks New Spear](/item/25106)) then 
 
 
 >**Bekerak Coldbones says:** Well, well, I see Wenglawks finally got around to sending me my new spear. I hope it's not as shoddy as the last one. Your payment? Bahaha, did Wenglawks not tell you? Payment was to be a giant icewurm tooth carved into an amulet. Come now, little one. I will find an ice wurm for us to slay together. Then you can pull one of its teeth out for me and I will fashion the talisman for that greedy merchant.
@@ -64,7 +64,7 @@ if **You turn in:** [Bekeraks New Spear](/item/25106)
 
 **Spawn NPC:**  [\#an angry shardwurm](/npc/118016) at (**y:** -3011, **x:** -2776)
 
-elseif **You turn in:** [Giant Shard Wurm Tooth](/item/25191)
+elseif( **You turn in:** [Giant Shard Wurm Tooth](/item/25191)) then 
 
 
 >*Bekerak Coldbones pulls out a large knife and begins to carve at the tooth. After a few minutes he pulls out a length of rope and fashions it into a very large necklace. 'Here is his payment. Tell him the spear is fine, and that I might reconsider his last offer to me. He will know what I mean.'*
@@ -72,7 +72,7 @@ elseif **You turn in:** [Giant Shard Wurm Tooth](/item/25191)
 
  **You receive:**  [Giant Icewurm Talisman](/item/25130) 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Giant Sack of Supplies](/item/25266)
+elseif **Faction** >= Indifferent and  **You turn in:** [Giant Sack of Supplies](/item/25266)) then 
 
 
 >**Bekerak Coldbones says:** Supplies from Svekk?  Where are the rest of them little one!  There must be more, we are here pushing the Coldain back into their hole in the wall and Svekk sends a " .. e.other:Race() .. " to deliver a small portion of supplies.  Take this note back to that fool.  Leave quickly before I take my rage out upon you.
@@ -94,7 +94,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Giant Sack of Supplies]
 
 Bekerak's Letter to Svekk
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Large Supply Sack for Bekerak](/item/25269)
+elseif **Faction** >= Indifferent and  **You turn in:** [Large Supply Sack for Bekerak](/item/25269)) then 
 
 
 >**Bekerak Coldbones says:** I am in your debt, " .. e.other:Race() .. ".  These supplies will help our effort to destroy the Coldain.  I wish I had more to give than what I do.'  Bekerak pulls a strange looking totem on a string from one of his pockets and hands it to you.  'May Lord Rallos smile upon you, Soandso.'

@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Full Muffin Crate](/item/1839)
+if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
 
 
 >**Hetie McDonald says:** Oh, yes, this is exactly what I needed. These muffins look very fresh too, good work! Here is your payment, as promised. It was a pleasure doing business with you.
@@ -32,9 +32,9 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
+elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
 
 
 >**Hetie McDonald says:** Fresh bread! Thank you so much, I will put this on the shelves straightaway. Here is your payment as promised.
@@ -52,6 +52,6 @@ elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 **This NPC *should* return incorrect items given.**

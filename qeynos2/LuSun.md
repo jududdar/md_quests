@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Note with Fist Insignia](/item/18712)
+if( **You turn in:** [Note with Fist Insignia](/item/18712)) then 
 
 
 >**LuSun says:** Greetings, and welcome to the Silent Fist Clan. Don our guild tunic, purge your mind and soul, and begin your lifelong devotion to the Clan. Brother Esrinap will introduce you to our lifestyle and begin your training. Be sound, allow your spirit to open up and guide you.

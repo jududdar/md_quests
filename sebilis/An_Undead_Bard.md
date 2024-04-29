@@ -58,7 +58,7 @@ end
 
 
 
-if **You turn in:** [Mystical Lute Body](/item/20536)
+if( **You turn in:** [Mystical Lute Body](/item/20536)) then 
 
 
 >**An Undead Bard says:** I feel so powerful once again...a strange feeling is overcoming me!

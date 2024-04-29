@@ -27,7 +27,7 @@ end
 local text = "I require two snake venom sacs and my fee of 20 gold coins before I shall create the snake venom."
 
 
-if **You turn in:** [A Sparkling Sapphire](/item/12353)
+if( **You turn in:** [A Sparkling Sapphire](/item/12353)) then
 
 
 >**Toxdil says:** The gem!! I would notice it's sparkle anywhere!! I cannot believe you are handing it back to me!! What a fool. Here you are fool. You can have this worthless key now.
@@ -35,7 +35,7 @@ if **You turn in:** [A Sparkling Sapphire](/item/12353)
 
  **You receive:**  [A Tiny Key](/item/12351) (+15000 exp)
 
-elseif **You turn in:** [A Snake Venom Sac](/item/14017), [A Snake Venom Sac](/item/14017),gold = 20
+elseif( **You turn in:** [A Snake Venom Sac](/item/14017), [A Snake Venom Sac](/item/14017),gold = 20) then
 
 
 >**Toxdil says:** Here is your snake venom. May you... shall we say... apply it to good use.

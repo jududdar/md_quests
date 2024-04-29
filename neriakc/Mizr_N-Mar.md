@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** gold = 50
+if( **You turn in:** gold = 50) then
 
 
 >**Mizr N-Mar says:** Ahhh - gold. Here is the rune you desire.
@@ -29,7 +29,7 @@ if **You turn in:** gold = 50
 
  **You receive:**  [Rune of Fortune](/item/10531) 
 
-elseif **You turn in:** [Glowing Coin of Tash](/item/10791)
+elseif( **You turn in:** [Glowing Coin of Tash](/item/10791)) then
 
 
 >**Mizr N-Mar says:** Ah - the Coin of Tash - and already enchanted by.. ? Tarn? Very good! I have enchanted it further - you must now take the coin to Raine Beteria in the Library of Erudin to get the final enchantment.

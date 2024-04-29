@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Letter](/item/18842)
+if( **You turn in:** [A Sealed Letter](/item/18842)) then 
 
 
 >**Ambassador K-Ryn says:** Another young warrior. I pray you shall not meet the fate of the last twelve. Here then. Take this report to Mistress Seloxia at once. And stay clear of the Froglok lair called Gukk.

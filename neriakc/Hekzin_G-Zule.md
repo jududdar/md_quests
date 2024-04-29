@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [Bag of Snake Parts](/item/13889)
+if( **You turn in:** [Bag of Snake Parts](/item/13889)) then
 
 
 >**Hekzin G-Zule says:** Fine work for a scrub. Maybe one day you will be able to test this new snakescale armor out. For the moment you shall take the [Dark Shield of Ebon] if you do not own one already.
@@ -78,7 +78,7 @@ if **You turn in:** [Bag of Snake Parts](/item/13889)
 * __Faction:__ [Carson McCabe](/faction/329) (-2)
 
 
- **You receive:** None 
+ **You receive:**  [Dark Shield of Ebon](/item/12258) (+2500 exp)
 
 **This NPC *should* return incorrect items given.**
 

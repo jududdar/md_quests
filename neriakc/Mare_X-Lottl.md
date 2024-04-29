@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Jasper](/item/10020)
+if( **You turn in:** [Jasper](/item/10020)) then 
 
 
 >**Mare X-Lottl says:** Jasper! My one and only love! All right.. That Tayla creature was lost in a game of King's Court with a very important and secret merchant. Belyea will not speak of him but that he was some sort of Baron. He did give me this trinket from his new friend and owner of the half-elf scamp. You keep it. It is worth nothing compared to sweet, beautiful Jasper.
@@ -34,7 +34,7 @@ if **You turn in:** [Jasper](/item/10020)
 
  **You receive:**  [Klok's Seal](/item/1096) 
 
-elseif **You turn in:** gold = 2
+elseif( **You turn in:** gold = 2) then 
 
 
 >**Mare X-Lottl says:** Oooh, yes! I just love a patron with an overabundance of gold.

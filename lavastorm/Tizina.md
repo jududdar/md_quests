@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** gold = 50
+if( **You turn in:** gold = 50) then
 
 
 

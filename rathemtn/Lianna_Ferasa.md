@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Liannas Flute](/item/13899)
+if( **You turn in:** [Liannas Flute](/item/13899)) then
 
 
 >**Lianna Ferasa says:** Thank you for setting his spirit free.  Keep his memory alive with this.

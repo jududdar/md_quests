@@ -80,7 +80,7 @@ end
 local text = "I will not hand Soulfire to you until you hand me the Soulfire hilt, Testimony of Truth, Sword of Faith and the returned note. I require them as [proof of nobility].";
 
 
-if **You turn in:** [Temple Summons](/item/18927)
+if( **You turn in:** [Temple Summons](/item/18927)) then 
 
 
 >**Brother Hayle says:** I am needed!! What am I doing here? I must return to the Temple of Life to commune with the Prime Healer. Rodcet Nife will give me more strength to finish this job. Thank you, young one! Take this key as a reward. Turn it into Tyokan in the temple shop. Safe journey to you!
@@ -114,9 +114,9 @@ if **You turn in:** [Temple Summons](/item/18927)
 
 
 
- **You receive:** None 
+ **You receive:**  [T.O.L. 2020](/item/13306) (+1000 exp)
 
-elseif **You turn in:** [A Sealed Note](/item/18936)
+elseif( **You turn in:** [A Sealed Note](/item/18936)) then 
 
 
 >**Brother Hayle says:** Finally!! I see that Ariska has found a noble knight to retrieve Soulfire. Per Ariska's orders I am not to give Soulfire to you until you can show me [proof of nobility]. You must honor both the Temple of Life as well as the Hall of Truth and to a high degree. Only then shall you hold Soulfire.
@@ -149,7 +149,7 @@ elseif **You turn in:** [A Sealed Note](/item/18936)
 
  **You receive:**  [A Note](/item/18937) (+200 exp)
 
-elseif **You turn in:** [A Note](/item/18937), [Brilliant Sword of Faith](/item/13947), [Testimony](/item/18828), [Glowing Sword Hilt](/item/12197)
+elseif( **You turn in:** [A Note](/item/18937), [Brilliant Sword of Faith](/item/13947), [Testimony](/item/18828), [Glowing Sword Hilt](/item/12197)) then 
 
 
 if **Faction** >= Warmly then 
@@ -190,7 +190,7 @@ if **Faction** >= Warmly then
 
 
 
- **You receive:** None 
+ **You receive:**  [SoulFire](/item/5504) (+10000 exp)
 
 
 

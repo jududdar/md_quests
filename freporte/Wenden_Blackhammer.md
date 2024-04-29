@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Unjeweled Dragon Head Hilt](/item/20668), [Diamond](/item/10037), [Black Sapphire](/item/10036), [Jacinth](/item/10053)
+if( **You turn in:** [Unjeweled Dragon Head Hilt](/item/20668), [Diamond](/item/10037), [Black Sapphire](/item/10036), [Jacinth](/item/10053)) then 
 
 
 >*Wenden Blackhammer begins to fiddle with the hilt, gently pressing the gems into place. It seems to take forever as you watch in silence. Wenden slowly places the last gem in place and gently bends the settings to hold the gems before he hands it back to you. 'That's a very impressive looking hilt there. The material it is made out of seems strangely familiar,' Wenden says as he turns back to his forge and his other work.*
@@ -57,7 +57,7 @@ if **You turn in:** [Unjeweled Dragon Head Hilt](/item/20668), [Diamond](/item/1
 
  **You receive:**  [Jeweled Dragon Head Hilt](/item/20671) (+1000 exp)
 
-elseif **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669), [Rejesiam Ore](/item/20666), [Ball of Everliving Golem](/item/20677)
+elseif( **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669), [Rejesiam Ore](/item/20666), [Ball of Everliving Golem](/item/20677)) then 
 
 
 >*Wenden Blackhammer works his magic with his forge as you have never seen done quite like this. The bending and shaping to repair the hilt is only something a master of his art could even fathom to try. Once the hilt has been cooled in a near by bucket of ice cold water, he checks it for balance and resonance before handing it to you.*
@@ -65,7 +65,7 @@ elseif **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669), [Rejes
 
  **You receive:**  [Finely Crafted Dragon Head Hilt](/item/20672) (+1000 exp)
 
-elseif **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669)
+elseif( **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669)) then
 
 
 >**Wenden Blackhammer says:** Where in the world did you drag that up?!' He peers closely at the severely damaged dragon head hilt. 'This metal is the same material that some mages use to make powerful golems and this other metal looks like rejesiam ore. If you can find some of those materials, I can fix this hilt up easily.

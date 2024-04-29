@@ -52,7 +52,7 @@ end
 
 
 
-if **You turn in:** [Bloodgill Scales](/item/14824), [Banded Bracer](/item/3061), [Sapphire](/item/10034)
+if( **You turn in:** [Bloodgill Scales](/item/14824), [Banded Bracer](/item/3061), [Sapphire](/item/10034)) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
@@ -62,7 +62,7 @@ if **You turn in:** [Bloodgill Scales](/item/14824), [Banded Bracer](/item/3061)
 
 
 
-if **You turn in:** [Boots of Zorash](/item/14829), [Grachnist's Head](/item/14820), [Banded Leggings](/item/3063), [Star Ruby](/item/10032)
+if( **You turn in:** [Boots of Zorash](/item/14829), [Grachnist's Head](/item/14820), [Banded Leggings](/item/3063), [Star Ruby](/item/10032)) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
@@ -72,7 +72,7 @@ if **You turn in:** [Boots of Zorash](/item/14829), [Grachnist's Head](/item/148
 
 
 
-if **You turn in:** [Wings of the Drixie Queen](/item/14827), [Banded Mask](/item/3054), [Fire Emerald](/item/10033)
+if( **You turn in:** [Wings of the Drixie Queen](/item/14827), [Banded Mask](/item/3054), [Fire Emerald](/item/10033)) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
@@ -82,7 +82,7 @@ if **You turn in:** [Wings of the Drixie Queen](/item/14827), [Banded Mask](/ite
 
 
 
-if **You turn in:** [A Sarnak War Braid](/item/12982), [Scorpion Chitin](/item/14821), [Banded Mail](/item/3056), [Ruby](/item/10035)
+if( **You turn in:** [A Sarnak War Braid](/item/12982), [Scorpion Chitin](/item/14821), [Banded Mail](/item/3056), [Ruby](/item/10035)) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!

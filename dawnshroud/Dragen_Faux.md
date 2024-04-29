@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Hunter's Pike](/item/32170)
+if( **You turn in:** [Hunter's Pike](/item/32170)) then
 
 
 >**Dragen Faux says:** I'm sorry to have doubted you before. Please forgive me. My mind is not what it used to be. Since you are the wolf slayer perhaps you cn help us find something. We've been unable to find it. If you can combine the Centerstone along with the Wolf Slayer in this box and bring back what you have. I should be able to reward you once we are through here.
@@ -25,7 +25,7 @@ if **You turn in:** [Hunter's Pike](/item/32170)
 
  **You receive:**  [Hunter's Pike](/item/32170) 
 
-elseif **You turn in:** [Gem-Inlaid Spear](/item/32300)
+elseif( **You turn in:** [Gem-Inlaid Spear](/item/32300)) then
 
 
 >**Dragen Faux says:** I knew you'd come through. This is going to make someone really happy. Take this for your troubles.

@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Claw of the Grunt](/item/7170)
+if( **You turn in:** [Claw of the Grunt](/item/7170)) then 
 
 
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
@@ -38,7 +38,7 @@ if **You turn in:** [Claw of the Grunt](/item/7170)
 
  **You receive:**  [Grimling Bane Claw](/item/7171) (+300 exp)
 
-if **You turn in:** [Dirk of the Grunt](/item/7180)
+if( **You turn in:** [Dirk of the Grunt](/item/7180)) then 
 
 
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
@@ -46,7 +46,7 @@ if **You turn in:** [Dirk of the Grunt](/item/7180)
 
  **You receive:**  [Grimling Bane Dirk](/item/7181) (+300 exp)
 
-if **You turn in:** [Great Sword of the Grunt](/item/7174)
+if( **You turn in:** [Great Sword of the Grunt](/item/7174)) then 
 
 
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
@@ -54,7 +54,7 @@ if **You turn in:** [Great Sword of the Grunt](/item/7174)
 
  **You receive:**  [Grimling Bane Great Sword](/item/7175) (+300 exp)
 
-if **You turn in:** [Hammer of the Grunt](/item/7176)
+if( **You turn in:** [Hammer of the Grunt](/item/7176)) then 
 
 
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
@@ -62,7 +62,7 @@ if **You turn in:** [Hammer of the Grunt](/item/7176)
 
  **You receive:**  [Grimling Bane Hammer](/item/7177) (+300 exp)
 
-if **You turn in:** [Short Sword of the Grunt](/item/7172)
+if( **You turn in:** [Short Sword of the Grunt](/item/7172)) then 
 
 
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
@@ -70,7 +70,7 @@ if **You turn in:** [Short Sword of the Grunt](/item/7172)
 
  **You receive:**  [Grimling Bane Short Sword](/item/7173) (+300 exp)
 
-if **You turn in:** [Staff of the Grunt](/item/7178)
+if( **You turn in:** [Staff of the Grunt](/item/7178)) then 
 
 
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)

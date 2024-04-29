@@ -126,7 +126,7 @@ local text = "I expect to receive TWO orc hatchets.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Orc Hatchet](/item/12108), [Orc Hatchet](/item/12108)
+if **Faction** >= Amiable and  **You turn in:** [Orc Hatchet](/item/12108), [Orc Hatchet](/item/12108)) then 
 
 
 >**Dill Fireshine says:** Fantastic work!! Your actions shall earn you the respect of all Fier'Dal!  Take this as a small bounty for your deed.  We have heard of [Crushbone allies] who wish our demise.
@@ -160,7 +160,7 @@ if ( math.random() < 0.5 ) then
  **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) 
 
 
-elseif **You turn in:** [A Sealed Letter](/item/18840)
+elseif( **You turn in:** [A Sealed Letter](/item/18840)) then 
 
 
 >**Dill Fireshine says:** Yes. A recent report has proven this to be true. An evil alliance has been made. We shall soon need many more experienced adventurers such as yourself. For now, take this reward and strengthen your skills.
@@ -183,7 +183,7 @@ elseif **You turn in:** [A Sealed Letter](/item/18840)
 
  **You receive:**  [Longbow](/item/8003) (+23400 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)
+elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)) then 
 
 
 >**Dill Fireshine says:** Good work. We shall cut off correspondence between these two. It is for the best. Remember, if you find any notes to Neriak from the ambassador in Crushbone, give them to me.

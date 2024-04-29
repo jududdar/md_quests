@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [A strategic map of Kithicor](/item/16548)
+if( **You turn in:** [A strategic map of Kithicor](/item/16548)) then 
 
 
 >**Morin Shadowbane says:** Excellent work, Soandso!! It is obvious that you are a highly skilled tracker and warrior. Accept this reward, my personal sword which has served me well in countless battles. Perhaps you are willing to perform [another service] on our behalf?
@@ -46,7 +46,7 @@ if **You turn in:** [A strategic map of Kithicor](/item/16548)
 
  **You receive:**  [Short Sword of Morin](/item/5422) (+5000 exp)
 
-elseif **You turn in:** [Ebony Bladed Sword](/item/5405)
+elseif( **You turn in:** [Ebony Bladed Sword](/item/5405)) then 
 
 
 >**Morin Shadowbane says:** Excellent work, Soandso!! It is obvious that you are a highly skilled tracker and warrior. Accept this reward, my personal sword which has served me well in countless battles. Perhaps you are willing to perform [another service] on our behalf?
@@ -54,7 +54,7 @@ elseif **You turn in:** [Ebony Bladed Sword](/item/5405)
 
  **You receive:**  [Short Sword of Morin](/item/5422) (+5000 exp)
 
-elseif **You turn in:** [Sealed Ghoul Boss' Log Book](/item/20638)
+elseif( **You turn in:** [Sealed Ghoul Boss' Log Book](/item/20638)) then 
 
 
 >**Morin Shadowbane says:** We meet again, Soandso.  The ghoul boss' log reveals much of the machinations of our dark oppressors, but not enough.  Deliver these orders to Bryn in Lesser Faydark, and he will provide you with another weapon to aid in our defense of Kithicor.

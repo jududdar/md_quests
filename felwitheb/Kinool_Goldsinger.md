@@ -54,7 +54,7 @@ enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
 local text = "There will be no Rain Caller until I have the fairie gold dust and the [remaining components].";
 
 
-if **You turn in:** [An Enrollment Letter](/item/18778)
+if( **You turn in:** [An Enrollment Letter](/item/18778)) then 
 
 
 >**Kinool Goldsinger says:** Greetings and welcome aboard!  My name's Kinool. Master Enchanter of the Keepers of the Art.  Here is your guild tunic. Make us proud, young pupil!
@@ -74,7 +74,7 @@ if **You turn in:** [An Enrollment Letter](/item/18778)
 
  **You receive:**  [Torn Training Robe*](/item/13593) (+20 exp)
 
-elseif **You turn in:** [Pouch of Gold Dust](/item/12333), [a wooden heart](/item/12334), [Trueshot Longbow](/item/8401), gold =  [Zaharns Coronet](/item/3000)
+elseif( **You turn in:** [Pouch of Gold Dust](/item/12333), [a wooden heart](/item/12334), [Trueshot Longbow](/item/8401), gold =  [Zaharns Coronet](/item/3000)) then
   
 
 >**Kinool Goldsinger says:** Fine work!! I now reward you with The Rain Caller.

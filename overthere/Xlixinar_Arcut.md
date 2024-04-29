@@ -184,7 +184,7 @@ end
 
 
 
-if **You turn in:** [Glox Reference](/item/14783), [Banded Helm](/item/3053)
+if( **You turn in:** [Glox Reference](/item/14783), [Banded Helm](/item/3053)) then
 
 
 >**Xlixinar Arcut says:** Well done
@@ -192,7 +192,7 @@ if **You turn in:** [Glox Reference](/item/14783), [Banded Helm](/item/3053)
 
  **You receive:**  [Trooper Scale Helm](/item/4976) (+1000 exp)
 
-if **You turn in:** [Vek's Reference: Vambraces](/item/14786), [Banded Sleeves](/item/3060)
+if( **You turn in:** [Vek's Reference: Vambraces](/item/14786), [Banded Sleeves](/item/3060)) then
 
 
 >**Xlixinar Arcut says:** Well done
@@ -200,7 +200,7 @@ if **You turn in:** [Vek's Reference: Vambraces](/item/14786), [Banded Sleeves](
 
  **You receive:**  [Trooper Scale Vambraces](/item/4979) (+1000 exp)
 
-if **You turn in:** [Grik's Reference](/item/14816), [Banded Mail](/item/3056)
+if( **You turn in:** [Grik's Reference](/item/14816), [Banded Mail](/item/3056)) then
 
 
 >**Xlixinar Arcut says:** Well done
@@ -208,7 +208,7 @@ if **You turn in:** [Grik's Reference](/item/14816), [Banded Mail](/item/3056)
 
  **You receive:**  [Trooper Scale Breastplate](/item/4977) (+1000 exp)
 
-if **You turn in:** [Vek's Reference: Pauldrons](/item/14787), [Banded Mantle](/item/3057)
+if( **You turn in:** [Vek's Reference: Pauldrons](/item/14787), [Banded Mantle](/item/3057)) then
 
 
 >**Xlixinar Arcut says:** Well done

@@ -51,7 +51,7 @@ end
 
 
 
-if  **Faction** >= Indifferent and  **You turn in:** [Deathfist Slashed Belt](/item/13916)
+if  **Faction** >= Indifferent and  **You turn in:** [Deathfist Slashed Belt](/item/13916)) then 
 
 
 >**Bregna says:** Good job. Dat help lerns um. Takes dis ta help ya lerns how ta do more hateful tings. Ya gots a good starts fer Him ta be prouds a ya
@@ -68,7 +68,7 @@ if  **Faction** >= Indifferent and  **You turn in:** [Deathfist Slashed Belt](/i
 
  **You receive:**  [Spell: Spirit Pouch](/item/15272) (+50 exp)
 
-elseif  **You turn in:** [A Blood Raven Tailfeather](/item/26632), [A Wrulon Claw](/item/26640), [Arachnae Fangs](/item/29921), [Swirling Banshee Essence](/item/26662)
+elseif ( **You turn in:** [A Blood Raven Tailfeather](/item/26632), [A Wrulon Claw](/item/26640), [Arachnae Fangs](/item/29921), [Swirling Banshee Essence](/item/26662)) then 
 
 
 >**Bregna says:** Dis am gud. I see you've been talkin' to Garuuk. Methanks you fer da help. Take dis note back ta Garuuk so he knows you helped me. Tanks again!

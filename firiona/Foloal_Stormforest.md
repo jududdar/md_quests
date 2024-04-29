@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Softly Glowing Stone](/item/20462), [Pulsing Green Stone](/item/20461)
+if( **You turn in:** [Softly Glowing Stone](/item/20462), [Pulsing Green Stone](/item/20461)) then
 
 
 >*Foloal Stormforest blinks and carefully takes the stones from you, cautiously scratching the jagged green stone against the other. Its skin seems to shiver and flake at the contact and eventually begins to shine brightly. 'With the gem nature's balance is complete. Take the stone and walk your path. Blade or lightning caller, burning sword or the mother's walk.'*

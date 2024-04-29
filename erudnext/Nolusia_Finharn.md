@@ -189,7 +189,7 @@ end
 
 
 
-if **You turn in:** [Eruds Tonic](/item/13118)
+if( **You turn in:** [Eruds Tonic](/item/13118)) then
 
 
 >**Nolusia Finharn says:** Good work! Now, hold the bottle by the label! When you hand Flynn the bottle, the label will slide off. Bring me the label as proof of the deed.
@@ -212,7 +212,7 @@ if **You turn in:** [Eruds Tonic](/item/13118)
 
  **You receive:**  [Eruds Tonic](/item/13122) (+200 exp)
 
-elseif **You turn in:** [Label of Erud's Tonic](/item/13123)
+elseif( **You turn in:** [Label of Erud's Tonic](/item/13123)) then
 
 
 >**Nolusia Finharn says:** Fantastic. Now I can rest assured that my brother stands a better chance of finding the right path without that manipulating little man around. Master Lanken can rest assured that the waters are safe from abuse.

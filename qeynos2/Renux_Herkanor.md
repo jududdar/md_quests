@@ -93,7 +93,7 @@ end
 
 
 
-if **Faction** >= Indifferent +40 and  **You turn in:** [Kerran Doll](/item/13716)
+if **Faction** >= Indifferent +40 and  **You turn in:** [Kerran Doll](/item/13716)) then 
 
 
 >**Renux Herkanor says:** Yes, I see you aim to please. I hope you gave Lomarc the payment he deserved? Heh, that punk had no idea of the value of this shipment. The emerald inside this doll will fetch a pretty penny from those greedy merchants.

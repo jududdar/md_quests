@@ -46,7 +46,7 @@ end
 local text = "As instructed by High Priestess Jahnda I must ask for the beads and a donation of 100 gold coins.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [T.O.L. 2020](/item/13306)
+if **Faction** >= Amiable and  **You turn in:** [T.O.L. 2020](/item/13306)) then 
 
 
 >**Tyokan Mekase says:** Oh, turning in your key, are you? Very well, defender of life. Here you are.
@@ -54,7 +54,7 @@ if **Faction** >= Amiable and  **You turn in:** [T.O.L. 2020](/item/13306)
 
  **You receive:** eq.ChooseRandom( [Spell: Inspire Fear](/item/15126), [Spell: Greater Healing](/item/15015), [Spell: Ward Summoned](/item/15248)) 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Prayer Beads](/item/13296), gold=100
+elseif **Faction** >= Amiable and  **You turn in:** [Prayer Beads](/item/13296), gold=100) then 
 
 
 >**Tyokan Mekase says:** I see your beads need to be charged. Very well, here you are. Use them and good health to you!!!

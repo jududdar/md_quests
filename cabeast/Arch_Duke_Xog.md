@@ -66,7 +66,7 @@ local text3 = "A true crusader would have brought to me what I requested. The He
 
 
 
-if **You turn in:** [Guild Summons](/item/18205)
+if( **You turn in:** [Guild Summons](/item/18205)) then 
 
 
 
@@ -87,10 +87,10 @@ if **You turn in:** [Guild Summons](/item/18205)
 
 
 
- **You receive:** None 
+ **You receive:**  [Pawn's Khukri](/item/5120) (+200 exp)
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Stupendous Tome](/item/18051), [Hero's Khukri](/item/5126)
+elseif **Faction** >= Amiable and  **You turn in:** [Stupendous Tome](/item/18051), [Hero's Khukri](/item/5126)) then 
 
 
 >**Arch Duke Xog says:** A legible tome of the scrolls of Vok Na Zov! What a find this is!! May the unholy curses of Cazic flow through you. Please accept the weapon of a Lord of Pain. To abandon it is to abandon our ways and earn yourself the hatred of our order.
@@ -102,9 +102,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Stupendous Tome](/item/1805
 * __Faction:__ [Legion of Cabilis](/faction/441) (2)
 
 
- **You receive:** None 
+ **You receive:**  [Lord of Pain's Khukri](/item/5128) (+25000 exp)
 
-elseif **You turn in:** [Illegible Note: Bracer](/item/14791)
+elseif( **You turn in:** [Illegible Note: Bracer](/item/14791)) then 
 
 
 
@@ -113,7 +113,7 @@ elseif **You turn in:** [Illegible Note: Bracer](/item/14791)
 
 >*Arch Duke Xog  takes the note and glances at it briefly then lets out a heavy sigh and stares out over the city for several minutes. Finally he says quietly, 'Several months ago we lost contact with one of our crusaders. His name is, or was, Geanik. The last we heard from him he was furthering our cause against the loathsome Goblins that reside in Warsliks Wood. Just recently we were visited by a [strange Iksar].'*
 
-elseif **You turn in:** [Traitors Heart](/item/14807), [Sapphire](/item/10034), [Sapphire](/item/10034)
+elseif( **You turn in:** [Traitors Heart](/item/14807), [Sapphire](/item/10034), [Sapphire](/item/10034)) then
 
 
 >**Arch Duke Xog says:** Thanks for resolving this issue. Here is your reward
@@ -121,12 +121,12 @@ elseif **You turn in:** [Traitors Heart](/item/14807), [Sapphire](/item/10034), 
 
  **You receive:**  [Xog's Reference: Bracer](/item/14808) (+10000 exp)
 
-elseif **You turn in:** [Illegible Note: Gauntlets](/item/14792)
+elseif( **You turn in:** [Illegible Note: Gauntlets](/item/14792)) then 
 
 
 >*Arch Duke Xog  takes the note without even a glance in your direction and begins reading. After a long silence, he lets his arms drop to his sides and says quietly, 'We kill, Soandso. That is our job, our duty in life. Our targets are chosen for us. We merely listen. Right now I am being told there is a traitor not far from here, near the ocean. Go to him andhis life. Bring me his head, and two star rubies. As you do this, try hard to listen to our Lord's instruction. If you hear even a whisper, you will know more righteousness than most of this city.'*
 
-elseif **You turn in:** [Head of Blackhand](/item/14806), [Star Ruby](/item/10032), [Star Ruby](/item/10032)
+elseif( **You turn in:** [Head of Blackhand](/item/14806), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
 
 
 >**Arch Duke Xog says:** Well done, Soandso.
@@ -134,7 +134,7 @@ elseif **You turn in:** [Head of Blackhand](/item/14806), [Star Ruby](/item/1003
 
  **You receive:**  [Xog's Reference: Gauntlet](/item/14809) (+10000 exp)
 
-elseif **You turn in:** [Greenmist Icon](/item/14814)
+elseif( **You turn in:** [Greenmist Icon](/item/14814)) then
 
 
 >*Arch Duke Xog takes the icon and stares at it. His face twists into a look of disdain and he suddenly throws the icon off the balcony. It lands in the water some distance away. Without even a glance at you he says in disgust, 'You're an idiot, Soandso. You fit your profession well. Leave my sight.'*

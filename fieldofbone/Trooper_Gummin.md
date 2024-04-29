@@ -22,7 +22,7 @@ local text = "What?! I need the Legion Lager and the legion order.";
 
 
 
-if **You turn in:** [Legion Order](/item/18242), [Legion Lager](/item/12463)
+if( **You turn in:** [Legion Order](/item/18242), [Legion Lager](/item/12463)) then 
 
 
 >*Trooper Gummin slowly signs the order. '...Love, Innoruuk. There you go. Now run along. Let me enjoy my last brew alone.'*

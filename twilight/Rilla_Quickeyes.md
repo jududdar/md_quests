@@ -74,7 +74,7 @@ end
 
 
 
-if **You turn in:** [Moon Jewel](/item/4489), [Mark of the Wild](/item/4961), [Braided Vine Bracelet](/item/4962), [Aged Dark Wood Shaft](/item/4992)
+if( **You turn in:** [Moon Jewel](/item/4489), [Mark of the Wild](/item/4961), [Braided Vine Bracelet](/item/4962), [Aged Dark Wood Shaft](/item/4992)) then 
 
 
 FactionReward(e)
@@ -82,7 +82,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Cap](/item/3762) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Nature](/item/4993), [Primal Earth Rune](/item/4994), [Growth Stone](/item/4995)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Nature](/item/4993), [Primal Earth Rune](/item/4994), [Growth Stone](/item/4995)) then 
 
 
 FactionReward(e)
@@ -90,7 +90,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Tunic](/item/3763) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Vitality](/item/4996), [Etched Diamond of Nature](/item/4997), [Storm Filled Vial](/item/4998)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Vitality](/item/4996), [Etched Diamond of Nature](/item/4997), [Storm Filled Vial](/item/4998)) then 
 
 
 FactionReward(e)
@@ -98,7 +98,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Sleeves](/item/3764) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Life](/item/4999), [Etched Emerald of Nature](/item/5000), [Sack of Purified Soil](/item/5068)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Life](/item/4999), [Etched Emerald of Nature](/item/5000), [Sack of Purified Soil](/item/5068)) then 
 
 
 FactionReward(e)
@@ -106,7 +106,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Leggings](/item/3765) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Regeneration](/item/5069), [Etched Sapphire of Nature](/item/5079)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Regeneration](/item/5069), [Etched Sapphire of Nature](/item/5079)) then 
 
 
 FactionReward(e)
@@ -114,7 +114,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Mantle](/item/3766) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Growth](/item/5089), [Etched Ruby of Nature](/item/5094)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Growth](/item/5089), [Etched Ruby of Nature](/item/5094)) then 
 
 
 FactionReward(e)
@@ -122,7 +122,7 @@ FactionReward(e)
 
  **You receive:**  [Earth Blessed Bracer](/item/3767) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Weather](/item/5095), [Etched Star Ruby of Nature](/item/5096)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Weather](/item/5095), [Etched Star Ruby of Nature](/item/5096)) then 
 
 
 FactionReward(e)

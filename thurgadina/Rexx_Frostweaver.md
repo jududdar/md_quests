@@ -31,12 +31,12 @@ end
 
 
 
-if **You turn in:** [Silk Coldain Prayer Shawl](/item/1179)
+if( **You turn in:** [Silk Coldain Prayer Shawl](/item/1179)) then
 
 
 >**Rexx Frostweaver says:** Splendid, Soandso, this is beautiful workmanship! As the Grand Historian may have mentioned, our esteemed Dain Frostreaver the fourth is making some important plans with his council. These plans will doubtlessly include you if the Dain deems you worthy.
 
 
- **You receive:** None 
+ **You receive:**  [Silk Coldain Prayer Shawl](/item/1179) 
 
 **This NPC *should* return incorrect items given.**

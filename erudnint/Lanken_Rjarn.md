@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18729)
+if( **You turn in:** [A tattered note](/item/18729)) then
 
 
 >**Lanken Rjarn says:** Welcome to the Craft Keepers! You have much to learn, and I'm sure you are anxious to get started. Here's your training robe. Go see Nolusia, she'll give you your first lesson.

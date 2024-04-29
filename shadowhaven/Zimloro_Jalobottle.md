@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Antidote Ingredients](/item/4759)
+if( **You turn in:** [Antidote Ingredients](/item/4759)) then
 
 
 >**Zimloro Jalobottle says:** You did it, Soandso! Finally I can finish these potions that I have been working on for such a long time. I will surely tell all of my friends of your willingness to help me!
@@ -49,7 +49,7 @@ if **You turn in:** [Antidote Ingredients](/item/4759)
 
  **You receive:** 0 (+5000 exp)
 
-elseif **You turn in:** [Antidote Supplies](/item/4765)
+elseif( **You turn in:** [Antidote Supplies](/item/4765)) then
 
 
 >**Zimloro Jalobottle says:** Ah, of course, the antidote supplies I have been waiting for from Daksins. I hope he is ok, we all told him it was not wise to go out to the cursed mountains alone. I thank you for bringing me these supplies because Daksins was unable too. There have been many reports lately of people receiving the disease carried by the beasts you encountered. Should you come across these extracts in the future bring them to me if you like. Thank you again, your actions will not go unnoticed.

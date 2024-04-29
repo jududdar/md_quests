@@ -105,7 +105,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223)
+if( **Faction is** > Indifferent and  **You turn in:** [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223)) then 
 
 
 >**Lysbith McNaff says:** Ye're becoming a fine champion o' Halas. Take th' Seax. May ye always defend Halas!
@@ -140,7 +140,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Wrath Orc Wristbands](/i
 
  **You receive:**  [Seax](/item/7322) (+3000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Bag of Ice Necklaces](/item/13898)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Bag of Ice Necklaces](/item/13898)) then 
 
 
 >**Lysbith McNaff says:** Ye've done well, me young " .. e.other:Class() .. " .  We've gathered these to add to yer provisions.  While in the Everfrost Peaks, be on the watch fer any gnolls ye may find.  I declare there to be a [gnoll bounty].
@@ -175,7 +175,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Bag of Ice Necklaces
 
  **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007), [Water Flask](/item/13006), [Torch](/item/13002), [Small Lantern](/item/13003)) (+3800 exp)
 
-elseif **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)
+elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then
 
 
 

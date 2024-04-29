@@ -111,7 +111,7 @@ local text = "Ok, good job, but I still need the other ones, too. Get the rest o
 
 
 
-if **You turn in:** gold = 2
+if( **You turn in:** gold = 2) then
 
 
 >**Den Magason says:** Yeah, well, these are pretty hard to come by. In fact, these came all the way from Odus. Enjoy, and tell your buddies.
@@ -148,7 +148,7 @@ if **You turn in:** gold = 2
 
  **You receive:**  [Blank Scroll Sheets](/item/18006) (+100 exp)
 
-elseif **You turn in:** [Package for Den](/item/13784)
+elseif( **You turn in:** [Package for Den](/item/13784)) then
 
 
 >**Den Magason says:** All right, I'll make sure this gets put on the next boat to Erudin. But now, I need a favor of you. Since I'm stuck here working the docks all day, I need someone to run out to Qeynos Hills and bring me back various pelts and skins. I got a customer in Odus who is trying to get a new shop started, and he needs some samples. Bring me back some snake scales, a high quality bear skin, a high quality wolf skin, and some bat fur. Make sure the quality is good, I can't send him rags.
@@ -182,7 +182,7 @@ elseif **You turn in:** [Package for Den](/item/13784)
 
  **You receive:** 0 (+1000 exp)
 
-elseif **You turn in:** [Snake Scales](/item/13070), [High Quality Bear Skin](/item/13752), [High Quality Wolf Skin](/item/13755), [Bat Fur](/item/13069)
+elseif( **You turn in:** [Snake Scales](/item/13070), [High Quality Bear Skin](/item/13752), [High Quality Wolf Skin](/item/13755), [Bat Fur](/item/13069)) then 
 
 
 >**Den Magason says:** Great... Hopefully he will like these samples, and order a lot more from me. Here's some gold for your efforts. Also, could you pass this note on to Ghil next time you talk to him? Thanks again.
@@ -214,7 +214,7 @@ elseif **You turn in:** [Snake Scales](/item/13070), [High Quality Bear Skin](/i
 
 
 
- **You receive:** None 
+ **You receive:**  [Note for Ghil](/item/18796) (+50000 exp)
 
 
 **This NPC *should* return incorrect items given.**

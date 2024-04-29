@@ -21,7 +21,7 @@ end
 local qglobals = eq.get_qglobals(e.self,e.other);
 
 
-if **You turn in:** [Note to Camin](/item/18088)
+if( **You turn in:** [Note to Camin](/item/18088)) then
 
 
 >**Camin says:** So you have met Solomen, eh? He is a man with a wealth of knowledge. It is good to hear he is well.
@@ -32,7 +32,7 @@ if **You turn in:** [Note to Camin](/item/18088)
 
 eq.set_global("wizepic","1",0,"D30");
 
-elseif **You turn in:** [Ro's Breath](/item/14330)
+elseif( **You turn in:** [Ro's Breath](/item/14330)) then
 
 
 if(qglobals["wizepic"] == "2") then
@@ -65,7 +65,7 @@ else
  **You receive:**  [Ro's Breath](/item/14330) 
 
 
-elseif **You turn in:** platinum = 1000
+elseif( **You turn in:** platinum = 1000) then
 
 
 if(qglobals["wizepic"] == "1") then

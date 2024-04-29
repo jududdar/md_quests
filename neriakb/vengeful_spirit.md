@@ -17,7 +17,7 @@
 
 
 
-if **You turn in:** [Scroll of Flayed Goblin Skin](/item/18401)
+if( **You turn in:** [Scroll of Flayed Goblin Skin](/item/18401)) then 
 
 
 **Stop timer** named *despawn*

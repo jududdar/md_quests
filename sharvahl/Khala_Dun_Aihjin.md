@@ -207,7 +207,7 @@ end
 
 
 
-if **You turn in:** [A Shield Repair Order](/item/29803)
+if( **You turn in:** [A Shield Repair Order](/item/29803)) then
 
 
 >**Khala Dun Aihjin says:** Well it's about time Barkhem got around to us, and he couldn't even be bothered to come himself. Please get this back to me as soon as you can... you do know that we are here to guard the city, right?
@@ -215,7 +215,7 @@ if **You turn in:** [A Shield Repair Order](/item/29803)
 
  **You receive:**  [Aihjins Dented Shield](/item/29810) 
 
-elseif **You turn in:** [Aihjins Immaculate Shield](/item/29811)
+elseif( **You turn in:** [Aihjins Immaculate Shield](/item/29811)) then
 
 
 >**Khala Dun Aihjin says:** Well done, I sure will be ready for next time something tries to cause a disturbance in our city. My thanks to you Soandso.

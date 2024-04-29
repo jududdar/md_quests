@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Boot Beer](/item/19188)
+if( **You turn in:** [Boot Beer](/item/19188)) then
 
 
 >*Tack Shieldson gingerly takes the boot from you, handling it as though it were a fine porcelain. With a look of thanks to you he slowly lifts it to his lips and suddenly tips it back to empty it in one gulp, frothing his beard in the process. 'Yar! That's the ticket! Damn fine stuff that is, just like me uncle always said. A service to the Validus Custodus have ye done, my friend... And I'd be happy to assist ye in that service again sometime. HAR!'*

@@ -224,7 +224,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Sealed Letter](/item/1717)
+if **Faction** >= Amiable and  **You turn in:** [Sealed Letter](/item/1717)) then 
 
 
 >**Fjokar Frozenshard says:** You have found what I was unable to. King Tormax's protection of Wenglawks willsoon. His death will be so very delightful to invoke. 'rushes out of the room, dropping his spear as he does.'

@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Hardams Custom Helm](/item/5986)
+if( **You turn in:** [Hardams Custom Helm](/item/5986)) then 
  
 
 >**Hardam Stonegrinder says:** Ah, what a pleasant surprise indeed it seems my Helm is done! Many thanks for all your help once again Soandso, and safe travels to you.

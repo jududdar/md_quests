@@ -30,13 +30,13 @@ end
 
 
 
-if **You turn in:** [torn half of a note](/item/18332)
+if( **You turn in:** [torn half of a note](/item/18332)) then 
 
 
 >*Legionnaire Marais shows relief in his eyes, 'I knew someone would come if I... just held out... long enough... Take these... be careful... ' And with that, Marais allows himself to finally die.*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Marais' Notes](/item/18334), [Marais' Notes](/item/18333)) 
 
 
 **Set a timer** named *die* for 10 seconds

@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Bixie Berry Pie](/item/12676)
+if( **You turn in:** [Bixie Berry Pie](/item/12676)) then 
 
 
 >*Klok Unlar breaks open the crust of the pie. 'Wait! What is this? A device of some kind? It looks kind of like some sort of lockpick. BUGRIN!! Get in here and answer some questions at once!!*

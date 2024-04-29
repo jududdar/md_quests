@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Sealed Message](/item/18331)
+if( **You turn in:** [Sealed Message](/item/18331)) then 
 
 
 >*Markil Jurbac lowers his head and mourns the loss of Halle. 'Tis the greatest shame of all when good people are lost to the most cowardly of deeds. I will seek Governor Tilbok's council in this matter... I have never been able to wrap my head around this kind of treachery and he may very well have more information. Give this dossier to Tilbok, it has all of the information he will need.*

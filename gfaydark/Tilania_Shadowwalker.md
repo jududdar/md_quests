@@ -157,7 +157,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Preserved Orc Hide](/item/27535), [Rotting Orc Tooth](/item/27536), [Rotting Orc Tooth](/item/27536)
+if(expansion_flag >= 4.0 and  **You turn in:** [Preserved Orc Hide](/item/27535), [Rotting Orc Tooth](/item/27536), [Rotting Orc Tooth](/item/27536)) then
 
 
 >**Tilania Shadowwalker says:** Excllent!  Here's your reward.

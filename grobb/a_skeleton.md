@@ -43,7 +43,7 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Grobb Oven Mittens](/item/12211)
+if **Faction** >= Amiable +100 and  **You turn in:** [Grobb Oven Mittens](/item/12211)) then 
 
 
 >**a skeleton says:** Ahh! Oven mittens! Kinda' large, don't you think?! Oh well, now I can bake all I want without burning my hands. OKAY! Lets go. I overheard some basher named Nanrum saying he spotted my friend, the butcher. You should ask him [where the skeleton] is.

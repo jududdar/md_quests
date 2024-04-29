@@ -110,7 +110,7 @@ end
 
 
 
-if **You turn in:** [Note to Kanthuk](/item/2416)
+if( **You turn in:** [Note to Kanthuk](/item/2416)) then
 
 
 >**Kanthuk Ogrebane says:** Ahh, I see you have spoken to Ryshon. You seem tired from your long journey. Sit with me as I tell you a tale. A tale about a true friend of mine, a great man known as [Amstaf Trunolis].

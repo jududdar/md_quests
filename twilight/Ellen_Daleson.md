@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Broken Ancient Blade](/item/5850), [Gold Pointer](/item/5849), [Mark of the Environment](/item/5848), [Moon Jewel](/item/4489)
+if( **You turn in:** [Broken Ancient Blade](/item/5850), [Gold Pointer](/item/5849), [Mark of the Environment](/item/5848), [Moon Jewel](/item/4489)) then 
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Girdle](/item/3957) (+25000 exp)
 
-elseif **You turn in:** [Marble Statuette](/item/5844), [Mark of Creatures](/item/5698), [Sky Jewel](/item/4492), [Wondrous Stone](/item/5699)
+elseif( **You turn in:** [Marble Statuette](/item/5844), [Mark of Creatures](/item/5698), [Sky Jewel](/item/4492), [Wondrous Stone](/item/5699)) then 
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Cape](/item/3954) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Ambidexterity](/item/5981), [Small Ancient Sculpture](/item/5847)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Ambidexterity](/item/5981), [Small Ancient Sculpture](/item/5847)) then 
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Gorget](/item/3956) (+25000 exp)
 
-elseif **You turn in:** [Mark of Animals](/item/5845), [Meteor Jewel](/item/4493), [Tattered Old Card](/item/5846)
+elseif( **You turn in:** [Mark of Animals](/item/5845), [Meteor Jewel](/item/4493), [Tattered Old Card](/item/5846)) then 
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Gauntlets](/item/3955) (+25000 exp)
 
-elseif **You turn in:** [Mark of Rivers](/item/5690), [Sun Jewel](/item/4488), [Temporal Sack](/item/5691)
+elseif( **You turn in:** [Mark of Rivers](/item/5690), [Sun Jewel](/item/4488), [Temporal Sack](/item/5691)) then 
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Woodsman's Mantle](/item/3950) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Stone](/item/5696), [Platinum Chain](/item/5697)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Stone](/item/5696), [Platinum Chain](/item/5697)) then 
 
 
 FactionReward(e)

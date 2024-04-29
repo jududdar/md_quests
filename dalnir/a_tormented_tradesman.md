@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Mirror of Self-loathing](/item/3889)
+if( **You turn in:** [Mirror of Self-loathing](/item/3889)) then 
 
 
 **Signaled to:**  [The undead entity](/npc/104072)
@@ -27,7 +27,7 @@ if **You turn in:** [Mirror of Self-loathing](/item/3889)
 
 **a tormented tradesman despawns.**
 
-if **You turn in:** [Cracked Mirror of Self-Loathing](/item/3896)
+if( **You turn in:** [Cracked Mirror of Self-Loathing](/item/3896)) then 
 
 
 **Signaled to:**  [The undead entity](/npc/104072)

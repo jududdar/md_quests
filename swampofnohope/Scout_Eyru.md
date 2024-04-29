@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Official Seal of the Khati Sha](/item/9031)
+if( **You turn in:** [Official Seal of the Khati Sha](/item/9031)) then
 
 
 >**Scout Eyru says:** It is a relief to see you. I was beginning to fear that no one would be able to find me in this miserable swamp. I wanted to get word back to Shar Vahl about my location, but I was afraid that I would lose the trail off this spirit if I were to break off my pursuit. This location is as strange of a destination for our spirit as it is dangerous. I have seen the spirit several times and it is very out of place here. I can't help but think that the transformation has left the spirit confused beyond all repair.

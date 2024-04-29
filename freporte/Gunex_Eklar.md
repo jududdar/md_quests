@@ -41,7 +41,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Raenna Griff's Head](/item/19934)
+if(expansion_flag >= 4.0 and  **You turn in:** [Raenna Griff's Head](/item/19934)) then 
 
 
 >**Gunex Eklar says:** It took you long enough. I wonder if the Militia will be able to identify the body minus its head. Take this Dull Dismal Long Sword and sharpen it in a forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is accomplished deliver the Sharpened Dismal Long Sword and a Giant Rattlesnake Skin to Quan Nektogo. He will make the final preparations on your weapon.

@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Spell: Draught of Thunder](/item/28445), [Lightning Sphere](/item/9430)
+if( **You turn in:** [Spell: Draught of Thunder](/item/28445), [Lightning Sphere](/item/9430)) then 
 
 
 >*Hrelic Reista takes the sphere and the scroll from you and begins to scrawl some rune on the bottom of the parchment. He begins to utter some strange syllables over the parchment and the sphere begins to glow, then it dissolves into floating strands of ethereal energy and begins to scrawl itself across the page. Hrelic hands you the scroll, 'The power of lightning rests in your hands Soandso. Use this new power wisely.' *

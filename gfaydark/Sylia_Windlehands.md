@@ -47,7 +47,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18783)
+if( **You turn in:** [A tattered note](/item/18783)) then 
 
 
 >**Sylia Windlehands says:** Greetings. friend. I am Sylia.  I see that you wish to join our humble guild.  Good.  Here is a gift for you - your guild tunic.  Let's get started with your training, shall we?
@@ -58,7 +58,7 @@ if **You turn in:** [A tattered note](/item/18783)
 
  **You receive:**  [Faded Brown Tunic*](/item/13534) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099)
+elseif **Faction** >= Amiable and  **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099)) then
 
 
 >**Sylia Windlehands says:** Splendid job! Now if you can just keep a tune, you'll be a fine bard.
@@ -67,7 +67,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Spiderling Silk](/item/1309
 * __Faction:__ [Song Weavers](/faction/401) (5)
 
 
- **You receive:** None 
+ **You receive:**  [Hand Drum](/item/13000) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 

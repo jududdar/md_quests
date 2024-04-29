@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Letter to Elishia](/item/8969)
+if( **You turn in:** [Letter to Elishia](/item/8969)) then 
 
 
 >**Elishia Leafrunner says:** Oh, a letter from my grandson? Thank you very much. I haven't been able to talk to him recently. Would you mind taking a [letter back to him] for me?

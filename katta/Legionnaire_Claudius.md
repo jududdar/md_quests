@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Field Orders](/item/29845)
+if( **You turn in:** [Field Orders](/item/29845)) then 
 
 
 >**Legionnaire Claudius says:** Huh? What? Oh, umm, let's see here... OK I best get these taken care of right away. Thank you.

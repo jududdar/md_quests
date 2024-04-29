@@ -44,12 +44,12 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if **You turn in:** [A Frosted Bag](/item/30962)
+if( **You turn in:** [A Frosted Bag](/item/30962)) then
 
 
  **You receive:**  [Spell: Endure Cold](/item/15225) 
 
-elseif **You turn in:** [A Dar Khura Guild Summons](/item/18551)
+elseif( **You turn in:** [A Dar Khura Guild Summons](/item/18551)) then 
 
 
 >**Elder Spiritist Grawleh says:** Good Soandso, I am honored to meet you. You have come of age and it is time for you to register for citzenship of Shar Vahl. The Dar Khura, spiritual guides of our people, have sensed your spirit and deem you to be worthy of our training. First things first, take this application to Registrar Bindarah and return to me with proof of citzenship.
@@ -61,9 +61,9 @@ elseif **You turn in:** [A Dar Khura Guild Summons](/item/18551)
 eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
- **You receive:** None 
+ **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
 
-elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)
+elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then 
 
 
 >**Elder Spiritist Grawleh says:** Welcome back, Soandso! I see that your documents are in order and you are an official citizen of Shar Vahl, which is great news! Let me be the first to welcome you to the ranks of the Dar Khura! Here, take this cloak and wear it with pride.
@@ -75,14 +75,14 @@ elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of S
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
 
-elseif **You turn in:** [Claw of Frost](/item/30963)
+elseif( **You turn in:** [Claw of Frost](/item/30963)) then
 
 
 >*Elder Spiritist Grawleh examines the contents of the bag carefully. This is no ordinary spirit Soandso. It is a whisperling, a bringer of dreams. You are quite lucky, I think she will go with you. She will be able to protect you from cold magic. If you need more protection you can call on her to help you endure the cold. This is how the Dar Khura weave their spells, we ask the spirits for their aid. This scroll will show you how to call on her for her protection. You will also need to construct her a more suitable spirit anchor. This claw will not contain her much longer. Please hurry to Ragnar with the claw and a fresh [bloodling carapace]. It may buy us some time before she fades away.*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Spell: Endure Cold](/item/15225), [Siver's Claw](/item/30964)) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**

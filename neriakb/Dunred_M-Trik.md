@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Full Muffin Crate](/item/1839)
+if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
 
 
 >**Dunred M-Trik says:** Very good work. I can see you are a talented baker and these muffins look suitable. You do Neriak a great service. Here is your payment. I look forward to conducting future business with you.
@@ -29,9 +29,9 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 * __Faction:__ [Dreadguard Outer](/faction/334) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
+elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
 
 
 >**Dunred M-Trik says:** You have returned and none too soon! Thank you very much, I will put this bread on sale immediately. Here is your reward as promised. Thank you very much.
@@ -46,6 +46,6 @@ elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 * __Faction:__ [Dreadguard Outer](/faction/334) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 **This NPC *should* return incorrect items given.**

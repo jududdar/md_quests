@@ -72,7 +72,7 @@ end
 
 
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Patty Melt](/item/8194)
+if( **Faction is** > Apprehensive and  **You turn in:** [Patty Melt](/item/8194)) then 
 
 
 >*Chef Brargus wolfs down the Patty Melt in one bite. 'Yeah, this isn't too bad I guess. Not nearly as good as I could have done though.'*

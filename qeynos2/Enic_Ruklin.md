@@ -48,7 +48,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Koalindl Fish](/item/13383)
+if **Faction** >= Amiable and  **You turn in:** [Koalindl Fish](/item/13383)) then  
 
 
 >**Enic Ruklin says:** Thank you my friend! Every Koalindl must be accounted for, even the dead. Rodcet Nife shall be pleased and I shall reward you. Nothing much. Just a token of gratitude.
@@ -72,6 +72,6 @@ if **Faction** >= Amiable and  **You turn in:** [Koalindl Fish](/item/13383)
 * __Faction:__ [Antonius Bayle](/faction/219) (15)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Band of Rodcet Nife](/item/13297), [Prayer Beads](/item/13296)) (+5850 exp)
 
 **This NPC *should* return incorrect items given.**

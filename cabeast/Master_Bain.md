@@ -122,7 +122,7 @@ end
 
 
 
-if **You turn in:** [Pale White Tome](/item/18468), [Vine Woven Basket](/item/22923)
+if( **You turn in:** [Pale White Tome](/item/18468), [Vine Woven Basket](/item/22923)) then
 
 
 >*Master Bain smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -136,7 +136,7 @@ if **You turn in:** [Pale White Tome](/item/18468), [Vine Woven Basket](/item/22
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **You turn in:** [Dim White Tome](/item/18467), [Earthenware Bowl](/item/22922)
+elseif( **You turn in:** [Dim White Tome](/item/18467), [Earthenware Bowl](/item/22922)) then
 
 
 >*Master Bain smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -150,7 +150,7 @@ elseif **You turn in:** [Dim White Tome](/item/18467), [Earthenware Bowl](/item/
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Monk Training Bag](/item/12688)
+elseif **Faction** >= Amiable and  **You turn in:** [Monk Training Bag](/item/12688)) then 
 
 
 

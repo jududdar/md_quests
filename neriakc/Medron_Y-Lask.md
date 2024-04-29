@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Basilisk Hatchling Hide](/item/16170), [Basilisk Hatchling Hide](/item/16170)
+if( **You turn in:** [Basilisk Hatchling Hide](/item/16170), [Basilisk Hatchling Hide](/item/16170)) then
 
 
 >*Medron Y-Lask stretches and fastened the basilisk skins across the shield frame and attaches a leather strap and grip to the back of the shield. 'Here is your new shield young Shadowknight. I have been paid in advance by the Lodge of the Dead for the shields assembly. May Innoruuk strengthen you in your service to Her Majesty Queen Cristanos.'*

@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Efreeti War Horn](/item/20830), [Saffron Spiroc Feather](/item/20961), [Adamantium Bands](/item/20828), [Glowing Diamond](/item/20829)
+if( **You turn in:** [Efreeti War Horn](/item/20830), [Saffron Spiroc Feather](/item/20961), [Adamantium Bands](/item/20828), [Glowing Diamond](/item/20829)) then 
 
 
 >**Denise Songweaver says:** Well done, Soandso. Here is your reward.
@@ -47,7 +47,7 @@ if **You turn in:** [Efreeti War Horn](/item/20830), [Saffron Spiroc Feather](/i
 
 **Denise Songweaver despawns.**
 
-elseif **You turn in:** [Imp Statuette](/item/20953), [Dull Stone](/item/20826), [Amulet of Woven Hair](/item/20827)
+elseif( **You turn in:** [Imp Statuette](/item/20953), [Dull Stone](/item/20826), [Amulet of Woven Hair](/item/20827)) then
 
 
 
@@ -59,7 +59,7 @@ elseif **You turn in:** [Imp Statuette](/item/20953), [Dull Stone](/item/20826),
 
 **Denise Songweaver despawns.**
 
-elseif **You turn in:** [Efreeti War Spear](/item/20831), [Manna Nectar](/item/20968), [Nebulous Emerald](/item/20832), [Nebulous Diamond](/item/20833)
+elseif( **You turn in:** [Efreeti War Spear](/item/20831), [Manna Nectar](/item/20968), [Nebulous Emerald](/item/20832), [Nebulous Diamond](/item/20833)) then
 
 
 

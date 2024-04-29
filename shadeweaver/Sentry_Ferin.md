@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Sealed Cask](/item/30852)
+if( **You turn in:** [Sealed Cask](/item/30852)) then 
 
 
 >**Sentry Ferin says:** You are truly a friend to the Felidae. Take this shroud as a small token of the honor you have done to our people - it is just a small step towards becoming a champion among our people.

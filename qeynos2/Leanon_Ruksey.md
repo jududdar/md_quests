@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Jusean's Report Request](/item/18020)
+if( **You turn in:** [Jusean's Report Request](/item/18020)) then
 
 
 >**Leanon Ruksey says:** Ah, hello there, Soandso. It's such a fine day out, wouldn't you say? Ah, reports are due in. Very well, here you go. Say hello to the fellows back at the Wind Spirit's Song for me. May you have many safe travels, my friend.

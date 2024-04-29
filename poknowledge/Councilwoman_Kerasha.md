@@ -51,7 +51,7 @@ end
 
 
 
-if **You turn in:** [Power of the Planes](/item/16266)
+if( **You turn in:** [Power of the Planes](/item/16266)) then 
 
 
 >*Councilwoman Kerasha takes the Power from you and hands it to Aid Eino. 'Thank you Soandso. The energy I must expend to perform such a task is days in the gathering. The city of Tanaan is forever in your debt. Take this, it is but a small token of the gratitude of the city. If it does not suit you, return it to me and I shall give you another reward.'*
@@ -59,7 +59,7 @@ if **You turn in:** [Power of the Planes](/item/16266)
 
  **You receive:**  [Jade Hoop of Speed](/item/32106) 
 
-if **You turn in:** [Jade Hoop of Speed](/item/32106)
+if( **You turn in:** [Jade Hoop of Speed](/item/32106)) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
@@ -67,7 +67,7 @@ if **You turn in:** [Jade Hoop of Speed](/item/32106)
 
  **You receive:**  [Frizzniks Endless Coin Purse](/item/17209) 
 
-if **You turn in:** [Frizzniks Endless Coin Purse](/item/17209)
+if( **You turn in:** [Frizzniks Endless Coin Purse](/item/17209)) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
@@ -75,7 +75,7 @@ if **You turn in:** [Frizzniks Endless Coin Purse](/item/17209)
 
  **You receive:**  [Cord of Invigoration](/item/32107) 
 
-if **You turn in:** [Cord of Invigoration](/item/32107)
+if( **You turn in:** [Cord of Invigoration](/item/32107)) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
@@ -83,7 +83,7 @@ if **You turn in:** [Cord of Invigoration](/item/32107)
 
  **You receive:**  [Mace of the Ancients](/item/32108) 
 
-if **You turn in:** [Mace of the Ancients](/item/32108)
+if( **You turn in:** [Mace of the Ancients](/item/32108)) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
@@ -91,7 +91,7 @@ if **You turn in:** [Mace of the Ancients](/item/32108)
 
  **You receive:**  [Ring of Farsight](/item/32109) 
 
-if **You turn in:** [Ring of Farsight](/item/32109)
+if( **You turn in:** [Ring of Farsight](/item/32109)) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.

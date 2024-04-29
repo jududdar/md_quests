@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [A love letter (Sealed)](/item/20876)
+if( **You turn in:** [A love letter (Sealed)](/item/20876)) then
 
 
 >**Ganelorn Oast says:** Ah, what do we have here? A letter? Hmm? Scented with a familiar fragrance too. You must have gotten this from Lily. I do wish I had more time to spend with her, for she is a very sweet girl. If she trusts you to deliver such a letter, I must ask you to do me a favor for me. Please take these eggs. They are a very rare species of albino rattlesnakes which were thought to have been extinct due to poachers who eat them as a delicacy and griffins which prey on them. If these eggs hatch there is hope for the species. I need you to deliver them to my master, Kithicor.
@@ -42,7 +42,7 @@ if **You turn in:** [A love letter (Sealed)](/item/20876)
 
  **You receive:**  [Albino Rattlesnake Eggs](/item/20877) (+1000 exp)
 
-elseif **You turn in:** [Symbol of Achievement](/item/20878)
+elseif( **You turn in:** [Symbol of Achievement](/item/20878)) then
 
 
 >**Ganelorn Oast says:** This does speak highly of you, my friend, an award from Kithicor does not come easy. But I must see more of your skills before I can consider teaching you. Lily's brother Devin is my current pupil - I need you to gather some equipment for me so I can properly train him. I require the following items of you - a smoldering sash, an adamantine ring and a blade forged of electrum. I also need a favor. Take this credit slip to Aanina Rockfinder. She is a merchant from whom I purchased a gift for Lily; it should be ready by now.
@@ -50,7 +50,7 @@ elseif **You turn in:** [Symbol of Achievement](/item/20878)
 
  **You receive:**  [A note of credit](/item/20879) (+1000 exp)
 
-elseif **You turn in:** [A burnt sash](/item/20881), [A Gift](/item/20880), [Adamantite Band](/item/10151), [Electrum-Bladed Wakizashi](/item/5408)
+elseif( **You turn in:** [A burnt sash](/item/20881), [A Gift](/item/20880), [Adamantite Band](/item/10151), [Electrum-Bladed Wakizashi](/item/5408)) then
 
 
 >**Ganelorn Oast says:** You have done well. I sense the one I have been hunting in the distance. As your final test, you must track him down and destroy him.
@@ -76,7 +76,7 @@ elseif **You turn in:** [A burnt sash](/item/20881), [A Gift](/item/20880), [Ada
 
  **You receive:** 0 (+10000 exp)
 
-elseif **You turn in:** [A Poacher's Head](/item/20882)
+elseif( **You turn in:** [A Poacher's Head](/item/20882)) then
 
 
 >**Ganelorn Oast says:** You, Soandso, are a worthy forester. It brings me great pride to present you this scroll that I have only passed to the finest in all of Norrath. Now you, too, may call the flames.

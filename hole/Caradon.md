@@ -34,7 +34,7 @@ end
 
 
 
-if **Faction** >  Apprehensive +17 and  **You turn in:** [Cell Key](/item/14373)
+if **Faction** >  Apprehensive +17 and  **You turn in:** [Cell Key](/item/14373)) then
 
 
 >**Caradon says:** Kyrenna! We are free!

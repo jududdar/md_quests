@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Auburn Tessera](/item/20934), [Drake Fang](/item/20834), [Leather Cord](/item/20835)
+if( **You turn in:** [Auburn Tessera](/item/20934), [Drake Fang](/item/20834), [Leather Cord](/item/20835)) then
 
 
 
@@ -42,7 +42,7 @@ if **You turn in:** [Auburn Tessera](/item/20934), [Drake Fang](/item/20834), [L
 
  **You receive:**  [Amulet of the Fang](/item/27726) (+100000 exp)
 
-elseif **You turn in:** [Platinum Disc](/item/20940), [Ethereal Amber](/item/20836), [Shimmering Amber](/item/20837), [Ceremonial Belt](/item/20838)
+elseif( **You turn in:** [Platinum Disc](/item/20940), [Ethereal Amber](/item/20836), [Shimmering Amber](/item/20837), [Ceremonial Belt](/item/20838)) then 
 
 
 >**Gina McStargan says:** The bracelet of the spirits will fit you well, Soandso.
@@ -50,7 +50,7 @@ elseif **You turn in:** [Platinum Disc](/item/20940), [Ethereal Amber](/item/208
 
  **You receive:**  [Bracelet of the Spirits](/item/27727) (+100000 exp)
 
-elseif **You turn in:** [Phosphoric Globe](/item/20947), [Sphinx Hide](/item/20839), [Light Damask Mantle](/item/20840)
+elseif( **You turn in:** [Phosphoric Globe](/item/20947), [Sphinx Hide](/item/20839), [Light Damask Mantle](/item/20840)) then 
 
 
 >**Gina McStargan says:** Great work, Soandso! Take this mantle as a token of my respect for you.

@@ -40,7 +40,7 @@ end
 
 
 
-if( **Faction is** >= Ally and  **You turn in:** [Spirit Wracked Urn](/item/6477), [Undead Dragon Sinew](/item/6478), [Regal band of Bathezid](/item/5727)
+if( **Faction is** >= Ally and  **You turn in:** [Spirit Wracked Urn](/item/6477), [Undead Dragon Sinew](/item/6478), [Regal band of Bathezid](/item/5727)) then
 
 
 >**Queen Velazul Di-zok says:** Amazing! You have returned the trophies I asked for, against impossible odds. Here is your reward, worthy minion, may it serve you well.

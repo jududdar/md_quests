@@ -6,7 +6,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18718)
+if( **You turn in:** [A tattered note](/item/18718)) then 
 
 
 >**Gahlith Wrannstad says:** Greetings, I am Gahlith, Master of the Wizard's Order of the Hall of Sorcery. Here, we have devoted our lives and souls to the study of the arcane. My apprentice Kazlo Naedra shall tutor you and teach you the fundamentals of sorcery.

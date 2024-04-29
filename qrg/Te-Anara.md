@@ -134,7 +134,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18713)
+if( **You turn in:** [A tattered note](/item/18713)) then 
 
 
 >**Te-Anara says:** Well met, friend of the forest. You will find power and enlightenment amidst these woods. Here, wear this tunic and represent the Jaggedpine with pride. Gerael Woodone will help train you and teach you the duties of Jaggedpine Treefolk. The forests, being the soul and heart of Norrath, depend on you and your actions from this day forth.
@@ -157,7 +157,7 @@ if **You turn in:** [A tattered note](/item/18713)
 
  **You receive:**  [Dried Grass Tunic*](/item/13510) (+20 exp)
 
-elseif **You turn in:** [Bayle List II](/item/18809)
+elseif( **You turn in:** [Bayle List II](/item/18809)) then
 
 
 >**Te-Anara says:** Oh my, this must belong to Antonius Bayle! I shall see that he receives it. You have done a great service to Qeynos and Surefall Glade. I rewards you with this. May it be of good use in your future deeds.
@@ -180,7 +180,7 @@ elseif **You turn in:** [Bayle List II](/item/18809)
 
  **You receive:**  [Spell: Invigor](/item/15222) (+100 exp)
 
-elseif **You turn in:** [A Sealed Letter](/item/18807)
+elseif( **You turn in:** [A Sealed Letter](/item/18807)) then 
 
 
 >**Te-Anara says:** Aye! This is good news. We shall try to supply Qeynos with a limited number of acres to begin their lumberyard. Here, my good messenger. A token to share in the good news.
@@ -206,9 +206,9 @@ elseif **You turn in:** [A Sealed Letter](/item/18807)
 * __Faction:__ [Guards of Qeynos](/faction/262) (4)
 
 
- **You receive:** None 
+ **You receive:** 0 (+5000 exp)
 
-elseif **You turn in:** [A Sealed Letter](/item/18806)
+elseif( **You turn in:** [A Sealed Letter](/item/18806)) then 
 
 
 >**Te-Anara says:** This is dreadful news. We have been nothing but kind neighbors to Qeynos. Now Antonius Bayle wishes to abuse our friendship. This will not sit well with the others. Begone, messenger!

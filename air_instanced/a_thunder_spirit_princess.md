@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** gold = 10
+if( **You turn in:** gold = 10) then
 
 
 >**a thunder spirit princess says:** Thank you, Soandso. I will tell him to expect visitors.

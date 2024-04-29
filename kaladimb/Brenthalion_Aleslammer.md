@@ -147,7 +147,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Enraged Goblin Beads](/item/2396), [Green Goblin Head](/item/28065), [Aqua Goblin Head](/item/28066)
+if(expansion_flag >= 4.0 and  **You turn in:** [Enraged Goblin Beads](/item/2396), [Green Goblin Head](/item/28065), [Aqua Goblin Head](/item/28066)) then
 
 
 >**Brenthalion Aleslammer says:** Dese will surely be a great addition to me trophy room Soandso! I knew I could count on you to not have a problem collecting these things for me. As I promised, I have prepared you a fine blade that will surely guide you to victory wherever your travels may take you. Gud luck to ye Soandso, hammers high!

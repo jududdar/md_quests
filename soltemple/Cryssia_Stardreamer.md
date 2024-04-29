@@ -84,7 +84,7 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Dark Boned Bracelet](/item/10564), [Griffenne Charm](/item/10563), [Lambent Fire Opal](/item/10128)
+if **Faction** >= Indifferent and  **You turn in:** [Dark Boned Bracelet](/item/10564), [Griffenne Charm](/item/10563), [Lambent Fire Opal](/item/10128)) then
 
 
 >**Cryssia Stardreamer says:** Good show, Soandso, here is your lambent bracer
@@ -98,7 +98,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Dark Boned Bracelet](/item/
 
  **You receive:**  [Lambent Bracers](/item/4156) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Basalt Carapace](/item/4100), [Consortium Mandolin](/item/10565), [Lambent Ruby](/item/10118)
+elseif **Faction** >= Indifferent and  **You turn in:** [Basalt Carapace](/item/4100), [Consortium Mandolin](/item/10565), [Lambent Ruby](/item/10118)) then
 
 
 >**Cryssia Stardreamer says:** Exceptionally well done, Soandso, here is your lambent breastplate. Wear it with pride.
@@ -112,7 +112,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Basalt Carapace](/item/
 
  **You receive:**  [Lambent Breastplate](/item/4154) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Mudwater Rune](/item/10559), [Opoline Helm](/item/4099), [Lambent Star Ruby](/item/10117)
+elseif **Faction** >= Indifferent and  **You turn in:** [Mudwater Rune](/item/10559), [Opoline Helm](/item/4099), [Lambent Star Ruby](/item/10117)) then
 
 
 >**Cryssia Stardreamer says:** Well done, Soandso, here is your lambent helm. Wear it with the praises of the League of Antonican Bards.
@@ -126,7 +126,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Mudwater Rune](/item/10
 
  **You receive:**  [Lambent Helm](/item/4153) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fiery Vambraces](/item/4113), [Rune of the One Eye](/item/10560), [Lambent Sapphire](/item/10119)
+elseif **Faction** >= Indifferent and  **You turn in:** [Fiery Vambraces](/item/4113), [Rune of the One Eye](/item/10560), [Lambent Sapphire](/item/10119)) then
 
 
 >**Cryssia Stardreamer says:** Excellent, Soandso, you have proved yourself most resourceful. Here are your lambent vambraces.

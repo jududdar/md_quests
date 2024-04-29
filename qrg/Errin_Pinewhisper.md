@@ -131,7 +131,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Yollis Jenkin's Head](/item/19949)
+if(expansion_flag >= 4.0 and  **You turn in:** [Yollis Jenkin's Head](/item/19949)) then
 
 
 >**Errin Pinewhisper says:** It is a shame when human blood must be shed in the defense of our brother wolves and bears. I thank you for your dedication to the Jaggedpine Treefolk. Take this rusty pine scout sword and sharpen it in a forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done return the sharpened sword to me with a gnoll fang and a large king snake skin and I will put the finishing touches on the weapon.
@@ -155,9 +155,9 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Yollis Jenkin's Head](/item/1994
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Rusty Pine Scout Sword](/item/19950) (+1000 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Pine Scout Sword](/item/20104), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Pine Scout Sword](/item/20104), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)) then
 
 
 >*Errin Pinewhisper fashions a grip from the large king snake skin, attaches the gnoll fang to the heel of the swords hilt, and polishes the blade of the sword with a luminescent green polish. 'Here is your new weapon young ranger. May it serve you well.'*
@@ -178,7 +178,7 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Pine Scout Sword](
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Pine Scout Longsword](/item/20263) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

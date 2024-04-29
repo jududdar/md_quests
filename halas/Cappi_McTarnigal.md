@@ -34,7 +34,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Mammoth Calf Hide](/item/5243), [Mammoth Calf Hide](/item/5243), [Mammoth Calf Hide](/item/5243), [Mammoth Calf Hide](/item/5243)
+if **Faction** >= Indifferent and  **You turn in:** [Mammoth Calf Hide](/item/5243), [Mammoth Calf Hide](/item/5243), [Mammoth Calf Hide](/item/5243), [Mammoth Calf Hide](/item/5243)) then
 
 
 

@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [Kilij Plans](/item/12206), [Enchanted Gold Bar](/item/16506), [Enchanted Gold Bar](/item/16506), [Enchanted Gold Bar](/item/16506)
+if( **You turn in:** [Kilij Plans](/item/12206), [Enchanted Gold Bar](/item/16506), [Enchanted Gold Bar](/item/16506), [Enchanted Gold Bar](/item/16506)) then
 
 
 >**Bilrio Surecut says:** You have succeeded in your quest for the kilij!! Wield it proudly.

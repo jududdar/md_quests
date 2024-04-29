@@ -91,7 +91,7 @@ local text = "I am expecting pages one through four. Do I have to go and find th
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [An Illegible Note](/item/12854), [An Illegible Note](/item/12855), [An Illegible Note](/item/12856), [An Illegible Note](/item/12857)
+if **Faction** >= Amiable and  **You turn in:** [An Illegible Note](/item/12854), [An Illegible Note](/item/12855), [An Illegible Note](/item/12856), [An Illegible Note](/item/12857)) then
 
 
 >**Keeper Rott says:** Oh, great necromancer, how can I repay you?!! I know. Here is a spell I recently researched. It should help you increase the strength of a summoned pet. Learn it well.

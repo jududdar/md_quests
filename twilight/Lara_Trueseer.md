@@ -70,32 +70,32 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Astral Jewel](/item/4494), [Golden Flower](/item/4675), [Grail of Enchantment](/item/4676), [Mark of Beauty](/item/4677)
+if( **You turn in:** [Astral Jewel](/item/4494), [Golden Flower](/item/4675), [Grail of Enchantment](/item/4676), [Mark of Beauty](/item/4677)) then 
 
 
  **You receive:**  [Cap of Enrapturement](/item/3697) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Eye of the Enraptured](/item/4678), [Mark of Affection](/item/4679), [Book of Inspiration](/item/4680)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Eye of the Enraptured](/item/4678), [Mark of Affection](/item/4679), [Book of Inspiration](/item/4680)) then 
 
 
  **You receive:**  [Robe of Enrapturement](/item/3698) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Page of Prose](/item/4681), [Mark of Reality](/item/4682), [Truncated Ring](/item/4683)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Page of Prose](/item/4681), [Mark of Reality](/item/4682), [Truncated Ring](/item/4683)) then 
 
 
  **You receive:**  [Sleeves of Enrapturement](/item/3699) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Passion](/item/4684), [Adamantium Quill](/item/4685), [Pristine Shik-Nar Claws](/item/4686)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Passion](/item/4684), [Adamantium Quill](/item/4685), [Pristine Shik-Nar Claws](/item/4686)) then 
 
 
  **You receive:**  [Pants of Enrapturement](/item/3700) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Understanding](/item/4687), [Hope Emerald](/item/4688)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Understanding](/item/4687), [Hope Emerald](/item/4688)) then 
 
 
  **You receive:**  [Shawl of Enrapturement](/item/3701) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Elegance](/item/4689), [Hope Sapphire](/item/4690)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Elegance](/item/4689), [Hope Sapphire](/item/4690)) then 
 
 
  **You receive:**  [Bracer of Enrapturement](/item/3702) (+25000 exp)

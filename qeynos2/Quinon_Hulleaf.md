@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Jusean's Report Request](/item/18020)
+if( **You turn in:** [Jusean's Report Request](/item/18020)) then
 
 
 >**Quinon Hulleaf says:** Ah, hey, Soandso...  <yawns>...  Here ya go...  <yawns>...  Please excuse my yawning, but this working nights has really drained the energy out of me.  Though, it does...  <yawn>...  get interesting around here sometimes, which helps to keep me awake.  Anyway, be safe, Soandso, and I'll see you later.

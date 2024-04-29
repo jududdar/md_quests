@@ -84,7 +84,7 @@ if **Faction** >= Indifferent and  **You turn in:**  { [Bat Wing](/item/13068)},
 
  **You receive:** eq.ChooseRandom( [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Shield of Fire](/item/15332)) (+10 exp)
 
-elseif **You turn in:** [An Enrollment Letter](/item/18777)
+elseif( **You turn in:** [An Enrollment Letter](/item/18777)) then 
 
 
 >**Niola Impholder says:** Welcome. I am Niola Impholder. Master Magician of the Keepers of the Art. Here is our guild tunic. You have much to learn, so let's get started.
@@ -104,7 +104,7 @@ elseif **You turn in:** [An Enrollment Letter](/item/18777)
 
  **You receive:**  [Faded Training Robe*](/item/13592) (+20 exp)
 
-elseif **You turn in:** [A Torn Drawing](/item/18902)
+elseif( **You turn in:** [A Torn Drawing](/item/18902)) then
 
 
 >**Niola Impholder says:** What? Not as supposed? What can he... Well, that's all well and good. You, I assume, wish a reward for your 'valiant work'? Well, here you go, adventurer.

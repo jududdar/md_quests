@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [A Pulsating Rock](/item/4768)
+if( **You turn in:** [A Pulsating Rock](/item/4768)) then
 
 
 >**Palomidiar Allakhaji says:** This is it, this is what I am looking for to continue my studies. It is generating the same if not more energy then the rock before it! Excellent work, Soandso. You have my sincere thanks. Should you collect further samples in the future please bring them to me directly.

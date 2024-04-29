@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Snapped Pole](/item/13922)
+if( **You turn in:** [Snapped Pole](/item/13922)) then 
 
 
 >**Olunea Miltin says:** Great! Thank you stranger. The rogues must have broken it. At least I could repair it. It would be seasons before I could afford another pole.

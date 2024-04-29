@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789)
+if( **You turn in:** [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789)) then
 
 
 >**Jala says:** Woohoo! Thank you so much Soandso! Hey, maybe you would like to try your hand at weaving as well. If you combine the silks in that loom over there, you can make some decent thread to work with. Make four of them and bring them to me. I will judge your craftsmanship.
@@ -34,7 +34,7 @@ if **You turn in:** [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), 
 
  **You receive:** 0 (+1000 exp)
 
-if **You turn in:** [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791)
+if( **You turn in:** [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791)) then
 
 
 >**Jala says:** Not bad at all! You definitely have some hidden talent there Soandso. Keep at it and you may just become a master tailor yourself. Here, take this with you. It will help protect you from the nasty bite of the Xakra worms.

@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A Faded Wedding Cloth](/item/18904)
+if( **You turn in:** [A Faded Wedding Cloth](/item/18904)) then
 
 
 >**Merchant Iludarae says:** 'I have no words for the gratitude I feel. So many of our young ones have been captured by the filthy orcs. Please, take this for saving my sister.

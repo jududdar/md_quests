@@ -74,7 +74,7 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Half Elf Head](/item/12186)
+if **Faction** >= Amiable +300 and  **You turn in:** [Half Elf Head](/item/12186)) then 
 
 
 >**Laren says:** You have proven yourself to be a worthy Scout of Tunare and as such you are worthy to hold the hilt of a scout blade. Remember, rogues in class are we, but in our chests beats the heart of the forest. Our skills are used in defense of Kelethin and her allies. Next you shall speak to Master Tylfon. He will inform you of the [scout silvermesh leggings].
@@ -83,7 +83,7 @@ if **Faction** >= Amiable +300 and  **You turn in:** [Half Elf Head](/item/12186
 * __Faction:__ [Scouts of Tunare](/faction/316) (10)
 
 
- **You receive:** None 
+ **You receive:**  [Scouts Blade](/item/7321) (+20000 exp)
 
 **This NPC *should* return incorrect items given.**
 

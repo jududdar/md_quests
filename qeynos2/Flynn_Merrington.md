@@ -62,7 +62,7 @@ end
 
 
 
-if **You turn in:** [Eruds Tonic](/item/13122)
+if( **You turn in:** [Eruds Tonic](/item/13122)) then
 
 
 >**Flynn Merrington says:** Well, now... That's cutting out the middle man. Thanks, chum! Now, beat it!

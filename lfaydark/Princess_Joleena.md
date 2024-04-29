@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [A Glimmering Fairie Wing](/item/12339)
+if( **You turn in:** [A Glimmering Fairie Wing](/item/12339)) then
 
 
 >**Princess Joleena says:** My wing!! I am so happy!! Thank you Soandso. You have proved that I can trust giants once again. Please take a Pouch of Fairie Gold Dust. Its magical properties are desired by all.

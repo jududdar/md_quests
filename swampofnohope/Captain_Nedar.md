@@ -18,7 +18,7 @@ local text = "There shall be no coins for you until I have four of these.";
 
 
 
-if **You turn in:** [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/item/12439)
+if( **You turn in:** [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/item/12439)) then
 
 
 >**Captain Nedar says:** Well done. It is good to serve the Warlord. Here is a small reward befitting such a small task.
@@ -39,7 +39,7 @@ if **You turn in:** [Froglok Tad Tongue](/item/12439), [Froglok Tad Tongue](/ite
 * __Faction:__ [Swift Tails](/faction/444) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Flask of Bloodwater](/item/12616) (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

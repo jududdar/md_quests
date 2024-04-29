@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Rune Shafted Harpoon](/item/30052)
+if( **You turn in:** [Rune Shafted Harpoon](/item/30052)) then
 
 
 >*Keref Spiritspear gasps in astonishment. 'This true hero weapon.  This just like harpoon of mighty Groumshak! Now I can find family! Many thanks, friend to Snowfang. Take this for thanks. It protect from danger.'  He hands you an intricately carved ice totem. A feeling of safety washes over you as he places it in your hand.*

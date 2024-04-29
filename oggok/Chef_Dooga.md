@@ -64,7 +64,7 @@ local text = "Chef Dooga asks for three pickled frogloks and ten gold pieces for
 
 
 
-if **You turn in:** [Human Flesh](/item/13364)
+if( **You turn in:** [Human Flesh](/item/13364)) then 
 
 
 >**Chef Dooga says:** MmmmMmm. Human make good meat pies. Here. A little coins for you.
@@ -96,9 +96,9 @@ if **You turn in:** [Human Flesh](/item/13364)
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+10000 exp)
 
-elseif **You turn in:** [High Elf Flesh](/item/13365)
+elseif( **You turn in:** [High Elf Flesh](/item/13365)) then 
 
 
 >**Chef Dooga says:** High elf!! Now that is a good meat.  Goes good with Ogre Swill.
@@ -129,9 +129,9 @@ elseif **You turn in:** [High Elf Flesh](/item/13365)
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+10000 exp)
 
-elseif **You turn in:** [Pickled Froglok](/item/13452), [Pickled Froglok](/item/13452), [Pickled Froglok](/item/13452), platinum = 1
+elseif( **You turn in:** [Pickled Froglok](/item/13452), [Pickled Froglok](/item/13452), [Pickled Froglok](/item/13452), platinum = 1) then
 
 
 >**Chef Dooga says:** Here is da ogre butcher apron. Gos and cook.

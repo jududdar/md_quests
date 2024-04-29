@@ -42,7 +42,7 @@ end
 if **Faction** >= Apprehensive +42 then 
 
 
-if **You turn in:** [Corrupted Ghoulbane](/item/14367), [Heart of the Innocent](/item/14368), [Head of the Valiant](/item/14369), [Will of Innoruuk](/item/14370)
+if( **You turn in:** [Corrupted Ghoulbane](/item/14367), [Heart of the Innocent](/item/14368), [Head of the Valiant](/item/14369), [Will of Innoruuk](/item/14370)) then 
 
 
 

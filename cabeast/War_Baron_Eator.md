@@ -70,7 +70,7 @@ local text2 = "shines a bright smile which quickly fades to a frown. 'The memory
 
 
 
-if **You turn in:** [Dark Grey Tome](/item/18464), [Sarnak Hide](/item/22919)
+if( **You turn in:** [Dark Grey Tome](/item/18464), [Sarnak Hide](/item/22919)) then
 
 
 >*War Baron Eator smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -84,7 +84,7 @@ if **You turn in:** [Dark Grey Tome](/item/18464), [Sarnak Hide](/item/22919)
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **You turn in:** [Light Black Tome](/item/18463), [Chokadai Scale](/item/22918)
+elseif( **You turn in:** [Light Black Tome](/item/18463), [Chokadai Scale](/item/22918)) then
 
 
 >*War Baron Eator smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -98,7 +98,7 @@ elseif **You turn in:** [Light Black Tome](/item/18463), [Chokadai Scale](/item/
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [An Emerald](/item/12899), [A Sapphire](/item/12898), [A Ruby](/item/12896), [Footman's Pike](/item/5132)
+elseif **Faction** >= Amiable and  **You turn in:** [An Emerald](/item/12899), [A Sapphire](/item/12898), [A Ruby](/item/12896), [Footman's Pike](/item/5132)) then
 
 
 >*War Baron Eator gulps down a wad of phlegm. 'My memory has returned! Soandso! You are no footman. I grant you the rank of soldier. Go and forge your weapon. Do not return to me until you become a [brave trooper of the empire].'*
@@ -121,7 +121,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [An Emerald](/item/12899), [
 
  **You receive:**  [Soldier Head Plans](/item/12476) (+800 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Legionnaire Recommendation](/item/18073), [Legionnaire Recommendation](/item/18072), [Legionnaire Recommendation](/item/18074), [Trooper's Pike](/item/5134)
+elseif **Faction** >= Amiable and  **You turn in:** [Legionnaire Recommendation](/item/18073), [Legionnaire Recommendation](/item/18072), [Legionnaire Recommendation](/item/18074), [Trooper's Pike](/item/5134)) then
 
 
 >*War Baron Eator takes away your pike and hands you plans not for a pike head, but for the crown of another polearm. 'It is time to wield the weapon of a [true warrior of the legion]. You have done well, Legionnaire Soandso!'*

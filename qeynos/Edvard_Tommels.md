@@ -96,7 +96,7 @@ if(math.random(100) < 50 and not **You possess item:**  [Karanas Tear](/item/120
 
 
 
- **You receive:** None 
+ **You receive:**  [Karanas Tear](/item/12076) 
 
 
 

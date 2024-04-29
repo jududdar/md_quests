@@ -41,7 +41,7 @@ local text1 = "Good work! Now have you the rest of what I require?";
 
 
 
-if **You turn in:** [Bag of Troll Guts](/item/13703),platinum = 1
+if( **You turn in:** [Bag of Troll Guts](/item/13703),platinum = 1) then
 
 
 >**Sansa Nusk says:** I am not even going to bother asking where you got that. Just take this set I already made and hurry them back to Fabian.

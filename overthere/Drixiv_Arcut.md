@@ -183,22 +183,22 @@ end
 
 
 
-if **You turn in:** [Glosk's Reference: Boots](/item/14813), [Banded Boots](/item/3064)
+if( **You turn in:** [Glosk's Reference: Boots](/item/14813), [Banded Boots](/item/3064)) then
 
 
  **You receive:**  [Trooper Scale Boots](/item/4983) (+10000 exp)
 
-if **You turn in:** [Xog's Reference: Bracer](/item/14808), [Banded Bracer](/item/3061)
+if( **You turn in:** [Xog's Reference: Bracer](/item/14808), [Banded Bracer](/item/3061)) then
 
 
  **You receive:**  [Trooper Scale Bracers](/item/4980) (+10000 exp)
 
-if **You turn in:** [Glosk's Reference: Greaves](/item/14831), [Banded Leggings](/item/3063)
+if( **You turn in:** [Glosk's Reference: Greaves](/item/14831), [Banded Leggings](/item/3063)) then
 
 
  **You receive:**  [Trooper Scale Greaves](/item/4982) (+10000 exp)
 
-if **You turn in:** [Xog's Reference: Gauntlet](/item/14809), [Banded Gauntlets](/item/3062)
+if( **You turn in:** [Xog's Reference: Gauntlet](/item/14809), [Banded Gauntlets](/item/3062)) then
 
 
  **You receive:**  [Trooper Scale Gauntlets](/item/4981) (+10000 exp)

@@ -83,7 +83,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Letter to Behroe](/item/18027)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Letter to Behroe](/item/18027)) then
 
 
 >**Behroe Dlexon says:** Ah, thank you, kind Soandso.  You've made two foolish lovebirds very happy.  Please, take this..  Though it is not much, it will help keep you warm on those chilly Karana nights.  It is very good to have a friend such as yourself, and I will one day repay you for your kindness and generosity.
@@ -109,7 +109,7 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Letter to Behroe](/item
 
  **You receive:**  [Shawl of the Wind Spirit](/item/1055) (+50 exp)
 
-elseif **Faction** >= Indifferent +50 and  **You turn in:** [Jusean's Report Request](/item/18021)
+elseif **Faction** >= Indifferent +50 and  **You turn in:** [Jusean's Report Request](/item/18021)) then
 
 
 >*Behroe Dlexon yawns and says, 'Oh, report time already again?  Yeah, here ya go, Soandso.  Be careful around here at night, I've been seeing some rough looking characters lurking about.*

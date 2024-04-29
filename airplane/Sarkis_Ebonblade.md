@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Shadowy Virtues](/item/18524)
+if( **You turn in:** [Shadowy Virtues](/item/18524)) then 
 
 
 >**Sarkis Ebonblade says:** Farewell.
@@ -48,7 +48,7 @@ if **You turn in:** [Shadowy Virtues](/item/18524)
 
 **Sarkis Ebonblade despawns.**
 
-elseif **You turn in:** [Knights of the Malign](/item/18525)
+elseif( **You turn in:** [Knights of the Malign](/item/18525)) then 
 
 
 >**Sarkis Ebonblade says:** Till next time!  Farewell!

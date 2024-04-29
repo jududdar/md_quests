@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18726)
+if( **You turn in:** [A tattered note](/item/18726)) then 
 
 
 >**Depnar Bulrious says:** Welcome to the Temple of Divine Light. I am Master Bulrious. Here. we study and spread the will of Quellious. Here is your guild tunic. Go find Jras Solsier. he will get you started with your first lesson.

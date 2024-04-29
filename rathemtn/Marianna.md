@@ -41,7 +41,7 @@ local text = "I said two portions of rotten shark meat.";
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Rotten Shark Meat](/item/12310), [Rotten Shark Meat](/item/12310)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Rotten Shark Meat](/item/12310), [Rotten Shark Meat](/item/12310)) then
 
 
 >**Marianna says:** You now own a mold for the Vambraces of Ro.  Go and ask Thomas of [Lord Searfire] for the final component.

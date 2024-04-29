@@ -62,15 +62,18 @@ end
 
 
 
-if **You turn in:** [Jeb's Seal](/item/10604)
+if( **You turn in:** [Jeb's Seal](/item/10604)) then 
 
 
 >**Nadia Starfeast says:** Oh it must be time to reveal the staff! The piece I will help you craft is encrusted with magical gems. These gems contain the essence of various creatures. Alone they have very little power. Combined together they are much more powerful. They must be combined in a sack. Just ask if you don't have one.
 
 
- **You receive:** None 
+ **You receive:**  [An Enchanters Sack](/item/17861) 
 
-elseif **You turn in:** [A Sack For Nadia](/item/10637)
+
+ **You receive:**  [Jeb's Seal](/item/10604) 
+
+elseif( **You turn in:** [A Sack For Nadia](/item/10637)) then 
 
 
 >**Nadia Starfeast says:** Lovely! You are indeed quite the charmer. Here, take the third part, and seek out the last master. The time draws near.

@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18755)
+if( **You turn in:** [A tattered note](/item/18755)) then 
 
 
 >**Gath N-Mare says:** I am Gath N'Mare, master wizard of the Tower of the Spurned. Welcome to our guild. Let's get started, shall we?  Here is your tunic, represent us well with it. Shanez X'Teria is our beginning guild trainer. He will teach you the basics and give you a solid learning foundation of magic.  Good luck, and study hard.

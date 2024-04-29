@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Cracked Amulet](/item/6515)
+if( **You turn in:** [Cracked Amulet](/item/6515)) then
 
 
 >*Nilibik Driogo speaks a small incantation as he pulls a branch from a nearby tree and ties it around the amulet 'I shall mourn him dearly, he was a good friend. This was the amulet that I had given him before he left to explore Grieg's End. I want you to have this for helping to find his lost soul. Go in peace my friend.*

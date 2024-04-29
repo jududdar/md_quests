@@ -200,25 +200,25 @@ local ear = 0;
 
 
 
-if **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)
+if( **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)) then
 
 
 
 ear = 4;
 
-elseif **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)
+elseif( **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)) then
 
 
 
 ear = 3;
 
-elseif **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)
+elseif( **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)) then
 
 
 
 ear = 2;
 
-elseif **You turn in:** [Left Goblin Ear](/item/13790)
+elseif( **You turn in:** [Left Goblin Ear](/item/13790)) then
 
 
 

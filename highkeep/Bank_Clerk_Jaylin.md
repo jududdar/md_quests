@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [H. K.  102](/item/12143)
+if( **You turn in:** [H. K.  102](/item/12143)) then
 
 
 >**Bank Clerk Jaylin says:** I am sorry to see you check out. Here is all you had in your box. We hope to serve you again. Have a nice day!! Next!
@@ -21,7 +21,7 @@ if **You turn in:** [H. K.  102](/item/12143)
 
  **You receive:**  [A Sealed Note](/item/18936) 
 
-elseif **You turn in:** [H.K. 106](/item/12193)
+elseif( **You turn in:** [H.K. 106](/item/12193)) then
 
 
 >**Bank Clerk Jaylin says:** I am sorry to see you check out. Here is all you had in your box. We hope to serve you again. Have a nice day!! Next!

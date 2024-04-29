@@ -169,7 +169,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Platinum Diamond Wedding Ring](/item/14707), [Black Sapphire Platinum Necklace](/item/14703), [White Dragon Hide](/item/9240)
+if **Faction** >= Indifferent and  **You turn in:** [Platinum Diamond Wedding Ring](/item/14707), [Black Sapphire Platinum Necklace](/item/14703), [White Dragon Hide](/item/9240)) then
 
 
 >**Karam Dragonforge says:** My fiancee will be so excited! An exquisite ring for the wedding and a gorgeous necklace as my wedding gift to her. Well, as promised, here is your white dragonscale cloak.
@@ -177,7 +177,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Platinum Diamond Wedding Ri
 
  **You receive:**  [White Dragonscale Cloak](/item/11603) 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Red Dragon Scales](/item/11622), [Vial of Swirling Smoke](/item/14402), platinum = 1000
+elseif **Faction** >= Indifferent and  **You turn in:** [Red Dragon Scales](/item/11622), [Vial of Swirling Smoke](/item/14402), platinum = 1000) then
 
 
 >**Karam Dragonforge says:** Wonderful! Now I can get back to my fiancee instantly! Isn't Love grand? As for your Red Dragonscale Armor, it is all done. Farewell!

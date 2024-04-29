@@ -32,7 +32,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Crushbone Shoulderpads](/item/13319), [Crushbone Shoulderpads](/item/13319), [Crushbone Belt](/item/13318), [Silk Swatch](/item/16482)
+if **Faction** >= Indifferent and  **You turn in:** [Crushbone Shoulderpads](/item/13319), [Crushbone Shoulderpads](/item/13319), [Crushbone Belt](/item/13318), [Silk Swatch](/item/16482)) then
 
 
 >**Linadian says:** Grand doing business with you. Hold your nose. I can never get rid of the orc stench of the vests. That is why the other merchants do not pay me much for them.
@@ -52,7 +52,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Crushbone Shoulderpads](/it
 
  **You receive:**  [Banded Orc Vest](/item/12187) (+100 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Deathfist Shoulderpads](/item/13917), [Deathfist Shoulderpads](/item/13917), [Deathfist Slashed Belt](/item/13916),gold = 10
+elseif **Faction** >= Indifferent and  **You turn in:** [Deathfist Shoulderpads](/item/13917), [Deathfist Shoulderpads](/item/13917), [Deathfist Slashed Belt](/item/13916),gold = 10) then
 
 
 >**Linadian says:** Grand doing business with you. Hold your nose. I can never get rid of the orc stench of the vests. That is why the other merchants do not pay me much for them.

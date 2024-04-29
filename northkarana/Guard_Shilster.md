@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** gold = 5
+if( **You turn in:** gold = 5) then
 
 
 >**Guard Shilster says:** There you go, sport. If you get caught with that, you didn't get it from me!

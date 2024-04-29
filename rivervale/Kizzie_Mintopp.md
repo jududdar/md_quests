@@ -53,7 +53,7 @@ end
 local text = "This is not all! Kizzie says, three honeycombs and thirty gold coins! Oooh! They never listen.";
 
 
-if **You turn in:** [Honeycomb](/item/13953), [Honeycomb](/item/13953), [Honeycomb](/item/13953),gold = 30
+if( **You turn in:** [Honeycomb](/item/13953), [Honeycomb](/item/13953), [Honeycomb](/item/13953),gold = 30) then
 
 
 >**Kizzie Mintopp says:** You are one lucky bixie buster. I just made a batch of honey jum. Here. No waiting for you.  One jar for your good work. Bye, now!

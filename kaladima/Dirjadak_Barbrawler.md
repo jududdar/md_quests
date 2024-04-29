@@ -171,7 +171,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Pristine Krag Claw](/item/28064), [Pristine Krag Claw](/item/28064), [Dirjadak\`s Chipped Stein](/item/28063)
+if(expansion_flag >= 4.0 and  **You turn in:** [Pristine Krag Claw](/item/28064), [Pristine Krag Claw](/item/28064), [Dirjadak\`s Chipped Stein](/item/28063)) then
 
 
 >**Dirjadak Barbrawler says:** Here is that blade I promised you Soandso.
@@ -180,7 +180,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Pristine Krag Claw](/item/28064)
 
 
 
- **You receive:** None 
+ **You receive:**  [Gem-Etched Battle Axe](/item/26076) 
 
 **This NPC *should* return incorrect items given.**
 

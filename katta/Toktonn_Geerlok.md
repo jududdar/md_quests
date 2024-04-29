@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695)
+if( **You turn in:** [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695)) then
 
 
 >**Toktonn Geerlok says:** Excellent! Soon the grimlings may be coerced into being less stingy with their precious ore!

@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Note](/item/18935)
+if( **You turn in:** [A Sealed Note](/item/18935)) then 
 
 
 >**Jail Clerk Maryl says:** That little halfing has escaped our prison. No doubt he will travel back to the safety of Rivervale. He left this cracked emerald. It appears he must have broken off a piece of it. I believe it belongs in Kaladim. You may take it, but I am sure your master will not be satisfied until you combine the final piece with this one. Of course, first you will have to find Bronin and ask him of the missing emerald shard.

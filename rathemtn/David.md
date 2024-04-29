@@ -44,7 +44,7 @@ local text = "Two Deepwater goblin nets are required.";
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Deepwater Goblin Net](/item/12311), [Deepwater Goblin Net](/item/12311)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Deepwater Goblin Net](/item/12311), [Deepwater Goblin Net](/item/12311)) then
 
 
 >**David says:** You have done well. Take the mold for the bracer.  Go forth to speak with Thomas of [Lord Searfire].  Then all components shall be known.
@@ -60,6 +60,6 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Deepwater Goblin Net](/
 * __Faction:__ [Heretics](/faction/265) (-3)
 
 
- **You receive:** None 
+ **You receive:**  [Mold of Ro Bracer](/item/12301) 
 
 **This NPC *should* return incorrect items given.**

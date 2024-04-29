@@ -38,7 +38,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Testament of Vanear](/item/13991)
+if **Faction** >= Amiable and  **You turn in:** [Testament of Vanear](/item/13991)) then
 
 
 >**Rarnan Lapice says:** I sent you after that book ages ago! What took you so long? I have already completed my studies. Luckily I found the original manuscript under my bedroll. I forgot I had kept it there. Take this as a token of my apology. Maybe it will aid you in your next book hunt. I know how cunning those books can be.

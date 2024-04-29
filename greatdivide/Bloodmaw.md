@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Yakman Parts](/item/30264), [Yakman Parts](/item/30264), [Yakman Parts](/item/30264), [Yakman Parts](/item/30264)
+if( **You turn in:** [Yakman Parts](/item/30264), [Yakman Parts](/item/30264), [Yakman Parts](/item/30264), [Yakman Parts](/item/30264)) then
 
 
 **Despawn NPC:**  [bloody gnome captive](/npc/118026)

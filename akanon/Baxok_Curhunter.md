@@ -75,7 +75,7 @@ end
 
 
 
-if **You turn in:** [Recruitment Summons](/item/18770)
+if( **You turn in:** [Recruitment Summons](/item/18770)) then 
 
 
 >**Baxok Curhunter says:** I, Baxok, guildmaster, welcome you to Gemchopper Hall, young warrior! You are expected to serve his majesty, King Ak'Anon, with pride. You have much to learn. You may report to any of the trainers for further guidance. Go forth and serve!
@@ -98,7 +98,7 @@ if **You turn in:** [Recruitment Summons](/item/18770)
 
  **You receive:**  [Torn and Ripped Tunic*](/item/13520) (+20 exp)
 
-elseif **You turn in:** [Blackbox XIVD](/item/13344)
+elseif( **You turn in:** [Blackbox XIVD](/item/13344)) then 
 
 
 >**Baxok Curhunter says:** I can hardly believe you destroyed the clockwork. The last ten men I sent became fairy fodder. Thank you. Here is a token of my appreciation. Serve Ak'Anon well and we shall treat you well.

@@ -58,7 +58,7 @@ end
 local text = "I cannot reward you until you hand me four orc pawn picks. So says Captain Hazran.";
 
 
-if **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885)
+if( **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885)) then
 
 
 >**Guard Valon says:** You have done well. Keep up the good work and we may trust you to [hunt dervish cutthroats] which in turn will allow you to join the Reserve Freeport Militia.
@@ -78,7 +78,7 @@ if **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), 
 
  **You receive:** 0 (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bag of Cutthroat Rings](/item/12272)
+elseif **Faction** >= Amiable and  **You turn in:** [Bag of Cutthroat Rings](/item/12272)) then
 
 
 >**Guard Valon says:** Excellent work, Soandso!! You are quite formidable. Maybe soon you shall aid in our efforts to rid the Northern part of Freeport of the paladins!! Until then keep up the good work. Take this Armory Token to the Militia Armorer in the Militia House in Freeport to receive your tunic. He may not be there, but I assure you he will show up at some time. On the second floor. Hail Sir Lucan!!

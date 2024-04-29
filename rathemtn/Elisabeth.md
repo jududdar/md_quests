@@ -40,7 +40,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Nightfall Giant's Head](/item/12313)
+if **Faction** >= Indifferent +50 and  **You turn in:** [A Nightfall Giant's Head](/item/12313)) then
 
 
 >**Elisabeth says:** You have done well.  These giants shall soon be purged from the Commonlands and the inns will be filled once again.  Here is the mold for the Ro Greaves.  For the final component, go and ask Thomas of [Lord Searfire].

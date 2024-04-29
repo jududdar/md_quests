@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18720)
+if( **You turn in:** [A tattered note](/item/18720)) then 
 
 
 >**Mespha Tevalian says:** Greetings Soandso. Welcome to the Hall of Sorcery. You have much to learn. Wear this tunic and represent us well. See my apprentice, Unsar Koldhagon, he will get you started and help you with your studies.

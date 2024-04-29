@@ -130,7 +130,7 @@ local text1 = "I called for the Tongues of Crytil, Rondo, Keldyn and Barma!";
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931)
+if **Faction** >= Amiable +100 and  **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931)) then 
 
 
 >**Diggins says:** Good work. We shall add these to the stash. Here is your reward, as promised. Be happy with it and continue your work. Maybe soon you shall be able to [earn a parrying pick].
@@ -156,7 +156,7 @@ if **Faction** >= Amiable +100 and  **You turn in:** [RunnyEye Warbeads](/item/1
 
  **You receive:** eq.ChooseRandom( [Rusty Dagger](/item/7007), [Rusty Rapier](/item/7008), [Rusty Spear](/item/7009), [Rusty Shortened Spear](/item/7010)) (+5000 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Crytils Tongue](/item/12170), [Keldyns Tongue](/item/12172), [Barmas Tongue](/item/12174), [Rondos Tongue](/item/12178)
+elseif **Faction** >= Amiable +100 and  **You turn in:** [Crytils Tongue](/item/12170), [Keldyns Tongue](/item/12172), [Barmas Tongue](/item/12174), [Rondos Tongue](/item/12178)) then 
 
 
 >**Diggins says:** Excellent work!! You are quite an asset to this mining guild. Please accept this Parrying Pick 628 for your great service. If you truly wish to serve our guild. Go and speak with Mater. Tell him you are [ready to earn Mining Pick 628].

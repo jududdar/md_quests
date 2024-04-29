@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Great Gem](/item/5194), [Mark of Peace](/item/5192), [Oblong Clay Bowl](/item/5193), [Sun Jewel](/item/4488)
+if( **You turn in:** [Great Gem](/item/5194), [Mark of Peace](/item/5192), [Oblong Clay Bowl](/item/5193), [Sun Jewel](/item/4488)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Headband](/item/3775) (+25000 exp)
 
-elseif **You turn in:** [Etched Steel Shavings](/item/5197), [Mark of Tranquility](/item/5195), [Moon Jewel](/item/4489), [Sharpened Rockhopper Claws](/item/5196)
+elseif( **You turn in:** [Etched Steel Shavings](/item/5197), [Mark of Tranquility](/item/5195), [Moon Jewel](/item/4489), [Sharpened Rockhopper Claws](/item/5196)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Gi](/item/3776) (+25000 exp)
 
-elseif **You turn in:** [Fresh Spring Water](/item/5244), [Mark of Harmony](/item/5198), [Star Jewel](/item/4490), [Triple Beaded Circlet](/item/5199)
+elseif( **You turn in:** [Fresh Spring Water](/item/5244), [Mark of Harmony](/item/5198), [Star Jewel](/item/4490), [Triple Beaded Circlet](/item/5199)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Arm Wraps](/item/3777) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Jar of Ointment](/item/5247), [Mark of Meditation](/item/5245), [Ralcom's Writ](/item/5246)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Jar of Ointment](/item/5247), [Mark of Meditation](/item/5245), [Ralcom's Writ](/item/5246)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Pants](/item/3778) (+25000 exp)
 
-elseif **You turn in:** [Mark of Unity](/item/5248), [Pewter Figurine](/item/5249), [Sky Jewel](/item/4492)
+elseif( **You turn in:** [Mark of Unity](/item/5248), [Pewter Figurine](/item/5249), [Sky Jewel](/item/4492)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Shawl](/item/3779) (+25000 exp)
 
-elseif **You turn in:** [Coiled Steel Wire](/item/5251), [Mark of True Self](/item/5250), [Meteor Jewel](/item/4493)
+elseif( **You turn in:** [Coiled Steel Wire](/item/5251), [Mark of True Self](/item/5250), [Meteor Jewel](/item/4493)) then 
 
 
 FactionReward(e)
@@ -112,7 +112,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Wrist Wraps](/item/3780) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Form](/item/5252), [Spire Spirit Dust](/item/5253)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Form](/item/5252), [Spire Spirit Dust](/item/5253)) then 
 
 
 FactionReward(e)

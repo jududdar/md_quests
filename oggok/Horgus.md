@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)
+if( **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)) then
 
 
 >**Horgus says:** You smash lizards good. Here is armur me promise.

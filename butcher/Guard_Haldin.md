@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [A Worn Rune](/item/18905)
+if( **You turn in:** [A Worn Rune](/item/18905)) then
 
 
 >**Guard Haldin says:** Eh, strapling? Ye got this from me ol' partner? Huh. Aye, I know what it means but ye're not hearin'. Here, take this. It was his but he's not needin' it now.

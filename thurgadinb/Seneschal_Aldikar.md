@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Velium Coldain Insignia Ring](/item/30164)
+if( **You turn in:** [Velium Coldain Insignia Ring](/item/30164)) then
 
 
 if(e.self:GetX() == -3 and e.self:GetY() == 693) then
@@ -34,7 +34,7 @@ if(e.self:GetX() == -3 and e.self:GetY() == 693) then
 
 
 
- **You receive:** None 
+ **You receive:**  [Velium Coldain Insignia Ring](/item/30164) 
 
 
 
@@ -49,7 +49,7 @@ else
 
 
 
- **You receive:** None 
+ **You receive:**  [Velium Coldain Insignia Ring](/item/30164) 
 
 
 **This NPC *should* return incorrect items given.**

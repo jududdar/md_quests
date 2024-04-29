@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Lion Meat Shipment](/item/13961)
+if( **You turn in:** [Lion Meat Shipment](/item/13961)) then 
 
 
 

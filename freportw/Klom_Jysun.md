@@ -141,7 +141,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Kloms Blessed Headband](/item/9934), [Orc Toes](/item/9920), [Orc Toes](/item/9920)
+if(expansion_flag >= 4.0 and  **You turn in:** [Kloms Blessed Headband](/item/9934), [Orc Toes](/item/9920), [Orc Toes](/item/9920)) then
 
 
 >**Klom Jysun says:** Your dedication to the Ashen Fist is unquestioned. I can see this by your willingness to assist me in whatever task I assigned you. I would like you to take this as a symbol of my gratitude.

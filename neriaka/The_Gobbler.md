@@ -55,7 +55,7 @@ local randrew = 0;
 
 
 
-if **You turn in:** [Preserved Leg](/item/13384)
+if( **You turn in:** [Preserved Leg](/item/13384)) then 
 
 
 >**The Gobbler says:** Uggh!! Froglok legs!! Me hate smelly legs, but me need it for fat trolls.
@@ -69,15 +69,19 @@ if **You turn in:** [Preserved Leg](/item/13384)
 * __Faction:__ [Neriak Ogre](/faction/353) (5)
 
 
-if(math.random(100) < 20) then
+if(math.random(1,100) < 20) then
 
 
 
-randrew = eq.ChooseRandom(13386,13385); 
+ **You receive:** eq.ChooseRandom( [Ogre Butcher Gloves](/item/13386), [Ogre Meat Cleaver](/item/13385)) 
 
 
 
- **You receive:** None 
+note = Item not always given
+
+
+
+ **You receive:** 0 (+5000 exp)
 
 **This NPC *should* return incorrect items given.**
 

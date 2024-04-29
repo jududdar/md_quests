@@ -51,7 +51,7 @@ end
 
 
 
-if **You turn in:** [Hurrieta's Tunic](/item/13129)
+if( **You turn in:** [Hurrieta's Tunic](/item/13129)) then
 
 
 >**Ton Firepride says:** Ha! This is great. Here's your money, murderer! Hope the guards don't find you. Now get lost! Take the tunic. Maybe Garuc will reward you for such a vile deed. I sure don't want to keep it around here.
@@ -75,7 +75,7 @@ if **You turn in:** [Hurrieta's Tunic](/item/13129)
 * __Faction:__ [Bloodsabers](/faction/221) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Hurrietas Bloody Dress](/item/13134) (+400 exp)
 
 **This NPC *should* return incorrect items given.**
 

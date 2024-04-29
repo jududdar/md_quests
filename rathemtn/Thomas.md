@@ -61,7 +61,7 @@ end
 local text = "I called for two cyclops skulls.";
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Cyclops skull](/item/12308), [Cyclops skull](/item/12308)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Cyclops skull](/item/12308), [Cyclops skull](/item/12308)) then
 
 
 >**Thomas says:** You have proven yourself to Karana.  I grant you the mold of the Ro Helm.  May the winds of Karana blow in your favor.  Now you must seek out [Lord Searfire] and  ask him for [ronium] to complete the second and only other component needed to be fashioned by a master blacksmith.

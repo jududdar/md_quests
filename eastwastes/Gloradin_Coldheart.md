@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Marching Orders](/item/1093)
+if( **You turn in:** [Marching Orders](/item/1093)) then
 
 
 >**Gloradin Coldheart says:** Thank you. I will return to the Dain and inform him that the battle is underway. Please escort Garadain to the battlefield and see that he returns safely. May Brell bless you and bring you victory over these beasts.

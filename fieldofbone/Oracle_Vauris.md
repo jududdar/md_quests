@@ -185,7 +185,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Shrunken Iksar Skull Necklace](/item/30989)
+if **Faction** >= Amiable and  **You turn in:** [Shrunken Iksar Skull Necklace](/item/30989)) then
 
 
 >*Oracle Vauris takes the necklace from you without a word. He looks into your eyes for a moment. He seems to be searching for something. Apparently he finds whatever he was looking for as he pulls an empty bag from his belt. He takes the necklace and snaps the cord with his teeth allowing the skulls to fall into the bag. He looks you square in the eyes again and motions for you to put out your hand. You do so and almost immediately regret it. Vauris takes the knife from his belt and slices open your forearm allowing your blood to fall into the bag. He uses the cord to tie the bag and hands it back to you. 'You now share the mark of Rile, Soandso. Your fates are intertwined.'*
@@ -195,7 +195,7 @@ if **Faction** >= Amiable and  **You turn in:** [Shrunken Iksar Skull Necklace](
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Changeling Essence](/item/30991), [Bag of Iksar Skull Dust](/item/30990), [Glowing Kunzar Amulet](/item/30993), [Blackened Iksar bones](/item/30992)
+elseif **Faction** >= Amiable and  **You turn in:** [A Changeling Essence](/item/30991), [Bag of Iksar Skull Dust](/item/30990), [Glowing Kunzar Amulet](/item/30993), [Blackened Iksar bones](/item/30992)) then
 
 
 >**Oracle Vauris says:** You have done well Soandso. Now it is time for the true test of your clairvoyance. Only a true Scaled mystic will be able to put these spirits to rest. Be warned, these souls will not go quietly into the next world. They have strong ties to this land, and it is these ties we must break. Take them to the City of the Kunzar, the birthplace of the emperor. Only there will you be able to tear asunder the dark rituals that have twisted the souls of our ancient heroes. I will await you in that place Soandso.

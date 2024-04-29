@@ -50,7 +50,7 @@ local text = "Is this it? I asked for the head of the courier, the head of the s
 
 
 
-if **You turn in:** [Large Empty Crate](/item/1773)
+if( **You turn in:** [Large Empty Crate](/item/1773)) then
 
 
 >**Royal Guard Sheltuin says:** Hmmm. Very odd. The dust in the crate implies some sort of stone was transported in it. Perhaps our brothers of the Arcane will be able to find out where this dust came from and what it?s used for. Take this dust sample and note to Keletha Nightweaver. She will examine the dust and send you back with a report. Make haste.
@@ -58,7 +58,7 @@ if **You turn in:** [Large Empty Crate](/item/1773)
 
  **You receive:**  [Envelope with dust sample](/item/1774) (+137180 exp)
 
-elseif **You turn in:** [Heretic's Report](/item/1775)
+elseif( **You turn in:** [Heretic's Report](/item/1775)) then
 
 
 >*Royal Guard Sheltuin 's eyes redden with intense anger after reading the report. When he speaks, his voice is suprisingly calm and measured. He says, 'Listen close " .. e.other:Race() .. ". When you leave this building, you will find the courier who is bringing the ore. You will kill him, and collect his head and a box of the ore. You will then find the supplier, and collect his head and any other information you find on him. Bring me these four things and you will be rewarded. Do not fail.'*
@@ -66,7 +66,7 @@ elseif **You turn in:** [Heretic's Report](/item/1775)
 
  **You receive:** 0 (+137180 exp)
 
-elseif **You turn in:** [Crate full of Ore](/item/1776), [Courier's Head](/item/1777), [Sealed Letter](/item/18174), [Supplier's Head](/item/1778)
+elseif( **You turn in:** [Crate full of Ore](/item/1776), [Courier's Head](/item/1777), [Sealed Letter](/item/18174), [Supplier's Head](/item/1778)) then
 
 
 >**Royal Guard Sheltuin says:** Honestly Soandso, I thought you would not return. Such strength and intelligence in a Knight of Fear I have not seen for quite some time. Wear this in pride of the ancient Ridossan. Perhaps when you are ready, I will give you a more [important task]. This conspiracy must be stopped.
@@ -89,7 +89,7 @@ elseif **You turn in:** [Crate full of Ore](/item/1776), [Courier's Head](/item/
 
  **You receive:**  [Leggings of Ridossan](/item/1764) (+137180 exp)
 
-elseif **You turn in:** [Empty Jar](/item/1892)
+elseif( **You turn in:** [Empty Jar](/item/1892)) then
 
 
 >**Royal Guard Sheltuin says:** Well done, Soandso! Now we need only wait for the kobolds to start dying off and our plan will be complete. Should only take 8 years or so. One such as yourself will wear this ancient armor well. The Tunic of the crusader Rodossan is now yours.  He shall watch over and praise you in your triumphs... your defeats on the other hand... well, never mind that.

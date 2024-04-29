@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Note](/item/18234)
+if( **You turn in:** [A Sealed Note](/item/18234)) then
 
 
 >*Footman Moglok beams a big smile. 'Oh, joy! They have finally sent someone to help me on my mission! I was once a trooper, but I got demoted. I failed to bring Warlord Hikyg the three heads of the Gubbnubb triplets. Here is one head, but we need them all. Track the other two down and take all three heads and your soldier pike to Warlord Hikyg. I quit this outfit!!'*

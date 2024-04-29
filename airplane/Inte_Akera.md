@@ -66,7 +66,7 @@ end
 
 
 
-if( **Faction is** > Kindly and  **You turn in:** [SoulFire](/item/5504)
+if( **Faction is** > Kindly and  **You turn in:** [SoulFire](/item/5504)) then 
 
 
 >**Inte Akera says:** You have chosen wisely, my friend. Take this note as a token of my blessing upon you.
@@ -74,7 +74,7 @@ if( **Faction is** > Kindly and  **You turn in:** [SoulFire](/item/5504)
 
  **You receive:**  [Intes First Blessing](/item/18033) (+100000 exp)
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Ghoulbane](/item/5403)
+elseif( **Faction is** > Kindly and  **You turn in:** [Ghoulbane](/item/5403)) then 
 
 
 >**Inte Akera says:** You have chosen wisely, my friend. Take this note as a token of my blessing upon you.
@@ -83,7 +83,7 @@ elseif( **Faction is** > Kindly and  **You turn in:** [Ghoulbane](/item/5403)
  **You receive:**  [Intes Second Blessing](/item/18034) (+100000 exp)
 
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Intes First Blessing](/item/18033), [Intes Second Blessing](/item/18034), [Miragul's Head](/item/19073), [Miragul's Robe](/item/1254)
+elseif( **Faction is** > Kindly and  **You turn in:** [Intes First Blessing](/item/18033), [Intes Second Blessing](/item/18034), [Miragul's Head](/item/19073), [Miragul's Robe](/item/1254)) then 
 
 
 >**Inte Akera says:** Long have I awaited this moment. You have done what even I thought impossible. Take this sword, the Fiery Avenger. You have earned both it and my deepest respect.

@@ -61,7 +61,7 @@ end
 
 
 
-if **You turn in:** [A Human Heart](/item/13854)
+if( **You turn in:** [A Human Heart](/item/13854)) then 
 
 
 >**a hermit says:** Good work, my friend! I thank you and the Unkempt Druids thank you. Unfortunately I have sold the other song sheet to a traveling bard of the plains. I believe her name was Cordelia. Now be on your way. Unless you plan to join the Unkempt Druids..?
@@ -84,7 +84,7 @@ if **You turn in:** [A Human Heart](/item/13854)
 
  **You receive:**  [Winds of Karana sheet 1](/item/13116) (+1000 exp)
 
-elseif **You turn in:** [Barbarian Head](/item/13913)
+elseif( **You turn in:** [Barbarian Head](/item/13913)) then 
 
 
 >**a hermit says:** What fine work you do! In the name of all Norrath's beasts and of the Unkempt Druids, I thank you. No longer will there be senseless slaughter. Here is the flute.

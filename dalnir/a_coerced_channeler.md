@@ -9,7 +9,7 @@
 
 
 
-if **You turn in:** [A Potion of Swirling Liquid](/item/12752)
+if( **You turn in:** [A Potion of Swirling Liquid](/item/12752)) then
 
 
  **You receive:**  [An Iksar Skull](/item/12750) 

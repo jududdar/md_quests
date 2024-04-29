@@ -97,7 +97,7 @@ local text = "Well dat be some of da eyeballses I askeded for. But I you needs t
 
 
 
-if  **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307)
+if ( **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307)) then
 
 
 >**Basher Nanrum says:** Heh heh. All da eyeballses! I didn't think ya could do it but ya did. Here is da shiny. If you gets more I always have more shinies.

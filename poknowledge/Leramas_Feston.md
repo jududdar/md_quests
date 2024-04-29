@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Beginner Stealth Manual](/item/28792), [Rattican's Head](/item/29133)
+if( **You turn in:** [Beginner Stealth Manual](/item/28792), [Rattican's Head](/item/29133)) then
 
 
 >**Leramas Feston says:** Good work, Soandso. I must say I am quite impressed with your recovery of this. Clearly you have shown you are ready to begin your next lesson. Take this new book and when you are ready, speak to Ethoach Trokith. And remember, difficult tasks are put in our way not to stop us, but to call out our strength and resolve.
@@ -37,6 +37,6 @@ if **You turn in:** [Beginner Stealth Manual](/item/28792), [Rattican's Head](/i
 
 
 
- **You receive:** None 
+ **You receive:**  [Intermediate Stealth Manual](/item/28793) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

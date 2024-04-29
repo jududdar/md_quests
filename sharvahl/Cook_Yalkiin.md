@@ -48,7 +48,7 @@ local chanceitem = 0;
 
 
 
-if **You turn in:** [Worm Meat](/item/10390), [Worm Meat](/item/10390), [Worm Meat](/item/10390), [Worm Meat](/item/10390)
+if( **You turn in:** [Worm Meat](/item/10390), [Worm Meat](/item/10390), [Worm Meat](/item/10390), [Worm Meat](/item/10390)) then
 
 
 >*Cook Yalkiin looks at each piece of meat before wrapping them in a spiced cloth. 'These look like good cuts of meat. I hope that this will suffice as payment,' he says as he stacks the wrapped meat on the counter.*
@@ -56,7 +56,7 @@ if **You turn in:** [Worm Meat](/item/10390), [Worm Meat](/item/10390), [Worm Me
 
  **You receive:** eq.ChooseRandom( [Wooden Practice Dagger](/item/30580), [Wooden Practice Two Handed Hammer](/item/30577), [Wooden Practice Flail](/item/30579), [Wooden Practice Short Sword](/item/30572)) (+1000 exp)
 
-elseif **You turn in:** [Full Mesh Bag](/item/10391)
+elseif( **You turn in:** [Full Mesh Bag](/item/10391)) then
 
 
 >*Cook Yalkiin tosses the bag in a pile with several others and hands you your payment. 'Thank you very much,' he says. 'The more of these that I can gather, the better. I always seem to be low.'*
@@ -72,7 +72,7 @@ chanceitem = eq.ChooseRandom(30581,30578,2752,2754,2758);
 
  **You receive:** None 
 
-elseif **You turn in:** [Meal Voucher](/item/5559)
+elseif( **You turn in:** [Meal Voucher](/item/5559)) then
 
 
 >**Cook Yalkiin says:** I'd love to fill this order, but we're out of the meat that he likes. We've been very busy today, so I doubt that any of us will be able to get out to gather more of it. If you could go out and grab us a few slabs, we could not only fill the order, I could put some away for anyone else that may come through today. This sounds like a perfect task for a young Taruun recruit. Fill this bag with the fatty meat from a young Owlbear and bring it back to me right away. I'll get Joharr's sandwiches as soon as you return with the meat.
@@ -80,7 +80,7 @@ elseif **You turn in:** [Meal Voucher](/item/5559)
 
  **You receive:**  [Bloody Cloth Sack](/item/17608) 
 
-elseif **You turn in:** [Sack of Owlbear Meat](/item/5562)
+elseif( **You turn in:** [Sack of Owlbear Meat](/item/5562)) then
 
 
 >*Cook Yalkiin opens the bag and immediately begins to slice the meat into thin sheets. He throws the meat on a few slices of bread and wraps the whole thing up with a hand full of vegetables. 'Here you go, friend!' He says as he hands you what appears to be a lunch bag. 'Joharr should love these sandwiches! The meat that you brought us was great. If you ever need a job as a butcher, just let us know. Take care and tell Joharr I said hello.'*

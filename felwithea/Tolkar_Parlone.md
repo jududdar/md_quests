@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [A Folded Note](/item/5573)
+if( **You turn in:** [A Folded Note](/item/5573)) then 
 
 
 >**Tolkar Parlone says:** Oh, my, she did get herself into some trouble! I thank you for rescuing her, my friend. Here, take this old cloak. I am afraid its power has faded, but if you bring it to my wife, she might be able to do something for you. She is currently studying in Erudin.

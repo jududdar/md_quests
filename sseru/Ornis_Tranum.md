@@ -186,7 +186,7 @@ end
 
 
 
-if **You turn in:** [A Vial of Thick Liquid](/item/3880), [Official Seal of the Hand](/item/3879)
+if( **You turn in:** [A Vial of Thick Liquid](/item/3880), [Official Seal of the Hand](/item/3879)) then
 
 
 >*Ornis Tranum gasps suddenly then falls still.*

@@ -51,7 +51,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Golden Tablet of Draconic Strategy](/item/24986)
+if( **Faction is** > Indifferent and ( **You turn in:** [Golden Tablet of Draconic Strategy](/item/24986) or  **You turn in:** [Scroll of Scaled Tactics](/item/24985))) then
 
 
 >**Semkak Prophet of Vallon says:** This tablet holds great knowledge. The Temple of Strategy thanks you, Soandso. Take this and know that your own strategies are wise indeed if you have acquired this tablet from the depths of the dragons' graveyard.

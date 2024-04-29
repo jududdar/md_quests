@@ -82,7 +82,7 @@ local text1 = "seems to black out, and then recover. He speaks with the voice of
 
 
 
-if **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)
+if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then 
 
 
 >*Hierophant Zand takes the bag and tome from you and in return gives you the item that you have been thinking of all of this time. 'Lucky you. You have earned a second chance. Praise Cazic-Thule!'*
@@ -96,7 +96,7 @@ if **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/i
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Froglok Hex Doll](/item/12734)
+if **Faction** >= Amiable and  **You turn in:** [A Froglok Hex Doll](/item/12734)) then
 
 
 >**Hierophant Zand says:** Fine work! I hope for your sake, you did not purchase it from a brave adventurer. Take this note to the one for whom it is written. This lizard has knowledge of a large number of skulls.
@@ -121,7 +121,7 @@ if **Faction** >= Amiable and  **You turn in:** [A Froglok Hex Doll](/item/12734
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Iksar Skull Helm](/item/12741), [Iron Cudgel of the Prophet](/item/5144), [Iksar Skull](/item/12740)
+elseif **Faction** >= Amiable and  **You turn in:** [Iksar Skull Helm](/item/12741), [Iron Cudgel of the Prophet](/item/5144), [Iksar Skull](/item/12740)) then
 
 
 >*Hierophant Zand closes his eyes and reopens them. They have no pupils. He speaks and you hear his voice echo. 'We are Di Nozok. You have earned the weapon of a channeler. We hope to fill your thoughts with ours some day. Go and seek out Dexl. We send you to him. Farewell , Channeler of Cabilis.*

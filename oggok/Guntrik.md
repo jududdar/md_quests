@@ -47,7 +47,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18787)
+if( **You turn in:** [A tattered note](/item/18787)) then
 
 
 >**Guntrik says:** Ahh..  good..  good..  here. take..  Now you Craknek! You bash good. Bash lizards. Bash froggies. Bash mushrooms. Remember. you no help Greenbloods. Crakneks stronger than Greenbloods.
@@ -67,7 +67,7 @@ if **You turn in:** [A tattered note](/item/18787)
 
  **You receive:**  [Mud Stained Skin Tunic*](/item/13525) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Nobles Crest](/item/13361)
+elseif **Faction** >= Amiable and  **You turn in:** [A Nobles Crest](/item/13361)) then
 
 
 >**Guntrik says:** One less trouble. Hunhuh!! You do good work. Keep up. Remember to bring any special things to Guntrik. Here junk for good work. Go away now.
@@ -87,7 +87,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [A Nobles Crest](/item/13361
 
  **You receive:** eq.ChooseRandom( [Bronze Two Handed Sword](/item/5030), [Bronze Two Handed Battle Axe](/item/5037), [Bronze Two Handed Hammer](/item/6021)) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Tattered Parchment](/item/18883)
+elseif **Faction** >= Amiable and  **You turn in:** [Tattered Parchment](/item/18883)) then
 
 
 >**Guntrik says:** Ooh! This where hunters stay. You must go to Rathe Mountains and find Drinn's Inn. Kill all. Bring owners' scalps back and me give good junk. You get more warriors to help. Say Guntrik command them. You will need all help you get.

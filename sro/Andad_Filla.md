@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [Torch of Ro](/item/20533)
+if( **You turn in:** [Torch of Ro](/item/20533)) then
 
 
 >**Andad Filla says:** You still have a ways to go! Seek out Misty Tekcihta near the arena at Lake Rathe. Run like the wind!

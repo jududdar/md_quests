@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Water Flask](/item/13006)
+if( **You turn in:** [Water Flask](/item/13006)) then
 
 
 >**Elder Glanoxx says:** Are you here for them... are you here to release us?

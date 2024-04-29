@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A Tattered Cloth Note](/item/18891)
+if( **You turn in:** [A Tattered Cloth Note](/item/18891)) then
 
 
 >**skeleton Lrodd says:** Search!! Find Windstream. Find the mallet!! One. Two. Three.

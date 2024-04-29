@@ -170,7 +170,7 @@ local text1 = "You shall wield no militia pike until I have the head of the trai
 
 
 
-if **You turn in:** [Guild Summons](/item/18203)
+if( **You turn in:** [Guild Summons](/item/18203)) then 
 
 
 >**Drill Master Vygan says:** I see they have begun to draft younger broodlings? Hmmph!! No matter. We Drill Masters shall make a warrior of you. Here is your partisan's pike and some coin as your wages. Be sure that you begin your training in blacksmithing and report to the other Drill Masters for any tasks they may have for you. Let them know you are [a partisan of Cabilis]. Perhaps soon you shall be rewarded the [militia pike].
@@ -204,7 +204,7 @@ if **You turn in:** [Guild Summons](/item/18203)
  **You receive:**  [Partisan's Pike](/item/5130) (+500 exp)
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Froglok Escort Fife](/item/12675), [An Iksar Head](/item/12677), [Partisan's Pike](/item/5130)
+elseif **Faction** >= Amiable and  **You turn in:** [Froglok Escort Fife](/item/12675), [An Iksar Head](/item/12677), [Partisan's Pike](/item/5130)) then
 
 
 >**Drill Master Vygan says:** You have perfomed just as expected. I bestow upon you the rank of militiaman. Here is your new pike. Past this, you shall require the [geozite tool] to upgrade your future pikes and mancatchers. We see much promise in you, militiaman. Go forth to serve the realm.
@@ -233,7 +233,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Froglok Escort Fife](/item/
 
  **You receive:**  [Militia's Pike](/item/5131) (+200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full Pincer Satchel](/item/12658)
+elseif **Faction** >= Amiable and  **You turn in:** [Full Pincer Satchel](/item/12658)) then
 
 
 >**Drill Master Vygan says:** You are a true warrior of Cabilis. You obviously are aware that in order to upgrade your pike you shall need a [geozite tool]. Take this note to the Lord of the outer gates. He desires a young warrior for a small task. Do this and he is instructed to reward you with the tool.

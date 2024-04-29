@@ -217,7 +217,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Aqua Goblin Blood Vial](/item/28062), [Aqua Goblin Blood Vial](/item/28062), [Green Goblin Blood Vial](/item/28061), [Green Goblin Blood Vial](/item/28061)
+if(expansion_flag >= 4.0 and  **You turn in:** [Aqua Goblin Blood Vial](/item/28062), [Aqua Goblin Blood Vial](/item/28062), [Green Goblin Blood Vial](/item/28061), [Green Goblin Blood Vial](/item/28061)) then
 
 
 

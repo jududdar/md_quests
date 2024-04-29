@@ -11,7 +11,7 @@ function event(e)
 
 
 
-if **You turn in:** [Raien Talikars Belongings](/item/10683)
+if( **You turn in:** [Raien Talikars Belongings](/item/10683)) then
 
 
 >*Raien Talikar reaches forward as his hands materialize to grasp the box of belongings then places them carefully in his crypt. He then reaches towards Soandso again as an etherial scimitar materializes in his hands and is offered to Soandso.*

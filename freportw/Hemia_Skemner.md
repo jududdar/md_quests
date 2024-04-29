@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [A Locked Book](/item/13863)
+if( **You turn in:** [A Locked Book](/item/13863)) then 
 
 
 >**Hemia Skemner says:** You have done the world of magic a great justice, Soandso.

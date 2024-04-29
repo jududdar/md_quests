@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Adamantium Earring](/item/20774), [Harpy Statuette](/item/20952), [Black Nebulous Sapphire](/item/20773)
+if( **You turn in:** [Adamantium Earring](/item/20774), [Harpy Statuette](/item/20952), [Black Nebulous Sapphire](/item/20773)) then 
 
 
 >**Enderbite says:** Good. Take this as your reward.
@@ -44,7 +44,7 @@ if **You turn in:** [Adamantium Earring](/item/20774), [Harpy Statuette](/item/2
 
 **Enderbite despawns.**
 
-elseif **You turn in:** [Carmine Spiroc Feather](/item/20959), [Ganoric Poison](/item/20775), [Glowing Necklace](/item/20776)
+elseif( **You turn in:** [Carmine Spiroc Feather](/item/20959), [Ganoric Poison](/item/20775), [Glowing Necklace](/item/20776)) then 
 
 
 >**Enderbite says:** Good. Take this as your reward.
@@ -55,7 +55,7 @@ elseif **You turn in:** [Carmine Spiroc Feather](/item/20959), [Ganoric Poison](
 
 **Enderbite despawns.**
 
-elseif **You turn in:** [Black Sky Diamond](/item/20777), [Efreeti Wind Staff](/item/20779), [Large Sky Sapphire](/item/20778), [Sweet Nectar](/item/20966)
+elseif( **You turn in:** [Black Sky Diamond](/item/20777), [Efreeti Wind Staff](/item/20779), [Large Sky Sapphire](/item/20778), [Sweet Nectar](/item/20966)) then 
 
 
 >**Enderbite says:** Good. Take this as your reward.

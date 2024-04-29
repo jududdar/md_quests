@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Alluring Horn](/item/20530)
+if( **You turn in:** [Alluring Horn](/item/20530)) then
 
 
 >**Vedico Windwisper says:** Where did you find this? I thought the cyclops took it. I am in your debt, Soandso. This horn has always been special to me.

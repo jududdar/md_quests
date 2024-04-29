@@ -76,7 +76,7 @@ local text = "Wait, Soandso, are you not forgetting something?";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Firewalker Boots](/item/2318), [Lambent Sapphire](/item/10119), [Rune of the One Eye](/item/10561)
+if **Faction** >= Indifferent and  **You turn in:** [Firewalker Boots](/item/2318), [Lambent Sapphire](/item/10119), [Rune of the One Eye](/item/10561)) then
 
 
 >**Walthin Fireweaver says:** Quality boots for a quality bard. Well done, Soandso.
@@ -93,7 +93,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Firewalker Boots](/item/231
 
  **You receive:**  [Lambent Boots](/item/4159) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Black Silk Gloves](/item/2319), [Lambent Star Ruby](/item/10117), [Shin Gauntlets](/item/4114)
+elseif **Faction** >= Indifferent and  **You turn in:** [Black Silk Gloves](/item/2319), [Lambent Star Ruby](/item/10117), [Shin Gauntlets](/item/4114)) then
 
 
 >**Walthin Fireweaver says:** Well done, Soandso, you have justly earned your pair of lambent gauntlets.
@@ -110,7 +110,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Black Silk Gloves](/ite
 
  **You receive:**  [Lambent Gauntlets](/item/4157) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Icy Greaves](/item/4115), [Lambent Fire Opal](/item/10128), [Shin Greaves](/item/4116)
+elseif **Faction** >= Indifferent and  **You turn in:** [Icy Greaves](/item/4115), [Lambent Fire Opal](/item/10128), [Shin Greaves](/item/4116)) then
 
 
 >**Walthin Fireweaver says:** I always knew that you would earn these lambent greaves, Soandso, you just had that look about you. Well done!

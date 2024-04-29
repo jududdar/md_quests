@@ -87,7 +87,7 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Star Ruby](/item/10032), [Star Ruby](/item/10032), [Lambent Stone](/item/10000)
+if **Faction** >= Indifferent and  **You turn in:** [Star Ruby](/item/10032), [Star Ruby](/item/10032), [Lambent Stone](/item/10000)) then
 
 
 >**Genni says:** Here is your prize - a lambent star ruby.
@@ -101,7 +101,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Star Ruby](/item/10032), [S
 
  **You receive:**  [Lambent Star Ruby](/item/10117) 
 
-elseif **Faction** >= Indifferent and  **You turn in:** gold = 550
+elseif **Faction** >= Indifferent and  **You turn in:** gold = 550) then
 
 
 * __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
@@ -112,7 +112,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** gold = 550
 
  **You receive:**  [Fire Opal](/item/10031) 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)
+elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)) then
 
 
 >**Genni says:** I see that Gavel has sent you to me. Very well, I have galvanized your platinum bar - take it.

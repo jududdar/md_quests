@@ -10,7 +10,7 @@
 
 
 
-if **You turn in:** [Warm Pulsing Treant Heart](/item/20695)
+if( **You turn in:** [Warm Pulsing Treant Heart](/item/20695)) then
 
 
 >*Yeka Ias grabs the heart as you toss it to him before realizing what it is. As soon as it touches his hands, his body convulses, a sickly light emanating from his eyes and oozing cracks appear in his skin. As he melts into the ground, a small glowing ball floats where he once stood.*

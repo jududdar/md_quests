@@ -186,7 +186,7 @@ else
 
 
 
-if **You turn in:** gold = 50
+if( **You turn in:** gold = 50) then
 
 
 >**Madame Serena says:** Fifty gold? You must want a rune of fortune. If you want another one, give fifty gold to Mizr N'Mar in the Neriak library.

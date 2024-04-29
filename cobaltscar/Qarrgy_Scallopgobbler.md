@@ -47,7 +47,7 @@ local text1 = "I'm sorry strange one. That is not a sufficient barter.";
 
 
 
-if **You turn in:** [Barracuda Liver](/item/30059), [Barracuda Liver](/item/30059)
+if( **You turn in:** [Barracuda Liver](/item/30059), [Barracuda Liver](/item/30059)) then
 
 
 >*Qarrgy Scallopgobbler slams a knife into the various livers and squeezes out all of their various goos and juices.  Eventually he separates a bit of it and pours it into a protective bladder.  'Excellent work.  This good catch.  Here, you have sack of ooze.  Its good for burning things off or etching metals.  Thank you for your help.*
@@ -55,7 +55,7 @@ if **You turn in:** [Barracuda Liver](/item/30059), [Barracuda Liver](/item/3005
 
  **You receive:**  [Bladder of Acidic Ooze](/item/30060) 
 
-elseif **You turn in:** [Emerald Dragon Scales](/item/22823), [Ulthork Tusks](/item/24874), [Fine Plate Breastplate](/item/21004)
+elseif( **You turn in:** [Emerald Dragon Scales](/item/22823), [Ulthork Tusks](/item/24874), [Fine Plate Breastplate](/item/21004)) then
 
 
 >*Qarrgy Scallopgobbler skillfully crafts the Emerald Dragon Scales into a tunic, hands it to Soandso, and claps enthusiastically.*
@@ -69,7 +69,7 @@ elseif **You turn in:** [Emerald Dragon Scales](/item/22823), [Ulthork Tusks](/i
 
  **You receive:**  [Emerald Dragonscale Tunic](/item/11635) (+5000 exp)
 
-elseif **You turn in:** [Sea Dragon Scales](/item/22814), [Ornately Runed Shell Necklace](/item/28515), [Fine Plate Bracer](/item/21009)
+elseif( **You turn in:** [Sea Dragon Scales](/item/22814), [Ornately Runed Shell Necklace](/item/28515), [Fine Plate Bracer](/item/21009)) then
 
 
 >*Qarrgy Scallopgobbler skillfully crafts the Sea Dragon Scales into a bracer, hands it to Soandso, and claps enthusiastically.*

@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Carnelian](/item/10011), [Carnelian](/item/10011)
+if( **You turn in:** [Carnelian](/item/10011), [Carnelian](/item/10011)) then
 
 
 >*Tektite takes one hand and pries out one of his eyes, which he casts far into the plains. He then places the carnelian into his eye socket. He turns towards you and holds open his palm. *

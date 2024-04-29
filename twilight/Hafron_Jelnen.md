@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Moon Jewel](/item/4489), [Mark of Seers](/item/4936), [Hewed Augury Stone](/item/4937)
+if( **You turn in:** [Moon Jewel](/item/4489), [Mark of Seers](/item/4936), [Hewed Augury Stone](/item/4937)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Augur's Boots](/item/3755) (+25000 exp)
 
-elseif **You turn in:** [Sun Jewel](/item/4488), [Mark of Souls](/item/4934), [Spirit Gem](/item/4935)
+elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Souls](/item/4934), [Spirit Gem](/item/4935)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Augur's Bracer](/item/3754) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Sight](/item/4898), [Ancient Sun Fetish](/item/4899), [Tablet of Spirits](/item/4900)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Sight](/item/4898), [Ancient Sun Fetish](/item/4899), [Tablet of Spirits](/item/4900)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Augur's Coif](/item/3749) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Omens](/item/4929), [Pouch of False Gems](/item/4930), [Adorned Cap](/item/4931)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Omens](/item/4929), [Pouch of False Gems](/item/4930), [Adorned Cap](/item/4931)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Augur's Greaves](/item/3752) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Vision](/item/4908), [Writ of Safid](/item/4909), [Throwing Bones](/item/4910)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Vision](/item/4908), [Writ of Safid](/item/4909), [Throwing Bones](/item/4910)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Augur's Mail](/item/3750) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Spirit](/item/4932), [Genalan's Chronicle](/item/4933)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Spirit](/item/4932), [Genalan's Chronicle](/item/4933)) then 
 
 
 FactionReward(e)
@@ -112,7 +112,7 @@ FactionReward(e)
 
  **You receive:**  [Augur's Mantle](/item/3753) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Prophecy](/item/4918), [Polished Stone Fetish](/item/4927), [Woven Anklet](/item/4928)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Prophecy](/item/4918), [Polished Stone Fetish](/item/4927), [Woven Anklet](/item/4928)) then 
 
 
 FactionReward(e)

@@ -113,7 +113,7 @@ end
 
 
 
-if **You turn in:** [Note to Marl](/item/14376)
+if( **You turn in:** [Note to Marl](/item/14376)) then
 
 
 >*Marl Kastane reads the note, eyes widening in panic. He raises his eyes to you and says, 'This is grave news, friend. If the prophecy is allowed to be fulfilled, our strength will vanish into obscurity. Goodness and purity will spread like a plague across the land and the servants of Hate will be powerless to stop it!'*
@@ -124,7 +124,7 @@ if **You turn in:** [Note to Marl](/item/14376)
 
 eq.set_global("Marl","1",1,"F");
 
-elseif **You turn in:** [Blood of Kyrenna](/item/14381)
+elseif( **You turn in:** [Blood of Kyrenna](/item/14381)) then
 
 
 >**Marl Kastane says:** Here, you take this shroud. You must now find the spirit of glohnor and place this item on him. This should force him back into his mummified body and then you must destroy this newly raised form and return to me its wrappings.
@@ -133,7 +133,7 @@ elseif **You turn in:** [Blood of Kyrenna](/item/14381)
 * __Faction:__ [Truespirit](/faction/404) (5)
 
 
- **You receive:** None 
+ **You receive:**  [Dark Shroud](/item/14377) 
 
 
 eq.delete_global("Marl");
@@ -144,7 +144,7 @@ eq.delete_global("Marl");
 elseif **Faction** >= Apprehensive +28 then
 
 
-if **You turn in:** [Glohnor wrappings](/item/14379)
+if( **You turn in:** [Glohnor wrappings](/item/14379)) then
 
 
 
@@ -156,7 +156,7 @@ if **You turn in:** [Glohnor wrappings](/item/14379)
 
 
 
- **You receive:** None 
+ **You receive:**  [Will of Innoruuk](/item/14370) 
 
 
 **This NPC *should* return incorrect items given.**

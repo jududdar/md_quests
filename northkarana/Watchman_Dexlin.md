@@ -101,7 +101,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Box Full of Tiny Bones](/item/12376)
+if **Faction** >= Amiable and  **You turn in:** [Box Full of Tiny Bones](/item/12376)) then 
 
 
 >**Watchman Dexlin says:** Good Work. Unfortunately, I must investigate other matters in the name of Ak'anon.  Here.  You deliver the tin box to Lord Jenork of the Gem Choppers.  He shall reward you. Be safe my friend.  I must go now. Farewell.

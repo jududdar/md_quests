@@ -27,7 +27,7 @@ end
 local text = "This is not enough. Leave my sight at once!";
 
 
-if **You turn in:** [Torn, burnt book](/item/19071), [Torn, Frost covered book](/item/19070), platinum = 1000
+if( **You turn in:** [Torn, burnt book](/item/19071), [Torn, Frost covered book](/item/19070), platinum = 1000) then
 
 
 >**Rineval Talyas says:** Take this book quickly and tell no one about this.

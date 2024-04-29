@@ -60,7 +60,7 @@ end
 
 
 
-if **You turn in:** [Karana Clover Shipment](/item/13962)
+if( **You turn in:** [Karana Clover Shipment](/item/13962)) then
 
 
 

@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Eye of Kaiaren](/item/1687)
+if( **You turn in:** [Eye of Kaiaren](/item/1687)) then
 
 
 

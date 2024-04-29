@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [Copy of Notes](/item/10603)
+if( **You turn in:** [Copy of Notes](/item/10603)) then
 
 
 >**a sarnak imitator says:** I see that you have what I was waiting for. Stofo does do excellent work. It seems that you are to start on a long journey. Take this seal and it will guide you on your next step. Seek out the masters of enchantment. In time we will craft the Serpent for you. When you have collected the four parts of the staff, you must combine them in a bundle and return them to me.
@@ -68,7 +68,7 @@ if **You turn in:** [Copy of Notes](/item/10603)
 
  **You receive:**  [Jeb's Seal](/item/10604) 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [A Bundle of Staves](/item/10639)
+elseif( **Faction is** > Indifferent and  **You turn in:** [A Bundle of Staves](/item/10639)) then
 
 
 >**a sarnak imitator says:** The path you trod was long and hard. Now you are worthy to bear the Serpent. Use it well.

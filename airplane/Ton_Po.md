@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/item/20794), [Verdant Tessera](/item/20932)
+if( **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/item/20794), [Verdant Tessera](/item/20932)) then 
 
 
 
@@ -42,7 +42,7 @@ if **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/ite
 
  **You receive:**  [Back Straps of Mastery](/item/27714) (+100000 exp)
 
-elseif **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/item/20939), [Tiny Ruby](/item/20795)
+elseif( **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/item/20939), [Tiny Ruby](/item/20795)) then 
 
 
 >**Ton Po says:** This eye patch once belonged to the great Ton Po. Please, you must take it as you are far more enlightened than I.
@@ -50,7 +50,7 @@ elseif **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/it
 
  **You receive:**  [Ton Po's Eye Patch](/item/1281) (+100000 exp)
 
-elseif **You turn in:** [Adumbrate Globe](/item/20946), [Dove Slippers](/item/20798), [Shimmering Opal](/item/20797)
+elseif( **You turn in:** [Adumbrate Globe](/item/20946), [Dove Slippers](/item/20798), [Shimmering Opal](/item/20797)) then 
 
 
 >**Ton Po says:** Take these sandals, Soandso.  It is you who deserves to wear them, not I.

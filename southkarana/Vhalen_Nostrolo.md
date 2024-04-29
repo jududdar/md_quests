@@ -72,7 +72,7 @@ end
 
 
 
-if **You turn in:** [Lisera Lute](/item/13114)
+if( **You turn in:** [Lisera Lute](/item/13114)) then 
 
 
 >**Vhalen Nostrolo says:** Oh, dear! I forgot to repair Cassius' lute. I shall fix and return it to him myself. Thank you for bringing this to me. Here, please return this note to Cassius. He shall be most happy. Thank you again, good citizen!
@@ -95,7 +95,7 @@ if **You turn in:** [Lisera Lute](/item/13114)
 
  **You receive:**  [Note To Cassius](/item/18803) (+5000 exp)
 
-elseif **You turn in:** [Winds of Karana sheet 1](/item/13116), [Winds of Karana sheet 2](/item/13119)
+elseif( **You turn in:** [Winds of Karana sheet 1](/item/13116), [Winds of Karana sheet 2](/item/13119)) then 
 
 
 >**Vhalen Nostrolo says:** Thank you, my friend. I have just completed the composition. It is a work of art. Here. Have a copy. I hope you have the musical talent required to play it. If not.. Practice, practice, practice!

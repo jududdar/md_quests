@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Confidential Report](/item/29892)
+if( **You turn in:** [Confidential Report](/item/29892)) then
 
 
 >**Aderyn Goldleaf says:** You actually did it? You have done an invaluable service ridding us of that wretched little halfing. You deserve to be a soldier in Seru's army. Take this Quiver with my regard, Soandso.

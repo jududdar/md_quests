@@ -78,7 +78,7 @@ end
 
 
 
-if  **You turn in:** [Parchment to Mimtia](/item/10987)
+if ( **You turn in:** [Parchment to Mimtia](/item/10987)) then
 
 
 >**Mimtia Zethkog says:** Hail Soandso! You must be one of Garret's new knights. Garret has asked me to help get you outfitted in a suit of armor to protect you from the weapons of our foes. I have assembled a kit for you that will allow you to construct the armor pieces once you have gathered the necessary components. The required components vary according to which piece of Plague Knight Armor you are planning on assembling. Do you wish to craft a [plague knight helm], a [plague knight bracer], [plague knight gauntlets], [plague knight boots], [plague knight vambraces], [plague knight greaves], or a [plague knight breastplate].

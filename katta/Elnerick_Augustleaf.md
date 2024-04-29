@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Shard of the Shoulder](/item/29881), [Shard of the Eye](/item/29882), [Shard of the Hand](/item/29883), [Shard of the Heart](/item/29884)
+if( **You turn in:** [Shard of the Shoulder](/item/29881), [Shard of the Eye](/item/29882), [Shard of the Hand](/item/29883), [Shard of the Heart](/item/29884)) then
 
 
 >*Elnerick Augustleaf takes the four shards and places them on the table. Slow incantations and streams of mana flow from him. The shards begin to move across the table towards each other until they fuse into one. 'I have focused each shard into one single key. The magic holding it together is strong but the enchantment will fade over time. You will must use it wisely for it will deteriorate with use. Lcea has requested I give you this seal to prove your service to this city. Take the seal and the Arx Key, I hope that you can accomplish what you are about to be asked. May your service to this town never be forgotten.'*
@@ -46,6 +46,6 @@ if **You turn in:** [Shard of the Shoulder](/item/29881), [Shard of the Eye](/it
 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Arx Key](/item/3650), [Seal of Katta](/item/7096)) (+10000 exp)
 
 **This NPC *should* return incorrect items given.**

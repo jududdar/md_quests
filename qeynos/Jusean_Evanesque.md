@@ -146,7 +146,7 @@ end
 local item_check = 0;
 
 
-if **You turn in:** [Behroe's Report](/item/18023)
+if( **You turn in:** [Behroe's Report](/item/18023)) then
 
 
 >**Jusean Evanesque says:** Good job. I hope Behroe wasn't sleeping on the job again when you talked to him. Hmm, the docks seem to be a hotbed of activity after the sun goes down. Thanks for your quick work, Soandso, here's a little cash for your efforts.
@@ -154,7 +154,7 @@ if **You turn in:** [Behroe's Report](/item/18023)
 
 item_check = 1;
 
-elseif **You turn in:** [Leanon's Report](/item/18024)
+elseif( **You turn in:** [Leanon's Report](/item/18024)) then
 
 
 >**Jusean Evanesque says:** Ah, very good. I'll make sure to note Leanon's report in our journals. Here's a little something for your troubles, Soandso.
@@ -162,7 +162,7 @@ elseif **You turn in:** [Leanon's Report](/item/18024)
 
 item_check = 2;
 
-elseif **You turn in:** [Anehan's Report](/item/18022)
+elseif( **You turn in:** [Anehan's Report](/item/18022)) then
 
 
 >**Jusean Evanesque says:** Ok, good work, Soandso. I'll make sure to note the day's activities in our journal. Here's a little something for your efforts.
@@ -170,7 +170,7 @@ elseif **You turn in:** [Anehan's Report](/item/18022)
 
 item_check = 1;
 
-elseif **You turn in:** [Quinon's Report](/item/18025)
+elseif( **You turn in:** [Quinon's Report](/item/18025)) then
 
 
 >**Jusean Evanesque says:** Hmm... interesting...  good work, Soandso, thank you for your help.
@@ -231,6 +231,6 @@ elseif(item_check == 2) then
 * __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+50 exp)
 
 **This NPC *should* return incorrect items given.**

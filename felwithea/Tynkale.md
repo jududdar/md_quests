@@ -117,7 +117,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18781)
+if( **You turn in:** [A tattered note](/item/18781)) then 
 
 
 >**Tynkale says:** Greetings. young paladin!  I am Master Tynkale of the Clerics of Tunare.  Here. we shall teach and train you in the skills needed to defeat our evil and diseased enemies.  Take this, our guild tunic - it will help protect you. Wear it with pride, for you are now one of us.
@@ -134,7 +134,7 @@ if **You turn in:** [A tattered note](/item/18781)
 
  **You receive:**  [Used Gold Training Tunic*](/item/13591) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Very Large Pelt](/item/13351)
+elseif **Faction** >= Amiable and  **You turn in:** [A Very Large Pelt](/item/13351)) then
 
 
 >**Tynkale says:** So you have proven yourself to be a great slayer of beasts.Now it is time to prove yourself to be an asset to the Crown. You are to meet a man named Tolon Nurbyte. He will be at the local inn. Go to him and repeat the phrase, 'The glory of the Mother shines bright.' I can say no more. Oh.. and here. This may help you on your upcoming adventure.

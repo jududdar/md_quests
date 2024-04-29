@@ -59,7 +59,7 @@ end
 local text = "I need the three dragon scales of Azdalin, Gylton and Xyfyl.";
 
 
-if **You turn in:** [Dragon Scales](/item/12950), [Dragon Scales](/item/12951), [Dragon Scales](/item/12952)
+if( **You turn in:** [Dragon Scales](/item/12950), [Dragon Scales](/item/12951), [Dragon Scales](/item/12952)) then
 
 
 

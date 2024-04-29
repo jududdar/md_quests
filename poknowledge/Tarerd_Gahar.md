@@ -26,12 +26,12 @@ end
 
 
 
-if **You turn in:** [Sarnak Blood](/item/22519)
+if( **You turn in:** [Sarnak Blood](/item/22519)) then 
 
 
 >**Tarerd Gahar says:** Ahh this is exactly what I was looking for. All the information I've gathered from these pools has come from Myrist. Thiran will give you the book I used as a reference. Give him this note so he knows I sent you.
 
 
- **You receive:** None 
+ **You receive:**  [Note from Tarerd](/item/15958) 
 
 **This NPC *should* return incorrect items given.**

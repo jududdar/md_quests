@@ -19,7 +19,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Burnished Wooden Stave](/item/6353)
+if **Faction** >= Dubious and  **You turn in:** [Burnished Wooden Stave](/item/6353)) then
 
 
 >**Ssolet Dnaas says:** Sssss. Thisss is what I need. You have my thanksss. Please, take thiss. I know not what it iss for but maybe you will find a ussse for it.

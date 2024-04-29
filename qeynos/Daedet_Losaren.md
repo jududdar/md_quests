@@ -175,7 +175,7 @@ local fac = e.other:GetFaction(e.self);
 
 
 
-if **You turn in:** gold = 20
+if( **You turn in:** gold = 20 and (fac < 5)) then
 
 
 >**Daedet Losaren says:** This should help you remain safe.
@@ -183,7 +183,7 @@ if **You turn in:** gold = 20
 
 e.other:SelfCast(11);
 
-elseif **You turn in:** [Beetle Eye Chest](/item/13395)
+elseif( **You turn in:** [Beetle Eye Chest](/item/13395)) then 
 
 
 >**Daedet Losaren says:** You have done well. Karana is pleased. I cannot say the same for the cat people. I now bestow upon you the knowledge of Holy Armor. Study the words and soon the power shall be bestowed upon you by the greatness that is the Rainkeeper.
@@ -204,9 +204,9 @@ elseif **You turn in:** [Beetle Eye Chest](/item/13395)
 * __Faction:__ [Guards of Qeynos](/faction/262) (7)
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Holy Armor](/item/15011) (+200 exp)
 
-elseif **You turn in:** [Chest of Faith](/item/13289)
+elseif( **You turn in:** [Chest of Faith](/item/13289)) then 
 
 
 >**Daedet Losaren says:** You have done supremely well, my young acolyte of Thunder. For your great service to the Temple of Thunder. Now go and cast the storm into the populace of Antonica.

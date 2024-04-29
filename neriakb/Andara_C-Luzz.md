@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Leatherfoot Short Bow](/item/19582), [Lock of Zombie Hair](/item/19583), [Black Mamba Skin](/item/16166)
+if( **You turn in:** [Leatherfoot Short Bow](/item/19582), [Lock of Zombie Hair](/item/19583), [Black Mamba Skin](/item/16166)) then
 
 
 >**Andara C-Luzz says:** Well done Soandso!  Use this with pride.

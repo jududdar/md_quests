@@ -46,7 +46,7 @@ local text = "Fool! Bonlarg say THREE lizardman scout fifes and green stained sk
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Green Stained Skin Tunic*](/item/13527)
+if **Faction** >= Amiable and  **You turn in:** [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Green Stained Skin Tunic*](/item/13527)) then
 
 
 >**Bonlarg says:** Took you long time! It easy task, but me guess you still earn black shadow tunic. You wear to show all that you young shadowknight. It help you be smarter likes Bonlarg. It only for young Greenblood shadowknight. Maybe later green shadow tunic you earn or maybe dead you be

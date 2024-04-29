@@ -22,7 +22,7 @@ local text = "Impressive, do you have the rest?";
 
 
 
-if **You turn in:** [A Giant Laceless Sandal](/item/9352), [Lionhide Backpack](/item/17350)
+if( **You turn in:** [A Giant Laceless Sandal](/item/9352), [Lionhide Backpack](/item/17350)) then
 
 
 >**Solvedi Aldeberan says:** You are now a respected ally of the Unkempt. Wield this with pride.

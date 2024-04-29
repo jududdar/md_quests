@@ -41,7 +41,7 @@ end
 if( **Faction is** > Kindly) then
 
 
-if **You turn in:** [Grandmasters Box](/item/24072)
+if( **You turn in:** [Grandmasters Box](/item/24072)) then
 
 
 

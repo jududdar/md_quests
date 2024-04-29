@@ -30,7 +30,7 @@ local text1 = "I require four such samples for my research.  Please see if you c
 
 
 
-if **You turn in:** [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692)
+if( **You turn in:** [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692) or  **You turn in:** [Vampyre Blood](/item/2693), [Vampyre Blood](/item/2693), [Vampyre Blood](/item/2693), [Vampyre Blood](/item/2693)) then
 
 
 >**Avir Sterbla says:** Thank you Soandso! These samples will be put to good use I assure you. The Coterie will not stand much longer against the forces of Katta Castellum.
@@ -57,6 +57,6 @@ if **You turn in:** [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [V
 * __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

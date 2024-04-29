@@ -38,7 +38,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Letter for Prak](/item/18795)
+if **Faction** >= Amiable and  **You turn in:** [Letter for Prak](/item/18795)) then
 
 
 >**Prak says:** Hmm, I see. We think we've found out who the mole is in Carson's guards, some guy named Stald. We need to get rid of this guy as quickly, and as quietly, as possible. Carson doesn't want to cause a stink by eliminating one of his own men, so he asked us to do it. What about you? Do you think [you could get rid of Stald] for us?
@@ -64,7 +64,7 @@ if **Faction** >= Amiable and  **You turn in:** [Letter for Prak](/item/18795)
 
  **You receive:** 0 (+500 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Stald's Badge](/item/13793)
+elseif **Faction** >= Amiable +100 and  **You turn in:** [Stald's Badge](/item/13793)) then
 
 
 >**Prak says:** Ah, boy! Looks like I owe Kaden two plat... I thought you'd fumble it up for sure. Well, you've impressed me friend. Here, take this back to Zan... I'll make sure note your fine works to Carson, too, next time we speak.

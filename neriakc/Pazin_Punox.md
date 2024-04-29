@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Burning Rapier](/item/7041), [Lon's Head](/item/9438)
+if( **You turn in:** [Burning Rapier](/item/7041), [Lon's Head](/item/9438)) then
 
 
 >*Pazin Punox laughs. 'Here, take this then!'*

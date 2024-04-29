@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Astral Jewel](/item/4494), [Mark of Melody](/item/5393), [Onyx Studded Medal](/item/5394), [Porous Rock](/item/5395)
+if( **You turn in:** [Astral Jewel](/item/4494), [Mark of Melody](/item/5393), [Onyx Studded Medal](/item/5394), [Porous Rock](/item/5395)) then
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Bravado's Cape](/item/3928) (+25000 exp)
 
-elseif **You turn in:** [Fire Emerald Studded Medal](/item/5397), [Mark of Anthems](/item/5396), [Sun Jewel](/item/4488)
+elseif( **You turn in:** [Fire Emerald Studded Medal](/item/5397), [Mark of Anthems](/item/5396), [Sun Jewel](/item/4488)) then
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Bravado's Gauntlets](/item/3929) (+25000 exp)
   
-elseif **You turn in:** [Mark of Composition](/item/5474), [Peridot Studded Medal](/item/5475), [Seared Brand](/item/5476), [Star Jewel](/item/4490)
+elseif( **You turn in:** [Mark of Composition](/item/5474), [Peridot Studded Medal](/item/5475), [Seared Brand](/item/5476), [Star Jewel](/item/4490)) then
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Bravado's Girdle](/item/3931) (+25000 exp)
 
-elseif **You turn in:** [Black Pearl Studded Medal](/item/5399), [Mark of Psalms](/item/5398), [Moon Jewel](/item/4489)
+elseif( **You turn in:** [Black Pearl Studded Medal](/item/5399), [Mark of Psalms](/item/5398), [Moon Jewel](/item/4489)) then
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Bravado's Gorget](/item/3930) (+25000 exp)
 
-elseif **You turn in:** [Mark of Tenor](/item/5349), [Meteor Jewel](/item/4493), [Star Sapphire Studded Medal](/item/5354)
+elseif( **You turn in:** [Mark of Tenor](/item/5349), [Meteor Jewel](/item/4493), [Star Sapphire Studded Medal](/item/5354)) then
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Bravado's Mask](/item/3910) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Chants](/item/5477), [Moonstone Studded Medal](/item/5479), [Red Stone Idol](/item/5478)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Chants](/item/5477), [Moonstone Studded Medal](/item/5479), [Red Stone Idol](/item/5478)) then
 
 
 FactionReward(e)

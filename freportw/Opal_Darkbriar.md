@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18739)
+if( **You turn in:** [A tattered note](/item/18739)) then 
 
 
 >**Opal Darkbriar says:** Welcome to the Academy of Arcane Sciences. Here's one of our guild robes for you to wear. Now, let's get to work.

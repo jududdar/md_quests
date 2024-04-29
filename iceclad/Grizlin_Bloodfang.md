@@ -37,7 +37,7 @@
 
 
 
-if **You turn in:** [Runed Totem Staff](/item/6310), [Whale Bone](/item/30050), [Tinkered Rope](/item/30049)
+if( **You turn in:** [Runed Totem Staff](/item/6310), [Whale Bone](/item/30050), [Tinkered Rope](/item/30049)) then
 
 
 >**Grizlin Bloodfang says:** Yes, these good.'  He forges the items into a finely crafted harpoon. Grizlin holds the weapon up and inspects it for a moment. 'Yes, this fine weapon. This hero weapon! Groumshak have harpoon much like this. May it bring much food for your pack, furless one.'  He hands you the harpoon with a nod of his head.'

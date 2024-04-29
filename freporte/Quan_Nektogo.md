@@ -110,7 +110,7 @@ end
 
 
 
-if **You turn in:** [Sharpened Dismal Long Sword](/item/19928), [Giant Rattlesnake Skin](/item/19852)
+if( **You turn in:** [Sharpened Dismal Long Sword](/item/19928), [Giant Rattlesnake Skin](/item/19852)) then
 
 
 >*Quan Nektogo fashions a grip out of the giant rattlesnake skin and polishes the blade of the sword with a strange glowing substance. 'May your new sword see the deaths of many enemies!'*
@@ -118,7 +118,7 @@ if **You turn in:** [Sharpened Dismal Long Sword](/item/19928), [Giant Rattlesna
 
  **You receive:**  [Dismal Rage Long Sword](/item/19940) (+100 exp)
 
-elseif **You turn in:** [Note to Quan Nektogo](/item/19845)
+elseif( **You turn in:** [Note to Quan Nektogo](/item/19845)) then
 
 
 >**Quan Nektogo says:** Sorry buddy I didn't realize you were one of us. I've got no problem helping out an associate of Gunex. You'll need this Mail Assembly Kit to construct your new armor. The materials required depend on the section of armor you're planning on crafting. Do you plan on crafting a [dismal knight helm], a [dismal knight bracer], [dismal knight gauntlets], [dismal knight boots], [dismal knight vambraces], [dismal knight greaves], or a [dismal knight breastplate].

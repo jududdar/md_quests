@@ -69,7 +69,7 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 
 local text = "I require the Ashes of Valdanov Zevfeer, the Magus Conlegium Token, and the Katta Castellum Badge of Service in order to reward you the honor you strive for.";
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Water-stained note](/item/18330)
+if( **Faction is** > Apprehensive and  **You turn in:** [Water-stained note](/item/18330)) then
 
 
 >**Phenic Dionicas says:** I was afraid of this. I do not know how much Halle managed to tell you, but we have had our suspicions about one of the Legionnaires ever since she overheard him talking in his sleep. She was meant to get close to him, I guess she found something out... I should have been more careful!  Take this to Governor Markil, it concerns his men and I've no doubt he can handle it. Thank you much for your help.
@@ -86,7 +86,7 @@ if( **Faction is** > Apprehensive and  **You turn in:** [Water-stained note](/it
 
  **You receive:**  [Sealed Message](/item/18331) (+1000 exp)
 
-elseif **You turn in:** [Old Merchant Records](/item/18352)
+elseif( **You turn in:** [Old Merchant Records](/item/18352)) then
 
 
 >**Phenic Dionicas says:** Most interesting. One of the names on this list I recognize. The alchemist [Valdanov Zevfeer]. Nathyn Illuminious would know more of Valdanov. Present this badge to Nathyn so that he knows you have been sent by the Magistrates to inquire about this issue and question him about the alchemist.
@@ -103,7 +103,7 @@ elseif **You turn in:** [Old Merchant Records](/item/18352)
 
  **You receive:**  [Katta Castellum Badge of Service](/item/31752) (+1000 exp)
 
-elseif **You turn in:** [Report of Nathyns Questioning](/item/31755)
+elseif( **You turn in:** [Report of Nathyns Questioning](/item/31755)) then
 
 
 >**Phenic Dionicas says:** So Valdanov had an interest in a Vah Shir vampyre?!! Perhaps we should seek out this Vah Shir and find more clues. Take these orders to Legionnaire Falion during his next shift at the Tenebrous Mountains Gate, he will question any travelers that pass by about this mysterious Vah Shir.  Should you locate the Vah Shir Vampyre attempt to present him with your Badge of Service for questioning, he just may agree to cooperate rather than anger the Validus Custodus.
@@ -120,7 +120,7 @@ elseif **You turn in:** [Report of Nathyns Questioning](/item/31755)
 
  **You receive:**  [Orders for Legionnaire Falion](/item/31756) (+1000 exp)
 
-elseif **You turn in:** [A Worn Research Book](/item/18449)
+elseif( **You turn in:** [A Worn Research Book](/item/18449)) then
 
 
 >*Phenic Dionicas  listens to your account of the events that have occurred since last you spoke and reads through the journal. 'This investigation is getting more and more baffling the further we delve. Among other things, I am wondering if the shade that was imprisoned in the chest is the same that was providing Valdanov with the blood for his research. Take the belt that the shade was wearing with these instructions to Governor Lathin at the Magus Conlegium. In the meantime I will pay a visit to Nathyn Illuminious.*
@@ -137,7 +137,7 @@ elseif **You turn in:** [A Worn Research Book](/item/18449)
 
  **You receive:**  [Instructions for Lathin Firetree](/item/7270) 
 
-elseif **You turn in:** [Enchanted Record of Events](/item/7361)
+elseif( **You turn in:** [Enchanted Record of Events](/item/7361)) then 
 
 
 >**Phenic Dionicas says:** There is much that is disturbing about these revelations. I will make sure the Validus Custodus is alert than they already are to the presence of powerful vampyre among our citizens. If you can find this Valdanov Zevfeer slay him and bring me his ashes your Katta Castellum Badge of Service, and your Magus Conlegium Token I will bestow upon you an honorable reward.
@@ -151,7 +151,7 @@ elseif **You turn in:** [Enchanted Record of Events](/item/7361)
 
 * __Faction:__ [Heart of Seru](/faction/1486) (-12)
 
-elseif **You turn in:** [Arbogasts Holy Water](/item/29899)
+elseif( **You turn in:** [Arbogasts Holy Water](/item/29899)) then
 
 
 >*Phenic Dionicas looks at you and smiles despite the fact that you have splashed water all over him- he does not appear to be burning at all.  'Oh, excuse me.  You seem to have spilled your water, here have some of mine my friend.  Good day to you, Soandso,' he says.*
@@ -159,7 +159,7 @@ elseif **You turn in:** [Arbogasts Holy Water](/item/29899)
 
  **You receive:**  [Phenics Water](/item/29898) 
 
-elseif **You turn in:** [Vampyre Volatilis Ashes](/item/7397), [Katta Castellum Badge of Service](/item/31757), [Magus Conlegium Token](/item/7394)
+elseif( **You turn in:** [Vampyre Volatilis Ashes](/item/7397), [Katta Castellum Badge of Service](/item/31757), [Magus Conlegium Token](/item/7394)) then
 
 
 >**Phenic Dionicas says:** You have done a great service for Katta Castellum and the Loyalist Empire. I award you for your honorable Services. Know that you will be remembered for your deeds.

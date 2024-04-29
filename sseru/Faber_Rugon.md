@@ -186,7 +186,7 @@ end
 
 
 
-if **You turn in:** [Pristine Lightcrawler Shell](/item/31787), [Pristine Lightcrawler Shell](/item/31787)
+if( **You turn in:** [Pristine Lightcrawler Shell](/item/31787), [Pristine Lightcrawler Shell](/item/31787)) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
@@ -194,7 +194,7 @@ if **You turn in:** [Pristine Lightcrawler Shell](/item/31787), [Pristine Lightc
 
  **You receive:**  [Lightcrawler Breastplate](/item/29879) (+10000 exp)
 
-elseif **You turn in:** [Lightcrawler Legs](/item/31788), [Lightcrawler Legs](/item/31788), [A Shimmering Lightcrawler Shell](/item/31966), [A Shimmering Lightcrawler Shell](/item/31966)
+elseif( **You turn in:** [Lightcrawler Legs](/item/31788), [Lightcrawler Legs](/item/31788), [A Shimmering Lightcrawler Shell](/item/31966), [A Shimmering Lightcrawler Shell](/item/31966)) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
@@ -202,7 +202,7 @@ elseif **You turn in:** [Lightcrawler Legs](/item/31788), [Lightcrawler Legs](/i
 
  **You receive:**  [Lightcrawler Greaves](/item/29878) (+10000 exp)
 
-elseif **You turn in:** [An Ardent Lightcrawler Shell](/item/31965), [An Ardent Lightcrawler Shell](/item/31965)
+elseif( **You turn in:** [An Ardent Lightcrawler Shell](/item/31965), [An Ardent Lightcrawler Shell](/item/31965)) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
@@ -210,7 +210,7 @@ elseif **You turn in:** [An Ardent Lightcrawler Shell](/item/31965), [An Ardent 
 
  **You receive:**  [Lightcrawler Helm](/item/29876) (+10000 exp)
 
-elseif **You turn in:** [A Stripped Lightcrawler Shell](/item/31968), [A Stripped Lightcrawler Shell](/item/31968)
+elseif( **You turn in:** [A Stripped Lightcrawler Shell](/item/31968), [A Stripped Lightcrawler Shell](/item/31968)) then
  
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
@@ -218,7 +218,7 @@ elseif **You turn in:** [A Stripped Lightcrawler Shell](/item/31968), [A Strippe
 
  **You receive:**  [Lightcrawler Bracer](/item/29880) (+10000 exp)
 
-elseif **You turn in:** [A Spotted Lightcrawler Shell](/item/31967), [A Spotted Lightcrawler Shell](/item/31967)
+elseif( **You turn in:** [A Spotted Lightcrawler Shell](/item/31967), [A Spotted Lightcrawler Shell](/item/31967)) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!

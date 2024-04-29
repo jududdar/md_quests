@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [a king cod card](/item/1791)
+if( **You turn in:** [a king cod card](/item/1791)) then
 
 
 >**Ferjeneror says:** Indeed you found the one I need. I give you this to feed your greed. A paper knight of blackened heart. A paper throne to match his art. A paper crown of darkest night. A throne of ice to chill the sight. Inside the deck you place the four, to guard the wings that fly the floor.

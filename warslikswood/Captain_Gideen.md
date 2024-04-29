@@ -23,7 +23,7 @@ end
 if( **Faction is** > Apprehensive) then
 
 
-if **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441)
+if( **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441)) then
 
 
 
@@ -51,7 +51,7 @@ if **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](
 
 
 
- **You receive:** None 
+ **You receive:**  [Aloe Swatch](/item/12357) (+10 exp)
 
 
 **This NPC *should* return incorrect items given.**

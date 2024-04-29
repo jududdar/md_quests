@@ -70,7 +70,7 @@ local text = "Where is the rest, manling?";
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Mercenary Assignment](/item/1702)
+if( **Faction is** >= Indifferent and  **You turn in:** [Mercenary Assignment](/item/1702)) then 
 
 
 >**Lieutenant Krofer says:** Drioc sent you? I suppose one can't expect much from a mercenary. Well then, Soandso, your first assignment will be to clear out some of this forest's annoying populace. Bring me the meat of one of the raptors, the meat of two panthers, and the remains of one of those living puddles of black sludge found in the caves. You will then have your payment.
@@ -90,7 +90,7 @@ if( **Faction is** >= Indifferent and  **You turn in:** [Mercenary Assignment](/
 
  **You receive:** 0 (+1000 exp)
 
-elseif( **Faction is** >= Indifferent and  **You turn in:** [Panther Meat](/item/22851), [Panther Meat](/item/22851), [Raptor Meat](/item/22852), [Tar goo strands](/item/1703)
+elseif( **Faction is** >= Indifferent and  **You turn in:** [Panther Meat](/item/22851), [Panther Meat](/item/22851), [Raptor Meat](/item/22852), [Tar goo strands](/item/1703)) then 
 
 
 >**Lieutenant Krofer says:** Well, I suppose you may be worth something more than fodder after all. Here is your payment. Speak to me again when you are ready for your next assignment. For now, get some rest, you will need it.
@@ -110,7 +110,7 @@ elseif( **Faction is** >= Indifferent and  **You turn in:** [Panther Meat](/item
 
  **You receive:** 0 (+1000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Sifaye messengers report](/item/1704)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Sifaye messengers report](/item/1704)) then 
 
 
 >**Lieutenant Krofer says:** Excellent, Soandso. With this we can plan an attack that might actually accomplish something. Here is your payment. You have also earned this cloak, it should help protect you from the clawing undergrowth of this savage land. Your next mission will be more complex and dangerous, however we may be able to spare a laborer or two to assist you. Rest now, and tell me when you are prepared.
@@ -130,7 +130,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Sifaye messengers re
 
  **You receive:**  [Velium Studded Cloak](/item/1705) (+1000 exp)
 
-elseif **You turn in:** [Signed Requisition](/item/1707)
+elseif( **You turn in:** [Signed Requisition](/item/1707)) then 
 
 
 >*Lieutenant Krofer takes the note and looks it over, then sighs and says, 'This will have to be enough. The squad should be here shortly. When they arrive you will march with them to the staging area near the village of those insect Sifaye. When you are satisfied with the formation, give the corporal the order to attack and observe the battle. After the village is destroyed return this report to me and we'll plan our next move.'*

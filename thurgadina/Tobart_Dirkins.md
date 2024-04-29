@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** platinum = 1
+if( **You turn in:** platinum = 1) then
 
 
 >*Tobart Dirkins Thank ye and enjoy it. All the bars here in Thurgadin have their own mugs, just ask the barkeep if'n yer interested.*

@@ -7,7 +7,7 @@
 
 
 
-if **You turn in:** [Dispelling device](/item/29626)
+if( **You turn in:** [Dispelling device](/item/29626)) then
 
 
 **Spawn NPC:**  [a kromzek spy](/npc/114004) at this location.

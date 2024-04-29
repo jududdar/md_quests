@@ -28,7 +28,7 @@ local randrew = 0;
 
 
 
-if **You turn in:** [Kobold Molar](/item/1761)
+if( **You turn in:** [Kobold Molar](/item/1761)) then
 
 
 >**Royal Guard Lilkus says:** Not bad, Soandso. Here is your reward. If you slay enough of these dogs, Sheltuin may have a more important task for you to perform.

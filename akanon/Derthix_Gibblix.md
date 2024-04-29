@@ -29,7 +29,7 @@ end
 
 
 
-if  **You turn in:** [Vyntoks Mace](/item/10993)
+if ( **You turn in:** [Vyntoks Mace](/item/10993)) then
 
 
 >**Derthix Gibblix says:** It is good you returned with this. I almost thought you had lost to Vyntok, or worse become merciful to his cause. I suppose a reward is in order. A mace for a mace, now go forth and spread the word of Bertoxxulous.

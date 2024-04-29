@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Kromzek Foreman Helm](/item/24873)
+if( **You turn in:** [Kromzek Foreman Helm](/item/24873)) then
 
 
 >*Lord Gossimerwind takes the helm in his claws and crushes it with seeming ease. 'Yeez hav eernd ta reezpect ov my peoplez, here iz ze crezt ov ze faerie dragons'*

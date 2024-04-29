@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Borannin's Seal](/item/1420)
+if( **You turn in:** [Borannin's Seal](/item/1420)) then
 
 
 >**Mordin Frostcleaver says:** Hullo, Soandso, I see you've signed on for a bit of food service eh? Well, we can always use an extra pair o' hands here dat's fer sure. First things first, warsh yer grubby mitts an' cook up dinner fer good ol' Leif. Should'n be too tough fer ye, he has simple enough taste. Make him a Tundrabear sandwich an' lemme know when he's been fed. Don'tcha ferget ta give him this with his meal.
@@ -57,7 +57,7 @@ if **You turn in:** [Borannin's Seal](/item/1420)
 
  **You receive:**  [Leif's Napkin](/item/1415) 
 
-elseif **You turn in:** [Used Napkin](/item/1419)
+elseif( **You turn in:** [Used Napkin](/item/1419)) then
 
 
 >**Mordin Frostcleaver says:** Well don, outlander! We'll make a chef of you before we're through. Next you'll need to whip up some Snow Bunny stew fer Missus Coldheart. Again, give her this napkin with her meal an' lemme know when she's been served.
@@ -77,7 +77,7 @@ elseif **You turn in:** [Used Napkin](/item/1419)
 
  **You receive:**  [Tritas Napkin](/item/1416) (+100000 exp)
 
-elseif **You turn in:** [Dirty Pot](/item/1423)
+elseif( **You turn in:** [Dirty Pot](/item/1423)) then
 
 
 >**Mordin Frostcleaver says:** Now yer cookin! Letsee here... Guard Leif, check... Trita Coldheart, check... Ahh yes, next we need an Ulthork meat pie fer Brita. She's a doll, smart too, but she can be testy when she's hungry so get movin'!
@@ -97,7 +97,7 @@ elseif **You turn in:** [Dirty Pot](/item/1423)
 
  **You receive:**  [Britas Napkin](/item/1417) (+150000 exp)
 
-elseif **You turn in:** [Used Pie Tin](/item/1424)
+elseif( **You turn in:** [Used Pie Tin](/item/1424)) then
 
 
 >**Mordin Frostcleaver says:** More dirty dishes, eh? Well outlander, only one more meal to serve and I'll be done with ye. Make a snow griffin souffle fer the Grand Historian himself. It's his favorite.

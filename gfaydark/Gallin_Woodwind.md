@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [Pack of Meat](/item/12121)
+if( **You turn in:** [Pack of Meat](/item/12121)) then
 
 
 >**Gallin Woodwind says:** Very good. This meat will supply our warriors with much strength. We have found the meat from sharks to be quite nourishing. Here, then, are your wages and your weapon. All of Kelethin appreciates your great deed.

@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** item1 = 28079
+if( **You turn in:** item1 = 28079) then
 
 
 >**Gammle Hecht says:** These will do. Please accept this as a show of my appreciation. Now if you'll excuse me I have much work left to do.

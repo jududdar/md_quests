@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Sharp Cutting Disk](/item/12450)
+if( **You turn in:** [Sharp Cutting Disk](/item/12450)) then
 
 
 

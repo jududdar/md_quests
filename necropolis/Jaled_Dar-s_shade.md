@@ -102,22 +102,22 @@ end
 
 
 
-if **You turn in:** [Shard of Hsagra's Talisman](/item/9296)
+if( **You turn in:** [Shard of Hsagra's Talisman](/item/9296) or
 
 
- **You turn in:** [Klandicar's Talisman](/item/27255)
+ **You turn in:** [Klandicar's Talisman](/item/27255) or
 
 
- **You turn in:** [Sontalak's Talisman](/item/27256)
+ **You turn in:** [Sontalak's Talisman](/item/27256) or
 
 
- **You turn in:** [Zlandicar's Talisman](/item/27258)
+ **You turn in:** [Zlandicar's Talisman](/item/27258) or
 
 
- **You turn in:** [Lendiniara's Talisman](/item/27259)
+ **You turn in:** [Lendiniara's Talisman](/item/27259) or
 
 
- **You turn in:** [Yelinak's Talisman](/item/27266)
+ **You turn in:** [Yelinak's Talisman](/item/27266)) then
 
 
 >**Jaled Dar-s shade says:** Very well done. Here is how you unlock the entry. Seek out a great dragon statue in the Eastern Wastes, and use this key there. Not very different from how you entered my old domain, Veeshan's Peak, now, is it? Haha, yes, I know many things, even dead.

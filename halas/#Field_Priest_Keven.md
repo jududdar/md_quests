@@ -3,7 +3,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18847)
+if( **You turn in:** [A tattered note](/item/18847)) then
 
 
 

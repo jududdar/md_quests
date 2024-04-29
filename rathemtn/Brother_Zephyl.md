@@ -52,7 +52,7 @@ local text = "We had an agreement. The proof of a skilled monk, the red sash, an
 
 
 
-if **You turn in:** [The Idol](/item/12317), [Red Sash of Order](/item/10133)
+if( **You turn in:** [The Idol](/item/12317), [Red Sash of Order](/item/10133)) then 
 
 
 >**Brother Zephyl says:** We thank you for the return of the idol of Zan Fi. Take this rare robe pattern. You shall find it useful should you aid [Brother Qwinn] in his quest. His item, the rare robe pattern, a swatch of shadow silk and a scroll containing Jonathan's Whistling Warsong. Into a sewing kit they will be going. And into the brotherhood will you. I hope you do not wish me to [return the sash].
@@ -60,14 +60,14 @@ if **You turn in:** [The Idol](/item/12317), [Red Sash of Order](/item/10133)
 
  **You receive:**  [Rare Robe Pattern](/item/12315) (+2000 exp)
 
-elseif **You turn in:** [Rare Robe Pattern](/item/12315), [Red Sash of Order](/item/10133)
+elseif( **You turn in:** [Rare Robe Pattern](/item/12315), [Red Sash of Order](/item/10133)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Red Sash of Order](/item/10133) 
 
-elseif **You turn in:** [Robe of the Lost Circle](/item/12256), [Red Sash of Order](/item/10133)
+elseif( **You turn in:** [Robe of the Lost Circle](/item/12256), [Red Sash of Order](/item/10133)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Red Sash of Order](/item/10133) 
 
 **This NPC *should* return incorrect items given.**

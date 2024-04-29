@@ -66,7 +66,7 @@ end
 
 
 
-if(**Your level** > 54 and  **You turn in:** platinum = 500
+if(**Your level** > 54 and  **You turn in:** platinum = 500) then 
 
 
 if((e.other:GetClass() >= 1 and e.other:GetClass() <= 5) or (e.other:GetClass() >= 8 and e.other:GetClass() <= 10)) then

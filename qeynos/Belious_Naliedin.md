@@ -71,7 +71,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18717)
+if( **You turn in:** [A tattered note](/item/18717)) then 
 
 
 >**Belious Naliedin says:** Good day friend, and welcome to the Wind Spirit's Song. Thank you for joining our cause. Go speak with Jusean Evanesque; I'm sure you'll fit in well.
@@ -94,7 +94,7 @@ if **You turn in:** [A tattered note](/item/18717)
 
  **You receive:**  [Brown Tunic*](/item/13502) (+100 exp)
 
-elseif **You turn in:** [Ripped Qeynos Bards Guild Flyer](/item/20374)
+elseif( **You turn in:** [Ripped Qeynos Bards Guild Flyer](/item/20374)) then
 
 
 >**Belious Naliedin says:** A famous bard, you say? Why you must be seeking none other than the great Baenar Swiftsong! He is not here as you can see. Mayhap you seek an audience with him? He is a busy man and has not the time to speak with everyone who wishes to preoccupy his time with useless prattle! You are many and he is but one! Leave him be, I beg of you, to continue his songwriting in peace.
@@ -102,7 +102,7 @@ elseif **You turn in:** [Ripped Qeynos Bards Guild Flyer](/item/20374)
 
  **You receive:** 0 (+100 exp)
 
-elseif **You turn in:** platinum = 50
+elseif( **You turn in:** platinum = 50) then
 
 
 >**Belious Naliedin says:** Ah! Here is that letter of introduction I was looking for! Baenar likes to frequent a serene fountain in the southern Karanas. He finds the peace there accommodating to his work. He may even sing a tale for you if the mood strikes him.
@@ -110,7 +110,7 @@ elseif **You turn in:** platinum = 50
 
  **You receive:**  [Letter of Introduction](/item/20373) (+100 exp)
 
-elseif( **Faction is** >= Amiable and  **You turn in:** [Unfinished Lute Body](/item/13775), [Unfinished Lute Neck](/item/13776), [Box of Lute Strings](/item/13777), [Fine Lute Tuners](/item/13778)
+elseif( **Faction is** >= Amiable and  **You turn in:** [Unfinished Lute Body](/item/13775), [Unfinished Lute Neck](/item/13776), [Box of Lute Strings](/item/13777), [Fine Lute Tuners](/item/13778)) then 
 
 
 >**Belious Naliedin says:** Ok, great. See, assembling these isn't that hard. Add a few special touches, and there you go. Another beautiful Naliedin lute is born, and ears everywhere rejoice.

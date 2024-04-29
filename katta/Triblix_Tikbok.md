@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690)
+if( **You turn in:** [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690)) then
 
 
 
@@ -71,7 +71,7 @@ if **You turn in:** [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/ite
 
 
 
-elseif **You turn in:** [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691)
+elseif( **You turn in:** [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691)) then
 
 
 
@@ -98,6 +98,6 @@ elseif **You turn in:** [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), 
 * __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Combine Fire Flasks](/item/10694) (+500 exp)
 
 **This NPC *should* return incorrect items given.**

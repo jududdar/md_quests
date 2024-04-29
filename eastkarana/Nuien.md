@@ -13,7 +13,7 @@
 
 
 
-if **You turn in:** [Frayed Braided Grass Amulet](/item/20451)
+if( **You turn in:** [Frayed Braided Grass Amulet](/item/20451)) then
 
 
 >**Nuien says:** So be it. Do as you have done before and find the next. Teloa is the last.

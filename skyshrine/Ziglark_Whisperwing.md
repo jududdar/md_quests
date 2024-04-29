@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Message to Herald](/item/28601)
+if( **You turn in:** [Message to Herald](/item/28601)) then
 
 
 >**Ziglark Whisperwing says:** Excellent, you have gotten the information back and you are still in one piece!  Perhaps you could be useful to our cause.  Here is the key to leave the Skyshrine.  Just place it on the flaming pot of the dragon statue, near the center of the pool in the courtyard.

@@ -13,7 +13,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Opaque Gem](/item/1666)
+if **Faction** >= Indifferent and  **You turn in:** [Opaque Gem](/item/1666)) then 
 
 
 >**Ooglyn says:** Ahhh, tank you, now me can...OH LOOK!! DA SIGN!!!! Oh, sorry you missed it. The sign show you where to wait for da test. Follow me...I like you so I take you there. We goin for a swim, Soandso!

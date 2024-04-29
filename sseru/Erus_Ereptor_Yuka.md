@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Shattered Praetor Blade](/item/29869)
+if( **You turn in:** [Shattered Praetor Blade](/item/29869)) then 
 
 
 >**Erus Ereptor Yuka says:** He was caught? I cannot believe one of my own men would fail me. If he was caught he deserved whatever they gave to him. Still though tainting him with vampyrism is something that could have seriously affected this town. He could have done much damage before his time for the question arose. You have done a great justice to Seru by purging us of the evil.

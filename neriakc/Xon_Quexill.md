@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Scroll of the Burning Dead](/item/18474)
+if( **You turn in:** [Scroll of the Burning Dead](/item/18474)) then
 
 
 >**Xon Quexill says:** Very interesting, servant of the Queen. This deed has stayed my wrath for this interruption of my business. Where did you find this?
@@ -44,7 +44,7 @@ if **You turn in:** [Scroll of the Burning Dead](/item/18474)
 
  **You receive:** 0 (+6400 exp)
 
-elseif **You turn in:** [Ghostly Bridle](/item/31492)
+elseif( **You turn in:** [Ghostly Bridle](/item/31492)) then
 
 
 >**Xon Quexill says:** Ha ha ha ha! Oh the poor steed of a noble paladin! Bah, it will find no rest yet. I who can command the spirits of the dead demand it serve you once again.
@@ -70,7 +70,7 @@ elseif **You turn in:** [Ghostly Bridle](/item/31492)
 
  **You receive:**  [Bridle of Sir Ariam](/item/31496) (+6400 exp)
 
-elseif **You turn in:** [A tattered note](/item/18758)
+elseif( **You turn in:** [A tattered note](/item/18758)) then 
 
 
 >**Xon Quexill says:** Just what I need in this outfit, another waste of flesh. Here, put this on. Go bother Noxhil for a while - I'm sure he has some menial task for you.  You'd better prove yourself of value to me. I hear I can get a few plat for the skull of an idiot on the black market, and I could make a fortune from your type. Now, get outta here!

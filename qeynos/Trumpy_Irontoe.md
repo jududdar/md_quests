@@ -107,7 +107,7 @@ local text = "Beh! Thanks, Skippy. Why don't ya buy yourself one? And.. <gulp>..
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Honey Mead](/item/13033), [Honey Mead](/item/13033), [Honey Mead](/item/13033), [Honey Mead](/item/13033)
+if **Faction** >= Dubious and  **You turn in:** [Honey Mead](/item/13033), [Honey Mead](/item/13033), [Honey Mead](/item/13033), [Honey Mead](/item/13033)) then
 
 
 >**Trumpy Irontoe says:** BWAH hah hah! I knew you wasn't the loser you.. <gulp>.. <gulp>.. appear to be! I will have to tell [Kane].. <burp>.. all about you. Maybe get you in the gang!

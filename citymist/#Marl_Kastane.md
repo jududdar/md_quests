@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Lhranc's Token](/item/14384)
+if( **You turn in:** [Lhranc's Token](/item/14384)) then
 
 
 

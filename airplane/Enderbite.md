@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Adamantium Earring](/item/20774), [Harpy Statuette](/item/20952), [Black Nebulous Sapphire](/item/20773)
+if( **You turn in:** [Adamantium Earring](/item/20774), [Harpy Statuette](/item/20952), [Black Nebulous Sapphire](/item/20773)) then 
 
 
 >**Enderbite says:** Soandso, you have come far and done well.  This earring should aid you in the future.
@@ -41,7 +41,7 @@ if **You turn in:** [Adamantium Earring](/item/20774), [Harpy Statuette](/item/2
 
  **You receive:**  [Earring of Displacement](/item/14559) (+100000 exp)
 
-elseif **You turn in:** [Carmine Spiroc Feather](/item/20959), [Ganoric Poison](/item/20775), [Glowing Necklace](/item/20776)
+elseif( **You turn in:** [Carmine Spiroc Feather](/item/20959), [Ganoric Poison](/item/20775), [Glowing Necklace](/item/20776)) then 
 
 
 >**Enderbite says:** Since you have done as I asked, Soandso, I will give you this necklace. May Veeshan watch over you.
@@ -49,7 +49,7 @@ elseif **You turn in:** [Carmine Spiroc Feather](/item/20959), [Ganoric Poison](
 
  **You receive:**  [Necklace of Whispering Winds](/item/14558) (+100000 exp)
 
-elseif **You turn in:** [Black Sky Diamond](/item/20777), [Efreeti Wind Staff](/item/20779), [Large Sky Sapphire](/item/20778), [Sweet Nectar](/item/20966)
+elseif( **You turn in:** [Black Sky Diamond](/item/20777), [Efreeti Wind Staff](/item/20779), [Large Sky Sapphire](/item/20778), [Sweet Nectar](/item/20966)) then 
 
 
 >**Enderbite says:** A great day this is! Here! Take this staff as a token of my gratitude, Soandso.

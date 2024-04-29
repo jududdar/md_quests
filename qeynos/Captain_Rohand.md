@@ -145,23 +145,23 @@ local brandy = 0;
 
 
 
-if **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034)
+if( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034)) then
 
 
 brandy = 4;
 
-elseif **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034)
+elseif( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034)) then
 
 
 
 brandy = 3;
 
-elseif **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034)
+elseif( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034)) then
 
 
 brandy = 2;
 
-elseif **You turn in:** [Brandy](/item/13034)
+elseif( **You turn in:** [Brandy](/item/13034)) then
 
 
 brandy = 1;

@@ -20,14 +20,14 @@ if (other:GetLevel() >= required_level) then
 
 
 
-if **You turn in:** item1 = bar_id, item2 = bar_id, item3 = bar_id, item4 = bar_id, platinum = plat_cost * 4
+if( **You turn in:** item1 = bar_id, item2 = bar_id, item3 = bar_id, item4 = bar_id, platinum = plat_cost * 4) then
 
 
 
 num_bars = 4;
 
 
-elseif **You turn in:** item1 = bar_id, item2 = bar_id, item3 = bar_id, platinum = plat_cost * 3
+elseif( **You turn in:** item1 = bar_id, item2 = bar_id, item3 = bar_id, platinum = plat_cost * 3) then
 
 
 
@@ -35,14 +35,14 @@ elseif **You turn in:** item1 = bar_id, item2 = bar_id, item3 = bar_id, platinum
 num_bars = 3;
 
 
-elseif **You turn in:** item1 = bar_id, item2 = bar_id, platinum = plat_cost * 2
+elseif( **You turn in:** item1 = bar_id, item2 = bar_id, platinum = plat_cost * 2) then
 
 
 
 num_bars = 2;
 
 
-elseif **You turn in:** item1 = bar_id, platinum = plat_cost
+elseif( **You turn in:** item1 = bar_id, platinum = plat_cost) then
 
 
 

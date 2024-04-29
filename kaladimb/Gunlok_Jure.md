@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+if( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then
 
 
 >**Gunlok Jure says:** You have done well. We thank you for your deed with this humble reward. The power behind the raising of our dead shall soon be found. You will earn more respect with more bone chips. I only wish you could assist in the return of the [remains of Cromil].
@@ -72,7 +72,7 @@ if **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone 
 
  **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122), [Small Patchwork Pants](/item/2123), [Small Patchwork Boots](/item/2124), [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Broad Sword](/item/5016), [Rusty Two Handed Sword](/item/5023), [Rusty Mace](/item/6011), [Torch](/item/13002), [Small Lantern](/item/13003)) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Bones](/item/13332)
+elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Bones](/item/13332)) then 
 
 
 >**Gunlok Jure says:** Many thanks, my friend. Now my brother can rest in peace. Please take this spell. May it serve you well.

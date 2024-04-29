@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Falorn story](/item/18520)
+if( **You turn in:** [Falorn story](/item/18520)) then 
 
 
 
@@ -49,7 +49,7 @@ if **You turn in:** [Falorn story](/item/18520)
 
 **Torgon Blademaster despawns.**
 
-elseif **You turn in:** [Ogog Story](/item/18521)
+elseif( **You turn in:** [Ogog Story](/item/18521)) then 
 
 
 >**Torgon Blademaster says:** Farewell.

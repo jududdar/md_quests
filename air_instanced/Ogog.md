@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [Efreeti Battle Axe](/item/20983), [Honeyed Nectar](/item/20963), [Bottled Djinni](/item/20981), [Ethereal Emerald](/item/20982)
+if( **You turn in:** [Efreeti Battle Axe](/item/20983), [Honeyed Nectar](/item/20963), [Bottled Djinni](/item/20981), [Ethereal Emerald](/item/20982)) then 
 
 
 >**Ogog says:** Good job! Ogog give you Fangol for being good smasher!
@@ -50,7 +50,7 @@ if **You turn in:** [Efreeti Battle Axe](/item/20983), [Honeyed Nectar](/item/20
 
 **Ogog despawns.**
 
-elseif **You turn in:** [Djinni War Blade](/item/20980), [Virulent Poison](/item/20979), [Mottled Spiroc Feather](/item/20956)
+elseif( **You turn in:** [Djinni War Blade](/item/20980), [Virulent Poison](/item/20979), [Mottled Spiroc Feather](/item/20956)) then 
 
 
 >**Ogog says:** This Dagas, blade of stinging wind. You bash good with this.
@@ -61,7 +61,7 @@ elseif **You turn in:** [Djinni War Blade](/item/20980), [Virulent Poison](/item
 
 **Ogog despawns.**
 
-elseif **You turn in:** [Efreeti Belt](/item/20976), [Spiroc Wind Totem](/item/20977), [Wind Tablet](/item/20978)
+elseif( **You turn in:** [Efreeti Belt](/item/20976), [Spiroc Wind Totem](/item/20977), [Wind Tablet](/item/20978)) then 
 
 
 >**Ogog says:** Yuz do good! Take dis!

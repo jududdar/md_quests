@@ -7,7 +7,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Bag of Rations](/item/27498)
+if(expansion_flag >= 4.0 and  **You turn in:** [Bag of Rations](/item/27498)) then
 
 
 >**Scout Malityn says:** Oh my I am very thankful for these rations. I have been very hungry. Please send our teacher my regards and this report. Good luck!

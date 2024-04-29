@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [The Talisman Schematic](/item/28291)
+if( **You turn in:** [The Talisman Schematic](/item/28291)) then
 
 
 >**Elder Clinka says:** It is a pleasure to meet you. I've heard a great deal about you from the other elders. Please give me a moment to scan over this for you.
@@ -17,9 +17,9 @@ if **You turn in:** [The Talisman Schematic](/item/28291)
 >**Elder Clinka says:** If you bring me a fragment or shard of some living creature from each of the elemental planes, I will see if we can make this device work. Place them in this box with your talisman and combine them together before returning the box to me. In the meantime, I will continue to translate this document from its original language.
 
 
- **You receive:** None 
+ **You receive:**  [Small Lined Case](/item/17279) 
 
-elseif **You turn in:** [Sealed Lined Case](/item/28297)
+elseif( **You turn in:** [Sealed Lined Case](/item/28297)) then
 
 
 >*Elder Clinka carefully opens the small box and takes several small tools from the pocket in her robe. Her nimble fingers place the glowing elemental pieces into the appropriate sockets and covers them with several small caps that she must have made while you were away.*
@@ -31,6 +31,6 @@ elseif **You turn in:** [Sealed Lined Case](/item/28297)
 >**Elder Clinka says:** Take care of it and keep it with you at all times. I feel that your journey from this point will only become more dangerous. Perhaps this device will play a role in all of that. Move forward along the path of enlightenment. May the Balance guide your fate.
 
 
- **You receive:** None 
+ **You receive:**  [The Binden Concerrentia](/item/28296) 
 
 **This NPC *should* return incorrect items given.**

@@ -56,7 +56,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Box of Remains](/item/13246)
+if( **Faction is** > Indifferent and  **You turn in:** [Box of Remains](/item/13246)) then
 
 
 >**Renth McLanis says:** Good work!! Kylan will never know o' me negligence. I owe ye one, young warrior. Let's call it even with this. Twas found by one of our foraging parties. It is still useful. And... I believe ye can assist with a more [dangerous matter] as well
@@ -77,9 +77,9 @@ if( **Faction is** > Indifferent and  **You turn in:** [Box of Remains](/item/13
 * __Faction:__ [Steel Warriors](/faction/311) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Purse](/item/17009), [Wrist Pouch](/item/17001), [Throwing Axe](/item/8008)) (+2000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Femur](/item/13249), [Barbarian Jaw](/item/13248), [Barbarian Skull](/item/13247), [Barbarian Rib](/item/13233)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Femur](/item/13249), [Barbarian Jaw](/item/13248), [Barbarian Skull](/item/13247), [Barbarian Rib](/item/13233)) then
 
 
 >**Renth McLanis says:** Thank ye, Soandso! I knew ye could do it. It is a sad thing, but at least now he can rest in peace. Here is something for your efforts. If ye are interested, there is a [dangerous matter] that needs to be looked into.
@@ -87,7 +87,7 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Femur](/it
 
  **You receive:** 0 (+3000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Head](/item/12227)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Head](/item/12227)) then 
 
 
 >**Renth McLanis says:** Fine work! We've avenged our fellow Northmen and ye've earned yer Langseax. Wield it in the name o' Halas!
@@ -112,9 +112,9 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Head](/ite
 * __Faction:__ [Steel Warriors](/faction/311) (-1)
 
 
- **You receive:** None 
+ **You receive:**  [Langseax](/item/5367) (+10000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Head](/item/12225)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Barbarian Head](/item/12225)) then
 
 
 >**Renth McLanis says:** Nice work Soandso! Paglan has always been an outcast of sorts. I'm glad to see you were able to stop him. Here is a Langseax of the Wolves for your efforts.

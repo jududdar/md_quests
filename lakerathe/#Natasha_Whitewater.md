@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [Damaged Goblin Crown](/item/28046)
+if( **You turn in:** [Damaged Goblin Crown](/item/28046)) then 
 
 
 >**Natasha Whitewater says:** I will have this crown returned to the Riptide Goblins immediately! Should you ever come across an Erudite named Omat Vastsea, give him this sea shell. The waters of Norrath shimmer with awareness of your deeds here today!

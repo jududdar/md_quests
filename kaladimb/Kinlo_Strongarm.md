@@ -86,7 +86,7 @@ end
 
 
 
-if( **Faction is** > Dubious and  **You turn in:** [Jade Reaver](/item/5664)
+if( **Faction is** > Dubious and  **You turn in:** [Jade Reaver](/item/5664)) then
 
 
 >**Kinlo Strongarm says:** Arrrrr. Ooooo. Arrrrrr... Yah, now that's what I be callin' a good lookin' axe. I be crackin' a few skulls with this one. Oh, here's yer block o' mud. Our priests o' Brell use the mud pit fer relievin' themselves after really hard ale blessin' ceremonies, so ya ain't got ta be enchantin' it in holy water or anythin' cause they already have. Har har!
@@ -94,7 +94,7 @@ if( **Faction is** > Dubious and  **You turn in:** [Jade Reaver](/item/5664)
 
  **You receive:**  [Enchanted Clay](/item/20455) 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Soulbound Hammer](/item/20478)
+elseif( **Faction is** > Dubious and  **You turn in:** [Soulbound Hammer](/item/20478)) then
 
 
 >*Kinlo Strongarm examines the hammer respectfully, admiring its craftsmanship. He strikes it against his anvil and winces as a howl fills the air. 'This is one of the ancients' hammers? I can almost, well, almost hear it callin ta me. It's strong, that's fer sure, lad. I don't know how ye got it, but aye, a dwarf could make a mighty blade with this. It's lookin like this thing still has its owner inside it though. I'm not knowin how, and not wantin to know, but fer yer own good ye better find some way ta get 'im out.'*
@@ -102,7 +102,7 @@ elseif( **Faction is** > Dubious and  **You turn in:** [Soulbound Hammer](/item/
 
  **You receive:**  [Soulbound Hammer](/item/20478) 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Hammer of the Ancients](/item/20485)
+elseif( **Faction is** > Dubious and  **You turn in:** [Hammer of the Ancients](/item/20485)) then
 
 
 >*Kinlo Strongarm looks at the hammer and nods once before slamming the head against his anvil, and shattering the head. In a cloud of dust, another dwarf appears from the cloud and tosses you a hunk of metal. Kinlo stares in awe.*
@@ -113,7 +113,7 @@ elseif( **Faction is** > Dubious and  **You turn in:** [Hammer of the Ancients](
 
 **Spawn NPC:**  [Usbak the Old](/npc/67089) at (**y:** 346.8, **x:** -189.5)
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Small bit of Mithril Ore](/item/20482)
+elseif( **Faction is** > Dubious and  **You turn in:** [Small bit of Mithril Ore](/item/20482)) then
 
 
 >**Kinlo Strongarm says:** Erm. Well, I ain't never worked with this stuff but here's what I got for ya. It ain't bad, pretty much like the one ye got there. I suppose ye should take the one the ancient made and show it ta yer friend.

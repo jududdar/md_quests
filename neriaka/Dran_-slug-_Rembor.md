@@ -19,13 +19,13 @@ local text = "Gee, thanks, but I can't do a whole lot without the rest! Get your
 
 
 
-if **You turn in:** [Steel Boning](/item/12073), [Steel Boning](/item/12073)
+if( **You turn in:** [Steel Boning](/item/12073), [Steel Boning](/item/12073)) then
 
 
 >**Dran -slug- Rembor says:** Here's the crate of provisions. Take this to Dragoon Szorn in the Lesser Faydark immediately!
 
 
- **You receive:** None 
+ **You receive:**  [Crate of Teir\`Dal Provisions](/item/19030) 
 
 **This NPC *should* return incorrect items given.**
 

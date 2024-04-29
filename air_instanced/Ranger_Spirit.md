@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Sisters and Life](/item/18546)
+if( **You turn in:** [Sisters and Life](/item/18546)) then 
 
 
 >**Ranger Spirit says:** Relinin Skyrunner, I summon thee.
@@ -47,7 +47,7 @@ if **You turn in:** [Sisters and Life](/item/18546)
 
 **Ranger Spirit despawns.**
 
-elseif **You turn in:** [The Mother](/item/18547)
+elseif( **You turn in:** [The Mother](/item/18547)) then 
 
 
 >**Ranger Spirit says:** Gordon Treecaller, I summon thee.

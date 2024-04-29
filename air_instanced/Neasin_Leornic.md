@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [Azure Tessera](/item/20930), [Augmentors Gem](/item/20741), [Grey Damask Cloak](/item/20742)
+if( **You turn in:** [Azure Tessera](/item/20930), [Augmentors Gem](/item/20741), [Grey Damask Cloak](/item/20742)) then 
 
 
 
@@ -51,7 +51,7 @@ if **You turn in:** [Azure Tessera](/item/20930), [Augmentors Gem](/item/20741),
 
 **Neasin Leornic despawns.**
 
-elseif **You turn in:** [Iron Disc](/item/20937), [Ethereal Opal](/item/20743), [Woven Skull Cap](/item/20744)
+elseif( **You turn in:** [Iron Disc](/item/20937), [Ethereal Opal](/item/20743), [Woven Skull Cap](/item/20744)) then 
 
 
 >**Neasin Leornic says:** Ah good. Take this as your reward.
@@ -62,7 +62,7 @@ elseif **You turn in:** [Iron Disc](/item/20937), [Ethereal Opal](/item/20743), 
 
 **Neasin Leornic despawns.**
 
-elseif **You turn in:** [Hyaline Globe](/item/20944), [Sky Topaz](/item/20745), [High Quality Raiment](/item/20746)
+elseif( **You turn in:** [Hyaline Globe](/item/20944), [Sky Topaz](/item/20745), [High Quality Raiment](/item/20746)) then 
 
 
 >**Neasin Leornic says:** Ah good. Take this as your reward.

@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Brass Earring](/item/10351)
+if( **You turn in:** [Brass Earring](/item/10351)) then 
 
 
 >**a dwarven smith says:** Outstanding! If you can kill the taskmaster, you might prove useful in recovering the items the orcs took from me when they caught me out in the Faydarks. Interested in helping me out?
@@ -30,7 +30,7 @@ if **You turn in:** [Brass Earring](/item/10351)
 
  **You receive:**  [Unfinished Blade Mold](/item/13850) (+5000 exp)
 
-elseif **You turn in:** [Shiny Brass Shield](/item/9307)
+elseif( **You turn in:** [Shiny Brass Shield](/item/9307)) then 
 
 
 >**a dwarven smith says:** MY SHIELD!! Excellent, laddie! Next item on the list is my ringmail. Once I have my [ringmail], I am out of here for good. I will finally be able to leave!
@@ -41,7 +41,7 @@ elseif **You turn in:** [Shiny Brass Shield](/item/9307)
 
  **You receive:**  [Unfinished Sledge Mold](/item/13851) (+6000 exp)
 
-elseif **You turn in:** [Dwarven Ringmail Tunic](/item/3301)
+elseif( **You turn in:** [Dwarven Ringmail Tunic](/item/3301)) then
 
 
 >**a dwarven smith says:** AHA!! My ringmail!! My, you ARE a resourceful one! Here is your reward as promised. It is exquisite, if I do say so myself. You might also wish to tell the priest in the cell over there that the king is dead. I am sure he will be pleased to hear that and might even be able to help you further. Farewell! It's time for me to make my escape!

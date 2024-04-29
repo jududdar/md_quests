@@ -79,7 +79,7 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Emerald Symbol](/item/31257), [Emerald Tear](/item/31268), [Ruby Tear](/item/31270), [Platinum Symbol](/item/31258)
+if **Faction** >= Kindly and  **You turn in:** [Emerald Symbol](/item/31257), [Emerald Tear](/item/31268), [Ruby Tear](/item/31270), [Platinum Symbol](/item/31258)) then 
 
 
 FactionHits(e);
@@ -87,7 +87,7 @@ FactionHits(e);
 
  **You receive:**  [Pauldrons of the Deep Flame](/item/31472) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Glowing Drake Orb](/item/31260), [Silver Symbol](/item/31253), [White Tear](/item/31261), [White Symbol](/item/31250)
+elseif **Faction** >= Kindly and  **You turn in:** [Glowing Drake Orb](/item/31260), [Silver Symbol](/item/31253), [White Tear](/item/31261), [White Symbol](/item/31250)) then 
 
 
 FactionHits(e);
@@ -95,7 +95,7 @@ FactionHits(e);
 
  **You receive:**  [Serrated Dragon Tooth](/item/31469) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [Black Symbol](/item/31251), [Poison Symbol](/item/31255), [Serrated Symbol](/item/31254)
+elseif **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [Black Symbol](/item/31251), [Poison Symbol](/item/31255), [Serrated Symbol](/item/31254)) then 
 
 
 FactionHits(e);
@@ -103,7 +103,7 @@ FactionHits(e);
 
  **You receive:**  [Earring of the Living Flame](/item/31470) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Symbol](/item/31256), [Poison Tear](/item/31266), [Serrated Tear](/item/31265), [Ruby Symbol](/item/31259)
+elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Symbol](/item/31256), [Poison Tear](/item/31266), [Serrated Tear](/item/31265), [Ruby Symbol](/item/31259)) then 
 
 
 FactionHits(e);

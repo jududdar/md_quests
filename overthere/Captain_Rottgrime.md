@@ -26,7 +26,7 @@ local text = "Keep up the good work, marine.";
 
 
 
-if **You turn in:** [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982)
+if( **You turn in:** [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982)) then
 
 
 >**Captain Rottgrime says:** Great job marine!! Word of your heroics shall be passed on to the Admiral. If you don't have a shield then take one, if you do then get back to the frontlines. There is no time for R n R!! Move it marine!! Or you'll be pushing Danak till the cockatrice crow!!

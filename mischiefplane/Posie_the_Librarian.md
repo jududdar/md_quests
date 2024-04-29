@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [a library card](/item/9510)
+if( **You turn in:** [a library card](/item/9510)) then
 
 
 >**Posie the Librarian says:** Ahh, you brought your card. Let's see here. Soandso, is it? Here's the only book we have stocked at the moment. It's missing the chapter on wealth but there's an excellent story about melting your clothing in a pot on page 11. It's a one of a kind story written completely in invisible ink. Enjoy!

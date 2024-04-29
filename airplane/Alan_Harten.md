@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [Sky Emerald](/item/20806)
+if( **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [Sky Emerald](/item/20806)) then
 
 
 
@@ -43,7 +43,7 @@ if **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [S
 
  **You receive:**  [Truewind Earring](/item/14563) (+100000 exp)
 
-elseif **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Small Shield](/item/20809)
+elseif( **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Small Shield](/item/20809)) then 
 
 
 >**Alan Harten says:** This shield shall protect you as your faith has in the past. Take it.
@@ -51,7 +51,7 @@ elseif **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Sma
 
  **You receive:**  [Aegis of the Wind](/item/27716) (+100000 exp)
 
-elseif **You turn in:** [Adumbrate Globe](/item/20946), [Faintly Glowing Diamond](/item/20810), [Shiny Pauldrons](/item/20811)
+elseif( **You turn in:** [Adumbrate Globe](/item/20946), [Faintly Glowing Diamond](/item/20810), [Shiny Pauldrons](/item/20811)) then
 
 
 

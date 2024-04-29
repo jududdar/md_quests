@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [A Vial of Thick Liquid](/item/3881)
+if( **You turn in:** [A Vial of Thick Liquid](/item/3881)) then
 
 
 >*Legionnaire Erallic gasps silently for air and the falls completely still! No one seems to have heard you.*

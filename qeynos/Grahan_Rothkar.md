@@ -77,7 +77,7 @@ end
 
 
 
-if( **Faction is** >= Amiable and  **You turn in:** [Pen Key \# 7](/item/20031)
+if( **Faction is** >= Amiable and  **You turn in:** [Pen Key \# 7](/item/20031)) then 
 
 
 >**Grahan Rothkar says:** I thank you. I must admit I had my doubts, but you have proven yourself a true warrior. I salute you. You can be of some assistance to me.It see ms as though there has been a [second escaped gladiator] and I have a reward waiting for a human warrior.
@@ -101,9 +101,9 @@ if( **Faction is** >= Amiable and  **You turn in:** [Pen Key \# 7](/item/20031)
 * __Faction:__ [Knights of Truth](/faction/281) (2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Scythe](/item/5015), [Rusty Broad Sword](/item/5016), [Rusty Long Sword](/item/5019), [Rusty Battle Axe](/item/5020), [Rusty Scimitar](/item/5021), [Rusty Bastard Sword](/item/5022), [Rusty Two Handed Sword](/item/5023), [Rusty Halberd](/item/5024), [Rusty Two Handed Battle Axe](/item/5025)) (+0 exp)
 
-elseif( **Faction is** >= Amiable and  **You turn in:** [Minotaur Hero Shackles](/item/12188)
+elseif( **Faction is** >= Amiable and  **You turn in:** [Minotaur Hero Shackles](/item/12188)) then 
 
 
 >**Grahan Rothkar says:** You are a true Steel Warrior!! Now you shall wear my hero bracers. I designed them for my greatest gladiators and you have shown yourself mighty enough to wear them.
@@ -129,7 +129,7 @@ elseif( **Faction is** >= Amiable and  **You turn in:** [Minotaur Hero Shackles]
 
  **You receive:**  [Hero Bracers](/item/12189) (+0 exp)
 
-elseif **You turn in:** [Arena Lion Skin](/item/13398)
+elseif( **You turn in:** [Arena Lion Skin](/item/13398)) then
 
 
 >**Grahan Rothkar says:** I salute you. You have done well and crossed into the brotherhood of the Steel Warriors. Welcome. Take this. It is the mark of a Steel Warrior. Live the way of the warrior.
@@ -155,7 +155,7 @@ elseif **You turn in:** [Arena Lion Skin](/item/13398)
 
  **You receive:**  [Steel Warrior Bracer](/item/13229) (+0 exp)
 
-elseif **You turn in:** [A Sealed Letter](/item/18894)
+elseif( **You turn in:** [A Sealed Letter](/item/18894)) then
 
 
 >**Grahan Rothkar says:** So you are ready to encounter your final test. I wish you well, young warrior. Take this key to the pen on the left along the wall with three doors. There you shall meet your final challenge. Return with proof of victory. Exit before it is at anand I shall not help you.

@@ -138,7 +138,7 @@ local text = "I have much to do, Soandso. Do not waste my time unless you have t
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Report of Failure](/item/1709)
+if **Faction** >= Indifferent and  **You turn in:** [Report of Failure](/item/1709)) then 
 
 
 >*Noble Helssen takes the report from you and places it in a pocket without even glancing at it. He says, 'Do not worry, Soandso. I know of the planar creatures who eliminated my troops. The fault is not yours but of that fool Drioc's. The Savage land is not just a simple forest as those idiots in the field believe. It is a cradle of life and the forces that drive it. Within that forest is a nexus, a gateway to another plane of existence, the Plane of Growth.'*
@@ -161,15 +161,18 @@ if **Faction** >= Indifferent and  **You turn in:** [Report of Failure](/item/17
 
  **You receive:**  [Inscribed Velium Tablet](/item/1710) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Helssen's Voucher](/item/1722)
+elseif **Faction** >= Indifferent and  **You turn in:** [Helssen's Voucher](/item/1722)) then 
 
 
 >**Noble Helssen says:** Excellent choice, " .. e.other:Race() .. ". Competence and a sense of style. When we are ready to take the Wakening I will most definitely welcome your participation. Here is your reward.
 
 
- **You receive:** None 
+ **You receive:**  [Noble's Seal](/item/1723) (+2000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Arcanum of Rosh](/item/1712), [Ancient Rusted Key](/item/1714)
+
+ **You receive:**  [Helssen's Prismatic Trinket](/item/1720) 
+
+elseif **Faction** >= Indifferent and  **You turn in:** [Arcanum of Rosh](/item/1712), [Ancient Rusted Key](/item/1714)) then 
 
 
 >**Noble Helssen says:** Ahhh, you suprise me mercenary. You have found the book as well as the key to open it. I must begin my research as soon as possible. But first, your reward. With this voucher you can receive 1 of the 3 treasures I will offer you. If given to Kellek you will receive an item worthy of a hearty and rugged combatant. If given to Wenglawks you will aquire an item to be worn by only the most pious. And if given to me I will give you a sorcerous trinket of my own design.

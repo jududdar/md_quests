@@ -76,7 +76,7 @@ end
 if( **Faction is** > Indifferent) then 
 
 
-if **You turn in:** [Receipt](/item/20474)
+if( **You turn in:** [Receipt](/item/20474)) then
 
 
 

@@ -48,7 +48,7 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if **You turn in:** [A Khati Sha Guild Summons](/item/18849)
+if( **You turn in:** [A Khati Sha Guild Summons](/item/18849)) then 
 
 
 >**Elder Animist Sahdi says:** Soandso, welcome to the Animist's guild. You have grown strong in the safety of our city and it is now time for you to register for official citizenship of Shar Vahl. The Khati Sha, explorers of this hostile land, have granted your request of inclusion and deem you to be worthy of our training. Take this application to Registrar Bindarah and return to me with proof of your citizenship.
@@ -60,9 +60,9 @@ if **You turn in:** [A Khati Sha Guild Summons](/item/18849)
 eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
- **You receive:** None 
+ **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
 
-elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)
+elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**Elder Animist Sahdi says:** Allow me to be the first to welcome you to the Khati Sha, lords of the beasts. Accept this cloak, young initiate. It is a symbol of your loyalty to our noble people. May it serve you as you serve us all. Present your acrylia slate to Animist Poren and he will give you instruction. May the spirits of the beasts guide you and keep you safe.
@@ -71,6 +71,6 @@ elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of S
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
 
 **This NPC *should* return incorrect items given.**

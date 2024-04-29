@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [A Piece of Parchment](/item/13063), [A Quill](/item/13051)
+if( **You turn in:** [A Piece of Parchment](/item/13063), [A Quill](/item/13051)) then
 
 
 >*Chrislin Baker gives you a hug. 'Thank you so much. I did some cleaning after you left and found this behind a barrel. It may have been left behind by the person who took my materials. You can have it.'*

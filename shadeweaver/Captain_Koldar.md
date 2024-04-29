@@ -79,13 +79,13 @@ end
 
 
 
-if **You turn in:** [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616)
+if( **You turn in:** [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616)) then
 
 
 >**Captain Koldar says:** Blasted! Took you long enough. Look! They've already brought in more troops. We have a city to protect here. Now patch yourself up and get back to it.' Koldar hands Soandso a handful of bandages.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)) (+2000 exp)
 
 **This NPC *should* return incorrect items given.**
 

@@ -41,7 +41,7 @@ end
 
 
 
-if **You turn in:** [Robe of the Whistling Fists](/item/12970), [Danl's Reference](/item/1682)
+if( **You turn in:** [Robe of the Whistling Fists](/item/12970), [Danl's Reference](/item/1682)) then
 
 
 

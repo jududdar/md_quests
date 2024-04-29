@@ -147,7 +147,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Tovaxs Necklace](/item/27414), [Enchanted Wisp Globe](/item/27415), [Enchanted Wisp Globe](/item/27415)
+if(expansion_flag >= 4.0 and  **You turn in:** [Tovaxs Necklace](/item/27414), [Enchanted Wisp Globe](/item/27415), [Enchanted Wisp Globe](/item/27415)) then
 
 
 >**Miltiades Tal-Azroth says:** Your dedication to your house amazes me Soandso. Please take this blade as a symbol of your loyalty to your faith.
@@ -168,7 +168,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Tovaxs Necklace](/item/27414), [
 * __Faction:__ [Guards of Qeynos](/faction/262) (7)
 
 
- **You receive:** None 
+ **You receive:**  [Rainkeepers Defender Blade](/item/27488) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

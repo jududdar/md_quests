@@ -167,25 +167,25 @@ local scalp = 0;
 
 
 
-if **You turn in:** [Orc Scalp](/item/13791), [Orc Scalp](/item/13791), [Orc Scalp](/item/13791), [Orc Scalp](/item/13791)
+if( **You turn in:** [Orc Scalp](/item/13791), [Orc Scalp](/item/13791), [Orc Scalp](/item/13791), [Orc Scalp](/item/13791)) then
 
 
 
 scalp = 4;
 
-elseif **You turn in:** [Orc Scalp](/item/13791), [Orc Scalp](/item/13791), [Orc Scalp](/item/13791)
+elseif( **You turn in:** [Orc Scalp](/item/13791), [Orc Scalp](/item/13791), [Orc Scalp](/item/13791)) then
 
 
 
 scalp = 3;
 
-elseif **You turn in:** [Orc Scalp](/item/13791), [Orc Scalp](/item/13791)
+elseif( **You turn in:** [Orc Scalp](/item/13791), [Orc Scalp](/item/13791)) then
 
 
 
 scalp = 2;
 
-elseif **You turn in:** [Orc Scalp](/item/13791)
+elseif( **You turn in:** [Orc Scalp](/item/13791)) then
 
 
 

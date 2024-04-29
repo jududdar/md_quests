@@ -207,7 +207,7 @@ end
 
 
 
-if **You turn in:** [Ahom's Journal](/item/8466)
+if( **You turn in:** [Ahom's Journal](/item/8466)) then
 
 
 >**Historian Sharar says:** I see that you've found the codger. He really should settle down and come in from the weather. I often find myself worrying about him these days. Adventure takes its toll on everyone. I'd like to see him settle down before the moor takes a final toll from him.
@@ -216,6 +216,6 @@ if **You turn in:** [Ahom's Journal](/item/8466)
 >**Historian Sharar says:** Well, I can't say that it isn't a pleasure to have his journal. He's documented the moor with such splendid detail. I cannot wait to see what he's written in these last few seasons. It is all so very helpful. Just take a look at these earplugs. They are a product of his last set of notes. He came up with the idea, while hunting owlbear in the moor. They are supposed to keep the sound they make from harming you. You can keep them, if you take this note to General Avilah for me.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Earring of the Owlbear](/item/4461), [Note for General Avilah](/item/8467)) 
 
 **This NPC *should* return incorrect items given.**

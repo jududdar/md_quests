@@ -51,7 +51,7 @@ end
 
 
 
-if **You turn in:** [Fleshless Skull](/item/31427), [Corrupted Fauns Skin](/item/31430), [Corrupted Panther Skin](/item/31429), [Corrupted Unicorns Skin](/item/31428)
+if( **You turn in:** [Fleshless Skull](/item/31427), [Corrupted Fauns Skin](/item/31430), [Corrupted Panther Skin](/item/31429), [Corrupted Unicorns Skin](/item/31428) and **Your level** >= 55) then
 
 
 >**Guardian of Takish says:** May Tunare's blessing be upon thee! Here, take this item and use it wisely.
@@ -59,7 +59,7 @@ if **You turn in:** [Fleshless Skull](/item/31427), [Corrupted Fauns Skin](/item
 
  **You receive:**  [Natures Defender](/item/1209) (+1000 exp)
 
-elseif **You turn in:** [Idol of Corruption](/item/31432), [Idol of Decay](/item/31434), [Idol of Disease](/item/31431), [Idol of Erosion](/item/31433)
+elseif( **You turn in:** [Idol of Corruption](/item/31432), [Idol of Decay](/item/31434), [Idol of Disease](/item/31431), [Idol of Erosion](/item/31433) and **Your level** >= 55) then
 
 
 >**Guardian of Takish says:** May Tunare's blessing be upon thee! Here, take this item and use it wisely.

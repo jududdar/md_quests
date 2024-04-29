@@ -38,7 +38,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [One Half of Elixir](/item/13243)
+if( **Faction is** > Indifferent and  **You turn in:** [One Half of Elixir](/item/13243)) then 
 
 
 >**Arnis McLish says:** Mmmm.. Thank you stranger. I feel a lot warmer now. You should now go and find [Megan] O'Reilly.

@@ -128,7 +128,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18805)
+if **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18805)) then
 
 
 >**Kurne Rextula says:** Good work! You shall rise quickly in our ranks of evil. Let no man stand in your way and never betray the shrine or you to will join our collection of undead. You can also assist me with a [new task].
@@ -149,9 +149,9 @@ if **Faction** >= Amiable and  **You turn in:** [A Sealed Letter](/item/18805)
 * __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Belt Pouch](/item/17002), [Spell: Siphon Strength](/item/15343)) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12136)
+elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12136)) then
 
 
 >**Kurne Rextula says:** Incredible!! You have slain one of the greatest warriors in Qeynos!! He must have been full of grog. No doubt he drank most of his skill away. Now I shall cast a spell and strip the flesh from his skull and.. Presto!! Take this skull to Lord Grimrot somewhere in the Plains of Karana. He will be in the center of a field of skeletons. If he is not there, wait for his return. He must return eventually.

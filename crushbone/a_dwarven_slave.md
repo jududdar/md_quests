@@ -30,14 +30,14 @@ end
 if(e.self:GetRace() == 8 and e.self:GetGender() == 0) then 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 
 >**a dwarven slave says:** No, no!! I do not need this!! Get me key number 16!!
 
 
-elseif **You turn in:** [Shackle Key 16](/item/20016)
+elseif( **You turn in:** [Shackle Key 16](/item/20016)) then
 
 
 
@@ -64,7 +64,7 @@ elseif **You turn in:** [Shackle Key 16](/item/20016)
 **a dwarven slave despawns.**
 
 
-elseif **You turn in:** [Brass Earring](/item/10351)
+elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
@@ -84,14 +84,14 @@ elseif **You turn in:** [Brass Earring](/item/10351)
 elseif(e.self:GetRace() == 8 and e.self:GetGender() == 1) then 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 
 >**a dwarven slave says:** What is this!!? Get me key number 17!!
 
 
-elseif **You turn in:** [Shackle Key 17](/item/20017)
+elseif( **You turn in:** [Shackle Key 17](/item/20017)) then
 
 
 
@@ -126,7 +126,7 @@ elseif **You turn in:** [Shackle Key 17](/item/20017)
 **a dwarven slave despawns.**
 
 
-elseif **You turn in:** [Brass Earring](/item/10351)
+elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 

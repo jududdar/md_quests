@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Full Potion of Marr](/item/12127)
+if( **You turn in:** [Full Potion of Marr](/item/12127)) then
 
 
 >**Sentry Andlin says:** My thanks to you. I feel much strength. You may take the bottle to the next sentry.

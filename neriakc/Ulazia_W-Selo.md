@@ -203,7 +203,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** gold = 6
+if **Faction** >= Indifferent and  **You turn in:** gold = 6) then
 
 
 >**Ulazia W-Selo says:** May the breath of life pass through your failing body and cast its foes from you. Unnngh... Praise Innoruuk!
@@ -211,7 +211,7 @@ if **Faction** >= Indifferent and  **You turn in:** gold = 6
 
 **Ulazia W-Selo casts:** [Counteract Disease](/spell/96) on target.
 
-elseif **Faction** >= Indifferent and  **You turn in:** gold = 8
+elseif **Faction** >= Indifferent and  **You turn in:** gold = 8) then
 
 
 >**Ulazia W-Selo says:** May the breath of life pass through your failing body and cast its foes from you. Unnngh... Praise Innoruuk!
@@ -219,7 +219,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** gold = 8
 
 **Ulazia W-Selo casts:** [Counteract Poison](/spell/95) on target.
 
-elseif **Faction** >= Indifferent and  **You turn in:** gold = 10
+elseif **Faction** >= Indifferent and  **You turn in:** gold = 10) then
 
 
 >**Ulazia W-Selo says:** May the breath of life pass through your failing body and cast its foes from you. Unnngh... Praise Innoruuk!

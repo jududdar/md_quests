@@ -55,7 +55,7 @@ local text2 = "This is but a portion of the bow. I must have the other part.";
 
 
 
-if **You turn in:** [Broken Bow Part B](/item/12321), [Broken Bow Part A](/item/12320)
+if( **You turn in:** [Broken Bow Part B](/item/12321), [Broken Bow Part A](/item/12320)) then
 
 
 >**Leaf Falldim says:** You have performed well, brave ranger. Put these upon your hands. Protection from the strongest of bowstring and magic are their greatest power. I do believe we have another mission which may yield you the [ivy etched leggings].
@@ -75,7 +75,7 @@ if **You turn in:** [Broken Bow Part B](/item/12321), [Broken Bow Part A](/item/
 
  **You receive:**  [Ivy Etched Gauntlets](/item/3190) (+10000 exp)
 
-elseif **You turn in:** [Star of Odus](/item/10059), [Quiver of Kithicor - full](/item/12328)
+elseif( **You turn in:** [Star of Odus](/item/10059), [Quiver of Kithicor - full](/item/12328)) then
 
 
 >**Leaf Falldim says:** Wonderful!! I see he did find it. How lucky we are that he did all the hard work. My thanks to you are embodied in these ivy etched leggings. Now you may [earn the ivy etched boots] to go along with them.
@@ -95,7 +95,7 @@ elseif **You turn in:** [Star of Odus](/item/10059), [Quiver of Kithicor - full]
 
  **You receive:**  [Ivy Etched Leggings](/item/3191) (+10000 exp)
 
-elseif **You turn in:** [A Bar of Ronium](/item/12305), [Mistmoore Granite](/item/12306),gold = 1000
+elseif( **You turn in:** [A Bar of Ronium](/item/12305), [Mistmoore Granite](/item/12306),gold = 1000) then
 
 
 >**Leaf Falldim says:** You have succeeded!! I believe I owe you the ivy etched boots.

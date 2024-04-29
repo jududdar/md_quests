@@ -54,7 +54,7 @@ end
 
 
 
-if **You turn in:** [Pirate Grammar Manual](/item/18962)
+if( **You turn in:** [Pirate Grammar Manual](/item/18962)) then
 
 
 >*Nilham the Chef looks at you with a gleam in his eye.  'Wow.  Ya actually got one.  Thanks, mate!  Here, you can have my cuffs.  I'm tired of 'em and they're startin' ta chafe.'  He flips through the book with a grin.  'B - Bilgewater.  Barnacle brained blunderhead.  Blast yer ballast...' Nilham happily reads through the book.*

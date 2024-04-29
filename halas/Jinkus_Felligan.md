@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink](/item/12619)
+if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink](/item/12619)) then 
 
 
 
@@ -149,7 +149,7 @@ if **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink](
 
 
 
-elseif **You turn in:** [List of Qeynos Most Wanted](/item/12622)
+elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 

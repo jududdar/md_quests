@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [A Small Tattered Dress](/item/13713)
+if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
 
 
 >**Zamel says:** Yes,  I do believe this was the child's dress. Here, take this as your share of the reward. Her father will be heartbroken..
@@ -77,6 +77,6 @@ if **You turn in:** [A Small Tattered Dress](/item/13713)
 * __Faction:__ [Merchants of Qeynos](/faction/291) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Hematite](/item/10018), [Hematite](/item/10018), [Golden Ear Stud](/item/10320)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

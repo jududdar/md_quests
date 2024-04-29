@@ -59,7 +59,7 @@ local text = "There shall be no scroll until I see four skunk scent glands.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** gold = 3
+if **Faction** >= Indifferent and  **You turn in:** gold = 3) then
 
 
 >**Nultal Malfoot says:** Be healed!
@@ -68,7 +68,7 @@ if **Faction** >= Indifferent and  **You turn in:** gold = 3
 **Nultal Malfoot casts:** [Light Healing](/spell/17) on target.
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030)
+elseif **Faction** >= Amiable and  **You turn in:** [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030)) then 
 
 
 >**Nultal Malfoot says:** I thank you for your good deed. I trust it was not a problem. Take this scroll. A cleric of this cathedral will find it useful. May the power of Underfoot be with you.

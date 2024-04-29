@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** gold = 5
+if( **You turn in:** gold = 5) then
 
 
 >**Petcas Coldbeard says:** Here ya go!

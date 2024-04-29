@@ -84,7 +84,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Damaged Militia Helm](/item/13921)
+if **Faction** >= Indifferent and  **You turn in:** [Damaged Militia Helm](/item/13921)) then
 
 
 >**Jemoz Lerkarson says:** Bless you, my child. Marr is grateful, as are we. Here is our thanks. Let it bring you greater strength to defeat the Militia. Go and continue the crusade. Soon you will be strong enough to slay the [true organizer].
@@ -110,7 +110,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Damaged Militia Helm](/item
 
  **You receive:** 0 (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Human Head](/item/12142)
+elseif **Faction** >= Amiable and  **You turn in:** [Human Head](/item/12142)) then
 
 
 >**Jemoz Lerkarson says:** We heard of your assault. We even attempted to slay Lucan. Alas, we failed. You have done your part and as such have earned our thanks. Beware of the Freeport Militia. They will no doubt be on the lookout for you. May Marr protect you. Perhaps you should speak with Valeron Dushire, paladin of the Knights of Truth. He seeks other to slay the fallen knight.

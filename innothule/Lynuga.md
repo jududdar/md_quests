@@ -22,7 +22,7 @@ local rewarditem = 0;
 
 
 
-if **You turn in:** [Ruby](/item/10035)
+if( **You turn in:** [Ruby](/item/10035)) then 
 
 
 >**Lynuga says:** Mmm. Ruby!! Me thank's you! Here take this, me got it off dead someone who try take my collection. Me think's this valuable thing..

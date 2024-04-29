@@ -42,7 +42,7 @@ local text = "Impressive, do you have the rest?";
 
 
 
-if **You turn in:** [Banded Bracer](/item/3061), [Dufrenite](/item/10073), [Cauldron Shell](/item/19031), [Bull Elephant Tooth](/item/19033)
+if( **You turn in:** [Banded Bracer](/item/3061), [Dufrenite](/item/10073), [Cauldron Shell](/item/19031), [Bull Elephant Tooth](/item/19033)) then
 
 
 >**Kyralynn says:** Wear this well, Soandso!
@@ -50,7 +50,7 @@ if **You turn in:** [Banded Bracer](/item/3061), [Dufrenite](/item/10073), [Caul
 
  **You receive:**  [Totemic Bracers](/item/4945) (+200 exp)
 
-elseif **You turn in:** [Banded Helm](/item/3053), [Ground Dufrenite](/item/19051), [Glacier Bear Pelt](/item/19042), [Ogreskin Chamois](/item/19040)
+elseif( **You turn in:** [Banded Helm](/item/3053), [Ground Dufrenite](/item/19051), [Glacier Bear Pelt](/item/19042), [Ogreskin Chamois](/item/19040)) then
 
 
 >**Kyralynn says:** Wear this well, Soandso!
@@ -58,7 +58,7 @@ elseif **You turn in:** [Banded Helm](/item/3053), [Ground Dufrenite](/item/1905
 
  **You receive:**  [Totemic Helm](/item/4947) (+200 exp)
 
-elseif **You turn in:** [Banded Cloak](/item/3058), [Powdered Dufrenite](/item/19052), [Basalt Drake Scales](/item/19032), [Driftwood Pipe](/item/19035)
+elseif( **You turn in:** [Banded Cloak](/item/3058), [Powdered Dufrenite](/item/19052), [Basalt Drake Scales](/item/19032), [Driftwood Pipe](/item/19035)) then
 
 
 >**Kyralynn says:** Wear this well, Soandso!
@@ -66,7 +66,7 @@ elseif **You turn in:** [Banded Cloak](/item/3058), [Powdered Dufrenite](/item/1
 
  **You receive:**  [Totemic Cloak](/item/4948) (+200 exp)
 
-elseif **You turn in:** [Banded Mail](/item/3056), [Crushed Dufrenite](/item/19050), [Lancer Swordfish Fin](/item/19036), [Grizzleknot Bark](/item/19044)
+elseif( **You turn in:** [Banded Mail](/item/3056), [Crushed Dufrenite](/item/19050), [Lancer Swordfish Fin](/item/19036), [Grizzleknot Bark](/item/19044)) then
 
 
 >**Kyralynn says:** Wear this well, Soandso!

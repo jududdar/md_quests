@@ -48,7 +48,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Last of Potion of Marr](/item/12134)
+if **Faction** >= Indifferent and  **You turn in:** [Last of Potion of Marr](/item/12134)) then
 
 
 >**Sentry Xyrin says:** Ahhhh! I am energized! Come! Let us show these undead the greatness of Erollisi Marr!

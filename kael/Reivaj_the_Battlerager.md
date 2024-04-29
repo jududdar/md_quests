@@ -239,7 +239,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Bllizents Fang](/item/25117)
+if **Faction** >= Amiable and  **You turn in:** [Bllizents Fang](/item/25117)) then
 
 
 * __Faction:__ [Kromrif](/faction/419) (25)

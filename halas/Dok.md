@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [Full Honeycomb Jar](/item/12222)
+if( **You turn in:** [Full Honeycomb Jar](/item/12222)) then
 
 
 >**Dok says:** Great work!! Now I can make more candles! Here ye are, me fri. I call this the Everburn Candle. It has a wee bit o' magic in it. I hope ye like it.
@@ -77,7 +77,7 @@ if **You turn in:** [Full Honeycomb Jar](/item/12222)
 
  **You receive:**  [Everburn Candle](/item/12220) (+250 exp)
 
-elseif **You turn in:** [Foot of Candlestick](/item/12275), [Stem of Candlestick](/item/12276), [Soil of Underfoot](/item/12282), [Honeycomb](/item/13953)
+elseif( **You turn in:** [Foot of Candlestick](/item/12275), [Stem of Candlestick](/item/12276), [Soil of Underfoot](/item/12282), [Honeycomb](/item/13953)) then
 
 
 >**Dok says:** Here is your Candle o' Bravery.

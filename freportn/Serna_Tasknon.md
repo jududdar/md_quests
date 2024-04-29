@@ -68,7 +68,7 @@ end
 local text = "The arangement was for three shark bones and 10 gold coins";
 
 
-if **You turn in:** [Shark Bones](/item/12126), [Shark Bones](/item/12126), [Shark Bones](/item/12126), gold = 10
+if( **You turn in:** [Shark Bones](/item/12126), [Shark Bones](/item/12126), [Shark Bones](/item/12126), gold = 10) then
 
 
 >**Serna Tasknon says:** I thank you for your ten gold coins. Now we can pay the weekly oxygen tax imposed by the militia. Here is the shark powder.
@@ -88,7 +88,7 @@ if **You turn in:** [Shark Bones](/item/12126), [Shark Bones](/item/12126), [Sha
 
  **You receive:**  [Shark Powder](/item/12125) (+100 exp)
 
-elseif **You turn in:** [Inert Potion](/item/13983)
+elseif( **You turn in:** [Inert Potion](/item/13983)) then
 
 
 >**Serna Tasknon says:** I see Tonmerk has found a use for my shark powder. We agreed to this trade when last we met. Unfortunately, I am out of it. If you desire the shark powder you will have to get me three shark bones. I wish you luck. Oh. I also require a payment of ten gold pieces. The taxes in Freeport are fierce.
@@ -108,7 +108,7 @@ elseif **You turn in:** [Inert Potion](/item/13983)
 
  **You receive:** 0 (+100 exp)
 
-elseif **You turn in:** [Empty Potion of Marr](/item/12135)
+elseif( **You turn in:** [Empty Potion of Marr](/item/12135)) then
 
 
 >**Serna Tasknon says:** The Sentries of Passion informed me of your journey to the Ocean of Tears and the demise of Sentry Xyrin. You performed beyond the call of duty. This is what makes an exceptional person. Take this for your great deed. The twin deities would wish it so.

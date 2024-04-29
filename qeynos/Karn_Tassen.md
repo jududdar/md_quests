@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Full Muffin Crate](/item/1839)
+if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
 
 
 >**Karn Tassen says:** Hey, thanks kid! You are one top notch baker! Here's some coin for your trouble.
@@ -54,9 +54,9 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
+elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
 
 
 >**Karn Tassen says:** Ah finally, fresh bread! All right let me get this on the shelves right away. Here is your payment.
@@ -77,6 +77,6 @@ elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 **This NPC *should* return incorrect items given.**

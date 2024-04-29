@@ -43,7 +43,7 @@ local text1 = "Two portions of fairy dust and the right and left decayed boots!!
 
 
 
-if **You turn in:** [Decayed Left Gauntlet](/item/12292), [Decayed Right Gauntlet](/item/12291), [Enchanted Platinum Bar](/item/16507)
+if( **You turn in:** [Decayed Left Gauntlet](/item/12292), [Decayed Right Gauntlet](/item/12291), [Enchanted Platinum Bar](/item/16507)) then
 
 
 >**an undead knight says:** Well done, Soandso, here is your reward.
@@ -51,7 +51,7 @@ if **You turn in:** [Decayed Left Gauntlet](/item/12292), [Decayed Right Gauntle
 
  **You receive:**  [Darkforge Gauntlets](/item/3144) (+5000 exp)
 
-if **You turn in:** [Decayed Left Legplate](/item/12294), [Decayed Right Legplate](/item/12293), [Melatite](/item/12297), [Melatite](/item/12297)
+if( **You turn in:** [Decayed Left Legplate](/item/12294), [Decayed Right Legplate](/item/12293), [Melatite](/item/12297), [Melatite](/item/12297)) then
 
 
 >**an undead knight says:** You have been granted the darkforge greaves!!
@@ -59,7 +59,7 @@ if **You turn in:** [Decayed Left Legplate](/item/12294), [Decayed Right Legplat
 
  **You receive:**  [Darkforge Greaves](/item/3145) (+5000 exp)
 
-if **You turn in:** [Decayed Left Boot](/item/12296), [Decayed Right Boot](/item/12295), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106)
+if( **You turn in:** [Decayed Left Boot](/item/12296), [Decayed Right Boot](/item/12295), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106)) then
 
 
 >**an undead knight says:** You may now wear the darkforge boots!!

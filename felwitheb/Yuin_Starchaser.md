@@ -104,7 +104,7 @@ end
 local expansion_flag = eq.get_current_expansion();
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Orc Thaumaturgists Spell Book](/item/20293)
+if(expansion_flag >= 4.0 and  **You turn in:** [Orc Thaumaturgists Spell Book](/item/20293)) then 
 
 
 >**Yuin Starchaser says:** Well done young Art Keeper. Take this Rough Art Keepers Initiate Staff and go forth and gather a Pristine Forest Drakeling Scales and an Arborean Amber. When you have acquired those two items return them to me with the Rough Art Keepers Initiate Staff and I will put the final touches on the staff.
@@ -126,7 +126,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Orc Thaumaturgists Spell Book](/
 
 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Art Keepers Initiate Staff](/item/20296), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Art Keepers Initiate Staff](/item/20296), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)) then
 
 
 >*Yuin Starchaser fashions a grip for the staff from the pristine forest drakeling scales, places the arborean amber into a mithril fixture and attaches the fixture to oneof the staff. 'Here is your new staff young Art Keeper may it serve you well in the pursuit of your studies.'*

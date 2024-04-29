@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Packaged Research Notes](/item/6069)
+if( **You turn in:** [Packaged Research Notes](/item/6069)) then
 
 
 >**Lanivon Baxer says:** Excellent work! Thank you for delivering this to me. I will get it to the High Council as soon as possible. Take this Ring of the Messenger as an insignia of your service to the city.

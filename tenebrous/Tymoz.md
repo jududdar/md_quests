@@ -60,7 +60,7 @@ local text = "I require two damaged custodus helms as proof of your deeds.";
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Legionnaire Helm](/item/31748), [Damaged Custodus Legionnaire Helm](/item/31748)
+if **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Legionnaire Helm](/item/31748), [Damaged Custodus Legionnaire Helm](/item/31748)) then
 
 
 >**Tymoz says:** Excellent! Two less of those self righteous Validus Custodus goons to worry about!
@@ -78,9 +78,9 @@ if **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Legionnaire He
 * __Faction:__ [Valdanov Zevfeer](/faction/1507) (1)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Blood Dipped Dart](/item/31750),eq.ChooseRandom(0, [Blood Dipped Dart](/item/31750)) 
 
-elseif **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Centurion Helm](/item/31749), [Damaged Custodus Centurion Helm](/item/31749)
+elseif **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Centurion Helm](/item/31749), [Damaged Custodus Centurion Helm](/item/31749)) then
 
 
 >**Tymoz says:** Excellent! Two less of those self righteous Validus Custodus goons to worry about!

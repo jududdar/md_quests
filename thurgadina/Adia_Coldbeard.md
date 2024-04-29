@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** gold = 5
+if( **You turn in:** gold = 5) then
 
 
 >**Adia Coldbeard says:** Thank ye for yer Patronage. Enjoy yer mug and be sure ta visit us often.

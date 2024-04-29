@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [Illegible Cantrip](/item/13845)
+if( **You turn in:** [Illegible Cantrip](/item/13845)) then
 
 
 >**Tara Neklene says:** Very fine work, my young apprentice. This shall be very useful in understanding their ways. I have heard rumors of a scribe who can decipher these scrolls. He is said to frequent the local taverns. Bah!! If I cannot decipher them, no one can!! Continue with your work. Soon you shall advance enough to [test the might of the orc oracles].
@@ -70,7 +70,7 @@ if **You turn in:** [Illegible Cantrip](/item/13845)
 
  **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007), [Torch](/item/13002), [Water Flask](/item/13006)) (+250 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Illegible Scroll](/item/13225)
+elseif **Faction** >= Amiable +100 and  **You turn in:** [Illegible Scroll](/item/13225)) then
 
 
 >**Tara Neklene says:** Wonderful! You have survived the might of an oracle. With this we can now continue our experiments. Now you may continue your teaching and study the power to summon those of earth, air, water and fire.

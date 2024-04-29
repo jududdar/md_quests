@@ -10,7 +10,7 @@
 
 
 
-if **You turn in:** [Orb of the Triumvirate](/item/28023)
+if( **You turn in:** [Orb of the Triumvirate](/item/28023)) then 
 
 
 >*Avatar of Water takes the orb from you. The avatar has determined that you are worthy!*

@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)
+if( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199) or  **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)) then 
 
 
 >*Avatar of Below holds the shawl up close to one eye to look at the rune sewn into it. He smiles to himself and then drops it to the ground and places one hand on it. A bright blue glow starts to emanate in the snow, then there is a sudden flash! The Avatar has dissipated. All that is left behind is the Shawl lying in the snow, shimmering with a new power. Soandso slowly bends down to pick it up, and is infused with a blessing from Brell.*

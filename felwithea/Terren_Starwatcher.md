@@ -141,7 +141,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Silver Leafed Emerald Amulet](/item/20280)
+if(expansion_flag >= 4.0 and  **You turn in:** [Silver Leafed Emerald Amulet](/item/20280)) then
 
 
 >**Terren Starwatcher says:** You have done well young Soandso. If you continue to show such devotion to your people and your faith then perhaps one day you will serve in the chambers of King Tearis Thex himself. Take this Rusty Sylvan Morning Star and scrape the rust from it in a forge with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once that is done bring me the Refined Sylvan Morning Star, a Pristine Drakeling Scales, and an Arborean Amber.
@@ -158,7 +158,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Silver Leafed Emerald Amulet](/i
 
  **You receive:**  [Rusty Sylvan Morning Star](/item/20297) (+36450 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Sylvan Morning Star](/item/20300), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Sylvan Morning Star](/item/20300), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)) then
 
 
 >**Terren Starwatcher says:** Terren Starwatcher fashions a grip out of the pristine forest drakeling scales, fastens the arborean amber to the pommel, and polishes the head of the morning star with a luminescent substance. 'I grant you a Sylvan Initiate Morning Star. May it serve you well in your service to The All Mother.

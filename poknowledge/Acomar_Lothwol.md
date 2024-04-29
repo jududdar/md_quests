@@ -65,7 +65,7 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Hobgoblin Surprise](/item/29751), [Planar Traveler's Manual](/item/28745)
+if(**Your level** > 19 and  **You turn in:** [Hobgoblin Surprise](/item/29751), [Planar Traveler's Manual](/item/28745)) then
 
 
 >**Acomar Lothwol says:** How delicious! You have done well here, I can't remember how long it's been since I've tasted a meal so fine. Take this book, it will certainly help you in your use of the magical arts. When you are ready, Cadelid Etord will give you your next lesson, so be sure to speak to him. Do not lose your book or else he may not appreciate you coming to class unprepared.
@@ -74,6 +74,6 @@ if(**Your level** > 19 and  **You turn in:** [Hobgoblin Surprise](/item/29751), 
 
 
 
- **You receive:** None 
+ **You receive:**  [Beginner Magic Manual](/item/28795) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

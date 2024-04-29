@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Ganss note to Yelesom](/item/18173)
+if( **You turn in:** [Ganss note to Yelesom](/item/18173)) then
 
 
 >**Yelesom Paust says:** Gans sent you to check on me did he? Well you can tell my dear brother that the surveying has been halted. One of those furballs has stolen my tools, making my job impossible. Kerrans, kobolds, gnolls, we're constantly under siege by these primitives. Anyway, perhaps you could [help me]?
@@ -33,7 +33,7 @@ if **You turn in:** [Ganss note to Yelesom](/item/18173)
 
  **You receive:** 0 (+150 exp)
 
-elseif **You turn in:** [Yelesom's Tools](/item/1768)
+elseif( **You turn in:** [Yelesom's Tools](/item/1768)) then
 
 
 >**Yelesom Paust says:** Thank you for recovering my tools, please take this to my brother for your reward.

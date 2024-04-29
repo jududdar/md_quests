@@ -79,7 +79,7 @@ local text = "Me change mind! Me want total of THREE ogre black shadow tunics. H
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Huge Mushroom Head](/item/12190)
+if **Faction** >= Amiable and  **You turn in:** [Huge Mushroom Head](/item/12190)) then
 
 
 >**Treskar says:** You do it! You am great knight. Me give you special froglok skin mask. Shaman make for Nightkeep. It am make you smarter like Treskar... Me tink so!
@@ -103,7 +103,7 @@ if **Faction** >= Amiable and  **You turn in:** [Huge Mushroom Head](/item/12190
 
  **You receive:**  [Froglok Skin Mask](/item/2308) (+10000 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Black Shadow Tunic](/item/12199), [Black Shadow Tunic](/item/12199), [Black Shadow Tunic](/item/12199), gold = 2
+elseif  **Faction** >= Amiable and  **You turn in:** [Black Shadow Tunic](/item/12199), [Black Shadow Tunic](/item/12199), [Black Shadow Tunic](/item/12199), gold = 2) then 
 
 
 >**Treskar says:** Hmm... You do good job. You surprise Treskar. Maybe you good after all. Maybe Treskar give you [secret mission]. Maybe not

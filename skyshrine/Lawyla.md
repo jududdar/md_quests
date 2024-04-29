@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [Head of a Kromzek Spy](/item/1897), [Teachings of Relinar](/item/1898), [Scale of Hsagra](/item/1899)
+if( **You turn in:** [Head of a Kromzek Spy](/item/1897), [Teachings of Relinar](/item/1898), [Scale of Hsagra](/item/1899)) then
 
 
 >**Lawyla says:** Soandso, you are to be commended for your valor and determination in assisting my Kin. Here is the spell that Hsagra died so long ago over. I only ask that each time that you use the sorcery here, that you remember Hsagra in a silent prayer of thanks. For I hope that will help ease Yelinak's still tormented soul from his loss. I bid you farewell. You are welcome amongst our ranks.

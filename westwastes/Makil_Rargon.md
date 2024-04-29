@@ -58,7 +58,7 @@ end
 
 
 
-if **You turn in:** [Full Crate of Fusible Ore](/item/24069)
+if( **You turn in:** [Full Crate of Fusible Ore](/item/24069)) then
 
 
 >*Makil Rargon begins to examine the contents of the crate and proceeds to conduct an experiment. He then turns toward you and says, 'Excellent job! As promised, here is one of Master Al'Kabor's fusiblity research creations.'*
@@ -70,6 +70,6 @@ if **You turn in:** [Full Crate of Fusible Ore](/item/24069)
 * __Faction:__ [Shadowed Men](/faction/416) (-5)
 
 
- **You receive:** None 
+ **You receive:**  [Strength of the Elements](/item/24070) (+5000000 exp)
 
 **This NPC *should* return incorrect items given.**

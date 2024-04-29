@@ -18,7 +18,7 @@ end
 
 
 
-if  **You turn in:** [Intestine Necklace](/item/13311)
+if ( **You turn in:** [Intestine Necklace](/item/13311)) then
 
 
 >**a prisoner says:** Groak.. So you are a friend to the froglok. ..Grooakk.. I am soon to die. My precious legs are a delicacy here. Before I go I must contact my brother Grikk. He is a froglok forager in Innothule. Give him this vial. He will know what it means
@@ -26,7 +26,7 @@ if  **You turn in:** [Intestine Necklace](/item/13311)
 
  **You receive:**  [Empty Vial](/item/13375) (+500 exp)
 
-elseif  **You turn in:** [Ochre Liquid](/item/13376)
+elseif ( **You turn in:** [Ochre Liquid](/item/13376)) then
 
 
 >**a prisoner says:** Grooak.. You have done much to help me. This will come in handy soon. Thank you. Here is Marda's information. Take it to her. They must know. Farewell.

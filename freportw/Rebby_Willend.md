@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Message to Rebby](/item/18923)
+if( **You turn in:** [Message to Rebby](/item/18923)) then
 
 
  **You receive:**  [Rebbys Rat Whiskers](/item/13158) (+50 exp)

@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [The Champion's Cape](/item/30856), [Drop of Loda Kai Blood](/item/30853), [Drop of Loda Kai Blood](/item/30853), [Drop of Loda Kai Blood](/item/30853)
+if( **You turn in:** [The Champion's Cape](/item/30856), [Drop of Loda Kai Blood](/item/30853), [Drop of Loda Kai Blood](/item/30853), [Drop of Loda Kai Blood](/item/30853)) then 
 
 
 >**Priestess Bast says:** You are indeed a friend to us and have earned a place of high honor among our people and our four-legged cousins. Wear this robe with pride and none will ever doubt your conviction for the honor of the felidae.

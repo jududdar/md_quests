@@ -25,7 +25,7 @@ local hammerrew = 0;
 
 
 
-if **You turn in:** [A shipment of Velium Ore](/item/29064)
+if( **You turn in:** [A shipment of Velium Ore](/item/29064)) then
 
 
 >**Sentry Kale  says:** You have shown us yet again your loyalty to our people. Please accept this token of our gratitude. This velium is badly needed, thank you, Soandso.
@@ -43,14 +43,18 @@ if **You turn in:** [A shipment of Velium Ore](/item/29064)
 
 
 
-if(math.random(3) == 1) then
+if(math.random(1,3) == 1) then
 
 
 
-hammerrew = 1727; 
+ **You receive:**  [Bracer of Hammerfal](/item/1727) 
 
 
 
- **You receive:** None 
+note = Items not always given
+
+
+
+ **You receive:** 0 (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

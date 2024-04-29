@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Traitors note](/item/6472)
+if( **You turn in:** [Traitors note](/item/6472)) then 
 
 
 >*a sarnak spy reads the note slowly, turning it around in his claws a few times before completing it. 'I see you spoke with that half-wit goblin! I hate hate hate it when he sends me a note, his penmanship is almost illegible. I hope he informed you of the situation, he's really not the most dependable agent of Di'zok, and sadly his note doesn't really make much sense. No matter though, are you ready to [proceed] in this mission?'*

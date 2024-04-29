@@ -118,7 +118,7 @@ local Red_Wine =  **You turn in:**  { [Red Wine](/item/13030)}
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** platinum = 7
+if **Faction** >= Indifferent and  **You turn in:** platinum = 7) then
 
 
 >**Lokar To-Biath says:** Take this note to the Scribe of Dal, and perhaps she will break her vow.

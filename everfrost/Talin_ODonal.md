@@ -13,7 +13,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Full Bottle of Elixir](/item/13241)
+if( **Faction is** > Indifferent and  **You turn in:** [Full Bottle of Elixir](/item/13241)) then 
 
 
 >**Talin ODonal says:** Mmmm.. I feel much warmer. Thank you. You should now find Bryndin McMill. He could use a swig also. I saw him hanging around two other guards.

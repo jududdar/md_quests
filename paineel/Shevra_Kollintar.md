@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Letter](/item/12270)
+if( **You turn in:** [A Sealed Letter](/item/12270)) then 
 
 
 >**Shevra Kollintar says:** Ah, excellent work.  I certainly had my doubts about you, Soandso.  Wear this well.

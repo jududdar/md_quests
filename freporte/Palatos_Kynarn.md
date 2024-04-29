@@ -33,7 +33,7 @@ end
 local text = "Mmmm...  more...  must... drown... sorrow...";
 
 
-if **You turn in:** [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817)
+if( **You turn in:** [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817)) then 
 
 
 >**Palatos Kynarn says:** Ahh... I... <Hic!> Need help... <Hic!>  You... take this... Go build... boat beacon. <Hic!>  Ask gnomes about... <Hic!> boat beacon. They know how... Then bring back... <Hic!> Unnnhh! Prexus help me! I will never drink again.
@@ -61,7 +61,7 @@ if **You turn in:** [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spic
  **You receive:**  [Beacon Mount](/item/12145) (+100 exp)
 
 
-elseif **You turn in:** [Boat Beacon](/item/13818)
+elseif( **You turn in:** [Boat Beacon](/item/13818)) then
 
 
 >**Palatos Kynarn says:** Thanks.. That saved me a lot of money. Now I can spend more time with the captain before I give this back to Lenka Stoutheart. Here is a little so...mething.
@@ -84,7 +84,7 @@ elseif **You turn in:** [Boat Beacon](/item/13818)
 
  **You receive:** 0 (+20000 exp)
 
-elseif **You turn in:** [AkAnons Portrait](/item/12146)
+elseif( **You turn in:** [AkAnons Portrait](/item/12146)) then
 
 
 >**Palatos Kynarn says:** Wise decision!! Little reward for a large deed. Bye.

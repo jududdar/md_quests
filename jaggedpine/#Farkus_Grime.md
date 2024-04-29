@@ -109,7 +109,7 @@ end
 
 
 
-if **You turn in:** [Head of Guard Nash](/item/8276)
+if( **You turn in:** [Head of Guard Nash](/item/8276)) then 
 
 
 >**Farkus Grime says:** You've done well, I see we are of a like mind. I'll lure the bear outside so you can do your work.

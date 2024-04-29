@@ -93,7 +93,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Hector's Severed Head](/item/1270), [Jerald's Severed Head](/item/1319), [Renaldo's Severed Head](/item/1323)
+if **Faction** >= Amiable and  **You turn in:** [Hector's Severed Head](/item/1270), [Jerald's Severed Head](/item/1319), [Renaldo's Severed Head](/item/1323)) then
 
 
 >**Jarah Reskan says:** I heard our shipment made it back safely. These heads will send a message to any other thief that plans on robbing our cargo shipments. Thank you Soandso, take this coin as your reward. I’m sorry to say we’re currently out of masks.

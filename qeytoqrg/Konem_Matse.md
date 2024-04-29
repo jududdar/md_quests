@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Message to Konem](/item/18921)
+if( **You turn in:** [Message to Konem](/item/18921)) then 
 
 
 >**Konem Matse says:** Oh I see.. Phin's always after me about something.  I mean, it's not my fault the order hasn't come in yet.  Hey, since I'm so busy right now, why don't you be a friend and take this back to Phin for me, huh?

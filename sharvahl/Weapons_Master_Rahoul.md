@@ -222,7 +222,7 @@ end
 
 
 
-if **You turn in:** [Quas Receipt](/item/9050)
+if( **You turn in:** [Quas Receipt](/item/9050)) then
 
 
 >**Weapons Master Rahoul says:** You are just the time. The weapon that Elder Dumul requested has almost been completed. We need you to gather a few items in order to complete the weapon. These items will not require much effort to acquire, but I will need to tell you where to look. Place all of the items that I request in this box and return it to me as quickly as possible.
@@ -233,7 +233,7 @@ if **You turn in:** [Quas Receipt](/item/9050)
 
  **You receive:**  [Rahoul's Collection Box](/item/17363) 
 
-elseif **You turn in:** [Sealed Collection Box](/item/9051)
+elseif( **You turn in:** [Sealed Collection Box](/item/9051)) then
 
 
 >**Weapons Master Rahoul says:** These claws should work well for you. The design was research by Historian Qua. They should work to neutralize the magical field that protects the dark animist and allow you to tear his scaly flesh from his frame. Remember that all of this is theoretical. Those claws are an original creation. You will be the first to prove their effectiveness in combat.
@@ -242,6 +242,6 @@ elseif **You turn in:** [Sealed Collection Box](/item/9051)
 >**Weapons Master Rahoul says:** Take the claws back to Animist Dumul and show him their design. Use them well, Soandso. May the spirits guide you in your attack. 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Jagged Claw of Rending](/item/9055), [Jagged Claw of Rending](/item/9056)) 
 
 **This NPC *should* return incorrect items given.**

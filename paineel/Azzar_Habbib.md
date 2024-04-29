@@ -28,7 +28,7 @@ local text = "I must have all the necessary components to sew you a cap!";
 
 
 
-if **You turn in:** [Azzars Dreadful Hat](/item/1528)
+if( **You turn in:** [Azzars Dreadful Hat](/item/1528)) then
 
 
 >*Azzar Habbib gasps in astonishment 'You...you..found my hat!! This is the most I can repay you but perhaps I can reward you further for some [other tasks]?'*
@@ -51,7 +51,7 @@ if **You turn in:** [Azzars Dreadful Hat](/item/1528)
 
  **You receive:**  [Black Lace Sash](/item/1530) (+500 exp)
 
-elseif **You turn in:** [Bear Paws Pelt](/item/19076), [Gold Thread](/item/12096), [Imbued Amber](/item/22502)
+elseif( **You turn in:** [Bear Paws Pelt](/item/19076), [Gold Thread](/item/12096), [Imbued Amber](/item/22502)) then 
 
 
 >**Azzar Habbib says:** Here is your dreadful cap as I have promised.

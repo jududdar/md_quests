@@ -86,7 +86,7 @@ end
 
 
 
-if **You turn in:** [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861)
+if( **You turn in:** [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861)) then 
 
 
 >**Captain Tarief says:** What have we here? Aha! Look here everyone. Soandso has returned victorious! Well done. You are entitled to the reward for slaying the Saurek Hoppers. I hope all my trainees turn out as skilled as you. Perhaps you should consider hunting more difficult prey from now on.' Captain Tarief hands Soandso a pair of masterfully tailored hunting boots.
@@ -97,7 +97,7 @@ if **You turn in:** [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](
 
  **You receive:**  [Hunting Leather Boots](/item/30870) (+2500 exp)
 
-elseif **You turn in:** [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862)
+elseif( **You turn in:** [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862)) then 
 
 
 >**Captain Tarief says:** So the hunter returns victorious. Well done! You have earned yourself a hunting bracer to protect you from the claws of the hoppers. I am sure many of your companions will revel in the feast you are able to provide them with the meat you have collected.
@@ -108,7 +108,7 @@ elseif **You turn in:** [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw 
 
  **You receive:**  [Hunting Leather Bracer](/item/30867) (+2500 exp)
 
-elseif **You turn in:** [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863)
+elseif( **You turn in:** [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863)) then 
 
 
 >*Captain Tarief blinks in astonishment. 'Perhaps the true shredder was you this time around Soandso' He chuckles, 'Well done, you have earned the reward.' Tarief hands Soandso a pair of masterfully tailored hunting sleeves. 'Be sure to have your battle wounds tended to. I am sure you have many scars to show from hunting those shredders.*

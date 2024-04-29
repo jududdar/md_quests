@@ -47,7 +47,7 @@ end
 
 
 
-if **You turn in:** [Aisha'a Locket](/item/5996)
+if( **You turn in:** [Aisha'a Locket](/item/5996)) then
 
 
 >*Jalil Talih looks at you stunned, 'This is... it was Aisha's, my wedding gift to her. Kalila had given it to Behari and I thought I would never see it again. Where did you find...' Jalil trails off as the truth becomes clear to him. With a sorrowful look at his daughter, he continues, 'at least now we know. You have gone to such lengths, please take this, it was my gift from the city upon obtaining full Khala Dun honors. You have earned it my friend.'*

@@ -41,12 +41,12 @@ end
 
 
 
-if **You turn in:** [Completed Specimen Kit](/item/3870)
+if( **You turn in:** [Completed Specimen Kit](/item/3870)) then 
 
 
 >*Kellari Autumnfall looks at the various trays in the kit and turns pale, even for her normal complexion.  She looks at you and says, 'This is much worse than we thought.  We assumed that this was caused by someone from within our ranks, but I would never have thought that Colain was involved*
 
 
- **You receive:** None 
+ **You receive:**  [Note from Kellari](/item/3872) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -51,7 +51,7 @@ end
 
 
 
-if **You turn in:** [Scroll of Enlightenment](/item/31440), [Scroll of Insight](/item/31442), [Scroll of Knowledge](/item/31441), [Scroll of Power](/item/31439)
+if( **You turn in:** [Scroll of Enlightenment](/item/31440), [Scroll of Insight](/item/31442), [Scroll of Knowledge](/item/31441), [Scroll of Power](/item/31439) and **Your level** >= 55) then
 
 
 >**Ancient Totem says:** Thank you, friend.  These scrolls will serve us well in the future.  Please take this as a sign of my gratitude.

@@ -141,7 +141,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Hurrietas Bloody Dress](/item/13134)
+if **Faction** >= Indifferent and  **You turn in:** [Hurrietas Bloody Dress](/item/13134)) then 
 
 
 >**Garuc Anehm says:** Hahaha.. I see you actually killed a respected, well-known citizen of Qeynos. No loss for them, but you are certainly a gain for our shrine. Maybe this shall do you some good. If not now, then surely later. You may need it when the Qeynos Guards hunt you down.
@@ -169,7 +169,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Hurrietas Bloody Dress](/it
 
  **You receive:** eq.ChooseRandom( [Rats Foot Necklace](/item/1053), [Patchwork Tunic](/item/2104), 2106, 2108, 2111, 2112,  [Rat Shaped Ring](/item/13301), 15235) (+500 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/item/13908)
+elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/item/13908)) then 
 
 
 >**Garuc Anehm says:** You fool! Brother Trintle was our mole within the Priests of Life. Now you have killed him. For this you shall die!
@@ -200,7 +200,7 @@ eq.attack(e.other:GetName())
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Prayer Beads](/item/13296)
+elseif **Faction** >= Indifferent and  **You turn in:** [Prayer Beads](/item/13296)) then 
 
 
 >**Garuc Anehm says:** Fine work! One less threat to our shrine. Take this. It shall help you become a greater asset to our shrine. Go forth and spread the disease.
@@ -230,7 +230,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Prayer Beads](/item/132
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13287)
+elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13287)) then 
 
 
 >**Garuc Anehm says:** Fine work! One less threat to our shrine. Take this. It shall help you become a greater asset to our shrine. Go forth and spread the disease.

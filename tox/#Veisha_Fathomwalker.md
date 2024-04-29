@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Rolled up Note](/item/12998)
+if( **You turn in:** [Rolled up Note](/item/12998)) then 
 
 
 >**Veisha Fathomwalker says:** Davorre, he is still alive! All these years I had thought him dead. He has kept his promise to me, and yet my most recent actions betray him so. I did not know. Here. Please give this to him with my most sincere regrets. I have moved on with my life and it is good to know that he is alive and well. But [Phaeril] is now my life.
@@ -34,7 +34,7 @@ if **You turn in:** [Rolled up Note](/item/12998)
 
  **You receive:**  [Veisha's Engagement Ring](/item/12997) (+1000 exp)
 
-elseif **You turn in:** [A Locked Chest](/item/12995)
+elseif( **You turn in:** [A Locked Chest](/item/12995)) then 
 
 
 >**Veisha Fathomwalker says:** Vile creature! Child of heresy! My love's death shall be avenged! How dare you bring me his head in a box!

@@ -19,12 +19,12 @@ end
 
 
 
-if **You turn in:** [A Rolled Up Note](/item/14041)
+if( **You turn in:** [A Rolled Up Note](/item/14041)) then 
 
 
 >**Auhrik Siet-ka says:** Why are you giving this to me? Oh I see. I forgot that rats don't know how to read. Haha! Well, then. I shall read it for you. You do [understand common] don't you? Haha.
 
-elseif **You turn in:** [Small Sealed Bag](/item/12993)
+elseif( **You turn in:** [Small Sealed Bag](/item/12993)) then 
 
 
 >**Auhrik Siet-ka says:** Well, that wasn't so hard, was it? I suppose I must now thank you for your services. Now, leave me to my studies. I would tell you what I needed the items for, but that would just cloud your fragile little mind. Off with thee!

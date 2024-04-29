@@ -40,7 +40,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Gnome Tinkered Toy](/item/6344)
+if **Faction** >= Dubious and  **You turn in:** [Gnome Tinkered Toy](/item/6344)) then
 
 
 >**kerran tseq says:** Rreeee! Great toy. Shiny. We not need this old toy anymore. You take. Now go way, this our toy, we play.

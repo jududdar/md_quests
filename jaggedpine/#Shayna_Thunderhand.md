@@ -231,7 +231,7 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Ancient Ashwood Tome](/item/9232), [Gleaming Crystal Scepter](/item/9231)
+if( **Faction is** > Warmly and  **You turn in:** [Ancient Ashwood Tome](/item/9232), [Gleaming Crystal Scepter](/item/9231)) then 
 
 
 e.self:Emote("Aaah. . . yes. Well done. Well done, indeed, my friend. The tome still contains the Toliara's ancient notes and we shall be able to restore the lost magic to the scepter.'' Shayna holds the scepter firmly in one hand and the opened tome in the other. In a powerful voice, she recites several arcane words. As she speaks in the magical rhythm of the spell, the scepter in her hand begins to faintly glow and seems almost to haze as if enshrouded in a blanket of dense fog for but a moment. Shayna reaches the last word of her spell and extends the misted scepter to you, ''This is the Scepter of Storms. It is not yet complete and requires its original pieces to be whole once again. If you wish to continue to [aid the Order of the Storm Caller], I shall be more than willing to complete the scepter for you 

@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** gold = 10
+if( **You turn in:** gold = 10) then
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
@@ -39,7 +39,7 @@ if **You turn in:** gold = 10
 
 eq.SelfCast(213);
 
-elseif **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029)
+elseif( **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029)) then
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
@@ -47,7 +47,7 @@ elseif **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/1402
 
 eq.SelfCast(203);
 
-elseif **You turn in:** [Piranha Tooth](/item/13929)
+elseif( **You turn in:** [Piranha Tooth](/item/13929)) then
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
@@ -55,13 +55,13 @@ elseif **You turn in:** [Piranha Tooth](/item/13929)
 
 eq.SelfCast(12);
 
-elseif **You turn in:** [Squad Ring](/item/13936)
+elseif( **You turn in:** [Squad Ring](/item/13936)) then 
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
 
 
- **You receive:** None 
+ **You receive:**  [Squad Ring](/item/13936) 
 
 **This NPC *should* return incorrect items given.**
 ;

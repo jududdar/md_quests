@@ -124,7 +124,7 @@ end
 local expansion_flag = eq.get_current_expansion();
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Clan Kolbok Blacksmith Traditions](/item/20421)
+if(expansion_flag >= 4.0 and  **You turn in:** [Clan Kolbok Blacksmith Traditions](/item/20421)) then
 
 
 >**Faratain says:** Well done Soandso. I will have this translated immediately so that it may be studied. Take this Dull Fell Blade Cutlass and sharpen it in a forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done bring me the Sharp Fell Blade Cutlass, a Large Briar Snake Skin, and a Petrified Eyeball and I will put the finishing touches on the weapon.
@@ -147,7 +147,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Clan Kolbok Blacksmith Tradition
 
  **You receive:**  [Dull Fell Blade Cutlass](/item/20403) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Fell Blade Cutlass](/item/20404), [Large Briar Snake Skin](/item/20355), [Petrified Eyeball](/item/20402)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Fell Blade Cutlass](/item/20404), [Large Briar Snake Skin](/item/20355), [Petrified Eyeball](/item/20402)) then
 
 
 >*Faratain Faratain fashions a grip from the large briar snake skin, fastens the petrified eyeball to the pommel of the hilt, and polishes the blade with a shimmering black substance. I present you with your Fell Blade Cutlass. May it serve you well in the name of Cazic Thule.*

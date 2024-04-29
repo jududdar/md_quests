@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Note to Caden](/item/28084)
+if( **You turn in:** [Note to Caden](/item/28084)) then
 
 
 >*Caden Zharik eyes go wide with relief. 'Oh thank you thank you! Here, take the standard. And do apologize to Boiron for me. It shall never happen again. Again, thank you!'*

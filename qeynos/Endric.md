@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [A Small Tattered Dress](/item/13713)
+if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
 
 
 >**Endric says:** Yes,  I do believe this was the child's dress.  Here, take this as your share of the reward.  Her father will be heartbroken..

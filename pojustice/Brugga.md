@@ -48,7 +48,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Purified Bubonian Bile](/item/29302)
+if( **Faction is** > Indifferent and  **You turn in:** [Purified Bubonian Bile](/item/29302)) then
 
 
 >*Brugga dips his finger into the flask and tastes the liquid, 'Hmm, someone start work on this already and it still vile. This nothing that Brugga have trouble to cure, we just need stronger toxins to drive this one back. Brugga need a gnome made crawlerpoison, a venom sack from the Terror Matriarch, and the stinger from a Nettling Wraith, Brugga make you a cure.*
@@ -56,7 +56,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Purified Bubonian Bile](
 
  **You receive:**  [Purified Bubonian Bile](/item/29302) 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Mechanical Clockwork Venom](/item/29297), [Terror Matriarch Venom Sack](/item/29298), [Nettling Wraith Stinger](/item/29299)
+elseif( **Faction is** > Indifferent and  **You turn in:** [Mechanical Clockwork Venom](/item/29297), [Terror Matriarch Venom Sack](/item/29298), [Nettling Wraith Stinger](/item/29299)) then
 
 
 e.self:Say("Yes, Brugga work with this.' Brugga chants and makes strange gestures while mixing the objects in his mortar and pestle. 'Ok, Brugga finished now. You have your cure, give cure with the bile and that will heal. You go now, Brugga done talking.",19);

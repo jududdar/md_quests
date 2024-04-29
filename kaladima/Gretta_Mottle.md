@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Full Muffin Crate](/item/1839)
+if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
 
 
 >*Gretta Mottle smells the aroma in the air and says, 'Mmm... Mmm... That sure smells good. You truly are a fine baker. Here, take this payment for such fine bakin.'*
@@ -58,9 +58,9 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
+elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
 
 
 >**Gretta Mottle says:** Well now, what do we have here? You actually went out of your way to fetch bread for me? Thank ye so kindly. Please accept this payment for your service.
@@ -86,7 +86,7 @@ elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

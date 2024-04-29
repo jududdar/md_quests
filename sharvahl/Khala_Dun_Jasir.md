@@ -219,7 +219,7 @@ end
 
 
 
-if **You turn in:** [A Shield Repair Order](/item/29803)
+if( **You turn in:** [A Shield Repair Order](/item/29803)) then
 
 
 >**Khala Dun Jasir says:** Well it's about time Barkhem got around to us, and he couldn't even be bothered to come himself. Please get this back to me as soon as you can... you do know that we are here to guard the city, right?
@@ -229,7 +229,7 @@ if **You turn in:** [A Shield Repair Order](/item/29803)
 
 
 
-if **You turn in:** [Jasirs Immaculate Shield](/item/29808)
+if( **You turn in:** [Jasirs Immaculate Shield](/item/29808)) then
 
 
 >**Khala Dun Jasir says:** Thank you very much Soandso, and I must apologize for the way I spoke to you earlier. We just got word of some [poachers] out in the Thicket, they really get me angry. In any case, you have done a fine job, worthy of Barkhem himself.

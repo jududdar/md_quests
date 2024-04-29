@@ -79,7 +79,7 @@ end
 
 
 
-if **You turn in:** [Blessed Oil Flask](/item/13910)
+if( **You turn in:** [Blessed Oil Flask](/item/13910)) then
 
 
 >**Brother Estle says:** Thank you. Now I may cleanse the bodies of the new converts and help them enter into a new life. I also have this. It was given to me by a dying gnoll of all things. They belong to Brother Hayle. The gnoll's last words were 'Free him.' Make sure High Priestess Jahnda gets this. Be swift!
@@ -103,6 +103,6 @@ if **You turn in:** [Blessed Oil Flask](/item/13910)
 * __Faction:__ [Antonius Bayle](/faction/219) (2)
 
 
- **You receive:** None 
+ **You receive:**  [PrayerBeads](/item/13911) (+800 exp)
 
 **This NPC *should* return incorrect items given.**

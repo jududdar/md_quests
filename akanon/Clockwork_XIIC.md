@@ -22,7 +22,7 @@ end
 
 
 
-if  **You turn in:** [Shiny Card](/item/13844)
+if ( **You turn in:** [Shiny Card](/item/13844)) then
 
 
 >**Clockwork XIIC says:** Tick.. Pop.. Access granted.

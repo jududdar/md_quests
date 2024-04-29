@@ -36,7 +36,7 @@ local text = "Hey! Only one?!";
 
 
 
-if **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)
+if( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then 
 
 
 >**Trantor Everhot says:** Great! I did not have the time to get down to Irontoe's today. Here. Like I said. A spool of dwarven wire. Now go away. I ain't sharing these tonics.

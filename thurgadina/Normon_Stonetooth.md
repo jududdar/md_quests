@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Normon's axe](/item/1691)
+if( **You turn in:** [Normon's axe](/item/1691)) then 
 
 
 >**Normon Stonetooth says:** Ahhhh, good work, Soandso. Now ta speak with the stone ye need somethin' ta focus on. Use this piece o' velium as yer focus. Ta speak the language o' the stone ye need ta slow down like the stone. Rock looks like it don't move but it does, just real slow. So place yer focus on the stones ye wish ta speak with and get yerself real slow, both yer body an' yer noggin. Then if yer quiet enough ye might hear 'em. An' that's what's to it.

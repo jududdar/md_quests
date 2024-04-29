@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Grub Locker](/item/12203)
+if( **You turn in:** [Grub Locker](/item/12203)) then 
 
 
 >**Nerbilik says:** Oooh!! Grub locker! There is a loud click. He opens the locker and unwraps dwarf pickles. What this dumb wrapper? R, E, C, I, P, E.. Ahh!! It say pickles!! Me read good. Here your plat. Me give you little more. Me was very hungry for pickles.

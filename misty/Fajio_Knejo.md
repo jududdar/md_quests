@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Torch of Misty](/item/20532)
+if( **You turn in:** [Torch of Misty](/item/20532)) then
 
 
 >**Fajio Knejo says:** Run onward, my friend, to the far off Desert of Ro and give this torch to Andad Filla.

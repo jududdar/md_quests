@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Hog Key \# 2](/item/12147)
+if( **You turn in:** [Hog Key \# 2](/item/12147)) then 
 
 
 >**Swin Blackeye says:** Here you go then.

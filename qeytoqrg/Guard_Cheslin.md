@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Ebon Lotus](/item/13904), [Library of Erudin](/item/13905), [Chrono Cyclone](/item/13906), [Diamond Vale](/item/13907)
+if( **You turn in:** [Ebon Lotus](/item/13904), [Library of Erudin](/item/13905), [Chrono Cyclone](/item/13906), [Diamond Vale](/item/13907)) then
 
 
 >**Guard Cheslin says:** Oh great! I have all my cards back. Here is a little something for assisting a Qeynos guard. And any time you are in trouble, just call on Cheslin, master swordsman. Take it to my father, Master Chesgard of the Knights of Thunder in Qeynos. No doubt he sent you to follow me on my watch.
@@ -63,9 +63,9 @@ if **You turn in:** [Ebon Lotus](/item/13904), [Library of Erudin](/item/13905),
 * __Faction:__ [Merchants of Qeynos](/faction/291) (2)
 
 
- **You receive:** None 
+ **You receive:**  [A Sealed Letter](/item/18839) (+1500 exp)
 
-elseif **You turn in:** [Ebon Lotus](/item/13904)
+elseif( **You turn in:** [Ebon Lotus](/item/13904) or  **You turn in:** [Library of Erudin](/item/13905) or  **You turn in:** [Chrono Cyclone](/item/13906) or  **You turn in:** [Diamond Vale](/item/13907)) then
 
 
 >**Guard Cheslin says:** Wow!! I thought I lost this for good. All together I lost the [illusion] cards: Ebon Lotus, Library of Erudin, Chrono Cyclone and Diamond Vale. Man!! Those are rare cards!

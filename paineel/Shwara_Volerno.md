@@ -131,7 +131,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Arcane Kobold Parchments](/item/20420)
+if(expansion_flag >= 4.0 and  **You turn in:** [Arcane Kobold Parchments](/item/20420)) then
 
 
 >**Shwara Volerno says:** Well done Soandso.These parchments will be inspected immediately by some of The Abattoirs most experienced translators and researchers. Take this Rough Abattoir initiate Staff then go forth an obtain a Giant Briar Snake Skin and a Petrified Eyeball. Once you have done so bring me those items and the rough abattoir initiate staff and I will put the final touches on what will be your new instrument of power.
@@ -154,7 +154,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Arcane Kobold Parchments](/item/
 
  **You receive:**  [Rough Abattoir Initiate Staff](/item/20358) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Abattoir Initiate Staff](/item/20358), [Giant Briar Snake Skin](/item/20356), [Petrified Eyeball](/item/20402)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Abattoir Initiate Staff](/item/20358), [Giant Briar Snake Skin](/item/20356), [Petrified Eyeball](/item/20402)) then
 
 
 >*Shwara Volerno fashions a grip out of the Giant Briar Snake Skin, fastens the Petrified Eyeball to a steel mount on oneof the staff, and tarnishes the wood of the staff with a shimmering black substance. 'Here is your new Abattoirs Initiate Staff, Soandso. May it serve you well in your pursuit for power.'*

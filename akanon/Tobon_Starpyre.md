@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Registration Letter](/item/18774)
+if( **You turn in:** [Registration Letter](/item/18774)) then 
 
 
 >**Tobon Starpyre says:** Ah.. Welcome, friend! I am Tobon Starpyre, Master Wizard of Library Mechanimagica. This is our tunic - wear it with pride. Study hard, master your skills, and make us proud.
@@ -69,7 +69,7 @@ if **You turn in:** [Registration Letter](/item/18774)
  **You receive:**  [Soot Stained Gold Robe*](/item/13523) (+20 exp)
 
 
-elseif **You turn in:** [A Telescope Lens](/item/13275), [A Telescope Lens](/item/13276), [A Telescope Lens](/item/13277), [A Telescope Lens](/item/13279)
+elseif( **You turn in:** [A Telescope Lens](/item/13275), [A Telescope Lens](/item/13276), [A Telescope Lens](/item/13277), [A Telescope Lens](/item/13279)) then
 
 
 >**Tobon Starpyre says:** Thank you for your work. I heard news of the troubles you encountered. Besides these troubles you still completed your mission. We are grateful. And as I once stated, your reward awaits.

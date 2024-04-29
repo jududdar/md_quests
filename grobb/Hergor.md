@@ -39,7 +39,7 @@ end
 
 
 
-if  **Faction** >= Amiable and  **You turn in:** [Fungus Spore Pie](/item/12210)
+if  **Faction** >= Amiable and  **You turn in:** [Fungus Spore Pie](/item/12210)) then 
 
 
 >**Hergor says:** Mmmmm... Mm... Mmm! Dat smells gud! Me gets more fat and gets more strength. You dus gud job weekling. Me gives you dis armer. It keeps you from getting bashed gud. Now gos away. Me no share pie wit weekling.

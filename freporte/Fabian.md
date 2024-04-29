@@ -29,7 +29,7 @@ local etched = 0;
 
 
 
-if **You turn in:** gold = 2
+if( **You turn in:** gold = 2) then
 
 
 >**Fabian says:** Rat spittle! Busted another string! You seem like a good music loving citizen, could you please run to the Wind Spirit's Song and grab me a fresh set of lute strings?
@@ -55,7 +55,7 @@ e.other:Ding();
 
 * __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
-elseif **You turn in:** [Lute Strings](/item/13709)
+elseif( **You turn in:** [Lute Strings](/item/13709)) then 
 
 
 >**Fabian says:** 'Many thanks, merry gentlefolk! Let me cross your palm in gratitude for your kindness. Hmmmm where did my lucky coin go?
@@ -79,17 +79,21 @@ elseif **You turn in:** [Lute Strings](/item/13709)
 * __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
 
-if(math.random(3) == 3) then 
+if(math.random(1,3) == 3) then 
 
 
 
-etched =  [An Etched Silver Coin](/item/13710); 
+ **You receive:**  [An Etched Silver Coin](/item/13710) 
 
 
 
- **You receive:** None 
+note = You only get the coin sometimes
 
-elseif **You turn in:** [An Etched Silver Coin](/item/13710)
+
+
+ **You receive:** 0 (+5000 exp)
+
+elseif( **You turn in:** [An Etched Silver Coin](/item/13710)) then 
 
 
 >**Fabian says:** 'My lucky coin! How did it get in there? Well, never mind that. You are an honest person and although honesty is its own reward, I feel obligated to return the favor. Take this to Dionna if you enjoy music. Farewell friend!

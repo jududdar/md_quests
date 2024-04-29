@@ -74,7 +74,7 @@ end
 
 
 
-if **You turn in:** [A Pouch of Mail (Qeynos)](/item/18165)
+if( **You turn in:** [A Pouch of Mail (Qeynos)](/item/18165)) then
 
 
 >**Eve Marsinger says:** Incoming mail - very good! Please take this gold for your troubles.

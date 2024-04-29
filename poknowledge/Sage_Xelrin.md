@@ -60,79 +60,79 @@ end
 
 
 
-if **You turn in:** [Evocation Binding](/item/15952)
+if( **You turn in:** [Evocation Binding](/item/15952)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Orb of Arcane Visions](/item/32025) (+100000 exp)
 
-elseif **You turn in:** [Abjuration Binding](/item/15954)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Spell: Strong Poison](/item/15955)
+elseif( **You turn in:** [Abjuration Binding](/item/15954)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Flawed Spell Creation](/item/32027) (+100000 exp)
 
-elseif **You turn in:** [Spell: Ykesha](/item/15951)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Spell: Screaming Mace](/item/15953)
+elseif( **You turn in:** [Spell: Strong Poison](/item/15955)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Visionary's Lens](/item/32028) (+100000 exp)
 
-elseif **You turn in:** [Word of Combine](/item/15946)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Word of Sorcery](/item/15947)
+elseif( **You turn in:** [Spell: Ykesha](/item/15951)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Gleaming Bauble](/item/32024) (+100000 exp)
 
-elseif **You turn in:** [Word of Helix](/item/15948)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Word of Inverse](/item/15949)
+elseif( **You turn in:** [Spell: Screaming Mace](/item/15953)) then 
 
 
- **You receive:** None 
+ **You receive:**  [Sentient Medallion](/item/32026) (+100000 exp)
 
-elseif **You turn in:** [Word of Impetus](/item/15950)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Aqi Note](/item/15956)
+elseif( **You turn in:** [Word of Combine](/item/15946)) then 
 
 
- **You receive:** None 
+ **You receive:** 0 (+100000 exp)
 
-elseif **You turn in:** [Bep Note](/item/15942)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Cjo Note](/item/15943)
+elseif( **You turn in:** [Word of Sorcery](/item/15947)) then 
 
 
- **You receive:** None 
+ **You receive:** 0 (+100000 exp)
 
-elseif **You turn in:** [Da Note](/item/15944)
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Eio Note](/item/15945)
+elseif( **You turn in:** [Word of Helix](/item/15948)) then 
 
 
- **You receive:** None 
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Word of Inverse](/item/15949)) then 
+
+
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Word of Impetus](/item/15950)) then 
+
+
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Aqi Note](/item/15956)) then 
+
+
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Bep Note](/item/15942)) then 
+
+
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Cjo Note](/item/15943)) then 
+
+
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Da Note](/item/15944)) then 
+
+
+ **You receive:** 0 (+100000 exp)
+
+elseif( **You turn in:** [Eio Note](/item/15945)) then 
+
+
+ **You receive:** 0 (+100000 exp)
 
 **This NPC *should* return incorrect items given.**

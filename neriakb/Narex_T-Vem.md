@@ -127,7 +127,7 @@ local text = "Fool! There shall be no reward until I have four skullcaps in my h
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Goblin Supply Pouch](/item/13886)
+if **Faction** >= Amiable and  **You turn in:** [Goblin Supply Pouch](/item/13886)) then 
 
 
 >**Narex T-Vem says:** Fine work. I trust the denizens of Lavastorm were not unkind. Please take this featherweight pouch as a reward. May it keep you fleet of foot.
@@ -147,7 +147,7 @@ if **Faction** >= Amiable and  **You turn in:** [Goblin Supply Pouch](/item/1388
 
  **You receive:**  [Featherweight Pouch](/item/17972) (+17150 exp)
 
-elseif **You turn in:** [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113)
+elseif( **You turn in:** [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113)) then 
 
 
 >**Narex T-Vem says:** I had my doubts, but you have proven them false. You are a fine warrior. You must continue to refine you talents. I reward you with the footman's voulge! Welcome into our house of warriors. Let us share skills as we share foes.

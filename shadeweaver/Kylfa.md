@@ -24,7 +24,7 @@ end
 
 
 
-if **You turn in:** [Saurek Shredder Claw](/item/7809), [Saurek Shredder Claw](/item/7809), [Saurek Shredder Claw](/item/7809), [Wooden Practice Flail](/item/30579)
+if( **You turn in:** [Saurek Shredder Claw](/item/7809), [Saurek Shredder Claw](/item/7809), [Saurek Shredder Claw](/item/7809), [Wooden Practice Flail](/item/30579)) then
 
 
 >**Kylfa says:** takes the flail and starts placing the claws into it forming a formidable looking weapon. 'This seems a good weapon indeed. Here, you can take it for helping to test my theory of weapon crafting. Safe travels to you friend.'

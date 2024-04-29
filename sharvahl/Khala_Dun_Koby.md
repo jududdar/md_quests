@@ -212,7 +212,7 @@ end
 
 
 
-if **You turn in:** [A Shield Repair Order](/item/29803)
+if( **You turn in:** [A Shield Repair Order](/item/29803)) then
 
 
 >**Khala Dun Koby says:** Oh this old shield does fine, but I guess if Barkhem needs to break in a new apprentice, it does have some dings in it. Thank you, my friend.
@@ -222,7 +222,7 @@ if **You turn in:** [A Shield Repair Order](/item/29803)
 
 
 
-if **You turn in:** [Kobys Immaculate Shield](/item/29805)
+if( **You turn in:** [Kobys Immaculate Shield](/item/29805)) then
 
 
 >**Khala Dun Koby says:** Tip-top work! Barkhem has done well by himself choosing you for an apprentice.

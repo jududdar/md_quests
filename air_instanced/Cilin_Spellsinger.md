@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [The Flute](/item/18542)
+if( **You turn in:** [The Flute](/item/18542)) then 
 
 
 >**Cilin Spellsinger says:** Farewell.
@@ -47,7 +47,7 @@ if **You turn in:** [The Flute](/item/18542)
 
 **Cilin Spellsinger despawns.**
 
-elseif **You turn in:** [Dark Song](/item/18543)
+elseif( **You turn in:** [Dark Song](/item/18543)) then 
 
 
 >**Cilin Spellsinger says:** Farewell.

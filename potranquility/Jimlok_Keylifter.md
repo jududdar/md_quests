@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [Tiny Bottle and Note](/item/28277)
+if( **You turn in:** [Tiny Bottle and Note](/item/28277)) then
 
 
 >*Jimlok Keylifter sighs deeply as he hands you an intricate schematic of some device. The notation on the document is written in a strange language that is completely foreign to you. 'This doesn't bode well for Gilor. He says he's found a secret tunnel and he's going to go in deeper. I guess I'll go in and find him if he doesn't return soon. Well, a deal is a deal. Here is the document that I mentioned.*

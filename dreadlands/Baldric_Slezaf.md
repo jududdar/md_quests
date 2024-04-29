@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [Maestro's Symphony Page 24 Top](/item/20376), [Maestro's Symphony Page 24 Bottom](/item/20383), [Maestros Symphony Page 25](/item/20377), [Mystical Lute](/item/20538)
+if( **You turn in:** [Maestro's Symphony Page 24 Top](/item/20376), [Maestro's Symphony Page 24 Bottom](/item/20383), [Maestros Symphony Page 25](/item/20377), [Mystical Lute](/item/20538)) then
 
 
 >*Baldric Slezaf looks shocked as you hand him the pages and the mystical lute. 'I will put on a symphony the likes of which the gods have never seen. Thank you so much, Soandso. Please take this sword as a token of my gratitude.*

@@ -69,7 +69,7 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and (e.other:GetClass() == 2 or e.other:GetClass() == 6 or e.other:GetClass() == 10 or e.other:GetClass() == 11 or e.other:GetClass() == 12 or e.other:GetClass() == 13 or e.other:GetClass() == 14) and  **You turn in:** [Ruby](/item/10035)
+if **Faction** >= Indifferent and (e.other:GetClass() == 2 or e.other:GetClass() == 6 or e.other:GetClass() == 10 or e.other:GetClass() == 11 or e.other:GetClass() == 12 or e.other:GetClass() == 13 or e.other:GetClass() == 14) and  **You turn in:** [Ruby](/item/10035)) then
 
 
 >**Ostorm says:** ..hear me? Ah, you seem to be coming out of your stupor. I think you have been exposed to the crystal long enough. By the time you leave the temple, your memories should have faded. Do you have the [fifty gold] coins that you owe me?
@@ -94,7 +94,7 @@ e.other:SetSkill(skill,49);
 
  **You receive:** 0 (+1000 exp)
 
-elseif **You turn in:** gold = 50
+elseif( **You turn in:** gold = 50) then
 
 
 >**Ostorm says:** Thank you.
@@ -109,7 +109,7 @@ elseif **You turn in:** gold = 50
 e.other:Ding();
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fire Opal](/item/10031), [Fire Opal](/item/10031), [Lambent Stone](/item/10000)
+elseif **Faction** >= Indifferent and  **You turn in:** [Fire Opal](/item/10031), [Fire Opal](/item/10031), [Lambent Stone](/item/10000)) then
 
 
 >**Ostorm says:** Here is your prize - a lambent fire opal.
@@ -124,7 +124,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Fire Opal](/item/10031)
  **You receive:**  [Lambent Fire Opal](/item/10128) (+1000 exp)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)
+elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)) then
 
 
 >**Ostorm says:** I see that Gavel has sent you to me.  Very well, I have magnetized your platinum bar - take it.

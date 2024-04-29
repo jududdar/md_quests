@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** gold = 10
+if( **You turn in:** gold = 10) then
 
 
 >**Palious Jarten says:** May the valor of Mithaniel Marr burn brightly in our soul!

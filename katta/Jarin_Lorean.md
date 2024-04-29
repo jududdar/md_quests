@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Note to Jarin](/item/19841)
+if( **You turn in:** [Note to Jarin](/item/19841)) then
 
 
 >*Jarin Lorean glances nervously about, 'So you're here on 'official' business eh? Well, there's not much I can do right now. I have the goods but someone caught scent of what I've been doing and there are too many people watching me to leave right now. You can tell our mutual friend that he needs to wait for things to calm down or send someone else to bring back the goods.'*

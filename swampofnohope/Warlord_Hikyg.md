@@ -32,7 +32,7 @@ local text1 = "I was expecting the heads of Narsh, Barsh and Flendle, as well as
 
 
 
-if **You turn in:** [Note to Iksar Lord](/item/18211)
+if( **You turn in:** [Note to Iksar Lord](/item/18211)) then
 
 
 >**Warlord Hikyg says:** Ah!! Good to have you on board. We lack strong young recruits such as yourself. Take this bag. Your task is to seek escaped frogloks near this gate. Apparently, the slaves have been breaking loose from their shackles and attempting to head home. Fill and combine within the bag their broken shackles and return the filled box to me for your geozite tool.
@@ -40,7 +40,7 @@ if **You turn in:** [Note to Iksar Lord](/item/18211)
 
  **You receive:**  [Slave Shackle Bag](/item/17994) 
 
-if **You turn in:** [Filled Slave Shackle Bag](/item/12661)
+if( **You turn in:** [Filled Slave Shackle Bag](/item/12661)) then
 
 
 >**Warlord Hikyg says:** Good work, Soandso. You would make a fine trooper in my garrison. As instructed by the War Baron, I reward you with the geozite tool. May you find your place among the Legion of Cabilis and win many battles.
@@ -61,9 +61,9 @@ if **You turn in:** [Filled Slave Shackle Bag](/item/12661)
 * __Faction:__ [Crusaders of Greenmist](/faction/442) (2)
 
 
- **You receive:** None 
+ **You receive:**  [Geozite Tool](/item/12657) 
 
-if **You turn in:** [A Froglok Head](/item/12435), [A Froglok Head](/item/12436), [A Froglok Head](/item/12437), [Soldier's Pike](/item/5133)
+if( **You turn in:** [A Froglok Head](/item/12435), [A Froglok Head](/item/12436), [A Froglok Head](/item/12437), [Soldier's Pike](/item/5133)) then
 
 
 >*Warlord Hikyg hands you plans for a trooper's pike head. Congratulations. You are now a trooper of the Legion of Cabilis. Now you may fight with honor and a mighty weapon.*
@@ -86,7 +86,7 @@ if **You turn in:** [A Froglok Head](/item/12435), [A Froglok Head](/item/12436)
 
  **You receive:**  [Trooper Head Plans](/item/12477) (+1200 exp)
 
-if **You turn in:** [Four Crushed Shields](/item/12913)
+if( **You turn in:** [Four Crushed Shields](/item/12913)) then
 
 
 >**Warlord Hikyg says:** What?!! You crushed all the shields!! You croak-faced skulking brute!! You don't deserve to be in my garrison!! I am going to recommend you for a promotion in hopes that you will be sent to hunt dragons and meet your

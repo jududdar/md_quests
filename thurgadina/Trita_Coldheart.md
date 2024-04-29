@@ -7,7 +7,7 @@
 
 
 
-if **You turn in:** [Frost Bunny Stew](/item/1426), [Tritas Napkin](/item/1416)
+if( **You turn in:** [Frost Bunny Stew](/item/1426), [Tritas Napkin](/item/1416)) then
 
 
 >**Trita Coldheart says:** Thanks for the Snow Bunny Stew, Soandso, I haven't tasted snow bunny stew this good in quite some time. Be a dear and take this back to Mordin for me.

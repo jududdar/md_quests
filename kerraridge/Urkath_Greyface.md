@@ -46,7 +46,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Sylvani Leaf](/item/1155)
+if **Faction** >= Dubious and  **You turn in:** [Sylvani Leaf](/item/1155)) then
 
 
 >**Urkath Greyface says:** Errr? This is.. this is silvani leaf! Rrrrrr.. So nice. This means much to Urrkath, furrrless one. Please, take this for such kind work.

@@ -52,7 +52,7 @@ end
 
 
 
-if **You turn in:** [Shainais Bag](/item/4460)
+if( **You turn in:** [Shainais Bag](/item/4460)) then
 
 
 >*Delival looks at what you handed him as his face turns to rage, 'What is... this... this is the box I sent Shainai out with!  Where is she?  What have you done?  You stole from my little girl!!  Maybe worst!!!!!'*

@@ -48,7 +48,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Ajrah Leaf](/item/6349)
+if **Faction** >= Dubious and  **You turn in:** [Ajrah Leaf](/item/6349)) then
 
 
 >**Allix says:** Ajrah! Raaarrr! Ajrah Leaf! Allix destined to be mighty saiar now! Allix unsure how to thank you. Here, take this. Is my most treasured tunic.

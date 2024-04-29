@@ -18,7 +18,7 @@ local text1 = "All must be returned!";
 
 
 
-if **You turn in:** [Venril the Chief](/item/18069), [Before Green](/item/18068)
+if( **You turn in:** [Venril the Chief](/item/18069), [Before Green](/item/18068)) then
 
 
 >*tortured librarian fades out of existence. The air smells of death. Something has appeared in your hand.*

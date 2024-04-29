@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [Spell: Resurrection](/item/15392)
+if( **You turn in:** [Spell: Resurrection](/item/15392)) then
 
 
 >**Spirit of Venril Sathir says:** I am alive! My thanks to you, Soandso. And now I will aid you in your quest for preserving the forests of norrath. Your carcass will help nurture the soils of the wilderness.

@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Etched Rune](/item/1856)
+if( **You turn in:** [Etched Rune](/item/1856)) then
 
 
 >**Grimthor Brewbeard says:** That looks about right. You're moving along well outlander. Next you'll be needin to brew up a sacred ink to fill the grooves in your rune. Take Iceclad Cutlass fish oil, liquid velium, and some Royal Kromrif blood, brew them in the barrel here then take the product and the rune and combine them in a fletching kit. Show Talem Tucker the resulting item if yer successful.

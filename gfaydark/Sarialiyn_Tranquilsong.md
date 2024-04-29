@@ -150,7 +150,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Fractured Orc Jawbone](/item/22694), [Fractured Orc Jawbone](/item/22694), [Sarialiyns Lute](/item/27540)
+if(expansion_flag >= 4.0 and  **You turn in:** [Fractured Orc Jawbone](/item/22694), [Fractured Orc Jawbone](/item/22694), [Sarialiyns Lute](/item/27540)) then
 
 
 >**Sarialiyn Tranquilsong says:** I never though I would see my lute again. I owe you my sincere thanks Soandso. Please take this weapon that I carried for most of my days as a symbol of my gratitude. May it guide you to victory in all of your battles.

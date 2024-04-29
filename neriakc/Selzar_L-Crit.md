@@ -57,7 +57,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Halfling Clavicle](/item/19578), [Halfling Fibula](/item/19577), [Large Snake Skin](/item/13060)
+if(expansion_flag >= 4.0 and  **You turn in:** [Halfling Clavicle](/item/19578), [Halfling Fibula](/item/19577), [Large Snake Skin](/item/13060)) then
 
 
 >**Selzar L-Crit says:** You have slain enemies of our order. Carry your weapon with pride.

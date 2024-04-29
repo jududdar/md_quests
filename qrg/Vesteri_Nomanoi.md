@@ -46,7 +46,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Wooden Statue](/item/13864)
+if **Faction** >= Amiable and  **You turn in:** [Wooden Statue](/item/13864)) then
 
 
 >**Vesteri Nomanoi says:** Oh thank you so much! Here. Take this reward for your time. I will also tell Te'Anara of you.
@@ -67,6 +67,6 @@ if **Faction** >= Amiable and  **You turn in:** [Wooden Statue](/item/13864)
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+250 exp)
 
 **This NPC *should* return incorrect items given.**

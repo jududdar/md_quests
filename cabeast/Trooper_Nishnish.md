@@ -22,7 +22,7 @@ local text = "You shall get my signature when I have the legion order and two ba
 
 
 
-if **You turn in:** [Legion Order](/item/18244), [Barracuda Tooth](/item/12465), [Barracuda Tooth](/item/12465)
+if( **You turn in:** [Legion Order](/item/18244), [Barracuda Tooth](/item/12465), [Barracuda Tooth](/item/12465)) then 
 
 
 >*Trooper Nishnish grabs the barracuda teeth and attaches them to a necklace. 'Good. Now this barracuda charm shall keep me safe from slipping into the waters and becoming a feast for the barracuda. And you, take this legion order and be gone.'*

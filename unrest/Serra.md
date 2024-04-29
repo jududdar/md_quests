@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Mechanical Doll](/item/20370)
+if( **You turn in:** [Mechanical Doll](/item/20370)) then
 
 
 >**Serra says:** Oh! You have the dolly! Thank you! Thank you! Thank you! I can go home now. Please give this to my father, Baenar. He will understand when he gets it.' Serra begins to fade away. 'Bye bye!

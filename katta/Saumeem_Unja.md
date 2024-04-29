@@ -42,7 +42,7 @@ end
 
   
 
-if **You turn in:** [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799)
+if( **You turn in:** [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799)) then
 
 
 
@@ -81,7 +81,7 @@ if **You turn in:** [Coterie Assassin Garrote](/item/31799), [Coterie Assassin G
 
 
 
-elseif **You turn in:** [Vampyre Infiltrator Fang](/item/31832), [Vampyre Infiltrator Fang](/item/31832), [Gem of Condensed Flame](/item/31831), [Reflective Combine Claymore](/item/31829)
+elseif( **You turn in:** [Vampyre Infiltrator Fang](/item/31832), [Vampyre Infiltrator Fang](/item/31832), [Gem of Condensed Flame](/item/31831), [Reflective Combine Claymore](/item/31829)) then
 
 
 
@@ -119,7 +119,7 @@ elseif **You turn in:** [Vampyre Infiltrator Fang](/item/31832), [Vampyre Infilt
 
  **You receive:**  [Ashbringer](/item/31830) (+1000 exp)
 
-elseif **You turn in:** [Colain's Head](/item/3873)
+elseif( **You turn in:** [Colain's Head](/item/3873)) then 
 
 
 >**Saumeem Unja says:** It is very unfortunate that you had to be exposed to such corruption.  Please, do not consider what you have seen during this situation to be the standard for our community.  This was a rare occurrence.  This situation did however allow you to prove yourself to us.  We thank you for your bravery and selfless action in this matter.  May you be followed by favor and may this small gift from my fellow governors and me assist you in your journeys.

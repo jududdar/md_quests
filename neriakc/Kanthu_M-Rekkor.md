@@ -116,7 +116,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Note to Kanthuk](/item/2416)
+if(expansion_flag >= 4.0 and  **You turn in:** [Note to Kanthuk](/item/2416)) then
 
 
 >**Kanthu M-Rekkor says:** Greetings, Soandso. So you are one of Selzar's new recruits. You are to assist in the construction of the armor you will don as a new Rogue of the House of the Ebon Mask. I have assembled a kit that is used in the crafting of Ashen Bone Mail. You must travel beyond Neriak into the Nektulos Forest for the [materials] that compose the armor.

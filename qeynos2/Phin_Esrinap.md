@@ -160,7 +160,7 @@ local text3 = "Good work, Soandso. You are well on your way toward earning the o
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Grathins Invoice](/item/18922)
+if **Faction** >= Apprehensive and  **You turn in:** [Grathins Invoice](/item/18922)) then
 
 
 >**Phin Esrinap says:** Oh this is not good. Too many innocent traders have been getting robbed lately by those vile bandits out in the Karanas. Something must be done soon. Anyway, thank you for delivering the message... you did very well, young Soandso. Here's a little something to quench your thirst from all that running around.
@@ -182,7 +182,7 @@ if **Faction** >= Apprehensive and  **You turn in:** [Grathins Invoice](/item/18
 
 
 
-elseif **Faction** >= Amiable +50 and  **You turn in:** [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789)
+elseif **Faction** >= Amiable +50 and  **You turn in:** [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789)) then 
 
 
 >**Phin Esrinap says:** Good job, Soandso, keep up the good work! Here is your white training headband. Wear it with honor, and make Lu'Sun proud.
@@ -201,7 +201,7 @@ elseif **Faction** >= Amiable +50 and  **You turn in:** [Gnoll Pup Scalp](/item/
 
 
 
-elseif **Faction** >= Amiable +75 and  **You turn in:** [Putrid Rib Bone](/item/13722), [Putrid Rib Bone](/item/13722), [Putrid Rib Bone](/item/13722), [White Headband](/item/10110)
+elseif **Faction** >= Amiable +75 and  **You turn in:** [Putrid Rib Bone](/item/13722), [Putrid Rib Bone](/item/13722), [Putrid Rib Bone](/item/13722), [White Headband](/item/10110)) then 
 
 
 >**Phin Esrinap says:** Good work.. and, as promised, here is your reward. It is an honor to present this yellow headband to Soandso, for recent acts of courage and heroism, on behalf of the Silent Fist Clan.
@@ -220,7 +220,7 @@ elseif **Faction** >= Amiable +75 and  **You turn in:** [Putrid Rib Bone](/item/
 
 
 
-elseif **Faction** >= Amiable +125 and  **You turn in:** [Blackburrow Gnoll Pelt](/item/13027), [Blackburrow Gnoll Pelt](/item/13027), [Blackburrow Gnoll Skin](/item/13028), [Yellow Headband](/item/10111)
+elseif **Faction** >= Amiable +125 and  **You turn in:** [Blackburrow Gnoll Pelt](/item/13027), [Blackburrow Gnoll Pelt](/item/13027), [Blackburrow Gnoll Skin](/item/13028), [Yellow Headband](/item/10111)) then 
 
 
 >**Phin Esrinap says:** It is an honor to present the orange headband of the Silent Fist Clan to one of our finest members, Soandso the mighty!

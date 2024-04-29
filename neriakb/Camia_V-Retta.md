@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18753)
+if( **You turn in:** [A tattered note](/item/18753)) then 
 
 
 >**Camia V-Retta says:** Greetings, and welcome to the Tower of the Spurned! I am Camia V'Retta, master enchantress. Here is your guild tunic, wear it with pride.  Go to Ulvex D'Jerna; he whall help you with your new studies.

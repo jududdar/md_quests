@@ -84,7 +84,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Torn Old Pouch](/item/13785)
+if **Faction** >= Amiable and  **You turn in:** [Torn Old Pouch](/item/13785)) then 
 
 
 >**Toelia Snuckery says:** What is this? The pouch is empty!  Where is the Ruby?! What do you mean you don't have it? Oh no. I bet [Chomper] swallowed it! Get it back and bring it to me.
@@ -108,9 +108,9 @@ if **Faction** >= Amiable and  **You turn in:** [Torn Old Pouch](/item/13785)
 * __Faction:__ [Carson McCabe](/faction/329) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Large Ruby](/item/13786)
+elseif **Faction** >= Amiable and  **You turn in:** [Large Ruby](/item/13786)) then 
 
 
 >**Toelia Snuckery says:** You found it! Heh. Good thing you brought it back bub. This thing isn't priceless, its worthless but at least you proved you are loyal. Poor ol' Chomper..
@@ -134,7 +134,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Large Ruby](/item/13786)
 * __Faction:__ [Carson McCabe](/faction/329) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 

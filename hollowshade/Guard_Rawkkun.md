@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Daily Status Report](/item/6220)
+if( **You turn in:** [Daily Status Report](/item/6220)) then
 
 
 >*Guard Rawkkun yells, 'Head count! Head count time!' A moment later he says, 'I'm pretty sure that they're all here. Just take this back and act like your didn't just see that.' He winks and hands you the report.*

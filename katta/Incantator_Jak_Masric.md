@@ -18,7 +18,7 @@ local text = "I require the three autarkic shade robes and the robe of the autar
 
 
 
-if **You turn in:** [Autarkic Shade Lord Robe](/item/7373), [Autarkic Shade Robe](/item/7374), [Autarkic Shade Robe](/item/7374), [Autarkic Shade Robe](/item/7374)
+if( **You turn in:** [Autarkic Shade Lord Robe](/item/7373), [Autarkic Shade Robe](/item/7374), [Autarkic Shade Robe](/item/7374), [Autarkic Shade Robe](/item/7374)) then
 
 
 >**Incantator Jak Masric says:** Hopefully these robes still contain enough of a magical imprint from the shades to be useful in successfully warding the Magus Conlegium from their kind. Thank you for you assistance. Keep this token as a symbol of your allegiance to the Magus Conlegium.

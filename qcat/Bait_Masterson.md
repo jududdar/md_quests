@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Old Blue Tunic*](/item/13544)
+if( **You turn in:** [Old Blue Tunic*](/item/13544)) then
 
 
 >**Bait Masterson says:** Nice material!! I feel the ways of Prexus enlightening my soul. Unngh!! Enough of this fishing. Here take my broken fishing pole and toss it to the sea. All hail Prexus!!

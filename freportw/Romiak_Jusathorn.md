@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18741)
+if( **You turn in:** [A tattered note](/item/18741)) then 
 
 
 >**Romiak Jusathorn says:** Greetings, I am Romiak Jusathorn, Master Enchanter of the Academy. Take this.. it's our guild robe; it will help protect you in this harsh environment. Now, let's get to work!

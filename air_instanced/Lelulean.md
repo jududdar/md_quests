@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20767), [Finely Woven Cloth Cord](/item/20768)
+if( **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20767), [Finely Woven Cloth Cord](/item/20768)) then 
 
 
 >**Lelulean says:** Excellent work!
@@ -44,7 +44,7 @@ if **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20
 
 **Lelulean despawns.**
 
-elseif **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/20770), [Silver Disc](/item/20938)
+elseif( **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/20770), [Silver Disc](/item/20938)) then 
 
 
 >**Lelulean says:** Excellent work!
@@ -55,7 +55,7 @@ elseif **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/
 
 **Lelulean despawns.**
 
-elseif **You turn in:** [Rugous Globe](/item/20945), [Silken Mask](/item/20772), [Sky Pearl](/item/20771)
+elseif( **You turn in:** [Rugous Globe](/item/20945), [Silken Mask](/item/20772), [Sky Pearl](/item/20771)) then 
 
 
 >**Lelulean says:** Excellent work!

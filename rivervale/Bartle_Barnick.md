@@ -159,13 +159,13 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Letter to Bartle Barnick](/item/19629)
+if(expansion_flag >= 4.0 and  **You turn in:** [Letter to Bartle Barnick](/item/19629)) then
 
 
 >**Bartle Barnick says:** It is good to see another of our young people choose the humble life of a druid of Karana. I have assembled patterns that will allow you to construct some protective leather garments to keep you comfortable in the wilds and help turn aside the weapons of the Storm Reapers enemies. The required components for the leather vary according to which piece of Moss Toe Leather your are planning on crafting. Do you wish to craft a [moss toe cap], a [moss toe bracer], [moss toe gloves], [moss toe boots], [moss toe sleeves], [moss toe leggings], or a [moss toe tunic]?
 
 
- **You receive:** None 
+ **You receive:**  [Mail Assembly Kit](/item/17124) 
 
 **This NPC *should* return incorrect items given.**
 ;

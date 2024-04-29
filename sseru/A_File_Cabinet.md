@@ -8,7 +8,7 @@
 if( **Faction is** > Apprehensive) then
 
 
-if **You turn in:** [Replacement Records](/item/29855)
+if( **You turn in:** [Replacement Records](/item/29855)) then
 
 
 

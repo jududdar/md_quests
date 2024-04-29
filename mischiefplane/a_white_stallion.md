@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Lithiniaths Horn](/item/22856)
+if( **You turn in:** [Lithiniaths Horn](/item/22856)) then
 
 
  **You receive:**  [Crest of the Unicorn](/item/24869) (+5000 exp)

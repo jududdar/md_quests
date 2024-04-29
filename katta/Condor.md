@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Recording Stone](/item/29846)
+if( **You turn in:** [Recording Stone](/item/29846)) then 
 
 
 >**Condor says:** Pefect, this should give us some idea of what they may or may not know. 'as he puts the stone in his belt pouch.' Very well done, my friend. Have you ever considered a career in espoinage? Take this.  I have little need for it these days - Tilbok will know how to recharge it, 'he says with a wry grin before disappearing back into the shadaows.

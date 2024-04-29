@@ -47,7 +47,7 @@ local text = "Yes yes, now where is the rest of the medallion?";
 
 
 
-if **You turn in:** [Piece of a medallion](/item/19959), [Piece of a medallion](/item/19960), [Piece of a medallion](/item/19961)
+if( **You turn in:** [Piece of a medallion](/item/19959), [Piece of a medallion](/item/19960), [Piece of a medallion](/item/19961)) then
 
 
 >*Xiblin Fizzlebik tinkers with the three pieces and snaps the pieces together. 'Wow.. You've done it.. but I suddenly feel very.. strange.. This medallion is cursed! Here, you take it!'*

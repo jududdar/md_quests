@@ -51,7 +51,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Brells Divine Strategy](/item/24987)
+if( **Faction is** > Indifferent and ( **You turn in:** [Brells Divine Strategy](/item/24987) or  **You turn in:** [War Tactics of the Frostreavers](/item/24988))) then
 
 
 >**Gkrean Prophet of Tallon says:** You are a brave little beast to gain this tome. Let me impart a bit of wisdom to you. Tactics must change - if you do not ever adapt to new surroundings, environments and rules, you will surely perish.

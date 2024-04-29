@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Lord Bergurgle's Crown](/item/28044)
+if( **You turn in:** [Lord Bergurgle's Crown](/item/28044)) then 
 
 
 >*Shmendrik Lavawalker shoves the crown into a scorch marked leather satchel and cackles uncontrollably as madness twists his features and flames dance in his eyes. 'You, Soandso, have reduced the Riptides into chaos! Without a king to keep them in control they will ravage the settlements surrounding this lake! After the slaughter I shall return and easily burn the remainder of the villages and fishing shanties to the ground! None shall escape the fires of the Tyrant!!'*

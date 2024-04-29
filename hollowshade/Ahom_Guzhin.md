@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Cloak of the Dar Khura Journeyman](/item/6267)
+if( **You turn in:** [Cloak of the Dar Khura Journeyman](/item/6267)) then
 
 
 >**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
@@ -23,20 +23,12 @@ if **You turn in:** [Cloak of the Dar Khura Journeyman](/item/6267)
 >**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
 
 
- **You receive:** None 
-
-elseif **You turn in:** [Cloak of the Jharin Journeyman](/item/6159)
+ **You receive:**  [Ahom's Journal](/item/8466) 
 
 
->**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
+ **You receive:**  [Cloak of the Dar Khura Journeyman](/item/6267) 
 
-
->**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Cloak of the Khala Dun Journeyman](/item/6222)
+elseif( **You turn in:** [Cloak of the Jharin Journeyman](/item/6159)) then
 
 
 >**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
@@ -45,20 +37,12 @@ elseif **You turn in:** [Cloak of the Khala Dun Journeyman](/item/6222)
 >**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
 
 
- **You receive:** None 
-
-elseif **You turn in:** [Cloak of the Khati Sha Journeyman](/item/6184)
+ **You receive:**  [Ahom's Journal](/item/8466) 
 
 
->**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
+ **You receive:**  [Cloak of the Jharin Journeyman](/item/6159) 
 
-
->**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Cloak of the Taruun Journeyman](/item/6275)
+elseif( **You turn in:** [Cloak of the Khala Dun Journeyman](/item/6222)) then
 
 
 >**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
@@ -67,6 +51,37 @@ elseif **You turn in:** [Cloak of the Taruun Journeyman](/item/6275)
 >**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
 
 
- **You receive:** None 
+ **You receive:**  [Ahom's Journal](/item/8466) 
+
+
+ **You receive:**  [Cloak of the Khala Dun Journeyman](/item/6222) 
+
+elseif( **You turn in:** [Cloak of the Khati Sha Journeyman](/item/6184)) then
+
+
+>**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
+
+
+>**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
+
+
+ **You receive:**  [Ahom's Journal](/item/8466) 
+
+
+ **You receive:**  [Cloak of the Khati Sha Journeyman](/item/6184) 
+
+elseif( **You turn in:** [Cloak of the Taruun Journeyman](/item/6275)) then
+
+
+>**Ahom Guzhin says:** Ah, there it is... I haven't seen one of those in a while. I remember when I first became a journeyman myself. That was many seasons and twice as many trails ago. Time becomes most deft in the period just after you figure that you've got a grasp on it.
+
+
+>**Ahom Guzhin says:** Well, let us get back to pebbles and tax, shall we? You displayed a great deal of bravery in coming out here and looking for me. I fear my age is beginning to show. I can't evade danger as I did in my youth. With that in mind, I would like you to take this journal back to town for me. Historian Sharar will tend to my notes for me. She is a trusted friend and a valuable scholar. Please give it to her with my thanks.
+
+
+ **You receive:**  [Ahom's Journal](/item/8466) 
+
+
+ **You receive:**  [Cloak of the Taruun Journeyman](/item/6275) 
 
 **This NPC *should* return incorrect items given.**

@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [A Shining Stone](/item/10085), gold = 50
+if( **You turn in:** [A Shining Stone](/item/10085), gold = 50) then
 
 
 >**Cynthia says:** I've done what I can to enchant your stone, but you will need to find Tarn Visilin in Highpass Keep to finish the enchantments.  Don't forget to pay him the same fee you gave me, or he may decide to keep the stone for himself!

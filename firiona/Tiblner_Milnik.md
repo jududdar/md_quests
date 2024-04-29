@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Staff of Elemental Mastery: Earth](/item/11567), [Dirt of Underfoot](/item/28042), [Broom of Trilon](/item/6360), [Shovel of Ponz](/item/6361)
+if( **You turn in:** [Staff of Elemental Mastery: Earth](/item/11567), [Dirt of Underfoot](/item/28042), [Broom of Trilon](/item/6360), [Shovel of Ponz](/item/6361)) then
 
 
 >**Tiblner Milnik says:** Take this Element and keep it with you. I wish you the best in your journey, but I must ask you to leave me now. This frantic pace you set makes me nervous.

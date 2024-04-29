@@ -164,7 +164,7 @@ end
 local text = "Good work, but I must see at least three Blackburrow casks before I can reward you with the [Cloak of Jaggedpine].";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Gnoll Head](/item/13309)
+if **Faction** >= Amiable and  **You turn in:** [Gnoll Head](/item/13309)) then
 
 
 >**Larsk Juton says:** So, I see you rid the hills of the beast. Good work! I have a reward for you. I hope it will be usefull. I am afraid this gnoll's death will not halt the alliance between the two. I shall require your services to [assist in the extermination of the gnoll brewers].
@@ -185,9 +185,9 @@ if **Faction** >= Amiable and  **You turn in:** [Gnoll Head](/item/13309)
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Raw-hide Skullcap](/item/2137), [Raw-hide Tunic](/item/2140), [Wooden Shield](/item/9006), [Bronze Broad Sword](/item/5033)) (+20000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Blackburrow Cask](/item/17970), [Blackburrow Cask](/item/17970), [Blackburrow Cask](/item/17970)
+elseif **Faction** >= Amiable and  **You turn in:** [Blackburrow Cask](/item/17970), [Blackburrow Cask](/item/17970), [Blackburrow Cask](/item/17970)) then
 
 
 >**Larsk Juton says:** Excellent!  Ridding the area of those foul beasts will certainly slow down whatever it is they are planning.  Here is the Cloak of Jaggedpine.  You should keep this, for you never know when we may decide to alter the enchantments on it.
@@ -205,9 +205,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Blackburrow Cask](/item/179
 * __Faction:__ [Guards of Qeynos](/faction/262) (5)
 
 
- **You receive:** None 
+ **You receive:**  [Cloak of Jaggedpine](/item/2915) (+1000 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [A tattered note](/item/18811)
+elseif **Faction** >= Apprehensive and  **You turn in:** [A tattered note](/item/18811)) then
 
 
 >**Larsk Juton says:** Fine Work, Soandso. Hmmm. It seems this needs taking care of. Take this note to the Captain of the City Guard in Qeynos. His name is Captain Tillin. He will have to attend to this matter. Also.. Let me see the gnoll\'s head. I must know you killed him. Be safe, my friend. I am sure that whoever this McNeal is, he was simply a lackey. Whoever he works for is most likely going to be looking for you. Watch your back in Qeynos.
@@ -230,7 +230,7 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [A tattered note](/item
 * __Faction:__ [Guards of Qeynos](/faction/262) (1)
 
 
- **You receive:** None 
+ **You receive:**  [A tattered note](/item/18815) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

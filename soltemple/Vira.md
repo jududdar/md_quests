@@ -106,7 +106,7 @@ end
 local text = "Solusek Ro does not believe in half measures.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A Broom](/item/16544), [Cyclops Toes](/item/16543), [Griffon Feathers](/item/16538), [Star Ruby](/item/10032)
+if **Faction** >= Indifferent and  **You turn in:** [A Broom](/item/16544), [Cyclops Toes](/item/16543), [Griffon Feathers](/item/16538), [Star Ruby](/item/10032)) then
 
 
 >**Vira says:** All of the components to make the infamous broom of Trilon!  Well done, adventurer.  As you have proven yourself worthy, I grant you this broom.
@@ -120,7 +120,7 @@ if **Faction** >= Indifferent and  **You turn in:** [A Broom](/item/16544), [Cyc
 
  **You receive:**  [Broom of Trilon](/item/6360) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Ruby](/item/10035), [Gargoyle Eye](/item/10014), [A Shovel](/item/16545), [Hill Giant Toes](/item/16539)
+elseif **Faction** >= Indifferent and  **You turn in:** [Ruby](/item/10035), [Gargoyle Eye](/item/10014), [A Shovel](/item/16545), [Hill Giant Toes](/item/16539)) then 
 
 
 >**Vira says:** Each of the four items needed to construct the famed Shovel of Ponz!  Very well.  As you have displayed ingenuity, I grant you this shovel.
@@ -134,7 +134,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Ruby](/item/10035), [Ga
 
  **You receive:**  [Shovel of Ponz](/item/6361) (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A Torch](/item/16546), [Fire Drake Scale](/item/16534), [Fire Emerald](/item/10033), [Fire Giant Toes](/item/16541)
+elseif **Faction** >= Indifferent and  **You turn in:** [A Torch](/item/16546), [Fire Drake Scale](/item/16534), [Fire Emerald](/item/10033), [Fire Giant Toes](/item/16541)) then 
 
 
 >**Vira says:** All of the pieces of the famous Torch of Alna!  I never thought you would find them all!  As you have displayed courage, I grant you this torch.
@@ -149,7 +149,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [A Torch](/item/16546), 
  **You receive:**  [Torch of Alna](/item/6362) (+1000 exp)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Ice Giant Toes](/item/16540), [Mermaid Scale](/item/16542), [Sapphire](/item/10034), [A Stein](/item/16547)
+elseif **Faction** >= Indifferent and  **You turn in:** [Ice Giant Toes](/item/16540), [Mermaid Scale](/item/16542), [Sapphire](/item/10034), [A Stein](/item/16547)) then 
 
 
 >**Vira says:** The four components required for the stein of Ulissa?!  I am impressed!  As you have displayed valor, I grant you this stein.

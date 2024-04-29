@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Leg](/item/13250), [Fire Beetle Leg](/item/13250)
+if( **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Leg](/item/13250), [Fire Beetle Leg](/item/13250)) then 
 
 
 >**Raskena Djor says:** You have passed your first task. Nice work. Take this spell as your payment.

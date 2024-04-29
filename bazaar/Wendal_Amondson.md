@@ -12,25 +12,25 @@ end
 
 
 
-if **You turn in:** [Black Rope Bridle](/item/21810)
+if( **You turn in:** [Black Rope Bridle](/item/21810)) then
 
 
  **You receive:**  [Bag of Platinum Pieces](/item/21820) 
 
 
-elseif **You turn in:** [Black Leather Bridle](/item/21811)
+elseif( **You turn in:** [Black Leather Bridle](/item/21811)) then
 
 
  **You receive:**  [Heavy Bag of Platinum](/item/21821) 
 
 
-elseif **You turn in:** [Black Silken Bridle](/item/21812)
+elseif( **You turn in:** [Black Silken Bridle](/item/21812)) then
 
 
  **You receive:**  [Big Bag of Platinum](/item/21822) 
 
 
-elseif **You turn in:** [Black Chain Bridle](/item/21813)
+elseif( **You turn in:** [Black Chain Bridle](/item/21813)) then
 
 
  **You receive:**  [Huge Bag of Platinum](/item/21823) 

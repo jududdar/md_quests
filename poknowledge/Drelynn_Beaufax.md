@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Collection of Gems](/item/28077)
+if( **You turn in:** [Collection of Gems](/item/28077)) then
 
 
 >*Drelynn Beaufax inspects each gem carefully. 'These are in much better condition then I thought I would get them in. Adding these to my exhibit pleases me greatly. As promised, here is something for you.'*

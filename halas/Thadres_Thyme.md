@@ -40,7 +40,7 @@ local text = "Thank you very much. Now, please help me find all three missing pa
 
 
 
-if **You turn in:** [Delius Thymes Diary Pg. 74](/item/18136), [Delius Thymes Diary Pg. 75](/item/18137), [Delius Thymes Diary Pg. 76](/item/18138)
+if( **You turn in:** [Delius Thymes Diary Pg. 74](/item/18136), [Delius Thymes Diary Pg. 75](/item/18137), [Delius Thymes Diary Pg. 76](/item/18138)) then
 
 
 >**Thadres Thyme says:** Thank you, thank you. Let me read them. Oh! How could I want these brewing recipes after they made my brother insane? Where are they? I think this is all of them. Take them away from me! Delius can smile upon me now.

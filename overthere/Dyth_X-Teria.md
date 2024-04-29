@@ -55,7 +55,7 @@ local text = "Only three souls will get you my knowledge, wizard.";
 
 
 
-if **You turn in:** [Onyx](/item/10027)
+if( **You turn in:** [Onyx](/item/10027)) then
 
 
 >**Dyth X-Teria says:** Identify this when the time comes. It is Ryla's prison.
@@ -63,7 +63,7 @@ if **You turn in:** [Onyx](/item/10027)
 
  **You receive:**  [an Ornate Bottle](/item/12964) (+0 exp)
 
-elseif **You turn in:** [Peridot](/item/10028)
+elseif( **You turn in:** [Peridot](/item/10028)) then
 
 
 >**Dyth X-Teria says:** This bottle is for the one called Hampton. If you look well, you can see his name.
@@ -71,7 +71,7 @@ elseif **You turn in:** [Peridot](/item/10028)
 
  **You receive:**  [an Ornate Bottle](/item/12962) (+0 exp)
 
-elseif **You turn in:** [Star Rose Quartz](/item/10021)
+elseif( **You turn in:** [Star Rose Quartz](/item/10021)) then
 
 
 
@@ -81,7 +81,7 @@ elseif **You turn in:** [Star Rose Quartz](/item/10021)
  **You receive:**  [an Ornate Bottle](/item/12963) (+0 exp)
 
 
-elseif **You turn in:** [bottle of swirling smoke](/item/12965), [bottle of swirling smoke](/item/12966), [bottle of swirling smoke](/item/12967)
+elseif( **You turn in:** [bottle of swirling smoke](/item/12965), [bottle of swirling smoke](/item/12966), [bottle of swirling smoke](/item/12967)) then
 
 
 >*Dyth X-Teria empties the bottle's smoke into a very large glass urn filled with similar swirling smoke. You think you hear the cries of a thousand tortured souls. He then closes the urn and hands you a scroll. 'Here is your reward. It will blast a foe's brain and hopefully, they may forget their hatred.*

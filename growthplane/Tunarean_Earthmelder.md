@@ -48,7 +48,7 @@ end
 
 
 
-if **You turn in:** [Grenk's Head](/item/31424), [Delar's Head](/item/31425), [Bjek's Head](/item/31426), [Derakor's Head](/item/31423)
+if( **You turn in:** [Grenk's Head](/item/31424), [Delar's Head](/item/31425), [Bjek's Head](/item/31426), [Derakor's Head](/item/31423) and **Your level** >= 55) then
 
 
 >**Tunarean Earthmelder says:** You have done well, Soandso.  Here, take this item and use it well! Your efforts will not be forgotten.
@@ -56,7 +56,7 @@ if **You turn in:** [Grenk's Head](/item/31424), [Delar's Head](/item/31425), [B
 
  **You receive:**  [Gloves of Earthcrafting](/item/1208) (+1000 exp)
 
-elseif **You turn in:** [Frostgiant Overseers Head](/item/31419), [Kallis' Head](/item/31420), [A bloody protector of Zek's Head](/item/31421), [A smashed protector of Zek's Head](/item/31422)
+elseif( **You turn in:** [Frostgiant Overseers Head](/item/31419), [Kallis' Head](/item/31420), [A bloody protector of Zek's Head](/item/31421), [A smashed protector of Zek's Head](/item/31422) and **Your level** >= 55) then
 
 
 >**Tunarean Earthmelder says:** You have done well, Soandso.  Here, take this item and use it well! Your efforts will not be forgotten.

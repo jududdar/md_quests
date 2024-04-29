@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Venomous Spikefish Poison Sac](/item/31828), [Necromancer Blood](/item/22570), [Ancient Venom Sack](/item/6949), [Ancient Snake Fang](/item/6950)
+if( **You turn in:** [Venomous Spikefish Poison Sac](/item/31828), [Necromancer Blood](/item/22570), [Ancient Venom Sack](/item/6949), [Ancient Snake Fang](/item/6950)) then
 
 
 >**Collier says:** There is the weapon treatment I promised you. Use it in a forge with either a Long Sword or a Scimitar. Choose which weapon you prefer carefully as there is only enough of the substance for a single treatment.

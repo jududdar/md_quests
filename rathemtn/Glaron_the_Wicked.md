@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Marrs Promise](/item/1675)
+if( **You turn in:** [Marrs Promise](/item/1675)) then 
 
 
 >**Glaron the Wicked says:** Hahahah! Even you were able to do away with that fool. It is only a matter of time before Bertoxxulous, with the help of devout followers like myself, wipes out all who attempt to stop the spread of filth and decay. You have done well, shaman, and your masters will be pleased with what you have done for me and my treasures. Take this and give it to your master. He will reward you.

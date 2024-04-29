@@ -48,7 +48,7 @@ elseif(e.signal == 6) then
 >**Theodore Exanthem says:** Fine, follow me creeps.
 
 
-eq.move_to(-3098,-5872,94,160,true);
+eq.move_to(-3098,- [Fanged Talisman](/item/5872),94,160,true);
 
 
 
@@ -96,7 +96,7 @@ local yloc = e.self:GetY();
 
 
 
-if **You turn in:** [Confession Document](/item/2344)
+if( **You turn in:** [Confession Document](/item/2344) and (xloc == -3098 and yloc == - [Fanged Talisman](/item/5872))) then 
 
 
 >*Theodore Exanthem makes a big X at the bottom of the document and hands it back saying, 'A bunch of worthless thugs is all you folks are!'*

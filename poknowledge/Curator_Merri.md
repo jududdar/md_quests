@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Collection of Idols](/item/28082)
+if( **You turn in:** [Collection of Idols](/item/28082)) then
 
 
 >**Curator Merri says:** Thank you very much Soandso!  Here, please accept this as a reward for the fine work you've done.

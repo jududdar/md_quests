@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Claw Beast Talon](/item/7811), [Wooden Practice Flail](/item/30579)
+if( **You turn in:** [Claw Beast Talon](/item/7811), [Wooden Practice Flail](/item/30579)) then
 
 
 >**Shekar says:** You have killed the Claw Beast!  Well done Soandso, you have shown a great ability to fight. I have not seen the like since the mightly Yalpeelor and Zunaloo!

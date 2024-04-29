@@ -164,7 +164,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Flawless Harpy Claw](/item/9105), [Flawless Harpy Claw](/item/9105), [Flawless Harpy Claw](/item/9105), [Ebon Drake Backbone](/item/9106)
+if(expansion_flag >= 4.0 and  **You turn in:** [Flawless Harpy Claw](/item/9105), [Flawless Harpy Claw](/item/9105), [Flawless Harpy Claw](/item/9105), [Ebon Drake Backbone](/item/9106)) then
 
 
 >**Iony Gredlong says:** Thank you! Here, take this staff and good luck on your journey.
@@ -173,7 +173,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Flawless Harpy Claw](/item/9105)
  **You receive:**  [Walking Staff of the Shortnoble](/item/9107) 
 
 
-elseif **You turn in:** [A tattered note](/item/18775)
+elseif( **You turn in:** [A tattered note](/item/18775)) then
 
 
 >**Iony Gredlong says:** Welcome to the Abbey of Deep Musing.  Here you can train and raise your abilities to the peak of perfection. Take this tunic and wear it with pride.

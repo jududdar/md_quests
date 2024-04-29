@@ -39,18 +39,18 @@ end
 
 
 
-if **You turn in:** [Azure Tessera](/item/20930), [Augmentors Gem](/item/20741), [Grey Damask Cloak](/item/20742)
+if( **You turn in:** [Azure Tessera](/item/20930), [Augmentors Gem](/item/20741), [Grey Damask Cloak](/item/20742)) then 
 
 
 
  **You receive:**  [Augmentor's Mask](/item/1272) (+100000 exp)
 
-elseif **You turn in:** [Iron Disc](/item/20937), [Ethereal Opal](/item/20743), [Woven Skull Cap](/item/20744)
+elseif( **You turn in:** [Iron Disc](/item/20937), [Ethereal Opal](/item/20743), [Woven Skull Cap](/item/20744)) then 
 
 
  **You receive:**  [Al\`Kabor's Cap of Binding](/item/1271) (+100000 exp)
 
-elseif **You turn in:** [Hyaline Globe](/item/20944), [Sky Topaz](/item/20745), [High Quality Raiment](/item/20746)
+elseif( **You turn in:** [Hyaline Globe](/item/20944), [Sky Topaz](/item/20745), [High Quality Raiment](/item/20746)) then 
 
 
 >**Neasin Leornic says:** This mantle will sit well on your shoulders, Soandso.  Take it as a reward for your troubles.

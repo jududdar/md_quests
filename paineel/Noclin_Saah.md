@@ -48,7 +48,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Rotting Femur](/item/7107)
+if **Faction** >= Indifferent and  **You turn in:** [Rotting Femur](/item/7107)) then
 
 
 >**Noclin Saah says:** Ah! You found him and obviously removed his presence from the yard. You have my thanks, small as it is for such a menial task. Here. Keep this worthless bit of bone for your labors.

@@ -36,7 +36,7 @@ local text = "Are you daft? How can I reconstruct the medallion of the Kylong wi
 
 
 
-if **You turn in:** [Piece of a medallion](/item/19962), [Piece of a medallion](/item/19963), [Piece of a medallion](/item/19964)
+if( **You turn in:** [Piece of a medallion](/item/19962), [Piece of a medallion](/item/19963), [Piece of a medallion](/item/19964)) then
 
 
 >**Professor Akabao says:** For ages this medallion has been scattered across these inhospitable lands, I had just about given up hope of locating the pieces and rebuilding this piece of Iksar history. You may keep it. It is enough to know that I have done my part to restore such an artifact to the people of Norrath.

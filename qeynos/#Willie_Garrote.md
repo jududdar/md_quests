@@ -15,13 +15,13 @@
 
 
 
-if **You turn in:** [Confession Document](/item/2344)
+if( **You turn in:** [Confession Document](/item/2344)) then
 
 
 >**Willie Garrote says:** Here's your confession.  I hope you choke on it!
 
 
- **You receive:** None 
+ **You receive:**  [Willies Confession](/item/2394) 
 
 
 eq.set_global("invest_badge","third_suspect",3,"F");

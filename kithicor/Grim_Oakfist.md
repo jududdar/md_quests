@@ -130,7 +130,7 @@ local text = "I asked you to hunt down all three of the tigers.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Unusual Tiger Pelt](/item/12341), [Peculiar Tiger Pelt](/item/12342), [Strange Tiger Pelt](/item/12343)
+if **Faction** >= Amiable and  **You turn in:** [Unusual Tiger Pelt](/item/12341), [Peculiar Tiger Pelt](/item/12342), [Strange Tiger Pelt](/item/12343)) then
 
 
 >**Grim Oakfist says:** Good work.  I hope you had no run ins with the local rangers.  Here is my reward.  An object from the past which I found in my journeys.  Wish that I could reward you also with [treant fists].

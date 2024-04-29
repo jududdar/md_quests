@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** platinum = 1000
+if( **You turn in:** platinum = 1000) then
 
 
 >**Smaka says:** Okay, enjoy me drink!

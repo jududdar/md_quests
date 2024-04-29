@@ -87,7 +87,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Bloody Claw of Jerigozia](/item/25128), [Bloody Claw of Draazak](/item/25129), [Bloody Claw of Veredenia](/item/25127)
+if( **Faction is** > Indifferent and  **You turn in:** [Bloody Claw of Jerigozia](/item/25128), [Bloody Claw of Draazak](/item/25129), [Bloody Claw of Veredenia](/item/25127)) then 
 
 
 >*Vkjor looks down at you, shocked. 'I honestly did not expect you to be able to destroy her children, Soandso. Vkjrog must have guided your hand as you slew those beasts. Nevederia will now know sorrow the like of which she has never felt.' Vkjor drops a shiny pair of gauntlets on the ground before you as he turns his attention to the bloody claws he now holds.'*

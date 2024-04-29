@@ -125,7 +125,7 @@ end
 
 
 
-if **You turn in:** [Water Flask](/item/13006)
+if( **You turn in:** [Water Flask](/item/13006)) then
 
 
 >**Guard Lasen says:** Oh, thank you so much!' Lasen brings the drink to his lips and ravenously drinks the bottle's entire contents, ' Aaaaah. Here, please take this reward for your kindness.  Also take my advice, do not go exploring beneath Qeynos unless you bring friends.  I have seen too many like you enter the aqueducts alone, never to return.

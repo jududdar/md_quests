@@ -24,7 +24,7 @@ local text = "I asked for three loose wolf scales and my fee of five gold.";
 
 
 
-if **You turn in:** [Loose Scale](/item/12466), [Loose Scale](/item/12466), [Loose Scale](/item/12466), gold = 5
+if( **You turn in:** [Loose Scale](/item/12466), [Loose Scale](/item/12466), [Loose Scale](/item/12466), gold = 5) then
 
 
 >*Trooper Shestar quickly inserts the scales into a half finished coif and hands you the coif. 'I am afraid that is not enough and I cannot possibly complete the task while on duty. You must go and find an additional three Scaled Wolf Scales and take them, along with the Unfinished Coif, to the nearest forge and complete the smithing yourself. I hope you are a blacksmith.'*

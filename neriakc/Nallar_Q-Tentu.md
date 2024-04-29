@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Scroll of Flayed Goblin Skin](/item/18401), [Star Ruby](/item/10032)
+if( **You turn in:** [Scroll of Flayed Goblin Skin](/item/18401), [Star Ruby](/item/10032)) then
 
 
 >*Nallar Q-Tentu takes the scroll and removes an ornate magnifying glass from a pocket. After some examination and many frowns along with interjections of 'Hmmm,' he hands the scroll back to you and says, 'Unlucky for you indeed. The name of the House has been removed. This can only happen when the House itself is wiped out by another House. All record of that House is destroyed if the attacking house is successful. You still have a chance though. Many House refugees find homes in other Houses. The Everliving Mayong is known to take in any Teir'Dal rabble. Try his castle.*

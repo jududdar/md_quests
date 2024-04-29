@@ -65,7 +65,7 @@ end
 
 
 
-if **You turn in:** [A Sealed Letter](/item/18807)
+if( **You turn in:** [A Sealed Letter](/item/18807)) then 
 
 
 >**Nomaria Doseniar says:** Good work, child of the plague. Now take this forged note to Te'Anara of the Jaggedpine Treefolk. Be sure to watch your back, now. The guards of Qeynos surely know who you are by now. They will not stop to ask questions.
@@ -89,7 +89,7 @@ if **You turn in:** [A Sealed Letter](/item/18807)
 * __Faction:__ [Corrupt Qeynos Guards](/faction/230) (2)
 
 
- **You receive:** None 
+ **You receive:**  [A Sealed Letter](/item/18806) (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

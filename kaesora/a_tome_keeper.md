@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Shackle of Steel](/item/4196)
+if( **You turn in:** [Shackle of Steel](/item/4196)) then
 
 
 >*a tome keeper drops a tattered tome at your feet and says nothing more. You pick it up and place it among your things.*

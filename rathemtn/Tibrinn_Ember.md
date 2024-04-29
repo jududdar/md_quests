@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Mithril Plated Girth](/item/4310), [Slime Crystal Staff](/item/6335)
+if( **You turn in:** [Mithril Plated Girth](/item/4310), [Slime Crystal Staff](/item/6335)) then
 
 
 >**Tibrinn Ember says:** You have done well. Here is the reward for your deeds.

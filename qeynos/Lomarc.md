@@ -103,7 +103,7 @@ end
 
 
 
-if **You turn in:** gold = 2
+if( **You turn in:** gold = 2) then
 
 
 >**Lomarc says:** Yeah, well, these are pretty hard to come by. In fact, these came all the way from Odus. Enjoy, and tell your buddies.
@@ -140,7 +140,7 @@ if **You turn in:** gold = 2
 
  **You receive:**  [Blank Scroll Sheets](/item/18006) (+100 exp)
 
-elseif **You turn in:** [Lomarc's Payment](/item/18793)
+elseif( **You turn in:** [Lomarc's Payment](/item/18793)) then 
 
 
 >**Lomarc says:** What the heck is this?!? No money at all? You'll pay for this, you back-stabbing knave!

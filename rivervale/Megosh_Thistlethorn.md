@@ -55,7 +55,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if **You turn in:** [Halfling Ranger Note](/item/18432)
+if( **You turn in:** [Halfling Ranger Note](/item/18432)) then 
 
 
 >**Megosh Thistlethorn says:** Welcome to the Storm Reapers Soandso! Here is a tunic to keep you warm in your travels. Rivervale, our lovely home is facing dangerous times. From both the east and west forces devoted to the evil Gods Bertoxxulous and Innoruuk are corrupting and destroying the wilds of Norrath. Also, the Orcs of Clan Deathfist are waging war on this entire region and gathering lumber and stone for some unknown purpose. We must do our best to preserve the lands and way of life of all Karanas people.
@@ -75,7 +75,7 @@ if **You turn in:** [Halfling Ranger Note](/item/18432)
 
  **You receive:**  [Jumjum Sack Tunic*](/item/13541) (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Orc Lumberjack Axe](/item/19622), [Orc Lumberjack Axe](/item/19622), [Orc Lumberjack Machete](/item/19623), [Orc Lumberjack Machete](/item/19623)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Orc Lumberjack Axe](/item/19622), [Orc Lumberjack Axe](/item/19622), [Orc Lumberjack Machete](/item/19623), [Orc Lumberjack Machete](/item/19623)) then 
 
 
 >**Megosh Thistlethorn says:** Excellent work young Storm Reaper Soandso. Now take this Dull Storm Reaper Machete to a [forge] and sharpen it with a sharpening stone. It may take several attempts to get the blade to an adequate sharpness if you are unfamiliar with the process. Once it is sharpened give it to Bodbin Gimple with a ruined thorn drakeling scales and he will put the finishing touches on what will be a fine weapon!

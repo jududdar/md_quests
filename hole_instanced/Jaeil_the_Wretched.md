@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Shiny Tin Bowl](/item/17860)
+if( **You turn in:** [Shiny Tin Bowl](/item/17860)) then
 
 
 >*Jaeil the Wretched howls in anger, his body seeming to suck energy from the walls around him as he sees his reflection. He pulls a hammer from the bundle in his arms and swings fiercely at your head.*

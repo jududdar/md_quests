@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Note to Janam](/item/18015)
+if( **You turn in:** [Note to Janam](/item/18015)) then 
 
 
 >*Janam Rekish scribbles out a note and says, 'Please make sure that Harkin gets this right away. If you lose it, it could mean both of our heads.'*

@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Shining Metallic Robes](/item/1360)
+if( **You turn in:** [Shining Metallic Robes](/item/1360)) then
 
 
 >**Kejar the Mighty says:** You found it, I am so pleased! Here is your reward

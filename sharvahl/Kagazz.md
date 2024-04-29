@@ -30,20 +30,20 @@ end
 
 
 
-if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
+if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then 
 
 
 >**Kagazz says:** My wife is making some jewelry. Not the sparkly stuff, mind you. She is nearly blind so appearance means little to her. She is intent on making jewelry with a more, uhh, natural feel. Currently she's constructing a special scorpion leg necklace, and is in need of more scorpion legs. I can't leave the shop so I need your help. Fill this box with scorpion legs and I'll pay you with metal fasteners that any merchant will gladly buy.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Kagazz's Box](/item/17238)) 
 
-elseif **You turn in:** [Box of Scorpion Legs](/item/3676)
+elseif( **You turn in:** [Box of Scorpion Legs](/item/3676)) then 
 
 
 >**Kagazz says:** Ahh, Soandso! I thank you, my wife will be most grateful. Here are the fasteners I promised you. You know Soandso, there was a time that young, would-be smiths would seek my approval so that they could study the ways of the forge under my tutelage. That was back when I was Master Smith, before I named Barkhem my successor.
 
 
- **You receive:** None 
+ **You receive:**  [Forged Fasteners](/item/3667) (+10 exp)
 
 **This NPC *should* return incorrect items given.**

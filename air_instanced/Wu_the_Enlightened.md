@@ -33,7 +33,7 @@ end
 
 
 
-if **You turn in:** [Silken Wrap](/item/20800), [Spiroc Statuette](/item/20954), [Spiroc Talon](/item/20799)
+if( **You turn in:** [Silken Wrap](/item/20800), [Spiroc Statuette](/item/20954), [Spiroc Talon](/item/20799)) then 
 
 
 >**Wu the Enlightened says:** You have moved closer to enlightenment.
@@ -44,7 +44,7 @@ if **You turn in:** [Silken Wrap](/item/20800), [Spiroc Statuette](/item/20954),
 
 **Wu the Enlightened despawns.**
 
-elseif **You turn in:** [Brass Knuckles](/item/20803), [Ethereal Amethyst](/item/20801), [Nebulous Sapphire](/item/20802), [White Spiroc Feather](/item/20960)
+elseif( **You turn in:** [Brass Knuckles](/item/20803), [Ethereal Amethyst](/item/20801), [Nebulous Sapphire](/item/20802), [White Spiroc Feather](/item/20960)) then 
 
 
 >**Wu the Enlightened says:** You have moved closer to enlightenment.
@@ -55,7 +55,7 @@ elseif **You turn in:** [Brass Knuckles](/item/20803), [Ethereal Amethyst](/item
 
 **Wu the Enlightened despawns.**
 
-elseif **You turn in:** [Aged Nectar](/item/20967), [Writ of Quellious](/item/20804), [Tear of Quellious](/item/20805)
+elseif( **You turn in:** [Aged Nectar](/item/20967), [Writ of Quellious](/item/20804), [Tear of Quellious](/item/20805)) then 
 
 
 >**Wu the Enlightened says:** You have moved closer to enlightenment.

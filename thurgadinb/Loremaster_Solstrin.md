@@ -176,28 +176,28 @@ end
 
 
 
-if **You turn in:** [Royal Coldain Orders](/item/8896)
+if( **You turn in:** [Royal Coldain Orders](/item/8896)) then
 
 
 >**Loremaster Solstrin says:** So, the Dain needs your assistance with the Field Plate. The Dain must trust you a great deal to impart the wisdom of our armor creation to you. Here are the tomes. The first details how to make the basic armor, the other details how to begin [working with gemstones]. If the Dain is asking you for them you should place them in an [Issue Kit]. May Brell guide your hand friend, good luck to you.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Forge of Icewell Arms](/item/18611), [Forge of Icewell Arms](/item/18610)) 
 
-elseif **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)
-
-
->**Loremaster Solstrin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
-
-
- **You receive:** None 
-
-elseif **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)
+elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)) then 
 
 
 >**Loremaster Solstrin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Runed Coldain Prayer Shawl](/item/1199), [Empty Coldain Issue Kit](/item/17651)) 
+
+elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)) then 
+
+
+>**Loremaster Solstrin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
+
+
+ **You receive:** GiveAll( [Runed Coldain Prayer Shawl](/item/8895), [Empty Coldain Issue Kit](/item/17651)) 
 
 **This NPC *should* return incorrect items given.**

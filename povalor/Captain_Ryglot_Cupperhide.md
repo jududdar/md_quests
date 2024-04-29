@@ -98,7 +98,7 @@ local questState = tonumber(eq.get_qglobals(e.other).pov_orb_quest or 0);
 
 
 
-if (  **You turn in:** [A piece of the crystalline globe](/item/25796), [A piece of the crystalline globe](/item/25797), [A piece of the crystalline globe](/item/25798) 
+if (  **You turn in:** [A piece of the crystalline globe](/item/25796), [A piece of the crystalline globe](/item/25797), [A piece of the crystalline globe](/item/25798)  ) then 
 
 
 
@@ -115,7 +115,7 @@ if ( questState == 6 ) then
 
 
 
- **You receive:** None 
+ **You receive:**  [A Crystalline Globe](/item/25596) (+1 exp)
 
 
 else

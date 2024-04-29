@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Arantir's Ring](/item/14334)
+if( **You turn in:** [Arantir's Ring](/item/14334)) then 
 
 
 >**Challice says:** Oh yes? Arantir? What a fool he was! the man gave me everything, but for all his intelligence, he could never understand why I was truly with him. It was for his power; he could do anything. But when he mysteriously lost it, he became just another toy. I never loved him. Return this ring to him. He will understand that I have no desire to see him again.

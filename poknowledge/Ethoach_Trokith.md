@@ -29,7 +29,7 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Blizzard Gem](/item/9423), [Symbol of the Diaku](/item/26709), [Intermediate Stealth Manual](/item/28793)
+if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Blizzard Gem](/item/9423), [Symbol of the Diaku](/item/26709), [Intermediate Stealth Manual](/item/28793)) then
 
 
 >**Ethoach Trokith says:** Astounding! This certainly proves you are worth far more than you appear. Take this book, it can teach you many new things. Also know this, Tenada Jeried is available for further study, and only for advanced students such as yourself. Be sure to visit him and tell him you are interested in learning from him. Take care, Soandso.
@@ -38,6 +38,6 @@ if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Blizz
 
 
 
- **You receive:** None 
+ **You receive:**  [Advanced Stealth Manual](/item/28794) (+500000 exp)
 
 **This NPC *should* return incorrect items given.**

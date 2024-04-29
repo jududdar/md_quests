@@ -151,7 +151,7 @@ local text1 = "You will get nothing until I hold two bandit masks and the shackl
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full First Rite Pack](/item/12427)
+if **Faction** >= Amiable and  **You turn in:** [Full First Rite Pack](/item/12427)) then
 
 
 >**Master Raska says:** You have succeeded, young Soandso! You have proven yourself a skilled monk. You will now wear the shackle of clay. You will now be required to increase your intensity of training in hopes that you may soon be able to earn your [shackle of stone].
@@ -165,7 +165,7 @@ if **Faction** >= Amiable and  **You turn in:** [Full First Rite Pack](/item/124
 
  **You receive:**  [Shackle of Clay](/item/4191) (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Shackle of Dust](/item/4190), [Shackle of Clay](/item/4191), [Iksar Bandit Mask](/item/12428), [Iksar Bandit Mask](/item/12428)
+elseif **Faction** >= Amiable and  **You turn in:** [Shackle of Dust](/item/4190), [Shackle of Clay](/item/4191), [Iksar Bandit Mask](/item/12428), [Iksar Bandit Mask](/item/12428)) then
 
 
 >**Master Raska says:** You have done supremely, Soandso. You have earned your shackle of stone. Mistress Niska will now help you on your way to earning the shackle of rock. May the elements guide you to the next rung.
@@ -179,7 +179,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Shackle of Dust](/item/4190
 
  **You receive:**  [Shackle of Stone](/item/4192) (+10000 exp)
 
-elseif **You turn in:** [Faded White Tome](/item/18469), [A Mechanical Iksar Tail](/item/12822)
+elseif( **You turn in:** [Faded White Tome](/item/18469), [A Mechanical Iksar Tail](/item/12822)) then
 
 
 >*Master Raska smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -193,7 +193,7 @@ elseif **You turn in:** [Faded White Tome](/item/18469), [A Mechanical Iksar Tai
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **You turn in:** [Pure White Tome](/item/18470), [Sealed Journal](/item/22924)
+elseif( **You turn in:** [Pure White Tome](/item/18470), [Sealed Journal](/item/22924)) then
 
 
 >*Master Raska smiles at your dedication to Cazic Thule and hands you a small gem.*
@@ -207,7 +207,7 @@ elseif **You turn in:** [Pure White Tome](/item/18470), [Sealed Journal](/item/2
 
  **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
 
-elseif **You turn in:** [First Half of Torn Note](/item/18232), [Second Half of Torn Note](/item/18233)
+elseif( **You turn in:** [First Half of Torn Note](/item/18232), [Second Half of Torn Note](/item/18233)) then
 
 
 >**Master Raska says:** This is all that was ever found of Gandan Tailfist. I wish you luck in your quest. May you fare better than he did.

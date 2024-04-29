@@ -27,7 +27,7 @@ end
 
 
 
-if **You turn in:** [Vasty Deep Ale](/item/13126)
+if( **You turn in:** [Vasty Deep Ale](/item/13126)) then
 
 
 >**Shondo Billin says:** Gulp.. Gulp.. Aaahhh!!! That hits the spot. All I can tell you is that the heretic's name was E'lial B'rook. He mumbled something about a rendezvous and he would be floating down a river, smooth sailing back to something called Paineel. That's all I know.

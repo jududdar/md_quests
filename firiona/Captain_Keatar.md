@@ -49,7 +49,7 @@ end
 
 
 
-if **You turn in:** [Red Headband](/item/12922), [Red Headband](/item/12922), [Red Headband](/item/12922), [Red Headband](/item/12922)
+if( **You turn in:** [Red Headband](/item/12922), [Red Headband](/item/12922), [Red Headband](/item/12922), [Red Headband](/item/12922)) then
 
 
 >**Captain Keatar says:** You serve this outpost well. Here is a small reward. You should try to hunt down [goblin battlemasters]. I have very few resources to send into the plains to track them down. Perhaps you can help us.
@@ -72,7 +72,7 @@ if **You turn in:** [Red Headband](/item/12922), [Red Headband](/item/12922), [R
 
  **You receive:** 0 (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Goblin Bracer](/item/12923), [Goblin Bracer](/item/12923), [Goblin Bracer](/item/12923), [Goblin Bracer](/item/12923)
+elseif **Faction** >= Amiable and  **You turn in:** [Goblin Bracer](/item/12923), [Goblin Bracer](/item/12923), [Goblin Bracer](/item/12923), [Goblin Bracer](/item/12923)) then
 
 
 >**Captain Keatar says:** Good work! Please accept this piece of armor. It was crafted in Felwithe for the swiftly moving rangers of this outpost.

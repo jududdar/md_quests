@@ -22,12 +22,12 @@ local text = "No deal! You bring me the legion order and the froglok skipping st
 
 
 
-if **You turn in:** [Legion Order](/item/18243), [Skipping Stone](/item/12425)
+if( **You turn in:** [Legion Order](/item/18243), [Skipping Stone](/item/12425)) then 
 
 
 >**Trooper Inkin says:** So smooth. I shall be the skipping stone champion! Here. You may have my autograph.
 
 
- **You receive:** None 
+ **You receive:**  [Legion Order](/item/18244) (+500 exp)
 
 **This NPC *should* return incorrect items given.**

@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Full Muffin Crate](/item/1839)
+if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
 
 
 >**Innkeep Linen says:** Oh, these look delicious! No doubt they were made with fresh fruit grown locally; I can tell by the aroma. You have quite a talent! Thank you so much. Here is your payment. This should be enough to last me for a little while.
@@ -34,7 +34,7 @@ if **You turn in:** [Full Muffin Crate](/item/1839)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Bag of Bread Loaves](/item/1838)
+elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
 
 
 >**Innkeep Linen says:** Excellent, I see you made it back safely. Thank you so much, here is your payment as promised. Now I can get back to business as usual.

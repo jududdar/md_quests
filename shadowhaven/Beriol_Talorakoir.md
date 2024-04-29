@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Book of Ancient Scribings](/item/4770)
+if( **You turn in:** [Book of Ancient Scribings](/item/4770)) then
 
 
 >**Beriol Talorakoir says:** This is exactly the research book that I was in need of. I am very thankful for you getting these for me. Should you ever feel up to it again in the future Dersino always is getting new books in that could be very helpful in my studies. Again, I thank you and wish you the best of luck.

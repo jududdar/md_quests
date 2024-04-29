@@ -128,7 +128,7 @@ local text2 = "Quite impressive, Soandso. Keep up the good work and you will sur
 
 
 
-if **Faction** >= Amiable +125 and  **You turn in:** [Greater Lightstone](/item/10400), [Cutthroat Insignia Ring](/item/1903), [Legionnaire's Bracer](/item/2299), [Yellow Sash of Order](/item/10131)
+if **Faction** >= Amiable +125 and  **You turn in:** [Greater Lightstone](/item/10400), [Cutthroat Insignia Ring](/item/1903), [Legionnaire's Bracer](/item/2299), [Yellow Sash of Order](/item/10131)) then
 
 
 >**Reyia Beslin says:** You have proven yourself a mighty warrior. I am honored to present you, Soandso, with the orange Sash of Order.
@@ -147,7 +147,7 @@ if **Faction** >= Amiable +125 and  **You turn in:** [Greater Lightstone](/item/
 
 
 
-elseif **Faction** >= Amiable +175 and  **You turn in:** [Blackened Wand](/item/13237), [Blackened Sapphire](/item/13238), [Orange Sash of Order](/item/10132)
+elseif **Faction** >= Amiable +175 and  **You turn in:** [Blackened Wand](/item/13237), [Blackened Sapphire](/item/13238), [Orange Sash of Order](/item/10132)) then
 
 
 >**Reyia Beslin says:** Great job, Soandso ! Congratulations. With the destruction of these evil items, the wand of the Burning Dead will never bring harm to anyone on Norrath again. It is my honor to present to you, on behalf of Master Closk and the Ashen Order, the red sash. May Quellious be with you always.

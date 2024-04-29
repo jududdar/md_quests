@@ -55,7 +55,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/12109) 
+if **Faction** >= Amiable and ( **You turn in:** [Pouch of Pixie Dust](/item/12109) )) then 
 
 
 >**Ran Sunfire says:** We thank you for your deed. Here, then, is a small reward. Nothing more than long forgotten equipment, but it may be useful to a young ranger.
@@ -76,7 +76,7 @@ if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/1210
 * __Faction:__ [Crushbone Orcs](/faction/234) (-5)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Patchwork Pants](/item/2111), [Patchwork Boots](/item/2112), [Patchwork Tunic](/item/2104), [Patchwork Sleeves](/item/2108), [Patchwork Cloak](/item/2106), [Raw-hide Belt](/item/2143), [Raw-hide Boots](/item/2148), [Raw-hide Cloak](/item/2142), [Raw-hide Gloves](/item/2146), [Raw-hide Gorget](/item/2139), [Raw-hide Leggings](/item/2147), [Raw-hide Mask](/item/2138), [Raw-hide Shoulderpads](/item/2141), [Raw-hide Skullcap](/item/2137), [Raw-hide Sleeves](/item/2144), [Raw-hide Tunic](/item/2140), [Raw-hide Wristbands](/item/2145)) (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -142,7 +142,7 @@ local text3 = "Remember, for the scarab helm I require you give me two scarab ca
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Scarab Carapace](/item/13849), [Scarab Carapace](/item/13849), gold = 4
+if **Faction** >= Indifferent and  **You turn in:** [Scarab Carapace](/item/13849), [Scarab Carapace](/item/13849), gold = 4) then 
 
 
 >**Vacto Molunel says:** Excellent. Here is your helm. Wear it with pride! And be sure to occasionally wipe out the insulating mucus that tends to build up on its underside. It will make your hair fall out. One more thing, would you be interested in [scarab boots] to match your helm?
@@ -166,7 +166,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Scarab Carapace](/item/1384
 
  **You receive:**  [Small Scarab Helm](/item/2175) (+500 exp)
 
-if **Faction** >= Amiable and  **You turn in:** [Pristine Giant Scarab Carapace](/item/13133), gold = 22
+if **Faction** >= Amiable and  **You turn in:** [Pristine Giant Scarab Carapace](/item/13133), gold = 22) then 
 
 
 >**Vacto Molunel says:** If I do say so myself, this is one of the finest breastplates in all of Norrath. I am truly a master at my craft. You might want to wipe out some of the excess scarab goo before wearing it, though.
@@ -190,7 +190,7 @@ if **Faction** >= Amiable and  **You turn in:** [Pristine Giant Scarab Carapace]
 
  **You receive:**  [Small Scarab Breastplate](/item/2176) (+5000 exp)
 
-if **Faction** >= Amiable and  **You turn in:** [Cracked Giant Scarab Carapace](/item/13132), [Scarab Legs](/item/13848), [Scarab Legs](/item/13848), gold = 16
+if **Faction** >= Amiable and  **You turn in:** [Cracked Giant Scarab Carapace](/item/13132), [Scarab Legs](/item/13848), [Scarab Legs](/item/13848), gold = 16) then 
 
 
 >**Vacto Molunel says:** Very good! Let me see here. Thread the legs around like this and... There you go. Wear them with pride!

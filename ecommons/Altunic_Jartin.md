@@ -38,12 +38,12 @@ end
 
 
 
-if **You turn in:** [A note](/item/18896)
+if( **You turn in:** [A note](/item/18896)) then
 
 
 >**Altunic Jartin says:** You are the one they have sent? A squire?!! I hope you can help me. I gather items strewn upon the grounds of the Commonlands. I sell them at good prices. Lately, I have been terrorized by a human rogue named Narl. He will no doubt appear at my [house] soon. Bring his head to me.
 
-elseif **You turn in:** [A Human Head](/item/13867)
+elseif( **You turn in:** [A Human Head](/item/13867)) then
 
 
 >**Altunic Jartin says:** You have performed a great service to me, but I fear others will attack me while I stroll the countryside. It would be very noble of you to fetch me a cloth shirt for protection from wicked creatures. It is not much, but it will help.
@@ -66,7 +66,7 @@ elseif **You turn in:** [A Human Head](/item/13867)
 
  **You receive:** 0 (+500 exp)
 
-elseif **You turn in:** [Cloth Shirt](/item/1004)
+elseif( **You turn in:** [Cloth Shirt](/item/1004)) then
 
 
 >**Altunic Jartin says:** Thank you. You are very noble for a squire. I can see you becoming a very valuable asset to the Hall of Truth. Take this token. Tell Merko that you have [earned the Token of Generosity].

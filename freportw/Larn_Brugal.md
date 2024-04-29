@@ -56,7 +56,7 @@ end
 local text = "This is only one sword. I requested four altogether. You shall not get your payment until I get my fourth sword."
 
 
-if **Faction** >= Amiable and  **You turn in:** [Raw Short Sword 1](/item/12241), [Raw Short Sword 2](/item/12242), [Raw Short Sword 3](/item/12243), [Raw Short Sword 4](/item/12244)
+if **Faction** >= Amiable and  **You turn in:** [Raw Short Sword 1](/item/12241), [Raw Short Sword 2](/item/12242), [Raw Short Sword 3](/item/12243), [Raw Short Sword 4](/item/12244)) then 
 
 
 >**Larn Brugal says:** Good work, Soandso. The bunker shall be well stocked. Here you are, my friend. Take this raw blade. You can take it to Groflah - he will sharpen and polish it for you. It should be a formidable weapon.

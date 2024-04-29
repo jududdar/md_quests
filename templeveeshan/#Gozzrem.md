@@ -79,7 +79,7 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Poison Tear](/item/31266), [Poison Symbol](/item/31255), [Runed Symbol](/item/31252), [Serrated Symbol](/item/31254)
+if **Faction** >= Kindly and  **You turn in:** [Poison Tear](/item/31266), [Poison Symbol](/item/31255), [Runed Symbol](/item/31252), [Serrated Symbol](/item/31254)) then 
 
 
 FactionHits(e);
@@ -87,7 +87,7 @@ FactionHits(e);
 
  **You receive:**  [White Dragon Statue](/item/31466) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [Ruby Tear](/item/31270), [Ruby Symbol](/item/31259), [White Symbol](/item/31250)
+elseif **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [Ruby Tear](/item/31270), [Ruby Symbol](/item/31259), [White Symbol](/item/31250)) then 
 
 
 FactionHits(e);
@@ -95,7 +95,7 @@ FactionHits(e);
 
  **You receive:**  [Boots of Deep Thought](/item/31468) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Tear](/item/31267), [Runed Tear](/item/31263), [Black Symbol](/item/31251), [Glowing Drake Orb](/item/31260)
+elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Tear](/item/31267), [Runed Tear](/item/31263), [Black Symbol](/item/31251), [Glowing Drake Orb](/item/31260)) then 
 
 
 FactionHits(e);
@@ -103,7 +103,7 @@ FactionHits(e);
 
  **You receive:**  [Boots of Silent Striding](/item/31467) (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Silver Symbol](/item/31253), [Platinum Symbol](/item/31258), [Emerald Symbol](/item/31257), [Platinum Tear](/item/31269)
+elseif **Faction** >= Kindly and  **You turn in:** [Silver Symbol](/item/31253), [Platinum Symbol](/item/31258), [Emerald Symbol](/item/31257), [Platinum Tear](/item/31269)) then 
 
 
 FactionHits(e);

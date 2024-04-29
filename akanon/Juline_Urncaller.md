@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Registration Letter](/item/18773)
+if( **You turn in:** [Registration Letter](/item/18773)) then 
 
 
 >**Juline Urncaller says:** Welcome! I am Juline Urncaller, I will help to guide you on your path to becoming a powerful enchanter.

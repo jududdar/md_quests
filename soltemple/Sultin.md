@@ -86,7 +86,7 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Glowing Glamour Stone](/item/10087), [Golden Rod](/item/6337)
+if **Faction** >= Indifferent and  **You turn in:** [Glowing Glamour Stone](/item/10087), [Golden Rod](/item/6337)) then
 
 
 >**Sultin says:** Well done, adventurer. You have kept your part of the bargain, so I keep mine. Here is your rod.
@@ -103,7 +103,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Glowing Glamour Stone](/ite
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Pouch of Silver Dust](/item/12240), [Glowing Silver Wand](/item/6340)
+elseif **Faction** >= Indifferent and  **You turn in:** [Pouch of Silver Dust](/item/12240), [Glowing Silver Wand](/item/6340)) then
 
 
 >**Sultin says:** I see that you are resourceful... you have earned your incandescent wand.
@@ -120,7 +120,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Pouch of Silver Dust](/
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Gloves](/item/2353), [Enchanted Gloves](/item/2354), [Gleaming Gloves](/item/2355), [Radiant Gloves](/item/2356)
+elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Gloves](/item/2353), [Enchanted Gloves](/item/2354), [Gleaming Gloves](/item/2355), [Radiant Gloves](/item/2356)) then
 
 
 >**Sultin says:** Four pairs of gloves you have given me ? I will give you one pair in return. We shall see who had the better deal.
@@ -137,7 +137,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Gloves](/item/2
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), [Rune of Fortune](/item/10530), [Rune of Fortune](/item/10531), [Rune of Fortune](/item/10532)
+elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), [Rune of Fortune](/item/10530), [Rune of Fortune](/item/10531), [Rune of Fortune](/item/10532)) then
 
 
 >**Sultin says:** Fortune favors you .. as will this mask.

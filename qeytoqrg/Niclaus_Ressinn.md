@@ -35,7 +35,7 @@ end
 
 
 
-if **You turn in:** [Note to Niclaus](/item/18970)
+if( **You turn in:** [Note to Niclaus](/item/18970)) then
 
 
 >**Niclaus Ressinn says:** Oh, things are becoming dire here in Norrath. May Rodcet protect us! I have gathered most of the evidence I will need to present to Jahnda, but I could still use your assistance with one final piece. I need to recover a rib bone from of the undead beasts that wander these hills. Be sure the rib bone comes from one of the putrid skeletons. They are the spawn of Bertoxxulous.
@@ -43,7 +43,7 @@ if **You turn in:** [Note to Niclaus](/item/18970)
 
 eq.set_global("niclaus","1",1,"H12");
 
-elseif(eq.get_qglobals(e.self,e.other)["niclaus"] == "1" and  **You turn in:** [Putrid Rib Bone](/item/13722)
+elseif(eq.get_qglobals(e.self,e.other)["niclaus"] == "1" and  **You turn in:** [Putrid Rib Bone](/item/13722)) then
 
 
 >**Niclaus Ressinn says:** Excellent! Rodcet smiles upon us this day! Here, please take this pouch of evidence to Jahnda in the Temple of Life. She will know what we must do. I will remain here to keep an eye out for the minions of Bertoxxlous. Also, accept this small reward as a token of my appreciation of your efforts to rid Norrath of the influence of the Plaguebringer.
@@ -70,7 +70,7 @@ eq.delete_global("niclaus");
 * __Faction:__ [Antonius Bayle](/faction/219) (7)
 
 
- **You receive:** None 
+ **You receive:**  [Pouch of Evidence](/item/13724) (+4000 exp)
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

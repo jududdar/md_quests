@@ -127,7 +127,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+10000 exp)
 
 
 
@@ -163,7 +163,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+5000 exp)
 
 
 
@@ -199,7 +199,7 @@ repeat
 
 
 
- **You receive:** None 
+ **You receive:** 0 (+5000 exp)
 
 
 

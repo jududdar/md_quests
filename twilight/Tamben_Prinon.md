@@ -70,7 +70,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sun Jewel](/item/4488), [Mark of Feral Spirits](/item/5921), [Embedded Copper Figurine](/item/5927), [Frosted Stone](/item/5928)
+if( **You turn in:** [Sun Jewel](/item/4488), [Mark of Feral Spirits](/item/5921), [Embedded Copper Figurine](/item/5927), [Frosted Stone](/item/5928)) then
 
 
 FactionReward(e)
@@ -78,7 +78,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Cap](/item/3985) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Animal Spirits](/item/5929), [Silver Gilded Bracelet](/item/5922), [Embedded Mithril Figurine](/item/5923)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Animal Spirits](/item/5929), [Silver Gilded Bracelet](/item/5922), [Embedded Mithril Figurine](/item/5923)) then
 
 
 FactionReward(e)
@@ -86,7 +86,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Tunic](/item/3986) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Embedded Clay Figurine](/item/5925), [Mark of Wild Spirits](/item/5924), [Furrowed Carving](/item/5926)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Embedded Clay Figurine](/item/5925), [Mark of Wild Spirits](/item/5924), [Furrowed Carving](/item/5926)) then
 
 
 FactionReward(e)
@@ -94,7 +94,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Sleeves](/item/3987) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Natural Spirits](/item/5930), [Embedded Stone Figurine](/item/5931), [Blue Moonstone](/item/5932)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Natural Spirits](/item/5930), [Embedded Stone Figurine](/item/5931), [Blue Moonstone](/item/5932)) then
 
 
 FactionReward(e)
@@ -102,7 +102,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Leggings](/item/3988) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Wilderness](/item/5933), [Embedded Platinum Figurine](/item/5934)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Wilderness](/item/5933), [Embedded Platinum Figurine](/item/5934)) then
 
 
 FactionReward(e)
@@ -110,7 +110,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Mantle](/item/3989) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of Animal Training](/item/5935), [Embedded Brass Figurine](/item/5936)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Animal Training](/item/5935), [Embedded Brass Figurine](/item/5936)) then
 
 
 FactionReward(e)
@@ -118,7 +118,7 @@ FactionReward(e)
 
  **You receive:**  [Feral Bracer](/item/3990) (+25000 exp)
 
-elseif **You turn in:** [Astral Jewel](/item/4494), [Mark of Beast Mastery](/item/5937), [Embedded Gold Figurine](/item/5938)
+elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Beast Mastery](/item/5937), [Embedded Gold Figurine](/item/5938)) then
 
 
 FactionReward(e)

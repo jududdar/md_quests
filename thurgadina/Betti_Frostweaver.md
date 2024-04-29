@@ -37,12 +37,12 @@ end
 
 
 
-if **You turn in:** [Embroidered Coldain Prayer Shawl](/item/1198)
+if( **You turn in:** [Embroidered Coldain Prayer Shawl](/item/1198)) then
 
 
 >**Betti Frostweaver says:** Spectacular artistry! I doubt I could have done better myself. You'll have to forgive me, I know time is short and I tend to carry on. This is the pattern for the making of a rune sacred to our people. It will be our final test of your craftsmanship and will put many of your skills to the test, but I trust you'll find the finished product to be more than worth the effort. Show Gilthan the embroidered shawl, he will set you on the path. May Brell always be with you outlander.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Embroidered Coldain Prayer Shawl](/item/1198), [Runed Prayer Shawl pattern](/item/1849)) 
 
 **This NPC *should* return incorrect items given.**

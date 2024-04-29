@@ -77,7 +77,7 @@ end
 
 
 
-if **You turn in:** [Silver Bar](/item/16500)
+if( **You turn in:** [Silver Bar](/item/16500)) then
 
 
 >*Fixxin Followig thanks Soandso heartily. 'Here is the book as promised. I wish you luck with your enchanted weapons. May they slay many lycanthropes before they go dull.'*

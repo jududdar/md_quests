@@ -20,7 +20,7 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Soul Trap](/item/7114)
+if **Faction** >= Kindly and  **You turn in:** [Soul Trap](/item/7114)) then 
 
 
 >**Tormented Soul says:** Ahhh. Sweet release. Wait... What is this? No! Do not bind me to this filthy bit of leather! Release! Curse you and curse Azrax to damnation!

@@ -37,7 +37,7 @@ local text = "I require all four titan samples in order to pursue the research I
 
 
 
-if **You turn in:** [Gigantic Gorilla Fang](/item/6957), [Giant Sabertooth Fang](/item/6943), [Giant Leopard Fang](/item/6959), [Ancient Snake Rattle](/item/6948)
+if( **You turn in:** [Gigantic Gorilla Fang](/item/6957), [Giant Sabertooth Fang](/item/6943), [Giant Leopard Fang](/item/6959), [Ancient Snake Rattle](/item/6948)) then
 
 
 >**Sejako Mujan says:** Excellent!! These shall provide valuable information to my research on the spirit realm.

@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18757)
+if( **You turn in:** [A tattered note](/item/18757)) then 
 
 
 >**Nezzka Tolax says:** Hmmm, I hope you're tougher than you look. Here, put this on. Go find Ulraz, he'll beat you into shape. There's no turning back now, punk. So, you'd better do well, got it?

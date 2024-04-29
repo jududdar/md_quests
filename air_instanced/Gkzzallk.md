@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Tome of Instruction](/item/18087)
+if( **You turn in:** [Tome of Instruction](/item/18087)) then
 
 
 >*Gkzzallk screams as he touches the book. His body shimmers as he shrinks smaller and smaller until it's no larger than an insect. The book shimmers, shifting into the shape of a small, black box. Gkzzallk holds on to the opening of the box as he is sucked backward into it. The tiny screams are finally silenced as the box top closes.*

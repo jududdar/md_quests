@@ -78,7 +78,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18751)
+if( **You turn in:** [A tattered note](/item/18751)) then
 
 
 >**Seloxia Punox says:** I shall reserve any official welcoming until you have proven yourself a suitable member for the Indigo Brotherhood. That proof shall be obtained by your progression in your training. See Yegek B'Larin, one of my most trusted trainers in the Brotherhood and obey his command carefully if you wish to succeed as a member of the Brotherhood.
@@ -98,7 +98,7 @@ if **You turn in:** [A tattered note](/item/18751)
 
  **You receive:**  [Old Training Tunic*](/item/13580) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [a sealed letter](/item/18843)
+elseif **Faction** >= Amiable and  **You turn in:** [a sealed letter](/item/18843)) then   
 
 
 >**Seloxia Punox says:** Very fine work my young warrior. You may soon be ready to become a Teir'Dal courier. For now we shall reward you. This will assist you in further service to the Indigo Brotherhood and King Naythox Thex.

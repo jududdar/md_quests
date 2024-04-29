@@ -58,7 +58,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Frakadar's Talisman](/item/27260)
+if **Faction** >= Indifferent and  **You turn in:** [Frakadar's Talisman](/item/27260)) then
 
 
 >**Harla Dar says:** This...this is not what I had hoped for. My whelp is lost, but I take some comfort in knowing that you helped destroy his killer. Zlandicar has been a blight upon our race since the beginning. Here is your reward, as I promised. It will protect you in more ways than are obvious. Leave me now, it is time to mourn.

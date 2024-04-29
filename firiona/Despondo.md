@@ -53,7 +53,7 @@ end
 
 
 
-if **You turn in:** [Onyx](/item/10027)
+if( **You turn in:** [Onyx](/item/10027)) then
 
 
  **You receive:**  [an Ornate Bottle](/item/12962) 
@@ -63,7 +63,7 @@ if **You turn in:** [Onyx](/item/10027)
 
 
 
-if **You turn in:** [Star Rose Quartz](/item/10021)
+if( **You turn in:** [Star Rose Quartz](/item/10021)) then
 
 
  **You receive:**  [an Ornate Bottle](/item/12964) 
@@ -73,7 +73,7 @@ if **You turn in:** [Star Rose Quartz](/item/10021)
 
 
 
-if **You turn in:** [Peridot](/item/10028)
+if( **You turn in:** [Peridot](/item/10028)) then
 
 
 >**Despondo says:** This bottle is for Mardon. You may be able to identify his name upon it. 
@@ -83,7 +83,7 @@ if **You turn in:** [Peridot](/item/10028)
 
 
 
-if **You turn in:** [bottle of swirling smoke](/item/12967), [bottle of swirling smoke](/item/12966), [bottle of swirling smoke](/item/12965)
+if( **You turn in:** [bottle of swirling smoke](/item/12967), [bottle of swirling smoke](/item/12966), [bottle of swirling smoke](/item/12965)) then
 
 
 >*Despondo embraces the bottles as if they were babes. 'Rejoice my friends!! Your souls are safe. Soandso, you are a good wizard. You deserve to know the secret of concussion.'*

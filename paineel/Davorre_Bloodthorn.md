@@ -182,7 +182,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Veisha's Engagement Ring](/item/12997)
+if **Faction** >= Amiable and  **You turn in:** [Veisha's Engagement Ring](/item/12997)) then 
 
 
 >**Davorre Bloodthorn says:** Only a few years have passed and her heart has already forgotten me. No doubt she has found another to warm her bed. Go, find her new lover, and bring me nothing less than his head.
@@ -205,7 +205,7 @@ if **Faction** >= Amiable and  **You turn in:** [Veisha's Engagement Ring](/item
 
  **You receive:** 0 (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Phaeril Nightshire's Head](/item/12996)
+elseif **Faction** >= Amiable and  **You turn in:** [Phaeril Nightshire's Head](/item/12996)) then 
 
 
 >**Davorre Bloodthorn says:** Apparently her choice in suitors has drifted to the most pathetic of wretches ever to slither Odus. You have done well, child. I ask of you one last task before my message to Veisha is complete. Here, deliver this to her with my most sincere regards.
@@ -228,7 +228,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Phaeril Nightshire's Head](
 
  **You receive:**  [A Locked Chest](/item/12995) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Veisha Fathomwalker's Head](/item/12994)
+elseif **Faction** >= Amiable and  **You turn in:** [Veisha Fathomwalker's Head](/item/12994)) then 
 
 
 >**Davorre Bloodthorn says:** My revenge has been satisfied. Thank you, my child. You have proven yourself to be a most worthy asset to our cause. Here, I no longer have any use for this, my ties to the old life are now severed.

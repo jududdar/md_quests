@@ -95,7 +95,7 @@ else
 
 
 
-if **You turn in:** [A tattered note](/item/18724)
+if( **You turn in:** [A tattered note](/item/18724)) then 
 
 
 >**Gans Paust says:** Yes. welcome friend! Here is your guild tunic. You'll make a fine addition to the Deepwater Knights. Go see Dleria, she will get you started in your studies.
@@ -112,7 +112,7 @@ if **You turn in:** [A tattered note](/item/18724)
 
  **You receive:**  [Old Blue Tunic*](/item/13544) (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Yelesom's Reports](/item/1771)
+elseif **Faction** >= Amiable and  **You turn in:** [Yelesom's Reports](/item/1771)) then
 
 
 >**Gans Paust says:** Ahhh, thank you for your effort, Soandso. I'm glad he's doing ok despite the theft. I now award you the Sleeves of Midnight Sea. May they protect you until the time of our glorious redemption.

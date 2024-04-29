@@ -54,7 +54,7 @@ local moonstone = 0;
 
 
 
-if **You turn in:** [Case of Blackburrow Stout](/item/13131)
+if( **You turn in:** [Case of Blackburrow Stout](/item/13131)) then
 
 
 >**McNeal Jocub says:** Good work, pal. Here's a little dough to spend, just don't spend it at any other bar.
@@ -74,22 +74,22 @@ if **You turn in:** [Case of Blackburrow Stout](/item/13131)
 
  **You receive:** None 
 
-elseif **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070)
+elseif( **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070)) then
 
 
 moonstone = 4;
 
-elseif **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070)
+elseif( **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070)) then
 
 
 moonstone = 3;
 
-elseif **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070)
+elseif( **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070)) then
 
 
 moonstone = 2;
 
-elseif **You turn in:** [Moonstone](/item/10070)
+elseif( **You turn in:** [Moonstone](/item/10070)) then
 
 
 moonstone = 1;

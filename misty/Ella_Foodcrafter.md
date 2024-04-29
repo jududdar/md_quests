@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [Earth Stained Note](/item/18959)
+if( **You turn in:** [Earth Stained Note](/item/18959)) then
 
 
 >**Ella Foodcrafter says:** Hmmm. I've been waiting for someone to bring me this. I'm sorry such a young one as you has taken up this task. Maybe the sky god blesses ya though. Aye, ya have that look in your eye. Our task is to focus the blessings of the gods and cleanse the filth from the land. I have two tasks for ya.
@@ -65,7 +65,7 @@ if **You turn in:** [Earth Stained Note](/item/18959)
 
  **You receive:**  [Shiny Tin Bowl](/item/17860) 
 
-if **You turn in:** [Hardened Mixture](/item/20473), [Runecrested Bowl](/item/20460)
+if( **You turn in:** [Hardened Mixture](/item/20473), [Runecrested Bowl](/item/20460)) then
 
 
 >*Ella Foodcrafter smiles slowly as she works the mixture in the bowl and it starts to shine with power. 'This is... a piece of a lost magic item known as Nature's Gem. When restored to completeness I've heard its healing powers will be extraordinary. Take it now. I will take the bowl and hopefully do some good from my From here, you can go many ways but I can't guide your path step by step. The only advice I can give you is to look for ones such as yourself.'*
@@ -73,7 +73,7 @@ if **You turn in:** [Hardened Mixture](/item/20473), [Runecrested Bowl](/item/20
 
  **You receive:**  [Softly Glowing Stone](/item/20462) 
 
-if **You turn in:** [Warmly Glowing Stone](/item/20468)
+if( **You turn in:** [Warmly Glowing Stone](/item/20468)) then
 
 
 >*Ella Foodcrafter hands you a scimitar she usually wears at her side. 'Thank you, Soandso. With this we can hold back the corruption. We have learned something new though. Not only is this work the responsibility of the lord of hatred alone. For some reason we cannot know the lord of disease has decided it worthy of his time to work in conjunction with Innoruuk. The spirits of the three main continents, Faydwer Antonica and Kunark, have been corrupted. Look for the corrupted forces of the land and heal them. When you have found them all then take my scimitar and the spirits to Xanuusus.'*

@@ -79,23 +79,23 @@ end
 
 
 
-if **You turn in:** [Coldain Standard Issue Kit](/item/8886)
+if( **You turn in:** [Coldain Standard Issue Kit](/item/8886)) then 
 
 
 >**Dain Frostreaver IV says:** Excellent work Soandso. If I didn't know I would assume this was made by our most skilled artisans.  You must hurry, General Bragmur has formed camp in Iceclad. Take the kit to the General, he had to drudge forward without any armor. His [mission] must be a success if we hope to successfully defend Thurgadin against the Giants.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Approved Issue Kit](/item/8898), [Expedition Orders](/item/8897)) 
 
-elseif **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)
+elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199) or  **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)) then
 
 
 >**Dain Frostreaver IV says:** Ah Soandso. I was hoping to see you. We require your skilled hand. The Armory is overtaxed preparing armor for the war we are preparing to wage on the Kromzek. We need you to help by creating some Field Plate for a mission that is near to execution. Go see Loremaster Solstrin in the Hall of Ancestors, give him these orders. He holds the lore recorded on how to make the field plate. Return to me when you have completed a Standard Issue Kit.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Runed Coldain Prayer Shawl](/item/8895), [Royal Coldain Orders](/item/8896)) 
 
-elseif **You turn in:** [Dirk of the Dain](/item/1465)
+elseif( **You turn in:** [Dirk of the Dain](/item/1465)) then
 
 
 >**Dain Frostreaver IV says:** My good Soandso, you have served me well. You have flushed out all who sought to oppose me and my people. I am afraid I need to call upon you and your friends one final time. The dissention and treason ran deeper than I had anticipated. Our population has been cleansed, but we lost a full third of our army to the poisonous words of those rebels. In retaliation for your deeds, the Kromrif have made plans to attack us in this, our weakest hour. Can I count on your help outlander?
@@ -103,7 +103,7 @@ elseif **You turn in:** [Dirk of the Dain](/item/1465)
 
  **You receive:**  [Dirk of the Dain](/item/1465) 
 
-elseif **You turn in:** [King Tormax's Head](/item/30516)
+elseif( **You turn in:** [King Tormax's Head](/item/30516)) then
 
 
 if( **Faction is** >= Warmly) then 
@@ -133,7 +133,7 @@ if( **Faction is** >= Warmly) then
  **You receive:**  [Tri-Plated Golden Hackle Hammer](/item/30502) 
 
 
-elseif **You turn in:** [Ring of Dain Frostreaver IV](/item/30385)
+elseif( **You turn in:** [Ring of Dain Frostreaver IV](/item/30385)) then 
 
 
 if( **Faction is** >= Ally) then
@@ -144,15 +144,15 @@ if( **Faction is** >= Ally) then
 
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Protection of the Dain](/item/1747), [Ring of Dain Frostreaver IV](/item/30385)) 
 
 
-elseif **You turn in:** [Box of the Guilty](/item/1500), [Velium Coldain Insignia Ring](/item/30164)
+elseif( **You turn in:** [Box of the Guilty](/item/1500), [Velium Coldain Insignia Ring](/item/30164)) then
 
 
 >**Dain Frostreaver IV says:** The people of Thurgadin are in your debt, Soandso. Please accept the Coldain Hero's Ring as a token of our gratitude. The curse has been removed from the blade as well. I hope you find it useful against our common foes. When you are interested in assisting me further please show me the blade. Until that day, may Brell bless and protect you.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Dirk of the Dain](/item/1465), [Coldain Hero's Insignia Ring](/item/30369)) 
 
 **This NPC *should* return incorrect items given.**

@@ -50,7 +50,7 @@ end
 
 
 
-if **Faction** >= Amiable +250 and  **You turn in:** [Recuso File - Closed](/item/29893)
+if **Faction** >= Amiable +250 and  **You turn in:** [Recuso File - Closed](/item/29893)) then
 
 
 >**Corporal Donfeld says:** Outstanding work, Soandso - Marais' sacrifice will not be in vain. It seems the Recuso are not the potential allies we had hoped for, but once I get someone from the Magus Conlegium to open this book it should prove educational indeed. In a silent war, learning the secrets of your adversary is paramount. This belt honors one of our finest heroes, wear it proudly for the service you have done the Validus Custodus.

@@ -21,7 +21,7 @@ end
 local text = "I need at least two of the case keys and the gem case.";
 
 
-if **You turn in:** [A Tiny Key](/item/12351), [A Tiny Key](/item/12352), [Gem Case](/item/12350)
+if( **You turn in:** [A Tiny Key](/item/12351), [A Tiny Key](/item/12352), [Gem Case](/item/12350)) then
 
 
 >**Bubar says:** Mmmph!!.. *Pop!!* Ouch, my thumb!! Here you are. You had a gem inside.

@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [Note from Fabian](/item/13708)
+if( **You turn in:** [Note from Fabian](/item/13708)) then 
 
 
 >**Dionna says:** Ah, well, Fabian said to give you this. It really is a good piece. Good luck!

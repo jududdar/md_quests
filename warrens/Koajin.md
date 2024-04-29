@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Kejekan Tool Kit](/item/17062), [Mandala sketch](/item/2057), [Chronium Plate](/item/2059)
+if( **You turn in:** [Kejekan Tool Kit](/item/17062), [Mandala sketch](/item/2057), [Chronium Plate](/item/2059)) then 
 
 
 >*Koajin takes the tools, plate, and sketch wearily and begins carving the tsuba. It takes him many hours to finish it but the wait is worth it. The tsuba is beautifully crafted, matching the complicated sketch perfectly. Koajin says, 'There you go, Soandso. It's a wonderful piece. I have no idea what the diagram is for, but it was a pleasure to craft it. Now if I can get myself out of here.*

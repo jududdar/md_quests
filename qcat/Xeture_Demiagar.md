@@ -118,7 +118,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if **You turn in:** [A tattered note](/item/18716)
+if( **You turn in:** [A tattered note](/item/18716)) then 
 
 
 >**Xeture Demiagar says:** Hmmm. Another rat has found its way to my doorstep, huh? Well, we may have use for you. Go find Rihtur, maybe he has an errand for you.
@@ -141,7 +141,7 @@ if **You turn in:** [A tattered note](/item/18716)
 
  **You receive:**  [Ruined Training Tunic*](/item/13598) (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rolon Banari's Head](/item/20197)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Rolon Banari's Head](/item/20197)) then
 
 
 >**Xeture Demiagar says:** You have done well, Soandso. Take this Rusty Bloodsaber Mace to a forge and clean it up with a Sharpening Stone. It may take you several attempts to get all the rust off if you are not familiar with the process. Once that is done take the Refined Bloodsaber Mace to Torin Krentar with a Giant King Snake Skin and he will put the finishing touches on the weapon.

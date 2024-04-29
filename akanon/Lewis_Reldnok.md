@@ -116,7 +116,7 @@ end
 
 
 
-if **You turn in:** [Gnome Paladin Note](/item/18433)
+if( **You turn in:** [Gnome Paladin Note](/item/18433)) then 
 
 
 >**Lewis Reldnok says:** Welcome to the Abbey of Deep Musing, Soandso! Here is a tunic that you may wear to announce the beginning of your training as a Paladin of Brell Serilis! Be warned that the only dangers do not lie without Ak'Anon. There is an evil society that lurks in the deepest recesses and shadows of our magnificent city.
@@ -141,7 +141,7 @@ if **You turn in:** [Gnome Paladin Note](/item/18433)
  **You receive:**  [Worn Felt Tunic*](/item/13517) (+20 exp)
 
 
-elseif  **You turn in:** [Finished Sheet of Metal](/item/9100), [A Kobold Backbone](/item/9101), [A Preserved Rat Pelt](/item/9102), [Bottle of Clockwork Oil](/item/9103)
+elseif ( **You turn in:** [Finished Sheet of Metal](/item/9100), [A Kobold Backbone](/item/9101), [A Preserved Rat Pelt](/item/9102), [Bottle of Clockwork Oil](/item/9103)) then
 
 
 >**Lewis Reldnok says:** Here Soandso , I have crafted this for you! May it always strike true!

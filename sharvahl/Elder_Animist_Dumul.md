@@ -56,12 +56,12 @@ end
 
 
 
-if **You turn in:** [Collection of Spirit Lore](/item/9061)
+if( **You turn in:** [Collection of Spirit Lore](/item/9061)) then
 
 
 >**Elder Animist Dumul says:** Thank you, young courier. I will not need anything more from you at this time. We have a great deal of research to do and absolutely no time to complete said studies. Did the Historian tell you anything? Matters are bad enough without rumors floating about in the shadows. Speak up... did you hear anything about our situation?
 
-elseif **You turn in:** [Copper Medal of War](/item/4393)
+elseif( **You turn in:** [Copper Medal of War](/item/4393) or  **You turn in:** [Silver Lined Copper Medal of War](/item/4375) or  **You turn in:** [Gold Lined Copper Medal of War](/item/4378)) then
 
 
 >**Elder Animist Dumul says:** You have returned at a most opportune time, Soandso. If this medal is indicative of your abilities in combat, I may be able to find a slight amount of hope soon. We have learned answers for many of the questions that we had prior to your last visit. Please take this seal and this container. Place them somewhere safe, while I gather the information that we've accumulated so far. Let me know when you have the seal packed and are ready to be briefed. Should you ever lose it, just ask for another.
@@ -70,9 +70,9 @@ elseif **You turn in:** [Copper Medal of War](/item/4393)
 * __Faction:__ [Savage Spirit](/faction/5064) (900)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Official Seal of the Khati Sha](/item/9031), [Carved Wooden Chest](/item/17361)) 
 
-elseif **You turn in:** [Sealed Box of Totems](/item/9044)
+elseif( **You turn in:** [Sealed Box of Totems](/item/9044)) then
 
 
 >**Elder Animist Dumul says:** I have received word from several of our scouts indicating your impending arrival. We are all very pleased that you were able to release all of the spirits before any true harm could manifest itself. Your efforts have not only restored balance to the spirit realm, they seem to have also acted to hinder any other plans our antagonist may have had... for the time being.
@@ -83,7 +83,7 @@ elseif **You turn in:** [Sealed Box of Totems](/item/9044)
 
  **You receive:**  [Seal of Elder Dumul](/item/9045) 
 
-elseif **You turn in:** [Sack of Broken Glass](/item/9048)
+elseif( **You turn in:** [Sack of Broken Glass](/item/9048)) then
 
 
 >**Elder Animist Dumul says:** My fears were well founded, and I am glad that I have had people that are able to understand those fears. Please do not think that I have intentionally placed you in the path of harm, but I did have my suspicions about our adversary's strength. I am not surprised that he was able to deceive us in this manner. I thank the spirits that you were able to evade harm in your completion of this task.
@@ -94,7 +94,7 @@ elseif **You turn in:** [Sack of Broken Glass](/item/9048)
 
  **You receive:**  [Note for Historian Qua](/item/9049) 
 
-elseif **You turn in:** [Jagged Claw of Rending](/item/9055), [Jagged Claw of Rending](/item/9056)
+elseif( **You turn in:** [Jagged Claw of Rending](/item/9055), [Jagged Claw of Rending](/item/9056)) then
 
 
 >**Elder Animist Dumul says:** These claws are exquisite. I can see that a great deal of thought went into their design. Now it is your turn to demonstrate your proficiency in your chosen role. You have a great challenge ahead of you, for we have determined that only these claws will work to harm this dark animist, this corrupter of spirits. You will need the support of your people; but in the only the strength of your will can save us.
@@ -103,9 +103,9 @@ elseif **You turn in:** [Jagged Claw of Rending](/item/9055), [Jagged Claw of Re
 >**Elder Animist Dumul says:** Our scouts have tracked Draz Nurakk to an abandoned village in the Fungus Grove. We learned of his intent to track you down. I take it that he did not appreciate your willingness to assist us. He knows who you are, so it will be best for us to get him before he can conjure up any more surprises. Find Scout Halmia in the Grove and give her this seal. Then bring the evidence of his destruction to me when you are done. Place his head, the seal, and those claws in this box and return it to me.
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Jagged Claw of Rending](/item/9055), [Jagged Claw of Rending](/item/9056), [Khati Sha Seal of War](/item/9057), [Acrylia Gilded Box](/item/17362)) 
 
-elseif **You turn in:** [Sealed Gilded Wooden Chest](/item/9060)
+elseif( **You turn in:** [Sealed Gilded Wooden Chest](/item/9060)) then
 
 
 >*Elder Animist Dumul opens the container and looks at its contents and says, 'Soandso, you have saved the balance of the spirit realm. Your selflessness has made an impression that will last well beyond the effects of your recent deeds. The inhabitants of this realm are all in your debt. Your efforts to restore balance in the material realm have been worth more than we can reward you for.'*
@@ -114,6 +114,6 @@ elseif **You turn in:** [Sealed Gilded Wooden Chest](/item/9060)
 **Elder Animist Dumul shouts:** <span class="text-danger">Citizens of Shar Vahl, please take the time to acknowledge the efforts of a true champion and hero to our people. Soandso has worked valiantly with great personal risk, to restore balance to our realm. We, the Khati Sha of Shar Vahl, feel that only a spirit as strong as Soandso can be entrusted with the Claws of the Savage Spirit. Please take this time to give Soandso your thanks and respect.</span>
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Claw of the Savage Spirit](/item/8496), [Claw of the Savage Spirit](/item/8495)) 
 
 **This NPC *should* return incorrect items given.**

@@ -30,7 +30,7 @@ end
 
 
 
-if **You turn in:** [Note to King Raja](/item/18299)
+if( **You turn in:** [Note to King Raja](/item/18299)) then
 
 
 >**King Raja Kerrath says:** Your humility and willingness to serve shall not be wasted. There is much to be done, Soandso, and our people thank you in advance for your selfless service.

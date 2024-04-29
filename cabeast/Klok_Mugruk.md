@@ -43,7 +43,7 @@ end
 
 
 
-if **You turn in:** [Full Curskin Bag](/item/12655)
+if( **You turn in:** [Full Curskin Bag](/item/12655)) then
 
 
 >**Klok Mugruk says:** You are a good servant and a fine citizen. I have this piece of curscale armor available, but if it is not enough then perhaps I shall have another piece available if you were to [perform the small service] again.
@@ -57,7 +57,7 @@ if **You turn in:** [Full Curskin Bag](/item/12655)
 
  **You receive:** eq.ChooseRandom( [Curscale Skullcap](/item/4270), [Curscale Snout Mount](/item/4271), [Curscale Choker](/item/4272), [Curscale Tunic](/item/4273), [Curscale Shawl](/item/4274), [Curscale Cape](/item/4275), [Curscale Belt](/item/4276), [Curscale Sleeves](/item/4277), [Curscale Gloves](/item/4279), [Curscale Leggings](/item/4280), [Curscale Boots](/item/4281)) (+10000 exp)
 
-elseif **You turn in:** [Full Pouch of Leech Husks](/item/12685)
+elseif( **You turn in:** [Full Pouch of Leech Husks](/item/12685)) then 
 
 
 

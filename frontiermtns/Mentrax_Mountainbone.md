@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Giant Sized Monocle](/item/20678)
+if( **You turn in:** [Giant Sized Monocle](/item/20678)) then
 
 
 >**Mentrax Mountainbone says:** Eh, you actually found one! Thank you, Soandso. Here is a block of ore for you. Just don't let the other giants know.

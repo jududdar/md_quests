@@ -140,7 +140,7 @@ end
 
 
 
-if **You turn in:** [A Scrap of Parchment](/item/18821)
+if( **You turn in:** [A Scrap of Parchment](/item/18821)) then
 
 
 >**Guard Kwint says:** Hey. Thanks! Sorry about that 'he's my brother' bit but I am sure you had a good time at the Lion's Mane anyway. I sure didn't lie to you about the quality of the ale there.

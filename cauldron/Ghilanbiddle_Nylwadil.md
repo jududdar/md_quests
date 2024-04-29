@@ -49,7 +49,7 @@ end
 local text = "The deal was - an article of Klunga's and his blood along with my fee of 100 gold coins and you will have his resurrection."
 
 
-if **You turn in:** [Klunga's Bracelet](/item/12280), [Blood Stained Note](/item/18946),gold = 100
+if( **You turn in:** [Klunga's Bracelet](/item/12280), [Blood Stained Note](/item/18946),gold = 100) then
 
 
 >**Ghilanbiddle Nylwadil says:** Biggily boo, biggily borc.. Raise that stinky orc!! Bamm!! Okay!! It's done. Now all you have to do is find him in the spot where his soul left him and give him an orc shovel. Oh!! I didn't mention that? Oh, well. I'm sure you can find one.. somewhere. Now, get lost before I turn you into a toad!

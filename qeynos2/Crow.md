@@ -58,7 +58,7 @@ else
 
 
 
-if **You turn in:** [A Tattered Leather Pouch](/item/17600)
+if( **You turn in:** [A Tattered Leather Pouch](/item/17600)) then
 
 
 >**Crow says:** What are you? The Rat's new bag man? Peh, he is useless. That bum drinks any gold he gets. Here ya go, kid!
@@ -82,7 +82,7 @@ if **You turn in:** [A Tattered Leather Pouch](/item/17600)
 * __Faction:__ [Kane Bayle](/faction/273) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Crow's Special Brew](/item/13901) (+250 exp)
 
 
 

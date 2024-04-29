@@ -110,7 +110,7 @@ local text = "I await both the sceptre and your revenant skullcap.";
 
 
 
-if **You turn in:** [Guild Summons](/item/18207)
+if( **You turn in:** [Guild Summons](/item/18207)) then 
 
 
 
@@ -147,7 +147,7 @@ if **You turn in:** [Guild Summons](/item/18207)
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Sceptre of Emperor Vekin](/item/12874), [Revenant Skullcap](/item/4265)
+elseif **Faction** >= Amiable and  **You turn in:** [Sceptre of Emperor Vekin](/item/12874), [Revenant Skullcap](/item/4265)) then
 
 
 >*Harbinger Glosk presents to you a glowing skullcap. 'This is the treasured cap of the sorcerers of this tower. Let all gaze upon you in awe. You are what others aspire to be. I look forward to reading of your adventures, Sorceror Soandso.'*
@@ -172,7 +172,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Sceptre of Emperor Vekin](/
 
 
 
-elseif **You turn in:** [Illegible Note: Boots](/item/14794)
+elseif( **You turn in:** [Illegible Note: Boots](/item/14794)) then
 
 
 >*Harbinger Glosk hisses and says venomously, 'And I am disturbed yet again. I hope for your sake it is important.'*
@@ -183,7 +183,7 @@ elseif **You turn in:** [Illegible Note: Boots](/item/14794)
 
  **You receive:**  [Illegible Note: Boots](/item/14794) 
 
-elseif **You turn in:** [Illegible Note: Greaves](/item/14793)
+elseif( **You turn in:** [Illegible Note: Greaves](/item/14793)) then
 
 
 >*Harbinger Glosk snatches the note out of your hands, obviously irritated. After reading a few lines, he glances up at you, his brow furrowed, then looks down again to continue reading. When he's finished, he hands the note back to you and takes a deep breath, shuddering slightly. He then says, 'Xydoz. Take this to Xydoz. He will test you.'*

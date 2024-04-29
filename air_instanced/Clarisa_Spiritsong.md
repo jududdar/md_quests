@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Phosphoric Globe](/item/20947), [Shimmering Diamond](/item/20824), [Crude Wooden Flute](/item/20825)
+if( **You turn in:** [Phosphoric Globe](/item/20947), [Shimmering Diamond](/item/20824), [Crude Wooden Flute](/item/20825)) then 
 
 
 
@@ -48,7 +48,7 @@ if **You turn in:** [Phosphoric Globe](/item/20947), [Shimmering Diamond](/item/
 
 **Clarisa Spiritsong despawns.**
 
-elseif **You turn in:** [Platinum Disc](/item/20940), [Music Box](/item/20822), [Light Woolen Mantle](/item/20823)
+elseif( **You turn in:** [Platinum Disc](/item/20940), [Music Box](/item/20822), [Light Woolen Mantle](/item/20823)) then 
 
 
 >**Clarisa Spiritsong says:** You are truly a master of songs, Soandso.
@@ -59,7 +59,7 @@ elseif **You turn in:** [Platinum Disc](/item/20940), [Music Box](/item/20822), 
 
 **Clarisa Spiritsong despawns.**
 
-elseif **You turn in:** [Ochre Tessera](/item/20933), [Light Woolen Mask](/item/20821), [Songbird Statuette](/item/20820)
+elseif( **You turn in:** [Ochre Tessera](/item/20933), [Light Woolen Mask](/item/20821), [Songbird Statuette](/item/20820)) then 
 
 
 >**Clarisa Spiritsong says:** Take this mask. You have earned it.

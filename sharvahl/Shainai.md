@@ -42,7 +42,7 @@ end
 
 
 
-if **You turn in:** [Shainais Blanket](/item/4478)
+if( **You turn in:** [Shainais Blanket](/item/4478)) then
 
 
 >*Shainai settles comfortably in for restful afternoon nap, 'Thank you for walking me home, it was ever so nice of you.  Goodnight.'*

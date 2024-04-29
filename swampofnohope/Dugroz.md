@@ -32,7 +32,7 @@ end
 
 
 
-if **You turn in:** [Xalgozian Fang](/item/7236), [Jade Chokidai Prod](/item/7256)
+if( **You turn in:** [Xalgozian Fang](/item/7236), [Jade Chokidai Prod](/item/7256)) then
 
 
 e.self:Say("My thanks to you, Soandso. Take this key

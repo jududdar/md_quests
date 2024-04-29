@@ -72,7 +72,7 @@ end
 
 
 
-if **You turn in:** [Skin of Akheva Blood](/item/10799)
+if( **You turn in:** [Skin of Akheva Blood](/item/10799)) then 
 
 
 >**Renaldok Masric says:** Well done, for a mortal you have served us well

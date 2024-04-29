@@ -4,7 +4,7 @@
 
 
 
-if **You turn in:** [A tattered note](/item/18740)
+if( **You turn in:** [A tattered note](/item/18740)) then 
 
 
 e.self:Say(string.format("Welcome to the Academy of Arcane Sciences. I am Lorme Tredore, Master Magician. Here is our guild robe, wear it with pride and represent us well, young %s. Now, let's get to work.",e.other:GetName()));
@@ -24,7 +24,7 @@ e.self:Say(string.format("Welcome to the Academy of Arcane Sciences. I am Lorme 
 
  **You receive:**  [Used Violet Robe*](/item/13559) (+20 exp)
 
-elseif **You turn in:** [Fleshy Orb](/item/13951)
+elseif( **You turn in:** [Fleshy Orb](/item/13951)) then 
 
 
 >**Lorme Tredore says:** Ah. Thank you for bringing this to me! I will make very good use of it. Here take this small token of my appreciation in return. Guard Jenkins will no longer require it as he was killed on the training field yesterday. Tsk. tsk. tsk.

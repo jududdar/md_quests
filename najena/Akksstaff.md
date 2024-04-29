@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Torn Page of Mastery Fire](/item/28027), [Torn Page of Mastery Wind](/item/28028), [Torn Page of Mastery Earth](/item/28029), [Torn Page of Mastery Water](/item/28030)
+if( **You turn in:** [Torn Page of Mastery Fire](/item/28027), [Torn Page of Mastery Wind](/item/28028), [Torn Page of Mastery Earth](/item/28029), [Torn Page of Mastery Water](/item/28030)) then
 
 
 >**Akksstaff says:** Very well. Take these words back to that shriveled old gnome, Rykas, if you wish to complete this quest. Now leave me, Soandso, it sickens me to be this cordial for so long. And my pet needs exercise. Go!

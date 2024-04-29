@@ -39,7 +39,7 @@ local Tumpy_Tonic = 0;
 
 
 
-if **You turn in:** [A tattered flier](/item/18818)
+if( **You turn in:** [A tattered flier](/item/18818)) then
 
 
 >**Groflah Steadirt says:** This used to be hanging in Zimel's Blades. It is the price list. It is badly faded though. There was a fire in Zimel's Blades and I was on the scene just afterward. I did not see this hanging. I wonder who took it . . . Hmmmm.. oh, yes.. the markings on the list! It is a code! Here. I will fill it in. Read it. You probably do not even know who Ariska is.
@@ -47,22 +47,22 @@ if **You turn in:** [A tattered flier](/item/18818)
 
  **You receive:**  [A tattered flier](/item/18819) 
 
-elseif **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)
+elseif( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then
 
 
 Tumpy_Tonic = 4;
 
-elseif **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)
+elseif( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then
 
 
 Tumpy_Tonic = 3;
 
-elseif **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)
+elseif( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then
 
 
 Tumpy_Tonic = 2;
 
-elseif **You turn in:** [Tumpy Tonic](/item/12114)
+elseif( **You turn in:** [Tumpy Tonic](/item/12114)) then
 
 
 Tumpy_Tonic = 1;

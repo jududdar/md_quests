@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [The Long Walk](/item/18528)
+if( **You turn in:** [The Long Walk](/item/18528)) then 
 
 
 >**Strandar Pinemist says:** Welcome, Will Treewalker.
@@ -48,7 +48,7 @@ if **You turn in:** [The Long Walk](/item/18528)
 
 **Strandar Pinemist despawns.**
 
-elseif **You turn in:** [The Gift](/item/18529)
+elseif( **You turn in:** [The Gift](/item/18529)) then 
 
 
 >**Strandar Pinemist says:** Welcome, Fenalla Moonshadow.

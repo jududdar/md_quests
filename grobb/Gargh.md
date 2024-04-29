@@ -131,7 +131,7 @@ end
 
 
 
-if  **Faction** >= Amiable and  **You turn in:** [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)
+if  **Faction** >= Amiable and  **You turn in:** [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)) then
 
 
 >**Gargh says:** You done good. You begin to know fear by causing fear. You learning about da animals. You learn about da animals by fighting dem and tearing them apart. You ready to [learn about da animals]?
@@ -148,7 +148,7 @@ if  **Faction** >= Amiable and  **You turn in:** [Froglok Tadpole Flesh](/item/1
 
  **You receive:**  [Dark Ones Bracer](/item/7380) (+250 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Giant Rat Ear](/item/13050), [Giant Rat Pelt](/item/13054)
+elseif  **Faction** >= Amiable and  **You turn in:** [Giant Rat Ear](/item/13050), [Giant Rat Pelt](/item/13054)) then
 
 
 >**Gargh says:** So you know all about da rat now. Dat is good. Next step is important. You need to learn to [fight like da alligator].
@@ -165,7 +165,7 @@ elseif  **Faction** >= Amiable and  **You turn in:** [Giant Rat Ear](/item/13050
 
  **You receive:**  [Dark Ones Cap](/item/7381) (+400 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [An Alligator Tooth](/item/13725)
+elseif  **Faction** >= Amiable and  **You turn in:** [An Alligator Tooth](/item/13725)) then
 
 
 >**Gargh says:** Ok meez believe you. Here your reward. Meez think you just about ready for [next part of your training].
@@ -182,7 +182,7 @@ elseif  **Faction** >= Amiable and  **You turn in:** [An Alligator Tooth](/item/
 
  **You receive:**  [Dark Ones Leggings](/item/7382) (+600 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Froglok Blood](/item/22524)
+elseif  **Faction** >= Amiable and  **You turn in:** [Froglok Blood](/item/22524)) then
 
 
 >**Gargh says:** You did it! You cause lots of fear for them. Dat good. Even da spirits are starting to tremble. Soon you will be able to make dem do what you want. But there is [one more task] meez want you to do.
@@ -199,7 +199,7 @@ elseif  **Faction** >= Amiable and  **You turn in:** [Froglok Blood](/item/22524
 
  **You receive:**  [Dark Ones Claw](/item/7383) (+1000 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)
+elseif  **Faction** >= Amiable and  **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)) then
 
 
 >**Gargh says:** Meez impressed. Da spirits, they tremble in terror before you. Meez can't teach you no more. Go and dominate through fear. Fight like da alligator and tear your enemies apart.

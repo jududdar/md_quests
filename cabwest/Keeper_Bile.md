@@ -38,7 +38,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Brittle Iksar Skull](/item/12739), [Brittle Iksar Skull](/item/12739), [Large Scorpion Pincer](/item/12659), [Sabertooth Cub Canine](/item/12426)
+if **Faction** >= Amiable and  **You turn in:** [Brittle Iksar Skull](/item/12739), [Brittle Iksar Skull](/item/12739), [Large Scorpion Pincer](/item/12659), [Sabertooth Cub Canine](/item/12426)) then
 
 
 >*Keeper Bile tosses the items into a nearby box and reaches into a sack at his feet. He hands you your reward. 'This spell is going to need some major testing. I can always use more of the same components.'*

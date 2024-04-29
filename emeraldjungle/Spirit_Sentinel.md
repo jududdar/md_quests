@@ -140,7 +140,7 @@ end
 
 
 
-if **Faction** >= Amiable +200 and  **You turn in:** [Sparkling Gem](/item/1668)
+if **Faction** >= Amiable +200 and  **You turn in:** [Sparkling Gem](/item/1668)) then 
 
 
 >**Spirit Sentinel says:** Ahh, you live, shaman! I am glad the beasts of this jungle haven't torn your body asunder. Tell me, do you still walk the path? Are you willing to [continue what you have started]?
@@ -148,7 +148,7 @@ if **Faction** >= Amiable +200 and  **You turn in:** [Sparkling Gem](/item/1668)
 
 * __Faction:__ [Truespirit](/faction/404) (100)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Black Dire Pelt](/item/1672)
+elseif **Faction** >= Amiable +300 and  **You turn in:** [Black Dire Pelt](/item/1672)) then 
 
 
 >*Spirit Sentinel begins to weep softly as he sees the pelt, battered and bloody. After a few moments, he says, 'We can only hope his passing was quick and painless. The Dire was powerful and yet you overcame him. Always remember that when you became [Heyokah], it was the passing of a noble, yet misguided being that allowed you to do so. You should hold a special place in your heart for him and what he was in life. To help you remember him, we will fashion this pelt into a pair of boots and give them to you. With every step you take, you must think on the Dire, else his death be in vain forever.*
@@ -159,7 +159,7 @@ elseif **Faction** >= Amiable +300 and  **You turn in:** [Black Dire Pelt](/item
 
  **You receive:**  [Black Fur Boots](/item/1678) (+50000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Completed Report](/item/3599)
+elseif **Faction** >= Kindly and  **You turn in:** [Completed Report](/item/3599)) then 
 
 
 >*Spirit Sentinel Ahhh good, let us hope what you have found will point us in the right direction. Hmmm...this is interesting. It appears the disappearance of the first queen may have caused Rak'Ashiir's faith to decline. From there, the first King Rak laid down the groundwork for the city's eventual demise. We need to learn what happened to the queen. Perhaps bringing this knowledge to the King's now cursed form will lift the mantle. We've learned that the last lord of Torsis, Ghiosk, was a bit of a historian. Find him and see what you can learn about the queen. Take what you find to my brother here in the jungle beneath the murky waters of a pond.*

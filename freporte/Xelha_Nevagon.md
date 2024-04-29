@@ -71,7 +71,7 @@ local text1 = "Do not flame beetles have two eyes?!! This will do me no good. I 
 local text2 = "Oh wonderful!! A few strands of spiderling web. Aren't you quite the hunter... Despite your obviously great skills, you managed to only kill one spiderling?! Get your cowardly hide out there and get me a few more spiderling silks!.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099)
+if **Faction** >= Indifferent and  **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099)) then 
 
 
 >**Xelha Nevagon says:** Let's see here. One.. two.. three.. and.. four. Great!! Just enough for my needs. You are serving Xelha well. I give you Xelha's Sparkler. It is not much, but neither are you. You know what I really need is a cyclops eye. That would be worthy of a great reward.
@@ -91,7 +91,7 @@ if **Faction** >= Indifferent and  **You turn in:** [Spiderling Silk](/item/1309
 
  **You receive:**  [Xelha's Sparkler](/item/12247) (+2500 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307)
+elseif **Faction** >= Indifferent and  **You turn in:** [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307), [Fire Beetle Eye](/item/10307)) then 
 
 
 >**Xelha Nevagon says:** This is a good sight. I needed these to complete the current mixture. Bah!! I shall reward you for this small, very small, deed!! I pass on to you the knowledge of summoning. The more you serve, the more your faith in Innoruuk grows.
@@ -111,7 +111,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Fire Beetle Eye](/item/
 
  **You receive:** eq.ChooseRandom( [Spell: Cavorting Bones](/item/15338), [Spell: Reclaim Energy](/item/15331)) (+2500 exp)
 
-elseif **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)
+elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
 
 
 >**Xelha Nevagon says:** Excellent work! You are quite the little helper. Here you go, then. A little something for your little work. Your service to me has caused Innoruuk to look upon you favorably. Your faith in our group has grown. Continue the work.
@@ -136,7 +136,7 @@ elseif **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [B
 
 
 
-elseif **Faction** >= Kindly and  **You turn in:** [Cyclops Eye](/item/13927)
+elseif **Faction** >= Kindly and  **You turn in:** [Cyclops Eye](/item/13927)) then 
 
 
 >**Xelha Nevagon says:** A cyclops eye!! You are stronger than I believed. You will rise in the ranks of the Dismal Rage quickly with acts such as this!! I am most appreciative! Here, take this. It was lying around my shelves, just gettingg all dusty. I hope you can use it. And watch yourself in your journeys, the aura of your faith in Innoruuk surrounds you like a shroud. Our enemies will surely see you for what you are.

@@ -67,7 +67,7 @@ end
 
 
 
-if **You turn in:** platinum = 500
+if( **You turn in:** platinum = 500) then
 
 
 >**Dirkog Steelhand says:** Thank ye, laddie! He's awaitin' ya up top!
@@ -78,7 +78,7 @@ if **You turn in:** platinum = 500
 
 **Dirkog Steelhand despawns.**
 
-if **You turn in:** [Diaphanous Globe](/item/20943), [Ivory Sky Diamond](/item/20869), [Silvery Girdle](/item/20868)
+if( **You turn in:** [Diaphanous Globe](/item/20943), [Ivory Sky Diamond](/item/20869), [Silvery Girdle](/item/20868)) then 
 
 
  **You receive:**  [Girdle of Faith](/item/2716) (+100000 exp)

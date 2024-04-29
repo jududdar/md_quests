@@ -71,7 +71,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Snapped Pole](/item/13922)
+if **Faction** >= Amiable and  **You turn in:** [Snapped Pole](/item/13922)) then 
 
 
 >**Dleria Mausrel says:** Good work, young priest. Soon you shall carry the word of the Ocean Lord to distant lands. For now, continue your training. As for your reward, I have this which has been sitting in our vault. I hope it can be of use to a young priest such as yourself.
@@ -91,7 +91,7 @@ if **Faction** >= Amiable and  **You turn in:** [Snapped Pole](/item/13922)
 
  **You receive:** eq.ChooseRandom( [Raw-hide Sleeves](/item/2144), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Backpack](/item/17005)) (+4000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bag of Zombie Flesh](/item/13880)
+elseif **Faction** >= Amiable and  **You turn in:** [Bag of Zombie Flesh](/item/13880)) then 
 
 
 >**Dleria Mausrel says:** Peeuww!! That most certainly is zombie flesh!! Here is your reward. You have done a fine service in the name of Prexus. Soon you shall advance and we may tell you of greater dangers lurking in the depths.

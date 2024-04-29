@@ -23,7 +23,7 @@ end
 
 
 
-if **You turn in:** [a spy report](/item/29065)
+if( **You turn in:** [a spy report](/item/29065)) then
 
 
 >**Sentry Kale says:** You have done us a great service, Soandso . I cannot believe a mere child of Zek could infiltrate our society, this whole encounter has been very frightening. Soon a time will come when we can no longer cut ourselves off from the rest of the world. Soon we will be forced to fight every day of our lives to defend our heritage and way of life. Hopefully we shall have allies such as yourself when that time comes. I would like you to have this small token of our gratitude. A venerable wurm allowed us to grace this piece of armor with his teeth when he passed on, wear it well.
@@ -41,6 +41,6 @@ if **You turn in:** [a spy report](/item/29065)
 
 
 
- **You receive:** None 
+ **You receive:**  [Dragon Tooth Choker](/item/29050) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

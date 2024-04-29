@@ -103,7 +103,7 @@ miller = eq.get_entity_list():GetMobByNpcTypeID( [\#Miller](/npc/160376));
 
 
 
-if **You turn in:** [Phenics Water](/item/29898)
+if( **You turn in:** [Phenics Water](/item/29898)) then
 
 
 >**Arbogast says:** He simply gave this to you?  Cunning indeed for him to cover his weakness so thoroughly- he must have powerful protective enchantments in place, no doubt put in place by his good friend and associate, Tsaph Katta!
@@ -114,7 +114,7 @@ if **You turn in:** [Phenics Water](/item/29898)
 
  **You receive:**  [Silver Wrapping Paper](/item/17516) (+100000 exp)
 
-elseif **You turn in:** [A Silver Wrapped Book](/item/29692)
+elseif( **You turn in:** [A Silver Wrapped Book](/item/29692)) then
 
 
 >**Arbogast says:** Ahh, you have retrieved the memoirs, let me see.' Arbogast opens the book and starts flipping through pages, 'Yes here, you... no, wait it must be back... hrmmm, maybe he... but it must... Well, that was pretty clever of old Tsaph Katta, removing any record of who he truly is- probably did it to cover up the fact that Norrath does not really exist.
@@ -125,7 +125,7 @@ elseif **You turn in:** [A Silver Wrapped Book](/item/29692)
 
  **You receive:**  [Gold Wrapping Paper](/item/17517) (+100000 exp)
 
-elseif **You turn in:** [A Gold Wrapped Book](/item/29694)
+elseif( **You turn in:** [A Gold Wrapped Book](/item/29694)) then
 
 
 >**Arbogast says:** Ahhh, excellent... I am glad to see your interest piqued. It is the truth that will liberate the masses when the masses fail to liberate the truth. To continue to divine and demystify the truth from the mistruth, I employ a powerful component known to the Akheva as 'Akuel xi ans Vius' which translated means 'Thing that tells Truth.
@@ -148,7 +148,7 @@ eq.get_entity_list():GetMobByNpcTypeID( [Yavik Teralin](/npc/160226)):Say("It tr
 >**Arbogast says:** Oh, the foolish and naive, they are the salt of the land... anyhow, bring me two of these wrapped in the black paper you have and I shall reward you, my new ally of truth, with a cherished robe that was given us by Seru himself. Isn't that right Miller? Miller...
 
 
-elseif **You turn in:** [A Black Wrapped Item](/item/29695)
+elseif( **You turn in:** [A Black Wrapped Item](/item/29695)) then 
 
 
 >**Arbogast says:** Oh, would you look at that?

@@ -38,7 +38,7 @@ end
 
 
 
-if **You turn in:** [Skin of the Garou](/item/30055), [Bloody Cougar Bone](/item/30032)
+if( **You turn in:** [Skin of the Garou](/item/30055), [Bloody Cougar Bone](/item/30032)) then
 
 
 >*Balix Misteyes pulls its lips back as it scratches and cuts the skin, working it around the bloody puma bone. 'Good for hitting or for talisman. Powerful thing to hold. All Snowfang thank you. Now, all of us are safer.' *

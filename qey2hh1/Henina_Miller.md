@@ -57,7 +57,7 @@ end
 
 
 
-if **You turn in:** [Sack of Hay](/item/13990)
+if( **You turn in:** [Sack of Hay](/item/13990)) then 
 
 
 >**Henina Miller says:** Thank you so much. Tiny gets quite tired doing this by himself. Here you go.
@@ -75,7 +75,7 @@ if **You turn in:** [Sack of Hay](/item/13990)
 * __Faction:__ [Knights of Thunder](/faction/280) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+100 exp)
 
 **This NPC *should* return incorrect items given.**
 

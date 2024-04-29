@@ -34,7 +34,7 @@ end
 
 
 
-if( **Faction is** > Kindly and  **You turn in:** [Picturebook](/item/11275)
+if( **Faction is** > Kindly and  **You turn in:** [Picturebook](/item/11275)) then
 
 
 >*an old froglok flips and says, 'Frroooaaaaaakkkk! I'm in this book! You see me! Owww that flip hurt my old bones! Frroooaaaaaakkkk! Look there is a picture of my maaask from long ago! Frroooaaaaaakkkk! I keep book!  You taaake this recipe!  Maaaybe more!  I'm in book! Frroooaaaaaakkkk!'*
@@ -45,7 +45,7 @@ if( **Faction is** > Kindly and  **You turn in:** [Picturebook](/item/11275)
 
  **You receive:**  [Elf Essence Recipe](/item/18499) (+500 exp)
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Elf Essence](/item/11274), [Reet Froglok Crown](/item/11276), [Vial of Purified Mana](/item/10254), [Velium Mastodon Fur Cloak](/item/26999)
+elseif( **Faction is** > Kindly and  **You turn in:** [Elf Essence](/item/11274), [Reet Froglok Crown](/item/11276), [Vial of Purified Mana](/item/10254), [Velium Mastodon Fur Cloak](/item/26999)) then
 
 
 >**an old froglok says:** Frroooaaaaaakkkk!!! This cloaaak so waaarm! Here let me work! Frroooaaaaaakkkk!' The old froglok goes to work on the crown and after uttering a few froaks, a small cloud of smoke rises from the crown. You reach over and pick it up. 'Frroooaaaaaakkkk! Maaagic haaat! Taaake good care of it aaand staay away from baaad frogs! Frroooaaaaaakkkk!

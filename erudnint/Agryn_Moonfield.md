@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [Peacekeeper Token](/item/13989)
+if( **You turn in:** [Peacekeeper Token](/item/13989)) then
 
 
 >**Agryn Moonfield says:** Ah!! A Peacekeeper. I have some Vasty Deep water sitting out already. Here you are. Do not let it fall into the wrong hands.

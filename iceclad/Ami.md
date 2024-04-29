@@ -39,7 +39,7 @@ end
 
 
 
-if **You turn in:** [Chapter P](/item/30042)
+if( **You turn in:** [Chapter P](/item/30042)) then
 
 
 >*Ami bounces excitedly. 'Oh! I've been needing this!' She reads over the pages intently. 'Uh. Pirate - A sea robber.' She scratches her head. 'I totally forgot we were supposed to be robbing people. Put down yer weapons and hand over yer platinum and gold ya port side bilge suckers! Heh. This is great. Thank you, Soandso' She grins and goes back to reading.*

@@ -83,7 +83,7 @@ local text = "Aren't you forgetting something? I instructed you to return with G
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12156), [Rusty Axe](/item/5014)
+if **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12156), [Rusty Axe](/item/5014)) then
 
 
 >**Hogunk Ventille says:** I shall display this in the guard hall. Let it be a warning to all those who dare to run from battle. As for you, that was splendid work, but next time, remember to wrap decapitated heads in something drip-proof. Those stains will never come out! Oh yes, and here is your reward.
@@ -104,6 +104,6 @@ if **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12156), [Rust
 * __Faction:__ [Craknek Warriors](/faction/232) (-3)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bronze Long Sword](/item/5027), [Bronze Scimitar](/item/5034), [Bronze Mace](/item/6019), [Bronze Morning Star](/item/6024), [Bronze Rapier](/item/7013), [Cracked Staff](/item/6018), [Tarnished Two Handed Sword](/item/5070), [Tarnished Two Handed Battle Axe](/item/5071), [Fine Steel Morning Star](/item/6351)) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

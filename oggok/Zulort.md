@@ -77,7 +77,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)) then
 
 
 >**Zulort says:** Oh, me.. um.. Warlord BERRY happy. Berry like dese. Gimme. Uh, why is you still here? Take dis and gets more kills. You learning good, come sees me. I teaches you bout stuff. Make you [bedder shaman]. Go. He and me watching.
@@ -88,7 +88,7 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Froglok Tadpole Flesh](
 
  **You receive:**  [Spell: Burst of Flame](/item/15093) (+1000 exp)
 
-elseif **Faction** >= Indifferent +50 and  **You turn in:** [Allize Volew Medicine Bag](/item/14199), [Mystic Doll](/item/13367), [Mystic Doll](/item/13367), [Mystic Doll](/item/13367)
+elseif **Faction** >= Indifferent +50 and  **You turn in:** [Allize Volew Medicine Bag](/item/14199), [Mystic Doll](/item/13367), [Mystic Doll](/item/13367), [Mystic Doll](/item/13367)) then
 
 
 >**Zulort says:** Dis good stuff! Me and Warlord happy! Wear dis symbol and he make yoo strong with majik!
@@ -99,7 +99,7 @@ elseif **Faction** >= Indifferent +50 and  **You turn in:** [Allize Volew Medici
 
  **You receive:**  [Initiate Symbol of Rallos Zek](/item/1444) (+1000 exp)
 
-elseif **You turn in:** [A tattered note](/item/18788)
+elseif( **You turn in:** [A tattered note](/item/18788)) then 
 
 
 >**Zulort says:** Take, take.. You now Shaman of War.. Zulort make you majik, too.

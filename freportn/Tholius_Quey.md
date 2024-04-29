@@ -25,7 +25,7 @@ end
 
 
 
-if **You turn in:** [A tattered note](/item/18736)
+if( **You turn in:** [A tattered note](/item/18736)) then
 
 
 >**Tholius Quey says:** Welcome to the Priests of Marr. Here, you will be taught how powerful passion truly is. The passion of Erollisi Marr, the Queen of Love, shall flow through you and into all those you meet. Wear this tunic in the name of Love.

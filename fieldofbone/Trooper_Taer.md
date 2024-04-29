@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Legion Order](/item/18249)
+if( **You turn in:** [Legion Order](/item/18249)) then 
 
 
 >**Trooper Taer says:** Ha ha! Look at all the names. Ozlot and Frogzin. What lushes. Here you are. I can't imagine there being any others to sign. This is the entire Cabilis brew brigade. Alas... Disbanded forever.

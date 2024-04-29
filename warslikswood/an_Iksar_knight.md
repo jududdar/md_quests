@@ -38,7 +38,7 @@ local text = "spits flarefire seeds on your chest. 'Is this all? Listen up!! I a
 
 
 
-if **You turn in:** [Misscribed Lifetap](/item/12492), [Misscribed Gate](/item/12493), [Scroll in a Bottle](/item/12494), [Shovel](/item/6026)
+if( **You turn in:** [Misscribed Lifetap](/item/12492), [Misscribed Gate](/item/12493), [Scroll in a Bottle](/item/12494), [Shovel](/item/6026)) then 
 
 
 >*an Iksar knight accidently swallows a mouthful of flarefire seeds. 'ACCCKK!!  I can't believe you did it!! Here is the Chalp diagram.'*

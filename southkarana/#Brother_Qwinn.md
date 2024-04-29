@@ -59,7 +59,7 @@ end
 local text = "We had an agreement. The proof of a skilled monk, the purple headband, and the Code of the Whistling Fist.";
 
 
-if **You turn in:** [Code of Zan Fi](/item/12316), [Purple Headband](/item/10114)
+if( **You turn in:** [Code of Zan Fi](/item/12316), [Purple Headband](/item/10114)) then 
 
 
 >**Brother Qwinn says:** We thank you for the return of the Code of the Whistling Fist. Take this sewing needle. You shall find it useful should you aid [Brother Zephyl] in his quest. His item, the needle, a swatch of shadow silk and a scroll containing Jonathan's Whistling Warsong. Into a sewing kit they will be going. And into the brotherhood will you. I hope you do not wish me to [return the headband]..
@@ -67,12 +67,12 @@ if **You turn in:** [Code of Zan Fi](/item/12316), [Purple Headband](/item/10114
 
  **You receive:**  [Needle of the Void](/item/12314) (+2000 exp)
 
-elseif **You turn in:** [Needle of the Void](/item/12314)
+elseif( **You turn in:** [Needle of the Void](/item/12314)) then 
 
 
  **You receive:**  [Purple Headband](/item/10114) 
 
-elseif **You turn in:** [Robe of the Lost Circle](/item/12256)
+elseif( **You turn in:** [Robe of the Lost Circle](/item/12256)) then 
 
 
  **You receive:**  [Purple Headband](/item/10114) 

@@ -12,7 +12,7 @@ end
 
 
 
-if **You turn in:** [Klok's Seal](/item/1096)
+if( **You turn in:** [Klok's Seal](/item/1096)) then 
 
 
 

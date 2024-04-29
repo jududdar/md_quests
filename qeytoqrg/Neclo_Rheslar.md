@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [Note to Neclo](/item/18823)
+if( **You turn in:** [Note to Neclo](/item/18823)) then 
 
 
 >**Neclo Rheslar says:** Ah.. Hello friend.. So, I see Daenor sent you.. Uh huh, ok.. Here's something that will be very useful for you. Practice this well, friend.. It will help protect you in this harsh world.

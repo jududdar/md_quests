@@ -59,7 +59,7 @@ local text = "Grimror not thupeed! Dis not four!";
 
 
 
-if **You turn in:** [Sengian Larvae Flesh](/item/9290), [Generian Larvae Flesh](/item/9291), [Scaevian Larvae Flesh](/item/9292), [Harrion Larvae Flesh](/item/9293)
+if( **You turn in:** [Sengian Larvae Flesh](/item/9290), [Generian Larvae Flesh](/item/9291), [Scaevian Larvae Flesh](/item/9292), [Harrion Larvae Flesh](/item/9293)) then
 
 
 >**Grimror Plaguebringer says:** Yuuz dun guud! But Grimror keent geeve you anyting, but Grimror have dis. Grimror also have seekret information. Krypt of Deekay in in here. Dunt tink yuuz wanna go in dere. Dere be mean old rotten keengs in dere, yuuz dunt want ta mess wif dem, dere also be udder sortz uf baddies in dere, be carefuul if yuuz goin dat way. I hurd stories dat Bertoshulus es in dere too, Grimror even saw him in here one time. In dis place yuuz only gots ta worry about Grummus, him fatter dan Grimror, got theek skin too. Him have key ta get inna de Krypt,but Grimror knew da seekret way een. Dat bracer keen make da portil into de Krypt tink dat yuuz belongz dere. Guud barshin!
@@ -76,7 +76,7 @@ if **You turn in:** [Sengian Larvae Flesh](/item/9290), [Generian Larvae Flesh](
 
 
 
- **You receive:** None 
+ **You receive:**  [Bangle of Disease Warding](/item/9294) (+1 exp)
 
 
 

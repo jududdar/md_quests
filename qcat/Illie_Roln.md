@@ -104,7 +104,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Note to Illie Roln](/item/20205)
+if(expansion_flag >= 4.0 and  **You turn in:** [Note to Illie Roln](/item/20205)) then
 
 
 >**Illie Roln says:** Ah, so you are in need of a suit of armor fitting a young scourge warrior of the Bloodsabers. I will assist you. You will use this Mail Assembly Kit to construct the pieces of armor. Each piece will require different materials for its proper construction. Do you seek to assemble [Gauntlets of the Scourge Warrior], [Boots of the Scourge Warrior], a [Bracer of the Scourge Warrior], a [Helm of the Scourge Warrior], [Greaves of the Scourge Warrior], [Vambraces of the Scourge Warrior], or a [Breastplate of the Scourge Warrior]?
@@ -112,7 +112,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Note to Illie Roln](/item/20205)
 
  **You receive:**  [Mail Assembly Kit](/item/17124) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Scourge Warrior Broadsword](/item/20177), [Giant King Snake Skin](/item/19946)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Scourge Warrior Broadsword](/item/20177), [Giant King Snake Skin](/item/19946)) then
 
 
 >**Illie Roln says:** Excellent work. Use this sword to further our mission.

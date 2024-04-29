@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Frozen Elixir](/item/30138)
+if( **You turn in:** [Frozen Elixir](/item/30138)) then
 
 
 >**Tain Hammerfrost says:** I will report your selfless actions when I return to Thurgadin. Take this for your troubles, friend. I hope you find it useful. Fare thee well.

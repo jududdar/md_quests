@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Dirty Green Tunic*](/item/13536), gold = 2
+if( **You turn in:** [Dirty Green Tunic*](/item/13536), gold = 2) then 
 
 
 >**Jyle Windshot says:** Thanks, friend. I have run a long way to get here in time. Mostly at night. I lost my lantern in a card game in Highkeep.

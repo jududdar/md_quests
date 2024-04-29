@@ -20,7 +20,7 @@ end
 
 
 
-if (  **You turn in:** [Soldier's Chest](/item/4397)
+if (  **You turn in:** [Soldier's Chest](/item/4397) ) then 
 
 
 >**Captain Necin says:** Take this map and study it carefully. The mission we are preparing to embark upon will make your previous raids seem like child's play. Many friendly forces will need to help us to achieve our objectives, two dozen soldiers as powerful as me to be exact. When you have selected and briefed the troops that will carry out the offensive, give me the map and I will lead the assault.
@@ -31,7 +31,7 @@ if (  **You turn in:** [Soldier's Chest](/item/4397)
 
 
 
-elseif (  **You turn in:** [Map of Grimling Forest](/item/4398)
+elseif (  **You turn in:** [Map of Grimling Forest](/item/4398) ) then 
 
 
 >**Captain Necin says:** Form up and follow me, I have an officer meeting us just outside the outpost. I'll finish briefing you all there.

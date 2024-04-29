@@ -13,7 +13,7 @@ end
 
 
 
-if **You turn in:** [A Metal Key](/item/12849)
+if( **You turn in:** [A Metal Key](/item/12849)) then
 
 
 >**Tin Banker I says:** *Whirrrr*

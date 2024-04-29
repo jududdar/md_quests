@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [A Gem Encrusted Casket](/item/6708)
+if( **You turn in:** [A Gem Encrusted Casket](/item/6708)) then
 
 
 >*Simon Aldicott places the coffin in the water and begins to pray. 'Lord of Valor high above, take this knight, your loyal child, into thy kingdom and all that is holy! What is that thing!'*
@@ -29,7 +29,7 @@ if **You turn in:** [A Gem Encrusted Casket](/item/6708)
 
 **Spawn NPC:**  [a Tortured Revenant](/npc/21031) at (**y:** 259.7, **x:** 2901)
 
-elseif **You turn in:** [Revenant Ash](/item/6709)
+elseif( **You turn in:** [Revenant Ash](/item/6709)) then
 
 
 >**Simon Aldicott says:** Thank you, Knight. With this task accomplished, I shall reward you with this scroll. It is an ancient spell that only the holiest of knights may cast. Remember your duty!

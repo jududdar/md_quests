@@ -136,7 +136,7 @@ end
 
 
 
-if **You turn in:** [Cracked Corrupt Guard Helm](/item/2173)
+if( **You turn in:** [Cracked Corrupt Guard Helm](/item/2173)) then 
 
 
 >**Vegalys Keldrane says:** Thank you for bringing this person to justice. Please read this manual very, VERY carefully. Commit it to memory. We do everything strictly by the book. We are a people of law and order and I simply won't tolerate a breach of protocol. Investigators are expected to accurately report findings, are authorized to issue warrants and to notarize official documents for all lands under the jurisdiction of Antonius Bayle and the council. I sincerely hope you can earn your Investigator's Badge.
@@ -159,7 +159,7 @@ if **You turn in:** [Cracked Corrupt Guard Helm](/item/2173)
 
  **You receive:**  [Investigators Briefing](/item/18289) (+2000 exp)
 
-elseif **You turn in:** [Investigator's Badge](/item/2386)
+elseif( **You turn in:** [Investigator's Badge](/item/2386)) then 
 
 
 >**Vegalys Keldrane says:** Very well, here is the briefing document. Please read it very carefully. I wish you luck friend, this mission could prove to be dangerous.
@@ -167,7 +167,7 @@ elseif **You turn in:** [Investigator's Badge](/item/2386)
 
  **You receive:**  [Interrogators Briefing](/item/18292) (+2000 exp)
 
-elseif **You turn in:** [Researcher's Badge](/item/2583)
+elseif( **You turn in:** [Researcher's Badge](/item/2583)) then 
 
 
 >**Vegalys Keldrane says:** Here is my personal seal. Go to the sewers and locate my investigator and show him this seal if he yet lives. Find out what happened to he and guard Helminth. Then if at all possible, complete this operation by finding Azibelle Spavin and execute her. Bring me her head and return me my seal and you shall be rewarded.
@@ -175,7 +175,7 @@ elseif **You turn in:** [Researcher's Badge](/item/2583)
 
  **You receive:**  [Seal of Vegalys](/item/2694) (+2000 exp)
 
-elseif **You turn in:** [Seal of Vegalys](/item/2694), [Head of Azibelle Spavin](/item/2392)
+elseif( **You turn in:** [Seal of Vegalys](/item/2694), [Head of Azibelle Spavin](/item/2392)) then 
 
 
 >**Vegalys Keldrane says:** Good work Soandso! So Guard Helminth was corrupt? So crafty are these black hearted souls that they can fool even the righteous Kane Bayle himself! I'm sure he will be saddened to hear of this. I too am saddenned by the loss of one of my best investigators. At least we've served justice this day by sending Azibelle Spavin to her dark master. May she rot with her god. Take this Badge of Honor and wear it with pride and distinction.

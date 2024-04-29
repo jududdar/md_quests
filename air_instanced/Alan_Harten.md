@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [Sky Emerald](/item/20806)
+if( **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [Sky Emerald](/item/20806)) then
 
 
 
@@ -46,7 +46,7 @@ if **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [S
 
 **Alan Harten despawns.**
 
-elseif **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Small Shield](/item/20809)
+elseif( **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Small Shield](/item/20809)) then 
 
 
 >**Alan Harten says:** Wonderful! Take this as your reward!
@@ -57,7 +57,7 @@ elseif **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Sma
 
 **Alan Harten despawns.**
 
-elseif **You turn in:** [Adumbrate Globe](/item/20946), [Faintly Glowing Diamond](/item/20810), [Shiny Pauldrons](/item/20811)
+elseif( **You turn in:** [Adumbrate Globe](/item/20946), [Faintly Glowing Diamond](/item/20810), [Shiny Pauldrons](/item/20811)) then
 
 
 

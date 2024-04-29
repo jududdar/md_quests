@@ -16,7 +16,7 @@ end
 
 
 
-if **You turn in:** [Letter to Aliane](/item/4756)
+if( **You turn in:** [Letter to Aliane](/item/4756)) then
 
 
 >**Aliane Steelknuckle says:** Oh my sweet Daosorak, such a hard worker he is. It brings a smile upon my face to know that his mining operation is going well and that he will be home soon. I thank you for bringing me this letter from him.

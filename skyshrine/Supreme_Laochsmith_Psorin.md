@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Akkirus Crown of the Risen](/item/31140)
+if( **You turn in:** [Akkirus Crown of the Risen](/item/31140)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -28,7 +28,7 @@ if **You turn in:** [Akkirus Crown of the Risen](/item/31140)
 
  **You receive:**  [Akkirus Custom Crown of the Risen](/item/31528) 
 
-elseif **You turn in:** [Scaled Knights Helm](/item/31119)
+elseif( **You turn in:** [Scaled Knights Helm](/item/31119)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -36,7 +36,7 @@ elseif **You turn in:** [Scaled Knights Helm](/item/31119)
 
  **You receive:**  [Custom Scaled Knight's Helm](/item/31526) 
 
-elseif **You turn in:** [Helm of Twilight](/item/31133)
+elseif( **You turn in:** [Helm of Twilight](/item/31133)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -44,7 +44,7 @@ elseif **You turn in:** [Helm of Twilight](/item/31133)
 
  **You receive:**  [Custom Helm of Twilight](/item/31527) 
 
-elseif **You turn in:** [Blood Lords Crown](/item/31098)
+elseif( **You turn in:** [Blood Lords Crown](/item/31098)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -52,7 +52,7 @@ elseif **You turn in:** [Blood Lords Crown](/item/31098)
 
  **You receive:**  [Custom Blood Lords Crown](/item/31525) 
 
-elseif **You turn in:** [Crown of the Myrmidon](/item/31182)
+elseif( **You turn in:** [Crown of the Myrmidon](/item/31182)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -60,7 +60,7 @@ elseif **You turn in:** [Crown of the Myrmidon](/item/31182)
 
  **You receive:**  [Custom Crown of the Myrmidon](/item/31529) 
 
-elseif **You turn in:** [Cowl of Mortality](/item/26025)
+elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -68,7 +68,7 @@ elseif **You turn in:** [Cowl of Mortality](/item/26025)
 
  **You receive:**  [Custom Cowl of Mortality](/item/2612) 
 
-elseif **You turn in:** [Crown of the Kromzek Kings](/item/25194)
+elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
@@ -76,7 +76,7 @@ elseif **You turn in:** [Crown of the Kromzek Kings](/item/25194)
 
  **You receive:**  [Custom Crown of the Kromzek Kings](/item/2611) 
 
-elseif **You turn in:** [Frostreaver's Velium Crown](/item/30507)
+elseif( **You turn in:** [Frostreaver's Velium Crown](/item/30507)) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.

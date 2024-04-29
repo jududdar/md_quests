@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Torn Parchment](/item/18010)
+if( **You turn in:** [Torn Parchment](/item/18010)) then 
 
 
 >**Hyrill Pon says:** Peh! He thinks this old skull he found is a legendary skull of Wun Toque. It is said, a wizard who possesses one is granted power and intelligence far beyond those of his peers. Yiz was searching for the skulls missing ruby eyes. It seems he found the location of the first eye. Hmm.. Lynuga.. Lynuga.. I think I have heard that name before.. Yeah! Now I remember. I met her in the Foreign Quarter of Neria.. um.. Highpass Hold. She was trying to hawk some stolen gems! I think she mumbled something about going home to Grobb. I sure don't have time to track her down.
@@ -51,7 +51,7 @@ if **You turn in:** [Torn Parchment](/item/18010)
 
  **You receive:** 0 (+1000 exp)
 
-elseif **You turn in:** [Jeweled Skull](/item/13987)
+elseif( **You turn in:** [Jeweled Skull](/item/13987)) then 
 
 
 >**Hyrill Pon says:** You found it!? My sap of a brother was right after all! I sure don't want that thing. It sends shivers down my spine just holding it. Here. Take it!
@@ -71,7 +71,7 @@ elseif **You turn in:** [Jeweled Skull](/item/13987)
 
  **You receive:**  [Jeweled Skull](/item/13988) (+2000 exp)
 
-elseif **You turn in:** [Jeweled Skull](/item/13988)
+elseif( **You turn in:** [Jeweled Skull](/item/13988)) then 
 
 
 >**Hyrill Pon says:** 'Hmmm. On second thought, I might be able to get a good price for this in Neria... um... Highpass Hold. See ya, chum!

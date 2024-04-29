@@ -123,7 +123,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Terago Omath's Head](/item/20419)
+if(expansion_flag >= 4.0 and  **You turn in:** [Terago Omath's Head](/item/20419)) then
 
 
 >**Sadorno Chomosh says:** Ah, it appears you have learned to control your fear while ridding us of another fool.  Very well done. Take this Cudgel and return to me after sharpening it in a forge, along with a large Briar snake skin, and a petrified eyeball.
@@ -131,7 +131,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Terago Omath's Head](/item/20419
 
  **You receive:**  [Rusty Templar of Fright Cudgel](/item/20414) 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Templar of Fright Cudgel](/item/20415), [Large Briar Snake Skin](/item/20355), [Petrified Eyeball](/item/20402)
+elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Templar of Fright Cudgel](/item/20415), [Large Briar Snake Skin](/item/20355), [Petrified Eyeball](/item/20402)) then
 
 
 >**Sadorno Chomosh says:** Very good work. Here is the Cudgel, use it well!

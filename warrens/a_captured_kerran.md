@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Bronze Shackle Key](/item/6923)
+if( **You turn in:** [Bronze Shackle Key](/item/6923)) then
 
 
 >**a captured kerran says:** I thank you for freeing me from my dog faced captors.

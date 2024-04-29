@@ -69,7 +69,7 @@ end
 
 
 
-if **You turn in:** [Napkin From Crows](/item/18708)
+if( **You turn in:** [Napkin From Crows](/item/18708)) then 
 
 
 >**Hanns Krieghor says:** Lucky thing you weren't followed. or you'd be breathing through holes in your back right now. Go find Knargon, maybe you can help run the next [shipment]. Remember, we keep our business quiet, so watch yourself, sewer crawler.
@@ -92,7 +92,7 @@ if **You turn in:** [Napkin From Crows](/item/18708)
 
  **You receive:**  [Second Hand Tunic*](/item/13501) (+20 exp)
 
-elseif **You turn in:** [Head of Stanos](/item/28058)
+elseif( **You turn in:** [Head of Stanos](/item/28058)) then
 
 
 >**Hanns Krieghor says:** YES! The bastard is dead, finally. I would have loved to do the work myself, but this will suffice. Here, take this, you have proven yourself a true friend of the Circle!

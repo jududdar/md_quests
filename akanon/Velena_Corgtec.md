@@ -3,7 +3,7 @@
 
 
 
-if **You turn in:** [Old Folded Letter](/item/18704)
+if( **You turn in:** [Old Folded Letter](/item/18704)) then
 
 
 * __Faction:__ [Dark Reflection](/faction/238) (100)

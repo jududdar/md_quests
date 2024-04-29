@@ -36,7 +36,7 @@ end
 
 
 
-if **You turn in:** [Frost Giant Scout Beard](/item/30048)
+if( **You turn in:** [Frost Giant Scout Beard](/item/30048)) then
 
 
 >**Ritap says:** Arg! By blubberbeards nostril!  Ye'v done it!'  He braids the beard together into a sturdy rope. 'Now take this here rope and tie yerself up!  Come lets go tell the cap'n we'v captured us some prisoners!'

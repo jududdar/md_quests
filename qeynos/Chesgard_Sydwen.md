@@ -148,7 +148,7 @@ end
 local sash =  **You turn in:**  { [Bandit Sash](/item/12100)}
 
 
-if **You turn in:** [A Sealed Letter](/item/18839)
+if( **You turn in:** [A Sealed Letter](/item/18839)) then
 
 
 >**Chesgard Sydwen says:** Hmmph!! My son is living in a fantasy world. Still, you have done well. Take this as a token of appreciation. It is not much, but it may come in handy.
@@ -202,7 +202,7 @@ repeat
 * __Faction:__ [Guards of Qeynos](/faction/262) (15)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Bronze Dagger](/item/7012), [Bronze Rapier](/item/7013), [Bronze Spear](/item/7014), [Bronze Main Gauche](/item/7015), [Bronze Shortened Spear](/item/7016), [Bronze Short Sword](/item/5026), [Bronze Long Sword](/item/5027), [Bronze Battle Axe](/item/5028), [Bronze Bastard Sword](/item/5029), [Bronze Two Handed Sword](/item/5030), [Bronze Halberd](/item/5031), [Bronze Axe](/item/5032), [Bronze Broad Sword](/item/5033), [Bronze Scimitar](/item/5034), [Bronze Scythe](/item/5035), [Bronze Claymore](/item/5036), [Bronze Two Handed Battle Axe](/item/5037), [Bronze Mace](/item/6019), [Bronze Two Handed Hammer](/item/6021), [Bronze Warhammer](/item/6022), [Bronze Flail](/item/6023), [Bronze Morning Star](/item/6024), [Round Shield](/item/9002)) (+8100 exp)
 
 
 

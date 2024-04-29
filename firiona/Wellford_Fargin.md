@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Star of Odus](/item/10059)
+if( **You turn in:** [Star of Odus](/item/10059)) then
 
 
 >**Wellford Fargin says:** Thank you!! I never could have gone to Odus to replace this. Perhaps now you can collect some rare coins.
@@ -39,7 +39,7 @@ if **You turn in:** [Star of Odus](/item/10059)
 
 
 
-if **You turn in:** [A Tin Box](/item/12829)
+if( **You turn in:** [A Tin Box](/item/12829)) then
 
 
 >**Wellford Fargin says:** Wow!! I never thought I would ever see these in my entire life.  Please take this and Thank you!!!!

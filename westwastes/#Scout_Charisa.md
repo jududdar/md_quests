@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Scout Tools](/item/29683)
+if( **You turn in:** [Scout Tools](/item/29683)) then 
 
 
 >**Scout Charisa says:** Great! I was wondering when they would send someone out to give me these.  In the haste and excitement of this new assignment I forgot them.  This scout business is great I must say.  It sure beats sitting in Southern Ro studying  ruins.  I've been following a patrol of Storm Giants for days.  They have been wandering up and down the coast as if they were looking for something.

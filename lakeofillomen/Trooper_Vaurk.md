@@ -20,7 +20,7 @@ end
 
 
 
-if **You turn in:** [Explorer Survival Knife](/item/8004), [Explorer Survival Knife](/item/8004), [Explorer Survival Knife](/item/8004), [Explorer Survival Knife](/item/8004)
+if( **You turn in:** [Explorer Survival Knife](/item/8004), [Explorer Survival Knife](/item/8004), [Explorer Survival Knife](/item/8004), [Explorer Survival Knife](/item/8004)) then
 
 
 >**Trooper Vaurk says:** Great work, the Legion of Cabilis will not soon forget your dedication. The trespassers shall all be dealt with.

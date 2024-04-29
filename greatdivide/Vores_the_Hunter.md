@@ -31,7 +31,7 @@ end
 
 
 
-if **You turn in:** [Gem of Persuasion](/item/30270), [Blood Wolf Harness](/item/30249)
+if( **You turn in:** [Gem of Persuasion](/item/30270), [Blood Wolf Harness](/item/30249)) then 
 
 
 >**Vores the Hunter says:** Hey! What ya got there? Well now, ain't that pretty! Ya know, this just might do it. You done what I never was able. I gotta give ya that much. I ain't much o' one for travelin' any more. My legs be old and my bones are weak. You take this harness and find a good big mother of a wurm ta test it on. Just focus in yer mind what yer wantin the wurm ta do. Heh, maybe have it clear out some pests, eh?

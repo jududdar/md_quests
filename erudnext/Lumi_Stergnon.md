@@ -113,7 +113,7 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Box of Bones](/item/13882)
+if **Faction** >= Amiable and  **You turn in:** [A Box of Bones](/item/13882)) then 
 
 
 >**Lumi Stergnon says:** This is fabulous work, my friend! You have served your people well. Take this as a gift. I hope it can be of use to you. We need proof of these skeletons' origins. Continue the eradication of the undead and find out who creates them. Once you know, bring their head to me.
@@ -136,9 +136,9 @@ if **Faction** >= Amiable and  **You turn in:** [A Box of Bones](/item/13882)
 
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Backpack](/item/17005), [Belt Pouch](/item/17002), [Hematite](/item/10018), [Raw-hide Sleeves](/item/2144), [Raw-hide Wristbands](/item/2145), [Raw-hide Gloves](/item/2146), [Rusty Mace](/item/6011), [Rusty Morning Star](/item/6016), [Spell: Cure Poison](/item/15203), [Spell: Divine Aura](/item/15207), [Spell: Flash of Light](/item/15201), [Spell: Lull](/item/15208), [Spell: Spook the Dead](/item/15209), [Spell: Strike](/item/15014), [Spell: True North](/item/15205), [Spell: Yaulp](/item/15210), [Worn Great Staff](/item/6012)) (+2500 exp)
 
-elseif **You turn in:** [Peacekeeper Staff](/item/13816)
+elseif( **You turn in:** [Peacekeeper Staff](/item/13816)) then 
 
 
 >**Lumi Stergnon says:** You have done well, neophyte.Let me add the touch of harmony to finish the job.. Here, then. Take these supplies. I am sure you'll need them. Soon you may be able to assist us in [important missions].
@@ -159,7 +159,7 @@ elseif **You turn in:** [Peacekeeper Staff](/item/13816)
   
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Backpack](/item/17005), [Belt Pouch](/item/17002), [Hematite](/item/10018), [Raw-hide Sleeves](/item/2144), [Raw-hide Wristbands](/item/2145), [Raw-hide Gloves](/item/2146), [Rusty Mace](/item/6011), [Rusty Morning Star](/item/6016), [Worn Great Staff](/item/6012), [Tattered Wristbands](/item/2109), [Tattered Skullcap](/item/2101), [Patchwork Cloak](/item/2106)) (+2500 exp)
 
 **This NPC *should* return incorrect items given.**
 ;

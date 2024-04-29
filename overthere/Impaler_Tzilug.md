@@ -6,7 +6,7 @@
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Dull Emerald](/item/10634)
+if( **Faction is** > Indifferent and  **You turn in:** [Dull Emerald](/item/10634)) then
 
 
 >**Impaler Tzilug says:** Your bidding has been done, now leave this land and never return.

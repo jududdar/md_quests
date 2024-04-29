@@ -78,7 +78,7 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Rat Shaped Ring](/item/13301)
+if **Faction** >= Indifferent and  **You turn in:** [Rat Shaped Ring](/item/13301)) then
 
 
 >**Suuspa Clanim says:** You have cleansed Norrath of another follower of the Plaguebringer. You have done well. Take this reward and continue your search for others who wear this ring.
@@ -102,9 +102,9 @@ if **Faction** >= Indifferent and  **You turn in:** [Rat Shaped Ring](/item/1330
 * __Faction:__ [Antonius Bayle](/faction/219) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/item/13908)
+elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/item/13908)) then
 
 
 >**Suuspa Clanim says:** This is not good. Hmph. It appears they are shattered. For the first time one of our members has been swayed. I reward you for your deed. Also, if you have found anything upon Trintle, let me know.
@@ -128,7 +128,7 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/i
 * __Faction:__ [Antonius Bayle](/faction/219) (1)
 
 
- **You receive:** None 
+ **You receive:** 0 (+1000 exp)
 
 **This NPC *should* return incorrect items given.**
 

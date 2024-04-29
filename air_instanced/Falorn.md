@@ -50,7 +50,7 @@ end
 
 
 
-if **You turn in:** [Bronze Disc](/item/20935), [Small Pick](/item/20972), [Stone Amulet](/item/20973)
+if( **You turn in:** [Bronze Disc](/item/20935), [Small Pick](/item/20972), [Stone Amulet](/item/20973)) then
 
 
 
@@ -65,7 +65,7 @@ if **You turn in:** [Bronze Disc](/item/20935), [Small Pick](/item/20972), [Ston
 
 **Falorn despawns.**
 
-elseif **You turn in:** [Pearlescent Globe](/item/20942), [Silver Mesh](/item/20974), [Spiroc Air Totem](/item/20975)
+elseif( **You turn in:** [Pearlescent Globe](/item/20942), [Silver Mesh](/item/20974), [Spiroc Air Totem](/item/20975)) then
 
 
 
@@ -79,7 +79,7 @@ elseif **You turn in:** [Pearlescent Globe](/item/20942), [Silver Mesh](/item/20
 
 **Falorn despawns.**
 
-elseif **You turn in:** [Ivory Tessera](/item/20928), [Small Ruby](/item/20970), [Azure Ring](/item/20971)
+elseif( **You turn in:** [Ivory Tessera](/item/20928), [Small Ruby](/item/20970), [Azure Ring](/item/20971)) then
 
 
 

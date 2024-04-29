@@ -35,7 +35,7 @@ local text = "I need no fewer than four infected rat livers!! Now, go get me wha
 
 
 
-if **You turn in:** [Bat Fur](/item/13069), [Bat Fur](/item/13069), [Fire Beetle Leg](/item/13250), [Fire Beetle Leg](/item/13250)
+if( **You turn in:** [Bat Fur](/item/13069), [Bat Fur](/item/13069), [Fire Beetle Leg](/item/13250), [Fire Beetle Leg](/item/13250)) then 
 
 
 >**Dzan Amo says:** Very good young one. Here is something to assist in your studies of the principles of terror.

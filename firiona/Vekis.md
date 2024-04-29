@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [Daeliones Implant](/item/14815)
+if( **You turn in:** [Daeliones Implant](/item/14815)) then
 
 
 >**Vekis says:** I believe Streaven and his buddy Frode is waiting on the bridge,  Please get his head and return to Grik and 3 rubies for your reference.

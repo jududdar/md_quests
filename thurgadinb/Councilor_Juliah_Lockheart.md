@@ -17,7 +17,7 @@ end
 
 
 
-if **You turn in:** [Ring of the Coldain Council](/item/1464)
+if( **You turn in:** [Ring of the Coldain Council](/item/1464)) then 
 
 
 **Spawn NPC:**  [\#Councilor Juliah Lockheart](/npc/129063) at this location.

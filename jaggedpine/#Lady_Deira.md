@@ -239,7 +239,7 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Nyrein's Tome](/item/8918), [Earthen Crown of the Underfoot](/item/8917)
+if( **Faction is** > Warmly and  **You turn in:** [Nyrein's Tome](/item/8918), [Earthen Crown of the Underfoot](/item/8917)) then
 
 
 e.self:Say("You have done well thus far and I commend your actions and success. Now, the trials shall continue and this shall be the walk that tests your faith 
@@ -259,7 +259,7 @@ e.self:Say("You have done well thus far and I commend your actions and success. 
 
  **You receive:**  [Nyrein's Prayer](/item/8919) (+1000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Tempest Guard's Stone](/item/8952)
+elseif( **Faction is** > Warmly and  **You turn in:** [Tempest Guard's Stone](/item/8952)) then
 
 
 >*Lady Deira gives you a warm, gentle smile and a bow of respect as she offers a white steel crown ornamented with a single blue gem. 'Welcome to the Veterans of the Storm. We honor you as Tempest Guard, Downz. Bear this symbol in humility and as a sign of your eternal pledge in service and protection of all that The Rainkeeper holds dear and sacred.'*

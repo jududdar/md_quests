@@ -148,7 +148,7 @@ if(eq.get_current_expansion() >= 4.0) then
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Blackburrow Battle Plans](/item/27416), [Gnoll Backbone](/item/27405), [Gnoll Backbone](/item/27405)
+if(expansion_flag >= 4.0 and  **You turn in:** [Blackburrow Battle Plans](/item/27416), [Gnoll Backbone](/item/27405), [Gnoll Backbone](/item/27405)) then
 
 
 >**Vansted Rohenga says:** These are exactly what I was looking for Soandso! I am very proud to have one as noble as yourself amongst our ranks! Please take this mace as a token of my appreciation. I bid you farewell, and safe travels.
@@ -169,7 +169,7 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Blackburrow Battle Plans](/item/
 * __Faction:__ [Guards of Qeynos](/faction/262) (7)
 
 
- **You receive:** None 
+ **You receive:**  [Stormhealers Mace](/item/27489) (+500 exp)
 
 **This NPC *should* return incorrect items given.**
 

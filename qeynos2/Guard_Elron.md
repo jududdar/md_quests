@@ -124,7 +124,7 @@ end
 
 
 
-if **You turn in:** [A Small Tattered Dress](/item/13713)
+if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
 
 
 >**Guard Elron says:** Oh dear.. no.. no.. I warned her about the aqueducts.. I warned her.. I coudn't watch her every minute of the day, could I? Oh Lucie.. Why didn't you listen to me? Here, take this. It belonged to her mother. She always said that in times of need, it gave her courage to go on.. Thank you so much for your efforts.
@@ -148,6 +148,6 @@ if **You turn in:** [A Small Tattered Dress](/item/13713)
 * __Faction:__ [Merchants of Qeynos](/faction/291) (1)
 
 
- **You receive:** None 
+ **You receive:**  [Golden Locket](/item/13188) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

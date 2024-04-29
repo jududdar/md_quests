@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Blessed Parchment](/item/5761), [Dark Root Ink](/item/5762), [Stormravens Quill](/item/5766)
+if( **You turn in:** [Blessed Parchment](/item/5761), [Dark Root Ink](/item/5762), [Stormravens Quill](/item/5766)) then 
 
 
 >*Rebecca Cabbageleaf smiles warmly, 'Brilliant, you've brought me some more supplies! Here, please take this last copy I've made. I'd planned to use it for myself, but I'll let you use it so you don't have to wait for me to make a new one. I do hope you enjoy it!'*
@@ -42,7 +42,7 @@ if **You turn in:** [Blessed Parchment](/item/5761), [Dark Root Ink](/item/5762)
 
  **You receive:**  [Spell: Protection of the Cabbage](/item/9722) 
 
-elseif **You turn in:** [Xanthe\`s Earring of Nature](/item/9721)
+elseif( **You turn in:** [Xanthe\`s Earring of Nature](/item/9721)) then
 
 
 >**Rebecca Cabbageleaf says:** Here you are friend, an earring of the Solstice. I'll see that your old earring goes to a druid who can make better use of it. Safe travels, friend!
@@ -50,7 +50,7 @@ elseif **You turn in:** [Xanthe\`s Earring of Nature](/item/9721)
 
  **You receive:**  [Earring of the Solstice](/item/28771) 
 
-elseif **You turn in:** [Earring of the Solstice](/item/28771)
+elseif( **You turn in:** [Earring of the Solstice](/item/28771)) then
 
 
 >**Rebecca Cabbageleaf says:** Here you are friend, Xanthe's Earring of Nature. I'll see that your old earring goes to someone who can make better use of it. Safe travels, friend!

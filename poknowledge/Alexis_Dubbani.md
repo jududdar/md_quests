@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Collection of Books](/item/28081)
+if( **You turn in:** [Collection of Books](/item/28081)) then
 
 
 >**Alexis Dubbani says:** These volumes will add to my collection greatly! You are too kind to have done this task for me, please accept this gift with my thanks.

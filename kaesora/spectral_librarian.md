@@ -5,7 +5,7 @@
 
 
 
-if **You turn in:** [Dull Diamond](/item/10631)
+if( **You turn in:** [Dull Diamond](/item/10631)) then
 
 
 >**spectral librarian says:** You have no idea what it is like to be trapped in this place. Take your precious little stone and leave this place.

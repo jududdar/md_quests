@@ -77,7 +77,7 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Cape of Underfoot](/item/12281)
+if( **Faction is** > Indifferent and  **You turn in:** [Cape of Underfoot](/item/12281)) then
 
 
 >**Dru Razbind says:** I thank you, my friend. You are truly a great paladin and noble addition to our ranks. I now can walk in Kaladim. Take this as a reward. It is the Holy Partisan of Underfoot. It is now yours. I believe it still has a couple of charges. Use it wisely as the only cleric able to recharge it was lost amid the lava filled lands of Antonica.

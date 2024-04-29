@@ -14,7 +14,7 @@ end
 
 
 
-if **You turn in:** [Bronze Shackle Key](/item/6923)
+if( **You turn in:** [Bronze Shackle Key](/item/6923)) then
 
 
 >**a captured erudite says:** I say we round up the Furballs AND the Dog Faces and let them kill each other off! Then we can easily finish off the survivors

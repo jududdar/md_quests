@@ -64,7 +64,7 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if **You turn in:** [Sun Jewel](/item/4488), [Mark of Discipline](/item/5254), [Oiled Scales](/item/5255)
+if( **You turn in:** [Sun Jewel](/item/4488), [Mark of Discipline](/item/5254), [Oiled Scales](/item/5255)) then 
 
 
 FactionReward(e)
@@ -72,7 +72,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Veil](/item/3782) (+25000 exp)
 
-elseif **You turn in:** [Moon Jewel](/item/4489), [Mark of Training](/item/5256), [Scorched Idol](/item/5257), [Gem of Longevity](/item/5258)
+elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Training](/item/5256), [Scorched Idol](/item/5257), [Gem of Longevity](/item/5258)) then 
 
 
 FactionReward(e)
@@ -80,7 +80,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Cloak](/item/3783) (+25000 exp)
 
-elseif **You turn in:** [Star Jewel](/item/4490), [Mark of Rank](/item/5259), [Golden Gem](/item/5260)
+elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Rank](/item/5259), [Golden Gem](/item/5260)) then 
 
 
 FactionReward(e)
@@ -88,7 +88,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Hand Wraps](/item/3784) (+25000 exp)
 
-elseif **You turn in:** [Cloud Jewel](/item/4491), [Mark of Aggression](/item/5261), [Sun Fiend Bones](/item/5262)
+elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Aggression](/item/5261), [Sun Fiend Bones](/item/5262)) then 
 
 
 FactionReward(e)
@@ -96,7 +96,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Choker](/item/3785) (+25000 exp)
 
-elseif **You turn in:** [Sky Jewel](/item/4492), [Mark of Defense](/item/5263), [Protector Gem](/item/5264), [Indigo Sapphire](/item/5266)
+elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Defense](/item/5263), [Protector Gem](/item/5264), [Indigo Sapphire](/item/5266)) then 
 
 
 FactionReward(e)
@@ -104,7 +104,7 @@ FactionReward(e)
 
  **You receive:**  [Steel Threaded Belt](/item/3786) (+25000 exp)
 
-elseif **You turn in:** [Meteor Jewel](/item/4493), [Mark of the Dragon](/item/5265), [Embedded Gravel Tablet](/item/5267), [Gilded Wrist Chain](/item/5268)
+elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of the Dragon](/item/5265), [Embedded Gravel Tablet](/item/5267), [Gilded Wrist Chain](/item/5268)) then 
 
 
 FactionReward(e)

@@ -40,7 +40,7 @@ end
 
 
 
-if **You turn in:** [Rebbys Rat Whiskers](/item/13158)
+if( **You turn in:** [Rebbys Rat Whiskers](/item/13158)) then 
 
 
 >**Nestral TGaza says:** Thank you Soandso, You have done well.

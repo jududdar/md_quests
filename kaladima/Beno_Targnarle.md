@@ -193,7 +193,7 @@ local temphandins = 0;
 local text = "Good work, but I require four giant rat pelts.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054)
+if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054)) then 
 
 
 >**Beno Targnarle says:** Great work, young one! We shall soon rid our mines of these pests. Keep a lookout for that [metal rat]. Here is a small reward for such fine work. Soon, you shall be know as Kaladim's resident exterminator.
@@ -214,9 +214,9 @@ if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [
 * __Faction:__ [Craknek Warriors](/faction/232) (-2)
 
 
- **You receive:** None 
+ **You receive:** eq.ChooseRandom( [Dwarven Ale](/item/13036), [Rat Pelt Cape](/item/1051), [Small Lantern](/item/13003), [Torch](/item/13002), [Malachite](/item/10015), [Bandages](/item/13009)) (+4200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)
+elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)) then 
 
 
 >**Beno Targnarle says:** I thank you, my friend. I was to destroy this metal monster months ago. I could never find him. Please accept this reward for such good service. Oh yes.. And take this card to a man named [Doran Vargnus]. He is a fine blacksmith. I am sure he will reward you with one of his finest suits of armor. Perhaps you may now assist in an [important Stormguard matter].
@@ -237,9 +237,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)
 * __Faction:__ [Craknek Warriors](/faction/232) (-5)
 
 
- **You receive:** None 
+ **You receive:**  [Knight](/item/13995) (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Eye of Stormhammer](/item/13321)
+elseif **Faction** >= Amiable and  **You turn in:** [Eye of Stormhammer](/item/13321)) then 
 
 
 
@@ -263,6 +263,6 @@ elseif **Faction** >= Amiable and  **You turn in:** [Eye of Stormhammer](/item/1
 * __Faction:__ [Craknek Warriors](/faction/232) (-5)
 
 
- **You receive:** None 
+ **You receive:**  [Avenger Battle Axe](/item/5415) (+5000 exp)
 
 **This NPC *should* return incorrect items given.**

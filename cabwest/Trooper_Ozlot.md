@@ -22,7 +22,7 @@ local text = "I told you that I need two sabertooth kitten canines and the legio
 
 
 
-if **You turn in:** [Legion Order](/item/18246), [Sabertooth Kitten Canine](/item/12670), [Sabertooth Kitten Canine](/item/12670)
+if( **You turn in:** [Legion Order](/item/18246), [Sabertooth Kitten Canine](/item/12670), [Sabertooth Kitten Canine](/item/12670)) then 
 
 
 >**Trooper Ozlot says:** I suppose you were sent by the legion. I will sign. Here is the legion order back. Now, leave, so I can finish my watch.

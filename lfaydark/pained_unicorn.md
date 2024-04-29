@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [Kedge Cave Crystals](/item/20691), [Ocean of Tears Seavines](/item/20692), [Green Heartwood Branch](/item/20693)
+if( **You turn in:** [Kedge Cave Crystals](/item/20691), [Ocean of Tears Seavines](/item/20692), [Green Heartwood Branch](/item/20693)) then
 
 
 >**pained unicorn says:** Take my horn, symbol of Faydwer, now cleansed, to the gnome priest. It is anathema to him, to the corrupt forces in his soul, channeled into him by his dark god and will release the grip of corruption on the land. He is close, I can feel it.

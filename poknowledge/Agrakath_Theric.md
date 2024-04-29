@@ -19,7 +19,7 @@ end
 
 
 
-if **You turn in:** [History of Evils: The Age of Scale](/item/28188)
+if( **You turn in:** [History of Evils: The Age of Scale](/item/28188)) then
 
 
 >*Agrakath Theric eyes go wide with surprise as you hand over the book. 'Very impressive for one of your abilities. Here, take this note to Caden. He is absolved of his debt to me at this time.'*

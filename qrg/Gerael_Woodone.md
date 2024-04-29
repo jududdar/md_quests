@@ -125,7 +125,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [A Tattered Cloth Note](/item/18911)
+if **Faction** >= Dubious and  **You turn in:** [A Tattered Cloth Note](/item/18911)) then
 
 
 >**Gerael Woodone says:** Oh my!! Our Qeynos Ambassador, Gash, is in danger. Please take the note over to Captain Tillin of the Qeynos Guard then find Gash and inform him [they are trying to kill him]. Go!!
@@ -149,9 +149,9 @@ if **Faction** >= Dubious and  **You turn in:** [A Tattered Cloth Note](/item/18
 * __Faction:__ [Guards of Qeynos](/faction/262) (2)
 
 
- **You receive:** None 
+ **You receive:**  [A Tattered Cloth Note](/item/18912) (+10 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Black Wood Chip](/item/12141)
+elseif **Faction** >= Dubious and  **You turn in:** [Black Wood Chip](/item/12141)) then 
 
 
 >**Gerael Woodone says:** So the Unkempt Druids are alive and well.  We shall keep a watchful eye out as should you.  Take this for your bravery and defense of the Jaggedpine.

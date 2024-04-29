@@ -155,7 +155,7 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Damaged Annals](/item/22668), [Pristine Stinger](/item/22696), [Pristine Stinger](/item/22696), [Pristine Stinger](/item/22696)
+if(expansion_flag >= 4.0 and  **You turn in:** [Damaged Annals](/item/22668), [Pristine Stinger](/item/22696), [Pristine Stinger](/item/22696), [Pristine Stinger](/item/22696)) then
 
 
 >**Thekela Meepup says:** I knew that I could count on you to follow through in your training. You have surely proven yourself in the time that you have trained with me. Please take this Mace, as Bristlebane has blessed you with the power to give life to those that have fallen. Thank you, Soandso. You have made me very proud!

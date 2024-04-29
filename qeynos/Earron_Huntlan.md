@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [A Scrap of Parchment](/item/18821)
+if( **You turn in:** [A Scrap of Parchment](/item/18821)) then
 
 
 >**Earron Huntlan says:** What the..? This voucher was for Kwint, not you! I will find someone more trustworthy to take it to him.

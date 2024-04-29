@@ -7,7 +7,7 @@
 if(e.self:GetX() == -1164 and e.self:GetY() == -3301 and e.self:GetGrid() == 0) then
 
 
-if **You turn in:** [Harness of Control](/item/30272)
+if( **You turn in:** [Harness of Control](/item/30272)) then 
 
 
 
@@ -26,7 +26,7 @@ if **You turn in:** [Harness of Control](/item/30272)
 eq.start(54);
 
 
-elseif **You turn in:** [Giants Harness of Control](/item/30274)
+elseif( **You turn in:** [Giants Harness of Control](/item/30274)) then 
 
 
 

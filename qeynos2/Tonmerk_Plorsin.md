@@ -92,7 +92,7 @@ end
 
 
 
-if **You turn in:** [Shark Powder](/item/12125)
+if( **You turn in:** [Shark Powder](/item/12125)) then 
 
 
 >**Tonmerk Plorsin says:** I thank you, my good friend. Surely the road to Freeport was not easily trod. Please take this as compensation for your costs and I also grant you the ability to call forth the power of Rodcet Nife to smite the enemy. Go forth to defend life.
@@ -116,9 +116,9 @@ if **You turn in:** [Shark Powder](/item/12125)
 * __Faction:__ [Antonius Bayle](/faction/219) (3)
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Smite](/item/15016) (+100000 exp)
 
-elseif **You turn in:** [Bog Juice](/item/16581), [Bandages](/item/13009)
+elseif( **You turn in:** [Bog Juice](/item/16581), [Bandages](/item/13009)) then 
 
 
 >**Tonmerk Plorsin says:** The glory of Rodcet Nife flows through your soul. May your body and soul live in righteous health.
@@ -126,7 +126,7 @@ elseif **You turn in:** [Bog Juice](/item/16581), [Bandages](/item/13009)
 
 **Tonmerk Plorsin casts:** [Counteract Disease](/spell/96) on target.
 
-elseif **You turn in:** [Snake Fang](/item/13067)
+elseif( **You turn in:** [Snake Fang](/item/13067)) then 
 
 
 >**Tonmerk Plorsin says:** The glory of Rodcet Nife flows through your soul. May your body and soul live in righteous health.
@@ -134,7 +134,7 @@ elseif **You turn in:** [Snake Fang](/item/13067)
 
 **Tonmerk Plorsin casts:** [Counteract Poison](/spell/95) on target.
 
-elseif **You turn in:** gold = 5
+elseif( **You turn in:** gold = 5) then
 
 
 >**Tonmerk Plorsin says:** The glory of Rodcet Nife flows through your soul. May your body and soul live in righteous health.

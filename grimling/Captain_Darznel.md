@@ -22,7 +22,7 @@ function FieldPackTurnIn(e)
 
 
 
-if  **You turn in:** [Garrison Enlistment Forms](/item/8471)
+if ( **You turn in:** [Garrison Enlistment Forms](/item/8471)) then 
 
 
 >**Captain Darznel says:** Let's see, yes... yes...  It looks like you signed everything in the correct spot.  That can only mean that you're not only brave, but you have some wits as well.  If you have all of your teeth and can stand on one leg until the count of five, I think we can make use of you.
@@ -34,12 +34,15 @@ if  **You turn in:** [Garrison Enlistment Forms](/item/8471)
 >**Captain Darznel says:** After you complete that raid, please go with Scouts Danarin and Derrin.  Once you secure those camps, bring me any grimling intelligence reports or documents that you may have found.  Place the documents and your Garrison cloak in this bag and bring them back to me.  Complete this task and you may even get a promotion.
 
 
- **You receive:** None 
+ **You receive:**  [Garrison Field Pack](/item/17130) 
+
+
+ **You receive:**  [Polished Acrylia Sphere](/item/3681) 
 
 
 
 
-elseif  **You turn in:** [Sealed Field Pack](/item/8480)
+elseif ( **You turn in:** [Sealed Field Pack](/item/8480)) then 
 
 
 FieldPackTurnIn(e);
@@ -50,7 +53,7 @@ FieldPackTurnIn(e);
 
 
 
-elseif  **You turn in:** [Sealed Field Pack](/item/8483)
+elseif ( **You turn in:** [Sealed Field Pack](/item/8483)) then 
 
 
 FieldPackTurnIn(e);
@@ -61,7 +64,7 @@ FieldPackTurnIn(e);
 
 
 
-elseif  **You turn in:** [Sealed Field Pack](/item/8481)
+elseif ( **You turn in:** [Sealed Field Pack](/item/8481)) then 
 
 
 FieldPackTurnIn(e);
@@ -72,7 +75,7 @@ FieldPackTurnIn(e);
 
 
 
-elseif  **You turn in:** [Sealed Field Pack](/item/8472)
+elseif ( **You turn in:** [Sealed Field Pack](/item/8472)) then 
 
 
 FieldPackTurnIn(e);
@@ -83,7 +86,7 @@ FieldPackTurnIn(e);
 
 
 
-elseif  **You turn in:** [Sealed Field Pack](/item/8482)
+elseif ( **You turn in:** [Sealed Field Pack](/item/8482)) then 
 
 
 FieldPackTurnIn(e);
@@ -92,5 +95,4 @@ FieldPackTurnIn(e);
  **You receive:**  [Taruun Officers Cloak](/item/8418) 
 
 
-**This NPC *should* return incorrect items given.**
-;
+item_lib.return_items(e.self,e.other,e.trade);

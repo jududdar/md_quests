@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Silver Wand](/item/6338), gold = 50
+if( **You turn in:** [Silver Wand](/item/6338), gold = 50) then
 
 
 >**Ezmirella says:** I have blessed your silver wand.  To complete the enchantment, you must take the wand to Raine Beteria in the Erudin Library.  Tip her 50 golden coins, and she will help you.

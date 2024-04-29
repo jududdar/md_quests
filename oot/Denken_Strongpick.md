@@ -37,7 +37,7 @@ end
 
 
 
-if **You turn in:** [Rebreather](/item/16889), [Rebreather](/item/16889), [Block of Permafrost](/item/20665), [Keg of Vox Tail Ale](/item/20664)
+if( **You turn in:** [Rebreather](/item/16889), [Rebreather](/item/16889), [Block of Permafrost](/item/20665), [Keg of Vox Tail Ale](/item/20664)) then
 
 
 >**Denken Strongpick says:** Excellent! Here is your sword. I feel like I'm at home already!

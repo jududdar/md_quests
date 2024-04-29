@@ -25,12 +25,12 @@ end
 
 
 
-if **You turn in:** copper = 1
+if( **You turn in:** copper = 1) then
 
 
 >**Retlon Brenclog says:** No, no!! I do not need this!! Get me key number 15!!
 
-elseif **You turn in:** [Shackle Key 15](/item/20015)
+elseif( **You turn in:** [Shackle Key 15](/item/20015)) then
 
 
 >**Retlon Brenclog says:** Good work!! I shall be on my way. Farewell my friend!!
@@ -56,7 +56,7 @@ elseif **You turn in:** [Shackle Key 15](/item/20015)
 
 **Retlon Brenclog despawns.**
 
-elseif **You turn in:** [Sealed Letter](/item/1717)
+elseif( **You turn in:** [Sealed Letter](/item/1717)) then
 
 
 >**Retlon Brenclog says:** Ah! A letter from my brother! Mmm... no... no I don't have Tergon's spellbook. The orc's prophet took it and then they locked me in chains! Now why don't you go do something useful and get me key number 15!!

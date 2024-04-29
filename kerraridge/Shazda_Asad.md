@@ -38,7 +38,7 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Emissary Head](/item/12319)
+if **Faction** >= Dubious and  **You turn in:** [Emissary Head](/item/12319)) then
 
 
 >**Shazda Asad says:** Excellent work, young ayyar! You have proven your willingness to dispose of the enemies of our tribe, now you must face one of their most murderous sentries! Bring me the head of Sentinel Creot and I shall induct you into our sejah!
@@ -50,7 +50,7 @@ if **Faction** >= Dubious and  **You turn in:** [Emissary Head](/item/12319)
 
  **You receive:**  [Kejaar Totem](/item/10343) (+5000 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Sentinel Creot's Head](/item/12438)
+elseif **Faction** >= Dubious and  **You turn in:** [Sentinel Creot's Head](/item/12438)) then
 
 
 >**Shazda Asad says:** You have proven your devotion to our cause and defeated one of the greatest threats to our people. I welcome you into the Kerran Sejah. Wear this bracer as a symbol of your station in the Kerran tribes.

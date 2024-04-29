@@ -8,7 +8,7 @@
 
 
 
-if **You turn in:** [Vial of Kromzek blood](/item/2063)
+if( **You turn in:** [Vial of Kromzek blood](/item/2063)) then
 
 
 >**a ghostly presence says:** Graaahhhh!' as the air about you begins to shudder violently. The blood from the vial is held suspended in mid air, swirling about the chamber. It begins swirling faster and faster until the blood is spattered upon some discarded dragon bones. All is then quiet, and suddenly the bones spring to life in vigorous animation. They form a great dragon skeleton and immediately attack you!

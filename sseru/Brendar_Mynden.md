@@ -22,7 +22,7 @@ end
 
 
 
-if **You turn in:** [Poisoned Wine](/item/29862)
+if( **You turn in:** [Poisoned Wine](/item/29862)) then
  
 
 >*Brendar Mynden opens the bottle and takes a large drink right from it. Immediately his eyes roll back into their sockets and he falls to the ground. You look around to make sure no one has seen and then take the ring from his finger.*

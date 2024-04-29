@@ -28,7 +28,7 @@ end
 
 
 
-if **You turn in:** [Blackbox XXVIIC](/item/13209)
+if( **You turn in:** [Blackbox XXVIIC](/item/13209)) then
 
 
 >**Jogl Doobraugh says:** Hmmm. Here you go. Take this log to Drekon Vebnebber. He is the in-house merchant at Gemchoppers Hall. It is his duty to file away all these logs.

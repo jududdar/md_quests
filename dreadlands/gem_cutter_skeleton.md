@@ -34,7 +34,7 @@ end
 
 
 
-if **You turn in:** [Dufrenite](/item/10073)
+if( **You turn in:** [Dufrenite](/item/10073)) then
 
 
 >*gem cutter skeleton eyes sparkle as you hand it the gem.*

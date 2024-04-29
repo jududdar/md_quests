@@ -42,7 +42,7 @@ end
 
 local count =  **You turn in:**  { [Apothic Crown](/item/1239),  [Apothic Robe](/item/1240),  [Apothic Sleeves](/item/1241),  [Apothic Warband](/item/1242),  [Apothic Gloves](/item/1243),  [Apothic Kilt](/item/1244),  [Apothic Boots](/item/1245)}
 
-if **You turn in:** [Nariks Ring](/item/28087)
+if( **You turn in:** [Nariks Ring](/item/28087)) then 
 
 
 >**Arch Mage Narik says:** This is truly excellent. You have done well recovering this for me. You may take Onirelin's jewel and also tell him never to set foot near me again. Leave me now, I have much work to do.

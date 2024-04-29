@@ -13,13 +13,13 @@ end
 
 
 
-if **You turn in:** [Shimmering Pearl](/item/28054)
+if( **You turn in:** [Shimmering Pearl](/item/28054)) then 
 
 
 >*Zordak Ragefire is engulfed by a shimmering blue light! An inhuman expression of rage crosses his face and flames leap in his eyes as he begins to vanish in the shimmering light! 'The Triumvirate may have succeeded in sending me back to my cursed homeland for the time being! I swear to you I shall return from Skyfire and destroy all of the Triumvirate Missionaries in flames!'*
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Swirling Pearl](/item/28059), [Zordak's Box of Bindings](/item/17175)) 
 
 
 **Zordak Ragefire despawns.**

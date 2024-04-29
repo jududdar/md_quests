@@ -35,7 +35,7 @@ local text1 = "I will barter for no less than four pairs of Ulthork tusks.";
 
 
 
-if **You turn in:** [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874)
+if( **You turn in:** [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874)) then 
 
 
 >**Chief Kalan says:** Many thanks to you, strange one. Our craftsman will be pleased. They have been in need of a new bundle of ivory.
@@ -49,7 +49,7 @@ if **You turn in:** [Ulthork Tusks](/item/24874), [Ulthork Tusks](/item/24874), 
 
  **You receive:** eq.ChooseRandom( [Black Sapphire](/item/10036), [Blue Diamond](/item/22503), [Crystallized Sulfur](/item/16976), [Diamond](/item/10037), [Fire Emerald](/item/10033), [Fire Emerald Ring](/item/10049), [Fire Opal](/item/10031), [Jacinth](/item/10053), [Ruby](/item/10035), [Ruby Crown](/item/10051), [Sapphire](/item/10034), [Sapphire Necklace](/item/10050), [Star Ruby](/item/10032), [Star Ruby Earring](/item/10048)) (+1000 exp)
 
-elseif **You turn in:** [Bulthar Trunk](/item/30068)
+elseif( **You turn in:** [Bulthar Trunk](/item/30068)) then 
 
 
 >**Chief Kalan says:** With the Bulthar herd leader dead we can hope that they will move on to less occupied waters.
@@ -63,7 +63,7 @@ elseif **You turn in:** [Bulthar Trunk](/item/30068)
 
  **You receive:**  [Runed Othmir Spear](/item/22817) (+5000 exp)
 
-elseif **You turn in:** [Bulthar Trunk](/item/30067), [Bulthar Trunk](/item/30067)
+elseif( **You turn in:** [Bulthar Trunk](/item/30067), [Bulthar Trunk](/item/30067)) then 
 
 
 >**Chief Kalan says:** Such wasteful creatures the Bulthar are. It is a shame they are not intelligent enough to realize the harm they do to the very oceans that sustain them.

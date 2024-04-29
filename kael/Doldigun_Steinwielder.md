@@ -26,7 +26,7 @@ end
 
 
 
-if **You turn in:** [Letter to Doldigun](/item/18172)
+if( **You turn in:** [Letter to Doldigun](/item/18172)) then
 
 
 >**Doldigun Steinwielder says:** I was just following orders! I swear it! Here, this is proof! Take it and be gone. If you continue harassing me I'll call for help and you'll never make it out of here alive.

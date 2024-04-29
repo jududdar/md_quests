@@ -42,7 +42,7 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if **You turn in:** [Kalila'a Diary](/item/18324)
+if( **You turn in:** [Kalila'a Diary](/item/18324)) then
 
 
 >*Elder Hymnist Hortitosh opens the diary and reads. Before long he is utterly engrossed in the story of purest love that you have given him, and it begins. You are something less than fully aware of what happens next, the wind whistles and you could swear that the room fills with light though you could not prove it. A moment later, a sense of completeness has filled you. All you know for sure is that Hortitosh stands before you, fully spent, and you hold in your hand what could only be an essence of sonnet.*
@@ -50,7 +50,7 @@ if **You turn in:** [Kalila'a Diary](/item/18324)
 
  **You receive:**  [Essence of Sonnet](/item/5991) 
 
-elseif **You turn in:** [A Hymnist Guild Summons](/item/18552)
+elseif( **You turn in:** [A Hymnist Guild Summons](/item/18552)) then 
 
 
 >**Elder Hymnist Hortitosh says:** Our newest instrumentalist arrives! You have grown strong in the safety of our city and it is time now for you to repay our society. The Jharin, keepers of our history, accept you and deem you to be worthy of our training. Take this application to Registrar Bindarah and return to me with proof of your citizenship.
@@ -65,9 +65,9 @@ eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
 
- **You receive:** None 
+ **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
 
-elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)
+elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**Elder Hymnist Hortitosh says:** Soandso, citizen of Shar Vahl, accept this cloak as a symbol of your loyalty and service to our noble people. It will grow with you, young initiate, and like you it has incredible potential. Present your slate of citizenship to Gherik and he will guide you through your early training. May your songs inspire us all!
@@ -76,9 +76,9 @@ elseif **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of S
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
 
-elseif **You turn in:** [Case of Guard Uniforms](/item/3920)
+elseif( **You turn in:** [Case of Guard Uniforms](/item/3920)) then
 
 
 >**Elder Hymnist Hortitosh says:** These are finely crafted indeed, Soandso. Merchant Fahaar told me you were quite the prodigy, but don't tell him I told you that. Take this receipt and show it to Fahaar and tell him the king is quite pleased with both your work, and his teaching!

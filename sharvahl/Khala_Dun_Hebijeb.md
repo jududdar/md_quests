@@ -200,12 +200,12 @@ end
 
 
 
-if **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)
+if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then
 
 
 >**Khala Dun Hebijeb says:** I was told to expect you, Soandso. It is my duty to supervise this stage of your training, which will help strengthen you in preparation for your life of service to our people. There is much to do in very little time so let us begin. There are creatures that roam freely at the base of the rock on which we live. You are tasked with demonstrating a basic understanding of combat by defeating skeletons of grimlings and delivering to me four of their femurs.
 
-elseif **You turn in:** [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443)
+elseif( **You turn in:** [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443)) then
 
 
 >*Khala Dun Hebijeb looks at you with an expression of approval*
@@ -219,7 +219,7 @@ elseif **You turn in:** [Skeletal Grimling Femur](/item/3443), [Skeletal Grimlin
 
  **You receive:**  [Crude Bone Short Sword](/item/3445) (+1000 exp)
 
-elseif **You turn in:** [Pinch of Acrylia Dust](/item/3449)
+elseif( **You turn in:** [Pinch of Acrylia Dust](/item/3449)) then
 
 
 >*Khala Dun Hebijeb takes the acrylia dust and places it in a vial already half full of the metal*
@@ -230,7 +230,7 @@ elseif **You turn in:** [Pinch of Acrylia Dust](/item/3449)
 
  **You receive:**  [Buckler Frame Mold](/item/3450) 
 
-elseif **You turn in:** [Buckler Frame](/item/3451), [Crude Bone Short Sword](/item/3445), [Initiate's Cloak of Shar Vahl](/item/2878)
+elseif( **You turn in:** [Buckler Frame](/item/3451), [Crude Bone Short Sword](/item/3445), [Initiate's Cloak of Shar Vahl](/item/2878)) then
 
 
 >**Khala Dun Hebijeb says:** Your progress pleases our order young one, and I am proud to promote you to the rank of recruit within the Khala Dun. Wear this cloak with pride, Soandso. I have completed your buckler as well as enhanced your sword. The blade will now be more effective when used against the skeletons from which it was constructed. Show the buckler to Armsman Khaigesh and he will instruct you further.
@@ -242,6 +242,6 @@ elseif **You turn in:** [Buckler Frame](/item/3451), [Crude Bone Short Sword](/i
 * __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
 
 
- **You receive:** None 
+ **You receive:** GiveAll( [Buckler of the Recruit](/item/3452), [Cloak of the Khala Dun Recruit](/item/3453), [Skeletonbane Short Sword](/item/3454)) (+2000 exp)
 
 **This NPC *should* return incorrect items given.**

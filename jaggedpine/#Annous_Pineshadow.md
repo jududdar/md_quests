@@ -177,7 +177,7 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Azure Idol of Karana](/item/8956)
+if( **Faction is** > Warmly and  **You turn in:** [Azure Idol of Karana](/item/8956)) then
 
 
 e.self:Say("Marvelously done, my friend. The idol's return by your hand bodes well indeed toward the success of your quest. Now, it shall remain without a hand to possess it 
@@ -200,7 +200,7 @@ e.self:Say("Marvelously done, my friend. The idol's return by your hand bodes we
 
 eq.set_global("galeweaver","1",1,"F");
 
-elseif( **Faction is** > Warmly and  **You turn in:** [The Rainkeepers Writ](/item/8964), [Dormant Crystal Sphere](/item/8963), [Ancient White Scroll](/item/8962)
+elseif( **Faction is** > Warmly and  **You turn in:** [The Rainkeepers Writ](/item/8964), [Dormant Crystal Sphere](/item/8963), [Ancient White Scroll](/item/8962)) then 
 
 
 e.self:Say("You have done well, my child. The ancient scroll has impressed upon it a small mirror of your faith. As it was with you through your travels, the runes have changed to reflect your own heart and what lies within it. I have woven for you the Orb of the Gale 
@@ -223,7 +223,7 @@ e.self:Say("You have done well, my child. The ancient scroll has impressed upon 
 
 eq.delete_global("galeweaver");
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Orb of the Gale](/item/8966)
+elseif( **Faction is** > Warmly and  **You turn in:** [Orb of the Gale](/item/8966)) then 
 
 
 e.self:Say("You astound me, my child. Well done indeed, and I am very pleased to know that you have been successful in these endeavors. It is an honor to bestow upon you this, our sacred symbol, and welcome you into the order of The Gale Weavers. Bear it proudly, but do not flaunt pride. Keep your sacred duties to The Rainkeeper first and foremost in your thoughts and actions 

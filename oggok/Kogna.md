@@ -50,7 +50,7 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410)
+if **Faction** >= Indifferent +50 and  **You turn in:** [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410)) then
 
 
 >**Kogna says:** No, I donut tink so. Who gived you? Bah, me most tuffest Craknek, but me no lier. Me help you be tuffer Craknek. Who gived you dese? Maybe you finded dead lizards, yes, dat it. Bah, taking dis and kills more tings. You learned much, com see me, I teaches you best Craknek ways. Keep eye on dem Greenbloods, dey nasty and not so tuff.

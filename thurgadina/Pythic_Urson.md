@@ -44,7 +44,7 @@ end
 
 
 
-if **You turn in:** [Fresh Tree Sap](/item/30058), [Bladder of Acidic Ooze](/item/30060)
+if( **You turn in:** [Fresh Tree Sap](/item/30058), [Bladder of Acidic Ooze](/item/30060)) then 
 
 
 >*Pythic Urson laughs at you and then takes the sap and bladder.  He mixes the two together and then adds something from a small pouch he carries.  With a quick sizzle he pours some on his boots and the crud melts away.  'See that?  Didnt do anythin but get rid of the crud.   This stuff is great.  It doesnt burn yer skin or valuables.  Here ya go, ya can have the rest.'*

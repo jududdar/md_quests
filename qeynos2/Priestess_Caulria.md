@@ -65,7 +65,7 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Diseased Wolf Pelt](/item/13949)
+if **Faction** >= Apprehensive and  **You turn in:** [Diseased Wolf Pelt](/item/13949)) then
 
 
 >**Priestess Caulria says:** I see you have rid our land of a beast tainted with the blood of Bertoxxulous. The Prime Healer shall look favorably upon your soul. Here is our thanks and just in case the beast may have bitten you...
@@ -95,7 +95,7 @@ if **Faction** >= Apprehensive and  **You turn in:** [Diseased Wolf Pelt](/item/
 
  **You receive:** 0 (+7250 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Putrid Bear Hide](/item/13298)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Putrid Bear Hide](/item/13298)) then
 
 
 >**Priestess Caulria says:** Oh dear. The disease has spread to the realm of the Treefolk. It must have been difficult to kill such a large and rabid beast. Here. Take one of my personal scrolls as thanks for such a brave act of devotion. I pray you can use it. If not, then perhaps one of your fellow adventurers can.
@@ -123,9 +123,9 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Putrid Bear Hide](/ite
 
 
 
- **You receive:** None 
+ **You receive:**  [Spell: Endure Disease](/item/15226) (+35350 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Fleshy Orb](/item/13950)
+elseif **Faction** >= Apprehensive and  **You turn in:** [Fleshy Orb](/item/13950)) then
 
 
 >**Priestess Caulria says:** This is odd. This could explain the increase in the number of beasts within the lands surrounding Qeynos. You must take this to Freeport. Here. You must speak with Lorme Tredore. Show him this pellet. You had best gear up for the trip. Freeport is very far away. Here is some gold. Outfit yourself at our expense.
@@ -150,6 +150,6 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Fleshy Orb](/item/1395
 
 
 
- **You receive:** None 
+ **You receive:**  [Fleshy Orb](/item/13951) (+9350 exp)
 
 **This NPC *should* return incorrect items given.**

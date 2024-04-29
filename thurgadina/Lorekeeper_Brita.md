@@ -124,7 +124,7 @@ quest_helper:silk_helmet(THURG_ARMOR.Silk_Turban, 31077),
 local item_lib = require('items');
 
 
-if  **You turn in:** [Ulthork Meat Pie](/item/1427), [Britas Napkin](/item/1417)
+if ( **You turn in:** [Ulthork Meat Pie](/item/1427), [Britas Napkin](/item/1417)) then
 
 
 >**Lorekeeper Brita says:** Ohh, that's better. I get so touchy when I'm hungry. I should probably go apologize to Derrin for being snappy. Please return this to Mordin for me.

@@ -24,7 +24,7 @@ local text = "Hey, I can't start me work without both Stonetooth's axe and the s
 
 
 
-if **You turn in:** [Small Piece of Velium](/item/22569), [Normon's axe](/item/1690)
+if( **You turn in:** [Small Piece of Velium](/item/22569), [Normon's axe](/item/1690)) then 
 
 
 >**Hakon Brightsteel says:** Excellent! I'll get ta work now. Hakon whistles an unfamiliar tune as he repairs and sharpens the pick axe. Here ye are, Soandso. Watch that old Stonetooth, he's a few steins short of a keg, if ye know what I mean.

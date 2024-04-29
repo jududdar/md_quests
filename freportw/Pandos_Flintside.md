@@ -42,22 +42,22 @@ local muffin = 0;
 
 
 
-if **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)
+if( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)) then
 
 
 muffin = 4;
 
-elseif **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)
+elseif( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)) then
 
 
 muffin = 3;
 
-elseif **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014)
+elseif( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014)) then
 
 
 muffin = 2;
 
-elseif **You turn in:** [Muffin](/item/13014)
+elseif( **You turn in:** [Muffin](/item/13014)) then
 
 
 muffin = 1;

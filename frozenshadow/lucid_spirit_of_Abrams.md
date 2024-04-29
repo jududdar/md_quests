@@ -29,7 +29,7 @@ end
 
 
 
-if **You turn in:** [Lock of Dwarven Hair](/item/1711)
+if( **You turn in:** [Lock of Dwarven Hair](/item/1711)) then 
 
 
  **You receive:**  [Arcanum of Rosh](/item/1712) (+1000 exp)

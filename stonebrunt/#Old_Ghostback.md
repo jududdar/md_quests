@@ -15,7 +15,7 @@ end
 
 
 
-if **You turn in:** [Kejekan Smithy Hammer](/item/6981)
+if( **You turn in:** [Kejekan Smithy Hammer](/item/6981)) then 
 
 
 >**Old Ghostback says:** Freeing long imprisoned spirits is a noble cause. Your hammer has our blessing to free the souls from their crystalline shadow tombs.

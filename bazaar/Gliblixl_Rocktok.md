@@ -21,7 +21,7 @@ end
 
 
 
-if **You turn in:** [Large Shipment of High Quality Ore](/item/10953)
+if( **You turn in:** [Large Shipment of High Quality Ore](/item/10953)) then
 
 
 >**Gliblixl Rocktok says:** Thank you Soandso! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
@@ -44,7 +44,7 @@ if **You turn in:** [Large Shipment of High Quality Ore](/item/10953)
 
 **Gliblixl Rocktok despawns.**
 
-elseif **You turn in:** [Small Shipment of High Quality Ore](/item/10952)
+elseif( **You turn in:** [Small Shipment of High Quality Ore](/item/10952)) then
 
 
 >**Gliblixl Rocktok says:** Thank you Soandso! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.

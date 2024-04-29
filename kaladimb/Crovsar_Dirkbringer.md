@@ -179,7 +179,7 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Aqua Goblin Backbone](/item/28067), [Pristine Skunk Claws](/item/28068), [Pristine Skunk Claws](/item/28068)
+if(expansion_flag >= 4.0 and  **You turn in:** [Aqua Goblin Backbone](/item/28067), [Pristine Skunk Claws](/item/28068), [Pristine Skunk Claws](/item/28068)) then
 
 
 >**Crovsar Dirkbringer says:** Ah thank ye Soandso. Here is yer minin pick.

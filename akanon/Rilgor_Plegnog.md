@@ -18,7 +18,7 @@ end
 
 
 
-if **You turn in:** [Old Folded Letter](/item/18703)
+if( **You turn in:** [Old Folded Letter](/item/18703)) then  
 
 
 * __Faction:__ [Dark Reflection](/faction/238) (100)
@@ -39,7 +39,7 @@ if **You turn in:** [Old Folded Letter](/item/18703)
  **You receive:**  [Dark Gold Felt Robe*](/item/13524) (+20 exp)
 
 
-elseif  **You turn in:** [Shining Metallic Robes](/item/1360)
+elseif ( **You turn in:** [Shining Metallic Robes](/item/1360)) then
 
 
 >**Rilgor Plegnog says:** Very nice!! It is perfect! Here take this pen. Have fun with it.
