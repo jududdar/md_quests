@@ -97,28 +97,31 @@ end
 
 
 
-if( **You turn in:** [Carrot Stew](/item/13959)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_858.png" alt="" /> <a
+                                href="/item/13959" data-url="13959" class="tooltip-link link">Carrot Stew</a>) then 
 
 
 >**Deputy Lowmot says:** Oh good!  Hey.  You are not Jillin..  Helping out Blinza huh?  She is quite a woman..  Yes indeed.  Quite a woman..  ah..  Oh sorry.  Here you go.  Thanks again.  Mayor Gubbin will be pleased.
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (1)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-1)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-6 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

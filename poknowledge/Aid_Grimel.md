@@ -44,7 +44,8 @@ if ( e.other:GetRawSkill(63) > 219 ) then
 
 
 
-**You receive:**  [Filthy Breastplate](/item/15984)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/15984" data-url="15984" class="tooltip-link link">Filthy Breastplate</a>
 
 
 
@@ -95,7 +96,8 @@ if ( e.other:GetRawSkill(65) > 219 ) then
 
 
 
-**You receive:**  [Portable Drink Barrel](/item/17179)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_979.png" alt="" /> <a
+                                href="/item/17179" data-url="17179" class="tooltip-link link">Portable Drink Barrel</a>
 
 
 
@@ -161,7 +163,8 @@ if ( e.other:GetRawSkill(68) > 219 ) then
 
 
 
-**You receive:**  [Etching Dust](/item/15988)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/15988" data-url="15988" class="tooltip-link link">Etching Dust</a>
 
 
 
@@ -207,7 +210,8 @@ if ( e.other:GetRawSkill(69) > 219 ) then
 
 
 
-**You receive:**  [Urn Pattern](/item/16243)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/16243" data-url="16243" class="tooltip-link link">Urn Pattern</a>
 
 
 
@@ -349,7 +353,8 @@ if ( e.other:GetRawSkill(60) > 219 ) then
 
 
 
-**You receive:**  [Field Satchel](/item/17180)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17180" data-url="17180" class="tooltip-link link">Field Satchel</a>
 
 
 
@@ -384,60 +389,89 @@ end
 
 
 
-if( **You turn in:** [Imbued Breastplate](/item/15985)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/15985" data-url="15985" class="tooltip-link link">Imbued Breastplate</a>) then 
 
 
 >*Aid Grimel smiles. 'What a wonderful job!  Councilman Taldarius shall wear this on our next adventure, I am sure he will find it more protective than his old one.   Take this signet as a token of my gratitude.  If you are not too busy I have another task, do you have any brewing skill?'*
 
 
- **You receive:**  [Hardened Leather Signet](/item/16249) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1071.png" alt="" /> <a
+                                href="/item/16249" data-url="16249" class="tooltip-link link">Hardened Leather Signet</a> 
 
-if( **You turn in:** [Portable Drink](/item/15993), [Portable Drink Barrel](/item/17179)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1238.png" alt="" /> <a
+                                href="/item/15993" data-url="15993" class="tooltip-link link">Portable Drink</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_979.png" alt="" /> <a
+                                href="/item/17179" data-url="17179" class="tooltip-link link">Portable Drink Barrel</a>) then 
 
 
 >*Aid Grimel gulps down a Twice Brewed Constitutional and burps loudly! 'Ahhhh that was refreshing! That should hold me over for quite some time. I see you are quite deft of hand, perhaps you would care to put your jewel craft skills to the test?'*
 
 
- **You receive:**  [Clay Signet](/item/16250) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1048.png" alt="" /> <a
+                                href="/item/16250" data-url="16250" class="tooltip-link link">Clay Signet</a> 
 
-if( **You turn in:** [Velium Blue Diamond Ring](/item/15991)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_513.png" alt="" /> <a
+                                href="/item/15991" data-url="15991" class="tooltip-link link">Velium Blue Diamond Ring</a>) then 
 
 
 >*Aid Grimel grins. 'Quite a nice ring you have made for me Soandso. May it serve me as well as my old ring. Here take this signet. We seem to be finishing the tasks on my list at a nice pace. Tell me when you are ready to use some clay.*
 
 
- **You receive:**  [Wooden Signet](/item/16251) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_534.png" alt="" /> <a
+                                href="/item/16251" data-url="16251" class="tooltip-link link">Wooden Signet</a> 
 
-if( **You turn in:** [Filled Sacred Urn](/item/16246)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/16246" data-url="16246" class="tooltip-link link">Filled Sacred Urn</a>) then 
 
 
 >**Aid Grimel says:** Outstanding work Soandso! I can feel the purity of the water radiating through the clay. Are ye skilled with the needle as well as an accomplished potter?
 
 
- **You receive:**  [Metal Signet](/item/16252) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_522.png" alt="" /> <a
+                                href="/item/16252" data-url="16252" class="tooltip-link link">Metal Signet</a> 
 
-if( **You turn in:** [Fire Undergarment Tunic](/item/15986)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_838.png" alt="" /> <a
+                                href="/item/15986" data-url="15986" class="tooltip-link link">Fire Undergarment Tunic</a>) then 
 
 
 >*Aid Grimel Aid Grimel inspects the tunic. 'Good work Soandso.  This will definitely serve Councilman Taldarius well.  Here take this!  If you have skills with a fletching knife I may have a job for you to do.'*
 
 
- **You receive:**  [Marked Signet](/item/1079) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/1079" data-url="1079" class="tooltip-link link">Marked Signet</a> 
 
-if( **You turn in:** [Signet Featherwood Bow](/item/16247)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/16247" data-url="16247" class="tooltip-link link">Signet Featherwood Bow</a>) then 
 
 
 >**Aid Grimel says:** Masterful work Soandso! I can see your skill in the curves of the bow. Take this as a sign of my respect for your skill. The last item I need before we can be off is some food. I warn you this will truly test your skills. Do you fancy yourself a master chef?
 
 
- **You receive:**  [Runed Signet](/item/16254) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1250.png" alt="" /> <a
+                                href="/item/16254" data-url="16254" class="tooltip-link link">Runed Signet</a> 
 
-if( **You turn in:** [Food Satchel](/item/16248)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/16248" data-url="16248" class="tooltip-link link">Food Satchel</a>) then 
 
 
 >**Aid Grimel says:** Truly amazing! Now the Councilman and I can be off on our expedition to the Elemental Planes!' He takes out a tool and marks his signet before handing it to you, 'Before we depart you may want to ask the Councilman about the signet.
 
 
- **You receive:**  [Marked Runed Signet](/item/16256) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1250.png" alt="" /> <a
+                                href="/item/16256" data-url="16256" class="tooltip-link link">Marked Runed Signet</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

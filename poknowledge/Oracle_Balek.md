@@ -5,7 +5,15 @@
 
 
 
-local count =  **You turn in:**  { [Scaled Hierophant Boots](/item/5182),  [Scaled Hierophant Gauntlets](/item/5183),  [Scaled Hierophant Vambraces](/item/5184),  [Scaled Hierophant Greaves](/item/5185),  [Scaled Hierophant Bracers](/item/5186),  [Scaled Hierophant Breastplate](/item/5187),  [Scaled Hierophant Helm](/item/5188),  [Scaled Hierophant Cloak](/item/5189)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/5182" data-url="5182" class="tooltip-link link">Scaled Hierophant Boots</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/5183" data-url="5183" class="tooltip-link link">Scaled Hierophant Gauntlets</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/5184" data-url="5184" class="tooltip-link link">Scaled Hierophant Vambraces</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/5185" data-url="5185" class="tooltip-link link">Scaled Hierophant Greaves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/5186" data-url="5186" class="tooltip-link link">Scaled Hierophant Bracers</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/5187" data-url="5187" class="tooltip-link link">Scaled Hierophant Breastplate</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/5188" data-url="5188" class="tooltip-link link">Scaled Hierophant Helm</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/5189" data-url="5189" class="tooltip-link link">Scaled Hierophant Cloak</a>}
 
 if(count > 0) then
 
@@ -18,7 +26,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Peridot](/item/10028), 10037, 22503, 15981) (+300000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
+
+ 
 
 
 

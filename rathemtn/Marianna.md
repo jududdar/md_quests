@@ -41,28 +41,33 @@ local text = "I said two portions of rotten shark meat.";
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Rotten Shark Meat](/item/12310), [Rotten Shark Meat](/item/12310)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/12310" data-url="12310" class="tooltip-link link">Rotten Shark Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/12310" data-url="12310" class="tooltip-link link">Rotten Shark Meat</a>) then
 
 
 >**Marianna says:** You now own a mold for the Vambraces of Ro.  Go and ask Thomas of [Lord Searfire] for the final component.
 
 
-* __Faction:__ [Priests of Life](/faction/341) (20)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (6)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-5)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Mold of Ro Vambrace](/item/12300) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12300" data-url="12300" class="tooltip-link link">Mold of Ro Vambrace</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

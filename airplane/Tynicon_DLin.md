@@ -46,7 +46,10 @@ end
 
 
 
-if( **You turn in:** [Griffon Statuette](/item/20950), [Blood Sky Emerald](/item/20703), [Rusted Pauldrons](/item/20704)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20950" data-url="20950" class="tooltip-link link">Griffon Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/20703" data-url="20703" class="tooltip-link link">Blood Sky Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/20704" data-url="20704" class="tooltip-link link">Rusted Pauldrons</a>) then 
 
 
 
@@ -54,10 +57,16 @@ if( **You turn in:** [Griffon Statuette](/item/20950), [Blood Sky Emerald](/item
 
 
 
- **You receive:**  [Blood Sky Face Plate](/item/4322) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/4322" data-url="4322" class="tooltip-link link">Blood Sky Face Plate</a> (+100000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Efreeti War Shield](/item/20705), [Dark Spiroc Feather](/item/20957), [Obsidian Shard](/item/20706)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_606.png" alt="" /> <a
+                                href="/item/20705" data-url="20705" class="tooltip-link link">Efreeti War Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20957" data-url="20957" class="tooltip-link link">Dark Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/20706" data-url="20706" class="tooltip-link link">Obsidian Shard</a>) then 
 
 
 
@@ -67,20 +76,34 @@ elseif( **You turn in:** [Efreeti War Shield](/item/20705), [Dark Spiroc Feather
 >**Tynicon DLin says:** This shield of evil shall guard you well, dark one.
 
 
- **You receive:**  [Obtenebrate Mithril Guard](/item/11678) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_970.png" alt="" /> <a
+                                href="/item/11678" data-url="11678" class="tooltip-link link">Obtenebrate Mithril Guard</a> (+100000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Large Sky Pearl](/item/20707), [Jar of Honey](/item/20708), [Sphinxian Ring](/item/20709), [Fae Pauldrons](/item/20710)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/20707" data-url="20707" class="tooltip-link link">Large Sky Pearl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/20708" data-url="20708" class="tooltip-link link">Jar of Honey</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_614.png" alt="" /> <a
+                                href="/item/20709" data-url="20709" class="tooltip-link link">Sphinxian Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/20710" data-url="20710" class="tooltip-link link">Fae Pauldrons</a>) then 
 
 
 
 >**Tynicon DLin says:** Be fooled not by their appearance. They are as evil as you, and will protect you well.
 
 
- **You receive:**  [Pearlescent Pauldrons](/item/11699) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/11699" data-url="11699" class="tooltip-link link">Pearlescent Pauldrons</a> (+100000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Efreeti War Axe](/item/20711), [Dulcet Nectar](/item/20964), [Blood Sky Ruby](/item/20713), [Bloodstained Hilt](/item/20712)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1167.png" alt="" /> <a
+                                href="/item/20711" data-url="20711" class="tooltip-link link">Efreeti War Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20964" data-url="20964" class="tooltip-link link">Dulcet Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_950.png" alt="" /> <a
+                                href="/item/20713" data-url="20713" class="tooltip-link link">Blood Sky Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_973.png" alt="" /> <a
+                                href="/item/20712" data-url="20712" class="tooltip-link link">Bloodstained Hilt</a>) then 
 
 
 
@@ -90,7 +113,10 @@ elseif( **You turn in:** [Efreeti War Axe](/item/20711), [Dulcet Nectar](/item/2
 >**Tynicon DLin says:** The blade I have given you is called Khyldorn, Drinker of Blood.  It was forged a millennium ago and tempered in the blood of Veeshan herself.  Wield it well, Soandso.  For if you do, it will never fail you.
 
 
- **You receive:**  [Khyldorn the Blood Drinker](/item/27707) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_847.png" alt="" /> <a
+                                href="/item/27707" data-url="27707" class="tooltip-link link">Khyldorn the Blood Drinker</a> (+100000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

@@ -21,7 +21,8 @@ end
 
 
 
-if( **You turn in:** [Breath of Gwan](/item/1685)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1155.png" alt="" /> <a
+                                href="/item/1685" data-url="1685" class="tooltip-link link">Breath of Gwan</a>) then 
 
 
 e.self:SetAppearance(0);

@@ -17,16 +17,19 @@ end
 
 
 
-if( **You turn in:** [a lucky skunk foot](/item/6876)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/6876" data-url="6876" class="tooltip-link link">a lucky skunk foot</a>) then
 
 
 >**Vinny V. D-vicci says:** Nice work kid. Now I'm feelin lucky. So's ya say ya wanna learn about cards right? Lemme tell ya. Them cards are nice but lets have some REAL fun. Yer resourceful, I like that. What say we take over this joint fer ourselves? Ol' Bristle's gettin soft, ya know? Wadda ya say? Man or mouse?
 
 
-* __Faction:__ [Denizens of Mischief](/faction/437) (2)
+Your faction standing with [Denizens of Mischief](/faction/437) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -22,7 +22,10 @@ local text = "I told you that I need two sabertooth kitten canines and the legio
 
 
 
-if( **You turn in:** [Legion Order](/item/18246), [Sabertooth Kitten Canine](/item/12670), [Sabertooth Kitten Canine](/item/12670)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18246" data-url="18246" class="tooltip-link link">Legion Order</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/12670" data-url="12670" class="tooltip-link link">Sabertooth Kitten Canine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/12670" data-url="12670" class="tooltip-link link">Sabertooth Kitten Canine</a>) then 
 
 
 >**Trooper Ozlot says:** I suppose you were sent by the legion. I will sign. Here is the legion order back. Now, leave, so I can finish my watch.
@@ -31,29 +34,32 @@ if( **You turn in:** [Legion Order](/item/18246), [Sabertooth Kitten Canine](/it
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
-
-
-
-
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
-
-
-
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Legion Order](/item/18247) (+800 exp)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
+
+
+
+
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18247" data-url="18247" class="tooltip-link link">Legion Order</a> (+800 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

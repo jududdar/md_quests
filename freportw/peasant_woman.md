@@ -20,6 +20,7 @@
 >**peasant woman says:** Surely you are a pure soul. If you would take this bucket of water to my brother, I would be forever grateful. I am just so tired, I need to rest... She slumps to the floor and begins to breathe shallowly, in short, harsh gasps.
 
 
-**You receive:**  [bucket of water](/item/29008)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1016.png" alt="" /> <a
+                                href="/item/29008" data-url="29008" class="tooltip-link link">bucket of water</a>
 end
 

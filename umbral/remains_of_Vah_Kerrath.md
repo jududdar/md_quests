@@ -57,26 +57,36 @@ end
 
 
 
-if( **You turn in:** [Soul Essence of Aten Ha Ra](/item/8365)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/8365" data-url="8365" class="tooltip-link link">Soul Essence of Aten Ha Ra</a>) then 
 
 
 >**remains of Vah Kerrath says:** Soandso, you have done more than was ever expected. Take this and my blessing will be with you always.
 
 
- **You receive:**  [Talisman of Vah Kerrath](/item/8364) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/8364" data-url="8364" class="tooltip-link link">Talisman of Vah Kerrath</a> (+2000 exp)
 
-elseif( **You turn in:** [Elysian Skull](/item/28102), [Elysian Skull](/item/28102), [Elysian Skull](/item/28102), [Elysian Skull](/item/28102)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/28102" data-url="28102" class="tooltip-link link">Elysian Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/28102" data-url="28102" class="tooltip-link link">Elysian Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/28102" data-url="28102" class="tooltip-link link">Elysian Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/28102" data-url="28102" class="tooltip-link link">Elysian Skull</a>) then
 
 
 >**remains of Vah Kerrath says:** You have done well. Clear your mind of all distractions and ask the whisperlings if you are worthy of my knowledge.
 
 
-* __Faction:__ [Whisperling](/faction/1520) (5)
+Your faction standing with [Whisperling](/faction/1520) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Akheva](/faction/1521) (-1)
+Your faction standing with [Akheva](/faction/1521) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -20,33 +20,37 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Soul Trap](/item/7114)) then 
+if **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/7114" data-url="7114" class="tooltip-link link">Soul Trap</a>) then 
 
 
 >**Tormented Soul says:** Ahhh. Sweet release. Wait... What is this? No! Do not bind me to this filthy bit of leather! Release! Curse you and curse Azrax to damnation!
 
 
-* __Faction:__ [Heretics](/faction/265) (75)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-15)
-
-
-
-* __Faction:__ [Gate Callers](/faction/254) (-15)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-15</span>)
 
 
 
-
-
-* __Faction:__ [Craftkeepers](/faction/231) (-15)
-
-
-* __Faction:__ [Crimson Hands](/faction/233) (-15)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-15</span>)
 
 
 
- **You receive:**  [Mantle of Souls](/item/7105) (+5000 exp)
+
+
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-15</span>)
+
+
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-15</span>)
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/7105" data-url="7105" class="tooltip-link link">Mantle of Souls</a> (+5000 exp)
+
+ 
 
 
 **Tormented Soul despawns.**

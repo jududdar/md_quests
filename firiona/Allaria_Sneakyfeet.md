@@ -20,7 +20,8 @@
 >**Allaria Sneakyfeet says:** Very well then. Here are the plans for the weapon that is said to cut holes into the enemy without much effort. Legend has it that if the wind is blowing, your enemy will be whistling after the fight. But they won't be whistling voluntarily.' Allaria smiles. 'Good luck to you friend.
 
 
-**You receive:**  [Rozzuts plans](/item/18347)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/18347" data-url="18347" class="tooltip-link link">Rozzuts plans</a>
 end
 
 ## Turn-Ins

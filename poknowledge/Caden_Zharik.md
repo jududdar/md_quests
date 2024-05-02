@@ -19,7 +19,8 @@ end
 
 
 
-if( **You turn in:** [Note to Caden](/item/28084)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28084" data-url="28084" class="tooltip-link link">Note to Caden</a>) then
 
 
 >*Caden Zharik eyes go wide with relief. 'Oh thank you thank you! Here, take the standard. And do apologize to Boiron for me. It shall never happen again. Again, thank you!'*
@@ -28,6 +29,9 @@ if( **You turn in:** [Note to Caden](/item/28084)) then
 
 
 
- **You receive:**  [Boirons Standard](/item/28085) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/28085" data-url="28085" class="tooltip-link link">Boirons Standard</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

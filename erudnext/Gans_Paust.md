@@ -65,7 +65,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Ganss note to Yelesom](/item/18173)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18173" data-url="18173" class="tooltip-link link">Ganss note to Yelesom</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -95,24 +96,29 @@ else
 
 
 
-if( **You turn in:** [A tattered note](/item/18724)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18724" data-url="18724" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Gans Paust says:** Yes. welcome friend! Here is your guild tunic. You'll make a fine addition to the Deepwater Knights. Go see Dleria, she will get you started in your studies.
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (100)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (15)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-15)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Old Blue Tunic*](/item/13544) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13544" data-url="13544" class="tooltip-link link">Old Blue Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Yelesom's Reports](/item/1771)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/1771" data-url="1771" class="tooltip-link link">Yelesom's Reports</a>) then
 
 
 >**Gans Paust says:** Ahhh, thank you for your effort, Soandso. I'm glad he's doing ok despite the theft. I now award you the Sleeves of Midnight Sea. May they protect you until the time of our glorious redemption.
@@ -121,16 +127,19 @@ elseif **Faction** >= Amiable and  **You turn in:** [Yelesom's Reports](/item/17
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (25)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-3)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Midnight Sea Mail Sleeves](/item/1763) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/1763" data-url="1763" class="tooltip-link link">Midnight Sea Mail Sleeves</a> (+2500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

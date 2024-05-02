@@ -23,7 +23,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `boot`
@@ -35,7 +36,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `bracer`
@@ -47,7 +49,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `helm`
@@ -59,7 +62,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `greaves`
@@ -71,7 +75,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `vambrace`
@@ -83,7 +88,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `breastplate`
@@ -95,7 +101,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 end
 
@@ -108,35 +115,44 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Note to Torin Krentar](/item/20207)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20207" data-url="20207" class="tooltip-link link">Note to Torin Krentar</a>) then
 
 
 >**Torin Krentar says:** Well met young disciple of Bertoxxulous. Perhaps one day you shall serve the Plague Lord in his realm, but for now you will serve the Bloodsabers, his mortal agents on Norrath. The armor you seek must be assembled using this Mail Assembly Kit. The materials necessary to construct the armor vary depending on the piece being crafted. Do you wish to craft [Gauntlets] of the Pestilence Priests, [Boots] of the Pestilence Priests, a [Bracer] of the Pestilence Priests, a [Helm] of the Pestilence Priests, [Greaves] of the Pestilence Priests, [Vambraces] of the Pestilence Priests, or a [Breastplate] of the Pestilence Priests?
 
 
- **You receive:**  [Mail Assembly Kit](/item/17124) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a> 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Bloodsaber Mace](/item/20199), [Giant King Snake Skin](/item/19946)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/20199" data-url="20199" class="tooltip-link link">Refined Bloodsaber Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/19946" data-url="19946" class="tooltip-link link">Giant King Snake Skin</a>) then
 
 
 >*Torin Krentar fashions a grip from the giant king snake skin and polishes the mace with a strange dark substance. 'Wield it with pride young priest, may you spread the disease!*
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (5)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Pestilence Priest Mace](/item/20261) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/20261" data-url="20261" class="tooltip-link link">Pestilence Priest Mace</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

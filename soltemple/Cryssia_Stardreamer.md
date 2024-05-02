@@ -84,61 +84,85 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Dark Boned Bracelet](/item/10564), [Griffenne Charm](/item/10563), [Lambent Fire Opal](/item/10128)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_505.png" alt="" /> <a
+                                href="/item/10564" data-url="10564" class="tooltip-link link">Dark Boned Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/10563" data-url="10563" class="tooltip-link link">Griffenne Charm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/10128" data-url="10128" class="tooltip-link link">Lambent Fire Opal</a>) then
 
 
 >**Cryssia Stardreamer says:** Good show, Soandso, here is your lambent bracer
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Bracers](/item/4156) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4156" data-url="4156" class="tooltip-link link">Lambent Bracers</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Basalt Carapace](/item/4100), [Consortium Mandolin](/item/10565), [Lambent Ruby](/item/10118)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/4100" data-url="4100" class="tooltip-link link">Basalt Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/10565" data-url="10565" class="tooltip-link link">Consortium Mandolin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10118" data-url="10118" class="tooltip-link link">Lambent Ruby</a>) then
 
 
 >**Cryssia Stardreamer says:** Exceptionally well done, Soandso, here is your lambent breastplate. Wear it with pride.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Breastplate](/item/4154) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4154" data-url="4154" class="tooltip-link link">Lambent Breastplate</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Mudwater Rune](/item/10559), [Opoline Helm](/item/4099), [Lambent Star Ruby](/item/10117)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10559" data-url="10559" class="tooltip-link link">Mudwater Rune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/4099" data-url="4099" class="tooltip-link link">Opoline Helm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10117" data-url="10117" class="tooltip-link link">Lambent Star Ruby</a>) then
 
 
 >**Cryssia Stardreamer says:** Well done, Soandso, here is your lambent helm. Wear it with the praises of the League of Antonican Bards.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Helm](/item/4153) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/4153" data-url="4153" class="tooltip-link link">Lambent Helm</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fiery Vambraces](/item/4113), [Rune of the One Eye](/item/10560), [Lambent Sapphire](/item/10119)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/4113" data-url="4113" class="tooltip-link link">Fiery Vambraces</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10560" data-url="10560" class="tooltip-link link">Rune of the One Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10119" data-url="10119" class="tooltip-link link">Lambent Sapphire</a>) then
 
 
 >**Cryssia Stardreamer says:** Excellent, Soandso, you have proved yourself most resourceful. Here are your lambent vambraces.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Vambraces](/item/4155) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4155" data-url="4155" class="tooltip-link link">Lambent Vambraces</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

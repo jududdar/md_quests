@@ -23,14 +23,21 @@ local text = "Oh thank you ever so much! You are truly as sweet as the gift you 
 
 
 
-if( **You turn in:** [Payala Fruit](/item/30619), [Payala Fruit](/item/30619), [Payala Fruit](/item/30619), [Payala Fruit](/item/30619)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/30619" data-url="30619" class="tooltip-link link">Payala Fruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/30619" data-url="30619" class="tooltip-link link">Payala Fruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/30619" data-url="30619" class="tooltip-link link">Payala Fruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/30619" data-url="30619" class="tooltip-link link">Payala Fruit</a>) then
 
 
 >**Saren Kaja says:** You're just wonderful Soandso! I have little to repay your kindness with, but I will squeeze you some fresh Payala Nectar.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Sweet Payala Nectar](/item/30625) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/30625" data-url="30625" class="tooltip-link link">Sweet Payala Nectar</a> (+2500 exp)
+
+ 
 end

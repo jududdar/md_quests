@@ -25,13 +25,18 @@ end
 
 
 
-if( **You turn in:** [Softly Glowing Stone](/item/20462), [Pulsing Green Stone](/item/20461)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/20462" data-url="20462" class="tooltip-link link">Softly Glowing Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/20461" data-url="20461" class="tooltip-link link">Pulsing Green Stone</a>) then
 
 
 >*Foloal Stormforest blinks and carefully takes the stones from you, cautiously scratching the jagged green stone against the other. Its skin seems to shiver and flake at the contact and eventually begins to shine brightly. 'With the gem nature's balance is complete. Take the stone and walk your path. Blade or lightning caller, burning sword or the mother's walk.'*
 
 
- **You receive:**  [Warmly Glowing Stone](/item/20468) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/20468" data-url="20468" class="tooltip-link link">Warmly Glowing Stone</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

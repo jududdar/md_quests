@@ -28,7 +28,8 @@
 >**Steaon Alarenier says:** All right! Great to hear that Soandso. Here are the supplies I need delivered to my partner Gearo in the Bazaar. Please take them to him and return with whatever he has picked up for me. I look forward to seeing you soon, and thank you.
 
 
-**You receive:**  [Assorted Tailoring Supplies](/item/4766)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_892.png" alt="" /> <a
+                                href="/item/4766" data-url="4766" class="tooltip-link link">Assorted Tailoring Supplies</a>
 end
 
 ## Turn-Ins
@@ -37,28 +38,31 @@ end
 
 
 
-if( **You turn in:** [Bag of Assorted Gems](/item/4767)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/4767" data-url="4767" class="tooltip-link link">Bag of Assorted Gems</a>) then 
 
 
 >**Steaon Alarenier says:** Hey again Soandso. It's nice to see you back so soon, thank you for bringing my supplies to that crazy Gnome and bringing back my gems that he got for me. You are always welcome in my shop, good luck to you!
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (25)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [House of Fordel](/faction/1510) (2)
+Your faction standing with [House of Fordel](/faction/1510) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [House of Midst](/faction/1511) (2)
+Your faction standing with [House of Midst](/faction/1511) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [House of Stout](/faction/1512) (2)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+2</span>)
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

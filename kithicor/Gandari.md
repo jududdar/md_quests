@@ -48,85 +48,111 @@ local text1 = "Wait, Soandso, are you not forgetting something?";
 
 
 
-if( **You turn in:** [Rune of Ivy](/item/10569), [Water Ring](/item/10546), [Fire Emerald](/item/10033)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10569" data-url="10569" class="tooltip-link link">Rune of Ivy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/10546" data-url="10546" class="tooltip-link link">Water Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ivy Etched Bracer](/item/3189) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3189" data-url="3189" class="tooltip-link link">Ivy Etched Bracer</a> (+10000 exp)
 
-elseif( **You turn in:** [Rune of Ivy](/item/10566), [Cyclops Charm](/item/10570), [Sapphire](/item/10034)) then 
+ 
 
-
->**Gandari says:** Well done. May Karana bless your soul.
-
-
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
-
-
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
-
-
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
-
-
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
-
-
- **You receive:**  [Ivy Etched Helm](/item/3181) (+10000 exp)
-
-elseif( **You turn in:** [Heart of Fire](/item/10548), [Rune of Ivy](/item/10568), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10566" data-url="10566" class="tooltip-link link">Rune of Ivy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/10570" data-url="10570" class="tooltip-link link">Cyclops Charm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ivy Etched Sleeves](/item/3188) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3181" data-url="3181" class="tooltip-link link">Ivy Etched Helm</a> (+10000 exp)
 
-elseif( **You turn in:** [Skull of Meldrath](/item/10571), [Rune of Ivy](/item/10567), [Ruby](/item/10035), [Ruby](/item/10035)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10548" data-url="10548" class="tooltip-link link">Heart of Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10568" data-url="10568" class="tooltip-link link">Rune of Ivy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then 
 
 
 >**Gandari says:** Well done. May Karana bless your soul.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ivy Etched Tunic](/item/3184) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3188" data-url="3188" class="tooltip-link link">Ivy Etched Sleeves</a> (+10000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/10571" data-url="10571" class="tooltip-link link">Skull of Meldrath</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10567" data-url="10567" class="tooltip-link link">Rune of Ivy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then 
+
+
+>**Gandari says:** Well done. May Karana bless your soul.
+
+
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+10</span>)
+
+
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
+
+
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
+
+
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3184" data-url="3184" class="tooltip-link link">Ivy Etched Tunic</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

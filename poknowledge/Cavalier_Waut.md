@@ -13,11 +13,14 @@ end
 
 
 
-local ethereal =  **You turn in:**  { [Ethereal Parchment](/item/29112)}
+local ethereal =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a>}
 
-local spectral =  **You turn in:**  { [Spectral Parchment](/item/29131)}
+local spectral =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a>}
 
-local glyphed =  **You turn in:**  { [Glyphed Rune Word](/item/29132)}
+local glyphed =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a>}
 
 if(ethereal > 0) then
 
@@ -30,7 +33,15 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Greater Immobilize](/item/26945), 21631, 26941, 21652, 26933, 26937) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26945" data-url="26945" class="tooltip-link link">Spell: Greater Immobilize</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21631" data-url="21631" class="tooltip-link link">Spell: Touch of Nife</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26941" data-url="26941" class="tooltip-link link">Spell: Crusaders Touch</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21652" data-url="21652" class="tooltip-link link">Spell: Force of Akilae</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26933" data-url="26933" class="tooltip-link link">Spell: Ward of Nife</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26937" data-url="26937" class="tooltip-link link">Spell: Deny Undead</a>) 
+
+ 
 
 
 
@@ -50,7 +61,14 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Pious Might](/item/26934), 26939, 21654, 26935, 21649) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26934" data-url="26934" class="tooltip-link link">Spell: Pious Might</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26939" data-url="26939" class="tooltip-link link">Spell: Light of Nife</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21654" data-url="21654" class="tooltip-link link">Spell: Aura of the Crusader</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26935" data-url="26935" class="tooltip-link link">Spell: Quellious' Word of Serenity</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21649" data-url="21649" class="tooltip-link link">Spell: Supernal Cleansing</a>) 
+
+ 
 
 
 
@@ -70,7 +88,12 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Shackles of Tunare](/item/21653), 26936, 26938) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21653" data-url="21653" class="tooltip-link link">Spell: Shackles of Tunare</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26936" data-url="26936" class="tooltip-link link">Spell: Wave of Marr</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26938" data-url="26938" class="tooltip-link link">Spell: Brell's Stalwart Shield</a>) 
+
+ 
 
 
 

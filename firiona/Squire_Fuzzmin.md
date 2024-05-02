@@ -59,7 +59,10 @@ end
 local text = "I need the three dragon scales of Azdalin, Gylton and Xyfyl.";
 
 
-if( **You turn in:** [Dragon Scales](/item/12950), [Dragon Scales](/item/12951), [Dragon Scales](/item/12952)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12950" data-url="12950" class="tooltip-link link">Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12951" data-url="12951" class="tooltip-link link">Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12952" data-url="12952" class="tooltip-link link">Dragon Scales</a>) then
 
 
 
@@ -69,23 +72,26 @@ e.self:DoAnim(20);
 >*Squire Fuzzmin tumbles around and stands on his hands. With his feet he pulls a long polearm from a nearby weapons cache!! 'Woohoo!! I can taste the brew in Freeport already. Here you are my friend. A real Wurmslayer!!'*
 
 
-* __Faction:__ [Inhabitants of Firiona Vie](/faction/248) (10)
+Your faction standing with [Inhabitants of Firiona Vie](/faction/248) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (7)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+7</span>)
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (7)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (-1)
+Your faction standing with [Legion of Cabilis](/faction/441) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Pirates of Gunthak](/faction/313) (-1)
+Your faction standing with [Pirates of Gunthak](/faction/313) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Wurmslayer](/item/5057) (+700000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5057" data-url="5057" class="tooltip-link link">Wurmslayer</a> (+700000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -26,7 +26,8 @@ if( **Faction is** >= Amiable) then
 
 
 
-**You receive:**  [A Filthy Towel](/item/18867)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18867" data-url="18867" class="tooltip-link link">A Filthy Towel</a>
 
 
 elseif( **Faction is** == Indifferent) then

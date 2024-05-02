@@ -33,7 +33,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Steel Warriors Assembly Kit](/item/17268)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17268" data-url="17268" class="tooltip-link link">Steel Warriors Assembly Kit</a>
 
 
 
@@ -53,7 +54,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 
@@ -65,7 +67,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 
@@ -77,7 +80,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 
@@ -89,7 +93,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 
@@ -101,7 +106,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 
@@ -113,7 +119,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 
@@ -125,7 +132,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 
@@ -147,30 +155,38 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [Recruitment Flyer](/item/18707)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18707" data-url="18707" class="tooltip-link link">Recruitment Flyer</a>) then 
 
 
 >**Ebon Strongbear says:** Welcome to the Hall of Steel, our swords are strong, and our warriors stronger. Here is our guild tunic. Brin Stolunger is in charge of our new recruits. Go see him, and he'll teach the basics. You look like you'll make a fine addition to our guild.
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (100)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (20)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-15)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-15)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (20)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Dirty Training Tunic*](/item/13572) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13572" data-url="13572" class="tooltip-link link">Dirty Training Tunic*</a> (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Perfect Gnoll Skin](/item/27421), [Perfect Gnoll Skin](/item/27421), [Perfect Gnoll Skin](/item/27421), [A Studded Coin Purse](/item/27422)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/27421" data-url="27421" class="tooltip-link link">Perfect Gnoll Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/27421" data-url="27421" class="tooltip-link link">Perfect Gnoll Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/27421" data-url="27421" class="tooltip-link link">Perfect Gnoll Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_722.png" alt="" /> <a
+                                href="/item/27422" data-url="27422" class="tooltip-link link">A Studded Coin Purse</a>) then
 
 
 >**Ebon Strongbear says:** I knew he would still have it, such an unintelligent one Beris is. As I promised I have crafted you a blade for your trouble. I hope you will promptly stain it with the blood of the gnolls. You have done well Soandso, good luck to you.
@@ -179,22 +195,25 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Perfect Gnoll Skin](/item/27
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (2)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Warsword of the Battlemaster](/item/27492) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1169.png" alt="" /> <a
+                                href="/item/27492" data-url="27492" class="tooltip-link link">Warsword of the Battlemaster</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

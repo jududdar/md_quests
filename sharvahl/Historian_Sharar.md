@@ -14,7 +14,8 @@
 >**Historian Sharar says:** You have a braver spirit than mine, friend, but I'm glad that someone is available to assist me.  Take care and keep alert.  The Khati Sha seem to be very troubled by something of late.
 
 
-**You receive:**  [Collection of Spirit Lore](/item/9061)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/9061" data-url="9061" class="tooltip-link link">Collection of Spirit Lore</a>
 
 **You say:** `no`
 
@@ -207,7 +208,8 @@ end
 
 
 
-if( **You turn in:** [Ahom's Journal](/item/8466)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/8466" data-url="8466" class="tooltip-link link">Ahom's Journal</a>) then
 
 
 >**Historian Sharar says:** I see that you've found the codger. He really should settle down and come in from the weather. I often find myself worrying about him these days. Adventure takes its toll on everyone. I'd like to see him settle down before the moor takes a final toll from him.
@@ -216,6 +218,10 @@ if( **You turn in:** [Ahom's Journal](/item/8466)) then
 >**Historian Sharar says:** Well, I can't say that it isn't a pleasure to have his journal. He's documented the moor with such splendid detail. I cannot wait to see what he's written in these last few seasons. It is all so very helpful. Just take a look at these earplugs. They are a product of his last set of notes. He came up with the idea, while hunting owlbear in the moor. They are supposed to keep the sound they make from harming you. You can keep them, if you take this note to General Avilah for me.
 
 
- **You receive:** GiveAll( [Earring of the Owlbear](/item/4461), [Note for General Avilah](/item/8467)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_756.png" alt="" /> <a
+                                href="/item/4461" data-url="4461" class="tooltip-link link">Earring of the Owlbear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/8467" data-url="8467" class="tooltip-link link">Note for General Avilah</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

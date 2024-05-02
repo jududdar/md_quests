@@ -47,7 +47,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Curing Kit](/item/17125)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17125" data-url="17125" class="tooltip-link link">Curing Kit</a>
 
 
 **You say:** `plague sorcerer boots`
@@ -59,7 +60,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
 
 
 **You say:** `plague sorcerer cap`
@@ -71,7 +73,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 
 **You say:** `plague sorcerer gloves`
@@ -83,7 +86,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 
 **You say:** `plague sorcerer pantaloons`
@@ -95,7 +99,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 
 **You say:** `plague sorcerer robe`
@@ -107,7 +112,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Tunic Pattern](/item/19556)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19556" data-url="19556" class="tooltip-link link">Tattered Tunic Pattern</a>
 
 
 **You say:** `plague sorcerer sleeves`
@@ -119,7 +125,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 
 **You say:** `plague sorcerer wristband`
@@ -131,7 +138,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 end
 
@@ -141,24 +149,28 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Winexs Staff](/item/10994)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/10994" data-url="10994" class="tooltip-link link">Winexs Staff</a>) then
 
 
 >**Tilkzog Mournunder says:** It is good to know that one so zealously opposed to the Dark Reflection has been eliminated. Take this Rough Hewn Staff and when you have acquired a Harpies Eye and Pristine Ebon Drakeling Scales take the Staff, Eye, and Scales to Clockwork SmithXIII. The clockwork will put the finishing touches on your new staff.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (10)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-1)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-1)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Rough Dark Reflection Staff](/item/10999) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/10999" data-url="10999" class="tooltip-link link">Rough Dark Reflection Staff</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

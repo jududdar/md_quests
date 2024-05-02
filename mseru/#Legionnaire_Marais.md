@@ -30,13 +30,18 @@ end
 
 
 
-if( **You turn in:** [torn half of a note](/item/18332)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1005.png" alt="" /> <a
+                                href="/item/18332" data-url="18332" class="tooltip-link link">torn half of a note</a>) then 
 
 
 >*Legionnaire Marais shows relief in his eyes, 'I knew someone would come if I... just held out... long enough... Take these... be careful... ' And with that, Marais allows himself to finally die.*
 
 
- **You receive:** GiveAll( [Marais' Notes](/item/18334), [Marais' Notes](/item/18333)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/18334" data-url="18334" class="tooltip-link link">Marais' Notes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/18333" data-url="18333" class="tooltip-link link">Marais' Notes</a>) 
+
+ 
 
 
 **Set a timer** named *die* for 10 seconds

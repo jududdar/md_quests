@@ -30,16 +30,23 @@ local text = "May you have the correct items or lost forever will be all.";
 
 
 
-if( **You turn in:** [A Metal Pipe](/item/12979), [A Metal Pipe](/item/12980), [Robe of the Lost Circle](/item/12256)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/12979" data-url="12979" class="tooltip-link link">A Metal Pipe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/12980" data-url="12980" class="tooltip-link link">A Metal Pipe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/12256" data-url="12256" class="tooltip-link link">Robe of the Lost Circle</a>) then 
 
 
 >*Brother Balatin holds his arms out and a fine robe materializes before your eyes. You grab it just in time to see the skeleton fade from existence.*
 
 
- **You receive:**  [Robe of the Whistling Fists](/item/12970) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/12970" data-url="12970" class="tooltip-link link">Robe of the Whistling Fists</a> 
+
+ 
 
 
-elseif( **You turn in:** [Ancient Thin Flute](/item/12429)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12429" data-url="12429" class="tooltip-link link">Ancient Thin Flute</a>) then
 
 
 >*Brother Balatin quickly stashes the flute inside of his ribcage, where it joins another. 'If you want the true Flute of Zan-Fi, you'll have to take it from me!'* 

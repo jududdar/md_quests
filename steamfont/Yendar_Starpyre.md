@@ -42,15 +42,21 @@ end
 
 
 
-if( **You turn in:** [Scribbled Parchment](/item/28053)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/28053" data-url="28053" class="tooltip-link link">Scribbled Parchment</a>) then
 
 
 >**Yendar Starpyre says:** I say, this is indeed a challenge. This is written in what I'm sure is the language of the High Priesthood of Innoruuk. I've often wished I could read this, but I have never had the key to unlock the language. Take this for now.
 
 
- **You receive:**  [Tattered Parchment](/item/28055) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/28055" data-url="28055" class="tooltip-link link">Tattered Parchment</a> (+500 exp)
 
-elseif( **You turn in:** [Tattered Parchment](/item/28055), [Book of Souls](/item/28016)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/28055" data-url="28055" class="tooltip-link link">Tattered Parchment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/28016" data-url="28016" class="tooltip-link link">Book of Souls</a>) then
 
 
 >**Yendar Starpyre says:** My, this is quite a large list! Yes, I can use the names and dates recorded here to help me understand the script. It should be a simple matter now. A moment, please. Aha, yes, there we go. Translated as best I can! I do hope you're not involved in what is described here, as it is quite fiendish. Oi! You, woman! Give that back! Soandso, that woman there took your letter! I think I should leave you to discuss it with her. Best of luck!.

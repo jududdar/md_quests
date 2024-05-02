@@ -200,42 +200,64 @@ end
 
 
 
-if( **You turn in:** [Horn Covered Buckler](/item/5550)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/5550" data-url="5550" class="tooltip-link link">Horn Covered Buckler</a>) then
 
 
 >**Khala Dun Kuash says:** You must think you're pretty tough wearin a buckler like that, eh? Well well... Perhaps you're looking to hunt some bigger game, eh? Earn a little scruff on your ears like Kuash? I thought so. I know a good place for you to start... and it's part of your civil duty. Our scouts have always had trouble with the wolves in the moor. I'm thinkin that you can start there. Maybe break in a few of the younger wolves' paws, eh? I thought so. Put your buckler back on and take this bag. Fill it with wolf paws and bring it back to me. Maybe then I'll give you a real challenge.
 
 
- **You receive:** GiveAll( [Horn Covered Buckler](/item/5550), [Worn Work Sack](/item/17114)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/5550" data-url="5550" class="tooltip-link link">Horn Covered Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/17114" data-url="17114" class="tooltip-link link">Worn Work Sack</a>) 
 
-elseif( **You turn in:** [Sack of Paws](/item/6217)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/6217" data-url="6217" class="tooltip-link link">Sack of Paws</a>) then
 
 
 >**Khala Dun Kuash says:** Well, you're beginning to scare me you're so tough! Just pullin your tail. Those were some scary beasts, eh? I thought so. I've got a dagger that helps me to deal with them. It's made in a special way to hurt the wolves more than usual. If you want one, you're going to need to make your own. I still got the molds that I used when I was craftin blades for people. If you run this status report to Bookkeeper Leaha in the Grunt Forest outpost for me, I'll go by my house and get the molds for you. Sound like a deal? I thought so.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Daily Status Report](/item/6219) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/6219" data-url="6219" class="tooltip-link link">Daily Status Report</a> (+1000 exp)
 
-elseif( **You turn in:** [Daily Status Report](/item/6221)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/6221" data-url="6221" class="tooltip-link link">Daily Status Report</a>) then
 
 
 >**Khala Dun Kuash says:** Thank you very much. I see you got it all filled out. I gathered up all of those molds for you while you were gone. You can even have this old hilt that I found with them. Make sure you keep them in a safe place. You're going to need them and the books that the book fellow Qua sells. He's got a bunch of them and a kit that you'll need. When you get done with makin your dagger, bring it back by here with your cloak and I'll show you a surprise!
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** GiveAll( [Blade Mold](/item/6141), [Claw Mold](/item/6142), [Khala Dun Hilt Piece](/item/6148)) (+1000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/6141" data-url="6141" class="tooltip-link link">Blade Mold</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/6142" data-url="6142" class="tooltip-link link">Claw Mold</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/6148" data-url="6148" class="tooltip-link link">Khala Dun Hilt Piece</a>) (+1000 exp)
 
-elseif( **You turn in:** [Cloak of the Khala Dun Apprentice](/item/5557), [Sonic Wolf Bane Dagger](/item/6158)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5557" data-url="5557" class="tooltip-link link">Cloak of the Khala Dun Apprentice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/6158" data-url="6158" class="tooltip-link link">Sonic Wolf Bane Dagger</a>) then
 
 
 e.self:Say("You have done well 
 
 
- **You receive:** GiveAll( [Cloak of the Khala Dun Journeyman](/item/6222), [Sonic Wolf Bane Dagger](/item/6158)) (+10000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/6222" data-url="6222" class="tooltip-link link">Cloak of the Khala Dun Journeyman</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/6158" data-url="6158" class="tooltip-link link">Sonic Wolf Bane Dagger</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

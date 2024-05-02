@@ -84,27 +84,31 @@ end
 
 
 
-if( **You turn in:** [Bent Playing Card](/item/13903)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/13903" data-url="13903" class="tooltip-link link">Bent Playing Card</a>) then 
 
 
 >**Jracol Brestiage says:** 'Ah, good, it seems we have much in common after all. Take this back to the Circle, before the city guards come nosing around over here.
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (5)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (3)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (5)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (5)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Sealed Note For Knargon](/item/18722) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18722" data-url="18722" class="tooltip-link link">Sealed Note For Knargon</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

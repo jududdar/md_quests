@@ -6,25 +6,29 @@
 
 
 
-if( **You turn in:** [A tattered note](/item/18718)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18718" data-url="18718" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Gahlith Wrannstad says:** Greetings, I am Gahlith, Master of the Wizard's Order of the Hall of Sorcery. Here, we have devoted our lives and souls to the study of the arcane. My apprentice Kazlo Naedra shall tutor you and teach you the fundamentals of sorcery.
 
 
-* __Faction:__ [Order of Three](/faction/342) (100)
+Your faction standing with [Order of Three](/faction/342) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-25)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-15)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Blue Training Robe*](/item/13508) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_838.png" alt="" /> <a
+                                href="/item/13508" data-url="13508" class="tooltip-link link">Blue Training Robe*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

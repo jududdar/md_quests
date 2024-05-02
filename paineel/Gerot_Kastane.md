@@ -15,26 +15,34 @@ end
 
 
 
-if( **You turn in:** [Seal of Kastane](/item/14375)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/14375" data-url="14375" class="tooltip-link link">Seal of Kastane</a>) then
 
 
 >**Gerot Kastane says:** At last! I have been waiting for my brother for weeks! We are doomed! Innoruuk will taint our seed into some perverse, twisted, maddened breed. The prophecy has begun to unfold and there are none capable of stopping it. Quickly, return this note to Marl, we must hide! We have failed the master! We must escape the hateful one's wrath!
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Note to Marl](/item/14376) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/14376" data-url="14376" class="tooltip-link link">Note to Marl</a> 
 
-elseif **Faction** >= Apprehensive +28 and  **You turn in:** [Head of Glohnor](/item/14378)) then  
+ 
+
+elseif **Faction** >= Apprehensive +28 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/14378" data-url="14378" class="tooltip-link link">Head of Glohnor</a>) then  
 
 
 >**Gerot Kastane says:** Good travels, dark one! May Innoruuk curse your enemies!
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Head of the Valiant](/item/14369) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/14369" data-url="14369" class="tooltip-link link">Head of the Valiant</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

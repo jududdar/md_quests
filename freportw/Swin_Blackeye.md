@@ -19,13 +19,10 @@ end
 
 
 
-if( **You turn in:** [Hog Key \# 2](/item/12147)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a> 
 
-
->**Swin Blackeye says:** Here you go then.
-
-
- **You receive:**  [A Sealed Letter](/item/18814) 
+ 
 
 **This NPC *should* return incorrect items given.**
 

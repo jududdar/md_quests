@@ -43,7 +43,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Boots](/item/14794)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14794" data-url="14794" class="tooltip-link link">Illegible Note: Boots</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -80,7 +81,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Bracer](/item/14791)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14791" data-url="14791" class="tooltip-link link">Illegible Note: Bracer</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -117,7 +119,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Gauntlets](/item/14792)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14792" data-url="14792" class="tooltip-link link">Illegible Note: Gauntlets</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -154,7 +157,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Greaves](/item/14793)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14793" data-url="14793" class="tooltip-link link">Illegible Note: Greaves</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -183,25 +187,41 @@ end
 
 
 
-if( **You turn in:** [Glosk's Reference: Boots](/item/14813), [Banded Boots](/item/3064)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3064" data-url="3064" class="tooltip-link link">Banded Boots</a>) then
 
 
- **You receive:**  [Trooper Scale Boots](/item/4983) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4983" data-url="4983" class="tooltip-link link">Trooper Scale Boots</a> (+10000 exp)
 
-if( **You turn in:** [Xog's Reference: Bracer](/item/14808), [Banded Bracer](/item/3061)) then
+ 
 
-
- **You receive:**  [Trooper Scale Bracers](/item/4980) (+10000 exp)
-
-if( **You turn in:** [Glosk's Reference: Greaves](/item/14831), [Banded Leggings](/item/3063)) then
-
-
- **You receive:**  [Trooper Scale Greaves](/item/4982) (+10000 exp)
-
-if( **You turn in:** [Xog's Reference: Gauntlet](/item/14809), [Banded Gauntlets](/item/3062)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3061" data-url="3061" class="tooltip-link link">Banded Bracer</a>) then
 
 
- **You receive:**  [Trooper Scale Gauntlets](/item/4981) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4980" data-url="4980" class="tooltip-link link">Trooper Scale Bracers</a> (+10000 exp)
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3063" data-url="3063" class="tooltip-link link">Banded Leggings</a>) then
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4982" data-url="4982" class="tooltip-link link">Trooper Scale Greaves</a> (+10000 exp)
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3062" data-url="3062" class="tooltip-link link">Banded Gauntlets</a>) then
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4981" data-url="4981" class="tooltip-link link">Trooper Scale Gauntlets</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -41,13 +41,17 @@ end
 
 
 
-if( **You turn in:** [Seal of Vegalys](/item/2694)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/2694" data-url="2694" class="tooltip-link link">Seal of Vegalys</a>) then
 
 
 >**Guard Helminth says:** Well, well! Vegalys did send you after all. Are you [ready to complete the mission]? I am certain I know where Azibelle is hiding.
 
 
- **You receive:**  [Seal of Vegalys](/item/2694) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/2694" data-url="2694" class="tooltip-link link">Seal of Vegalys</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

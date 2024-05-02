@@ -14,13 +14,16 @@ end
 
 
 
-if( **You turn in:** [Bronze Shackle Key](/item/6923)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/6923" data-url="6923" class="tooltip-link link">Bronze Shackle Key</a>) then
 
 
 >**an erudite prisoner says:** I thank you for freeing me from my dog faced captors!!
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

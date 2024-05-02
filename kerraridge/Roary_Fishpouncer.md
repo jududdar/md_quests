@@ -22,25 +22,34 @@ local text = "Rrrrr... I need both the spear and a frrresh fish to prrrepare the
 
 
 
-if( **You turn in:** [Raw Darkwater Piranha](/item/12318)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_799.png" alt="" /> <a
+                                href="/item/12318" data-url="12318" class="tooltip-link link">Raw Darkwater Piranha</a>) then
 
 
 >**Roary Fishpouncer says:** Rrrr... my mouth is waterrring alrrrready. Ourrr trribe shall feast well tonight. You have prrroven yourself a fisherrrman worrrthy of one of my special spearrrs. They are coated with a specially prrrepared fish oil. When all the oil has washed off, you may rrreturn the spear to me along with a frrresh fish and I will rrreapply the oil for you.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (20)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+20</span>)
 
 
 
- **You receive:**  [Kerran Fishing Spear](/item/7027) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7027" data-url="7027" class="tooltip-link link">Kerran Fishing Spear</a> 
 
-elseif( **You turn in:** [Kerran Fishing Spear](/item/7027), [Fresh Fish](/item/13019)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7027" data-url="7027" class="tooltip-link link">Kerran Fishing Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_775.png" alt="" /> <a
+                                href="/item/13019" data-url="13019" class="tooltip-link link">Fresh Fish</a>) then 
 
 
 >**Roary Fishpouncer says:** Rrrr... been doing some deepwater fishing, I presume? Here is your spear with a frrresh coat of my special oil.
 
 
- **You receive:**  [Kerran Fishing Spear](/item/7027) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7027" data-url="7027" class="tooltip-link link">Kerran Fishing Spear</a> 
+
+ 
 end
 
 

@@ -17,10 +17,14 @@ end
 
 
 
-if( **You turn in:** [An Assembled Pearlescent Shard](/item/24996)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/24996" data-url="24996" class="tooltip-link link">An Assembled Pearlescent Shard</a>) then 
 
 
- **You receive:**  [Pearlescent Seal](/item/24997) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/24997" data-url="24997" class="tooltip-link link">Pearlescent Seal</a> 
+
+ 
 
 
 **Spawn NPC:**  [Zordak Ragefire](/npc/91005) at this location.

@@ -36,28 +36,33 @@ local text = "Hey! Only one?!";
 
 
 
-if( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>) then 
 
 
 >**Trantor Everhot says:** Great! I did not have the time to get down to Irontoe's today. Here. Like I said. A spool of dwarven wire. Now go away. I ain't sharing these tonics.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (1)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dwarven Wire](/item/12111) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1140.png" alt="" /> <a
+                                href="/item/12111" data-url="12111" class="tooltip-link link">Dwarven Wire</a> (+10 exp)
+
+ 
 
 
 

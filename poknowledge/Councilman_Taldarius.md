@@ -25,29 +25,43 @@ end
 
 
 
-if( **You turn in:** [Marked Runed Signet](/item/16256), [Hope Stone](/item/16258) and not **You possess item:**  [Signet of Might](/item/16255) x 1
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1250.png" alt="" /> <a
+                                href="/item/16256" data-url="16256" class="tooltip-link link">Marked Runed Signet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/16258" data-url="16258" class="tooltip-link link">Hope Stone</a> and not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1242.png" alt="" /> <a
+                                href="/item/16255" data-url="16255" class="tooltip-link link">Signet of Might</a> x 1
 
 
 >**Councilman Taldarius says:** Wonderful! You have proven yourself as both a Master of the Trade as well as a valiant spirit. Take this and may it server you well! If this signet does not suffice, bring it back to me and i will exchange it for one more attuned to your needs.
 
 
- **You receive:**  [Signet of Might](/item/16255) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1242.png" alt="" /> <a
+                                href="/item/16255" data-url="16255" class="tooltip-link link">Signet of Might</a> 
 
-elseif( **You turn in:** [Signet of Might](/item/16255)) then 
+ 
 
-
->**Councilman Taldarius says:** I hope this is more attuned to your needs.
-
-
- **You receive:**  [Signet of  the Arcane](/item/16257) 
-
-elseif( **You turn in:** [Signet of  the Arcane](/item/16257)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1242.png" alt="" /> <a
+                                href="/item/16255" data-url="16255" class="tooltip-link link">Signet of Might</a>) then 
 
 
 >**Councilman Taldarius says:** I hope this is more attuned to your needs.
 
 
- **You receive:**  [Signet of Might](/item/16255) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_548.png" alt="" /> <a
+                                href="/item/16257" data-url="16257" class="tooltip-link link">Signet of  the Arcane</a> 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_548.png" alt="" /> <a
+                                href="/item/16257" data-url="16257" class="tooltip-link link">Signet of  the Arcane</a>) then 
+
+
+>**Councilman Taldarius says:** I hope this is more attuned to your needs.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1242.png" alt="" /> <a
+                                href="/item/16255" data-url="16255" class="tooltip-link link">Signet of Might</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

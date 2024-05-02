@@ -42,24 +42,32 @@ local text = "I will need four portions of fairy dust to create the soil of Unde
 
 
 
-if( **You turn in:** [Dirt Covered Letter](/item/18765)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18765" data-url="18765" class="tooltip-link link">Dirt Covered Letter</a>) then
 
 
 >**Priestess Ghalea says:** Welcome to the Underfoot Cathedral. I am High Priestess Ghalea. Here is your guild tunic. Now. let's get you started helping us spread the will of Brell.
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (100)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (100)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (75)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Dusty Tunic*](/item/13514) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13514" data-url="13514" class="tooltip-link link">Dusty Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Fairy Dust](/item/12106), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106)) then  
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12106" data-url="12106" class="tooltip-link link">Fairy Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12106" data-url="12106" class="tooltip-link link">Fairy Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12106" data-url="12106" class="tooltip-link link">Fairy Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12106" data-url="12106" class="tooltip-link link">Fairy Dust</a>) then  
 
 
 >**Priestess Ghalea says:** May the mighty power of Brell saturate this soil with his divinity.  Here you are, my noble friend.  You may have a pouch of the soil of Underfoot.
@@ -68,15 +76,18 @@ elseif **Faction** >= Kindly and  **You turn in:** [Fairy Dust](/item/12106), [F
 
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (5)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (3)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Soil of Underfoot](/item/12282) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/12282" data-url="12282" class="tooltip-link link">Soil of Underfoot</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

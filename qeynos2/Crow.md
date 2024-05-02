@@ -58,7 +58,8 @@ else
 
 
 
-if( **You turn in:** [A Tattered Leather Pouch](/item/17600)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/17600" data-url="17600" class="tooltip-link link">A Tattered Leather Pouch</a>) then
 
 
 >**Crow says:** What are you? The Rat's new bag man? Peh, he is useless. That bum drinks any gold he gets. Here ya go, kid!
@@ -67,22 +68,25 @@ if( **You turn in:** [A Tattered Leather Pouch](/item/17600)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (2)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Crow's Special Brew](/item/13901) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_586.png" alt="" /> <a
+                                href="/item/13901" data-url="13901" class="tooltip-link link">Crow's Special Brew</a> (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

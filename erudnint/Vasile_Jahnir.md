@@ -65,31 +65,8 @@ end
 local text = "Your proof lies in TWO summoned daggers and two summoned loaves of black bread.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Summoned: Black Bread](/item/13078), [Summoned: Black Bread](/item/13078), [Summoned: Dagger](/item/7305), [Summoned: Dagger](/item/7305)) then 
-
-
->**Vasile Jahnir says:** You have mastered these spells quickly. You shall now wear the gloves of the Gatecaller. Cumbersome they may feel, but they protect the hands of a young magician. In your young days of magic they will protect you from harm. They are not valued much by merchants, but they are prized by other circles. Nevertheless, we offer them only to our young Gatecallers. You may now be of assistance with a [slight problem].
-
-
-
-
-
-* __Faction:__ [Gate Callers](/faction/254) (5)
-
-
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
-
-
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
-
-
-* __Faction:__ [Heretics](/faction/265) (-1)
-
-
- **You receive:**  [Gloves of the Gatecaller](/item/12209) (+175 exp)
-
-
-elseif **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/13895)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_996.png" alt="" /> <a
+                                href="/item/13895" data-url="13895" class="tooltip-link link">Troll Head</a>) then 
 
 
 >**Vasile Jahnir says:** So the rumor shows true. Good work. You are an excellent student and a noble Erudite. Here is your spell as I promised. Go forth and fill your brain with knowledge.
@@ -98,19 +75,22 @@ elseif **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/13895)) t
 
 
 
-* __Faction:__ [Gate Callers](/faction/254) (10)
+Your faction standing with [Gate Callers](/faction/254) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Spell: Fire Flux](/item/15313) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15313" data-url="15313" class="tooltip-link link">Spell: Fire Flux</a> (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -24,13 +24,20 @@ end
 
 
 
-if( **You turn in:** [Saurek Shredder Claw](/item/7809), [Saurek Shredder Claw](/item/7809), [Saurek Shredder Claw](/item/7809), [Wooden Practice Flail](/item/30579)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7809" data-url="7809" class="tooltip-link link">Saurek Shredder Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7809" data-url="7809" class="tooltip-link link">Saurek Shredder Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7809" data-url="7809" class="tooltip-link link">Saurek Shredder Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/30579" data-url="30579" class="tooltip-link link">Wooden Practice Flail</a>) then
 
 
 >**Kylfa says:** takes the flail and starts placing the claws into it forming a formidable looking weapon. 'This seems a good weapon indeed. Here, you can take it for helping to test my theory of weapon crafting. Safe travels to you friend.'
 
 
- **You receive:**  [Shredder Claw Club](/item/7814) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1188.png" alt="" /> <a
+                                href="/item/7814" data-url="7814" class="tooltip-link link">Shredder Claw Club</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

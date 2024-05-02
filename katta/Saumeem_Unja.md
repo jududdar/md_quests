@@ -42,7 +42,11 @@ end
 
   
 
-if( **You turn in:** [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799), [Coterie Assassin Garrote](/item/31799)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/31799" data-url="31799" class="tooltip-link link">Coterie Assassin Garrote</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/31799" data-url="31799" class="tooltip-link link">Coterie Assassin Garrote</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/31799" data-url="31799" class="tooltip-link link">Coterie Assassin Garrote</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/31799" data-url="31799" class="tooltip-link link">Coterie Assassin Garrote</a>) then
 
 
 
@@ -50,38 +54,45 @@ if( **You turn in:** [Coterie Assassin Garrote](/item/31799), [Coterie Assassin 
 >**Saumeem Unja says:** I see you have met with success Soandso! You have earned the respect of the Validus Custodus. Please take this as a symbol of our gratitude and your bravery. You are gaining notoriety with the Coterie, be wary of the [Coterie Infiltrators].
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (10)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-5)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Reflective Combine Claymore](/item/31829) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/31829" data-url="31829" class="tooltip-link link">Reflective Combine Claymore</a> (+1000 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [Vampyre Infiltrator Fang](/item/31832), [Vampyre Infiltrator Fang](/item/31832), [Gem of Condensed Flame](/item/31831), [Reflective Combine Claymore](/item/31829)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/31832" data-url="31832" class="tooltip-link link">Vampyre Infiltrator Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/31832" data-url="31832" class="tooltip-link link">Vampyre Infiltrator Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/31831" data-url="31831" class="tooltip-link link">Gem of Condensed Flame</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/31829" data-url="31829" class="tooltip-link link">Reflective Combine Claymore</a>) then
 
 
 
@@ -90,68 +101,75 @@ elseif( **You turn in:** [Vampyre Infiltrator Fang](/item/31832), [Vampyre Infil
 >**Saumeem Unja says:** Congratulations Soandso! You have done great deeds for the Validus Custodus and the safety of Katta Castellum. I award you with Ashbringer, a weapon wielded in the past by some of the Validus Custodus most fervent undead slayers. May it pass into good hands and may it continue to turn the undead to ash and dust.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (10)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-5)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ashbringer](/item/31830) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/31830" data-url="31830" class="tooltip-link link">Ashbringer</a> (+1000 exp)
 
-elseif( **You turn in:** [Colain's Head](/item/3873)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_995.png" alt="" /> <a
+                                href="/item/3873" data-url="3873" class="tooltip-link link">Colain's Head</a>) then 
 
 
 >**Saumeem Unja says:** It is very unfortunate that you had to be exposed to such corruption.  Please, do not consider what you have seen during this situation to be the standard for our community.  This was a rare occurrence.  This situation did however allow you to prove yourself to us.  We thank you for your bravery and selfless action in this matter.  May you be followed by favor and may this small gift from my fellow governors and me assist you in your journeys.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (50)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (5)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-5)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-5)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-5)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-25)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-5)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-5)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Elaborately Gilded Wooden Spear](/item/3875) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/3875" data-url="3875" class="tooltip-link link">Elaborately Gilded Wooden Spear</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

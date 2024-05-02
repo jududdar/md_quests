@@ -19,23 +19,32 @@ end
 
 
 
-if( **You turn in:** [Locked Tome of Dark Power](/item/28741)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28741" data-url="28741" class="tooltip-link link">Locked Tome of Dark Power</a>) then
 
 
 >**Councilman Srethix says:** Very impressive, this little tome has eluded my aid for quite some time now. How good of you to discover its whereabouts and bring it to me. But from the looks of it, this book has a strong, magically-sealed lock upon its cover. I wonder if Elder Tal Almad would know how to break it? Take this to him in the Plane of Tranquility and let him have a look at it. If he can open it, bring it back to me.
 
 
- **You receive:**  [Locked Tome of Dark Power](/item/28741) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28741" data-url="28741" class="tooltip-link link">Locked Tome of Dark Power</a> 
 
-elseif( **You turn in:** [Unlocked Tome of Dark Power](/item/28742)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28742" data-url="28742" class="tooltip-link link">Unlocked Tome of Dark Power</a>) then
 
 
 >**Councilman Srethix says:** It's good to see my instincts about the Elder were correct.' He opens the book, begins thumbing through the pages, and frowns. 'What's this? Some pages are missing, eight of them to be exact. I'm afraid this book will be of no use to me without those pages. You can have it. I wonder what happened to them, whomever had this book before must have removed them for some reason. If you find the missing pages somewhere, be sure to close them up inside the book and return it to me.
 
 
- **You receive:**  [Unfinished Tome of Dark Power](/item/17182) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/17182" data-url="17182" class="tooltip-link link">Unfinished Tome of Dark Power</a> 
 
-elseif( **You turn in:** [Tome of Dark Power](/item/28746)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28746" data-url="28746" class="tooltip-link link">Tome of Dark Power</a>) then
 
 
 >*Councilman Srethix grins wickedly. 'You have done excellently. The tome will now serve my purposes. You may take this as a reward.' He pauses for a moment and continues, 'This task you have performed shows your confidence, patience, and the best of all, determination. Perhaps someday you would consider applying yourself to serve as an aid by my side? I can clearly see you have quite a broad spectrum of usefulness. Much more so than some other attendants I know...'*
@@ -44,7 +53,10 @@ elseif( **You turn in:** [Tome of Dark Power](/item/28746)) then
 
 
 
- **You receive:**  [Cloak of the Wise](/item/15790) (+1000000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_532.png" alt="" /> <a
+                                href="/item/15790" data-url="15790" class="tooltip-link link">Cloak of the Wise</a> (+1000000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

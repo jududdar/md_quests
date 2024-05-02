@@ -20,68 +20,100 @@ end
 
 
 
-if( **You turn in:** [Akkirus Crown of the Risen](/item/31140)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31140" data-url="31140" class="tooltip-link link">Akkirus Crown of the Risen</a>) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
 
 
- **You receive:**  [Akkirus Custom Crown of the Risen](/item/31528) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31528" data-url="31528" class="tooltip-link link">Akkirus Custom Crown of the Risen</a> 
 
-elseif( **You turn in:** [Scaled Knights Helm](/item/31119)) then
+ 
 
-
->**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
-
-
- **You receive:**  [Custom Scaled Knight's Helm](/item/31526) 
-
-elseif( **You turn in:** [Helm of Twilight](/item/31133)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31119" data-url="31119" class="tooltip-link link">Scaled Knights Helm</a>) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
 
 
- **You receive:**  [Custom Helm of Twilight](/item/31527) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31526" data-url="31526" class="tooltip-link link">Custom Scaled Knight's Helm</a> 
 
-elseif( **You turn in:** [Blood Lords Crown](/item/31098)) then
+ 
 
-
->**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
-
-
- **You receive:**  [Custom Blood Lords Crown](/item/31525) 
-
-elseif( **You turn in:** [Crown of the Myrmidon](/item/31182)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31133" data-url="31133" class="tooltip-link link">Helm of Twilight</a>) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
 
 
- **You receive:**  [Custom Crown of the Myrmidon](/item/31529) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31527" data-url="31527" class="tooltip-link link">Custom Helm of Twilight</a> 
 
-elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then
+ 
 
-
->**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
-
-
- **You receive:**  [Custom Cowl of Mortality](/item/2612) 
-
-elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31098" data-url="31098" class="tooltip-link link">Blood Lords Crown</a>) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
 
 
- **You receive:**  [Custom Crown of the Kromzek Kings](/item/2611) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31525" data-url="31525" class="tooltip-link link">Custom Blood Lords Crown</a> 
 
-elseif( **You turn in:** [Frostreaver's Velium Crown](/item/30507)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31182" data-url="31182" class="tooltip-link link">Crown of the Myrmidon</a>) then
 
 
 >**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
 
 
- **You receive:**  [Custom Frostreavers Velium Crown](/item/2610) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31529" data-url="31529" class="tooltip-link link">Custom Crown of the Myrmidon</a> 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/26025" data-url="26025" class="tooltip-link link">Cowl of Mortality</a>) then
+
+
+>**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/2612" data-url="2612" class="tooltip-link link">Custom Cowl of Mortality</a> 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25194" data-url="25194" class="tooltip-link link">Crown of the Kromzek Kings</a>) then
+
+
+>**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/2611" data-url="2611" class="tooltip-link link">Custom Crown of the Kromzek Kings</a> 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/30507" data-url="30507" class="tooltip-link link">Frostreaver's Velium Crown</a>) then
+
+
+>**Supreme Laochsmith Psorin says:** Thank you, Soandso. Please accept this Helm as a token of our gratitude for your service to the Shrine.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/2610" data-url="2610" class="tooltip-link link">Custom Frostreavers Velium Crown</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

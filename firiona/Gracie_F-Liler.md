@@ -24,7 +24,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Color Slant](/item/19378),  [Spell: Cripple](/item/19269),  [Spell: Dementia](/item/19384),  [Spell: Theft of Thought](/item/19374)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19378" data-url="19378" class="tooltip-link link">Spell: Color Slant</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19269" data-url="19269" class="tooltip-link link">Spell: Cripple</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19384" data-url="19384" class="tooltip-link link">Spell: Dementia</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19374" data-url="19374" class="tooltip-link link">Spell: Theft of Thought</a>}
 
 if(count > 0) then
 
@@ -37,7 +41,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Boon of the Clear Mind](/item/19386), [Spell: Clarity II](/item/19379), [Spell: Recant Magic](/item/19381), [Spell: Wake of Tranquility](/item/19215)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19386" data-url="19386" class="tooltip-link link">Spell: Boon of the Clear Mind</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19379" data-url="19379" class="tooltip-link link">Spell: Clarity II</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19381" data-url="19381" class="tooltip-link link">Spell: Recant Magic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19215" data-url="19215" class="tooltip-link link">Spell: Wake of Tranquility</a>) (+1000 exp)
+
+ 
 
 
 

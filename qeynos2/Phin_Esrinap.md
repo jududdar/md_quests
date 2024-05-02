@@ -112,7 +112,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [Message to Konem](/item/18921)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18921" data-url="18921" class="tooltip-link link">Message to Konem</a>
 
 
 else
@@ -160,7 +161,8 @@ local text3 = "Good work, Soandso. You are well on your way toward earning the o
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Grathins Invoice](/item/18922)) then
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18922" data-url="18922" class="tooltip-link link">Grathins Invoice</a>) then
 
 
 >**Phin Esrinap says:** Oh this is not good. Too many innocent traders have been getting robbed lately by those vile bandits out in the Karanas. Something must be done soon. Anyway, thank you for delivering the message... you did very well, young Soandso. Here's a little something to quench your thirst from all that running around.
@@ -169,73 +171,97 @@ if **Faction** >= Apprehensive and  **You turn in:** [Grathins Invoice](/item/18
 
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (5)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (1)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Water Flask](/item/13006) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a> (+1500 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable +50 and  **You turn in:** [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789), [Gnoll Pup Scalp](/item/13789)) then 
+elseif **Faction** >= Amiable +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13789" data-url="13789" class="tooltip-link link">Gnoll Pup Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13789" data-url="13789" class="tooltip-link link">Gnoll Pup Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13789" data-url="13789" class="tooltip-link link">Gnoll Pup Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13789" data-url="13789" class="tooltip-link link">Gnoll Pup Scalp</a>) then 
 
 
 >**Phin Esrinap says:** Good job, Soandso, keep up the good work! Here is your white training headband. Wear it with honor, and make Lu'Sun proud.
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (25)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (1)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [White Headband](/item/10110) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_932.png" alt="" /> <a
+                                href="/item/10110" data-url="10110" class="tooltip-link link">White Headband</a> (+200 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable +75 and  **You turn in:** [Putrid Rib Bone](/item/13722), [Putrid Rib Bone](/item/13722), [Putrid Rib Bone](/item/13722), [White Headband](/item/10110)) then 
+elseif **Faction** >= Amiable +75 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/13722" data-url="13722" class="tooltip-link link">Putrid Rib Bone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/13722" data-url="13722" class="tooltip-link link">Putrid Rib Bone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/13722" data-url="13722" class="tooltip-link link">Putrid Rib Bone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_932.png" alt="" /> <a
+                                href="/item/10110" data-url="10110" class="tooltip-link link">White Headband</a>) then 
 
 
 >**Phin Esrinap says:** Good work.. and, as promised, here is your reward. It is an honor to present this yellow headband to Soandso, for recent acts of courage and heroism, on behalf of the Silent Fist Clan.
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (50)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (2)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Yellow Headband](/item/10111) (+400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_933.png" alt="" /> <a
+                                href="/item/10111" data-url="10111" class="tooltip-link link">Yellow Headband</a> (+400 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable +125 and  **You turn in:** [Blackburrow Gnoll Pelt](/item/13027), [Blackburrow Gnoll Pelt](/item/13027), [Blackburrow Gnoll Skin](/item/13028), [Yellow Headband](/item/10111)) then 
+elseif **Faction** >= Amiable +125 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/13027" data-url="13027" class="tooltip-link link">Blackburrow Gnoll Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/13027" data-url="13027" class="tooltip-link link">Blackburrow Gnoll Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/13028" data-url="13028" class="tooltip-link link">Blackburrow Gnoll Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_933.png" alt="" /> <a
+                                href="/item/10111" data-url="10111" class="tooltip-link link">Yellow Headband</a>) then 
 
 
 >**Phin Esrinap says:** It is an honor to present the orange headband of the Silent Fist Clan to one of our finest members, Soandso the mighty!
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (50)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (2)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Orange Headband](/item/10112) (+800 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_934.png" alt="" /> <a
+                                href="/item/10112" data-url="10112" class="tooltip-link link">Orange Headband</a> (+800 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

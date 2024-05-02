@@ -12,13 +12,18 @@ end
 
 
 
-if( **You turn in:** [Staff of Elemental Mastery: Water](/item/11569), [Tears of Erollisi](/item/28040), [Rain of Karana](/item/28041)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/28040" data-url="28040" class="tooltip-link link">Tears of Erollisi</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/28041" data-url="28041" class="tooltip-link link">Rain of Karana</a>) then
 
 
 >**Jinalis Andir says:** You have the control needed in order to manipulate the water which surrounds us. Take this Element and guard it well, you will need it in the times to come.
 
 
- **You receive:**  [Element of Water](/item/28006) (+3000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/28006" data-url="28006" class="tooltip-link link">Element of Water</a> (+3000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

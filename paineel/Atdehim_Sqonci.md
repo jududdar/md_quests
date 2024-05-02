@@ -40,13 +40,20 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Kerran Doll](/item/13716), [Ichor](/item/16989), [Initiate Symbol of Cazic Thule](/item/1437), [Giant Snake Fang](/item/7005)) then 
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13716" data-url="13716" class="tooltip-link link">Kerran Doll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/16989" data-url="16989" class="tooltip-link link">Ichor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1437" data-url="1437" class="tooltip-link link">Initiate Symbol of Cazic Thule</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/7005" data-url="7005" class="tooltip-link link">Giant Snake Fang</a>) then 
 
 
 >**Atdehim Sqonci says:** Excellent work, Soandso. You are well on your way to proving yourself worthy to serve Cazic Thule.
 
 
- **You receive:**  [Disciple Symbol of Cazic Thule](/item/1438) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1438" data-url="1438" class="tooltip-link link">Disciple Symbol of Cazic Thule</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

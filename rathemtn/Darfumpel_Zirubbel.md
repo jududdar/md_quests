@@ -34,13 +34,17 @@ local text = "Do you have the other requirement?";
 
 
 
-if( **You turn in:** [Uncut Hyacinth](/item/10191), platinum = 1000) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_965.png" alt="" /> <a
+                                href="/item/10191" data-url="10191" class="tooltip-link link">Uncut Hyacinth</a>, platinum = 1000) then
 
 
 >**Darfumpel Zirubbel says:** I have not seen a gem such as this in quite some time! It was not since I dabbled in a bit of necro? Wait? What are you going to use this for? Never mind. I do not wish to know. Here, take your gem and leave!
 
 
- **You receive:**  [Faceted Hyacinth](/item/10192) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_965.png" alt="" /> <a
+                                href="/item/10192" data-url="10192" class="tooltip-link link">Faceted Hyacinth</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -53,7 +53,8 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Useless Token](/item/12185)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/12185" data-url="12185" class="tooltip-link link">Useless Token</a>) then 
 
 
 
@@ -65,7 +66,9 @@ if **Faction** >= Amiable +100 and  **You turn in:** [Useless Token](/item/12185
 
 
 
- **You receive:** 0 (+2000 exp)
+ &#127873; **You receive:** 0 (+2000 exp)
+
+ 
 
 
 **Spawn NPC:**  [Xentil Herkanon](/npc/6185) at (**y:** -102, **x:** -258)

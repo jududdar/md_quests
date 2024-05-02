@@ -24,7 +24,8 @@ end
 
 
 
-if( **You turn in:** [Child's Tear](/item/1673)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1160.png" alt="" /> <a
+                                href="/item/1673" data-url="1673" class="tooltip-link link">Child's Tear</a>) then
 
 
 if **Faction** >= Ally +700 then
@@ -35,11 +36,13 @@ if **Faction** >= Ally +700 then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
 
@@ -62,7 +65,10 @@ else
 
 
 
- **You receive:**  [Child's Tear](/item/1673) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1160.png" alt="" /> <a
+                                href="/item/1673" data-url="1673" class="tooltip-link link">Child's Tear</a> 
+
+ 
 
 
 

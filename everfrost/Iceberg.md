@@ -60,7 +60,8 @@ end
 
 
 
-if( **You turn in:** [Lion Delight](/item/12221)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_816.png" alt="" /> <a
+                                href="/item/12221" data-url="12221" class="tooltip-link link">Lion Delight</a>) then
 
 
 >*Iceberg growls with happiness and licks your face.  Just enough time to swipe the sweaty shirt from his collar!!  Iceberg then runs off to enjoy his lion delight!!*
@@ -72,19 +73,22 @@ if( **You turn in:** [Lion Delight](/item/12221)) then
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (2)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Sweaty Shirt](/item/12226) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/12226" data-url="12226" class="tooltip-link link">Sweaty Shirt</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

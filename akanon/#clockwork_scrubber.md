@@ -29,7 +29,8 @@ end
 
 
 
-if ( **You turn in:** [Scrubber Key](/item/12164)) then 
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/12164" data-url="12164" class="tooltip-link link">Scrubber Key</a>) then 
 
 
 >*clockwork scrubber .wizz.click.628.*
@@ -38,9 +39,13 @@ if ( **You turn in:** [Scrubber Key](/item/12164)) then
 
 
 
-* __Faction:__ [Clockwork Gnome (Race)](/faction/695) (-5)
+Your faction standing with [Clockwork Gnome (Race)](/faction/695) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** eq.ChooseRandom( [Gnome Take](/item/12162), [Gnome Take](/item/12167)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12162" data-url="12162" class="tooltip-link link">Gnome Take</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12167" data-url="12167" class="tooltip-link link">Gnome Take</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

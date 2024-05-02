@@ -44,22 +44,32 @@ local head = 0;
 
 
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
+if( **Faction is** > Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>) then
 
 
 head = 4;
 
-elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
+elseif( **Faction is** > Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>) then
 
 
 head = 3;
 
-elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
+elseif( **Faction is** > Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>) then
 
 
 head = 2;
 
-elseif( **Faction is** > Apprehensive and  **You turn in:** [Coldain Head](/item/30081)) then
+elseif( **Faction is** > Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>) then
 
 
 head = 1;
@@ -77,23 +87,25 @@ for i = 1, head do
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (35)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+35</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (8)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+8</span>)
 
 
 
-* __Faction:__ [Coldain](/faction/406) (-17)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-17</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-3)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-3</span>)
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

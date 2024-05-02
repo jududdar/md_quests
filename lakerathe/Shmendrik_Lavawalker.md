@@ -15,13 +15,17 @@ end
 
 
 
-if( **You turn in:** [Lord Bergurgle's Crown](/item/28044)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/28044" data-url="28044" class="tooltip-link link">Lord Bergurgle's Crown</a>) then 
 
 
 >*Shmendrik Lavawalker shoves the crown into a scorch marked leather satchel and cackles uncontrollably as madness twists his features and flames dance in his eyes. 'You, Soandso, have reduced the Riptides into chaos! Without a king to keep them in control they will ravage the settlements surrounding this lake! After the slaughter I shall return and easily burn the remainder of the villages and fishing shanties to the ground! None shall escape the fires of the Tyrant!!'*
 
 
- **You receive:**  [Oil of Fennin Ro](/item/28045) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_697.png" alt="" /> <a
+                                href="/item/28045" data-url="28045" class="tooltip-link link">Oil of Fennin Ro</a> 
+
+ 
 
 
 **Spawn NPC:**  [\#Natasha Whitewater](/npc/51138) at (**y:** 3630.3, **x:** 160)

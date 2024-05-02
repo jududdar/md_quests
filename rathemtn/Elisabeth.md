@@ -40,28 +40,32 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Nightfall Giant's Head](/item/12313)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/12313" data-url="12313" class="tooltip-link link">A Nightfall Giant's Head</a>) then
 
 
 >**Elisabeth says:** You have done well.  These giants shall soon be purged from the Commonlands and the inns will be filled once again.  Here is the mold for the Ro Greaves.  For the final component, go and ask Thomas of [Lord Searfire].
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (20)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (4)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (2)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-3)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Mold of Ro Greaves](/item/12303) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12303" data-url="12303" class="tooltip-link link">Mold of Ro Greaves</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

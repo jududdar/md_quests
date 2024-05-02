@@ -25,13 +25,19 @@ end
 
 
 
-if( **You turn in:** [Chunk of Tundra](/item/20690), [Clean Lakewater](/item/20689), [Ancient Rock](/item/20688)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1095.png" alt="" /> <a
+                                href="/item/20690" data-url="20690" class="tooltip-link link">Chunk of Tundra</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/20689" data-url="20689" class="tooltip-link link">Clean Lakewater</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20688" data-url="20688" class="tooltip-link link">Ancient Rock</a>) then
 
 
 >**withered treant says:** My heart cleansed of Corruption can interrupt the Flow of the corruption between the priest and his dark god, force it upon him quickly, I can sense him, he is in the Karana's somewhere.
 
 
- **You receive:**  [Warm Pulsing Treant Heart](/item/20695) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/20695" data-url="20695" class="tooltip-link link">Warm Pulsing Treant Heart</a> 
+
+ 
 
 
 **withered treant despawns.**

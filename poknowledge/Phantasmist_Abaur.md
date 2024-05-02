@@ -13,7 +13,14 @@ end
 
 
 
-local count =  **You turn in:**  { [Insidious Halo](/item/1246),  [Insidious Robe](/item/1247),  [Insidious Sleeves](/item/1248),  [Insidious Manacle](/item/1249),  [Insidious Gloves](/item/1250),  [Insidious Pantaloons](/item/1251),  [Insidious Slippers](/item/1252)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1124.png" alt="" /> <a
+                                href="/item/1246" data-url="1246" class="tooltip-link link">Insidious Halo</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_838.png" alt="" /> <a
+                                href="/item/1247" data-url="1247" class="tooltip-link link">Insidious Robe</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/1248" data-url="1248" class="tooltip-link link">Insidious Sleeves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/1249" data-url="1249" class="tooltip-link link">Insidious Manacle</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/1250" data-url="1250" class="tooltip-link link">Insidious Gloves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/1251" data-url="1251" class="tooltip-link link">Insidious Pantaloons</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_666.png" alt="" /> <a
+                                href="/item/1252" data-url="1252" class="tooltip-link link">Insidious Slippers</a>}
 
 if(count > 0) then
 
@@ -26,7 +33,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Peridot](/item/10028), 10037, 22503, 15981) (+300000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
+
+ 
 
 
 

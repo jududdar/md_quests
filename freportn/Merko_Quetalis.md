@@ -74,7 +74,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A note](/item/18896)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18896" data-url="18896" class="tooltip-link link">A note</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -164,30 +165,36 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Spider Venom Sac](/item/14018)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_819.png" alt="" /> <a
+                                href="/item/14018" data-url="14018" class="tooltip-link link">A Spider Venom Sac</a>) then 
 
 
 >**Merko Quetalis says:** You have earned the token of bravery. Now you must ask yourself if you are ready to face true fear. You will have but one chance. If you feel you are powerful enough to easily slay that desert tarantula, then hand me both tokens earned and you shall face the Test of Truth.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (10)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-1)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (2)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Token of Bravery](/item/12144) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/12144" data-url="12144" class="tooltip-link link">Token of Bravery</a> (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Token of Bravery](/item/12144), [Token of Generosity](/item/13865)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/12144" data-url="12144" class="tooltip-link link">Token of Bravery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/13865" data-url="13865" class="tooltip-link link">Token of Generosity</a>) then 
 
 
 >**Merko Quetalis says:** Go to the open sewer across the way. Inside you shall find your opponent. Victory shall bring your final token. Return it to me. Remember our ways and remember our foes. Send them to their judgement in the afterlife. Be swift with your thoughts. May Marr be with you.
@@ -196,44 +203,50 @@ elseif **Faction** >= Amiable and  **You turn in:** [Token of Bravery](/item/121
 **Spawn NPC:**  [Guard Willia](/npc/8110) at (**y:** 132, **x:** -257)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (10)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-1)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (2)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Token of Truth](/item/13866)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13866" data-url="13866" class="tooltip-link link">Token of Truth</a>) then 
 
 
 >**Merko Quetalis says:** You have performed well. You have shown your allegiance to truth and cast aside the Freeport Militia. The militia will surely despise you from now on. This is how they treat the Knights of Truth. Beware. The followers of Marr stand alone in this city.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (100)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-15)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-15)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (20)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Testimony](/item/18828) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18828" data-url="18828" class="tooltip-link link">Testimony</a> (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -50,7 +50,8 @@
 >**The Dragon Sage says:** The name of the plant eludes me at this time, for my thoughts have grown cold through the ages. The findings of the giants were written in a book of lore by some of our sages. You should seek out one of the giants Tomekeepers. If you find a Tomekeeper, ask him about the herb that harms dragons. Perhaps if you give him this trinket he will assist you. Maybe they will remember my tired soul.
  
 
-**You receive:**  [Giant Loyalist Token](/item/1782)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/1782" data-url="1782" class="tooltip-link link">Giant Loyalist Token</a>
 end
 
 ## Turn-Ins
@@ -59,20 +60,28 @@ end
 
 
 
-if( **You turn in:** [Giant Scalebound Tome](/item/1783)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1225.png" alt="" /> <a
+                                href="/item/1783" data-url="1783" class="tooltip-link link">Giant Scalebound Tome</a>) then 
 
 
 >*The Dragon Sage takes the guide and immediately begins to scan through it. He then says, 'Ah... Ah yes... According to this book, the dragonbane herb grows only in one place, deep inside the lair of the sirens. If my memory serves me properly one of the creatures there is very fond of its flavor. I will also need the blood of a dragon, but not just any dragon. The blood must come from a beast of Lord Yelinak's bloodline. Please go now and see if you can find this herb and the dragon blood. No time to waste, child. You will need to take this box to contain and combine the herbs and dragon blood in. Once you have accomplished this, please return the box to me.*
 
 
- **You receive:**  [Ornate Reagent Box](/item/17059) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17059" data-url="17059" class="tooltip-link link">Ornate Reagent Box</a> 
 
-elseif( **You turn in:** [Sealed Reagent Box](/item/1786)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/1786" data-url="1786" class="tooltip-link link">Sealed Reagent Box</a>) then 
 
 
 >**The Dragon Sage says:** Ahhh! With the knowledge that I have gained from the Giant Scalebound Tome and these reagents, I can finish my research and create a most powerful spell for you! If successful, I will call it the Porlos' Fury spell. It will cause near fatal wounds to any dragon or dragon kin in Lord Yelinak's bloodline. Take this and study it. The magiks contained within will aid you in your fight. The Dragon Sage hands you the scroll and says, 'You will need a reagent to channel the magical energies through to enhance the power of the spell. Two peridots will be required to cast this spell. I wish you good fortune in your fight.
 
 
- **You receive:**  [Spell: Porlos' Fury](/item/19469) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19469" data-url="19469" class="tooltip-link link">Spell: Porlos' Fury</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

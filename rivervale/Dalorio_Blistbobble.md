@@ -45,7 +45,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Dalorio\`s Assembly Kit](/item/17248)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17248" data-url="17248" class="tooltip-link link">Dalorio\`s Assembly Kit</a>
 
 
 **You say:** `helm`
@@ -57,7 +58,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracer`
@@ -69,7 +71,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `armguard`
@@ -81,7 +84,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boot`
@@ -93,7 +97,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `greave`
@@ -105,7 +110,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlet`
@@ -117,7 +123,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -129,7 +136,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `small assignments`
@@ -155,28 +163,35 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if (expansion_flag >= 4.0 and  **You turn in:** [War Documents pg1](/item/22940), [War Documents pg2](/item/22941), [War Documents pg3](/item/22942), [War Documents pg4](/item/22943)) then
+if (expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22940" data-url="22940" class="tooltip-link link">War Documents pg1</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22941" data-url="22941" class="tooltip-link link">War Documents pg2</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22942" data-url="22942" class="tooltip-link link">War Documents pg3</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22943" data-url="22943" class="tooltip-link link">War Documents pg4</a>) then
   
 
 >**Dalorio Blistbobble says:** Your good deeds shall be echoed in the Rivervale Hall of Heroes for many years to come. With these documents I will be able to have my army prepared for whatever they decide to come at us with. I thank you, young Warhumago. Please take this sword as a symbol of your loyalty to the Vale.
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (10)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (1)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Edge of the Proudfoot](/item/22945) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_882.png" alt="" /> <a
+                                href="/item/22945" data-url="22945" class="tooltip-link link">Edge of the Proudfoot</a> (+500 exp)
+
+ 
 
 
 

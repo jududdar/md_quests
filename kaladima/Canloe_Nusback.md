@@ -58,9 +58,11 @@ end
 
 
 
-local belt =  **You turn in:**  { [Crushbone Belt](/item/13318)}
+local belt =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13318" data-url="13318" class="tooltip-link link">Crushbone Belt</a>}
 
-local shoulder =  **You turn in:**  { [Crushbone Shoulderpads](/item/13319)}, 2
+local shoulder =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/13319" data-url="13319" class="tooltip-link link">Crushbone Shoulderpads</a>}, 2
 
 local text = "Yes, yes!! You have slain one legionnaire, but I reward for proof of two. Certainly you do not find another battle with the legionnaires difficult!!";
 
@@ -77,27 +79,29 @@ repeat
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (10)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (2)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-2)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-2</span>)
 
 
 
- **You receive:** eq.ChooseRandom(5,6,7,8,9,10,11,12,13,14,15) (+0 exp)
+ &#127873; **You receive:** eq.ChooseRandom(5,6,7,8,9,10,11,12,13,14,15) (+0 exp)
+
+ 
 
 
 
@@ -120,27 +124,30 @@ repeat
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (15)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (2)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (2)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (3)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-3)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-3</span>)
 
 
 
- **You receive:**  [Turquoise](/item/10017) (+29400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/10017" data-url="10017" class="tooltip-link link">Turquoise</a> (+29400 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 4 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

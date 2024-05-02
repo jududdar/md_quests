@@ -19,7 +19,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Empty Pouch](/item/17957)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17957" data-url="17957" class="tooltip-link link">Empty Pouch</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -55,24 +56,36 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Pouch of Pixie Dust](/item/12109)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/12109" data-url="12109" class="tooltip-link link">Pouch of Pixie Dust</a>) then 
 
 
 >**Expin says:** Good work, scout!!  You have earned this reward.  It is all we have at the time.  I am certain you are satisfied.  If not, then do not let me hear of it.
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (15)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:** eq.ChooseRandom( [Patchwork Tunic](/item/2104), [Patchwork Cloak](/item/2106), [Patchwork Sleeves](/item/2108), [Patchwork Pants](/item/2111), [Patchwork Boots](/item/2112)) (+800 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2104" data-url="2104" class="tooltip-link link">Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2106" data-url="2106" class="tooltip-link link">Patchwork Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2108" data-url="2108" class="tooltip-link link">Patchwork Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2111" data-url="2111" class="tooltip-link link">Patchwork Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2112" data-url="2112" class="tooltip-link link">Patchwork Boots</a>) (+800 exp)
 
-elseif( **You turn in:** [Crumpled Piece of Paper](/item/16390)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/16390" data-url="16390" class="tooltip-link link">Crumpled Piece of Paper</a>) then 
 
 
 >**Expin says:** Ahhh! You found it! Here let me make you a copy and put this in a secure spot so I don't lose it again.
 
 
- **You receive:**  [Remiss Sketch](/item/24098) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1005.png" alt="" /> <a
+                                href="/item/24098" data-url="24098" class="tooltip-link link">Remiss Sketch</a> (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

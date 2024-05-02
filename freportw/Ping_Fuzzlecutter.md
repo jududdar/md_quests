@@ -40,7 +40,8 @@ while ( e.self:CheckGround() ) do
 
 
 
-**You receive:**  [Empty Gem Bag](/item/17512)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17512" data-url="17512" class="tooltip-link link">Empty Gem Bag</a>
 
 **You say:** `special fire emerald`
 
@@ -81,35 +82,46 @@ local text = "You want a Mane Attraction? Not until I get the two clumps of gori
 
 
 
-if( **You turn in:** [Full Gem Bag](/item/6710)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/6710" data-url="6710" class="tooltip-link link">Full Gem Bag</a>) then 
 
 
 >*Ping Fuzzlecutter smiles broadly as he rifles through the bag, then looks up at you and says, 'Bout time! Here is the coffin as promised.'*
 
 
- **You receive:**  [Gem Encrusted Casket](/item/17080) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1142.png" alt="" /> <a
+                                href="/item/17080" data-url="17080" class="tooltip-link link">Gem Encrusted Casket</a> 
+
+ 
 
 
 
-elseif( **You turn in:** [A Clump of Gorilla Hair](/item/12335), [A Clump of Gorilla Hair](/item/12335), [A Lock of Hair](/item/12338), [A Tattered Toupee](/item/12337)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/12335" data-url="12335" class="tooltip-link link">A Clump of Gorilla Hair</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/12335" data-url="12335" class="tooltip-link link">A Clump of Gorilla Hair</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1001.png" alt="" /> <a
+                                href="/item/12338" data-url="12338" class="tooltip-link link">A Lock of Hair</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/12337" data-url="12337" class="tooltip-link link">A Tattered Toupee</a>) then
 
 
 >**Ping Fuzzlecutter says:** You are a good helper. Here you go. One genuine, charismatic, lady magnet, zero to hero making Mane Attraction!! Guaranteed to lower prices world wide. Guaranteed to last forever.. Err.. Well,.. It has a 1000 year warranty at least.
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (5)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (5)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (3)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (5)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Mane Attraction](/item/12254) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1001.png" alt="" /> <a
+                                href="/item/12254" data-url="12254" class="tooltip-link link">Mane Attraction</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

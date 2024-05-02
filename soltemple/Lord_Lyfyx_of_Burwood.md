@@ -58,22 +58,27 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Peridot](/item/10028), [Tektite](/item/12831)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/12831" data-url="12831" class="tooltip-link link">Tektite</a>) then
 
 
 >*Lord Lyfyx of Burwood places the gems inside an ornate metal box.  He begins to tug at his skin.  Your vision blurs as he performs his magic. 'This is what you seek.  Now leave and bother me no further.' *
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
    
 
 
- **You receive:**  [Dragon Scales](/item/12952) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12952" data-url="12952" class="tooltip-link link">Dragon Scales</a> (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

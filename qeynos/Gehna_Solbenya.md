@@ -43,7 +43,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Full Chalice](/item/12103)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/12103" data-url="12103" class="tooltip-link link">A Full Chalice</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -130,7 +131,8 @@ local text = "The bounty will not be paid until two spectacles are received.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [An Empty Chalice](/item/12104)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/12104" data-url="12104" class="tooltip-link link">An Empty Chalice</a>) then
 
 
 >**Gehna Solbenya says:** You have done a good service for the flock of Karana. Study the words upon this scroll and soon Karana shall keep you from thirst.
@@ -139,21 +141,28 @@ if **Faction** >= Amiable and  **You turn in:** [An Empty Chalice](/item/12104))
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Yaulp](/item/15210), [Spell: Divine Aura](/item/15207), [Spell: Flash of Light](/item/15201)) (+2000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15210" data-url="15210" class="tooltip-link link">Spell: Yaulp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15207" data-url="15207" class="tooltip-link link">Spell: Divine Aura</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15201" data-url="15201" class="tooltip-link link">Spell: Flash of Light</a>) (+2000 exp)
 
-elseif **Faction** >= Amiable +150 and  **You turn in:** [A Spectacle](/item/12101), [A Spectacle](/item/12101)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +150 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/12101" data-url="12101" class="tooltip-link link">A Spectacle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/12101" data-url="12101" class="tooltip-link link">A Spectacle</a>) then 
 
 
 >**Gehna Solbenya says:** Excellent work. These foul men have no right to be proficient in the ways of healing. Here then is your bounty. Use it in your continued war against the Karana bandits.
@@ -162,18 +171,22 @@ elseif **Faction** >= Amiable +150 and  **You turn in:** [A Spectacle](/item/121
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (20)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-20)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (15)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Endure Disease](/item/15226), [Spell: Center](/item/15219)) (+20000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15226" data-url="15226" class="tooltip-link link">Spell: Endure Disease</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15219" data-url="15219" class="tooltip-link link">Spell: Center</a>) (+20000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

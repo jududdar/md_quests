@@ -168,112 +168,161 @@ local text1 = "I believe I called for FOUR basilisk tongues.";
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Minotaur Horn](/item/13077), [Minotaur Horn](/item/13077)) then 
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/13077" data-url="13077" class="tooltip-link link">Minotaur Horn</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/13077" data-url="13077" class="tooltip-link link">Minotaur Horn</a>) then 
 
 
 >**Larkon Theardor says:** Fine work. You have earned the respect of the Library. Here is a small token of our appreciation. We shall have this ground down as soon as we find someone to go to Kaladim.
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (20)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-3)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-3</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (3)
-
-
-
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+3</span>)
 
 
 
- **You receive:** 0 (+100 exp)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Air Tight Box](/item/13271)) then 
+
+
+ &#127873; **You receive:** 0 (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13271" data-url="13271" class="tooltip-link link">Air Tight Box</a>) then 
 
 
 >**Larkon Theardor says:** Whew! What smells of rotting disease? Oh... It's you. I see you've gathered all the diseased livers. I shall have them incinerated in the scrapyard. The only reason we do this is to keep the Dark Reflection from using these components in their black arts. Take this. I hope you use it wisely. Oh, and... take a bath. You stink!
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (10)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
-
-
-
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Turquoise](/item/10017) (+100 exp)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160), [Basilisk Tongue](/item/12160)) then 
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/10017" data-url="10017" class="tooltip-link link">Turquoise</a> (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12160" data-url="12160" class="tooltip-link link">Basilisk Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12160" data-url="12160" class="tooltip-link link">Basilisk Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12160" data-url="12160" class="tooltip-link link">Basilisk Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12160" data-url="12160" class="tooltip-link link">Basilisk Tongue</a>) then 
 
 
 >**Larkon Theardor says:** Very very good! I can use these in some of our experiments. These tongues are hard to come by and more than a few of our scouts have been turned to stone because of these creatures, but I'm sure you found that out by now, eh?
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (10)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
-
-
-
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: True North](/item/15205), [Spell: Summon Drink](/item/15211), [Spell: Minor Shielding](/item/15288), [Spell: Flare](/item/15310), [Spell: Summon Dagger](/item/15311), [Spell: Fire Flux](/item/15313), [Spell: Reclaim Energy](/item/15331), [Spell: Summon Food](/item/15050), [Spell: Burst of Flame](/item/15093), [Spell: Elementalkin: Water](/item/15315), [Spell: Elementalkin: Fire](/item/15316), [Spell: Elementalkin: Earth](/item/15058), [Spell: Elementalkin: Air](/item/15317), [Spell: Summon Bandages](/item/15318), [Spell: Gate](/item/15036), [Spell: Burn](/item/15094), [Spell: Lesser Shielding](/item/15246), [Spell: Flame Bolt](/item/15322), [Spell: Eye of Zomm](/item/15323), [Spell: Dimensional Pocket](/item/15325), [Spell: Renew Elements](/item/15851), [Spell: Shock of Blades](/item/15324), [Spell: Shield of Fire](/item/15332), [Spell: Elementaling: Air](/item/15400), [Spell: Elementaling: Fire](/item/15399), [Spell: Elementaling: Water](/item/15398), [Spell: Invisibility](/item/15042), [Spell: Staff of Tracing](/item/15613)) (+100 exp)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bozinite Pestle](/item/13272)) then 
+
+
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15205" data-url="15205" class="tooltip-link link">Spell: True North</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15211" data-url="15211" class="tooltip-link link">Spell: Summon Drink</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15288" data-url="15288" class="tooltip-link link">Spell: Minor Shielding</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15311" data-url="15311" class="tooltip-link link">Spell: Summon Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15313" data-url="15313" class="tooltip-link link">Spell: Fire Flux</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15331" data-url="15331" class="tooltip-link link">Spell: Reclaim Energy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15050" data-url="15050" class="tooltip-link link">Spell: Summon Food</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15093" data-url="15093" class="tooltip-link link">Spell: Burst of Flame</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15315" data-url="15315" class="tooltip-link link">Spell: Elementalkin: Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15316" data-url="15316" class="tooltip-link link">Spell: Elementalkin: Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15058" data-url="15058" class="tooltip-link link">Spell: Elementalkin: Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15317" data-url="15317" class="tooltip-link link">Spell: Elementalkin: Air</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15318" data-url="15318" class="tooltip-link link">Spell: Summon Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15036" data-url="15036" class="tooltip-link link">Spell: Gate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15094" data-url="15094" class="tooltip-link link">Spell: Burn</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15246" data-url="15246" class="tooltip-link link">Spell: Lesser Shielding</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15322" data-url="15322" class="tooltip-link link">Spell: Flame Bolt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15323" data-url="15323" class="tooltip-link link">Spell: Eye of Zomm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15325" data-url="15325" class="tooltip-link link">Spell: Dimensional Pocket</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15851" data-url="15851" class="tooltip-link link">Spell: Renew Elements</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15324" data-url="15324" class="tooltip-link link">Spell: Shock of Blades</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15332" data-url="15332" class="tooltip-link link">Spell: Shield of Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15400" data-url="15400" class="tooltip-link link">Spell: Elementaling: Air</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15399" data-url="15399" class="tooltip-link link">Spell: Elementaling: Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15398" data-url="15398" class="tooltip-link link">Spell: Elementaling: Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15042" data-url="15042" class="tooltip-link link">Spell: Invisibility</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15613" data-url="15613" class="tooltip-link link">Spell: Staff of Tracing</a>) (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_732.png" alt="" /> <a
+                                href="/item/13272" data-url="13272" class="tooltip-link link">Bozinite Pestle</a>) then 
 
 
 >**Larkon Theardor says:** The Eldritch Collective thanks you. You have done a great service. We need these special bozinite pestles for use with our eldritch mortars. Here is a scroll from our library. Study it and use it wisely.
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (10)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
-
-
-
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Elementaling: Air](/item/15400), [Spell: Elementaling: Fire](/item/15399), [Spell: Elementaling: Water](/item/15398), [Spell: Elementaling: Earth](/item/15397)) (+100 exp)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
+
+
+
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15400" data-url="15400" class="tooltip-link link">Spell: Elementaling: Air</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15399" data-url="15399" class="tooltip-link link">Spell: Elementaling: Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15398" data-url="15398" class="tooltip-link link">Spell: Elementaling: Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15397" data-url="15397" class="tooltip-link link">Spell: Elementaling: Earth</a>) (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

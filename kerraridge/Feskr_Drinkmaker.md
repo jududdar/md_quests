@@ -40,16 +40,23 @@ else
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Tunares Finest](/item/12360), [Thunderhoof Mushroom](/item/14914), [Tea Leaves](/item/14915), [Hand Made Backpack](/item/17969)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12360" data-url="12360" class="tooltip-link link">Tunares Finest</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/14914" data-url="14914" class="tooltip-link link">Thunderhoof Mushroom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_795.png" alt="" /> <a
+                                href="/item/14915" data-url="14915" class="tooltip-link link">Tea Leaves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17969" data-url="17969" class="tooltip-link link">Hand Made Backpack</a>) then
 
 
 >**Feskr Drinkmaker says:** Ahhh. This will help. Many Kerrans will like these. Here. Take this old bag. I have too many. Maybe it help you.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (5)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Rough Leather Sack](/item/17032) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17032" data-url="17032" class="tooltip-link link">Rough Leather Sack</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -71,7 +71,8 @@
 >**Baenar Swiftsong says:** What's that you say? You wish to have the doll I was to give her? Whatever for? Bah! Nevermind me. I rant like an old woman sometimes. I should let her memory go but I would stop my heart from beating before I forget that child. Here, take this invoice. I have no further use for it. Give it to Marfen Binkdirple.
 
 
-**You receive:**  [Solusek Mining Company Invoice](/item/20372)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/20372" data-url="20372" class="tooltip-link link">Solusek Mining Company Invoice</a>
 end
 
 ## Turn-Ins
@@ -79,26 +80,35 @@ end
 
 
 
-if( **You turn in:** [Letter of Introduction](/item/20373)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/20373" data-url="20373" class="tooltip-link link">Letter of Introduction</a>) then
 
 
 >**Baenar Swiftsong says:** So, Belious Naliedin sent you, eh?' Baenar shakes his head. 'I hope your letter of introduction did not empty your purse. You have the audience you seek. What is your [request]? A song perhaps? To immortalize your heroic deeds in song? How about an epic battle with a gnoll pup? I'll make you famous.
 
-elseif( **You turn in:** [Note for Baenar](/item/20371)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/20371" data-url="20371" class="tooltip-link link">Note for Baenar</a>) then
 
 
 >**Baenar Swiftsong says:** A note from the child? How can that be! How could she know I was her father? Unless? Cyrah told her. Forgive me. Cyrah was the name of the woman to whom I was betrothed. Unfortunately her parents forbade her from marrying a lowly bard such as myself. Her father married her off to a young merchant in Qeynos named Maligar. She married him only out of respect to her father. Her heart was truly mine, at least, so she always said. When Serra was born, I visited them both often. She was like no other, so innocent and sweet. In those few years I watched her grow up to be more and more like her mother and I saw none of the father in her appearance. I do not like Maligar, but the least we can do is inform him of his child's death. I saw his caravan pass by not more than a day ago headed to Qeynos.
 
 
- **You receive:**  [Note to Maligar](/item/20368) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/20368" data-url="20368" class="tooltip-link link">Note to Maligar</a> 
 
-elseif( **You turn in:** [Maligar's Head](/item/20367)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/20367" data-url="20367" class="tooltip-link link">Maligar's Head</a>) then
 
 
 >**Baenar Swiftsong says:** That vile dog! I knew there was something not right with him, the way he stared at everyone with contempt! Even his own wife! I curse him! I curse him to stay upon the realm and deny him what he most desires! This is too much! I cannot play or write this day. The sadness overwhelms me. In honor of Serra, the daughter that was denied to me in spirit, I vow never to play this instrument again! It was her favorite and she listened to me play for hours on Here take it! Take it out of my sight! Leave me be with my grief and my loss.
 
 
- **You receive:**  [Mahlins Mystical Bongos](/item/20366) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1152.png" alt="" /> <a
+                                href="/item/20366" data-url="20366" class="tooltip-link link">Mahlins Mystical Bongos</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

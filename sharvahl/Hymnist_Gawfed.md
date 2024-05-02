@@ -8,7 +8,8 @@
 >**Hymnist Gawfed says:** Very well met, young friend. I assume that Gherik has sent you to me for the purpose of training you. Unforunately, I will not be doing any formal training for the several days. I'm taking a bit of a holiday to celebrate my wife's birthday. If you could take this receipt to the [merchant] for me before my wife gets home, I'd appreciate it. I'll place you at the top of my training list as well.
 
 
-**You receive:**  [Gawfeds Receipt](/item/5954)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/5954" data-url="5954" class="tooltip-link link">Gawfeds Receipt</a>
 
 **You say:** `merchant`
 
@@ -21,15 +22,21 @@ end
 
 
 
-if( **You turn in:** [Buckler of the Jharin Recruit](/item/3659)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/3659" data-url="3659" class="tooltip-link link">Buckler of the Jharin Recruit</a>) then 
 
 
 >**Hymnist Gawfed says:** Very well met, young friend. I assume that Gherik has sent you to me for the purpose of training you. Unforunately, I will not be doing any formal training for the several days. I'm taking a bit of a holiday to celebrate my wife's birthday. If you could take this receipt to the [merchant] for me before my wife gets home, I'd appreciate it. I'll place you at the top of my training list as well.
 
 
- **You receive:** GiveAll( [Buckler of the Jharin Recruit](/item/3659), [Gawfeds Receipt](/item/5954)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/3659" data-url="3659" class="tooltip-link link">Buckler of the Jharin Recruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/5954" data-url="5954" class="tooltip-link link">Gawfeds Receipt</a>) 
 
-elseif( **You turn in:** [Finished Vase Replica](/item/5958)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/5958" data-url="5958" class="tooltip-link link">Finished Vase Replica</a>) then 
 
 
 >*Hymnist Gawfed looks at the vase and nods his head in approval.*
@@ -38,37 +45,54 @@ elseif( **You turn in:** [Finished Vase Replica](/item/5958)) then
 >*Hymnist Gawfed says, 'I know that she's going to love this vase. The craftsmenship is amazing!' as he admires the vase. 'I need to properly thank you for retrieving it for me and I think that I know just the thing. If you gather some owlbear feathers I can have my brother apply them to your cloak. He can make a cloak really stand out. It will be a prize fit for any aspiring apprentice to wear. Take this sack and fill it with seven feathers and your recruit's cloak. Then return it to me with your cloak. I'll have it all sent over to my brother together in one bag.*
 
 
- **You receive:**  [Large Cloth Sack](/item/17611) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17611" data-url="17611" class="tooltip-link link">Large Cloth Sack</a> 
 
-elseif( **You turn in:** [Bag of Feathers](/item/5959)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/5959" data-url="5959" class="tooltip-link link">Bag of Feathers</a>) then 
 
 
 >**Hymnist Gawfed says:** It looks like you're all set. I'll have this sent over to my brother at once. Thank you again for fetching the vase for me. I can't wait to give it to the missus. I just know that she's going to love it. I have another task for you. It shouldn't take much time at all. Your cloak won't be done for a while, so you can do this while you wait. Take this piece of parchment to Jangle. He'll give you a bag of lute strings. I'm restringing all of my instruments before the party. Please be quick. Thank you again.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Note for Jangle](/item/5960) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/5960" data-url="5960" class="tooltip-link link">Note for Jangle</a> (+1000 exp)
 
-elseif( **You turn in:** [Note from Jangle](/item/5962)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/5962" data-url="5962" class="tooltip-link link">Note from Jangle</a>) then 
 
 
 >**Hymnist Gawfed says:** I really must be losing my mind. I could have sworn I specified the quantities. Oh well, I apologize for the confusion. Please take this back to him with my apologies.
 
 
- **You receive:**  [Gawfeds Request](/item/5963) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/5963" data-url="5963" class="tooltip-link link">Gawfeds Request</a> 
 
-elseif( **You turn in:** [Bag of Lute Strings](/item/5965)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/5965" data-url="5965" class="tooltip-link link">Bag of Lute Strings</a>) then 
 
 
 >**Hymnist Gawfed says:** My dear friend, Soandso, you have been a wondrous help! Though we have not had an opportunity to work on the more refined Jharin teachings, you have definitely proven yourself to be an honorable citizen and worthy apprentice. My brother has returned with your cloak. Please take it along with the title of Jharin Apprentice. To further demonstrate my appreciation of your work for me, please take this lute.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** GiveAll( [Cloak of the Jharin Apprentice](/item/5966), [Lute of the Jharin Apprentice](/item/5967)) (+3000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5966" data-url="5966" class="tooltip-link link">Cloak of the Jharin Apprentice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/5967" data-url="5967" class="tooltip-link link">Lute of the Jharin Apprentice</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3000" data-url="3000" class="tooltip-link link">Zaharns Coronet</a> exp)
+
+ 
 
 
 **Hymnist Gawfed shouts:** <span class="text-danger">Everyone, please welcome my student and friend, Soandso, to the rank of Jharin Apprentice!</span>

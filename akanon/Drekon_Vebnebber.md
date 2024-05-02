@@ -56,7 +56,8 @@ end
 
 
 
-if ( **You turn in:** [A Daily Log](/item/18837)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18837" data-url="18837" class="tooltip-link link">A Daily Log</a>) then
 
 
 >**Drekon Vebnebber says:** Why, thank you. Hey!! This log indicates some messy business is going on at the scrapyard. Something happened to a group of gnomes. They never came out!! Go check out the scrapyard! I believe the rumors of [Red 5] are true.
@@ -65,19 +66,19 @@ if ( **You turn in:** [A Daily Log](/item/18837)) then
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (5)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (1)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
 **Experience:** Awards 11% experience at level 1.
@@ -85,7 +86,8 @@ if ( **You turn in:** [A Daily Log](/item/18837)) then
 
 
 
-elseif ( **You turn in:** [A Daily Log](/item/18838)) then
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18838" data-url="18838" class="tooltip-link link">A Daily Log</a>) then
 
 
 >**Drekon Vebnebber says:** Oh my! It seems two of the obsolete duster models were not fully shut down. You must find them. They could be anywhere in Ak'Anon! After you destroy them, take their scraps to Sanfyrd Montop. He is the operator of the scrapyard.
@@ -94,19 +96,19 @@ elseif ( **You turn in:** [A Daily Log](/item/18838)) then
 **Spawn NPC:**  [Duster X](/npc/55001) at (**y:** 1504, **x:** -300)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (5)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (1)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
 **Experience:** Awards 11% experience at level 1.

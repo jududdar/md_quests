@@ -61,7 +61,9 @@ end
 if ( **Faction is** >= Indifferent) then 
 
 
-if( **You turn in:** [Giant Leopard Hide](/item/6960), [Giant White Sabertooth Hide](/item/6946)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/6960" data-url="6960" class="tooltip-link link">Giant Leopard Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/6946" data-url="6946" class="tooltip-link link">Giant White Sabertooth Hide</a>) then 
 
 
 
@@ -69,26 +71,31 @@ if( **You turn in:** [Giant Leopard Hide](/item/6960), [Giant White Sabertooth H
 
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (5)
+Your faction standing with [Crimson Hands](/faction/233) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Astral Cloak of the Titans](/item/2573) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_839.png" alt="" /> <a
+                                href="/item/2573" data-url="2573" class="tooltip-link link">Astral Cloak of the Titans</a> (+500 exp)
+
+ 
 
 
-elseif( **You turn in:** [Gigantic Gorilla Hide](/item/6958), [Gargantuan Panda Pelt](/item/6964)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/6958" data-url="6958" class="tooltip-link link">Gigantic Gorilla Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/6964" data-url="6964" class="tooltip-link link">Gargantuan Panda Pelt</a>) then 
 
 
 
@@ -97,26 +104,31 @@ elseif( **You turn in:** [Gigantic Gorilla Hide](/item/6958), [Gargantuan Panda 
 
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (5)
+Your faction standing with [Crimson Hands](/faction/233) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Astral Leggings of the Titans](/item/2575) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2575" data-url="2575" class="tooltip-link link">Astral Leggings of the Titans</a> (+500 exp)
+
+ 
 
 
-elseif( **You turn in:** [Ancient Snake Skin](/item/6947), [Platinum Thread](/item/12097)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/6947" data-url="6947" class="tooltip-link link">Ancient Snake Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/12097" data-url="12097" class="tooltip-link link">Platinum Thread</a>) then 
 
 
 
@@ -124,23 +136,26 @@ elseif( **You turn in:** [Ancient Snake Skin](/item/6947), [Platinum Thread](/it
 
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (5)
+Your faction standing with [Crimson Hands](/faction/233) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Scaled Robe of the Elder Serpent](/item/2574) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_940.png" alt="" /> <a
+                                href="/item/2574" data-url="2574" class="tooltip-link link">Scaled Robe of the Elder Serpent</a> (+500 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

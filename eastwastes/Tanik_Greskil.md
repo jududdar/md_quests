@@ -33,13 +33,17 @@ end
 
 
 
-if( **You turn in:** [Vial of Velium Vapors](/item/1553)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1160.png" alt="" /> <a
+                                href="/item/1553" data-url="1553" class="tooltip-link link">Vial of Velium Vapors</a>) then
 
 
 >**Tanik Greskil says:** Thank you, Soandso. I shall be eternally grateful to you. Should you ever require my assistance I pledge to you my aid. Please deliver this to Borannin, it is imperative that he deliver this to the Dain at once. Farewell for now outlander....
 
 
- **You receive:**  [Taniks note](/item/1560) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/1560" data-url="1560" class="tooltip-link link">Taniks note</a> 
+
+ 
 
 
 **Stop timer** named *moveloc*

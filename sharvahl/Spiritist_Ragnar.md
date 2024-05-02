@@ -50,7 +50,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Kanaad's Supplies](/item/5990)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/5990" data-url="5990" class="tooltip-link link">Kanaad's Supplies</a>
 
 
 else
@@ -67,7 +68,8 @@ end
 
 
 
-local gland =  **You turn in:**  { [A Whiptail Poison Gland](/item/30665)}
+local gland =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_818.png" alt="" /> <a
+                                href="/item/30665" data-url="30665" class="tooltip-link link">A Whiptail Poison Gland</a>}
 
 
 if(gland > 0) then
@@ -81,11 +83,23 @@ repeat
 
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Padded Cap](/item/31584), [Padded Cape](/item/31589), [Padded Choker](/item/31586), [Padded Cord](/item/31590), [Padded Gloves](/item/31593), [Padded Pants](/item/31594), [Padded Sandals](/item/31595), [Padded Shawl](/item/31588), [Padded Veil](/item/31585), [Padded Wristband](/item/31592)) (+250 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/31584" data-url="31584" class="tooltip-link link">Padded Cap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/31589" data-url="31589" class="tooltip-link link">Padded Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/31586" data-url="31586" class="tooltip-link link">Padded Choker</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/31590" data-url="31590" class="tooltip-link link">Padded Cord</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_517.png" alt="" /> <a
+                                href="/item/31593" data-url="31593" class="tooltip-link link">Padded Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/31594" data-url="31594" class="tooltip-link link">Padded Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_666.png" alt="" /> <a
+                                href="/item/31595" data-url="31595" class="tooltip-link link">Padded Sandals</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/31588" data-url="31588" class="tooltip-link link">Padded Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/31585" data-url="31585" class="tooltip-link link">Padded Veil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/31592" data-url="31592" class="tooltip-link link">Padded Wristband</a>) (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
@@ -98,7 +112,9 @@ until gland == 0
 
 
 
-if( **You turn in:** [A Bloodling Carapace](/item/30602), [Siver's Claw](/item/30964)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/30602" data-url="30602" class="tooltip-link link">A Bloodling Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/30964" data-url="30964" class="tooltip-link link">Siver's Claw</a>) then
 
 
 >**Spiritist Ragnar says:** Well done Soandso, I hope it isnt too late.'' Ragnar begins to chant over the carapace and the claw, holding each in opposite hands. A soft light travels from the claw to the carapace as the claw turns to dust. Ragnar opens his eyes and begins to speak, ''It has worked, but all we have done is buy ourselves more time. While you were away, I have been speaking to Master Barkhem. He has a shield frame that can support these carapaces. You will need to craft such a shield by including this carapace and into the frame along with enough to fill each slot. You are doing quite well young Astrall, Siver has grown a little stronger. You can make use of her innate dexterity by weaving this spell.'
@@ -107,15 +123,22 @@ if( **You turn in:** [A Bloodling Carapace](/item/30602), [Siver's Claw](/item/3
 >*Spiritist Ragnar hands Soandso a scroll before he continues to speak. 'When you have completed the construction of the shield, return it to me and I will strengthen the anchor.'*
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Strengthen](/item/15040) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15040" data-url="15040" class="tooltip-link link">Spell: Strengthen</a> 
+
+ 
 
 
- **You receive:**  [A Frosted Carapace](/item/30977) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/30977" data-url="30977" class="tooltip-link link">A Frosted Carapace</a> 
 
-elseif( **You turn in:** [Dull Frostweavers Shield](/item/30965)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1244.png" alt="" /> <a
+                                href="/item/30965" data-url="30965" class="tooltip-link link">Dull Frostweavers Shield</a>) then
 
 
 >**Spiritist Ragnar says:** Nicely done Soandso. This anchor should be sufficient to keep Siver bound to this realm for a while. She is strong enough to blind your enemies with a bright flash of light now, all you have to do is call on her spirit. I still cannot make complete sense of her thoughts. I think she is trying to tell me of another whisperling entrapped within the crater. Keep an eye open for the whisperling Scorpialis.
@@ -124,20 +147,30 @@ elseif( **You turn in:** [Dull Frostweavers Shield](/item/30965)) then
 >**Spiritist Ragnar says:** In the meantime, you can seek out a shield made of Xakra. Xakra made of the ethereal fabric of the spirit realm. I know the Shak Dratha within the thicket are weavers of this rare form of shadow silk. Such a shield can help us strengthen the anchor, making it easier for Siver to aid you. It will also improve her health greatly. She has been through a lot and is in rather poor condition as it stands now.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Spell: Flash of Light](/item/15201) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15201" data-url="15201" class="tooltip-link link">Spell: Flash of Light</a> (+1000 exp)
+
+ 
 
 
- **You receive:**  [Frostweavers Shield](/item/30966) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1244.png" alt="" /> <a
+                                href="/item/30966" data-url="30966" class="tooltip-link link">Frostweavers Shield</a> 
 
-elseif( **You turn in:** [A Frosted Bag](/item/30962)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/30962" data-url="30962" class="tooltip-link link">A Frosted Bag</a>) then
 
 
 >**Spiritist Ragnar says:** Eh? What have we here?'' Ragnar examines the frosted claw carefully. He closes his eyes and begins to chant while holding the claw cupped between his hands. As he opens his eyes he nods at you and begins to speak. ''You have done well to bring her here Astrall. This is a whisperling, her name is Siver. She is very young, so it is hard for me to understand her. From what I gather, she has an important task to fulfill, but I am still unsure what that task may be. Please take her with you for now, I think that is her wish. Perhaps Grawleh will be able to assist us further, and maybe even find a more suitable anchor for her. I think it would be wise to show her to him.
 
 
- **You receive:**  [Claw of Frost](/item/30963) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/30963" data-url="30963" class="tooltip-link link">Claw of Frost</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

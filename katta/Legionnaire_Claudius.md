@@ -14,40 +14,43 @@ end
 
 
 
-if( **You turn in:** [Field Orders](/item/29845)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/29845" data-url="29845" class="tooltip-link link">Field Orders</a>) then 
 
 
 >**Legionnaire Claudius says:** Huh? What? Oh, umm, let's see here... OK I best get these taken care of right away. Thank you.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 **Spawn NPC:**  [\#Legionnaire Claudius](/npc/160136) at (**y:** 99, **x:** -2107)

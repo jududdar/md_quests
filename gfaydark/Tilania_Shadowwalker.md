@@ -37,7 +37,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Assassins Mail Assembly Kit](/item/17365)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17365" data-url="17365" class="tooltip-link link">Assassins Mail Assembly Kit</a>
 
 
 **You say:** `continue`
@@ -57,7 +58,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Coif Pattern](/item/22671)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22671" data-url="22671" class="tooltip-link link">An Enchanted Coif Pattern</a>
 
 
 **You say:** `bracer`
@@ -69,7 +71,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22672)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22672" data-url="22672" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `sleeve`
@@ -81,7 +84,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22673)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22673" data-url="22673" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `boot`
@@ -93,7 +97,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boots Pattern](/item/22674)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22674" data-url="22674" class="tooltip-link link">An Enchanted Boots Pattern</a>
 
 
 **You say:** `legplate`
@@ -105,7 +110,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Legplates Pattern](/item/22675)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22675" data-url="22675" class="tooltip-link link">An Enchanted Legplates Pattern</a>
 
 
 **You say:** `gauntlet`
@@ -117,7 +123,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlets Pattern](/item/22676)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22676" data-url="22676" class="tooltip-link link">An Enchanted Gauntlets Pattern</a>
 
 
 **You say:** `tunic`
@@ -129,7 +136,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Tunic Pattern](/item/22677)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22677" data-url="22677" class="tooltip-link link">An Enchanted Tunic Pattern</a>
 
 
 **You say:** `favor`
@@ -157,13 +165,19 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Preserved Orc Hide](/item/27535), [Rotting Orc Tooth](/item/27536), [Rotting Orc Tooth](/item/27536)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/27535" data-url="27535" class="tooltip-link link">Preserved Orc Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/27536" data-url="27536" class="tooltip-link link">Rotting Orc Tooth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/27536" data-url="27536" class="tooltip-link link">Rotting Orc Tooth</a>) then
 
 
 >**Tilania Shadowwalker says:** Excllent!  Here's your reward.
 
 
- **You receive:**  [Tunarean Scouts Training Dagger](/item/27530) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1173.png" alt="" /> <a
+                                href="/item/27530" data-url="27530" class="tooltip-link link">Tunarean Scouts Training Dagger</a> (+500 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

@@ -14,13 +14,19 @@ end
 
 
 
-if( **You turn in:** [A Quill](/item/13051), [A Piece of Parchment](/item/13063), [Rile's Shattered Blade](/item/3888)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_755.png" alt="" /> <a
+                                href="/item/13051" data-url="13051" class="tooltip-link link">A Quill</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/13063" data-url="13063" class="tooltip-link link">A Piece of Parchment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/3888" data-url="3888" class="tooltip-link link">Rile's Shattered Blade</a>) then 
 
 
 >*Haggle Baron Dalnir stares at the broken blade for some time. After a few moments of studying, the apparition begins to draw and scribble on the parchment. He works with amazing speed as the memories from his past flood from his quill. The diagrams and runes that etch the surface of the parchment begin to glow. The legendary Haggle Baron rolls the parchment and hands it to you. Smiling, he bows deeply and quickly fades away.*
 
 
- **You receive:**  [Greenmist Design Pattern](/item/3890) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/3890" data-url="3890" class="tooltip-link link">Greenmist Design Pattern</a> 
+
+ 
 
 
 **Haggle Baron Dalnir despawns.**

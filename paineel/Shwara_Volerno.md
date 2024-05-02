@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Curing Kit](/item/17125)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17125" data-url="17125" class="tooltip-link link">Curing Kit</a>
 
 
 **You say:** `important research`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 
 **You say:** `glove`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 
 **You say:** `wristband`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 
 **You say:** `sleeve`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 
 **You say:** `boot`
@@ -97,7 +102,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
 
 
 **You say:** `pantaloon`
@@ -109,7 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 
 **You say:** `robe`
@@ -121,7 +128,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Robe Pattern](/item/11395)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/11395" data-url="11395" class="tooltip-link link">Tattered Robe Pattern</a>
 
 end
 
@@ -131,51 +139,61 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Arcane Kobold Parchments](/item/20420)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/20420" data-url="20420" class="tooltip-link link">Arcane Kobold Parchments</a>) then
 
 
 >**Shwara Volerno says:** Well done Soandso.These parchments will be inspected immediately by some of The Abattoirs most experienced translators and researchers. Take this Rough Abattoir initiate Staff then go forth an obtain a Giant Briar Snake Skin and a Petrified Eyeball. Once you have done so bring me those items and the rough abattoir initiate staff and I will put the final touches on what will be your new instrument of power.
 
 
-* __Faction:__ [Heretics](/faction/265) (1)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-1)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-1)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-1)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-1)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Rough Abattoir Initiate Staff](/item/20358) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/20358" data-url="20358" class="tooltip-link link">Rough Abattoir Initiate Staff</a> 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Abattoir Initiate Staff](/item/20358), [Giant Briar Snake Skin](/item/20356), [Petrified Eyeball](/item/20402)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/20358" data-url="20358" class="tooltip-link link">Rough Abattoir Initiate Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/20356" data-url="20356" class="tooltip-link link">Giant Briar Snake Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_917.png" alt="" /> <a
+                                href="/item/20402" data-url="20402" class="tooltip-link link">Petrified Eyeball</a>) then
 
 
 >*Shwara Volerno fashions a grip out of the Giant Briar Snake Skin, fastens the Petrified Eyeball to a steel mount on oneof the staff, and tarnishes the wood of the staff with a shimmering black substance. 'Here is your new Abattoirs Initiate Staff, Soandso. May it serve you well in your pursuit for power.'*
 
 
-* __Faction:__ [Heretics](/faction/265) (1)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-1)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-1)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-1)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-1)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Abattoir Initiate Staff](/item/20418) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/20418" data-url="20418" class="tooltip-link link">Abattoir Initiate Staff</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

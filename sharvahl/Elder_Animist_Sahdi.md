@@ -28,7 +28,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Animist Sahdi says:** Luckily for you someone found it.
 
 
-**You receive:**  [Application for Citizenship](/item/2873)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2873" data-url="2873" class="tooltip-link link">Application for Citizenship</a>
 
 **You say:** `cloak`
 
@@ -37,7 +38,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Animist Sahdi says:** Someone found a rockhopper chewing on this in the pit. Try not to lose it this time.
 
 
-**You receive:**  [Initiate's Cloak of Shar Vahl](/item/2878)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>
 end
 
 ## Turn-Ins
@@ -48,7 +50,8 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if( **You turn in:** [A Khati Sha Guild Summons](/item/18849)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18849" data-url="18849" class="tooltip-link link">A Khati Sha Guild Summons</a>) then 
 
 
 >**Elder Animist Sahdi says:** Soandso, welcome to the Animist's guild. You have grown strong in the safety of our city and it is now time for you to register for official citizenship of Shar Vahl. The Khati Sha, explorers of this hostile land, have granted your request of inclusion and deem you to be worthy of our training. Take this application to Registrar Bindarah and return to me with proof of your citizenship.
@@ -60,9 +63,14 @@ if( **You turn in:** [A Khati Sha Guild Summons](/item/18849)) then
 eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
- **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2873" data-url="2873" class="tooltip-link link">Application for Citizenship</a> (+20 exp)
 
-elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2897" data-url="2897" class="tooltip-link link">Notarized Application</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>) then
 
 
 >**Elder Animist Sahdi says:** Allow me to be the first to welcome you to the Khati Sha, lords of the beasts. Accept this cloak, young initiate. It is a symbol of your loyalty to our noble people. May it serve you as you serve us all. Present your acrylia slate to Animist Poren and he will give you instruction. May the spirits of the beasts guide you and keep you safe.
@@ -71,6 +79,10 @@ elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of 
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>) (+450 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

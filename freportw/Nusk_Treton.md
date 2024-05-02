@@ -66,25 +66,28 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [A Strongbox](/item/13860)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13860" data-url="13860" class="tooltip-link link">A Strongbox</a>) then 
 
 
 >**Nusk Treton says:** Grand and fantastic!! You have made my day complete. Here is what little I can offer. Most of my money goes into my research. Thank you.
 
 
-* __Faction:__ [Arcane Scientists](/faction/220) (10)
+Your faction standing with [Arcane Scientists](/faction/220) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (2)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

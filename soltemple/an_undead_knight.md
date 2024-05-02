@@ -43,29 +43,49 @@ local text1 = "Two portions of fairy dust and the right and left decayed boots!!
 
 
 
-if( **You turn in:** [Decayed Left Gauntlet](/item/12292), [Decayed Right Gauntlet](/item/12291), [Enchanted Platinum Bar](/item/16507)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/12292" data-url="12292" class="tooltip-link link">Decayed Left Gauntlet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/12291" data-url="12291" class="tooltip-link link">Decayed Right Gauntlet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>) then
 
 
 >**an undead knight says:** Well done, Soandso, here is your reward.
 
 
- **You receive:**  [Darkforge Gauntlets](/item/3144) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/3144" data-url="3144" class="tooltip-link link">Darkforge Gauntlets</a> (+5000 exp)
 
-if( **You turn in:** [Decayed Left Legplate](/item/12294), [Decayed Right Legplate](/item/12293), [Melatite](/item/12297), [Melatite](/item/12297)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/12294" data-url="12294" class="tooltip-link link">Decayed Left Legplate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/12293" data-url="12293" class="tooltip-link link">Decayed Right Legplate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/12297" data-url="12297" class="tooltip-link link">Melatite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/12297" data-url="12297" class="tooltip-link link">Melatite</a>) then
 
 
 >**an undead knight says:** You have been granted the darkforge greaves!!
 
 
- **You receive:**  [Darkforge Greaves](/item/3145) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_845.png" alt="" /> <a
+                                href="/item/3145" data-url="3145" class="tooltip-link link">Darkforge Greaves</a> (+5000 exp)
 
-if( **You turn in:** [Decayed Left Boot](/item/12296), [Decayed Right Boot](/item/12295), [Fairy Dust](/item/12106), [Fairy Dust](/item/12106)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_844.png" alt="" /> <a
+                                href="/item/12296" data-url="12296" class="tooltip-link link">Decayed Left Boot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_844.png" alt="" /> <a
+                                href="/item/12295" data-url="12295" class="tooltip-link link">Decayed Right Boot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12106" data-url="12106" class="tooltip-link link">Fairy Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12106" data-url="12106" class="tooltip-link link">Fairy Dust</a>) then
 
 
 >**an undead knight says:** You may now wear the darkforge boots!!
 
 
- **You receive:**  [Darkforge Boots](/item/3146) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_844.png" alt="" /> <a
+                                href="/item/3146" data-url="3146" class="tooltip-link link">Darkforge Boots</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

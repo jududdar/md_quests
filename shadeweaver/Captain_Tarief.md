@@ -86,38 +86,59 @@ end
 
 
 
-if( **You turn in:** [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861), [Saurek Hopper Scales](/item/30861)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30861" data-url="30861" class="tooltip-link link">Saurek Hopper Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30861" data-url="30861" class="tooltip-link link">Saurek Hopper Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30861" data-url="30861" class="tooltip-link link">Saurek Hopper Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30861" data-url="30861" class="tooltip-link link">Saurek Hopper Scales</a>) then 
 
 
 >**Captain Tarief says:** What have we here? Aha! Look here everyone. Soandso has returned victorious! Well done. You are entitled to the reward for slaying the Saurek Hoppers. I hope all my trainees turn out as skilled as you. Perhaps you should consider hunting more difficult prey from now on.' Captain Tarief hands Soandso a pair of masterfully tailored hunting boots.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Hunting Leather Boots](/item/30870) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/30870" data-url="30870" class="tooltip-link link">Hunting Leather Boots</a> (+2500 exp)
 
-elseif( **You turn in:** [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862), [Saurek Darkclaw Scales](/item/30862)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30862" data-url="30862" class="tooltip-link link">Saurek Darkclaw Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30862" data-url="30862" class="tooltip-link link">Saurek Darkclaw Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30862" data-url="30862" class="tooltip-link link">Saurek Darkclaw Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30862" data-url="30862" class="tooltip-link link">Saurek Darkclaw Scales</a>) then 
 
 
 >**Captain Tarief says:** So the hunter returns victorious. Well done! You have earned yourself a hunting bracer to protect you from the claws of the hoppers. I am sure many of your companions will revel in the feast you are able to provide them with the meat you have collected.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Hunting Leather Bracer](/item/30867) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/30867" data-url="30867" class="tooltip-link link">Hunting Leather Bracer</a> (+2500 exp)
 
-elseif( **You turn in:** [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863), [Saurek Shredder Scales](/item/30863)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30863" data-url="30863" class="tooltip-link link">Saurek Shredder Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30863" data-url="30863" class="tooltip-link link">Saurek Shredder Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30863" data-url="30863" class="tooltip-link link">Saurek Shredder Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/30863" data-url="30863" class="tooltip-link link">Saurek Shredder Scales</a>) then 
 
 
 >*Captain Tarief blinks in astonishment. 'Perhaps the true shredder was you this time around Soandso' He chuckles, 'Well done, you have earned the reward.' Tarief hands Soandso a pair of masterfully tailored hunting sleeves. 'Be sure to have your battle wounds tended to. I am sure you have many scars to show from hunting those shredders.*
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Hunting Leather Sleeves](/item/30866) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/30866" data-url="30866" class="tooltip-link link">Hunting Leather Sleeves</a> (+2500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

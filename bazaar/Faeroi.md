@@ -18,35 +18,42 @@ end
 
 
 
-if( **You turn in:** [Hardams Box of Goods](/item/4757)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/4757" data-url="4757" class="tooltip-link link">Hardams Box of Goods</a>) then 
 
 
 >**Faeroi says:** Ah Hardam sent you eh. Fair enough then, please let him know I will get to selling these goods as soon as possible and please let him know that the helm will be done soon. All I need is a certain [piece].
 
 
-* __Faction:__ [House of Stout](/faction/1512) (5)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (1)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
-elseif( **You turn in:** [Rhino Beetle Horn](/item/5985)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1219.png" alt="" /> <a
+                                href="/item/5985" data-url="5985" class="tooltip-link link">Rhino Beetle Horn</a>) then 
 
 
 >**Faeroi says:** Its good to see you again so soon Soandso. I knew that you would be able to assist me in this task. As I said, here is Hardams finished helm. Please return it to him for me as I cannot leave my booth here.
 
 
-* __Faction:__ [House of Stout](/faction/1512) (5)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (1)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Hardams Custom Helm](/item/5986) (+550 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_628.png" alt="" /> <a
+                                href="/item/5986" data-url="5986" class="tooltip-link link">Hardams Custom Helm</a> (+550 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

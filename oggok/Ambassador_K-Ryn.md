@@ -12,13 +12,17 @@ end
 
 
 
-if( **You turn in:** [A Sealed Letter](/item/18842)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18842" data-url="18842" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Ambassador K-Ryn says:** Another young warrior. I pray you shall not meet the fate of the last twelve. Here then. Take this report to Mistress Seloxia at once. And stay clear of the Froglok lair called Gukk.
 
 
- **You receive:**  [a sealed letter](/item/18843) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18843" data-url="18843" class="tooltip-link link">a sealed letter</a> (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

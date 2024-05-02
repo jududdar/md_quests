@@ -25,13 +25,18 @@ end
 
 
 
-if( **You turn in:** [Black Sapphire](/item/10036), [Ruby](/item/10035)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_965.png" alt="" /> <a
+                                href="/item/10036" data-url="10036" class="tooltip-link link">Black Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then
 
 
 >**Niblek says:** I much happy now!! I want shiny tings for long time! I give you ugly broken necklace now!
 
 
- **You receive:**  [Piece of a medallion](/item/19964) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19964" data-url="19964" class="tooltip-link link">Piece of a medallion</a> (+1000 exp)
+
+ 
 end
 
 

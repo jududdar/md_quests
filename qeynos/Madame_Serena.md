@@ -192,7 +192,10 @@ if( **You turn in:** gold = 50) then
 >**Madame Serena says:** Fifty gold? You must want a rune of fortune. If you want another one, give fifty gold to Mizr N'Mar in the Neriak library.
 
 
- **You receive:**  [Rune of Fortune](/item/10530) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10530" data-url="10530" class="tooltip-link link">Rune of Fortune</a> (+10 exp)
+
+ 
 
 
 

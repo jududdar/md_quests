@@ -27,7 +27,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Leafrunners Assembly Kit](/item/17366)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17366" data-url="17366" class="tooltip-link link">Leafrunners Assembly Kit</a>
 
 
 
@@ -47,7 +48,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boots Pattern](/item/22674)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22674" data-url="22674" class="tooltip-link link">An Enchanted Boots Pattern</a>
 
 
 
@@ -59,7 +61,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22672)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22672" data-url="22672" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 
@@ -71,7 +74,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22628)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22628" data-url="22628" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 
@@ -83,7 +87,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22633" data-url="22633" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 
@@ -95,7 +100,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Leggings Pattern](/item/27570)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/27570" data-url="27570" class="tooltip-link link">An Enchanted Leggings Pattern</a>
 
 
 
@@ -107,7 +113,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22631" data-url="22631" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 
@@ -119,7 +126,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Tunic Pattern](/item/22677)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22677" data-url="22677" class="tooltip-link link">An Enchanted Tunic Pattern</a>
 
 
 
@@ -141,22 +149,28 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Crushbone Battle Beads](/item/27537), [Crushbone Battle Beads](/item/27537), [Crushbone Battle Plans](/item/27538)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/27537" data-url="27537" class="tooltip-link link">Crushbone Battle Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/27537" data-url="27537" class="tooltip-link link">Crushbone Battle Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/27538" data-url="27538" class="tooltip-link link">Crushbone Battle Plans</a>) then
 
 
 >**Aliafya Mistrunner says:** There was no doubt in my mind that you could be counted on for this important mission. I will see that our tacticians get these battle plans so that they can be studied at once. Please take this Scimitar as a symbol of your dedication to your house and your god. You have done well, young Kiliak, may Tunare guide you always.
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (5)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Scimitar of the Leafrunner](/item/27531) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/27531" data-url="27531" class="tooltip-link link">Scimitar of the Leafrunner</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

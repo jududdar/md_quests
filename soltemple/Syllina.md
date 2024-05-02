@@ -74,56 +74,77 @@ if( **You turn in:** gold = 50) then
 >**Syllina says:** You will need to give the following components to a tailor: a Shadow Wolf Pelt, a Silk Swatch and a Scroll of Gather Shadows. Have the tailor weave them together and she will make you Shadow Silk. To make large shadow silk add an extra shadow wolf pelt. To make inky shadow silk, add an extra scroll.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
 
-elseif( **You turn in:** [Large Shadow Silk](/item/16484), [A Werebat Wing](/item/13239), [Mask of Shadow](/item/2309), [Globe of Shadow](/item/10535)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/16484" data-url="16484" class="tooltip-link link">Large Shadow Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_791.png" alt="" /> <a
+                                href="/item/13239" data-url="13239" class="tooltip-link link">A Werebat Wing</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2309" data-url="2309" class="tooltip-link link">Mask of Shadow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10535" data-url="10535" class="tooltip-link link">Globe of Shadow</a>) then
 
 
 >**Syllina says:** Silk, wing, mask, globe... all of the components necessary for the making of a robe of Enshroudment. Well done. Here is your reward.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Robe of Enshroudment](/item/1355) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1126.png" alt="" /> <a
+                                href="/item/1355" data-url="1355" class="tooltip-link link">Robe of Enshroudment</a> (+1000 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [A Scepter](/item/14363), [Hand of Shadow](/item/13234), [A skeletal finger](/item/10534), [Inky Shadow Silk](/item/16485)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/14363" data-url="14363" class="tooltip-link link">A Scepter</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/13234" data-url="13234" class="tooltip-link link">Hand of Shadow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/10534" data-url="10534" class="tooltip-link link">A skeletal finger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/16485" data-url="16485" class="tooltip-link link">Inky Shadow Silk</a>) then
 
 
 >**Syllina says:** So you have gathered all of the components for me to weave Shadowbound Gloves... Well done. You will be wanting these.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [ShadowBound Gloves](/item/3318) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/3318" data-url="3318" class="tooltip-link link">ShadowBound Gloves</a> (+1000 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [A Scepter](/item/14364), [Eye of Shadow](/item/13180), [A skeletal toe](/item/10533), [Shadow Silk](/item/16483)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/14364" data-url="14364" class="tooltip-link link">A Scepter</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/13180" data-url="13180" class="tooltip-link link">Eye of Shadow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/10533" data-url="10533" class="tooltip-link link">A skeletal toe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/16483" data-url="16483" class="tooltip-link link">Shadow Silk</a>) then
 
 
 >**Syllina says:** I see that you have gathered all of the necessary components... Well done. Here are your Shadowbound Boots.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [ShadowBound Boots](/item/3317) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/3317" data-url="3317" class="tooltip-link link">ShadowBound Boots</a> (+1000 exp)
+
+ 
 end

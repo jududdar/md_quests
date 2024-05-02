@@ -176,28 +176,43 @@ end
 
 
 
-if( **You turn in:** [Royal Coldain Orders](/item/8896)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/8896" data-url="8896" class="tooltip-link link">Royal Coldain Orders</a>) then
 
 
 >**Loremaster Solstrin says:** So, the Dain needs your assistance with the Field Plate. The Dain must trust you a great deal to impart the wisdom of our armor creation to you. Here are the tomes. The first details how to make the basic armor, the other details how to begin [working with gemstones]. If the Dain is asking you for them you should place them in an [Issue Kit]. May Brell guide your hand friend, good luck to you.
 
 
- **You receive:** GiveAll( [Forge of Icewell Arms](/item/18611), [Forge of Icewell Arms](/item/18610)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18611" data-url="18611" class="tooltip-link link">Forge of Icewell Arms</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18610" data-url="18610" class="tooltip-link link">Forge of Icewell Arms</a>) 
 
-elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)) then 
+ 
 
-
->**Loremaster Solstrin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
-
-
- **You receive:** GiveAll( [Runed Coldain Prayer Shawl](/item/1199), [Empty Coldain Issue Kit](/item/17651)) 
-
-elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/1199" data-url="1199" class="tooltip-link link">Runed Coldain Prayer Shawl</a>) then 
 
 
 >**Loremaster Solstrin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
 
 
- **You receive:** GiveAll( [Runed Coldain Prayer Shawl](/item/8895), [Empty Coldain Issue Kit](/item/17651)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/1199" data-url="1199" class="tooltip-link link">Runed Coldain Prayer Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_837.png" alt="" /> <a
+                                href="/item/17651" data-url="17651" class="tooltip-link link">Empty Coldain Issue Kit</a>) 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a>) then 
+
+
+>**Loremaster Solstrin says:** Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain's most perilous task. You should seek an audience with the Dain immediately. Show him your Runed Prayer Shawl; he will give you the task that has been prepared for you. If the Dain is away show your Shawl to Chamberlain Krystorf and he will call for him.
+
+
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_837.png" alt="" /> <a
+                                href="/item/17651" data-url="17651" class="tooltip-link link">Empty Coldain Issue Kit</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

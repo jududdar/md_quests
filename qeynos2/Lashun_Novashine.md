@@ -69,26 +69,32 @@ if( **You turn in:** gold = 2) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:** 0 (+1 exp)
+ &#127873; **You receive:** 0 (+1 exp)
 
-elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>) then 
 
 
 local times = 2
@@ -110,29 +116,31 @@ repeat
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
 
 
- **You receive:** 0 (+200 exp)
+ &#127873; **You receive:** 0 (+200 exp)
+
+ 
 
 
 
@@ -144,7 +152,9 @@ until times <= 0
 
 
 
-elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>) then
 
 
 >**Lashun Novashine says:** Very well, young one. May the light of the Prime Healer wash away your scars.
@@ -156,23 +166,25 @@ elseif( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073)) t
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:** 0 (+200 exp)
+ &#127873; **You receive:** 0 (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Letter to Jimji Bottletoe](/item/19628)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19628" data-url="19628" class="tooltip-link link">Letter to Jimji Bottletoe</a>
 
 
 **You say:** `next task`
@@ -63,45 +64,53 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [Halfling Paladin Note](/item/18431)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18431" data-url="18431" class="tooltip-link link">Halfling Paladin Note</a>) then 
 
 
 >**Kaya Cloudfoot says:** Karana smiles upon you young Soandso! Take this tunic to keep you warm through the storms you must face. There is evil encroaching upon the lands of Karana's faithful. The wicked minions of Bertoxxulous and the Teir'Dal children of Hate corrupt the lands to the west and east, and the Deathfist Clan of Orcs are waging war on this region while destoying the wilderness for lumber and stone. It is Karana's will that we defend our lands and way of life from these evil threats.
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (100)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (10)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (15)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-15)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Jumjum Sack Tunic*](/item/13541) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13541" data-url="13541" class="tooltip-link link">Jumjum Sack Tunic*</a> (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Severed TeirDal Hands](/item/19688)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_918.png" alt="" /> <a
+                                href="/item/19688" data-url="19688" class="tooltip-link link">Severed TeirDal Hands</a>) then
 
 
 >**Kaya Cloudfoot says:** Take this Dull Bravefoot Short Sword to the forge at Tagglefoots farm and sharpen it with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once that is done present the blade and a large snake skin to Bodbin Gimple and he will put the finishing touches on the sword.
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (10)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dull Bravefoot Short Sword](/item/19625) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/19625" data-url="19625" class="tooltip-link link">Dull Bravefoot Short Sword</a> (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

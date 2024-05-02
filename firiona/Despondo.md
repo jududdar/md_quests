@@ -53,58 +53,76 @@ end
 
 
 
-if( **You turn in:** [Onyx](/item/10027)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_956.png" alt="" /> <a
+                                href="/item/10027" data-url="10027" class="tooltip-link link">Onyx</a>) then
 
 
- **You receive:**  [an Ornate Bottle](/item/12962) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12962" data-url="12962" class="tooltip-link link">an Ornate Bottle</a> 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 2 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 >**Despondo says:** This bottle is for the one called Hampton. If you look well, you can see his name. 
 
 
 
-if( **You turn in:** [Star Rose Quartz](/item/10021)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_950.png" alt="" /> <a
+                                href="/item/10021" data-url="10021" class="tooltip-link link">Star Rose Quartz</a>) then
 
 
- **You receive:**  [an Ornate Bottle](/item/12964) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12964" data-url="12964" class="tooltip-link link">an Ornate Bottle</a> 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 2 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 >**Despondo says:** Identify this when the time comes. It is Ryla's prison.
 
 
 
-if( **You turn in:** [Peridot](/item/10028)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>) then
 
 
 >**Despondo says:** This bottle is for Mardon. You may be able to identify his name upon it. 
 
 
- **You receive:**  [an Ornate Bottle](/item/12963) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12963" data-url="12963" class="tooltip-link link">an Ornate Bottle</a> 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 2 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
-if( **You turn in:** [bottle of swirling smoke](/item/12967), [bottle of swirling smoke](/item/12966), [bottle of swirling smoke](/item/12965)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12967" data-url="12967" class="tooltip-link link">bottle of swirling smoke</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12966" data-url="12966" class="tooltip-link link">bottle of swirling smoke</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12965" data-url="12965" class="tooltip-link link">bottle of swirling smoke</a>) then
 
 
 >*Despondo embraces the bottles as if they were babes. 'Rejoice my friends!! Your souls are safe. Soandso, you are a good wizard. You deserve to know the secret of concussion.'*
 
 
-* __Faction:__ [Inhabitants of Firiona Vie](/faction/248) (5)
+Your faction standing with [Inhabitants of Firiona Vie](/faction/248) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (3)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Storm Guard](/faction/312) (3)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (-1)
+Your faction standing with [Legion of Cabilis](/faction/441) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Pirates of Gunthak](/faction/313) (-1)
+Your faction standing with [Pirates of Gunthak](/faction/313) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Scroll of Brain Bite](/item/12968) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12968" data-url="12968" class="tooltip-link link">Scroll of Brain Bite</a> (+100000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 2 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

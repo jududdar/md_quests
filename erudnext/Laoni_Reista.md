@@ -64,7 +64,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Nicked Coin](/item/13881)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13881" data-url="13881" class="tooltip-link link">A Nicked Coin</a>) then 
 
 
 >**Laoni Reista says:** Good work. You have shown these rogues who are the better swimmers. Now we have proof of their involvement. You are a fine addition to the temple. Take this small reward. Go, and serve Prexus.
@@ -73,16 +74,18 @@ if **Faction** >= Amiable and  **You turn in:** [A Nicked Coin](/item/13881)) th
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (10)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+2000 exp)
+ &#127873; **You receive:** 0 (+2000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

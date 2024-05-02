@@ -61,7 +61,8 @@ end
 
 
 
-if( **You turn in:** [A Leaflet](/item/18830)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18830" data-url="18830" class="tooltip-link link">A Leaflet</a>) then 
 
 
 >**Shintar Vinlail says:** You beast! I shall send you back to the sty where you belong!

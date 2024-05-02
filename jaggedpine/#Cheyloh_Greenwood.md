@@ -386,124 +386,153 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Moss-Threaded Rawhide Leggings](/item/8790), [Polished Jade Acorns](/item/8769)) then 
+if **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/8769" data-url="8769" class="tooltip-link link">Polished Jade Acorns</a>) then 
 
 
 >*Cheyloh Greenwood smiles warmly at Soandso, 'Excellent work, friend.  I have sewn the Polished Jade Acorns into your leggings.  May they serve you as well as you have served the natural world.'*
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Leggings of the Pine](/item/8442) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_655.png" alt="" /> <a
+                                href="/item/8442" data-url="8442" class="tooltip-link link">Leggings of the Pine</a> 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Shark Tooth Sleeves](/item/8796), [Polished Jade Leaves](/item/8795)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/8796" data-url="8796" class="tooltip-link link">Shark Tooth Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_795.png" alt="" /> <a
+                                href="/item/8795" data-url="8795" class="tooltip-link link">Polished Jade Leaves</a>) then 
 
 
 >**Cheyloh Greenwood says:** Marvelously done, my friend. I am pleased to know that the natural world has embraced and recognized you so. I have bound the moss thread to the Polished Jade Leaves and your sleeves are complete. Take them and wear them with the selfless knowledge that you are equal to all of nature’s most devoted warders.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Sleeves of the Pine](/item/8445) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/8445" data-url="8445" class="tooltip-link link">Sleeves of the Pine</a> 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Mithril Fern Boots](/item/8877), [Polished Jade Plate](/item/8876)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_525.png" alt="" /> <a
+                                href="/item/8877" data-url="8877" class="tooltip-link link">Mithril Fern Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/8876" data-url="8876" class="tooltip-link link">Polished Jade Plate</a>) then 
 
 
 >**Cheyloh Greenwood says:** Aaaah. . . these will do nicely. Lerian's gifts upon the hide that you have expertly sewn into the boots have proved an extra enchantment that allowed me to appropriately fit the plates onto the toes and sides of the boots. You have earned this reward justly and without a selfish nature or compromise of your dedication to nature. May they serve you as you have served the world that has granted them to you.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Boots of the Pine](/item/8758) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/8758" data-url="8758" class="tooltip-link link">Boots of the Pine</a> 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Bracer of Braided Pine](/item/8865), [Polished Jade Blossoms](/item/8864)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/8865" data-url="8865" class="tooltip-link link">Bracer of Braided Pine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_721.png" alt="" /> <a
+                                href="/item/8864" data-url="8864" class="tooltip-link link">Polished Jade Blossoms</a>) then 
 
 
 >**Cheyloh Greenwood says:** Marvelously done, my friend. I am pleased to know that the natural world has embraced and recognized you so. I have bound the braided pine to the Polished Jade Blossoms and your bracer is complete. Take it and wear it with the selfless knowledge that you are equal to all of nature's most devoted warders.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Bracer of the Pine](/item/8499) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/8499" data-url="8499" class="tooltip-link link">Bracer of the Pine</a> 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Forest Woven Gloves](/item/8871), [Polished Jade Studs](/item/8870)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/8871" data-url="8871" class="tooltip-link link">Forest Woven Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/8870" data-url="8870" class="tooltip-link link">Polished Jade Studs</a>) then 
 
 
 >**Cheyloh Greenwood says:** Well done, Soandso. The Jade Studs have been easily bound to the enchantment of the Forest Woven Gloves. Although you will not see bindings to hold the studs in-place, know that they are quite secure. Lerian's gifts are not to be underestimated, nor taken for granted. You have earned this item selflessly in displaying your protection of the natural order of this world, and in-turn, your ward has blessed you in many ways with the creation of this item. May it protect you as you have protected the land and order that forged it.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Gloves of the Pine](/item/8757) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/8757" data-url="8757" class="tooltip-link link">Gloves of the Pine</a> 
 
-elseif **Faction** >= Warmly and  **You turn in:** [Shadowjade Circlet](/item/8883), [Polished Jade Tear](/item/8882)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/8883" data-url="8883" class="tooltip-link link">Shadowjade Circlet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1218.png" alt="" /> <a
+                                href="/item/8882" data-url="8882" class="tooltip-link link">Polished Jade Tear</a>) then 
 
 
 >**Cheyloh Greenwood says:** Marvelously done, my friend. I am pleased to know that the natural world has embraced and recognized you so. I have bound the shadowjade circlet to the Polished Jade Tear. Take it and wear it with the selfless knowledge that you are equal to all of nature's most devoted warders.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Circlet of the Pine](/item/8759) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/8759" data-url="8759" class="tooltip-link link">Circlet of the Pine</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

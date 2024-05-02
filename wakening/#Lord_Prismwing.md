@@ -20,15 +20,19 @@ end
 
 
 
-if( **You turn in:** [drixie remains](/item/24876)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/24876" data-url="24876" class="tooltip-link link">drixie remains</a>) then
 
 
 >**Lord Prismwing says:** This is sad news you have returned to the court, but now his body may be laid to rest in the soil of Tunares land.
 
 
-* __Faction:__ [Tunarean Court](/faction/449) (10)
+Your faction standing with [Tunarean Court](/faction/449) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Crest of the Drixie](/item/24867) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/24867" data-url="24867" class="tooltip-link link">Crest of the Drixie</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

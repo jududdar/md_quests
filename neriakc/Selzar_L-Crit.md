@@ -23,7 +23,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Kanthuk](/item/2416)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/2416" data-url="2416" class="tooltip-link link">Note to Kanthuk</a>
 
 
 **You say:** `other task`
@@ -57,13 +58,19 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Halfling Clavicle](/item/19578), [Halfling Fibula](/item/19577), [Large Snake Skin](/item/13060)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/19578" data-url="19578" class="tooltip-link link">Halfling Clavicle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/19577" data-url="19577" class="tooltip-link link">Halfling Fibula</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/13060" data-url="13060" class="tooltip-link link">Large Snake Skin</a>) then
 
 
 >**Selzar L-Crit says:** You have slain enemies of our order. Carry your weapon with pride.
 
 
- **You receive:**  [Scaled Bone Rapier](/item/19608) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/19608" data-url="19608" class="tooltip-link link">Scaled Bone Rapier</a> (+150 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

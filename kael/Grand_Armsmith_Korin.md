@@ -65,7 +65,8 @@ end
 if( **Faction is** > Amiable) then
 
 
-if( **You turn in:** [Malevolent Crown](/item/25349)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25349" data-url="25349" class="tooltip-link link">Malevolent Crown</a>) then 
 
 
 
@@ -73,21 +74,14 @@ if( **You turn in:** [Malevolent Crown](/item/25349)) then
 
 
 
- **You receive:**  [Custom Malevolent Crown](/item/31520) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31520" data-url="31520" class="tooltip-link link">Custom Malevolent Crown</a> 
+
+ 
 
 
-elseif( **You turn in:** [Warlord's Crown](/item/25433)) then 
-
-
-
->**Grand Armsmith Korin says:** Ah, here is your helm, Soandso, may it serve you as well as you have served us.
-
-
-
- **You receive:**  [Custom Warlord's Crown](/item/31524) 
-
-
-elseif( **You turn in:** [Shining Helm](/item/25370)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25433" data-url="25433" class="tooltip-link link">Warlord's Crown</a>) then 
 
 
 
@@ -95,21 +89,14 @@ elseif( **You turn in:** [Shining Helm](/item/25370)) then
 
 
 
- **You receive:**  [Custom Shining Helm](/item/31521) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31524" data-url="31524" class="tooltip-link link">Custom Warlord's Crown</a> 
+
+ 
 
 
-elseif( **You turn in:** [Templar's Crown](/item/25391)) then 
-
-
-
->**Grand Armsmith Korin says:** Ah, here is your helm, Soandso, may it serve you as well as you have served us.
-
-
-
- **You receive:**  [Custom Templar's Crown](/item/31523) 
-
-
-elseif( **You turn in:** [Troubadour's Helm](/item/25384)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/25370" data-url="25370" class="tooltip-link link">Shining Helm</a>) then 
 
 
 
@@ -117,21 +104,14 @@ elseif( **You turn in:** [Troubadour's Helm](/item/25384)) then
 
 
 
- **You receive:**  [Custom Troubadour's Helm](/item/31522) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31521" data-url="31521" class="tooltip-link link">Custom Shining Helm</a> 
+
+ 
 
 
-elseif( **You turn in:** [Frostreaver's Velium Crown](/item/30507)) then 
-
-
-
->**Grand Armsmith Korin says:** Ah, here is your helm, Soandso, may it serve you as well as you have served us.
-
-
-
- **You receive:**  [Custom Frostreavers Velium Crown](/item/2610) 
-
-
-elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25391" data-url="25391" class="tooltip-link link">Templar's Crown</a>) then 
 
 
 
@@ -139,10 +119,14 @@ elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then
 
 
 
- **You receive:**  [Custom Crown of the Kromzek Kings](/item/2611) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31523" data-url="31523" class="tooltip-link link">Custom Templar's Crown</a> 
+
+ 
 
 
-elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/25384" data-url="25384" class="tooltip-link link">Troubadour's Helm</a>) then 
 
 
 
@@ -150,7 +134,55 @@ elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then
 
 
 
- **You receive:**  [Custom Cowl of Mortality](/item/2612) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31522" data-url="31522" class="tooltip-link link">Custom Troubadour's Helm</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/30507" data-url="30507" class="tooltip-link link">Frostreaver's Velium Crown</a>) then 
+
+
+
+>**Grand Armsmith Korin says:** Ah, here is your helm, Soandso, may it serve you as well as you have served us.
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/2610" data-url="2610" class="tooltip-link link">Custom Frostreavers Velium Crown</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25194" data-url="25194" class="tooltip-link link">Crown of the Kromzek Kings</a>) then 
+
+
+
+>**Grand Armsmith Korin says:** Ah, here is your helm, Soandso, may it serve you as well as you have served us.
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/2611" data-url="2611" class="tooltip-link link">Custom Crown of the Kromzek Kings</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/26025" data-url="26025" class="tooltip-link link">Cowl of Mortality</a>) then 
+
+
+
+>**Grand Armsmith Korin says:** Ah, here is your helm, Soandso, may it serve you as well as you have served us.
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/2612" data-url="2612" class="tooltip-link link">Custom Cowl of Mortality</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

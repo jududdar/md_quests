@@ -18,7 +18,8 @@ end
 
 
 
-if( **You turn in:** [Bixie Berry Pie](/item/12676)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_783.png" alt="" /> <a
+                                href="/item/12676" data-url="12676" class="tooltip-link link">Bixie Berry Pie</a>) then 
 
 
 >*Klok Unlar breaks open the crust of the pie. 'Wait! What is this? A device of some kind? It looks kind of like some sort of lockpick. BUGRIN!! Get in here and answer some questions at once!!*

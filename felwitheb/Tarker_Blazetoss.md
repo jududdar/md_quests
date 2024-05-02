@@ -61,45 +61,59 @@ end
 
 
 
-if( **You turn in:** [An Enrollment Letter](/item/18779)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18779" data-url="18779" class="tooltip-link link">An Enrollment Letter</a>) then 
 
 
 >**Tarker Blazetoss says:** Welcome to the wizards' guild of the Keepers of the Art. My name's Tarker, and I run this guild. You've got a lot of training ahead of you, so let's get started. Here, take this - it's our guild tunic. Wear it with honor, friend.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (100)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (15)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-25)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Singed Training Robe*](/item/13594) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_940.png" alt="" /> <a
+                                href="/item/13594" data-url="13594" class="tooltip-link link">Singed Training Robe*</a> (+20 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Black Wolf Skin](/item/13758)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/13758" data-url="13758" class="tooltip-link link">Black Wolf Skin</a>) then
 
 
 >**Tarker Blazetoss says:** This is just what I needed.. and with hardly a mark on it! You have my thanks. Here is a something that you might find useful.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (1)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rusty Dagger](/item/7007), [Bandages](/item/13009), [Worn Great Staff](/item/6012), [Spell: Numbing Cold](/item/15374), [Copper Band](/item/10004), [Cracked Staff](/item/6018), [Gold Ring](/item/10008)) (+350 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7007" data-url="7007" class="tooltip-link link">Rusty Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6012" data-url="6012" class="tooltip-link link">Worn Great Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15374" data-url="15374" class="tooltip-link link">Spell: Numbing Cold</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/10004" data-url="10004" class="tooltip-link link">Copper Band</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/6018" data-url="6018" class="tooltip-link link">Cracked Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/10008" data-url="10008" class="tooltip-link link">Gold Ring</a>) (+350 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

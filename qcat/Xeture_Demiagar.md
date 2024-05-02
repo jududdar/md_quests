@@ -45,7 +45,8 @@ if **Faction** >= Dubious then
 
 
 
-**You receive:**  [Note to Torin Krentar](/item/20207)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20207" data-url="20207" class="tooltip-link link">Note to Torin Krentar</a>
 
 
 
@@ -118,50 +119,58 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [A tattered note](/item/18716)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18716" data-url="18716" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Xeture Demiagar says:** Hmmm. Another rat has found its way to my doorstep, huh? Well, we may have use for you. Go find Rihtur, maybe he has an errand for you.
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (100)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-15)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (10)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-25)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (5)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Ruined Training Tunic*](/item/13598) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13598" data-url="13598" class="tooltip-link link">Ruined Training Tunic*</a> (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rolon Banari's Head](/item/20197)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/20197" data-url="20197" class="tooltip-link link">Rolon Banari's Head</a>) then
 
 
 >**Xeture Demiagar says:** You have done well, Soandso. Take this Rusty Bloodsaber Mace to a forge and clean it up with a Sharpening Stone. It may take you several attempts to get all the rust off if you are not familiar with the process. Once that is done take the Refined Bloodsaber Mace to Torin Krentar with a Giant King Snake Skin and he will put the finishing touches on the weapon.
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rusty Bloodsaber Mace](/item/20198) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/20198" data-url="20198" class="tooltip-link link">Rusty Bloodsaber Mace</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

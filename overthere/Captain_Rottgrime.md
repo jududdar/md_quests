@@ -26,16 +26,23 @@ local text = "Keep up the good work, marine.";
 
 
 
-if( **You turn in:** [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982), [A Sarnak War Braid](/item/12982)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12982" data-url="12982" class="tooltip-link link">A Sarnak War Braid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12982" data-url="12982" class="tooltip-link link">A Sarnak War Braid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12982" data-url="12982" class="tooltip-link link">A Sarnak War Braid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12982" data-url="12982" class="tooltip-link link">A Sarnak War Braid</a>) then
 
 
 >**Captain Rottgrime says:** Great job marine!! Word of your heroics shall be passed on to the Admiral. If you don't have a shield then take one, if you do then get back to the frontlines. There is no time for R n R!! Move it marine!! Or you'll be pushing Danak till the cockatrice crow!!
 
 
-* __Faction:__ [Venril Sathir](/faction/318) (8)
+Your faction standing with [Venril Sathir](/faction/318) got better (<span class='text-success'>+8</span>)
 
 
- **You receive:**  [Guard of the Marines](/item/12981) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/12981" data-url="12981" class="tooltip-link link">Guard of the Marines</a> (+10 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-4 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

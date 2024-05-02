@@ -8,7 +8,8 @@
 >**Wils Otton says:** I can't believe Jon mentioned that to you. I'll deal with him myself. If you want to help us kill the forest ravagers then you must first find Carre Harger. Bring this note to him. He'll get you started.
 
 
-**You receive:**  [Note to Carre](/item/31781)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/31781" data-url="31781" class="tooltip-link link">Note to Carre</a>
 end
 
 ## Turn-Ins
@@ -17,13 +18,17 @@ end
 
 
 
-if( **You turn in:** [Note to Wils](/item/31782)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/31782" data-url="31782" class="tooltip-link link">Note to Wils</a>) then
 
 
 >**Wils Otton says:** We've been hunting those wolves for a long time now. They killed many of my men. I'm glad to see that they are gone. Take this Hunter's Pike and get some good use out of it.
 
 
- **You receive:**  [Hunter's Pike](/item/32170) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/32170" data-url="32170" class="tooltip-link link">Hunter's Pike</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

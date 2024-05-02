@@ -20,24 +20,31 @@ end
 
 
 
-if (  **You turn in:** [Soldier's Chest](/item/4397) ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/4397" data-url="4397" class="tooltip-link link">Soldier's Chest</a> ) then 
 
 
 >**Captain Necin says:** Take this map and study it carefully. The mission we are preparing to embark upon will make your previous raids seem like child's play. Many friendly forces will need to help us to achieve our objectives, two dozen soldiers as powerful as me to be exact. When you have selected and briefed the troops that will carry out the offensive, give me the map and I will lead the assault.
 
 
- **You receive:**  [Map of Grimling Forest](/item/4398) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/4398" data-url="4398" class="tooltip-link link">Map of Grimling Forest</a> 
+
+ 
 
 
 
 
-elseif (  **You turn in:** [Map of Grimling Forest](/item/4398) ) then 
+elseif (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/4398" data-url="4398" class="tooltip-link link">Map of Grimling Forest</a> ) then 
 
 
 >**Captain Necin says:** Form up and follow me, I have an officer meeting us just outside the outpost. I'll finish briefing you all there.
 
 
- **You receive:** 0 (+50000 exp)
+ &#127873; **You receive:** 0 (+50000 exp)
+
+ 
 
 
 **Spawn NPC:**  [\#Captain Necin](/npc/167689) at this location.

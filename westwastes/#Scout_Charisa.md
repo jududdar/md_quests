@@ -14,22 +14,25 @@ end
 
 
 
-if( **You turn in:** [Scout Tools](/item/29683)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_884.png" alt="" /> <a
+                                href="/item/29683" data-url="29683" class="tooltip-link link">Scout Tools</a>) then 
 
 
 >**Scout Charisa says:** Great! I was wondering when they would send someone out to give me these.  In the haste and excitement of this new assignment I forgot them.  This scout business is great I must say.  It sure beats sitting in Southern Ro studying  ruins.  I've been following a patrol of Storm Giants for days.  They have been wandering up and down the coast as if they were looking for something.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (8)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+8</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (2)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-4)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-4</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 
 **Spawn NPC:**  [\#a Kromzek Captain](/npc/120115) at (**y:** -4868, **x:** -3501)

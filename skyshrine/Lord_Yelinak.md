@@ -62,7 +62,8 @@ end
 
 
 
-if( **You turn in:** [King Tormax's Head](/item/30516)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/30516" data-url="30516" class="tooltip-link link">King Tormax's Head</a>) then
 
 
 if **Faction** >= Amiable +100 then
@@ -73,22 +74,26 @@ if **Faction** >= Amiable +100 then
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (50)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+50</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (25)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (-25)
+Your faction standing with [King Tormax](/faction/429) got worse (<span class='text-danger'>-25</span>)
 
 
 
- **You receive:**  [Clawed Griffin Sword](/item/29647) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1211.png" alt="" /> <a
+                                href="/item/29647" data-url="29647" class="tooltip-link link">Clawed Griffin Sword</a> (+1000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Clawed Griffin Sword](/item/29647)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1211.png" alt="" /> <a
+                                href="/item/29647" data-url="29647" class="tooltip-link link">Clawed Griffin Sword</a>) then
 
 
 if **Faction** >= Amiable +100 then
@@ -99,10 +104,14 @@ if **Faction** >= Amiable +100 then
 
 
 
- **You receive:**  [White Dragonscale Boots](/item/29645) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/29645" data-url="29645" class="tooltip-link link">White Dragonscale Boots</a> 
+
+ 
 
 
-elseif( **You turn in:** [White Dragonscale Boots](/item/29645)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/29645" data-url="29645" class="tooltip-link link">White Dragonscale Boots</a>) then
 
 
 if **Faction** >= Amiable +100 then
@@ -113,10 +122,14 @@ if **Faction** >= Amiable +100 then
 
 
 
- **You receive:**  [White Dragon Helm](/item/29648) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/29648" data-url="29648" class="tooltip-link link">White Dragon Helm</a> 
+
+ 
 
 
-elseif( **You turn in:** [White Dragon Helm](/item/29648)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/29648" data-url="29648" class="tooltip-link link">White Dragon Helm</a>) then
 
 
 if **Faction** >= Amiable +100 then
@@ -127,7 +140,10 @@ if **Faction** >= Amiable +100 then
 
 
 
- **You receive:**  [Clawed Griffin Sword](/item/29647) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1211.png" alt="" /> <a
+                                href="/item/29647" data-url="29647" class="tooltip-link link">Clawed Griffin Sword</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

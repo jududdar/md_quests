@@ -1,7 +1,8 @@
 # Aid Eino
 ## Dialog
 
-if ( **You possess item:**  [Tiny Gold Fist](/item/16260) x 1
+if ( **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/16260" data-url="16260" class="tooltip-link link">Tiny Gold Fist</a> x 1
 
 
 **You say:** `hail`

@@ -5,13 +5,10 @@
 
 
 
-if( **You turn in:** [Faelin\`s Ring](/item/20446)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/20447" data-url="20447" class="tooltip-link link">Dark Metal Coin</a> 
 
-
->*Giz X-Tin flips you a coin after he recognizes the ring. 'It seems we have a mutual 'acquaintance.' The coin repays an old debt. You don't have to worry about what that is. Luckily, Lord Innoruuk has informed me of your coming and your desires. Fortunately, I have all the answers you require right here at theof my friend's blade. I think I'll be paying my old 'friend' a visit.'*
-
-
- **You receive:**  [Dark Metal Coin](/item/20447) 
+ 
 
 
 **Spawn NPC:**  [Teir\`Dal Reaver](/npc/20190) at this location.

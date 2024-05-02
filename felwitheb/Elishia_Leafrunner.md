@@ -5,7 +5,8 @@
 
 
 
-**You receive:**  [Letter to Jeremy](/item/8970)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/8970" data-url="8970" class="tooltip-link link">Letter to Jeremy</a>
 end
 
 ## Turn-Ins
@@ -13,7 +14,8 @@ end
 
 
 
-if( **You turn in:** [Letter to Elishia](/item/8969)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/8969" data-url="8969" class="tooltip-link link">Letter to Elishia</a>) then 
 
 
 >**Elishia Leafrunner says:** Oh, a letter from my grandson? Thank you very much. I haven't been able to talk to him recently. Would you mind taking a [letter back to him] for me?
@@ -22,16 +24,16 @@ if( **You turn in:** [Letter to Elishia](/item/8969)) then
 e.other:Ding();
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (10)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (2)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-2)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-2</span>)
 
 **This NPC *should* return incorrect items given.**
 ;

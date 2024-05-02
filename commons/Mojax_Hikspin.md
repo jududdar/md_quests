@@ -36,7 +36,8 @@ end
 
 
 
-local milk =  **You turn in:**  { [Bottle of Milk](/item/13087)}
+local milk =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13087" data-url="13087" class="tooltip-link link">Bottle of Milk</a>}
 
 
 
@@ -51,27 +52,29 @@ repeat
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-1)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (1)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+1 exp)
+ &#127873; **You receive:** 0 (+1 exp)
+
+ 
 
 
 
@@ -102,5 +105,6 @@ if((e.self:GetGrid() == 9 and e.wp == 22) or (e.self:GetGrid() == 10 and e.wp ==
 >**Mojax Hikspin says:** Here you are.  I hid it in this box behind the marker.  Take it to Eastyana of the Temple of Marr. Goodbye.
 
 
-**Spawns on ground:**  [A Note](/item/18822) at (**y:** -520, **x:** 3641)
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18822" data-url="18822" class="tooltip-link link">A Note</a> at (**y:** -520, **x:** 3641)
 end

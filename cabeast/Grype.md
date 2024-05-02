@@ -50,22 +50,32 @@ local text = "drinks the ale as if it were a shot. 'Ahhh!! Keep it coming. I thi
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Stein](/item/12862)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/12862" data-url="12862" class="tooltip-link link">A Stein</a>) then
 
 
 
 >*Grype nearly faints. His eyes begin to tear up. 'Oh my sweet stein of sloshing! This is the great treasure. A shiny piece of broken metal! Ha! You never win when you deal with a Blue Talon!*
 
 
- **You receive:**  [Foot of Candlestick](/item/12852) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1013.png" alt="" /> <a
+                                href="/item/12852" data-url="12852" class="tooltip-link link">Foot of Candlestick</a> 
+
+ 
 
 
-elseif( **You turn in:** [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609), [Cabilis Pale Ale](/item/12609)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_824.png" alt="" /> <a
+                                href="/item/12609" data-url="12609" class="tooltip-link link">Cabilis Pale Ale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_824.png" alt="" /> <a
+                                href="/item/12609" data-url="12609" class="tooltip-link link">Cabilis Pale Ale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_824.png" alt="" /> <a
+                                href="/item/12609" data-url="12609" class="tooltip-link link">Cabilis Pale Ale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_824.png" alt="" /> <a
+                                href="/item/12609" data-url="12609" class="tooltip-link link">Cabilis Pale Ale</a>) then
 
 
 >*Grype swallows the whole bottle in one gulp. 'Here, go buy yourself a brain. What?!! You expecting something? How about this.. <BUUURRRPPPP!!> Thanks for helping me get through my dry spell, croak!! Never mess with a Blue Talon!!*
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

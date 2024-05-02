@@ -23,7 +23,8 @@ end
 
 
 
-if( **You turn in:** [Seal of Vegalys](/item/2694)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/2694" data-url="2694" class="tooltip-link link">Seal of Vegalys</a>) then
 
 
 >**an investigator says:** Vegalys sent you. I'm done for. Guard Helminth found a false wall. We stepped through it. We were ambushed. I didn't see where Helminth went. He disappeared. I knew we were overwhelmed. I ran and feigned death but I knew [it was too late].
@@ -32,7 +33,10 @@ if( **You turn in:** [Seal of Vegalys](/item/2694)) then
 **Spawn NPC:**  [\#Guard Helminth](/npc/45005) at (**y:** 378, **x:** -49)
 
 
- **You receive:**  [Seal of Vegalys](/item/2694) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/2694" data-url="2694" class="tooltip-link link">Seal of Vegalys</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

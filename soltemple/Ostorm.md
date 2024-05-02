@@ -69,16 +69,17 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and (e.other:GetClass() == 2 or e.other:GetClass() == 6 or e.other:GetClass() == 10 or e.other:GetClass() == 11 or e.other:GetClass() == 12 or e.other:GetClass() == 13 or e.other:GetClass() == 14) and  **You turn in:** [Ruby](/item/10035)) then
+if **Faction** >= Indifferent and (e.other:GetClass() == 2 or e.other:GetClass() == 6 or e.other:GetClass() == 10 or e.other:GetClass() == 11 or e.other:GetClass() == 12 or e.other:GetClass() == 13 or e.other:GetClass() == 14) and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then
 
 
 >**Ostorm says:** ..hear me? Ah, you seem to be coming out of your stupor. I think you have been exposed to the crystal long enough. By the time you leave the temple, your memories should have faded. Do you have the [fifty gold] coins that you owe me?
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
 for skill=43,47,1 do
@@ -92,7 +93,9 @@ e.other:SetSkill(skill,49);
 **Message:** <span class="text-warning">*Your specialize skills have all been set to 49.*</span>
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 elseif( **You turn in:** gold = 50) then
 
@@ -100,37 +103,47 @@ elseif( **You turn in:** gold = 50) then
 >**Ostorm says:** Thank you.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (2)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-2)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-2</span>)
 
 
 e.other:Ding();
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fire Opal](/item/10031), [Fire Opal](/item/10031), [Lambent Stone](/item/10000)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/10031" data-url="10031" class="tooltip-link link">Fire Opal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/10031" data-url="10031" class="tooltip-link link">Fire Opal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a>) then
 
 
 >**Ostorm says:** Here is your prize - a lambent fire opal.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Fire Opal](/item/10128) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/10128" data-url="10128" class="tooltip-link link">Lambent Fire Opal</a> (+1000 exp)
+
+ 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>) then
 
 
 >**Ostorm says:** I see that Gavel has sent you to me.  Very well, I have magnetized your platinum bar - take it.
 
 
- **You receive:**  [Magnetized Platinum Bar](/item/19049) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/19049" data-url="19049" class="tooltip-link link">Magnetized Platinum Bar</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

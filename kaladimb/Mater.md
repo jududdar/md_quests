@@ -78,67 +78,75 @@ local text = "I will not hand you a Mining Pick 628 until I see Boog Mudtoe's og
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Head](/item/13316), gold = 300) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/13316" data-url="13316" class="tooltip-link link">Ogre Head</a>, gold = 300) then 
 
 
 >**Mater says:** Very good!! You found him. His head shall bring us a great reward from the Stormguard. And as for you, here is your Mining Pick 628. Only a member of 628 can wield this fine weapon. We are the only ones who can wield it in such a way as to pierce our foes.
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (10)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-10)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-10)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Deeppockets](/faction/241) (10)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-10)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-10</span>)
 
 
 
- **You receive:**  [Mining Pick 628](/item/12161) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/12161" data-url="12161" class="tooltip-link link">Mining Pick 628</a> (+5000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Small, Folded Note](/item/18767)) then 
+elseif( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18767" data-url="18767" class="tooltip-link link">Small, Folded Note</a>) then 
 
 
 >**Mater says:** Ah, welcome! We could use some fresh blood around here. The name's Mater, and I run this little outfit. Work hard for me, and I will reward you well. Cross me, and you'll find yourself buried under the mine cap. Now, let's get to work.
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (100)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+100</span>)
 
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-5</span>)
 
 
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-5)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-5</span>)
 
 
 
 
-* __Faction:__ [Deeppockets](/faction/241) (5)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-15)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-15</span>)
 
 
 
 
- **You receive:**  [Ruined Miners Tunic*](/item/13516) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13516" data-url="13516" class="tooltip-link link">Ruined Miners Tunic*</a> (+20 exp)
+
+ 
 
 
 

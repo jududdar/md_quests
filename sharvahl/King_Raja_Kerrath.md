@@ -23,14 +23,16 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**King Raja Kerrath says:** I guess I can write you a new note. Try not to lose it this time.
 
 
-**You receive:**  [Note from King Raja](/item/18304)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18304" data-url="18304" class="tooltip-link link">Note from King Raja</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Note to King Raja](/item/18299)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18299" data-url="18299" class="tooltip-link link">Note to King Raja</a>) then
 
 
 >**King Raja Kerrath says:** Your humility and willingness to serve shall not be wasted. There is much to be done, Soandso, and our people thank you in advance for your selfless service.
@@ -42,7 +44,10 @@ eq.set_global("Shar_Vahl_Cit","5",5,"F");
 
 
 
- **You receive:**  [Note from King Raja](/item/18304) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18304" data-url="18304" class="tooltip-link link">Note from King Raja</a> (+300 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

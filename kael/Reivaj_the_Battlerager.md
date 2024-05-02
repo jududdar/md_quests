@@ -239,21 +239,25 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Bllizents Fang](/item/25117)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/25117" data-url="25117" class="tooltip-link link">Bllizents Fang</a>) then
 
 
-* __Faction:__ [Kromrif](/faction/419) (25)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (6)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-12)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-2)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Vehement Sword of Reivaj](/item/25083) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1171.png" alt="" /> <a
+                                href="/item/25083" data-url="25083" class="tooltip-link link">Vehement Sword of Reivaj</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

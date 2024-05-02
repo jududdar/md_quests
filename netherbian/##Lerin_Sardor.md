@@ -11,13 +11,17 @@
 
 
 
-if( **You turn in:** [Signed Agreement](/item/5983)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/5983" data-url="5983" class="tooltip-link link">Signed Agreement</a>) then
 
 
 >**Lerin Sardor says:** Thank you so much for your help!  As I promised here is a small token of my appreciation.
 
 
- **You receive:**  [Jasper Kundan Earring](/item/5984) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_756.png" alt="" /> <a
+                                href="/item/5984" data-url="5984" class="tooltip-link link">Jasper Kundan Earring</a> (+10000 exp)
+
+ 
 
 
 **Lerin Sardor despawns.**

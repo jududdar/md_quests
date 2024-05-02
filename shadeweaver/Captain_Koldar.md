@@ -79,13 +79,26 @@ end
 
 
 
-if( **You turn in:** [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616), [Bloody Shak Dratha Heart](/item/30616)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30616" data-url="30616" class="tooltip-link link">Bloody Shak Dratha Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30616" data-url="30616" class="tooltip-link link">Bloody Shak Dratha Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30616" data-url="30616" class="tooltip-link link">Bloody Shak Dratha Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30616" data-url="30616" class="tooltip-link link">Bloody Shak Dratha Heart</a>) then
 
 
 >**Captain Koldar says:** Blasted! Took you long enough. Look! They've already brought in more troops. We have a city to protect here. Now patch yourself up and get back to it.' Koldar hands Soandso a handful of bandages.
 
 
- **You receive:** GiveAll( [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)) (+2000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2000" data-url="2000" class="tooltip-link link">Vale Reinforced Boots</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

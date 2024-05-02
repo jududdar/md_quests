@@ -23,23 +23,28 @@
 >**Sentry Ferin says:** Fighting for the honor of our cause is no small undertaking. Go and hunt down this cowardly lot. Take back from them what they have stolen and fill this casket so that the fallen cats might be honored properly.
 
 
-**You receive:**  [A Venerated Cask](/item/17891)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_837.png" alt="" /> <a
+                                href="/item/17891" data-url="17891" class="tooltip-link link">A Venerated Cask</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Sealed Cask](/item/30852)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/30852" data-url="30852" class="tooltip-link link">Sealed Cask</a>) then 
 
 
 >**Sentry Ferin says:** You are truly a friend to the Felidae. Take this shroud as a small token of the honor you have done to our people - it is just a small step towards becoming a champion among our people.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (8)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+8</span>)
 
 
- **You receive:**  [A Heros Shroud](/item/30854) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/30854" data-url="30854" class="tooltip-link link">A Heros Shroud</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

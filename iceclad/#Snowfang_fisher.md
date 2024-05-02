@@ -32,7 +32,9 @@ end
 
 
 
-if( **You turn in:** [Strong Wooden Branch](/item/30295), [Strong Raptor Gut](/item/30296)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/30295" data-url="30295" class="tooltip-link link">Strong Wooden Branch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/30296" data-url="30296" class="tooltip-link link">Strong Raptor Gut</a>) then
 
 
 >*Snowfang fisher sniffs the offering and seems to relax.  'Very good, very worthy.   You take this magic thing, with you maybe this evil is broken.'  Before he can hand you the parchment a roar explodes from the ocean and a gigantic dark shadow slams into the ice floe.*

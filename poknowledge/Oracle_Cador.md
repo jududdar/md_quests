@@ -19,9 +19,17 @@ end
 
 
 
-local count =  **You turn in:**  { [Rune Etched Helm](/item/4871),  [Rune Etched Chestplate](/item/4872),  [Rune Etched Vambraces](/item/4873),  [Rune Etched Bracer](/item/4874),  [Rune Etched Gauntlets](/item/4875),  [Rune Etched Greaves](/item/4876),  [Rune Etched Boots](/item/4877)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/4871" data-url="4871" class="tooltip-link link">Rune Etched Helm</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4872" data-url="4872" class="tooltip-link link">Rune Etched Chestplate</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4873" data-url="4873" class="tooltip-link link">Rune Etched Vambraces</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4874" data-url="4874" class="tooltip-link link">Rune Etched Bracer</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4875" data-url="4875" class="tooltip-link link">Rune Etched Gauntlets</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4876" data-url="4876" class="tooltip-link link">Rune Etched Greaves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4877" data-url="4877" class="tooltip-link link">Rune Etched Boots</a>}
 
-if( **You turn in:** [Cadors Artifact](/item/28089)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/28089" data-url="28089" class="tooltip-link link">Cadors Artifact</a>) then
 
 
 >**Oracle Cador says:** The spirits are restful now that this piece of legend is in safe hands. You may take this to Mirao for whatever purpose he desires it for. May your vision always be clear!
@@ -30,7 +38,10 @@ if( **You turn in:** [Cadors Artifact](/item/28089)) then
 
 
 
- **You receive:**  [Black Lava Powder](/item/28090) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/28090" data-url="28090" class="tooltip-link link">Black Lava Powder</a> (+100 exp)
+
+ 
 
 if(count > 0) then
 
@@ -43,7 +54,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Peridot](/item/10028), 10037, 22503, 15981) (+300000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
+
+ 
 
 
 

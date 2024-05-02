@@ -130,11 +130,13 @@ end
 
 
 
-if ( not **You possess item:**  [Mound of Living Stone](/item/29146) x 1
+if ( not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/29146" data-url="29146" class="tooltip-link link">Mound of Living Stone</a> x 1
 
 
 
-**You receive:**  [Mound of Living Stone](/item/29146)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/29146" data-url="29146" class="tooltip-link link">Mound of Living Stone</a>
 
 
 

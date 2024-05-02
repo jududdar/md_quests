@@ -14,43 +14,46 @@ end
 
 
 
-if( **You turn in:** [Orders for Legionnaire Falion](/item/31756)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/31756" data-url="31756" class="tooltip-link link">Orders for Legionnaire Falion</a>) then
 
 
 >**Legionnaire Falion says:** A Vah Shir vampyre!! Isn't that disturbing! How are you supposed to spot its pale skin under all that fur! Come to think of it I've heard that a strange Vah Shir has occasionally been spotted heading towards the villages of the Coterie of the Eternal Night here in the Tenebrous Mountains. This may be the Vah Shir you are seeking. I will be sure to question any arriving travelers if they have spotted him.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (4)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-2)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
 **Spawn NPC:**  [\# ](/npc/172186) at (**y:** -1265, **x:** -1414)
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

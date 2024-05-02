@@ -50,21 +50,28 @@ end
 
 
 
-if( **You turn in:** [Vaniki's Heart](/item/26033), [Zlandicar's Heart](/item/26009)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/26033" data-url="26033" class="tooltip-link link">Vaniki's Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/26009" data-url="26009" class="tooltip-link link">Zlandicar's Heart</a>) then
 
 
 >**Neb says:** Ika Paebala ma ri skasha, Neb\`ri mi re skashi! The Paebala are joyful, Neb is joyful! Misu na tona Vaniki esa Zlandicar, no re Paebala soka mora Chetari, ika tu. With the death of Vaniki and Zlandicar, the Paebala can conquer the Chetari, and rule! Mika na so kaka rika, ug boro Neb\`ri, ek val Vaniki ushta. Take this, it is Neb's fighting bone, and here, this key I took from Vaniki.
 
 
-* __Faction:__ [Paebala](/faction/463) (100)
+Your faction standing with [Paebala](/faction/463) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Chetari](/faction/462) (-10)
+Your faction standing with [Chetari](/faction/462) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Zlandicar](/faction/464) (-10)
+Your faction standing with [Zlandicar](/faction/464) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:** GiveAll( [Jaled Dar's Tomb Key](/item/28060), [Neb's Warbone](/item/26040)) (+25000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/28060" data-url="28060" class="tooltip-link link">Jaled Dar's Tomb Key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_738.png" alt="" /> <a
+                                href="/item/26040" data-url="26040" class="tooltip-link link">Neb's Warbone</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/25000" data-url="25000" class="tooltip-link link">Giant Militia Longsword</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

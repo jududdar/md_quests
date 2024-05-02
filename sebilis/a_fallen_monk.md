@@ -13,7 +13,8 @@ end
 
 
 
-if( **You turn in:** [Shackle of Tynnonium](/item/4199)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/4199" data-url="4199" class="tooltip-link link">Shackle of Tynnonium</a>) then
 
 
 >**a fallen monk says:** Earn what is mine. Show me you have the power worthy to wield what I possess.

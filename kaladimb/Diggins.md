@@ -130,7 +130,11 @@ local text1 = "I called for the Tongues of Crytil, Rondo, Keldyn and Barma!";
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>) then 
 
 
 >**Diggins says:** Good work. We shall add these to the stash. Here is your reward, as promised. Be happy with it and continue your work. Maybe soon you shall be able to [earn a parrying pick].
@@ -139,44 +143,57 @@ if **Faction** >= Amiable +100 and  **You turn in:** [RunnyEye Warbeads](/item/1
 
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (10)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-1)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rusty Dagger](/item/7007), [Rusty Rapier](/item/7008), [Rusty Spear](/item/7009), [Rusty Shortened Spear](/item/7010)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7007" data-url="7007" class="tooltip-link link">Rusty Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7008" data-url="7008" class="tooltip-link link">Rusty Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/7009" data-url="7009" class="tooltip-link link">Rusty Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7010" data-url="7010" class="tooltip-link link">Rusty Shortened Spear</a>) (+5000 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Crytils Tongue](/item/12170), [Keldyns Tongue](/item/12172), [Barmas Tongue](/item/12174), [Rondos Tongue](/item/12178)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12170" data-url="12170" class="tooltip-link link">Crytils Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12172" data-url="12172" class="tooltip-link link">Keldyns Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12174" data-url="12174" class="tooltip-link link">Barmas Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/12178" data-url="12178" class="tooltip-link link">Rondos Tongue</a>) then 
 
 
 >**Diggins says:** Excellent work!! You are quite an asset to this mining guild. Please accept this Parrying Pick 628 for your great service. If you truly wish to serve our guild. Go and speak with Mater. Tell him you are [ready to earn Mining Pick 628].
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (10)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-1)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Parrying Pick 628](/item/12166) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/12166" data-url="12166" class="tooltip-link link">Parrying Pick 628</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

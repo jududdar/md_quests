@@ -20,7 +20,8 @@
 >**Nestral TGaza says:** Janam and Rebby are A couple of merchants working the area around the Theater of the Tranquil and the Ashen Order, in West Freeport. It's part of my job to keep tabs on those two rascals. I need someone to take this note to Rebby for me. Don't worry, your efforts won't go unnoticed Soandso.
 
 
-**You receive:**  [Message to Rebby](/item/18923)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18923" data-url="18923" class="tooltip-link link">Message to Rebby</a>
 
 **You say:** `stanos`
 
@@ -40,28 +41,31 @@ end
 
 
 
-if( **You turn in:** [Rebbys Rat Whiskers](/item/13158)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/13158" data-url="13158" class="tooltip-link link">Rebbys Rat Whiskers</a>) then 
 
 
 >**Nestral TGaza says:** Thank you Soandso, You have done well.
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (10)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (10)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (1)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+62 exp)
+ &#127873; **You receive:** 0 (+62 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

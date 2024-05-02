@@ -14,44 +14,50 @@ end
 
 
 
-if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/1839" data-url="1839" class="tooltip-link link">Full Muffin Crate</a>) then  
 
 
 >**Hetie McDonald says:** Oh, yes, this is exactly what I needed. These muffins look very fresh too, good work! Here is your payment, as promised. It was a pleasure doing business with you.
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (2)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (1)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/1838" data-url="1838" class="tooltip-link link">Bag of Bread Loaves</a>) then  
 
 
 >**Hetie McDonald says:** Fresh bread! Thank you so much, I will put this on the shelves straightaway. Here is your payment as promised.
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (4)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+4</span>)
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (3)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (3)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+3</span>)
 
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+**You receive coin:** 1-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

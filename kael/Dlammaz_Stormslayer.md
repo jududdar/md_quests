@@ -265,44 +265,52 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item/25119)) then
+if **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/25119" data-url="25119" class="tooltip-link link">Great Dragon's Head</a>) then
 
 
 >**Dlammaz Stormslayer says:** The bards will sing of your greatness, Soandso. Rage on like the Maelstrom when you wear this cloak. You have done a great service for the city of Kael Drakkel, and we Kromzek do not soon forget great deeds.
 
 
-* __Faction:__ [King Tormax](/faction/429) (25)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (25)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (-12)
+Your faction standing with [Yelinak](/faction/436) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (-12)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Cloak of the Maelstrom](/item/25023) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/25023" data-url="25023" class="tooltip-link link">Cloak of the Maelstrom</a> (+5000 exp)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Greater Dragon's Head](/item/25118)) then
+ 
+
+elseif **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/25118" data-url="25118" class="tooltip-link link">Greater Dragon's Head</a>) then
 
 
 >**Dlammaz Stormslayer says:** We shall hang this head from the halls of Dragondeath Keep and sing your praises, Soandso. Take my axe as a reward for your great deeds. You are a true hero for Kael Drakkel!
 
 
-* __Faction:__ [King Tormax](/faction/429) (25)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (25)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (-12)
+Your faction standing with [Yelinak](/faction/436) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (-12)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Frostbringer](/item/25022) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_902.png" alt="" /> <a
+                                href="/item/25022" data-url="25022" class="tooltip-link link">Frostbringer</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

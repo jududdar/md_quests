@@ -49,13 +49,18 @@ end
 
 
 
-if( **You turn in:** [Scroll of Flayed Goblin Skin](/item/18401), [Star Ruby](/item/10032)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18401" data-url="18401" class="tooltip-link link">Scroll of Flayed Goblin Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >*Nallar Q-Tentu takes the scroll and removes an ornate magnifying glass from a pocket. After some examination and many frowns along with interjections of 'Hmmm,' he hands the scroll back to you and says, 'Unlucky for you indeed. The name of the House has been removed. This can only happen when the House itself is wiped out by another House. All record of that House is destroyed if the attacking house is successful. You still have a chance though. Many House refugees find homes in other Houses. The Everliving Mayong is known to take in any Teir'Dal rabble. Try his castle.*
 
 
- **You receive:**  [Scroll of Flayed Goblin Skin](/item/18401) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18401" data-url="18401" class="tooltip-link link">Scroll of Flayed Goblin Skin</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

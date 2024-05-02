@@ -41,28 +41,32 @@ local text1 = "Good work! Now have you the rest of what I require?";
 
 
 
-if( **You turn in:** [Bag of Troll Guts](/item/13703),platinum = 1) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/13703" data-url="13703" class="tooltip-link link">Bag of Troll Guts</a>,platinum = 1) then
 
 
 >**Sansa Nusk says:** I am not even going to bother asking where you got that. Just take this set I already made and hurry them back to Fabian.
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (2)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lute Strings](/item/13709) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/13709" data-url="13709" class="tooltip-link link">Lute Strings</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

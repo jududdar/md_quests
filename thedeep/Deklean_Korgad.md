@@ -44,15 +44,22 @@ end
 
 
 
-if( **You turn in:** [A Deepspore](/item/32400), [A Deepspore](/item/32400), [A Deepspore](/item/32400), [A Deepspore](/item/32400)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_571.png" alt="" /> <a
+                                href="/item/32400" data-url="32400" class="tooltip-link link">A Deepspore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_571.png" alt="" /> <a
+                                href="/item/32400" data-url="32400" class="tooltip-link link">A Deepspore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_571.png" alt="" /> <a
+                                href="/item/32400" data-url="32400" class="tooltip-link link">A Deepspore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_571.png" alt="" /> <a
+                                href="/item/32400" data-url="32400" class="tooltip-link link">A Deepspore</a>) then
 
 
 >*Deklean Korgad eyes the spores hungrily. He shoves them all in his pockets and looks at you. 'I appreciate that friend, you've proven yourself worth a bit of trust. I hate to take the mushrooms and run, but I have to get across the [chasm] soon. Here take this, thanks for the mushrooms!'*
 
 
-* __Faction:__ [Deklean Korgad](/faction/1569) (2)
+Your faction standing with [Deklean Korgad](/faction/1569) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [A fungus covered hunk of rock](/item/32402) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_948.png" alt="" /> <a
+                                href="/item/32402" data-url="32402" class="tooltip-link link">A fungus covered hunk of rock</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

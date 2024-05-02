@@ -35,7 +35,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Sealed Letter](/item/18817)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18817" data-url="18817" class="tooltip-link link">A Sealed Letter</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -83,27 +84,30 @@ end
 
 
 
-if( **You turn in:** [A tattered flier](/item/18818)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18818" data-url="18818" class="tooltip-link link">A tattered flier</a>) then 
 
 
 >**Kalatrina Plossen says:** Zimel's Blades?! Hmmmmm. It doesn't ring a bell and the remainder of the writing is too hard to make out. It kind of looks like a list of prices. You know, down at the Office of the People they might be able to tell us if this place exists. Go speak with Rashinda. She knows all about Freeport. If [Zimel's Blades] existed, you must report back to me what happened to it.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-1)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (1)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

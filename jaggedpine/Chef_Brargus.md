@@ -72,7 +72,8 @@ end
 
 
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Patty Melt](/item/8194)) then 
+if( **Faction is** > Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1020.png" alt="" /> <a
+                                href="/item/8194" data-url="8194" class="tooltip-link link">Patty Melt</a>) then 
 
 
 >*Chef Brargus wolfs down the Patty Melt in one bite. 'Yeah, this isn't too bad I guess. Not nearly as good as I could have done though.'*
@@ -81,6 +82,9 @@ if( **Faction is** > Apprehensive and  **You turn in:** [Patty Melt](/item/8194)
 >*Chef Brargus scribbles on a piece of paper and hands it to Soandso. 'Here is the recipe you wanted.'*
 
 
- **You receive:**  [Elegant Pates](/item/18430) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/18430" data-url="18430" class="tooltip-link link">Elegant Pates</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

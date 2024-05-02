@@ -20,7 +20,8 @@
 >**Clerk Doval says:** Here is the restraint order. Go to the troopers and ask them to [sign the restraining order]. Also, make sure to have them sign it in alphabetical order. I am a very big stickler about this. The troopers' names are as follows; Ozlot, Ogmire, Nish Nish, Frogzin, Gummin, Inkin, Roklon, Taer, Fryp and Selbat. When all is done, I shall pay you.
 
 
-**You receive:**  [Legion Order](/item/18240)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18240" data-url="18240" class="tooltip-link link">Legion Order</a>
 
 
 
@@ -53,14 +54,15 @@ end
 
 
 
-if( **You turn in:** [Legion Order](/item/18250)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18250" data-url="18250" class="tooltip-link link">Legion Order</a>) then
 
 
 
 >**Clerk Doval says:** Thank you so much. I am so glad I did not have to deal with such a rowdy band of troopers as these. Please take some coin and perhaps a book from my personal library.
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (3)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+3</span>)
 
 
 
@@ -71,7 +73,7 @@ if( **You turn in:** [Legion Order](/item/18250)) then
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
 
@@ -82,7 +84,11 @@ if( **You turn in:** [Legion Order](/item/18250)) then
 
 
 
- **You receive:** eq.ChooseRandom( [The Book of Knowledge](/item/12460), [The Code of Combat](/item/12461)) (+1200 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/12460" data-url="12460" class="tooltip-link link">The Book of Knowledge</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/12461" data-url="12461" class="tooltip-link link">The Code of Combat</a>) (+1200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

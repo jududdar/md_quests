@@ -39,11 +39,16 @@ end
 
 
 
-if( **You turn in:** [A Worn Rune](/item/18905)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18905" data-url="18905" class="tooltip-link link">A Worn Rune</a>) then
 
 
 >**Guard Haldin says:** Eh, strapling? Ye got this from me ol' partner? Huh. Aye, I know what it means but ye're not hearin'. Here, take this. It was his but he's not needin' it now.
 
 
- **You receive:** eq.ChooseRandom( [Bronze Battle Axe](/item/5028), [Dwarven Axe](/item/5300)) (+30000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5028" data-url="5028" class="tooltip-link link">Bronze Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5300" data-url="5300" class="tooltip-link link">Dwarven Axe</a>) (+30000 exp)
+
+ 
 end

@@ -16,7 +16,8 @@
 >**Terasol says:** Very well then. Here are the new mining picks. Send Daesorak my regards.
 
 
-**You receive:**  [A Bundle of Mining Picks](/item/4755)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/4755" data-url="4755" class="tooltip-link link">A Bundle of Mining Picks</a>
 end
 
 ## Turn-Ins
@@ -25,12 +26,15 @@ end
 
 
 
-if( **You turn in:** [A Jarbled Note](/item/4754)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/4754" data-url="4754" class="tooltip-link link">A Jarbled Note</a>) then
 
 
 >**Terasol says:** Ah, of course, you must be sent to pick up the supplies that Daesorak has been needing for his mining operation. I was wondering when that crazy Dwarf was going to come and pick these up. I imagine then that you will [take the mining picks] to Daesorak?
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

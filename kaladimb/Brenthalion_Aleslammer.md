@@ -37,7 +37,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Magical Mail Assembly Kit](/item/17249)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17249" data-url="17249" class="tooltip-link link">Magical Mail Assembly Kit</a>
 
 
 **You say:** `armguards`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `boots`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `bracer`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `breastplate`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 **You say:** `task`
@@ -113,7 +118,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `greaves`
@@ -125,7 +131,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `helm`
@@ -137,7 +144,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 end
 
@@ -147,22 +155,28 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Enraged Goblin Beads](/item/2396), [Green Goblin Head](/item/28065), [Aqua Goblin Head](/item/28066)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_850.png" alt="" /> <a
+                                href="/item/2396" data-url="2396" class="tooltip-link link">Enraged Goblin Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/28065" data-url="28065" class="tooltip-link link">Green Goblin Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/28066" data-url="28066" class="tooltip-link link">Aqua Goblin Head</a>) then
 
 
 >**Brenthalion Aleslammer says:** Dese will surely be a great addition to me trophy room Soandso! I knew I could count on you to not have a problem collecting these things for me. As I promised, I have prepared you a fine blade that will surely guide you to victory wherever your travels may take you. Gud luck to ye Soandso, hammers high!
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (1)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Underfoot Defenders Claymore](/item/26077) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/26077" data-url="26077" class="tooltip-link link">Underfoot Defenders Claymore</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

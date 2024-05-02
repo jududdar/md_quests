@@ -24,7 +24,10 @@ if( **You turn in:** gold = 1000) then
 >**Alchemist Hikal says:** Here it is. I am sure you will be quite happy with your purchase, it is quite an interesting old bag it is.
 
 
- **You receive:**  [Old Sealed Medicine Pouch](/item/10681) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/10681" data-url="10681" class="tooltip-link link">Old Sealed Medicine Pouch</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

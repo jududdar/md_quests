@@ -20,7 +20,8 @@
 >**Medicine Man Veetra says:** Return this tome to me if you wish me to call forth Gina. Destroy it if you do not.
 
 
-**You receive:**  [Spirits Among Us](/item/18544)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18544" data-url="18544" class="tooltip-link link">Spirits Among Us</a>
 
 **You say:** `ooga`
 
@@ -29,14 +30,16 @@
 >**Medicine Man Veetra says:** Return this tome if you wish me to summon Ooga to assist you. Destroy it if you do not.
 
 
-**You receive:**  [Alkeme](/item/18545)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18545" data-url="18545" class="tooltip-link link">Alkeme</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Spirits Among Us](/item/18544)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18544" data-url="18544" class="tooltip-link link">Spirits Among Us</a>) then 
 
 
 >**Medicine Man Veetra says:** I am no longer needed and will take my leave.
@@ -47,7 +50,8 @@ if( **You turn in:** [Spirits Among Us](/item/18544)) then
 
 **Medicine Man Veetra despawns.**
 
-elseif( **You turn in:** [Alkeme](/item/18545)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18545" data-url="18545" class="tooltip-link link">Alkeme</a>) then 
 
 
 >**Medicine Man Veetra says:** I am no longer needed and will take my leave.

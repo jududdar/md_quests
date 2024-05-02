@@ -57,7 +57,8 @@ else
 >**Yeolarn Bronzeleaf says:** The crate that the you recovered from the Courier contained this black candlestick that radiates an aura of great magical power. I request that you deliver the candlestick to Lady Trilani who is studying with the High Men in Erudin. Perhaps she can divine the nature of the candlestick and offer aid in defeating its power. The remaining contents of the crate have been given to Crusader Swiftmoon to be delivered to a gnome in steamfont that is purchasing them on behalf of the Eldrich Collective. When you return be sure to present your Disciple Symbol to me with anything that Trilani may ask you to deliver.
 
 
-**You receive:**  [Black Stone Candlestick](/item/1598)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1128.png" alt="" /> <a
+                                href="/item/1598" data-url="1598" class="tooltip-link link">Black Stone Candlestick</a>
 end
 
 ## Turn-Ins
@@ -67,90 +68,102 @@ end
 local text1 = "I requested four Ghast hearts!";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare! I knew you would be victorious. I reward you with this spell, and pray that it will help you in your fight against the unholy forces of Innoruuk. When you are ready you will make a fine [Initiate of Tunare].
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (2)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (2)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (1)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Strike](/item/15014) (+4400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15014" data-url="15014" class="tooltip-link link">Spell: Strike</a> (+4400 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199), [Putrescent Heart](/item/10199)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10199" data-url="10199" class="tooltip-link link">Putrescent Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10199" data-url="10199" class="tooltip-link link">Putrescent Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10199" data-url="10199" class="tooltip-link link">Putrescent Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10199" data-url="10199" class="tooltip-link link">Putrescent Heart</a>) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare!! You have done well young Initiate. Here the symbol of your station within our faith. Return to me when you are ready to [slay the necromancer] that has been creating the undead.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (15)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (15)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (11)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+11</span>)
 
 
- **You receive:**  [Initiate Symbol of Tunare](/item/1570) (+3250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_852.png" alt="" /> <a
+                                href="/item/1570" data-url="1570" class="tooltip-link link">Initiate Symbol of Tunare</a> (+3250 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Initiate Symbol of Tunare](/item/1570), [Teir\`Dal Courier's Head](/item/12514), [Teir\`Dal Crate](/item/19065), [Larik Z\`Vole's Head](/item/12513)) then 
+ 
 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_852.png" alt="" /> <a
+                                href="/item/1570" data-url="1570" class="tooltip-link link">Initiate Symbol of Tunare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_852.png" alt="" /> <a
+                                href="/item/1571" data-url="1571" class="tooltip-link link">Disciple Symbol of Tunare</a> (+4000 exp)
 
->**Yeolarn Bronzeleaf says:** Praise Tunare! The Mother smiles on you this day Disciple Soandso! I present you with the symbol of your new station among the Priests of Tunare. Return to me when you are ready to become a [Warden of Tunare]?
+ 
 
-
-* __Faction:__ [Clerics of Tunare](/faction/226) (30)
-
-
-* __Faction:__ [King Tearis Thex](/faction/279) (30)
-
-
-* __Faction:__ [Anti-mage](/faction/5002) (22)
-
-
- **You receive:**  [Disciple Symbol of Tunare](/item/1571) (+4000 exp)
-
-elseif **Faction** >= Indifferent and  **You turn in:** [Disciple Symbol of Tunare](/item/1571), [Powder of Unanimation](/item/1599)) then 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_852.png" alt="" /> <a
+                                href="/item/1571" data-url="1571" class="tooltip-link link">Disciple Symbol of Tunare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/1599" data-url="1599" class="tooltip-link link">Powder of Unanimation</a>) then 
 
 
 >**Yeolarn Bronzeleaf says:** Praise Tunare!! I will have our sorcerers examine this power immediately to see if we can reproduce it in quantities enough to eliminate the undead plague. I award you the rank of Warden of Tunare, the All Mother smiles upon you, Soandso!
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (40)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+40</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (40)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+40</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (30)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+30</span>)
 
 
- **You receive:**  [Warden Symbol of Tunare](/item/1572) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_852.png" alt="" /> <a
+                                href="/item/1572" data-url="1572" class="tooltip-link link">Warden Symbol of Tunare</a> (+5000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/18780)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18780" data-url="18780" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Yeolarn Bronzeleaf says:** Welcome, friend, to the Clerics of Tunare. I am Yeolarn Bronzeleaf, head of the guild and devout follower of Tunare. Here is your guild tunic - it will help to protect you against this world's evils.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (100)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (100)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (75)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Faded Gold Training Tunic*](/item/13590) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13590" data-url="13590" class="tooltip-link link">Faded Gold Training Tunic*</a> (+20 exp)
+
+ 
 
 else
 

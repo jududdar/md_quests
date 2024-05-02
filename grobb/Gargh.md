@@ -131,89 +131,116 @@ end
 
 
 
-if  **Faction** >= Amiable and  **You turn in:** [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)) then
+if  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>) then
 
 
 >**Gargh says:** You done good. You begin to know fear by causing fear. You learning about da animals. You learn about da animals by fighting dem and tearing them apart. You ready to [learn about da animals]?
 
 
-* __Faction:__ [Dark Ones](/faction/237) (1)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dark Ones Bracer](/item/7380) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/7380" data-url="7380" class="tooltip-link link">Dark Ones Bracer</a> (+250 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Giant Rat Ear](/item/13050), [Giant Rat Pelt](/item/13054)) then
+ 
+
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13050" data-url="13050" class="tooltip-link link">Giant Rat Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>) then
 
 
 >**Gargh says:** So you know all about da rat now. Dat is good. Next step is important. You need to learn to [fight like da alligator].
 
 
-* __Faction:__ [Dark Ones](/faction/237) (2)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dark Ones Cap](/item/7381) (+400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/7381" data-url="7381" class="tooltip-link link">Dark Ones Cap</a> (+400 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [An Alligator Tooth](/item/13725)) then
+ 
+
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/13725" data-url="13725" class="tooltip-link link">An Alligator Tooth</a>) then
 
 
 >**Gargh says:** Ok meez believe you. Here your reward. Meez think you just about ready for [next part of your training].
 
 
-* __Faction:__ [Dark Ones](/faction/237) (6)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dark Ones Leggings](/item/7382) (+600 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/7382" data-url="7382" class="tooltip-link link">Dark Ones Leggings</a> (+600 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Froglok Blood](/item/22524)) then
+ 
+
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1156.png" alt="" /> <a
+                                href="/item/22524" data-url="22524" class="tooltip-link link">Froglok Blood</a>) then
 
 
 >**Gargh says:** You did it! You cause lots of fear for them. Dat good. Even da spirits are starting to tremble. Soon you will be able to make dem do what you want. But there is [one more task] meez want you to do.
 
 
-* __Faction:__ [Dark Ones](/faction/237) (28)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+28</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (7)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-4)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-4</span>)
 
 
- **You receive:**  [Dark Ones Claw](/item/7383) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_975.png" alt="" /> <a
+                                href="/item/7383" data-url="7383" class="tooltip-link link">Dark Ones Claw</a> (+1000 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)) then
+ 
+
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>) then
 
 
 >**Gargh says:** Meez impressed. Da spirits, they tremble in terror before you. Meez can't teach you no more. Go and dominate through fear. Fight like da alligator and tear your enemies apart.
 
 
-* __Faction:__ [Dark Ones](/faction/237) (10)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (2)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dark Ones Leather](/item/7384) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/7384" data-url="7384" class="tooltip-link link">Dark Ones Leather</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

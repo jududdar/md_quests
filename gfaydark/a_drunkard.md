@@ -32,30 +32,43 @@ end
 
 
 
-if( **You turn in:** [Elven Wine](/item/13035)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_825.png" alt="" /> <a
+                                href="/item/13035" data-url="13035" class="tooltip-link link">Elven Wine</a>) then
 
 
 >**a drunkard says:** Thank you kind sir <hic>, I am most grateful for your generosity.
 
 
- **You receive:** 0 (+150 exp)
+ &#127873; **You receive:** 0 (+150 exp)
 
-elseif( **You turn in:** [Dull Pearl Necklace](/item/13347), [Dull Pearl Necklace](/item/13349), [Dull Pearl Necklace](/item/13348), [Dull Pearl Necklace](/item/13350)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13347" data-url="13347" class="tooltip-link link">Dull Pearl Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13349" data-url="13349" class="tooltip-link link">Dull Pearl Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13348" data-url="13348" class="tooltip-link link">Dull Pearl Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13350" data-url="13350" class="tooltip-link link">Dull Pearl Necklace</a>) then
 
 
 >**a drunkard says:** This is a sad day, but it was the just thing to do. The Nybright name will no longer be tarnished. Here you are my friend. This is a bit uncared for, but it is yours. My warrior days are over. Now go. I must be alone.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (10)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (10)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (7)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bearskin Gloves](/item/2314), [Leather Belt](/item/2007), [Leather Shoulderpads](/item/2005), [Targ Shield](/item/9003)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2314" data-url="2314" class="tooltip-link link">Bearskin Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2007" data-url="2007" class="tooltip-link link">Leather Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2005" data-url="2005" class="tooltip-link link">Leather Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/9003" data-url="9003" class="tooltip-link link">Targ Shield</a>) (+1000 exp)
+
+ 
 
 
 

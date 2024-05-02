@@ -5,7 +5,8 @@ local qglobals = eq.get_qglobals(e.other);
 
 
 
-if ( qglobals.zebuxoruk == "2" and **You possess item:**  [Quintessence of Elements](/item/29165) x 1
+if ( qglobals.zebuxoruk == "2" and **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1327.png" alt="" /> <a
+                                href="/item/29165" data-url="29165" class="tooltip-link link">Quintessence of Elements</a> x 1
 
 
 

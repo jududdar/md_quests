@@ -96,48 +96,57 @@ local text3 = "I will require four sarnak whelp brains for my experiment. When I
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>) then
 
 
 >**Master Xydoz says:** Good work, my young apprentice. You will make a fine addition to our ranks. Here is your first apprentice skullcap. Wear it as a sign of our circle. Do not lose it. Someday you shall wear a necromancer skullcap, but next shall come the [second rank skullcap].
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (2)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Apprentice Skullcap - 1st Rank](/item/4260) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4260" data-url="4260" class="tooltip-link link">Apprentice Skullcap - 1st Rank</a> (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Apprentice Skullcap - 1st Rank](/item/4260), [Mended Tapestry](/item/18208)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/18208" data-url="18208" class="tooltip-link link">Mended Tapestry</a>) then
 
 
 >**Master Xydoz says:** A job well done, apprentice Soandso. Your fine service shall earn you the second circle apprentice skullcap. I would advise you to forget this tapestry, it is nothing more than an ancient rug of no importance.
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (10)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Apprentice Skullcap - 2nd Rank](/item/4261) (+120 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4261" data-url="4261" class="tooltip-link link">Apprentice Skullcap - 2nd Rank</a> (+120 exp)
 
-elseif( **You turn in:** [Illegible Note: Greaves](/item/14793)) then
+ 
 
-
->*Master Xydoz snatches the paper from your hand and hisses in anger. Without even looking at the paper he growls*
-
-
->**Master Xydoz says:** WHAT?! What is this tra... He stares down at the paper, mouth hanging open wide in disbelief. He finally continues, saying, Very well, then. If you wish to know confidence I have a task for you. Our hated enemies, the sarnak, have a tome we have sought to return to our libraries for centuries. At this point, we believe it to be found in a small fortress they maintain near the Great Lake. One of their scholars will most likely have it on their person. Bring it to me along with two star rubies.
-
-elseif( **You turn in:** [Iron Bound Tome](/item/14811), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/14811" data-url="14811" class="tooltip-link link">Iron Bound Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Master Xydoz says:** Well done
 
 
- **You receive:**  [Glosk's Reference: Greaves](/item/14831) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/14831" data-url="14831" class="tooltip-link link">Glosk's Reference: Greaves</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

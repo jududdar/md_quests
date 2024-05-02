@@ -144,57 +144,69 @@ end
 
 
 
-if( **You turn in:** [Head of a Halfling Spy](/item/12497), [Initiate Symbol of Innoruuk](/item/1369)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_992.png" alt="" /> <a
+                                href="/item/12497" data-url="12497" class="tooltip-link link">Head of a Halfling Spy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/1369" data-url="1369" class="tooltip-link link">Initiate Symbol of Innoruuk</a>) then 
 
 
 >*Ithvol K-Jasn You have focused the hate within you and discovered that hate and rage are not the same. Hate can be calculating and deceptive. For your service in defending the Kingdom of King Naythox Thex from the halfling invaders, I award you the disciple symbol of Innoruuk. Wear it with pride, Soandso.*
 
 
-* __Faction:__ [Priests of Innoruuk](/faction/340) (50)
+Your faction standing with [Priests of Innoruuk](/faction/340) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (7)
+Your faction standing with [King Naythox Thex](/faction/278) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (-17)
+Your faction standing with [Clerics of Tunare](/faction/226) got worse (<span class='text-danger'>-17</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-12)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-7)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-200)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-200</span>)
 
 
- **You receive:**  [Disciple Symbol of Innoruuk](/item/1370) (+4000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/1370" data-url="1370" class="tooltip-link link">Disciple Symbol of Innoruuk</a> (+4000 exp)
 
-elseif( **You turn in:** [Voucher of Service to Naythox](/item/12499), [Swiftmoon's Head](/item/12498), [Receipt for Provisions Crate](/item/19029), [Disciple Symbol of Innoruuk](/item/1370)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12499" data-url="12499" class="tooltip-link link">Voucher of Service to Naythox</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_984.png" alt="" /> <a
+                                href="/item/12498" data-url="12498" class="tooltip-link link">Swiftmoon's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19029" data-url="19029" class="tooltip-link link">Receipt for Provisions Crate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/1370" data-url="1370" class="tooltip-link link">Disciple Symbol of Innoruuk</a>) then 
 
 
 >**Ithvol K-Jasn says:** Your devotion to the ideals of hatred and your service to our King Naythox Thex has proven your usefulness within these spires and within our great city. I award you the Regent Symbol of Innoruuk. Congratulations, Regent Soandso!
 
 
-* __Faction:__ [Priests of Innoruuk](/faction/340) (50)
+Your faction standing with [Priests of Innoruuk](/faction/340) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (7)
+Your faction standing with [King Naythox Thex](/faction/278) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (-17)
+Your faction standing with [Clerics of Tunare](/faction/226) got worse (<span class='text-danger'>-17</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-12)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-7)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-200)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-200</span>)
 
 
- **You receive:**  [Regent Symbol of Innoruuk](/item/1371) (+8000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/1371" data-url="1371" class="tooltip-link link">Regent Symbol of Innoruuk</a> (+8000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

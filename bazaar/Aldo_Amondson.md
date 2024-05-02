@@ -12,28 +12,44 @@ end
 
 
 
-if( **You turn in:** [Brown Rope Bridle](/item/21815)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/21815" data-url="21815" class="tooltip-link link">Brown Rope Bridle</a>) then
 
 
- **You receive:**  [Bag of Platinum Pieces](/item/21820) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/21820" data-url="21820" class="tooltip-link link">Bag of Platinum Pieces</a> 
+
+ 
 
 
-elseif( **You turn in:** [Brown Leather Bridle](/item/21816)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/21816" data-url="21816" class="tooltip-link link">Brown Leather Bridle</a>) then
 
 
- **You receive:**  [Heavy Bag of Platinum](/item/21821) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/21821" data-url="21821" class="tooltip-link link">Heavy Bag of Platinum</a> 
+
+ 
 
 
-elseif( **You turn in:** [Brown Silken Bridle](/item/21817)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/21817" data-url="21817" class="tooltip-link link">Brown Silken Bridle</a>) then
 
 
- **You receive:**  [Big Bag of Platinum](/item/21822) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/21822" data-url="21822" class="tooltip-link link">Big Bag of Platinum</a> 
+
+ 
 
 
-elseif( **You turn in:** [Brown Chain Bridle](/item/21818)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/21818" data-url="21818" class="tooltip-link link">Brown Chain Bridle</a>) then
 
 
- **You receive:**  [Huge Bag of Platinum](/item/21823) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/21823" data-url="21823" class="tooltip-link link">Huge Bag of Platinum</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

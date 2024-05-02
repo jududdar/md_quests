@@ -32,7 +32,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Empty Bag](/item/17944)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17944" data-url="17944" class="tooltip-link link">Empty Bag</a>
 
 
 
@@ -71,7 +72,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Bag of Ice Necklaces](/item/13898)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13898" data-url="13898" class="tooltip-link link">Bag of Ice Necklaces</a>) then 
 
 
 >**Josper Kenshed says:** Well done, my young apprentice. I call you apprentice for you are nothing but a spark to my fire. This is the final component for my greatest creation. AHA!! I call it - iced tea!! Never again shall I boil under the hot sun. As for you, take this. It should serve you well. Now go away. There is no iced tea for you.
@@ -80,21 +82,25 @@ if **Faction** >= Amiable and  **You turn in:** [Bag of Ice Necklaces](/item/138
 
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (15)
+Your faction standing with [Crimson Hands](/faction/233) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-2)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (2)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Servants Staff](/item/12208) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/12208" data-url="12208" class="tooltip-link link">Servants Staff</a> (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Half of a Spell](/item/12207)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 7 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12207" data-url="12207" class="tooltip-link link">Half of a Spell</a>) then 
 
 
 >**Josper Kenshed says:** I see you found Ilanic. How is he doing? I hope he is well. As for you, you may have the spell Ice Capa... err, I mean Column of Frost. Don't go and lose it now.
@@ -103,19 +109,22 @@ elseif **Faction** >= Amiable and  **You turn in:** [Half of a Spell](/item/1220
 
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (5)
+Your faction standing with [Crimson Hands](/faction/233) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Column of Frost](/item/15380) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15380" data-url="15380" class="tooltip-link link">Spell: Column of Frost</a> (+1000 exp)
+
+ 
 
 
 

@@ -28,28 +28,32 @@ end
 
 
 
-if( **You turn in:** [Mundane Mask](/item/14106)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/14106" data-url="14106" class="tooltip-link link">Mundane Mask</a>) then 
 
 
 >**avatar of terror says:** I grant you a mask crafted with my own essence! Wear it in honor of your devotion to our Lord Cazic-Thule!
 
 
-* __Faction:__ [Heretics](/faction/265) (50)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-50)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-50)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-50)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-50)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-50</span>)
 
 
- **You receive:**  [Terror Forged Mask](/item/14108) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/14108" data-url="14108" class="tooltip-link link">Terror Forged Mask</a> (+5000 exp)
+
+ 
 
 
 **avatar of terror despawns.**

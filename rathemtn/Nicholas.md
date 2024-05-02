@@ -53,7 +53,8 @@ if( **Faction is** > Amiable) then
 
 
 
-**You receive:**  [Stem of Candlestick](/item/12276)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_732.png" alt="" /> <a
+                                href="/item/12276" data-url="12276" class="tooltip-link link">Stem of Candlestick</a>
 
 
 
@@ -68,7 +69,8 @@ if( **Faction is** > Amiable) then
 
 
 
-**You receive:**  [Klunga's Bracelet](/item/12280)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/12280" data-url="12280" class="tooltip-link link">Klunga's Bracelet</a>
 
 
 
@@ -123,21 +125,25 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Kilij Plans](/item/12206)) then 
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12206" data-url="12206" class="tooltip-link link">Kilij Plans</a>) then 
 
 
 >**Nicholas says:** Ahh!!  The kilij!!  The legend was true.  As for you..  the mold for the Boots of Ro.  Go and speak with Thomas for the final component.  Ask him of [Lord Searfire].  Brell be with you.
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (20)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (20)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (15)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Mold of Ro Boots](/item/12304) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12304" data-url="12304" class="tooltip-link link">Mold of Ro Boots</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

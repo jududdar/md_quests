@@ -60,7 +60,11 @@ end
 
 
 
-if( **You turn in:** [A Bardic Letter (Qeynos)](/item/18150) or  **You turn in:** [A Bardic Letter (Qeynos)](/item/18151) or  **You turn in:** [A Bardic Letter (Qeynos)](/item/18153) or  **You turn in:** [A Bardic Letter (Qeynos)](/item/18154)) then
+if( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18150" data-url="18150" class="tooltip-link link">A Bardic Letter (Qeynos)</a> or  **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18151" data-url="18151" class="tooltip-link link">A Bardic Letter (Qeynos)</a> or  **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18153" data-url="18153" class="tooltip-link link">A Bardic Letter (Qeynos)</a> or  **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18154" data-url="18154" class="tooltip-link link">A Bardic Letter (Qeynos)</a>) then
 
 
 >**Tralyn Marsinger says:** Incoming mail - very good! Please take this gold for your troubles.
@@ -69,21 +73,23 @@ if( **You turn in:** [A Bardic Letter (Qeynos)](/item/18150) or  **You turn in:*
 
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (5)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+300 exp)
+ &#127873; **You receive:** 0 (+300 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-6 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

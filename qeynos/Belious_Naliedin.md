@@ -71,36 +71,43 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18717)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18717" data-url="18717" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Belious Naliedin says:** Good day friend, and welcome to the Wind Spirit's Song. Thank you for joining our cause. Go speak with Jusean Evanesque; I'm sure you'll fit in well.
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (100)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (15)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-5)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-5)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Brown Tunic*](/item/13502) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13502" data-url="13502" class="tooltip-link link">Brown Tunic*</a> (+100 exp)
 
-elseif( **You turn in:** [Ripped Qeynos Bards Guild Flyer](/item/20374)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20374" data-url="20374" class="tooltip-link link">Ripped Qeynos Bards Guild Flyer</a>) then
 
 
 >**Belious Naliedin says:** A famous bard, you say? Why you must be seeking none other than the great Baenar Swiftsong! He is not here as you can see. Mayhap you seek an audience with him? He is a busy man and has not the time to speak with everyone who wishes to preoccupy his time with useless prattle! You are many and he is but one! Leave him be, I beg of you, to continue his songwriting in peace.
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
+
+ 
 
 elseif( **You turn in:** platinum = 50) then
 
@@ -108,9 +115,16 @@ elseif( **You turn in:** platinum = 50) then
 >**Belious Naliedin says:** Ah! Here is that letter of introduction I was looking for! Baenar likes to frequent a serene fountain in the southern Karanas. He finds the peace there accommodating to his work. He may even sing a tale for you if the mood strikes him.
 
 
- **You receive:**  [Letter of Introduction](/item/20373) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/20373" data-url="20373" class="tooltip-link link">Letter of Introduction</a> (+100 exp)
 
-elseif( **Faction is** >= Amiable and  **You turn in:** [Unfinished Lute Body](/item/13775), [Unfinished Lute Neck](/item/13776), [Box of Lute Strings](/item/13777), [Fine Lute Tuners](/item/13778)) then 
+ 
+
+elseif( **Faction is** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/13775" data-url="13775" class="tooltip-link link">Unfinished Lute Body</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/13776" data-url="13776" class="tooltip-link link">Unfinished Lute Neck</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/13777" data-url="13777" class="tooltip-link link">Box of Lute Strings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/13778" data-url="13778" class="tooltip-link link">Fine Lute Tuners</a>) then 
 
 
 >**Belious Naliedin says:** Ok, great. See, assembling these isn't that hard. Add a few special touches, and there you go. Another beautiful Naliedin lute is born, and ears everywhere rejoice.
@@ -121,22 +135,25 @@ elseif( **Faction is** >= Amiable and  **You turn in:** [Unfinished Lute Body](/
 
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (250)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+250</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (37)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (37)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-12)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-12)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Custom Naliedin Lute](/item/13105) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/13105" data-url="13105" class="tooltip-link link">Custom Naliedin Lute</a> (+20000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

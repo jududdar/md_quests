@@ -67,27 +67,30 @@ if( **You turn in:** gold = 5) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (2)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [A Tattered Leather Pouch](/item/17600) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/17600" data-url="17600" class="tooltip-link link">A Tattered Leather Pouch</a> 
+
+ 
 
 
 elseif( **You turn in:** gold = 3) then
@@ -102,27 +105,29 @@ elseif( **You turn in:** gold = 3) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+1 exp)
+ &#127873; **You receive:** 0 (+1 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

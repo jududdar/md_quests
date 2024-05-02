@@ -24,15 +24,22 @@ end
 
 
 
-if( **You turn in:** [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289), [Loda Kai Remains](/item/31289)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/31289" data-url="31289" class="tooltip-link link">Loda Kai Remains</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/31289" data-url="31289" class="tooltip-link link">Loda Kai Remains</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/31289" data-url="31289" class="tooltip-link link">Loda Kai Remains</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/31289" data-url="31289" class="tooltip-link link">Loda Kai Remains</a>) then 
 
 
 >*Hymnist Omiyad takes the remains and throws them into the fire, flames blaze immediatey with a sicky hue. 'You have preformed a great service by helping destroy some of the wretched Lodi Kai. Take this small talisman, it is worn by the dancers here. Take it with you and feel free to do a dance whenever you like, haha!'*
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Talisman of the Flame](/item/7498) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/7498" data-url="7498" class="tooltip-link link">Talisman of the Flame</a> (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

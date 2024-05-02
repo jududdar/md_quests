@@ -103,67 +103,81 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Globe of Mist](/item/10545), [Ring of Evoluoy](/item/10547), [Sapphire](/item/10034), [Water Ring](/item/10546)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10545" data-url="10545" class="tooltip-link link">Globe of Mist</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/10547" data-url="10547" class="tooltip-link link">Ring of Evoluoy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/10546" data-url="10546" class="tooltip-link link">Water Ring</a>) then
 
 
 >**Joyce says:** Astounding! You found all four components that I need to make the Circlet of Mist. Wasn't that ring annoying ? I always find goblins hard to deal with. Well done! Take this circlet with my complements.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Circlet of Mist](/item/2358) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1124.png" alt="" /> <a
+                                href="/item/2358" data-url="2358" class="tooltip-link link">Circlet of Mist</a> (+500 exp)
+
+ 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Rune of Clay](/item/10539), [Rune of Clay](/item/10542), [Rune of Clay](/item/10540), [Rune of Clay](/item/10541)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10539" data-url="10539" class="tooltip-link link">Rune of Clay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10542" data-url="10542" class="tooltip-link link">Rune of Clay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10540" data-url="10540" class="tooltip-link link">Rune of Clay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10541" data-url="10541" class="tooltip-link link">Rune of Clay</a>) then
 
 
 >**Joyce says:** One, two, three.. all four runes of clay! I knew you looked competent. I am very impressed! Please take the Clay Bracelet that you have earned.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Clay Bracelet](/item/2359) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_505.png" alt="" /> <a
+                                href="/item/2359" data-url="2359" class="tooltip-link link">Clay Bracelet</a> (+500 exp)
+
+ 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A Stone Marker](/item/10543), [Cat's Eye Agate](/item/10026), [Heart of Stone](/item/10544), [Soiled Boots](/item/2363)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10543" data-url="10543" class="tooltip-link link">A Stone Marker</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_955.png" alt="" /> <a
+                                href="/item/10026" data-url="10026" class="tooltip-link link">Cat's Eye Agate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10544" data-url="10544" class="tooltip-link link">Heart of Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_525.png" alt="" /> <a
+                                href="/item/2363" data-url="2363" class="tooltip-link link">Soiled Boots</a>) then
 
 
 >**Joyce says:** Marker, heart, boots and gem. All four items that I need to cobble earthen boots for you. Well done! Take these boots, and may they serve you well!
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Earthen Boots](/item/2357) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2357" data-url="2357" class="tooltip-link link">Earthen Boots</a> (+500 exp)
+
+ 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fire Goblin Skin](/item/2361), [Frost Goblin Skin](/item/2362), [Spell: Elemental Armor](/item/15109), [Twice-Woven Cloak](/item/2360)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/2361" data-url="2361" class="tooltip-link link">Fire Goblin Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_835.png" alt="" /> <a
+                                href="/item/2362" data-url="2362" class="tooltip-link link">Frost Goblin Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/1356" data-url="1356" class="tooltip-link link">Robe of the Elements</a> (+500 exp)
 
-
->**Joyce says:** Oh, you brought me all of the components! I knew you could do it. It is my pleasure to give you a Robe of the Elements.
-
-
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
-
-
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
-
-
- **You receive:**  [Robe of the Elements](/item/1356) (+500 exp)
+ 
 end
 
 

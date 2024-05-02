@@ -50,16 +50,20 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Razor Tooth](/item/6348)) then 
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_775.png" alt="" /> <a
+                                href="/item/6348" data-url="6348" class="tooltip-link link">Razor Tooth</a>) then 
 
 
 >**Feren says:** Rarr, Feren not haunted by Razortooth no more. Feren grateful and give you this possession.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (10)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Kerran Fishingpole](/item/1062) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/1062" data-url="1062" class="tooltip-link link">Kerran Fishingpole</a> (+500 exp)
+
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
  

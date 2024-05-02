@@ -17,7 +17,8 @@ end
 if( **Faction is** > Threatening) then 
 
 
-if( **You turn in:** [The History of the Greenmist](/item/3887)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/3887" data-url="3887" class="tooltip-link link">The History of the Greenmist</a>) then
 
 
 
@@ -25,18 +26,22 @@ if( **You turn in:** [The History of the Greenmist](/item/3887)) then
 
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (20)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
 
- **You receive:**  [A note to Oxyn](/item/3895) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/3895" data-url="3895" class="tooltip-link link">A note to Oxyn</a> (+5000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Note to Librarian Zimor](/item/3893)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/3893" data-url="3893" class="tooltip-link link">Note to Librarian Zimor</a>) then
 
 
 
@@ -44,15 +49,18 @@ elseif( **You turn in:** [Note to Librarian Zimor](/item/3893)) then
 
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (20)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
 
- **You receive:**  [Notes from the Greenmist Tome](/item/18320) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18320" data-url="18320" class="tooltip-link link">Notes from the Greenmist Tome</a> (+5000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

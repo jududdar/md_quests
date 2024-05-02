@@ -32,28 +32,31 @@ end
 
 
 
-if( **You turn in:** [Piranha Tooth](/item/13929)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/13929" data-url="13929" class="tooltip-link link">Piranha Tooth</a>) then 
 
 
 >**Fiddy Bobick says:** Whew!! We are sure on the way to saving this village, pal! They're gonna erect a statue in our names.  Fishslayers is what we are!  Let's keep up the good work!
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+15 exp)
+ &#127873; **You receive:** 0 (+15 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-3 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-8 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 else
 

@@ -34,7 +34,8 @@
 >**Normon Stonetooth says:** Ahh, well me pick is a bit dull, don't cut like it should. Up in the city proper ye kin find a weapons smith named Hakon. Take me pick axe and and tell him Stonetooth sent ye. Then give it to him, wait fer him ta sharpen it, an bring it back to me. Then I'll help ya ta listen to the stone.
 
 
-**You receive:**  [Normon's axe](/item/1690)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/1690" data-url="1690" class="tooltip-link link">Normon's axe</a>
 
 **You say:** `stone`
 
@@ -49,12 +50,16 @@ end
 
 
 
-if( **You turn in:** [Normon's axe](/item/1691)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/1691" data-url="1691" class="tooltip-link link">Normon's axe</a>) then 
 
 
 >**Normon Stonetooth says:** Ahhhh, good work, Soandso. Now ta speak with the stone ye need somethin' ta focus on. Use this piece o' velium as yer focus. Ta speak the language o' the stone ye need ta slow down like the stone. Rock looks like it don't move but it does, just real slow. So place yer focus on the stones ye wish ta speak with and get yerself real slow, both yer body an' yer noggin. Then if yer quiet enough ye might hear 'em. An' that's what's to it.
 
 
- **You receive:**  [Velium Focus](/item/1692) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1692" data-url="1692" class="tooltip-link link">Velium Focus</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

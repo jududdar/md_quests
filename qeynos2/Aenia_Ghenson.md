@@ -32,6 +32,7 @@ else
 
 
 
-**You receive:**  [Letter to Behroe](/item/18027)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18027" data-url="18027" class="tooltip-link link">Letter to Behroe</a>
 
 end

@@ -46,7 +46,10 @@
 >**Tilbok Furrunner says:** Excellent. Find Claudius and give that to him- it's gibberish but he and his new friends won't know that now will they? We have been watching someone named Vahn enter the city under the guise of a trader. We know he works for Seru, but we were not sure what he was doing here, so we let him be- trouble was he kept giving us the slip passing through the tunnels. Looks now like we may have found a connection. The plan sounds complicated and I don't want to confuse you, but if you stick with me it will all go just fine. You with me so far, Soandso?
 
 
- **You receive:**  [Recording Stone](/item/29846) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/29846" data-url="29846" class="tooltip-link link">Recording Stone</a> 
+
+ 
 
 **You say:** `i am with you`
 
@@ -67,123 +70,101 @@ end
 
 
 
-if( **You turn in:** [Report to Tilbok](/item/29891)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/29891" data-url="29891" class="tooltip-link link">Report to Tilbok</a>) then 
 
 
 >*Tilbok Furrunner reads through the report, hands you a small satchel then starts to explain. 'Finally, news from Euzan. I knew that it would take a long time to get planted within Seru, but I still worried about their mission constantly. This report shows that you have earned trust from Euzan, so I in turn will show the same trust. Euzan and Torsten were placed in the city for information. They are deep undercover and risk their life everyday. Every person in that city is ingrained with the [purpose] of either destroying Katta or converting his people.'*
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (10)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-5)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
 
- **You receive:**  [Report Satchel](/item/17121) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_679.png" alt="" /> <a
+                                href="/item/17121" data-url="17121" class="tooltip-link link">Report Satchel</a> (+1000 exp)
 
-elseif( **You turn in:** [Etched Earring of Veracity](/item/29858), [Full Satchel](/item/29889)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/29858" data-url="29858" class="tooltip-link link">Etched Earring of Veracity</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_679.png" alt="" /> <a
+                                href="/item/29889" data-url="29889" class="tooltip-link link">Full Satchel</a>) then 
 
 
 >**Tilbok Furrunner says:** According to these reports Seru resides in a building called the Arx Seru. It is the large complex in the center of the four Praesertum Consillium. We must take [action] now. Do not underestimate the power of Sanctus Seru for what they do they feel is right.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (20)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (2)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-2)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-2)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-2)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-10)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-2)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-2)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-2</span>)
 
 
 
 
 
- **You receive:**  [Runed Earring of Veracity](/item/29859) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1050.png" alt="" /> <a
+                                href="/item/29859" data-url="29859" class="tooltip-link link">Runed Earring of Veracity</a> (+10000 exp)
+
  
-elseif( **You turn in:** [Dossier: Case 3463827](/item/29844)) then 
-
-
->*Tilbok Furrunner reads through the dossier and then looks at you, eyebrow raised curiously, 'look at the mess you have gotten yourself in the middle of,' he says with a chuckle, while beginning to jot a note. 'Here take this and...' he stops midsentence. 'I guess I haven't even given you the chance to say whether or not you want to help. Would you like to see this through to the'*
-
-
-* __Faction:__ [Validus Custodus](/faction/1503) (2)
-
-
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
-
-
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
-
-
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
-
-
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
-
-
-* __Faction:__ [Seru](/faction/1483) (-1)
-
-
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
-
-
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
-
-
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
-
-
- **You receive:**  [Field Orders](/item/29845) (+5000 exp)
-
-elseif( **Faction is** > Indifferent and  **You turn in:** [Mask of Espionage](/item/5105)) then
+ 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/5105" data-url="5105" class="tooltip-link link">Mask of Espionage</a>) then
 
 
 >**Tilbok Furrunner says:** I see you've spoken with Condor, and no doubt he told you I can recharge this for you. Well, it's true, but don't go around telling everyone. It's not something I like to make public, you know. Keep up the good work, though, we all appreciate it around here.
 
 
- **You receive:**  [Mask of Espionage](/item/5105) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/5105" data-url="5105" class="tooltip-link link">Mask of Espionage</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

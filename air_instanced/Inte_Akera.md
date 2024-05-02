@@ -66,30 +66,45 @@ end
 
 
 
-if( **Faction is** > Kindly and  **You turn in:** [SoulFire](/item/5504)) then 
+if( **Faction is** > Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5504" data-url="5504" class="tooltip-link link">SoulFire</a>) then 
 
 
 >**Inte Akera says:** You have chosen wisely, my friend. Take this note as a token of my blessing upon you.
 
 
- **You receive:**  [Intes First Blessing](/item/18033) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18033" data-url="18033" class="tooltip-link link">Intes First Blessing</a> (+100000 exp)
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Ghoulbane](/item/5403)) then 
+ 
+
+elseif( **Faction is** > Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5403" data-url="5403" class="tooltip-link link">Ghoulbane</a>) then 
 
 
 >**Inte Akera says:** You have chosen wisely, my friend. Take this note as a token of my blessing upon you.
 
 
- **You receive:**  [Intes Second Blessing](/item/18034) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18034" data-url="18034" class="tooltip-link link">Intes Second Blessing</a> (+100000 exp)
+
+ 
 
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Intes First Blessing](/item/18033), [Intes Second Blessing](/item/18034), [Miragul's Head](/item/19073), [Miragul's Robe](/item/1254)) then 
+elseif( **Faction is** > Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18033" data-url="18033" class="tooltip-link link">Intes First Blessing</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18034" data-url="18034" class="tooltip-link link">Intes Second Blessing</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_986.png" alt="" /> <a
+                                href="/item/19073" data-url="19073" class="tooltip-link link">Miragul's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1126.png" alt="" /> <a
+                                href="/item/1254" data-url="1254" class="tooltip-link link">Miragul's Robe</a>) then 
 
 
 >**Inte Akera says:** Long have I awaited this moment. You have done what even I thought impossible. Take this sword, the Fiery Avenger. You have earned both it and my deepest respect.
 
 
- **You receive:**  [Fiery Avenger](/item/11050) (+1000000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/11050" data-url="11050" class="tooltip-link link">Fiery Avenger</a> (+1000000 exp)
+
+ 
 
 
 

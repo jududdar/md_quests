@@ -29,13 +29,18 @@ end
 
 
 
-if( **You turn in:** [Burning Rapier](/item/7041), [Lon's Head](/item/9438)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7041" data-url="7041" class="tooltip-link link">Burning Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_989.png" alt="" /> <a
+                                href="/item/9438" data-url="9438" class="tooltip-link link">Lon's Head</a>) then
 
 
 >*Pazin Punox laughs. 'Here, take this then!'*
 
 
- **You receive:**  [Vein Rot Sketch](/item/24095) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1004.png" alt="" /> <a
+                                href="/item/24095" data-url="24095" class="tooltip-link link">Vein Rot Sketch</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

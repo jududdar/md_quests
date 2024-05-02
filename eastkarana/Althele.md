@@ -20,24 +20,32 @@ end
 
 
 
-if( **You turn in:** [Worn Dark Metal Coin](/item/20448)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/20448" data-url="20448" class="tooltip-link link">Worn Dark Metal Coin</a>) then
 
 
 >*Althele looks at the coin and nods gravely at you as she slips it into a fold of her clothing. 'I see. The story of this coin speaks much to me as do the words you have given me. Telin sent word that you would arrive. The tidings you bring are ill indeed. Here, take this amulet and find Sionae. She is nearby. We will speak more on this matter when all are present.'*
 
 
- **You receive:**  [Braided Grass Amulet](/item/20450) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1053.png" alt="" /> <a
+                                href="/item/20450" data-url="20450" class="tooltip-link link">Braided Grass Amulet</a> 
+
+ 
 
 
 **Spawn NPC:**  [Sionae](/npc/15178) at (**y:** -2595, **x:** -1595)
 
-elseif( **You turn in:** [Fleshbound Tome](/item/20452)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/20452" data-url="20452" class="tooltip-link link">Fleshbound Tome</a>) then
 
 
 >*Althele hands the book to Tholris who reads through it with lines of concern etched on his face, then whispers into her ear. 'Dire news, indeed. This cannot be allowed. I must keep this book but you, Soandso, must not allow Innoruuk to seed the land with his hatred and filth. You have only just begun your quest. The path you are guided upon will be difficult, if not impossible, but someone must finish it. Please, take this, read of it, follow its instructions. Tunare bless your path and Karana watch over you.*
 
 
- **You receive:**  [Earth Stained Note](/item/18959) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18959" data-url="18959" class="tooltip-link link">Earth Stained Note</a> (+100000 exp)
+
+ 
 
 
 

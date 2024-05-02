@@ -96,7 +96,8 @@ if(qglobals["Kanthuk"] ~= nil) then
 
 
 
-**You receive:**  [A Pendant](/item/2414)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/2414" data-url="2414" class="tooltip-link link">A Pendant</a>
 
 
 
@@ -110,7 +111,8 @@ end
 
 
 
-if( **You turn in:** [Note to Kanthuk](/item/2416)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/2416" data-url="2416" class="tooltip-link link">Note to Kanthuk</a>) then
 
 
 >**Kanthuk Ogrebane says:** Ahh, I see you have spoken to Ryshon. You seem tired from your long journey. Sit with me as I tell you a tale. A tale about a true friend of mine, a great man known as [Amstaf Trunolis].
@@ -119,7 +121,9 @@ if( **You turn in:** [Note to Kanthuk](/item/2416)) then
 eq.set_global("Kanthuk","ghoul",0,"D30");
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

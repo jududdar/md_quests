@@ -31,7 +31,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
 
 
 **You say:** `bracer`
@@ -43,7 +44,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 
 **You say:** `glove`
@@ -55,7 +57,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 
 **You say:** `legging`
@@ -67,7 +70,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 
 **You say:** `sleeve`
@@ -79,7 +83,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 
 **You say:** `tunic`
@@ -91,7 +96,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Tunic Pattern](/item/19556)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19556" data-url="19556" class="tooltip-link link">Tattered Tunic Pattern</a>
 
 
 **You say:** `coif`
@@ -103,7 +109,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 end
 
@@ -113,12 +120,16 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if (expansion_flag >= 4.0 and  **You turn in:** [Parchment to Rebbie](/item/10988)) then
+if (expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/10988" data-url="10988" class="tooltip-link link">Parchment to Rebbie</a>) then
 
 
 >**Rebbie Romblerum says:** Hail Soandso! You must be one of Kaxon's new trainees. Kaxon has asked me to help get you outfitted in a suit of armor to protect you from the weapons of our foes. I have assembled a kit for you that will allow you to construct the armor pieces once you have gathered the necessary components. The required components vary according to which piece of Plague Rust Mail you are planning on assembling. Do you wish to craft a [plague rust coif], a [plague rust bracer], [plague rust gloves], [plague rust boots], [plague rust sleeves], [plague rust leggings], or a [plague rust tunic].
 
 
- **You receive:**  [Mail Assembly Kit](/item/17124) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -37,7 +37,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Stormhealers Assembly Kit](/item/17265)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17265" data-url="17265" class="tooltip-link link">Stormhealers Assembly Kit</a>
 
 
 **You say:** `helms`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracers`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `armguard`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boot`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `greave`
@@ -97,7 +102,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlet`
@@ -109,7 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -121,7 +128,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `favor`
@@ -148,7 +156,10 @@ if(eq.get_current_expansion() >= 4.0) then
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Blackburrow Battle Plans](/item/27416), [Gnoll Backbone](/item/27405), [Gnoll Backbone](/item/27405)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/27416" data-url="27416" class="tooltip-link link">Blackburrow Battle Plans</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/27405" data-url="27405" class="tooltip-link link">Gnoll Backbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/27405" data-url="27405" class="tooltip-link link">Gnoll Backbone</a>) then
 
 
 >**Vansted Rohenga says:** These are exactly what I was looking for Soandso! I am very proud to have one as noble as yourself amongst our ranks! Please take this mace as a token of my appreciation. I bid you farewell, and safe travels.
@@ -157,19 +168,22 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Blackburrow Battle Plans](/item/
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Stormhealers Mace](/item/27489) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/27489" data-url="27489" class="tooltip-link link">Stormhealers Mace</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

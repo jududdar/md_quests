@@ -23,10 +23,12 @@
 >**Sir Ariam Arcanum says:** It must be delivered to Sir Artanis in the city of Freeport. It details a terrible plan of the masters of this place to restore life to a foul necromancer named Marnek. The Burning Dead must not be allowed to achieve this goal. So that you may ride swiftly with news of this nefarious scheme, take this as well, the bridle to the noble steed that was entombed alive with me here. He has strength enough for one final ride.
 
 
-**You receive:**  [Ghostly Bridle](/item/31492)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/31492" data-url="31492" class="tooltip-link link">Ghostly Bridle</a>
 
 
-**You receive:**  [Scroll of the Burning Dead](/item/18474)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18474" data-url="18474" class="tooltip-link link">Scroll of the Burning Dead</a>
 
 
 **Sir Ariam Arcanum despawns.**
@@ -38,10 +40,12 @@
 >**Sir Ariam Arcanum says:** Then take this parchment to the Queens assistant, the necromancer Xon, enemy of my enemy. I have no love for her, but Queen Thex's interests too are at risk. This details a terrible plan of the masters of this place to restore life to a foul necromancer named Marnek. The Burning Dead must not be allowed to achieve this goal. So that you may ride swiftly with news of this nefarious scheme, take this as well, the bridle to the noble steed that was entombed alive with me here.
 
 
-**You receive:**  [Ghostly Bridle](/item/31492)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/31492" data-url="31492" class="tooltip-link link">Ghostly Bridle</a>
 
 
-**You receive:**  [Scroll of the Burning Dead](/item/18474)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18474" data-url="18474" class="tooltip-link link">Scroll of the Burning Dead</a>
 
 
 **Sir Ariam Arcanum despawns.**
@@ -59,7 +63,8 @@
 >**Sir Ariam Arcanum says:** Then deliver this to my family. I have my sisters token to thank for my survival in this form. Something in the magic of this persisted even as I truly wasted away buried alive near here.
 
 
-**You receive:**  [Arriallas Expended Token](/item/31493)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_753.png" alt="" /> <a
+                                href="/item/31493" data-url="31493" class="tooltip-link link">Arriallas Expended Token</a>
 end
 
 ## Turn-Ins

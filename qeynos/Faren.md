@@ -75,7 +75,8 @@ end
 
 
 
-if( **You turn in:** [Wooden Fishing Tackle](/item/13702)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/13702" data-url="13702" class="tooltip-link link">Wooden Fishing Tackle</a>) then
 
 
 >**Faren says:** Thank you so much! If you want some free advice, steer clear of those [Irontoes]! They are nothing but trouble. Here, It's not much but I must thank you somehow.
@@ -84,21 +85,24 @@ if( **You turn in:** [Wooden Fishing Tackle](/item/13702)) then
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-2)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Hurrieta's Tunic](/item/13129) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_712.png" alt="" /> <a
+                                href="/item/13129" data-url="13129" class="tooltip-link link">Hurrieta's Tunic</a> (+200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -15,13 +15,20 @@ end
 
 
 
-if( **You turn in:** [Useless Cloth Cap](/item/13894)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/13894" data-url="13894" class="tooltip-link link">Useless Cloth Cap</a>) then
 
 
 >**a skeleton says:** Aye.. You cut out the middleman..  I shall reward you.. hmm..  I have not found anything. how about..  <CRACK!! SNAP!! RIPP!!>  How about something off meself?
 
 
- **You receive:** eq.ChooseRandom( [Bone Shield](/item/9304), [Fractured Femur](/item/12195), [Bone Chips](/item/13073), [Zombie Skin](/item/13074)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_974.png" alt="" /> <a
+                                href="/item/9304" data-url="9304" class="tooltip-link link">Bone Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/12195" data-url="12195" class="tooltip-link link">Fractured Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13074" data-url="13074" class="tooltip-link link">Zombie Skin</a>) (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

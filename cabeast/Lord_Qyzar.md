@@ -166,46 +166,62 @@ local text3 = "I am saddened by your failure to procure the visceral dagger and 
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Chalp Diagram](/item/12496), [Knight's Khukri](/item/5123)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12496" data-url="12496" class="tooltip-link link">Chalp Diagram</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5123" data-url="5123" class="tooltip-link link">Knight's Khukri</a>) then 
 
 
 >**Lord Qyzar says:** At last!! The Chalp diagram. I shall see that the emperor gets this at once. You have proven yourself more than just a mere knight, you are a zealot. Being new to the temple we have need of you in a [matter of betrayal].
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (10)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Zealot's Khukri](/item/5124) (+1600 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5124" data-url="5124" class="tooltip-link link">Zealot's Khukri</a> (+1600 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Charasis Tome Copy](/item/1730), [Zealot's Khukri](/item/5124), [Charasis Tome](/item/1729)) then 
+**You receive coin:** 0-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/1730" data-url="1730" class="tooltip-link link">Charasis Tome Copy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5124" data-url="5124" class="tooltip-link link">Zealot's Khukri</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/1729" data-url="1729" class="tooltip-link link">Charasis Tome</a>) then 
 
 
 >**Lord Qyzar says:** Congratulations! You are now a true crusader, but there is no time for celebration. We have lost two of our operatives. Crusaders Golin and Fodcod were dispatched to seek out an ancient artifact, the [visceral dagger]. Where they have gone, I do not know. They have been gone far too long. Find them and return the dagger to me with your crusader khukri and you shall be a hero.
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (20)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Crusader's Khukri](/item/5125) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5125" data-url="5125" class="tooltip-link link">Crusader's Khukri</a> (+2000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [The Visceral Dagger](/item/7324), [Crusader's Khukri](/item/5125)) then 
+**You receive coin:** 0-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1186.png" alt="" /> <a
+                                href="/item/7324" data-url="7324" class="tooltip-link link">The Visceral Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5125" data-url="5125" class="tooltip-link link">Crusader's Khukri</a>) then 
 
 
 >*Lord Qyzar gazes in astonishment at the dagger. 'Ahhh!! You have brought the sacred visceral dagger back to the Temple of Terror. Let all be aware that the great Soandso has returned to Cabilis a hero!! You now wield the weapon of a hero. Hail, Soandso, hero of the Crusaders of Greenmist.*
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (20)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Hero's Khukri](/item/5126) (+3000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1184.png" alt="" /> <a
+                                href="/item/5126" data-url="5126" class="tooltip-link link">Hero's Khukri</a> (+3000 exp)
+
+**You receive coin:** 0-3 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

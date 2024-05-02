@@ -37,21 +37,30 @@ local text = "Have you forgotten something, Soandso?";
 
 
 
-if( **You turn in:** [Token of Mastery](/item/28035)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/28035" data-url="28035" class="tooltip-link link">Token of Mastery</a>) then
 
 
 >**Jahsohn Aksot says:** What is this? I cannot believe you found it! Where did you get this?
 
 
- **You receive:** 0 (+50 exp)
+ &#127873; **You receive:** 0 (+50 exp)
 
-elseif( **You turn in:** [Torn Page of Magi\`kot pg. 1](/item/28000), [Torn Page of Magi\`kot pg. 2](/item/28001), [Torn Page of Magi\`kot pg. 3](/item/28002)) then
+ 
+
+elseif( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28000" data-url="28000" class="tooltip-link link">Torn Page of Magi\`kot pg. 1</a>,item2 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28001" data-url="28001" class="tooltip-link link">Torn Page of Magi\`kot pg. 2</a>,item3 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28002" data-url="28002" class="tooltip-link link">Torn Page of Magi\`kot pg. 3</a>) then
 
 
 >**Jahsohn Aksot says:** Rykas may have been right about you, Soandso. Now, go find Walnan. Walnan was apprenticed to a very powerful Mage. After her apprenticeship was complete, she wished to begin teaching other beings of Norrath. Even those who knew nothing of the art! I do not believe she was successful, though. Seek her out to further your tale. Good luck in your journeys, Soandso!
 
 
- **You receive:**  [Words of Magi\`kot](/item/28003) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28003" data-url="28003" class="tooltip-link link">Words of Magi\`kot</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

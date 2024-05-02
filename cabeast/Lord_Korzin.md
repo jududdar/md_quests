@@ -75,19 +75,24 @@ local text1 = "You will be rewarded with the knight's khukri when I have possess
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Glowing Skull](/item/12401), [Squire's Khukri](/item/5122)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12401" data-url="12401" class="tooltip-link link">A Glowing Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5122" data-url="5122" class="tooltip-link link">Squire's Khukri</a>) then
 
 
 
 >**Lord Korzin says:** Excellent work! You are no squire. You are now a knight of the crusaders. Your next step shall be zealot. And every zealot wields a magical khukri.
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (10)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Knight's Khukri](/item/5123) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5123" data-url="5123" class="tooltip-link link">Knight's Khukri</a> (+1500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-15 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

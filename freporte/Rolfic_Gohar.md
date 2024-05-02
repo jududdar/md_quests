@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 **You say:** `dismal warrior helm`
@@ -41,7 +42,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `dismal warrior bracer`
@@ -53,7 +55,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `dismal warrior gauntlet`
@@ -65,7 +68,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `dismal warrior boot`
@@ -77,7 +81,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `dismal warrior vambrace`
@@ -89,7 +94,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `dismal warrior greave`
@@ -101,7 +107,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 end
 
@@ -113,12 +120,16 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Note to Rolfic Gohar](/item/19843)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19843" data-url="19843" class="tooltip-link link">Note to Rolfic Gohar</a>) then
 
 
 >**Rolfic Gohar says:** I see now we have similar interests. I will help you get outfitted in an affordable suit of armor to help you in your endeavors. You will need this Mail Assembly Kit to aid you in the construction of the armor. The materials required depend on the armor section you desire to craft. Do you plan to construct a [dismal warrior helm], a [dismal warrior bracer], [dismal warrior gauntlets], [dismal warrior boots], [dismal warrior vambraces], [dismal warrior greaves], or a [dismal warrior breastplate].
 
 
- **You receive:**  [Mail Assembly Kit](/item/17124) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

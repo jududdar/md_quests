@@ -27,9 +27,14 @@ end
 
 
 
-if( **You turn in:** [Box of Souls](/item/29281)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/29281" data-url="29281" class="tooltip-link link">Box of Souls</a>) then
 
 
- **You receive:** GiveAll( [Soul Sphere](/item/29293), [Box of Souls](/item/29281)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/29293" data-url="29293" class="tooltip-link link">Soul Sphere</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/29281" data-url="29281" class="tooltip-link link">Box of Souls</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

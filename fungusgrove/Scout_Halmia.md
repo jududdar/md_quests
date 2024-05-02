@@ -14,13 +14,17 @@ end
 
 
 
-if( **You turn in:** [Khati Sha Seal of War](/item/9057)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/9057" data-url="9057" class="tooltip-link link">Khati Sha Seal of War</a>) then
 
 
 >**Scout Halmia says:** I thank the spirits that you have arrived. I would not have been able to stop the dark animist if he were to attempt to leave. He has made camp in an empty set of huts. He has moved from hut to hut, but made no attempt to leave the area. I would be wary of traps if I were you. I must admit that I was afraid. That is why I moved to this location. He should still be there though.
 
 
- **You receive:**  [Khati Sha Seal of War](/item/9062) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/9062" data-url="9062" class="tooltip-link link">Khati Sha Seal of War</a> 
+
+ 
 
 
 **Spawn NPC:**  [\#Draz Nurakk](/npc/157009) at (**y:** 638, **x:** -13)

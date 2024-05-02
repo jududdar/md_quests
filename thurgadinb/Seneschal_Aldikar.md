@@ -14,7 +14,8 @@
 >**Seneschal Aldikar says:** In this box, place the accursed dirk of the fallen Rodrick. With it combine the heads of every traitor you dispose of. When this is done give the box and the velium insignia ring to the Dain directly. On behalf of the crown and all good Coldain, I thank you ... May Brell be with you.
 
 
-**You receive:**  [Traitors Bane Box](/item/17055)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17055" data-url="17055" class="tooltip-link link">Traitors Bane Box</a>
 end
 
 ## Turn-Ins
@@ -23,7 +24,8 @@ end
 
 
 
-if( **You turn in:** [Velium Coldain Insignia Ring](/item/30164)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/30164" data-url="30164" class="tooltip-link link">Velium Coldain Insignia Ring</a>) then
 
 
 if(e.self:GetX() == -3 and e.self:GetY() == 693) then
@@ -34,7 +36,10 @@ if(e.self:GetX() == -3 and e.self:GetY() == 693) then
 
 
 
- **You receive:**  [Velium Coldain Insignia Ring](/item/30164) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/30164" data-url="30164" class="tooltip-link link">Velium Coldain Insignia Ring</a> 
+
+ 
 
 
 
@@ -49,7 +54,10 @@ else
 
 
 
- **You receive:**  [Velium Coldain Insignia Ring](/item/30164) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/30164" data-url="30164" class="tooltip-link link">Velium Coldain Insignia Ring</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

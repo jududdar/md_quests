@@ -79,15 +79,21 @@ end
 
 
 
-if( **You turn in:** [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835), [Gor Taku Earthcaller's Stone](/item/30835)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/30835" data-url="30835" class="tooltip-link link">Gor Taku Earthcaller's Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/30835" data-url="30835" class="tooltip-link link">Gor Taku Earthcaller's Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/30835" data-url="30835" class="tooltip-link link">Gor Taku Earthcaller's Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/30835" data-url="30835" class="tooltip-link link">Gor Taku Earthcaller's Stone</a>) then
 
 
 >**Captain Karim says:** Well done Soandso, your efforts are invaluable. Perhaps we can convince the Shak Dratha that we are not their enemy after all. Alas, with the turmoil in these parts I am afraid that I cannot part with any military supplies as they are needed by my troops. I can, however, at least send you off with a bit of coin and my thanks. Take care my friend!
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

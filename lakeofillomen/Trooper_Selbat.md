@@ -18,12 +18,16 @@ end
 
 
 
-if( **You turn in:** [Legion Order](/item/18248)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18248" data-url="18248" class="tooltip-link link">Legion Order</a>) then 
 
 
 >*Trooper Selbat signs the note and hands back to you. 'Be off now. Before I do choose to slay the messenger.'*
 
 
- **You receive:**  [Legion Order](/item/18249) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18249" data-url="18249" class="tooltip-link link">Legion Order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

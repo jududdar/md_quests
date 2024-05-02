@@ -16,7 +16,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Hymnist Hortitosh says:** Luckily for you someone found it.
 
 
-**You receive:**  [Application for Citizenship](/item/2873)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2873" data-url="2873" class="tooltip-link link">Application for Citizenship</a>
 
 **You say:** `cloak`
 
@@ -25,7 +26,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Hymnist Hortitosh says:** Someone found this under a table at the one of the pubs. Try not to lose it this time.
 
 
-**You receive:**  [Initiate's Cloak of Shar Vahl](/item/2878)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>
 
 **You say:** `essence of sonnet`
 
@@ -42,15 +44,20 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if( **You turn in:** [Kalila'a Diary](/item/18324)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18324" data-url="18324" class="tooltip-link link">Kalila'a Diary</a>) then
 
 
 >*Elder Hymnist Hortitosh opens the diary and reads. Before long he is utterly engrossed in the story of purest love that you have given him, and it begins. You are something less than fully aware of what happens next, the wind whistles and you could swear that the room fills with light though you could not prove it. A moment later, a sense of completeness has filled you. All you know for sure is that Hortitosh stands before you, fully spent, and you hold in your hand what could only be an essence of sonnet.*
 
 
- **You receive:**  [Essence of Sonnet](/item/5991) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/5991" data-url="5991" class="tooltip-link link">Essence of Sonnet</a> 
 
-elseif( **You turn in:** [A Hymnist Guild Summons](/item/18552)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18552" data-url="18552" class="tooltip-link link">A Hymnist Guild Summons</a>) then 
 
 
 >**Elder Hymnist Hortitosh says:** Our newest instrumentalist arrives! You have grown strong in the safety of our city and it is time now for you to repay our society. The Jharin, keepers of our history, accept you and deem you to be worthy of our training. Take this application to Registrar Bindarah and return to me with proof of your citizenship.
@@ -65,9 +72,14 @@ eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
 
- **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2873" data-url="2873" class="tooltip-link link">Application for Citizenship</a> (+20 exp)
 
-elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2897" data-url="2897" class="tooltip-link link">Notarized Application</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>) then
 
 
 >**Elder Hymnist Hortitosh says:** Soandso, citizen of Shar Vahl, accept this cloak as a symbol of your loyalty and service to our noble people. It will grow with you, young initiate, and like you it has incredible potential. Present your slate of citizenship to Gherik and he will guide you through your early training. May your songs inspire us all!
@@ -76,15 +88,23 @@ elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of 
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>) (+450 exp)
 
-elseif( **You turn in:** [Case of Guard Uniforms](/item/3920)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/3920" data-url="3920" class="tooltip-link link">Case of Guard Uniforms</a>) then
 
 
 >**Elder Hymnist Hortitosh says:** These are finely crafted indeed, Soandso. Merchant Fahaar told me you were quite the prodigy, but don't tell him I told you that. Take this receipt and show it to Fahaar and tell him the king is quite pleased with both your work, and his teaching!
 
 
- **You receive:**  [Order Receipt](/item/3921) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/3921" data-url="3921" class="tooltip-link link">Order Receipt</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

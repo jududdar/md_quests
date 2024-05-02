@@ -10,7 +10,8 @@
 e.self:DoAnim(70);
 
 
-if(**You possess item:**  [Planar Traveler's Manual](/item/28745) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1357.png" alt="" /> <a
+                                href="/item/28745" data-url="28745" class="tooltip-link link">Planar Traveler's Manual</a> x 1
 
 
 
@@ -58,7 +59,9 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Planar Peridot Encrusted Stein](/item/29168), [Planar Traveler's Manual](/item/28745)) then
+if(**Your level** > 19 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_708.png" alt="" /> <a
+                                href="/item/29168" data-url="29168" class="tooltip-link link">Planar Peridot Encrusted Stein</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1357.png" alt="" /> <a
+                                href="/item/28745" data-url="28745" class="tooltip-link link">Planar Traveler's Manual</a>) then
 
 
 >**Winon Glahar says:** Marvelous! You certainly have shown to be a skilled craftsman, and I thank you for such a lovely beverage conveyance. Take this book and use it to learn from. When you are ready, speak with Leramas Feston for your next lesson. Do not lose this manual or else he will not be able to train you.
@@ -67,6 +70,9 @@ if(**Your level** > 19 and  **You turn in:** [Planar Peridot Encrusted Stein](/i
 
 
 
- **You receive:**  [Beginner Stealth Manual](/item/28792) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/28792" data-url="28792" class="tooltip-link link">Beginner Stealth Manual</a> (+500000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -39,24 +39,33 @@ local text = "Hmm, it looks like I will need both the cure and the purified bile
 
 
 
-if( **You turn in:** [Vial of Opaque Fluid](/item/29295), [Purified Bubonian Bile](/item/29302)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_808.png" alt="" /> <a
+                                href="/item/29295" data-url="29295" class="tooltip-link link">Vial of Opaque Fluid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1134.png" alt="" /> <a
+                                href="/item/29302" data-url="29302" class="tooltip-link link">Purified Bubonian Bile</a>) then 
 
 
 >**Iramai Sacredsoul says:** You've done it! Praise the Tranquil! I can already see Phanti's condition improving. Take these, Phanti is not going to be doing any planar exploration any time soon. She was planning on using them to bring her research party into Torment, make good use of them, and stay safe. Thank you again for your help.
 
 
- **You receive:**  [Symbol of Torment](/item/29213) (+6250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_619.png" alt="" /> <a
+                                href="/item/29213" data-url="29213" class="tooltip-link link">Symbol of Torment</a> (+6250 exp)
+
+ 
 
 
 
 
-elseif( **You turn in:** [Bubonian Bile](/item/29315)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/29315" data-url="29315" class="tooltip-link link">Bubonian Bile</a>) then
 
 
 >*Iramai Sacredsoul pours the bile into a small flask, there is a puff of green smoke, which turns white as it floats into the sky. 'This is good news. It appears that this is the cause for her disease, but I have neither the tools, nor the knowledge to create a cure. There is rumor of an indigo orc who may prove useful to us in this area, but he is imprisoned in the Plane of Justice. Ask him about rare diseases. He was known to have cured many, prior to his imprisonment.*
 
 
- **You receive:**  [Purified Bubonian Bile](/item/29302) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1134.png" alt="" /> <a
+                                href="/item/29302" data-url="29302" class="tooltip-link link">Purified Bubonian Bile</a> (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

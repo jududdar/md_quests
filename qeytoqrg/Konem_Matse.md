@@ -25,7 +25,8 @@ end
 
 
 
-if( **You turn in:** [Message to Konem](/item/18921)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18921" data-url="18921" class="tooltip-link link">Message to Konem</a>) then 
 
 
 >**Konem Matse says:** Oh I see.. Phin's always after me about something.  I mean, it's not my fault the order hasn't come in yet.  Hey, since I'm so busy right now, why don't you be a friend and take this back to Phin for me, huh?
@@ -34,15 +35,18 @@ if( **You turn in:** [Message to Konem](/item/18921)) then
 
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (5)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (1)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Grathins Invoice](/item/18922) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18922" data-url="18922" class="tooltip-link link">Grathins Invoice</a> (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

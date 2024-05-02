@@ -81,7 +81,10 @@
 >**a greater spirit says:** The Heyokah are our mortal counterparts. Some are our friends who seek to help us in whatever goals we deem important. Some seek nothing more than to enslave and command us to do their bidding. We accept this and often make deals with those we realize are powerful enough to accomplish what needs to be done. To judge such individuals, we have prepared a test. We ask that before we enter into these contracts, the shaman walk the [path of the Heyokah]. We see you may be worthy. Will you walk the path? You will be rewarded for your efforts, albeit grudgingly.
 
 
- **You receive:**  [Opaque Gem](/item/1666) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_959.png" alt="" /> <a
+                                href="/item/1666" data-url="1666" class="tooltip-link link">Opaque Gem</a> 
+
+ 
 
 
 eq.delete_global("shamanbondl");
@@ -93,7 +96,9 @@ eq.delete_global("shamanbondl");
 >**a greater spirit says:** That is good. You will need to walk three paths before you can reach that of the Heyokah. The paths of patience, wisdom, and might. First, you must learn patience. Take this gem and go on a pilgrimage to an island in the great water the wasichu call Erud's Crossing. The Kerrans there are our allies and can show you to our next contact, Ooglyn. Give Ooglyn the gem and do what she asks. As you walk the path, remember what you've learned about trust.
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 **a greater spirit despawns.**

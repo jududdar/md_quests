@@ -16,7 +16,8 @@
 >**Rexx Frostweaver says:** Gather five strands of crystalline silk thread and combine them in a sewing kit to make a crystalline silk fiber. Take this container and combine a glowing shardwurm bile with three of the fibers to form a piece of glowing crystalline silk. Five pieces of glowing crystalline silk sewn to your fur-lined shawl will yield a beautiful silk shawl. Become a master in the art of tailoring before risking all you've worked for and be sure to let me inspect your work when it's complete.
 
 
-**You receive:**  [Glowing Bile Soaker](/item/17879)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/17879" data-url="17879" class="tooltip-link link">Glowing Bile Soaker</a>
 
 **You say:** `worthy`
 
@@ -31,12 +32,16 @@ end
 
 
 
-if( **You turn in:** [Silk Coldain Prayer Shawl](/item/1179)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/1179" data-url="1179" class="tooltip-link link">Silk Coldain Prayer Shawl</a>) then
 
 
 >**Rexx Frostweaver says:** Splendid, Soandso, this is beautiful workmanship! As the Grand Historian may have mentioned, our esteemed Dain Frostreaver the fourth is making some important plans with his council. These plans will doubtlessly include you if the Dain deems you worthy.
 
 
- **You receive:**  [Silk Coldain Prayer Shawl](/item/1179) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/1179" data-url="1179" class="tooltip-link link">Silk Coldain Prayer Shawl</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

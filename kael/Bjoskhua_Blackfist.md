@@ -197,24 +197,28 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Kedge Backbone](/item/20524)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/20524" data-url="20524" class="tooltip-link link">Kedge Backbone</a>) then
 
 
 >**Bjoskhua Blackfist says:** Excellent, I guess his entire race is now wiped from Norrath. This will indeed make a wonderful scroll case. I am a giant of my word. Take your prized item and be gone, you greedy little beast!
 
 
-* __Faction:__ [Kromrif](/faction/419) (10)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (2)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-5)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Flayed Coldain-Skin Leggings](/item/25053) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/25053" data-url="25053" class="tooltip-link link">Flayed Coldain-Skin Leggings</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

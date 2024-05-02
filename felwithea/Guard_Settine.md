@@ -50,13 +50,17 @@ end
 
 
 
-if( **You turn in:** [A Ragged Cloth Note](/item/18901)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18901" data-url="18901" class="tooltip-link link">A Ragged Cloth Note</a>) then
 
 
 >**Guard Settine says:** I.. but.. she.. You can take this. I guess I don't need it any more.
 
 
- **You receive:**  [Silver Amber Ring](/item/14640) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1051.png" alt="" /> <a
+                                href="/item/14640" data-url="14640" class="tooltip-link link">Silver Amber Ring</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

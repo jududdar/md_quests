@@ -25,7 +25,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Parchment to Rebbie](/item/10988)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/10988" data-url="10988" class="tooltip-link link">Parchment to Rebbie</a>
 
 
 **You say:** `next task`
@@ -56,48 +57,56 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if (expansion_flag >= 4.0 and  **You turn in:** [Jibble's Stiletto](/item/10992)) then
+if (expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/10992" data-url="10992" class="tooltip-link link">Jibble's Stiletto</a>) then
 
 
 >**Kaxon Frennor says:** At last that haughty rogue has met his Take this Dull Dark Reflection Stiletto and sharpen it in a forge with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once the blade has been sharpened take the sharpened stiletto to Clockwork Smith XIII with a Giant Rat Pelt and he will put the finishing touches on your new weapon.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (10)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-1)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-1)
-
-
-
- **You receive:**  [Dull Dark Reflection Stiletto](/item/10997) (+100 exp)
-
-elseif ( **You turn in:** [Old Folded Letter](/item/18705)) then 
-
-
-* __Faction:__ [Dark Reflection](/faction/238) (100)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-10)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/10997" data-url="10997" class="tooltip-link link">Dull Dark Reflection Stiletto</a> (+100 exp)
+
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18705" data-url="18705" class="tooltip-link link">Old Folded Letter</a>) then 
+
+
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-10)
-
-
-* __Faction:__ [Deepmuses](/faction/240) (-10)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-10</span>)
 
 
 
- **You receive:**  [Tin Patched Tunic*](/item/13518) (+20 exp)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-10</span>)
+
+
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-10</span>)
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13518" data-url="13518" class="tooltip-link link">Tin Patched Tunic*</a> (+20 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

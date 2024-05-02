@@ -105,7 +105,11 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Polar Bear Skin](/item/13761), [Thick Grizzly Bear Skin](/item/13756), [Shark Skin](/item/13075), [Alligator Skin](/item/13749)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_835.png" alt="" /> <a
+                                href="/item/13761" data-url="13761" class="tooltip-link link">Polar Bear Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13756" data-url="13756" class="tooltip-link link">Thick Grizzly Bear Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/13075" data-url="13075" class="tooltip-link link">Shark Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/13749" data-url="13749" class="tooltip-link link">Alligator Skin</a>) then 
 
 
 >**Marshal Anrey says:** So I see the young troll has become a young warrior.  You have stepped up to the challenge of the Leatherfoot Raiders, you may wear the petitioner's skullcap, but to receive the true cap of the raiders, bring me the dirk of a fallen Neriak dragoon and the cap I have given you.  Only then can I be sure that you can truly be one of the few and bold, the Leatherfoot Raiders.
@@ -114,24 +118,29 @@ if **Faction** >= Amiable +100 and  **You turn in:** [Polar Bear Skin](/item/137
 
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (25)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (3)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (2)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (2)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-3)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Leatherfoot Skullcap](/item/13941) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/13941" data-url="13941" class="tooltip-link link">Leatherfoot Skullcap</a> (+1000 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Leatherfoot Skullcap](/item/13941), [Dragoon Dirk](/item/13942)) then 
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/13941" data-url="13941" class="tooltip-link link">Leatherfoot Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/13942" data-url="13942" class="tooltip-link link">Dragoon Dirk</a>) then 
 
 
 >**Marshal Anrey says:** Congratulations, my young deputy! Welcome to the brotherhood of the Leatherfoot Raiders. You have earned your skullcap. Wear it with pride. You are now one of the elite. Remember our motto, 'Those who risk, prevail'.
@@ -140,22 +149,25 @@ elseif **Faction** >= Amiable +100 and  **You turn in:** [Leatherfoot Skullcap](
 
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (50)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (7)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (5)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (5)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-7)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-7</span>)
 
 
- **You receive:**  [Leatherfoot Raider Skullcap](/item/12259) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/12259" data-url="12259" class="tooltip-link link">Leatherfoot Raider Skullcap</a> (+5000 exp)
+
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

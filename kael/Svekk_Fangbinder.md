@@ -81,7 +81,8 @@ end
 if( **Faction is** > Apprehensive) then
 
 
-if( **You turn in:** [Velium Torque](/item/25278)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/25278" data-url="25278" class="tooltip-link link">Velium Torque</a>) then 
 
 
 
@@ -89,26 +90,29 @@ if( **You turn in:** [Velium Torque](/item/25278)) then
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (2)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (2)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
 
- **You receive:** 0 (+250 exp)
+ &#127873; **You receive:** 0 (+250 exp)
+
+**You receive coin:** 5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
-elseif( **You turn in:** [Bekerak's Letter to Svekk](/item/25267)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/25267" data-url="25267" class="tooltip-link link">Bekerak's Letter to Svekk</a>) then 
 
 
 
@@ -116,23 +120,26 @@ elseif( **You turn in:** [Bekerak's Letter to Svekk](/item/25267)) then
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (2)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (2)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
 
- **You receive:**  [Supply Voucher](/item/25270) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/25270" data-url="25270" class="tooltip-link link">Supply Voucher</a> (+250 exp)
+
+ 
 
 
 elseif( **You turn in:** copper = 50000) then
@@ -143,10 +150,15 @@ elseif( **You turn in:** copper = 50000) then
 
 
 
- **You receive:**  [Giant Sack of Supplies](/item/25266) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/25266" data-url="25266" class="tooltip-link link">Giant Sack of Supplies</a> 
+
+ 
 
 
-elseif( **You turn in:** [Supply Voucher](/item/25270), [Klezendian Crystal](/item/25271)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/25270" data-url="25270" class="tooltip-link link">Supply Voucher</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/25271" data-url="25271" class="tooltip-link link">Klezendian Crystal</a>) then 
 
 
 
@@ -154,23 +166,26 @@ elseif( **You turn in:** [Supply Voucher](/item/25270), [Klezendian Crystal](/it
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (2)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (2)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
 
- **You receive:**  [Large Supply Sack for Bekerak](/item/25269) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/25269" data-url="25269" class="tooltip-link link">Large Supply Sack for Bekerak</a> (+250 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

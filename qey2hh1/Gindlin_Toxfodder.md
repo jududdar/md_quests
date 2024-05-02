@@ -23,12 +23,18 @@ end
 local text = "You did hear me, didn't you? I want two spider venom sacs, a bottle of Crow's special brew and 20 gold pieces.";
 
 
-if( **You turn in:** [A Spider Venom Sac](/item/14018), [A Spider Venom Sac](/item/14018), [Crows Special Brew](/item/13799), gold = 20) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_819.png" alt="" /> <a
+                                href="/item/14018" data-url="14018" class="tooltip-link link">A Spider Venom Sac</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_819.png" alt="" /> <a
+                                href="/item/14018" data-url="14018" class="tooltip-link link">A Spider Venom Sac</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13799" data-url="13799" class="tooltip-link link">Crows Special Brew</a>, gold = 20) then
 
 
 >**Gindlin Toxfodder says:** Here. I could care less what you do with this. Hopefully you'll lay some on the Circle of Unseen Hands.
 
 
- **You receive:**  [Spider Venom](/item/14015) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_806.png" alt="" /> <a
+                                href="/item/14015" data-url="14015" class="tooltip-link link">Spider Venom</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

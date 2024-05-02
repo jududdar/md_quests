@@ -22,7 +22,8 @@ end
 
 
 
-if ( **You turn in:** [Shiny Card](/item/13844)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/13844" data-url="13844" class="tooltip-link link">Shiny Card</a>) then
 
 
 >**Clockwork XIIC says:** Tick.. Pop.. Access granted.
@@ -31,21 +32,24 @@ if ( **You turn in:** [Shiny Card](/item/13844)) then
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (1)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Meldrath](/faction/287) (-1)
+Your faction standing with [Meldrath](/faction/287) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Blackbox XIIC](/item/13212) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13212" data-url="13212" class="tooltip-link link">Blackbox XIIC</a> (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

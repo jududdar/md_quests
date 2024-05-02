@@ -224,24 +224,28 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Sealed Letter](/item/1717)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/1717" data-url="1717" class="tooltip-link link">Sealed Letter</a>) then 
 
 
 >**Fjokar Frozenshard says:** You have found what I was unable to. King Tormax's protection of Wenglawks willsoon. His death will be so very delightful to invoke. 'rushes out of the room, dropping his spear as he does.'
 
 
-* __Faction:__ [King Tormax](/faction/429) (20)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (20)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (-10)
+Your faction standing with [Yelinak](/faction/436) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (-10)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:**  [Frozen Shard](/item/25030) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/25030" data-url="25030" class="tooltip-link link">Frozen Shard</a> (+75000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

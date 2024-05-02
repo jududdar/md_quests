@@ -35,28 +35,35 @@ local text = "I need no fewer than four infected rat livers!! Now, go get me wha
 
 
 
-if( **You turn in:** [Bat Fur](/item/13069), [Bat Fur](/item/13069), [Fire Beetle Leg](/item/13250), [Fire Beetle Leg](/item/13250)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_792.png" alt="" /> <a
+                                href="/item/13069" data-url="13069" class="tooltip-link link">Bat Fur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_792.png" alt="" /> <a
+                                href="/item/13069" data-url="13069" class="tooltip-link link">Bat Fur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/13250" data-url="13250" class="tooltip-link link">Fire Beetle Leg</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/13250" data-url="13250" class="tooltip-link link">Fire Beetle Leg</a>) then 
 
 
 >**Dzan Amo says:** Very good young one. Here is something to assist in your studies of the principles of terror.
 
 
-* __Faction:__ [Heretics](/faction/265) (5)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-5)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-5)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-5)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-5)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Spell: Spook the Dead](/item/15209) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15209" data-url="15209" class="tooltip-link link">Spell: Spook the Dead</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

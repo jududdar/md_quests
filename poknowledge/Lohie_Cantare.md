@@ -28,12 +28,16 @@ end
 
 
 
-if( **You turn in:** [Collection of Instruments](/item/28080)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/28080" data-url="28080" class="tooltip-link link">Collection of Instruments</a>) then
 
 
 >*Lohie Cantare inspects each instrument carefully. 'These are in much better condition then I thought I would get them in. Adding these to my exhibit pleases me greatly. As promised, here is something for you.'*
 
 
- **You receive:**  [Fine Antique Amice](/item/28239) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_840.png" alt="" /> <a
+                                href="/item/28239" data-url="28239" class="tooltip-link link">Fine Antique Amice</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

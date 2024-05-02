@@ -39,38 +39,56 @@ end
 
 
 
-if( **You turn in:** [Azure Tessera](/item/20930), [Black Face Paint](/item/20728), [Worn Leather Mask](/item/20729)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20930" data-url="20930" class="tooltip-link link">Azure Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20728" data-url="20728" class="tooltip-link link">Black Face Paint</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/20729" data-url="20729" class="tooltip-link link">Worn Leather Mask</a>) then 
 
 
 
 >**Will Treewalker says:** Take this mask, nature friend.
 
 
- **You receive:**  [Drake-Hide Mask](/item/2706) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2706" data-url="2706" class="tooltip-link link">Drake-Hide Mask</a> (+100000 exp)
+
+ 
 
 
 
 **Will Treewalker despawns.**
 
-elseif( **You turn in:** [Copper Disc](/item/20936), [Mantle of Woven Grass](/item/20731), [Nature Walker's Sky Emerald](/item/20730)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/20936" data-url="20936" class="tooltip-link link">Copper Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/20731" data-url="20731" class="tooltip-link link">Mantle of Woven Grass</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/20730" data-url="20730" class="tooltip-link link">Nature Walker's Sky Emerald</a>) then 
 
 
 >**Will Treewalker says:** This mantle will protect you from the winds on your journeys naturewalker.
 
 
- **You receive:**  [Nature Walker's Mantle](/item/2705) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2705" data-url="2705" class="tooltip-link link">Nature Walker's Mantle</a> (+100000 exp)
+
+ 
 
 
 
 **Will Treewalker despawns.**
 
-elseif( **You turn in:** [Diaphanous Globe](/item/20943), [Hardened Clay](/item/20732), [Spiroc Battle Staff](/item/20733)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20943" data-url="20943" class="tooltip-link link">Diaphanous Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/20732" data-url="20732" class="tooltip-link link">Hardened Clay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1083.png" alt="" /> <a
+                                href="/item/20733" data-url="20733" class="tooltip-link link">Spiroc Battle Staff</a>) then 
 
 
 >**Will Treewalker says:** Great work, Soandso.
 
 
- **You receive:**  [Shillelagh](/item/6411) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1083.png" alt="" /> <a
+                                href="/item/6411" data-url="6411" class="tooltip-link link">Shillelagh</a> (+100000 exp)
+
+ 
 
 
 

@@ -47,21 +47,20 @@ local text1 = "I thought I told you to bring me the head of Streaven and 3 rubie
 
 
 
-if( **You turn in:** [Illegible Note: Breastplate](/item/14789)) then
-
-
->*Grik the Exile snickers to himself and looks out over the swamp for a moment before saying,*
-
-
->**Grik the Exile says:** Perseverance is indeed our greatest virtue. Perhaps if we as warriors looked more to cultivate our virtue rather than to hoard glory our people would be rulers of this entire land. I will send you on a [mission] to learn of perseverance. If you complete it I will give you my reference.
-
-if( **You turn in:** [Ruby](/item/10035), [Ruby](/item/10035), [Ruby](/item/10035), [Streaven's Head](/item/14819)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_984.png" alt="" /> <a
+                                href="/item/14819" data-url="14819" class="tooltip-link link">Streaven's Head</a>) then
 
 
 >*Grik the Exile watches as you drop the head onto the soft earth of the swamp. With his foot,Grik tactfully pushes the head off into the water.A sly grin passes over his gace briefly as watches it sink and pockets the rubies. He says, 'Excellent work " .. e.other:Race() .. ". Here is your reference as promissed.'*
 
 
- **You receive:**  [Grik's Reference](/item/14816) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/14816" data-url="14816" class="tooltip-link link">Grik's Reference</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -64,53 +64,92 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Moon Jewel](/item/4489), [Mark of Storms](/item/5097), [Etched Fire Opal of Nature](/item/5098)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5097" data-url="5097" class="tooltip-link link">Mark of Storms</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/5098" data-url="5098" class="tooltip-link link">Etched Fire Opal of Nature</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Earth Blessed Veil](/item/3769) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/3769" data-url="3769" class="tooltip-link link">Earth Blessed Veil</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Earth](/item/5099), [Tablet of Wolves](/item/5107), [Etched Peridot of Nature](/item/6395)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Cape](/item/3770) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Blossoms](/item/5108), [Etched Pearl of Nature](/item/5109)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Gloves](/item/3771) (+25000 exp)
-
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Rain](/item/5110), [Etched Opal of Nature](/item/5116)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5099" data-url="5099" class="tooltip-link link">Mark of the Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/5107" data-url="5107" class="tooltip-link link">Tablet of Wolves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/6395" data-url="6395" class="tooltip-link link">Etched Peridot of Nature</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Earth Blessed Talisman](/item/3772) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/3770" data-url="3770" class="tooltip-link link">Earth Blessed Cape</a> (+25000 exp)
 
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Flora](/item/5117), [Etched Onyx of Nature](/item/5118), [Ancient Writ of Nature](/item/5119)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Belt](/item/3773) (+25000 exp)
-
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Fauna](/item/5129), [Etched Fire Emerald of Nature](/item/5190), [Vial of Moon Dew](/item/5191)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5108" data-url="5108" class="tooltip-link link">Mark of Blossoms</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/5109" data-url="5109" class="tooltip-link link">Etched Pearl of Nature</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Earth Blessed Crook](/item/3774) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/3771" data-url="3771" class="tooltip-link link">Earth Blessed Gloves</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5110" data-url="5110" class="tooltip-link link">Mark of Rain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_959.png" alt="" /> <a
+                                href="/item/5116" data-url="5116" class="tooltip-link link">Etched Opal of Nature</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/3772" data-url="3772" class="tooltip-link link">Earth Blessed Talisman</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5117" data-url="5117" class="tooltip-link link">Mark of Flora</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_956.png" alt="" /> <a
+                                href="/item/5118" data-url="5118" class="tooltip-link link">Etched Onyx of Nature</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/5119" data-url="5119" class="tooltip-link link">Ancient Writ of Nature</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/3773" data-url="3773" class="tooltip-link link">Earth Blessed Belt</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5129" data-url="5129" class="tooltip-link link">Mark of Fauna</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/5190" data-url="5190" class="tooltip-link link">Etched Fire Emerald of Nature</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1159.png" alt="" /> <a
+                                href="/item/5191" data-url="5191" class="tooltip-link link">Vial of Moon Dew</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1083.png" alt="" /> <a
+                                href="/item/3774" data-url="3774" class="tooltip-link link">Earth Blessed Crook</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -118,14 +157,14 @@ function FactionReward(e)
 
 >**Edgar Lemoof says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

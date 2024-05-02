@@ -20,7 +20,9 @@ end
 if( **You turn in:** item1 = 62093, item2 = 62092, item3 = 62092, item4 = 62092) then
 
 
- **You receive:** 62202 
+ &#127873; **You receive:** 62202 
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

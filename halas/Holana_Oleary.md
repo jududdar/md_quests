@@ -22,7 +22,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A tattered note](/item/18831)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18831" data-url="18831" class="tooltip-link link">A tattered note</a>
 
 
 
@@ -60,7 +61,8 @@ end
 
 
 
-if( **You turn in:** [Karana Clover Shipment](/item/13962)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/13962" data-url="13962" class="tooltip-link link">Karana Clover Shipment</a>) then
 
 
 
@@ -269,7 +271,7 @@ rewarditem = 2912;
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (10)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+10</span>)
 
 
 
@@ -280,7 +282,7 @@ rewarditem = 2912;
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
 
@@ -291,7 +293,7 @@ rewarditem = 2912;
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -302,7 +304,7 @@ rewarditem = 2912;
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -313,7 +315,7 @@ rewarditem = 2912;
 
 
 
-* __Faction:__ [Hall of the Ebon Mask](/faction/5009) (-2)
+Your faction standing with [Hall of the Ebon Mask](/faction/5009) got worse (<span class='text-danger'>-2</span>)
 
 
 
@@ -324,6 +326,8 @@ rewarditem = 2912;
 
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -16,13 +16,17 @@ function FieldPackTurnIn(e)
 
 >**Captain Darznel says:** We can celebrate your promotion when we make it back to the rear.  Right now, I need you to lead another set of missions into the grunt occupied territory.  Speak to Captain Necin and show him the Soldier's chest that you've filled with the medals that you earned from the first set of raids.  He will direct you through the next several mission.  Once you have completed the missions, combine the Medallion of the Hero of Shar Vahl and your Officer's cloak in this Satchel.  Take the Locked Satchel to Sergeant Cursah.  He will assist you from that point forward.
 
- **You receive:**  [Security Satchel](/item/17132) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17132" data-url="17132" class="tooltip-link link">Security Satchel</a> 
+
+ 
 ## Turn-Ins
 
 
 
 
-if ( **You turn in:** [Garrison Enlistment Forms](/item/8471)) then 
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/8471" data-url="8471" class="tooltip-link link">Garrison Enlistment Forms</a>) then 
 
 
 >**Captain Darznel says:** Let's see, yes... yes...  It looks like you signed everything in the correct spot.  That can only mean that you're not only brave, but you have some wits as well.  If you have all of your teeth and can stand on one leg until the count of five, I think we can make use of you.
@@ -34,65 +38,91 @@ if ( **You turn in:** [Garrison Enlistment Forms](/item/8471)) then
 >**Captain Darznel says:** After you complete that raid, please go with Scouts Danarin and Derrin.  Once you secure those camps, bring me any grimling intelligence reports or documents that you may have found.  Place the documents and your Garrison cloak in this bag and bring them back to me.  Complete this task and you may even get a promotion.
 
 
- **You receive:**  [Garrison Field Pack](/item/17130) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17130" data-url="17130" class="tooltip-link link">Garrison Field Pack</a> 
+
+ 
 
 
- **You receive:**  [Polished Acrylia Sphere](/item/3681) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/3681" data-url="3681" class="tooltip-link link">Polished Acrylia Sphere</a> 
 
-
-
-
-elseif ( **You turn in:** [Sealed Field Pack](/item/8480)) then 
-
-
-FieldPackTurnIn(e);
-
-
- **You receive:**  [Jharin Officers Cloak](/item/8414) 
+ 
 
 
 
 
-elseif ( **You turn in:** [Sealed Field Pack](/item/8483)) then 
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/8480" data-url="8480" class="tooltip-link link">Sealed Field Pack</a>) then 
 
 
 FieldPackTurnIn(e);
 
 
- **You receive:**  [Khati Sha Officers Cloak](/item/8415) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/8414" data-url="8414" class="tooltip-link link">Jharin Officers Cloak</a> 
+
+ 
 
 
 
 
-elseif ( **You turn in:** [Sealed Field Pack](/item/8481)) then 
-
-
-FieldPackTurnIn(e);
-
-
- **You receive:**  [Khala Dun Officers Cloak](/item/8416) 
-
-
-
-
-elseif ( **You turn in:** [Sealed Field Pack](/item/8472)) then 
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/8483" data-url="8483" class="tooltip-link link">Sealed Field Pack</a>) then 
 
 
 FieldPackTurnIn(e);
 
 
- **You receive:**  [Dar Khura Officers Cloak](/item/8417) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/8415" data-url="8415" class="tooltip-link link">Khati Sha Officers Cloak</a> 
+
+ 
 
 
 
 
-elseif ( **You turn in:** [Sealed Field Pack](/item/8482)) then 
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/8481" data-url="8481" class="tooltip-link link">Sealed Field Pack</a>) then 
 
 
 FieldPackTurnIn(e);
 
 
- **You receive:**  [Taruun Officers Cloak](/item/8418) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/8416" data-url="8416" class="tooltip-link link">Khala Dun Officers Cloak</a> 
+
+ 
+
+
+
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/8472" data-url="8472" class="tooltip-link link">Sealed Field Pack</a>) then 
+
+
+FieldPackTurnIn(e);
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/8417" data-url="8417" class="tooltip-link link">Dar Khura Officers Cloak</a> 
+
+ 
+
+
+
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/8482" data-url="8482" class="tooltip-link link">Sealed Field Pack</a>) then 
+
+
+FieldPackTurnIn(e);
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/8418" data-url="8418" class="tooltip-link link">Taruun Officers Cloak</a> 
+
+ 
 
 
 item_lib.return_items(e.self,e.other,e.trade);

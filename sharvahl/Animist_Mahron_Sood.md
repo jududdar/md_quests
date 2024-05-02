@@ -199,28 +199,68 @@ end
 
 
 
-if( **You turn in:** [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918), [Grimling Finger Bones](/item/3918)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/3918" data-url="3918" class="tooltip-link link">Grimling Finger Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/3918" data-url="3918" class="tooltip-link link">Grimling Finger Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/3918" data-url="3918" class="tooltip-link link">Grimling Finger Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/3918" data-url="3918" class="tooltip-link link">Grimling Finger Bones</a>) then 
 
 
 >**Animist Mahron Sood says:** Thanks, here is your reward!
 
 
- **You receive:** eq.ChooseRandom( [Hopperhide Wristbands](/item/7079), [Hopperhide Tunic](/item/7074), [Hopperhide Skullcap](/item/7071), [Hopperhide Sleeves](/item/7078), [Hopperhide Shoulderpads](/item/7075), [Hopperhide Mask](/item/7072), [Hopperhide Leggings](/item/7081), [Hopperhide Gorget](/item/7073), [Hopperhide Gloves](/item/7080), [Hopperhide Cloak](/item/7076), [Hopperhide Boots](/item/7082), [Hopperhide Belt](/item/7077)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/7079" data-url="7079" class="tooltip-link link">Hopperhide Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/7074" data-url="7074" class="tooltip-link link">Hopperhide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/7071" data-url="7071" class="tooltip-link link">Hopperhide Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/7078" data-url="7078" class="tooltip-link link">Hopperhide Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/7075" data-url="7075" class="tooltip-link link">Hopperhide Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/7072" data-url="7072" class="tooltip-link link">Hopperhide Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/7081" data-url="7081" class="tooltip-link link">Hopperhide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/7073" data-url="7073" class="tooltip-link link">Hopperhide Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/7080" data-url="7080" class="tooltip-link link">Hopperhide Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/7076" data-url="7076" class="tooltip-link link">Hopperhide Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/7082" data-url="7082" class="tooltip-link link">Hopperhide Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/7077" data-url="7077" class="tooltip-link link">Hopperhide Belt</a>) (+1000 exp)
 
-elseif( **You turn in:** [Grimling Toes](/item/3812), [Grimling Toes](/item/3812), [Grimling Toes](/item/3812), [Grimling Toes](/item/3812)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/3812" data-url="3812" class="tooltip-link link">Grimling Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/3812" data-url="3812" class="tooltip-link link">Grimling Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/3812" data-url="3812" class="tooltip-link link">Grimling Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/3812" data-url="3812" class="tooltip-link link">Grimling Toes</a>) then 
 
 
 >**Animist Mahron Sood says:** Thanks, here is your reward!
 
 
- **You receive:** eq.ChooseRandom( [Hopperhide Wristbands](/item/7079), [Hopperhide Tunic](/item/7074), [Hopperhide Skullcap](/item/7071), [Hopperhide Sleeves](/item/7078), [Hopperhide Shoulderpads](/item/7075), [Hopperhide Mask](/item/7072), [Hopperhide Leggings](/item/7081), [Hopperhide Gorget](/item/7073), [Hopperhide Gloves](/item/7080), [Hopperhide Cloak](/item/7076), [Hopperhide Boots](/item/7082), [Hopperhide Belt](/item/7077)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/7079" data-url="7079" class="tooltip-link link">Hopperhide Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/7074" data-url="7074" class="tooltip-link link">Hopperhide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/7071" data-url="7071" class="tooltip-link link">Hopperhide Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/7078" data-url="7078" class="tooltip-link link">Hopperhide Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/7075" data-url="7075" class="tooltip-link link">Hopperhide Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/7072" data-url="7072" class="tooltip-link link">Hopperhide Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/7081" data-url="7081" class="tooltip-link link">Hopperhide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/7073" data-url="7073" class="tooltip-link link">Hopperhide Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/7080" data-url="7080" class="tooltip-link link">Hopperhide Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/7076" data-url="7076" class="tooltip-link link">Hopperhide Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/7082" data-url="7082" class="tooltip-link link">Hopperhide Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/7077" data-url="7077" class="tooltip-link link">Hopperhide Belt</a>) (+1000 exp)
 
-elseif( **You turn in:** [Seal of Animist Poren](/item/3670)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/3670" data-url="3670" class="tooltip-link link">Seal of Animist Poren</a>) then 
 
 
 >**Animist Mahron Sood says:** I can tell by the manner in which you approached me that Poren did not explain what I would require of you, little friend. Your development as a Khati Sha will be demanding. Our expectations of you should only be exceeded by your own. Our namesake, Khati Sha, was an unrivalled hero to our people. The story of his life is an example that you will be expected to learn. You will be expected to research and explore the path that he took and strive to understand what that path means for the future of our people. Take this map to Kery Miann. She will start you on the path.
 
 
- **You receive:**  [Worn Map of the Area](/item/5571) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/5571" data-url="5571" class="tooltip-link link">Worn Map of the Area</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -395,7 +395,8 @@ end
 
 
 
-if( **You turn in:** [Bllizents Fang](/item/25117)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/25117" data-url="25117" class="tooltip-link link">Bllizents Fang</a>) then
 
 
 if  **Faction** >= Amiable then
@@ -410,23 +411,26 @@ if  **Faction** >= Amiable then
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (20)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (5)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Coldain](/faction/406) (-10)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-2)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-2</span>)
 
 
 
- **You receive:**  [Dragonhide Belt](/item/25049) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_719.png" alt="" /> <a
+                                href="/item/25049" data-url="25049" class="tooltip-link link">Dragonhide Belt</a> (+1000 exp)
+
+ 
 
 
 else
@@ -437,10 +441,12 @@ else
 
 
 
-e.self:SummonItem( [Bllizents Fang](/item/25117)); 
+e.self:SummonItem( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/25117" data-url="25117" class="tooltip-link link">Bllizents Fang</a>); 
 
 
-elseif( **You turn in:** [Head of Ekelng Thunderstone](/item/25116)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/25116" data-url="25116" class="tooltip-link link">Head of Ekelng Thunderstone</a>) then
 
 
 if  **Faction** >= Amiable then
@@ -455,23 +461,26 @@ if  **Faction** >= Amiable then
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (20)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (5)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Coldain](/faction/406) (-10)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-2)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-2</span>)
 
 
 
- **You receive:**  [Vambraces of Avoidance](/item/25048) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/25048" data-url="25048" class="tooltip-link link">Vambraces of Avoidance</a> (+1000 exp)
+
+ 
 
 
 else
@@ -482,7 +491,8 @@ else
 
 
 
-e.self:SummonItem( [Head of Ekelng Thunderstone](/item/25116)); 
+e.self:SummonItem( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/25116" data-url="25116" class="tooltip-link link">Head of Ekelng Thunderstone</a>); 
 
 
 **This NPC *should* return incorrect items given.**

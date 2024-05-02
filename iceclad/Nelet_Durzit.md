@@ -31,21 +31,10 @@ end
 
 
 
-if( **You turn in:** [Capt. Nalot's Triple Strength Rum](/item/30034)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/30033" data-url="30033" class="tooltip-link link">Rough Silver Chain</a> 
 
-
->*Nelet Durzit greedily swigs rum from the jug.  After a few drinks, he starts to gag and make faces.  'Oh, geez!  Rendap told me this stuff was strong but this tastes like clockwork grease!  It burns but now I feel - ugh.'  Nelet doubles over and passes out on the ground.  As he falls over, a small silver trinket slips out of his pocket.*
-
-
-if(**spawned NPC:**  [Rendap](/npc/110060)) then
-
-
-
-eq.get_entity_list():GetMobByNpcTypeID( [Rendap](/npc/110060)):Emote("points and laughs as Nelet falls over.  'That'll put hair on yer ears, boy.  Suck it up.  Least ya ain't shiverin' o' cold anymore, eh?'");
-
-
-
- **You receive:**  [Rough Silver Chain](/item/30033) 
+ 
 
 **This NPC *should* return incorrect items given.**
 

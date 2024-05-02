@@ -33,7 +33,8 @@ else
 
 
 
-**You receive:**  [Arantir's Ring](/item/14334)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1064.png" alt="" /> <a
+                                href="/item/14334" data-url="14334" class="tooltip-link link">Arantir's Ring</a>
 
 
 **You say:** `story`
@@ -61,10 +62,11 @@ else
 >**Arantir Karondor says:** Ah, the gnome I know very little about. I know he was small and crafty, and that he had a brother. His brother's craft was that of making fireworks, and he was the unfortunate victim of one of his own experiments. His firework exploded, leaving his mind diminished in capacity, even for a gnome. I remember others calling him 'Old Stewpot' in jest. I do not know if this is his birth name, but it may help you to locate him. I hear he also stays close to water because of the explosion. You never know when another gnomish invention will go awry. Give him this letter to help motivate him to remember.
 
 
-**You receive:**  [Note from Arantir](/item/18169)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18169" data-url="18169" class="tooltip-link link">Note from Arantir</a>
 
 
-* __Faction:__ [Truespirit](/faction/404) (30)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+30</span>)
 
 
 
@@ -88,13 +90,19 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 
 
 
-if( **You turn in:** [Blue Crystal Staff](/item/14337), [Gnarled Staff](/item/14338), [Staff of Gabstik](/item/14339)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/14337" data-url="14337" class="tooltip-link link">Blue Crystal Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/14338" data-url="14338" class="tooltip-link link">Gnarled Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_887.png" alt="" /> <a
+                                href="/item/14339" data-url="14339" class="tooltip-link link">Staff of Gabstik</a>) then 
 
 
 >**Arantir Karondor says:** Here, this pack contains all of our items. You will never be able to open it again, so you must deliver the pack, intact, to Solomen. He will then reward you. Now that I have helped you, leave me in peace.
 
 
- **You receive:**  [Magically Sealed Bag](/item/14340) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/14340" data-url="14340" class="tooltip-link link">Magically Sealed Bag</a> 
+
+ 
 
 
 eq.delete_global("wizepicA");
@@ -102,7 +110,8 @@ eq.delete_global("wizepicA");
 
 eq.delete_global("wizepicB");
 
-elseif( **You turn in:** [Arantir's Ring](/item/14335)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1064.png" alt="" /> <a
+                                href="/item/14335" data-url="14335" class="tooltip-link link">Arantir's Ring</a>) then
 
 
 
@@ -118,7 +127,8 @@ eq.set_global("wizepicA","1",1,"F");
 
 **Set a timer** named *ArantirDepop* for 640 seconds
 
-elseif( **You turn in:** [Note to Arantir](/item/18168)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18168" data-url="18168" class="tooltip-link link">Note to Arantir</a>) then
 
 
 

@@ -109,25 +109,36 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Torn Parchment](/item/18014)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18014" data-url="18014" class="tooltip-link link">Torn Parchment</a>) then
 
 
 >**Merona Castekin says:** Oh Tunare why!?!? Those foul Bloodsabers will pay for my brother's death!! Here. You have given us valuable information about a new threat to our homes. Take this a token of our appreciation.
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Sabertooths of Blackburrow](/faction/306) (-1)
+Your faction standing with [Sabertooths of Blackburrow](/faction/306) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Band of Tunare](/item/13184), [Ring of Pine](/item/13185), [Water Flask](/item/13006), [Ration](/item/13007), [Hunting Bow](/item/8011), [Large Lantern](/item/13004), [Loaf of Bread](/item/13015), [Bandages](/item/13009)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/13184" data-url="13184" class="tooltip-link link">Band of Tunare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_880.png" alt="" /> <a
+                                href="/item/13185" data-url="13185" class="tooltip-link link">Ring of Pine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13007" data-url="13007" class="tooltip-link link">Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/8011" data-url="8011" class="tooltip-link link">Hunting Bow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_728.png" alt="" /> <a
+                                href="/item/13004" data-url="13004" class="tooltip-link link">Large Lantern</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_537.png" alt="" /> <a
+                                href="/item/13015" data-url="13015" class="tooltip-link link">Loaf of Bread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

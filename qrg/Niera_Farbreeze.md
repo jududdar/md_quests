@@ -52,12 +52,16 @@ end
 
 
 
-if( **You turn in:** [Silver Chained Locket](/item/20476)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1147.png" alt="" /> <a
+                                href="/item/20476" data-url="20476" class="tooltip-link link">Silver Chained Locket</a>) then
 
 
 >**Niera Farbreeze says:** This, this is my mother's amulet. I cannot believe it. Please, take this powder you say you need. Perhaps it does have powers, I don't know, I don't care. Thank you, my eternal thanks for this.
 
 
- **You receive:**  [Platinum Speckled Powder](/item/20456) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/20456" data-url="20456" class="tooltip-link link">Platinum Speckled Powder</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

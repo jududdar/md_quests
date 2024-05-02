@@ -67,12 +67,9 @@ end
 
 
 
-if( **You turn in:** [First Half of Vin\`Pekirs Tome](/item/31445), [Second Half of Vin\`Pekirs Tome](/item/31446), [First Half of Al\`Tarlkals Tome](/item/31443), [Second Half of Al\`Tarlkals Tome](/item/31444) and **Your level** >= 55) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1072.png" alt="" /> <a
+                                href="/item/1325" data-url="1325" class="tooltip-link link">Wreath of Nature</a> (+1000 exp)
 
-
->**a gleaming sphere of light says:** In my hands I hold the teachings of those who gave their lives to produce a defense against the evils of mind control. For what you have done for me I cannot thank you enough; please accept this magical item as a reminder of my gratitude.
-
-
- **You receive:**  [Wreath of Nature](/item/1325) (+1000 exp)
+ 
 
 **This NPC *should* return incorrect items given.**

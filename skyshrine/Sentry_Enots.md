@@ -20,7 +20,8 @@ end
 
 
 
-local helmet =  **You turn in:**  { [Giant Warrior Helmet](/item/29062)}
+local helmet =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_747.png" alt="" /> <a
+                                href="/item/29062" data-url="29062" class="tooltip-link link">Giant Warrior Helmet</a>}
 
 
 
@@ -36,22 +37,24 @@ repeat
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (15)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+15</span>)
 
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (3)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-7)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-7</span>)
 
 
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+ 
 
 
 

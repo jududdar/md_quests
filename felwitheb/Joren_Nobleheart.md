@@ -27,13 +27,17 @@ end
 
 
 
-if( **You turn in:** [Head of a Prince](/item/10627)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/10627" data-url="10627" class="tooltip-link link">Head of a Prince</a>) then
 
 
 >**Joren Nobleheart says:** Vengeance has been fufilled! However, the King still has a heavy heart. Not until Firiona has been returned can this sadness be lifted. But in appreciation of your efforts, I am honored to present to you the King's Chalice.
 
 
- **You receive:**  [Chalice of Kings](/item/10608) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1248.png" alt="" /> <a
+                                href="/item/10608" data-url="10608" class="tooltip-link link">Chalice of Kings</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

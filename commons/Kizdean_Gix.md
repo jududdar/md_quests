@@ -20,7 +20,8 @@
 >**Kizdean Gix says:** You speak the words of the Dead. You must be the assistance Loveal was to send. You must work quickly! Inside Befallen are the three pieces to the [Thex Mallet] which are to be returned to Loveal. Find Hubard L'rodd. He was my assistant. Give him this note and he should have information.
 
 
-**You receive:**  [A Tattered Cloth Note](/item/18891)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18891" data-url="18891" class="tooltip-link link">A Tattered Cloth Note</a>
 end
 
 ## On NPC Death

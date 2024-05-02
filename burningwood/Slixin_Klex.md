@@ -37,13 +37,19 @@ end
 
 
 
-if( **You turn in:** [Piece of a medallion](/item/19956), [Piece of a medallion](/item/19957), [Piece of a medallion](/item/19958)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19956" data-url="19956" class="tooltip-link link">Piece of a medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19957" data-url="19957" class="tooltip-link link">Piece of a medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19958" data-url="19958" class="tooltip-link link">Piece of a medallion</a>) then 
 
 
 >**Slixin Klex says:** Ssssss. I thought I would never see these. I never thought the symbol of our people would be made whole again. I feel no rest for my sssoul though. My torment still flows as freely as when my peoples first suffered fiery death. I need this not. It is useless to me. Here, you take it. Maybe you can find some good to do with it.
 
 
- **You receive:**  [Medallion of the Obulus](/item/19953) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19953" data-url="19953" class="tooltip-link link">Medallion of the Obulus</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

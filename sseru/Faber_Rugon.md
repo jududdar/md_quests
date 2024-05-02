@@ -186,44 +186,71 @@ end
 
 
 
-if( **You turn in:** [Pristine Lightcrawler Shell](/item/31787), [Pristine Lightcrawler Shell](/item/31787)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31787" data-url="31787" class="tooltip-link link">Pristine Lightcrawler Shell</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31787" data-url="31787" class="tooltip-link link">Pristine Lightcrawler Shell</a>) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
 
 
- **You receive:**  [Lightcrawler Breastplate](/item/29879) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/29879" data-url="29879" class="tooltip-link link">Lightcrawler Breastplate</a> (+10000 exp)
 
-elseif( **You turn in:** [Lightcrawler Legs](/item/31788), [Lightcrawler Legs](/item/31788), [A Shimmering Lightcrawler Shell](/item/31966), [A Shimmering Lightcrawler Shell](/item/31966)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/31788" data-url="31788" class="tooltip-link link">Lightcrawler Legs</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/31788" data-url="31788" class="tooltip-link link">Lightcrawler Legs</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31966" data-url="31966" class="tooltip-link link">A Shimmering Lightcrawler Shell</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31966" data-url="31966" class="tooltip-link link">A Shimmering Lightcrawler Shell</a>) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
 
 
- **You receive:**  [Lightcrawler Greaves](/item/29878) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/29878" data-url="29878" class="tooltip-link link">Lightcrawler Greaves</a> (+10000 exp)
 
-elseif( **You turn in:** [An Ardent Lightcrawler Shell](/item/31965), [An Ardent Lightcrawler Shell](/item/31965)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31965" data-url="31965" class="tooltip-link link">An Ardent Lightcrawler Shell</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31965" data-url="31965" class="tooltip-link link">An Ardent Lightcrawler Shell</a>) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
 
 
- **You receive:**  [Lightcrawler Helm](/item/29876) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_629.png" alt="" /> <a
+                                href="/item/29876" data-url="29876" class="tooltip-link link">Lightcrawler Helm</a> (+10000 exp)
 
-elseif( **You turn in:** [A Stripped Lightcrawler Shell](/item/31968), [A Stripped Lightcrawler Shell](/item/31968)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31968" data-url="31968" class="tooltip-link link">A Stripped Lightcrawler Shell</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31968" data-url="31968" class="tooltip-link link">A Stripped Lightcrawler Shell</a>) then
  
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
 
 
- **You receive:**  [Lightcrawler Bracer](/item/29880) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/29880" data-url="29880" class="tooltip-link link">Lightcrawler Bracer</a> (+10000 exp)
 
-elseif( **You turn in:** [A Spotted Lightcrawler Shell](/item/31967), [A Spotted Lightcrawler Shell](/item/31967)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31967" data-url="31967" class="tooltip-link link">A Spotted Lightcrawler Shell</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/31967" data-url="31967" class="tooltip-link link">A Spotted Lightcrawler Shell</a>) then
 
 
 >**Faber Rugon says:** Oh, this is a fine piece of armor I made for ya!
 
 
- **You receive:**  [Lightcrawler Vambraces](/item/29877) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_623.png" alt="" /> <a
+                                href="/item/29877" data-url="29877" class="tooltip-link link">Lightcrawler Vambraces</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

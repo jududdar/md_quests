@@ -33,21 +33,31 @@ end
 local text = "There shall be no wasp venom until three giant wasp venom sacs and 30 gold coins cross my palm."
 
 
-if( **You turn in:** [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](/item/13260), [Giant Wasp Venom Sac](/item/13260),gold = 30) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/13260" data-url="13260" class="tooltip-link link">Giant Wasp Venom Sac</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/13260" data-url="13260" class="tooltip-link link">Giant Wasp Venom Sac</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/13260" data-url="13260" class="tooltip-link link">Giant Wasp Venom Sac</a>,gold = 30) then
 
 
 >**Conium Darkblade says:** Take the giant wasp venom. Good or evil it is not. That is up to you.
 
 
- **You receive:**  [Giant Wasp Venom](/item/14024) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_808.png" alt="" /> <a
+                                href="/item/14024" data-url="14024" class="tooltip-link link">Giant Wasp Venom</a> (+500 exp)
 
-elseif( **You turn in:** [a sealed note](/item/18955)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18955" data-url="18955" class="tooltip-link link">a sealed note</a>) then
 
 
 >**Conium Darkblade says:** So Lon has sworn allegiance to a temple. What a fool, but he is a skilled fool. My word is my bond and if he asks for the gem, then so be it. Unfortunately I traded it for a much-needed axe. It was in the middle of a dungeon and... well, that is a long story. If you want to get the gem, take this axe back to the [one who once owned it].
 
 
- **You receive:**  [never stop chopping](/item/12366) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/12366" data-url="12366" class="tooltip-link link">never stop chopping</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

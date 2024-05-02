@@ -192,16 +192,20 @@ end
 
 
 
-if( **You turn in:** [Gawfeds Receipt](/item/5954)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/5954" data-url="5954" class="tooltip-link link">Gawfeds Receipt</a>) then
 
 
 >*Jihli Mahej looks at the note and begins to look a bit nervous. 'The vase that Master Gawfed purchased was accidentally knocked off of the shelf last night by a most clumsy customer. I apologize greatly, but I have only the broken pieces of the vase to offer you. Here, please take them with my sincere apologies. I will give Master Gawfed house credit for the vase and I can recommend someone that may be able to assist you in this most unfortunate dilemma. Give the pieces to Chogar and he may be able to assist you in repairing the vase.*
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Vase Pieces](/item/5955) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/5955" data-url="5955" class="tooltip-link link">Vase Pieces</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

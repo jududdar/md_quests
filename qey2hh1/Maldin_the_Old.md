@@ -25,7 +25,8 @@ end
 
 
 
-if( **You turn in:** [A Full Chalice](/item/12103)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/12103" data-url="12103" class="tooltip-link link">A Full Chalice</a>) then
 
 
 >**Maldin the Old says:** May the Rainkeeper keep you safe. I thank you. Here is the empty chalice. By the way, inform your superior that the operations of the [Karana bandits] are getting closer to Qeynos.
@@ -34,18 +35,21 @@ if( **You turn in:** [A Full Chalice](/item/12103)) then
 
 
 
-* __Faction:__ [Karana Residents](/faction/345) (5)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [An Empty Chalice](/item/12104) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/12104" data-url="12104" class="tooltip-link link">An Empty Chalice</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

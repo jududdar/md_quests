@@ -14,7 +14,8 @@
 >**Corporal Kent says:** Outstanding, now tuck in that tunic. We are trying out some new Shadowscream armor from Barkhem, the smith in Shar Vahl, and some of his students. They will cut us a nice deal if we deliver some of the supplies, so go fill this up with shrieking substances for me. What are you staring at? Go!! And suck in that gut!
 
 
-**You receive:**  [Sonic Receptacle](/item/17497)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17497" data-url="17497" class="tooltip-link link">Sonic Receptacle</a>
 
 **You say:** `annoying`
 
@@ -23,7 +24,7 @@
 >**Corporal Kent says:** Well isn't that clever, Soandso?  I'll see that my superiors hear about your attitude.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-1)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-1</span>)
 
 **You say:** `shrieking`
 
@@ -38,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [Full Sonic Receptacle](/item/29842)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/29842" data-url="29842" class="tooltip-link link">Full Sonic Receptacle</a>) then 
 
 
 >**Corporal Kent says:** Well done, Soandso, this should really help keep our costs down. Here, take these, and keep up the good work. Dismissed!
@@ -47,33 +49,39 @@ if( **You turn in:** [Full Sonic Receptacle](/item/29842)) then
 
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (4)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-2)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Combine Throwing Spear](/item/10664), 10668, 10663, 10665) (+50000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/10664" data-url="10664" class="tooltip-link link">Combine Throwing Spear</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_598.png" alt="" /> <a
+                                href="/item/10668" data-url="10668" class="tooltip-link link">Validus Custodus Flight Arrow</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/10663" data-url="10663" class="tooltip-link link">Combine Throwing Knife</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_681.png" alt="" /> <a
+                                href="/item/10665" data-url="10665" class="tooltip-link link">Combine Shuriken</a>) (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

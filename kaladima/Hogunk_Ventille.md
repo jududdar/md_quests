@@ -83,27 +83,40 @@ local text = "Aren't you forgetting something? I instructed you to return with G
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12156), [Rusty Axe](/item/5014)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/12156" data-url="12156" class="tooltip-link link">Dwarf Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>) then
 
 
 >**Hogunk Ventille says:** I shall display this in the guard hall. Let it be a warning to all those who dare to run from battle. As for you, that was splendid work, but next time, remember to wrap decapitated heads in something drip-proof. Those stains will never come out! Oh yes, and here is your reward.
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (2)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Storm Guard](/faction/312) (15)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (2)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Kaladim Merchants](/faction/5025) (3)
+Your faction standing with [Kaladim Merchants](/faction/5025) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-3)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bronze Long Sword](/item/5027), [Bronze Scimitar](/item/5034), [Bronze Mace](/item/6019), [Bronze Morning Star](/item/6024), [Bronze Rapier](/item/7013), [Cracked Staff](/item/6018), [Tarnished Two Handed Sword](/item/5070), [Tarnished Two Handed Battle Axe](/item/5071), [Fine Steel Morning Star](/item/6351)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5027" data-url="5027" class="tooltip-link link">Bronze Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5034" data-url="5034" class="tooltip-link link">Bronze Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/6019" data-url="6019" class="tooltip-link link">Bronze Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6024" data-url="6024" class="tooltip-link link">Bronze Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7013" data-url="7013" class="tooltip-link link">Bronze Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/6018" data-url="6018" class="tooltip-link link">Cracked Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5070" data-url="5070" class="tooltip-link link">Tarnished Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5071" data-url="5071" class="tooltip-link link">Tarnished Two Handed Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6351" data-url="6351" class="tooltip-link link">Fine Steel Morning Star</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-16 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

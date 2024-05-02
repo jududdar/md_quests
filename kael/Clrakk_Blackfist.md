@@ -98,7 +98,8 @@ end
 
 
 
-if( **You turn in:** [Hand of Deaen Greyforge](/item/25115)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/25115" data-url="25115" class="tooltip-link link">Hand of Deaen Greyforge</a>) then 
 
 
 >**Clrakk Blackfist says:** You truly are a bringer of strife, Soandso. Take this. I hope it will assist you. Use it in our war against the Coldain scum.
@@ -107,21 +108,25 @@ if( **You turn in:** [Hand of Deaen Greyforge](/item/25115)) then
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (10)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (2)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-5)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Mask of Malediction](/item/25054) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/25054" data-url="25054" class="tooltip-link link">Mask of Malediction</a> (+1000 exp)
 
-elseif( **You turn in:** [Legs of Deaen Greyforge](/item/25114)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_919.png" alt="" /> <a
+                                href="/item/25114" data-url="25114" class="tooltip-link link">Legs of Deaen Greyforge</a>) then 
 
 
 >**Clrakk Blackfist says:** You truly are a bringer of strife, Soandso. Take this. I hope it will assist you. Use it in our war against the Coldain scum.
@@ -130,18 +135,21 @@ elseif( **You turn in:** [Legs of Deaen Greyforge](/item/25114)) then
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (10)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (2)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-5)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dark Spear of Venom](/item/25051) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/25051" data-url="25051" class="tooltip-link link">Dark Spear of Venom</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

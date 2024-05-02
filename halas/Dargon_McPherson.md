@@ -44,7 +44,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Full Bottle of Elixir](/item/13241)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/13241" data-url="13241" class="tooltip-link link">Full Bottle of Elixir</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -66,7 +67,8 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Empty Bottle of Elixir](/item/13245)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/13245" data-url="13245" class="tooltip-link link">Empty Bottle of Elixir</a>) then 
 
 
 >**Dargon McPherson says:** Ye've proven yerself to be a cut above the rest and aided yer fellow warriors, no matter how worthless they were. Ye may take this. It was found in the snow by one of our foraging parties. I hope it can be of use to a warrior like yerself.
@@ -75,18 +77,35 @@ if( **Faction is** > Indifferent and  **You turn in:** [Empty Bottle of Elixir](
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (5)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Leather Boots](/item/2012), [Wrist Pouch](/item/17001), [Copper Band](/item/10004), [Turquoise](/item/10017), [Tattered Cloth Sandal](/item/1038), [Lapis Lazuli](/item/10016), [Corroded Buckler](/item/13877), [Large Patchwork Pants](/item/2135), [Rusty Dagger](/item/7007), [Throwing Axe](/item/8008), [Bead Necklace](/item/10009), [Ration](/item/13007), [Rusty Axe](/item/5014), [Small Lantern](/item/13003), [Black Burrow Stout](/item/13107)) (+125 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2012" data-url="2012" class="tooltip-link link">Leather Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_667.png" alt="" /> <a
+                                href="/item/17001" data-url="17001" class="tooltip-link link">Wrist Pouch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/10004" data-url="10004" class="tooltip-link link">Copper Band</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/10017" data-url="10017" class="tooltip-link link">Turquoise</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_761.png" alt="" /> <a
+                                href="/item/1038" data-url="1038" class="tooltip-link link">Tattered Cloth Sandal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10016" data-url="10016" class="tooltip-link link">Lapis Lazuli</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/13877" data-url="13877" class="tooltip-link link">Corroded Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2135" data-url="2135" class="tooltip-link link">Large Patchwork Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7007" data-url="7007" class="tooltip-link link">Rusty Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_573.png" alt="" /> <a
+                                href="/item/8008" data-url="8008" class="tooltip-link link">Throwing Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/10009" data-url="10009" class="tooltip-link link">Bead Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13007" data-url="13007" class="tooltip-link link">Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_684.png" alt="" /> <a
+                                href="/item/13003" data-url="13003" class="tooltip-link link">Small Lantern</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_827.png" alt="" /> <a
+                                href="/item/13107" data-url="13107" class="tooltip-link link">Black Burrow Stout</a>) (+125 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

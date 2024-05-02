@@ -7,13 +7,17 @@
 
 
 
-if( **You turn in:** [Rabid Kodiak Skin](/item/30266)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/30266" data-url="30266" class="tooltip-link link">Rabid Kodiak Skin</a>) then
 
 
 >**Boridain Glacierbane says:** Yes! I've done it! The vile beast is finally dead. I will at last be revered as the mighty hunter I am. Here is your axe back, I broke it on the killing blow. Take it as proof that you are a friend of the greatest hunter in the history of the Coldain!
 
 
- **You receive:**  [Broken Axe](/item/30267) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/30267" data-url="30267" class="tooltip-link link">Broken Axe</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -27,13 +27,20 @@ end
 
 
 
-if( **You turn in:** [Vallorian Discus Bones](/item/29173), [Vallorian Discus Bones](/item/29173), [Nightmare Cichlid Bones](/item/29171), [Nightmare Cichlid Bones](/item/29171)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/29173" data-url="29173" class="tooltip-link link">Vallorian Discus Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/29173" data-url="29173" class="tooltip-link link">Vallorian Discus Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/29171" data-url="29171" class="tooltip-link link">Nightmare Cichlid Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/29171" data-url="29171" class="tooltip-link link">Nightmare Cichlid Bones</a>) then 
 
 
 >**Ramos Jerwan says:** Ah, you've done quite well. Take this, it's a special gift I recovered from a recent adventure, and I can think of no greater person to keep it than you. Remember if you're in need of fishing supplies, come see us any time.
 
 
- **You receive:**  [Fisherman's Companion](/item/29175) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/29175" data-url="29175" class="tooltip-link link">Fisherman's Companion</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

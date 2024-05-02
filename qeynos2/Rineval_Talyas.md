@@ -27,12 +27,9 @@ end
 local text = "This is not enough. Leave my sight at once!";
 
 
-if( **You turn in:** [Torn, burnt book](/item/19071), [Torn, Frost covered book](/item/19070), platinum = 1000) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18302" data-url="18302" class="tooltip-link link">Book of Scale</a> (+25000 exp)
 
-
->**Rineval Talyas says:** Take this book quickly and tell no one about this.
-
-
- **You receive:**  [Book of Scale](/item/18302) (+25000 exp)
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -26,12 +26,16 @@ end
 
 
 
-if( **You turn in:** [Sarnak Blood](/item/22519)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/22519" data-url="22519" class="tooltip-link link">Sarnak Blood</a>) then 
 
 
 >**Tarerd Gahar says:** Ahh this is exactly what I was looking for. All the information I've gathered from these pools has come from Myrist. Thiran will give you the book I used as a reference. Give him this note so he knows I sent you.
 
 
- **You receive:**  [Note from Tarerd](/item/15958) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/15958" data-url="15958" class="tooltip-link link">Note from Tarerd</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

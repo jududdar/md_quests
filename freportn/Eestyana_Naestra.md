@@ -25,30 +25,35 @@ end
 
 
 
-if( **You turn in:** [A Note](/item/18822)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18822" data-url="18822" class="tooltip-link link">A Note</a>) then
 
 
 >**Eestyana Naestra says:** You must be the young member of the Hall of Truth who was sent by Theron. I am glad to see you avoided any interference. Please take this as a reward for your service.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (10)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-1)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (2)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Courage*](/item/9985) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/9985" data-url="9985" class="tooltip-link link">Spell: Courage*</a> (+500 exp)
 
-elseif( **You turn in:** [A Note](/item/18816)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18816" data-url="18816" class="tooltip-link link">A Note</a>) then
 
 
 >**Eestyana Naestra says:** Thank you, defender of Karana! We have heard rumors of the followers of Bertoxxulous gaining knowledge of our knight who infiltrated the ranks of the [Militia]. They would have tried to sell the information to the Militia. We will inform our knight immediately. As for you, here is a donation to your journey's expenses. Stay clear of the Freeport Militia. There is no doubt they have learned of your alliance with us.
@@ -57,44 +62,52 @@ elseif( **You turn in:** [A Note](/item/18816)) then
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (20)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-3)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (4)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (2)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rusty Morning Star](/item/6016), [Prayer Beads](/item/13296)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6016" data-url="6016" class="tooltip-link link">Rusty Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13296" data-url="13296" class="tooltip-link link">Prayer Beads</a>) (+1000 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18735)) then 
+**You receive coin:** 0-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18735" data-url="18735" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Eestyana Naestra says:** The Truthbringer welcomes you into his life. Here is the tunic of Marr. Wear it with pride and be sure to conduct yourself with valor.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (100)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-15)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-15)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (20)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Faded Purple Tunic*](/item/13554) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13554" data-url="13554" class="tooltip-link link">Faded Purple Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

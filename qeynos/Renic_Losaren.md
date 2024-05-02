@@ -38,25 +38,29 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18715)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18715" data-url="18715" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Renic Losaren says:** Welcome, friend, to the Temple of Thunder. Here, you can practice your skills and learn the ways of Karana. Take this tunic and wear it with pride, for you are now a Priest of Thunder. Guild Trainer Daedet Losaren will begin your tutoring, see him when you are ready.
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (100)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-100)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-100</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (75)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (75)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Old Gray Tunic*](/item/13505) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13505" data-url="13505" class="tooltip-link link">Old Gray Tunic*</a> (+100 exp)
+
+ 
 
 
 

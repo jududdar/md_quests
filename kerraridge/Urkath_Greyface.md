@@ -46,16 +46,20 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Sylvani Leaf](/item/1155)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_911.png" alt="" /> <a
+                                href="/item/1155" data-url="1155" class="tooltip-link link">Sylvani Leaf</a>) then
 
 
 >**Urkath Greyface says:** Errr? This is.. this is silvani leaf! Rrrrrr.. So nice. This means much to Urrkath, furrrless one. Please, take this for such kind work.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (5)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Worn Leather Shoulderpads](/item/2045) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2045" data-url="2045" class="tooltip-link link">Worn Leather Shoulderpads</a> (+500 exp)
+
+ 
 end
 
 

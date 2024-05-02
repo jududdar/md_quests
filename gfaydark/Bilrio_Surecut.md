@@ -44,24 +44,31 @@ end
 
 
 
-if( **You turn in:** [Kilij Plans](/item/12206), [Enchanted Gold Bar](/item/16506), [Enchanted Gold Bar](/item/16506), [Enchanted Gold Bar](/item/16506)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12206" data-url="12206" class="tooltip-link link">Kilij Plans</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/16506" data-url="16506" class="tooltip-link link">Enchanted Gold Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/16506" data-url="16506" class="tooltip-link link">Enchanted Gold Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/16506" data-url="16506" class="tooltip-link link">Enchanted Gold Bar</a>) then
 
 
 >**Bilrio Surecut says:** You have succeeded in your quest for the kilij!! Wield it proudly.
 
 
-* __Faction:__ [Kelethin Merchants](/faction/276) (10)
+Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (1)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (2)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Brazen Brass Kilij](/item/5366) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5366" data-url="5366" class="tooltip-link link">Brazen Brass Kilij</a> (+1500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

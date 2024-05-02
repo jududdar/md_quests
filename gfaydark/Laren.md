@@ -47,7 +47,8 @@ if **Faction** >= Amiable +300 then
 
 
 
-**You receive:**  [Useless Token](/item/12185)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/12185" data-url="12185" class="tooltip-link link">Useless Token</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -74,16 +75,20 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Half Elf Head](/item/12186)) then 
+if **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/12186" data-url="12186" class="tooltip-link link">Half Elf Head</a>) then 
 
 
 >**Laren says:** You have proven yourself to be a worthy Scout of Tunare and as such you are worthy to hold the hilt of a scout blade. Remember, rogues in class are we, but in our chests beats the heart of the forest. Our skills are used in defense of Kelethin and her allies. Next you shall speak to Master Tylfon. He will inform you of the [scout silvermesh leggings].
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (10)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Scouts Blade](/item/7321) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/7321" data-url="7321" class="tooltip-link link">Scouts Blade</a> (+20000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-30 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

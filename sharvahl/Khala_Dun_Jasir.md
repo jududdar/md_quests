@@ -219,23 +219,31 @@ end
 
 
 
-if( **You turn in:** [A Shield Repair Order](/item/29803)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29803" data-url="29803" class="tooltip-link link">A Shield Repair Order</a>) then
 
 
 >**Khala Dun Jasir says:** Well it's about time Barkhem got around to us, and he couldn't even be bothered to come himself. Please get this back to me as soon as you can... you do know that we are here to guard the city, right?
 
 
- **You receive:**  [Jasirs Dented Shield](/item/29807) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29807" data-url="29807" class="tooltip-link link">Jasirs Dented Shield</a> 
+
+ 
 
 
 
-if( **You turn in:** [Jasirs Immaculate Shield](/item/29808)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29808" data-url="29808" class="tooltip-link link">Jasirs Immaculate Shield</a>) then
 
 
 >**Khala Dun Jasir says:** Thank you very much Soandso, and I must apologize for the way I spoke to you earlier. We just got word of some [poachers] out in the Thicket, they really get me angry. In any case, you have done a fine job, worthy of Barkhem himself.
 
 
- **You receive:**  [Jasirs work order](/item/29809) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/29809" data-url="29809" class="tooltip-link link">Jasirs work order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

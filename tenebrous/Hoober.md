@@ -47,7 +47,8 @@ end
 
 
 
-if( **You turn in:** [Elixir of Obsession](/item/5994)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/5994" data-url="5994" class="tooltip-link link">Elixir of Obsession</a>) then
 
 
 >*Hoober struggles as you try to force-feed him the elixir, making you think twice about the wisdom of force-feeding something to a madman. 'I DON'T WANT TO DRINK MY JUICE, MOTHER! NOW GET YOUR HANDS OFF OF ME!' he shouts.*
@@ -56,7 +57,10 @@ if( **You turn in:** [Elixir of Obsession](/item/5994)) then
 **Hoober attacks you.**
 
 
- **You receive:**  [Elixir of Obsession](/item/5994) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/5994" data-url="5994" class="tooltip-link link">Elixir of Obsession</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -20,7 +20,8 @@
 >**Wizard Schrock says:** Neasin it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the mighty wizard Neasin to test you.
 
 
-**You receive:**  [Fire and Ice](/item/18530)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18530" data-url="18530" class="tooltip-link link">Fire and Ice</a>
 
 **You say:** `Abec`
 
@@ -29,7 +30,8 @@
 >**Wizard Schrock says:** Abec it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the mighty wizard Abec to test you.
 
 
-**You receive:**  [Knowledge and Power](/item/18531)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18531" data-url="18531" class="tooltip-link link">Knowledge and Power</a>
 end
 
 
@@ -37,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [Fire and Ice](/item/18530)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18530" data-url="18530" class="tooltip-link link">Fire and Ice</a>) then 
 
 
 >**Wizard Schrock says:** Till next time!  Farewell!
@@ -48,7 +51,8 @@ if( **You turn in:** [Fire and Ice](/item/18530)) then
 
 **Wizard Schrock despawns.**
 
-elseif( **You turn in:** [Knowledge and Power](/item/18531)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18531" data-url="18531" class="tooltip-link link">Knowledge and Power</a>) then 
 
 
 >**Wizard Schrock says:** Till next time!  Farewell!

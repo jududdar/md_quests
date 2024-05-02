@@ -67,12 +67,19 @@ end
 
 
 
-if( **You turn in:** [Tome of Elemental Understanding](/item/31435), [Tome of Elemental Cognizance](/item/31436), [Tome of Elemental Contemplation](/item/31437), [Tome of Elemental Thought](/item/31438) and **Your level** >= 55) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/31435" data-url="31435" class="tooltip-link link">Tome of Elemental Understanding</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/31436" data-url="31436" class="tooltip-link link">Tome of Elemental Cognizance</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/31437" data-url="31437" class="tooltip-link link">Tome of Elemental Contemplation</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/31438" data-url="31438" class="tooltip-link link">Tome of Elemental Thought</a> and **Your level** >= 55) then
 
 
 >*a mosscovered treant whispers, like wind through the tree tops, as it speaks hushed words to the tree.* 
 
 
- **You receive:**  [Chord of Vines](/item/1224) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/1224" data-url="1224" class="tooltip-link link">Chord of Vines</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

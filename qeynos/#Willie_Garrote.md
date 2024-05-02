@@ -15,13 +15,17 @@
 
 
 
-if( **You turn in:** [Confession Document](/item/2344)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/2344" data-url="2344" class="tooltip-link link">Confession Document</a>) then
 
 
 >**Willie Garrote says:** Here's your confession.  I hope you choke on it!
 
 
- **You receive:**  [Willies Confession](/item/2394) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/2394" data-url="2394" class="tooltip-link link">Willies Confession</a> 
+
+ 
 
 
 eq.set_global("invest_badge","third_suspect",3,"F");
@@ -32,7 +36,8 @@ eq.set_global("invest_badge","third_suspect",3,"F");
 
 **Set a timer** named *depop* for 300 seconds
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+**This NPC *should* return incorrect items given.**
+
 ## Timer(s)
   if(e.timer == "depop") then
 

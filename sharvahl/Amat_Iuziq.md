@@ -192,20 +192,31 @@ end
 
 
 
-if( **You turn in:** [Note to Amat](/item/6265)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/6265" data-url="6265" class="tooltip-link link">Note to Amat</a>) then
 
 
 >**Amat Iuziq says:** So friend, I see Jaima is preparing you to deal with the sonic wolves. Have you heard the term 'sonic wolf' used yet? We call them that because of the face they do not use eyes like an ordinary wolf. They have overcome the night by using a sensory system similar to that of a bat. I sure hope we do not turn into such monstrosities over time... Blasted darkness! Well, back to your situation. You have your strainer, I'm sure. Now, you'll need to purchase the Sonic Wilf Bane books from my frien Qua in the other library and read them. Once you've read them, please take this voucher to Arrin Murij at the general mercantile. He will give you the staff that you will need for your weapon. Good luck, friend.
 
 
- **You receive:**  [Supply Voucher](/item/6266) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/6266" data-url="6266" class="tooltip-link link">Supply Voucher</a> 
 
-elseif( **You turn in:** [Cloak of the Dar Khura Apprentice](/item/5544), [Sonic Wolf Bane Spear](/item/6268)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5544" data-url="5544" class="tooltip-link link">Cloak of the Dar Khura Apprentice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/6268" data-url="6268" class="tooltip-link link">Sonic Wolf Bane Spear</a>) then
 
 
 >**Amat Iuziq says:** Well done Soandso!  You have proven your worth and can now be considered a Dar Khura Journeyman!
 
 
- **You receive:** GiveAll( [Cloak of the Dar Khura Journeyman](/item/6267), [Sonic Wolf Bane Spear](/item/6268)) (+10000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/6267" data-url="6267" class="tooltip-link link">Cloak of the Dar Khura Journeyman</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/6268" data-url="6268" class="tooltip-link link">Sonic Wolf Bane Spear</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

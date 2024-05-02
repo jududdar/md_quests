@@ -50,22 +50,30 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>) then
 
 
 >**Kogna says:** No, I donut tink so. Who gived you? Bah, me most tuffest Craknek, but me no lier. Me help you be tuffer Craknek. Who gived you dese? Maybe you finded dead lizards, yes, dat it. Bah, taking dis and kills more tings. You learned much, com see me, I teaches you best Craknek ways. Keep eye on dem Greenbloods, dey nasty and not so tuff.
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (5)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Clurg](/faction/228) (1)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-1)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rusty Two Handed Battle Axe](/item/5025), [Rusty Two Handed Sword](/item/5023)) (+550 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5025" data-url="5025" class="tooltip-link link">Rusty Two Handed Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>) (+550 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

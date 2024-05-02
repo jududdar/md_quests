@@ -40,46 +40,72 @@ end
 
 
 
-if( **You turn in:** [Harpy Statuette](/item/20952), [Finely Woven Cloth Amice](/item/20760), [Large Diamond](/item/20761)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/20952" data-url="20952" class="tooltip-link link">Harpy Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/20760" data-url="20760" class="tooltip-link link">Finely Woven Cloth Amice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20761" data-url="20761" class="tooltip-link link">Large Diamond</a>) then 
 
 
 >**Roanis Elindar says:** Take this.
 
 
- **You receive:**  [Drake-Hide Amice](/item/2708) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2708" data-url="2708" class="tooltip-link link">Drake-Hide Amice</a> (+100000 exp)
+
+ 
 
 
 **Roanis Elindar despawns.**
 
-elseif( **You turn in:** [Carmine Spiroc Feather](/item/20959), [Blood Sky Amethyst](/item/20762), [Golden Efreeti Ring](/item/20763)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20959" data-url="20959" class="tooltip-link link">Carmine Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20762" data-url="20762" class="tooltip-link link">Blood Sky Amethyst</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1040.png" alt="" /> <a
+                                href="/item/20763" data-url="20763" class="tooltip-link link">Golden Efreeti Ring</a>) then 
 
 
 >**Roanis Elindar says:** The ring of Duennan will protect you in times of trouble, mage. Take it and wear it with pride.
 
 
- **You receive:**  [Duennan Shielding Ring](/item/11687) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1052.png" alt="" /> <a
+                                href="/item/11687" data-url="11687" class="tooltip-link link">Duennan Shielding Ring</a> (+100000 exp)
+
+ 
 
 
 **Roanis Elindar despawns.**
 
-elseif( **You turn in:** [Sweet Nectar](/item/20966), [Crown of Elemental Mastery](/item/20764), [Large Opal](/item/20766), [Djinni Stave](/item/20765)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20966" data-url="20966" class="tooltip-link link">Sweet Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_511.png" alt="" /> <a
+                                href="/item/20764" data-url="20764" class="tooltip-link link">Crown of Elemental Mastery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_959.png" alt="" /> <a
+                                href="/item/20766" data-url="20766" class="tooltip-link link">Large Opal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/20765" data-url="20765" class="tooltip-link link">Djinni Stave</a>) then 
 
 
 >**Roanis Elindar says:** Finally you return, Soandso. This staff will aid you, I hope.
 
 
- **You receive:**  [Staff of Elemental Mastery: Air](/item/11568) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/11568" data-url="11568" class="tooltip-link link">Staff of Elemental Mastery: Air</a> (+100000 exp)
+
+ 
 
 
 **Roanis Elindar despawns.**
 
-elseif( **You turn in:** [Efreeti Magi Staff](/item/20870), [Sweet Nectar](/item/20966), [Sphinx Crown](/item/20871), [Hazy Opal](/item/20872)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/20870" data-url="20870" class="tooltip-link link">Efreeti Magi Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20966" data-url="20966" class="tooltip-link link">Sweet Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/20871" data-url="20871" class="tooltip-link link">Sphinx Crown</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20872" data-url="20872" class="tooltip-link link">Hazy Opal</a>) then 
 
 
 >**Roanis Elindar says:** Take this as your reward.
 
 
- **You receive:**  [Staff of the Magister](/item/11650) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/11650" data-url="11650" class="tooltip-link link">Staff of the Magister</a> (+100000 exp)
+
+ 
 
 
 **Roanis Elindar despawns.**

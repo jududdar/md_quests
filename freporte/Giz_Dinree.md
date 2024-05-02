@@ -37,7 +37,8 @@ end
 
 
 
-if( **You turn in:** [A Sealed Letter](/item/18844)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18844" data-url="18844" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Giz Dinree says:** I am glad to see you. We have a problem. The last runner and I attempted to carry the chest from a boat. It fell overboard! He went in after it, but the sharks made a meal of him. If you want to try and get it, it is down below in the water in the harbor. Be careful.

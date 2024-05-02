@@ -65,7 +65,8 @@ end
 
 
 
-if( **You turn in:** [Sealed Letter](/item/18863)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18863" data-url="18863" class="tooltip-link link">Sealed Letter</a>) then 
 
 
 >**Brohan Ironforge says:** Oh! thank you! Now I know she is safe. My sweet Tayla. Here is your reward, as promised. A hero such as yourself deserves a weapon with which to uphold your noble values.
@@ -74,21 +75,34 @@ if( **You turn in:** [Sealed Letter](/item/18863)) then
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (50)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-10)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (7)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (5)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** eq.ChooseRandom( [Combine Long Sword](/item/5303), [Combine Two Handed Sword](/item/5304), [Combine Short Sword](/item/5305), [Combine Scimitar](/item/5313), [Combine Warhammer](/item/6303), [Combine Morning Star](/item/6311), [Combine Great Staff](/item/6312), [Combine Dagger](/item/7300), [Combine Spear](/item/7301), [Combine Rapier](/item/7311), [Combine Gladius](/item/7499)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5303" data-url="5303" class="tooltip-link link">Combine Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5304" data-url="5304" class="tooltip-link link">Combine Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5305" data-url="5305" class="tooltip-link link">Combine Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5313" data-url="5313" class="tooltip-link link">Combine Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_581.png" alt="" /> <a
+                                href="/item/6303" data-url="6303" class="tooltip-link link">Combine Warhammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6311" data-url="6311" class="tooltip-link link">Combine Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6312" data-url="6312" class="tooltip-link link">Combine Great Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7300" data-url="7300" class="tooltip-link link">Combine Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/7301" data-url="7301" class="tooltip-link link">Combine Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7311" data-url="7311" class="tooltip-link link">Combine Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1178.png" alt="" /> <a
+                                href="/item/7499" data-url="7499" class="tooltip-link link">Combine Gladius</a>) (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

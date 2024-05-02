@@ -20,5 +20,6 @@
 >**Meg Tucter says:** Oh, really? There are not many that work in faceting gems. I am surprised to see your interest. You can have this old set of mine. There is no need to return the tools, Talem recently made me a new sturdy set. Brell bless him.
 
 
-**You receive:**  [Etching Tools](/item/8893)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_716.png" alt="" /> <a
+                                href="/item/8893" data-url="8893" class="tooltip-link link">Etching Tools</a>
 end

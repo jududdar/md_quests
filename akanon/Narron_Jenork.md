@@ -33,7 +33,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Watchmans Mail Assembly Kit](/item/17255)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17255" data-url="17255" class="tooltip-link link">Watchmans Mail Assembly Kit</a>
 
 
 **You say:** `helm`
@@ -45,7 +46,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracer`
@@ -57,7 +59,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `armguard`
@@ -69,7 +72,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boots`
@@ -81,7 +85,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `greaves`
@@ -93,7 +98,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlets`
@@ -105,7 +111,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -117,7 +124,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `final task`
@@ -158,59 +166,70 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Clockwork Oil Extract](/item/9111), [Minotaur Tibia](/item/9112), [Young Ebon Drake Ribcage](/item/9113), [Renegade Clockwork Scrapmetal](/item/9114)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/9111" data-url="9111" class="tooltip-link link">Clockwork Oil Extract</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/9112" data-url="9112" class="tooltip-link link">Minotaur Tibia</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_974.png" alt="" /> <a
+                                href="/item/9113" data-url="9113" class="tooltip-link link">Young Ebon Drake Ribcage</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/9114" data-url="9114" class="tooltip-link link">Renegade Clockwork Scrapmetal</a>) then
 
 
 >**Narron Jenork says:** Well done, young Soandso! Since you have brought me the necessary items, I now present you with this Initiate Watchman's Long Sword. Use it worthily.
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (25)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (6)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+6</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (6)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+6</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-6)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-6</span>)
 
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Initiate Watchmans Long Sword](/item/9115) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/9115" data-url="9115" class="tooltip-link link">Initiate Watchmans Long Sword</a> 
 
-elseif( **You turn in:** [Box of Undead Brownie Bones](/item/12378)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12378" data-url="12378" class="tooltip-link link">Box of Undead Brownie Bones</a>) then 
 
 
 >**Narron Jenork says:** Wonderful!! Watchman Dexlin sent word that you would be returning these specimens. I shall see that the Eldritch Collective gets them.  For you there is a reward. Manik has donated a pair of Watchman Boots!!
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (20)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (5)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (5)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-5)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Watchman Boots](/item/12379) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_844.png" alt="" /> <a
+                                href="/item/12379" data-url="12379" class="tooltip-link link">Watchman Boots</a> (+10000 exp)
+
+**You receive coin:** 1-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **This NPC *should* return incorrect items given.**

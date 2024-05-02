@@ -17,7 +17,10 @@
 >**a greater spirit says:** You know trust and patience. But before we can allow you to act in our name, we must know that when you do decide to act, you will make the right choices. We must ask that you now walk the path of wisdom. You must walk to the great plains and search out one of us. He is a wanderer, and it is his nature to drift with the winds and weather doing what he can to ensure understanding and longevity to all that respect their home. He will not be easy to find, though, and you must remember what you have learned down here to succeed in finding him. When you do, give him this gem and follow his instructions.
 
 
- **You receive:**  [A Small Gem](/item/1667) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/1667" data-url="1667" class="tooltip-link link">A Small Gem</a> 
+
+ 
 
 
 **a greater spirit despawns.**

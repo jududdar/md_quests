@@ -18,7 +18,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Death Pact](/item/19203),  [Spell: Upheaval](/item/19205),  [Spell: Yaulp IV](/item/19209),  [Spell: Reckoning](/item/19212)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19203" data-url="19203" class="tooltip-link link">Spell: Death Pact</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19205" data-url="19205" class="tooltip-link link">Spell: Upheaval</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19209" data-url="19209" class="tooltip-link link">Spell: Yaulp IV</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19212" data-url="19212" class="tooltip-link link">Spell: Reckoning</a>}
 
 if(count > 0) then
 
@@ -31,7 +35,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Unswerving Hammer](/item/19210), [Spell: Heroic Bond](/item/19224), [Spell: Sunskin](/item/19420), [Spell: Word of Vigor](/item/19206)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19210" data-url="19210" class="tooltip-link link">Spell: Unswerving Hammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19224" data-url="19224" class="tooltip-link link">Spell: Heroic Bond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19420" data-url="19420" class="tooltip-link link">Spell: Sunskin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19206" data-url="19206" class="tooltip-link link">Spell: Word of Vigor</a>) (+1000 exp)
+
+ 
 
 
 

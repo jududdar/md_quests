@@ -41,7 +41,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Dusty Mail Assembly Kit](/item/17247)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17247" data-url="17247" class="tooltip-link link">Dusty Mail Assembly Kit</a>
 
 
 **You say:** `boots`
@@ -57,7 +58,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `bracers`
@@ -73,7 +75,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `coifs`
@@ -89,7 +92,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `gauntlets`
@@ -105,7 +109,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `legplates`
@@ -121,7 +126,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `sleeves`
@@ -137,7 +143,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `tunics`
@@ -153,7 +160,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 **You say:** `assignment`
@@ -179,7 +187,10 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Aqua Goblin Backbone](/item/28067), [Pristine Skunk Claws](/item/28068), [Pristine Skunk Claws](/item/28068)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/28067" data-url="28067" class="tooltip-link link">Aqua Goblin Backbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/28068" data-url="28068" class="tooltip-link link">Pristine Skunk Claws</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/28068" data-url="28068" class="tooltip-link link">Pristine Skunk Claws</a>) then
 
 
 >**Crovsar Dirkbringer says:** Ah thank ye Soandso. Here is yer minin pick.
@@ -188,7 +199,10 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Aqua Goblin Backbone](/item/2806
 
 
 
- **You receive:**  [Sharpened Mining Pick](/item/26078) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/26078" data-url="26078" class="tooltip-link link">Sharpened Mining Pick</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

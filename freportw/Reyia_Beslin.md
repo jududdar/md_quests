@@ -128,41 +128,54 @@ local text2 = "Quite impressive, Soandso. Keep up the good work and you will sur
 
 
 
-if **Faction** >= Amiable +125 and  **You turn in:** [Greater Lightstone](/item/10400), [Cutthroat Insignia Ring](/item/1903), [Legionnaire's Bracer](/item/2299), [Yellow Sash of Order](/item/10131)) then
+if **Faction** >= Amiable +125 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10400" data-url="10400" class="tooltip-link link">Greater Lightstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_674.png" alt="" /> <a
+                                href="/item/1903" data-url="1903" class="tooltip-link link">Cutthroat Insignia Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2299" data-url="2299" class="tooltip-link link">Legionnaire's Bracer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_933.png" alt="" /> <a
+                                href="/item/10131" data-url="10131" class="tooltip-link link">Yellow Sash of Order</a>) then
 
 
 >**Reyia Beslin says:** You have proven yourself a mighty warrior. I am honored to present you, Soandso, with the orange Sash of Order.
 
 
-* __Faction:__ [Ashen Order](/faction/361) (50)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (7)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (2)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Orange Sash of Order](/item/10132) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_934.png" alt="" /> <a
+                                href="/item/10132" data-url="10132" class="tooltip-link link">Orange Sash of Order</a> (+300 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable +175 and  **You turn in:** [Blackened Wand](/item/13237), [Blackened Sapphire](/item/13238), [Orange Sash of Order](/item/10132)) then
+elseif **Faction** >= Amiable +175 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/13237" data-url="13237" class="tooltip-link link">Blackened Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/13238" data-url="13238" class="tooltip-link link">Blackened Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_934.png" alt="" /> <a
+                                href="/item/10132" data-url="10132" class="tooltip-link link">Orange Sash of Order</a>) then
 
 
 >**Reyia Beslin says:** Great job, Soandso ! Congratulations. With the destruction of these evil items, the wand of the Burning Dead will never bring harm to anyone on Norrath again. It is my honor to present to you, on behalf of Master Closk and the Ashen Order, the red sash. May Quellious be with you always.
 
 
-* __Faction:__ [Ashen Order](/faction/361) (75)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (11)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+11</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (3)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Red Sash of Order](/item/10133) (+400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10133" data-url="10133" class="tooltip-link link">Red Sash of Order</a> (+400 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

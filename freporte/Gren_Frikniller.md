@@ -39,7 +39,8 @@ if **Faction** >= Dubious then
 
 
 
-**You receive:**  [Letter to Falia](/item/18925)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18925" data-url="18925" class="tooltip-link link">Letter to Falia</a>
 
 
 else
@@ -75,7 +76,8 @@ end
 
 
 
-if( **You turn in:** [Broken Heirloom Necklace](/item/13159)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1147.png" alt="" /> <a
+                                href="/item/13159" data-url="13159" class="tooltip-link link">Broken Heirloom Necklace</a>) then
 
 
 >**Gren Frikniller says:** What's this? Oh, ol' Grandpa Frikniller's lucky necklace, huh? I'll bet this broken piece of junk won't even get me a sip of ale up at the bar. And lucky? How lucky could this thing be? Poor gramps was lonely and copperless his whole life. Bah!! Oh, well. Here's some coin for your efforts, thanks, Soandso.
@@ -84,22 +86,24 @@ if( **You turn in:** [Broken Heirloom Necklace](/item/13159)) then
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (10)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (10)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (1)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+200 exp)
+ &#127873; **You receive:** 0 (+200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

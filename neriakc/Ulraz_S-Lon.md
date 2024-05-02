@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Request Parchment](/item/19584)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19584" data-url="19584" class="tooltip-link link">Request Parchment</a>
 
 
 **You say:** `task`
@@ -71,65 +72,82 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Leathered Zombie Flesh](/item/19574), [Petrified Humerus](/item/16197), [Petrified Rib](/item/19554)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_924.png" alt="" /> <a
+                                href="/item/19574" data-url="19574" class="tooltip-link link">Leathered Zombie Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/16197" data-url="16197" class="tooltip-link link">Petrified Humerus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/19554" data-url="19554" class="tooltip-link link">Petrified Rib</a>) then
 
 
 >**Ulraz S-Lon says:** Well, you're not completely useless, afterall. Take this sword and sharpen it. Then, return it to me.
 
 
- **You receive:**  [Rough Sword Blade](/item/19572) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/19572" data-url="19572" class="tooltip-link link">Rough Sword Blade</a> 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Sword Blade](/item/19573)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/19573" data-url="19573" class="tooltip-link link">Sharpened Sword Blade</a>) then
 
 
 >**Ulraz S-Lon says:** I'm surprised, I really am. I didn't think somebody like you could pull it off. Here, take this before I change my mind.
 
 
-* __Faction:__ [The Dead](/faction/239) (15)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (2)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-2)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-2)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-2)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-30)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-30</span>)
 
 
- **You receive:**  [Bone Hilted Long Sword](/item/19607) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/19607" data-url="19607" class="tooltip-link link">Bone Hilted Long Sword</a> (+1000 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Petrified Femur](/item/19570), [Petrified Femur](/item/19570), [Petrified Femur](/item/19570), [Petrified Femur](/item/19570)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19570" data-url="19570" class="tooltip-link link">Petrified Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19570" data-url="19570" class="tooltip-link link">Petrified Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19570" data-url="19570" class="tooltip-link link">Petrified Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19570" data-url="19570" class="tooltip-link link">Petrified Femur</a>) then
 
 
 >*Ulraz S-Lon fashions the petrified femurs into a shield frame. This will be the frame of your new shield. Return now again to the Nektulos Forest, in the gray ashen region of the forest near the Lavastorm mountains the basilisks often come down from the fiery peaks to lay their eggs in the ashen soil. Basilisk hatchlings can be found there as they make their way towards the warmer interior of the mountains. Hunt these basilisk hatchlings and gather two Basilisk Hatchling Skins. Once this is done take the skins and frame to Medron Y'Lask at the Furrier Royale.*
 
 
-* __Faction:__ [The Dead](/faction/239) (15)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (2)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-2)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-2)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-2)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-30)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-30</span>)
 
 
- **You receive:**  [Petrified Femur Shield Frame](/item/19571) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_805.png" alt="" /> <a
+                                href="/item/19571" data-url="19571" class="tooltip-link link">Petrified Femur Shield Frame</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

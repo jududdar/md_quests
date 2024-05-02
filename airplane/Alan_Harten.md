@@ -34,31 +34,49 @@ end
 
 
 
-if( **You turn in:** [Ochre Tessera](/item/20933), [Silver Hoop](/item/20807), [Sky Emerald](/item/20806)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20933" data-url="20933" class="tooltip-link link">Ochre Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_544.png" alt="" /> <a
+                                href="/item/20807" data-url="20807" class="tooltip-link link">Silver Hoop</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/20806" data-url="20806" class="tooltip-link link">Sky Emerald</a>) then
 
 
 
 >**Alan Harten says:** Your deeds impress even me, Soandso.
 
 
- **You receive:**  [Truewind Earring](/item/14563) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/14563" data-url="14563" class="tooltip-link link">Truewind Earring</a> (+100000 exp)
 
-elseif( **You turn in:** [Dark Wood](/item/20808), [Gold Disc](/item/20939), [Small Shield](/item/20809)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/20808" data-url="20808" class="tooltip-link link">Dark Wood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/20939" data-url="20939" class="tooltip-link link">Gold Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/20809" data-url="20809" class="tooltip-link link">Small Shield</a>) then 
 
 
 >**Alan Harten says:** This shield shall protect you as your faith has in the past. Take it.
 
 
- **You receive:**  [Aegis of the Wind](/item/27716) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_758.png" alt="" /> <a
+                                href="/item/27716" data-url="27716" class="tooltip-link link">Aegis of the Wind</a> (+100000 exp)
 
-elseif( **You turn in:** [Adumbrate Globe](/item/20946), [Faintly Glowing Diamond](/item/20810), [Shiny Pauldrons](/item/20811)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20946" data-url="20946" class="tooltip-link link">Adumbrate Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20810" data-url="20810" class="tooltip-link link">Faintly Glowing Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/20811" data-url="20811" class="tooltip-link link">Shiny Pauldrons</a>) then
 
 
 
 >**Alan Harten says:** You deserve these pauldrons, Soandso.
 
 
- **You receive:**  [Pauldrons of Piety](/item/27717) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/27717" data-url="27717" class="tooltip-link link">Pauldrons of Piety</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

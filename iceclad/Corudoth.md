@@ -44,12 +44,16 @@ end
 
 
 
-if( **You turn in:** [Inscribed Velium Tablet](/item/1710)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1710" data-url="1710" class="tooltip-link link">Inscribed Velium Tablet</a>) then 
 
 
 >*Corudoth curses and goes into a fit of frustration before finally giving in. The ancient sea turtle finally says, 'Fine. I don't know what Helssen wants with that but I know where you can find it. Years and years back I traveled with a group was called the Icy Mugs. We were a mercenary company out for fun and profit, and there was plenty of that. During our adventures we ran across a great many foes.'*
 
 
- **You receive:**  [Lock of Dwarven Hair](/item/1711) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1001.png" alt="" /> <a
+                                href="/item/1711" data-url="1711" class="tooltip-link link">Lock of Dwarven Hair</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

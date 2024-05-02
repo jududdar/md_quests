@@ -42,51 +42,64 @@ local text2 = "If you want the [Fertile Crop] druid spell, I must insist that yo
 
 
 
-if( **You turn in:** [Mantrap Root](/item/12960), [A Tump Stump](/item/12955), [A Tump Stump](/item/12958)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_583.png" alt="" /> <a
+                                href="/item/12960" data-url="12960" class="tooltip-link link">Mantrap Root</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/12955" data-url="12955" class="tooltip-link link">A Tump Stump</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/12958" data-url="12958" class="tooltip-link link">A Tump Stump</a>) then
 
 
 >*Shrub Marwood tosses the mantrap root out the window.. SPLASH!! 'I made a mistake. I didn't need that one. Here is the shillelagh I told you about. I found it in some burned out woods far from here. I cleaned it up and found it had a spark of mana so I had it enchanted with a few charges of my spell, [Fertile Crop]. Hope you like it.'*
 
 
-* __Faction:__ [Inhabitants of Firiona Vie](/faction/248) (5)
+Your faction standing with [Inhabitants of Firiona Vie](/faction/248) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (3)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Storm Guard](/faction/312) (3)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (-1)
+Your faction standing with [Legion of Cabilis](/faction/441) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Pirates of Gunthak](/faction/313) (-1)
+Your faction standing with [Pirates of Gunthak](/faction/313) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dark Oak Shillelagh](/item/12953) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/12953" data-url="12953" class="tooltip-link link">Dark Oak Shillelagh</a> (+25000 exp)
 
-if( **You turn in:** [A Farsight Crystal](/item/11579), [Pouch of Dust](/item/12753), [Strathbone Silk](/item/12957), [Shaman Powder](/item/12959)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/11579" data-url="11579" class="tooltip-link link">A Farsight Crystal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/12753" data-url="12753" class="tooltip-link link">Pouch of Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/12957" data-url="12957" class="tooltip-link link">Strathbone Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12959" data-url="12959" class="tooltip-link link">Shaman Powder</a>) then
 
 
 >**Shrub Marwood says:** Great work! I wish I had the coin to hire you on permanently. Maybe I will, when I find the lost trade city of Torsis. Here is the spell I copied for you. Careful, the ink is still drying.
 
 
-* __Faction:__ [Inhabitants of Firiona Vie](/faction/248) (5)
+Your faction standing with [Inhabitants of Firiona Vie](/faction/248) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (3)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Storm Guard](/faction/312) (3)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (-1)
+Your faction standing with [Legion of Cabilis](/faction/441) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Pirates of Gunthak](/faction/313) (-1)
+Your faction standing with [Pirates of Gunthak](/faction/313) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Fertile Crop](/item/12954) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12954" data-url="12954" class="tooltip-link link">Fertile Crop</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

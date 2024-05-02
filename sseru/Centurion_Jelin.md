@@ -26,28 +26,29 @@ end
 
 
 
-if( **You turn in:** [Tattered Letter](/item/6269)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/6269" data-url="6269" class="tooltip-link link">Tattered Letter</a>) then
 
 
 >*Centurion Jelin looks at you puzzled and takes the letter and reads it. 'Oh I am so glad that he is alive! I am happy that you took the time to ease my worries about him. I shall let the people of this town know that you come with good intentions. For now I will rest for I have not slept in days.*
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (10)
+Your faction standing with [Citizens of Seru](/faction/1499) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (1)
+Your faction standing with [Hand of Seru](/faction/1484) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (1)
+Your faction standing with [Heart of Seru](/faction/1486) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (1)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (-5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got worse (<span class='text-danger'>-5</span>)
 
 
 **Centurion Jelin despawns.**

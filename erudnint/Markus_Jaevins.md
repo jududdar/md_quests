@@ -43,50 +43,32 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18728)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18728" data-url="18728" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Markus Jaevins says:** Welcome. young one! I see you show interest in the circle of magic. Nowhere upon Norrath will you find a greater school than this - the Gatecallers. You shall wear this tunic as a sign that you have begun the training of this circle. Remember. the power of the Gatecaller is the power of summoning. Go find Vasile. he will help teach you the basics of summoning. Good luck, friend!
 
 
-* __Faction:__ [Gate Callers](/faction/254) (100)
+Your faction standing with [Gate Callers](/faction/254) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (15)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (10)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-15)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Old Torn Robe*](/item/13548) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_838.png" alt="" /> <a
+                                href="/item/13548" data-url="13548" class="tooltip-link link">Old Torn Robe*</a> (+20 exp)
 
-elseif( **You turn in:** [Bones](/item/13127)) then 
+ 
 
-
->**Markus Jaevins says:** This is fine work, young one. You keep this up and you shall be knighted before long.
-
-
-
-
-
-* __Faction:__ [Gate Callers](/faction/254) (25)
-
-
-* __Faction:__ [High Guard of Erudin](/faction/267) (3)
-
-
-* __Faction:__ [High Council of Erudin](/faction/266) (2)
-
-
-* __Faction:__ [Heretics](/faction/265) (-3)
-
-
- **You receive:** 0 (+500 exp)
-
-elseif( **You turn in:** [Bones](/item/13128)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13127" data-url="13127" class="tooltip-link link">Bones</a>) then 
 
 
 >**Markus Jaevins says:** This is fine work, young one. You keep this up and you shall be knighted before long.
@@ -95,19 +77,47 @@ elseif( **You turn in:** [Bones](/item/13128)) then
 
 
 
-* __Faction:__ [Gate Callers](/faction/254) (50)
+Your faction standing with [Gate Callers](/faction/254) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (7)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (5)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-7)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13128" data-url="13128" class="tooltip-link link">Bones</a>) then 
+
+
+>**Markus Jaevins says:** This is fine work, young one. You keep this up and you shall be knighted before long.
+
+
+
+
+
+Your faction standing with [Gate Callers](/faction/254) got better (<span class='text-success'>+50</span>)
+
+
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+7</span>)
+
+
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+5</span>)
+
+
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-7</span>)
+
+
+ &#127873; **You receive:** 0 (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

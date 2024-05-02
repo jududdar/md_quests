@@ -5,24 +5,28 @@
 
 
 
-if( **You turn in:** [Frozen Elixir](/item/30138)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1160.png" alt="" /> <a
+                                href="/item/30138" data-url="30138" class="tooltip-link link">Frozen Elixir</a>) then
 
 
 >**Tain Hammerfrost says:** I will report your selfless actions when I return to Thurgadin. Take this for your troubles, friend. I hope you find it useful. Fare thee well.
 
 
-* __Faction:__ [Coldain](/faction/406) (10)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (2)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-5)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Coldain Smithing Hammer](/item/30140) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/30140" data-url="30140" class="tooltip-link link">Coldain Smithing Hammer</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

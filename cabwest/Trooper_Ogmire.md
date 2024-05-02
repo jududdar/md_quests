@@ -14,14 +14,18 @@ end
 
 
 
-if( **You turn in:** [Legion Order](/item/18245)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18245" data-url="18245" class="tooltip-link link">Legion Order</a>) then 
 
 
 
 >*Trooper Ogmire signs the order and hands it back to you.*
 
 
- **You receive:**  [Legion Order](/item/18246) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18246" data-url="18246" class="tooltip-link link">Legion Order</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

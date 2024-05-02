@@ -24,7 +24,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Cripple](/item/19269),  [Spell: Spirit of Scale](/item/19238),  [Spell: Talisman of Jasinth](/item/19264),  [Spell: Cannibalize III](/item/19272)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19269" data-url="19269" class="tooltip-link link">Spell: Cripple</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19238" data-url="19238" class="tooltip-link link">Spell: Spirit of Scale</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19264" data-url="19264" class="tooltip-link link">Spell: Talisman of Jasinth</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19272" data-url="19272" class="tooltip-link link">Spell: Cannibalize III</a>}
 
 if(count > 0) then
 
@@ -37,7 +41,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Talisman of Shadoo](/item/19267), [Spell: Shroud of the Spirits](/item/19271), [Spell: Torrent of Poison](/item/19274), [Spell: Insidious Decay](/item/19266)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19267" data-url="19267" class="tooltip-link link">Spell: Talisman of Shadoo</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19271" data-url="19271" class="tooltip-link link">Spell: Shroud of the Spirits</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19274" data-url="19274" class="tooltip-link link">Spell: Torrent of Poison</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19266" data-url="19266" class="tooltip-link link">Spell: Insidious Decay</a>) (+1000 exp)
+
+ 
 
 
 

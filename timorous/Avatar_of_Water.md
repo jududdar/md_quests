@@ -10,13 +10,17 @@
 
 
 
-if( **You turn in:** [Orb of the Triumvirate](/item/28023)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/28023" data-url="28023" class="tooltip-link link">Orb of the Triumvirate</a>) then 
 
 
 >*Avatar of Water takes the orb from you. The avatar has determined that you are worthy!*
 
 
- **You receive:**  [Water Sprinkler of Nem Ankh](/item/5532) (+200000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/5532" data-url="5532" class="tooltip-link link">Water Sprinkler of Nem Ankh</a> (+200000 exp)
+
+ 
 
 
 **Avatar of Water despawns.**

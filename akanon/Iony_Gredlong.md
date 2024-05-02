@@ -31,7 +31,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Holy Assembly Kit](/item/17253)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17253" data-url="17253" class="tooltip-link link">Holy Assembly Kit</a>
 
 
 **You say:** `various items`
@@ -51,7 +52,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracer`
@@ -63,7 +65,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `boots`
@@ -75,7 +78,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `armguards`
@@ -87,7 +91,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `greaves`
@@ -99,7 +104,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlets`
@@ -111,7 +117,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -123,7 +130,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `final favor`
@@ -164,37 +172,48 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Flawless Harpy Claw](/item/9105), [Flawless Harpy Claw](/item/9105), [Flawless Harpy Claw](/item/9105), [Ebon Drake Backbone](/item/9106)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/9105" data-url="9105" class="tooltip-link link">Flawless Harpy Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/9105" data-url="9105" class="tooltip-link link">Flawless Harpy Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/9105" data-url="9105" class="tooltip-link link">Flawless Harpy Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/9106" data-url="9106" class="tooltip-link link">Ebon Drake Backbone</a>) then
 
 
 >**Iony Gredlong says:** Thank you! Here, take this staff and good luck on your journey.
 
 
- **You receive:**  [Walking Staff of the Shortnoble](/item/9107) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/9107" data-url="9107" class="tooltip-link link">Walking Staff of the Shortnoble</a> 
+
+ 
 
 
-elseif( **You turn in:** [A tattered note](/item/18775)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18775" data-url="18775" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Iony Gredlong says:** Welcome to the Abbey of Deep Musing.  Here you can train and raise your abilities to the peak of perfection. Take this tunic and wear it with pride.
 
 
-* __Faction:__ [Deepmuses](/faction/240) (100)
+Your faction standing with [Deepmuses](/faction/240) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (15)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (15)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-15)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-15</span>)
 
 
 
- **You receive:**  [Worn Felt Tunic*](/item/13517) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13517" data-url="13517" class="tooltip-link link">Worn Felt Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -37,7 +37,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Full Potion of Marr](/item/12127)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12127" data-url="12127" class="tooltip-link link">Full Potion of Marr</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -68,7 +69,10 @@ end
 local text = "The arangement was for three shark bones and 10 gold coins";
 
 
-if( **You turn in:** [Shark Bones](/item/12126), [Shark Bones](/item/12126), [Shark Bones](/item/12126), gold = 10) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/12126" data-url="12126" class="tooltip-link link">Shark Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/12126" data-url="12126" class="tooltip-link link">Shark Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/12126" data-url="12126" class="tooltip-link link">Shark Bones</a>, gold = 10) then
 
 
 >**Serna Tasknon says:** I thank you for your ten gold coins. Now we can pay the weekly oxygen tax imposed by the militia. Here is the shark powder.
@@ -77,18 +81,22 @@ if( **You turn in:** [Shark Bones](/item/12126), [Shark Bones](/item/12126), [Sh
 
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (1)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Shark Powder](/item/12125) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12125" data-url="12125" class="tooltip-link link">Shark Powder</a> (+100 exp)
 
-elseif( **You turn in:** [Inert Potion](/item/13983)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/13983" data-url="13983" class="tooltip-link link">Inert Potion</a>) then
 
 
 >**Serna Tasknon says:** I see Tonmerk has found a use for my shark powder. We agreed to this trade when last we met. Unfortunately, I am out of it. If you desire the shark powder you will have to get me three shark bones. I wish you luck. Oh. I also require a payment of ten gold pieces. The taxes in Freeport are fierce.
@@ -97,32 +105,38 @@ elseif( **You turn in:** [Inert Potion](/item/13983)) then
 
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (5)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
 
-elseif( **You turn in:** [Empty Potion of Marr](/item/12135)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12135" data-url="12135" class="tooltip-link link">Empty Potion of Marr</a>) then
 
 
 >**Serna Tasknon says:** The Sentries of Passion informed me of your journey to the Ocean of Tears and the demise of Sentry Xyrin. You performed beyond the call of duty. This is what makes an exceptional person. Take this for your great deed. The twin deities would wish it so.
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (5)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Divine Aura](/item/15207) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15207" data-url="15207" class="tooltip-link link">Spell: Divine Aura</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

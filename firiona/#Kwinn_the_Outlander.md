@@ -26,20 +26,25 @@
 >*Kwinn the Outlander takes out an extra pack. 'Thought you might be interested. I don't want to take a loss and I only trade for things I am hunting, so here!! Inside this pack you need to combine the following items; a sabertooth tiger mane, a pair of pygmy brute choppers, a lime plume and a war bone fist. Return the full sack to me and the tail is yours.'*
 
 
-**You receive:**  [Empty Pack from Kwinn](/item/17038)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17038" data-url="17038" class="tooltip-link link">Empty Pack from Kwinn</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Full Kwinn Pack](/item/12828)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12828" data-url="12828" class="tooltip-link link">Full Kwinn Pack</a>) then
 
 
 >**Kwinn the Outlander says:** Kackling Quellious!! This will bring a fortune on the black market!! Well, a deal is a deal. Here is the tail.
 
 
- **You receive:**  [A Mechanical Iksar Tail](/item/12822) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12822" data-url="12822" class="tooltip-link link">A Mechanical Iksar Tail</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

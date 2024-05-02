@@ -32,7 +32,8 @@ end
 
 
 
-if( **You turn in:** [Water Flask](/item/13006)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>) then
 
 
 >**Elder Glanoxx says:** Are you here for them... are you here to release us?

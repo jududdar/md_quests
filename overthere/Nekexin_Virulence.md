@@ -18,13 +18,20 @@ end
 
 
 
-if( **You turn in:** [Froglok Essence](/item/20696), [Green Tree Bark](/item/20686), [Pure Lakewater](/item/20685), [Pod of Seawater](/item/20687)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/20696" data-url="20696" class="tooltip-link link">Froglok Essence</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1233.png" alt="" /> <a
+                                href="/item/20686" data-url="20686" class="tooltip-link link">Green Tree Bark</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/20685" data-url="20685" class="tooltip-link link">Pure Lakewater</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/20687" data-url="20687" class="tooltip-link link">Pod of Seawater</a>) then
 
 
 >*Nekexin Virulence stares at the swirling bottle of essence. His eyes open wide as he realizes what it is. As its warm bright waves wash over him his skin dissolves into a green goo that coats the ground. From his remains a floating white ball is retrieved.*
 
 
- **You receive:**  [Cleansed Spirit of Kunark](/item/20699) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/20699" data-url="20699" class="tooltip-link link">Cleansed Spirit of Kunark</a> 
+
+ 
 
 
 **Nekexin Virulence despawns.**

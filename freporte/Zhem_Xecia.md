@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Jerra Renlock](/item/19844)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19844" data-url="19844" class="tooltip-link link">Note to Jerra Renlock</a>
 
 
 **You say:** `further instruction`
@@ -39,22 +40,26 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Ulia Yovar's Head](/item/19933)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_983.png" alt="" /> <a
+                                href="/item/19933" data-url="19933" class="tooltip-link link">Ulia Yovar's Head</a>) then
 
 
 >**Zhem Xecia says:** I see your mission was a success. Take this Rough Dismal Flail and refine it in forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done take the Refined Dismal Flail and a Giant Rattlesnake Skin to Jerra Renlock. She will put the finishing touches on your new weapon.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (10)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (2)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Rough Dismal Flail](/item/19922) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/19922" data-url="19922" class="tooltip-link link">Rough Dismal Flail</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

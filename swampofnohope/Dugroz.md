@@ -32,13 +32,18 @@ end
 
 
 
-if( **You turn in:** [Xalgozian Fang](/item/7236), [Jade Chokidai Prod](/item/7256)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/7236" data-url="7236" class="tooltip-link link">Xalgozian Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7256" data-url="7256" class="tooltip-link link">Jade Chokidai Prod</a>) then
 
 
 e.self:Say("My thanks to you, Soandso. Take this key
 
 
- **You receive:**  [Key to Charasis](/item/20600) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/20600" data-url="20600" class="tooltip-link link">Key to Charasis</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

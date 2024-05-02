@@ -133,5 +133,6 @@ end
 if(e.self:GetGrid() > 20 and e.self:GetGrid() < 26 and e.wp == 1) then
 
 
-**Spawns on ground:**  [A Sealed Letter](/item/18802) at location.
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18802" data-url="18802" class="tooltip-link link">A Sealed Letter</a> at location.
 end

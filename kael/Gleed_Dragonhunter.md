@@ -77,24 +77,28 @@ end
 
 
 
-if( **Faction is** > Apprehensive and  **You turn in:** [Vluudeens Tail](/item/25137)) then
+if( **Faction is** > Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/25137" data-url="25137" class="tooltip-link link">Vluudeens Tail</a>) then
 
 
 >**Gleed Dragonhunter says:** My, you do have a hunters spirit! If you could track down Vluudeen and slay him without the aid of my bow, you must be worthy. Take the bow, huntsman. Use it to slay others of Vluudeen's kind.
 
 
-* __Faction:__ [Kromrif](/faction/419) (35)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+35</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (8)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+8</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-17)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-17</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-3)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Bow of the Huntsman](/item/25033) (+35000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/25033" data-url="25033" class="tooltip-link link">Bow of the Huntsman</a> (+35000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

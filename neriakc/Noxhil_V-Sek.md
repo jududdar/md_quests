@@ -25,7 +25,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Empty Box](/item/17930)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17930" data-url="17930" class="tooltip-link link">Empty Box</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -56,7 +57,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Empty Chest](/item/17932)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17932" data-url="17932" class="tooltip-link link">Empty Chest</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -98,76 +100,99 @@ local text = "I was expecting a mammoth tusk and the combined beetle eye box!";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Box of Beetle Eyes](/item/13389)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/13389" data-url="13389" class="tooltip-link link">Box of Beetle Eyes</a>) then
 
 
 >**Noxhil V-Sek says:** Fantastic work, my child! We shall store these for further experiments. Take this as extra payment for a fine job. You have done so well I believe you can assist in obtaining two [other components].
 
 
-* __Faction:__ [The Dead](/faction/239) (10)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-1)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-1)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
 
 
 if(randomloot == 1) then
 
 
 
- **You receive:** GiveAll( [Neriak Nectar](/item/13021), [Rotgrub Rye](/item/13022)) (+17150 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_825.png" alt="" /> <a
+                                href="/item/13021" data-url="13021" class="tooltip-link link">Neriak Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_832.png" alt="" /> <a
+                                href="/item/13022" data-url="13022" class="tooltip-link link">Rotgrub Rye</a>) (+17150 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 6 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 elseif(randomloot == 2) then
 
 
 
- **You receive:** GiveAll( [Neriak Nectar](/item/13021), [Neriak Nectar](/item/13021), [Rotgrub Rye](/item/13022), [Rotgrub Rye](/item/13022)) (+17150 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_825.png" alt="" /> <a
+                                href="/item/13021" data-url="13021" class="tooltip-link link">Neriak Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_825.png" alt="" /> <a
+                                href="/item/13021" data-url="13021" class="tooltip-link link">Neriak Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_832.png" alt="" /> <a
+                                href="/item/13022" data-url="13022" class="tooltip-link link">Rotgrub Rye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_832.png" alt="" /> <a
+                                href="/item/13022" data-url="13022" class="tooltip-link link">Rotgrub Rye</a>) (+17150 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 6 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 elseif(randomloot == 3) then
 
 
 
- **You receive:** 0 (+17150 exp)
+ &#127873; **You receive:** 0 (+17150 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 6 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Beetle Eye Chest](/item/13395), [Mammoth Tusks](/item/10124)) then 
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/13395" data-url="13395" class="tooltip-link link">Beetle Eye Chest</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/10124" data-url="10124" class="tooltip-link link">Mammoth Tusks</a>) then 
 
 
 >**Noxhil V-Sek says:** Excellent work, young one! You are sure to be an asset to our faction. Let us see if we can help you on your journey to power. I believe this can be of assistance to a young necromancer of the Dead.
 
 
-* __Faction:__ [The Dead](/faction/239) (20)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (3)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-3)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-3)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-3)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-40)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-40</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Bind Affinity](/item/15035), [Spell: Convoke Shadow](/item/15362), [Spell: Lifedraw](/item/15445), [Spell: Engulfing Darkness](/item/15355), [Spell: Heat Blood](/item/15360), [Spell: Wave of Enfeeblement](/item/15363)) (+17150 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15035" data-url="15035" class="tooltip-link link">Spell: Bind Affinity</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15362" data-url="15362" class="tooltip-link link">Spell: Convoke Shadow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15445" data-url="15445" class="tooltip-link link">Spell: Lifedraw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15355" data-url="15355" class="tooltip-link link">Spell: Engulfing Darkness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15360" data-url="15360" class="tooltip-link link">Spell: Heat Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15363" data-url="15363" class="tooltip-link link">Spell: Wave of Enfeeblement</a>) (+17150 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

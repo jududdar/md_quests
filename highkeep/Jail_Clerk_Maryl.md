@@ -25,12 +25,16 @@ end
 
 
 
-if( **You turn in:** [A Sealed Note](/item/18935)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18935" data-url="18935" class="tooltip-link link">A Sealed Note</a>) then 
 
 
 >**Jail Clerk Maryl says:** That little halfing has escaped our prison. No doubt he will travel back to the safety of Rivervale. He left this cracked emerald. It appears he must have broken off a piece of it. I believe it belongs in Kaladim. You may take it, but I am sure your master will not be satisfied until you combine the final piece with this one. Of course, first you will have to find Bronin and ask him of the missing emerald shard.
 
 
- **You receive:**  [Cracked Emerald](/item/17927) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/17927" data-url="17927" class="tooltip-link link">Cracked Emerald</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

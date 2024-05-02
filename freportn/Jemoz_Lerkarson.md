@@ -84,7 +84,8 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Damaged Militia Helm](/item/13921)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/13921" data-url="13921" class="tooltip-link link">Damaged Militia Helm</a>) then
 
 
 >**Jemoz Lerkarson says:** Bless you, my child. Marr is grateful, as are we. Here is our thanks. Let it bring you greater strength to defeat the Militia. Go and continue the crusade. Soon you will be strong enough to slay the [true organizer].
@@ -93,44 +94,55 @@ if **Faction** >= Indifferent and  **You turn in:** [Damaged Militia Helm](/item
 **Jemoz Lerkarson casts:** [Light Healing](/spell/17) on target.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (10)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-1)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (2)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Human Head](/item/12142)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/12142" data-url="12142" class="tooltip-link link">Human Head</a>) then
 
 
 >**Jemoz Lerkarson says:** We heard of your assault. We even attempted to slay Lucan. Alas, we failed. You have done your part and as such have earned our thanks. Beware of the Freeport Militia. They will no doubt be on the lookout for you. May Marr protect you. Perhaps you should speak with Valeron Dushire, paladin of the Knights of Truth. He seeks other to slay the fallen knight.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (20)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-3)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (4)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (2)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Furor](/item/15560), [Spell: Root](/item/15230), [Spell: Center](/item/15219), [Spell: Fear](/item/15229), [Spell: Invigor](/item/15222), [Spell: Healing](/item/15012)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15560" data-url="15560" class="tooltip-link link">Spell: Furor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15230" data-url="15230" class="tooltip-link link">Spell: Root</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15219" data-url="15219" class="tooltip-link link">Spell: Center</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15229" data-url="15229" class="tooltip-link link">Spell: Fear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15222" data-url="15222" class="tooltip-link link">Spell: Invigor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15012" data-url="15012" class="tooltip-link link">Spell: Healing</a>) (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

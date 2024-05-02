@@ -27,7 +27,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Sarnak Head Pack](/item/17017)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17017" data-url="17017" class="tooltip-link link">Sarnak Head Pack</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -82,7 +83,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Page of A Tome](/item/18229)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18229" data-url="18229" class="tooltip-link link">A Page of A Tome</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -111,33 +113,43 @@ local text2 = "I shall keep this and you shall get no reward, unless you wield a
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full Pack of Sarnak Heads](/item/12381), [Pawn's Khukri](/item/5120)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12381" data-url="12381" class="tooltip-link link">Full Pack of Sarnak Heads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5120" data-url="5120" class="tooltip-link link">Pawn's Khukri</a>) then 
 
 
 >**Lord Gikzic says:** You have learned to behead your opponents with great precision. Take the khukri of the knave. It shall prove most formidable in combat when wielded by a young crusader. You may now assist us with a [greater concern] than your training.
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (10)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Knave's Khukri](/item/5121) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5121" data-url="5121" class="tooltip-link link">Knave's Khukri</a> (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Magically Locked Tome](/item/12382), [Knave's Khukri](/item/5121)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/12382" data-url="12382" class="tooltip-link link">Magically Locked Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5121" data-url="5121" class="tooltip-link link">Knave's Khukri</a>) then 
 
 
 >**Lord Gikzic says:** You have done as instructed. You are wise to hand this tome to me. It could bring you nothing more than insanity. As your reward, you shall have the squire's khukri. Soon you shall wield the knight's khukri, but that is for another Lord of Pain to decide.
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (10)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Squire's Khukri](/item/5122) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5122" data-url="5122" class="tooltip-link link">Squire's Khukri</a> (+300 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

@@ -54,12 +54,16 @@ end
 
 
 
-if( **You turn in:** [Pirate Grammar Manual](/item/18962)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18962" data-url="18962" class="tooltip-link link">Pirate Grammar Manual</a>) then
 
 
 >*Nilham the Chef looks at you with a gleam in his eye.  'Wow.  Ya actually got one.  Thanks, mate!  Here, you can have my cuffs.  I'm tired of 'em and they're startin' ta chafe.'  He flips through the book with a grin.  'B - Bilgewater.  Barnacle brained blunderhead.  Blast yer ballast...' Nilham happily reads through the book.*
 
 
- **You receive:**  [Ice Forged Shackles](/item/30041) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1235.png" alt="" /> <a
+                                href="/item/30041" data-url="30041" class="tooltip-link link">Ice Forged Shackles</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

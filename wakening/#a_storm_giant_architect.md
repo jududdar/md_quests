@@ -20,24 +20,31 @@ end
 
 
 
-if( **You turn in:** [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872), [Block of Living Granite](/item/24872)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/24872" data-url="24872" class="tooltip-link link">Block of Living Granite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/24872" data-url="24872" class="tooltip-link link">Block of Living Granite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/24872" data-url="24872" class="tooltip-link link">Block of Living Granite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/24872" data-url="24872" class="tooltip-link link">Block of Living Granite</a>) then
 
 
 >**a storm giant architect says:** So you proved to be of value after all, take this for your work. Don't let it go to your head.
 
 
-* __Faction:__ [Kromzek](/faction/448) (2)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (1)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (1)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [A Gigantic Kromzek Pick](/item/24877) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/24877" data-url="24877" class="tooltip-link link">A Gigantic Kromzek Pick</a> (+2500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

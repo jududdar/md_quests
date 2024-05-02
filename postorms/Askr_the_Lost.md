@@ -322,7 +322,8 @@ if ( state == 9 ) then
 
 
 
-**You receive:**  [Askr's Bag of Verity](/item/17192)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17192" data-url="17192" class="tooltip-link link">Askr's Bag of Verity</a>
 
 
 
@@ -375,7 +376,8 @@ e.other:Message(0, RESPONSES[12]);
 
 
 
-**You receive:**  [Askr's Bag of Verity](/item/17192)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17192" data-url="17192" class="tooltip-link link">Askr's Bag of Verity</a>
 
 
 
@@ -410,13 +412,16 @@ local karana = tonumber(eq.get_qglobals(e.other).karana or 0);
 
 
 
-if (  **You turn in:** [Storm Giant Head](/item/28749)  
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1260.png" alt="" /> <a
+                                href="/item/28749" data-url="28749" class="tooltip-link link">Storm Giant Head</a>  
 
 
-or  **You turn in:** [Storm Giant Head](/item/28781)  
+or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1260.png" alt="" /> <a
+                                href="/item/28781" data-url="28781" class="tooltip-link link">Storm Giant Head</a>  
 
 
-or  **You turn in:** [Storm Giant Head](/item/28782)  
+or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1260.png" alt="" /> <a
+                                href="/item/28782" data-url="28782" class="tooltip-link link">Storm Giant Head</a>  
 
 ) then
 
@@ -426,10 +431,13 @@ or  **You turn in:** [Storm Giant Head](/item/28782)
 e.other:Message(0, RESPONSES[5]);
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
-**You receive:**  [Storm Giant Head](/item/11486)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1260.png" alt="" /> <a
+                                href="/item/11486" data-url="11486" class="tooltip-link link">Storm Giant Head</a>
 
 
 SetState(e.other:GetName(), 6);
@@ -439,7 +447,8 @@ headTable[e.other:GetName()] = true;
 
 
 
-if (  **You turn in:** [Askr's Sealed Bag of Verity](/item/11487)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/11487" data-url="11487" class="tooltip-link link">Askr's Sealed Bag of Verity</a>  ) then 
 
 
 
@@ -454,7 +463,9 @@ e.other:Message(0, RESPONSES[11]);
 
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
 
@@ -471,7 +482,8 @@ SetState(e.other:GetName(), 12);
 
 
 
-if (  **You turn in:** [Esoteric Meld](/item/11488)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/11488" data-url="11488" class="tooltip-link link">Esoteric Meld</a>  ) then 
 
 
 
@@ -482,7 +494,9 @@ if ( karana == 1 ) then
 
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
 
@@ -509,7 +523,8 @@ e.other:Message(0, RESPONSES[20]);
 
 
 
-**You receive:**  [Esoteric Meld](/item/11488)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/11488" data-url="11488" class="tooltip-link link">Esoteric Meld</a>
 
 
 

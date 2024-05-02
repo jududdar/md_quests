@@ -32,7 +32,10 @@ if( **You turn in:** platinum = 50) then
 >**Gorth Bearsoul says:** Here ye are.
 
 
- **You receive:**  [Potion of Sorrow](/item/7113) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_585.png" alt="" /> <a
+                                href="/item/7113" data-url="7113" class="tooltip-link link">Potion of Sorrow</a> (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

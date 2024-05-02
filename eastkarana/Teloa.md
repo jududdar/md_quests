@@ -5,7 +5,8 @@
 
 
 
-if( **You turn in:** [Frayed Braided Grass Amulet](/item/20451)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1053.png" alt="" /> <a
+                                href="/item/20451" data-url="20451" class="tooltip-link link">Frayed Braided Grass Amulet</a>) then
 
 
 >*Teloa begins walking toward the gathering spot. 'Follow, friend.'*

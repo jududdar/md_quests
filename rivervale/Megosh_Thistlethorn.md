@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Letter to Bipdo Hargin](/item/19627)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19627" data-url="19627" class="tooltip-link link">Letter to Bipdo Hargin</a>
 
 
 **You say:** `next task`
@@ -55,45 +56,56 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [Halfling Ranger Note](/item/18432)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18432" data-url="18432" class="tooltip-link link">Halfling Ranger Note</a>) then 
 
 
 >**Megosh Thistlethorn says:** Welcome to the Storm Reapers Soandso! Here is a tunic to keep you warm in your travels. Rivervale, our lovely home is facing dangerous times. From both the east and west forces devoted to the evil Gods Bertoxxulous and Innoruuk are corrupting and destroying the wilds of Norrath. Also, the Orcs of Clan Deathfist are waging war on this entire region and gathering lumber and stone for some unknown purpose. We must do our best to preserve the lands and way of life of all Karanas people.
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (100)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (10)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (15)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-15)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Jumjum Sack Tunic*](/item/13541) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13541" data-url="13541" class="tooltip-link link">Jumjum Sack Tunic*</a> (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Orc Lumberjack Axe](/item/19622), [Orc Lumberjack Axe](/item/19622), [Orc Lumberjack Machete](/item/19623), [Orc Lumberjack Machete](/item/19623)) then 
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/19622" data-url="19622" class="tooltip-link link">Orc Lumberjack Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/19622" data-url="19622" class="tooltip-link link">Orc Lumberjack Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/19623" data-url="19623" class="tooltip-link link">Orc Lumberjack Machete</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/19623" data-url="19623" class="tooltip-link link">Orc Lumberjack Machete</a>) then 
 
 
 >**Megosh Thistlethorn says:** Excellent work young Storm Reaper Soandso. Now take this Dull Storm Reaper Machete to a [forge] and sharpen it with a sharpening stone. It may take several attempts to get the blade to an adequate sharpness if you are unfamiliar with the process. Once it is sharpened give it to Bodbin Gimple with a ruined thorn drakeling scales and he will put the finishing touches on what will be a fine weapon!
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (5)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dull Storm Reaper Machete](/item/19624) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/19624" data-url="19624" class="tooltip-link link">Dull Storm Reaper Machete</a> (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

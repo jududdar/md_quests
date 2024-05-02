@@ -42,7 +42,11 @@ end
 if **Faction** >= Apprehensive +42 then 
 
 
-if( **You turn in:** [Corrupted Ghoulbane](/item/14367), [Heart of the Innocent](/item/14368), [Head of the Valiant](/item/14369), [Will of Innoruuk](/item/14370)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/14367" data-url="14367" class="tooltip-link link">Corrupted Ghoulbane</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/14368" data-url="14368" class="tooltip-link link">Heart of the Innocent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/14369" data-url="14369" class="tooltip-link link">Head of the Valiant</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_621.png" alt="" /> <a
+                                href="/item/14370" data-url="14370" class="tooltip-link link">Will of Innoruuk</a>) then 
 
 
 
@@ -50,11 +54,14 @@ if( **You turn in:** [Corrupted Ghoulbane](/item/14367), [Heart of the Innocent]
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (10)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+10</span>)
 
 
 
- **You receive:**  [Lhranc's Token](/item/14384) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/14384" data-url="14384" class="tooltip-link link">Lhranc's Token</a> 
+
+ 
 
 
 

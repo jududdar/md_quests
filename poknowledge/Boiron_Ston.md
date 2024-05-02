@@ -19,7 +19,8 @@ end
 
 
 
-if( **You turn in:** [Boirons Standard](/item/28085)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/28085" data-url="28085" class="tooltip-link link">Boirons Standard</a>) then
 
 
 >*Boiron Ston seems to perk up. 'Ah, 'tis a beauty, is it not? I thank you for its safe return. Perhaps I shall go and visit Elisha after all. Please take this letter to her, so she may be ready for me when I arrive.'*
@@ -28,6 +29,9 @@ if( **You turn in:** [Boirons Standard](/item/28085)) then
 
 
 
- **You receive:**  [Letter to Elisha](/item/28086) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/28086" data-url="28086" class="tooltip-link link">Letter to Elisha</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

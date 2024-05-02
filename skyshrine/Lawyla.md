@@ -44,21 +44,27 @@ end
 
 
 
-if( **You turn in:** [Head of a Kromzek Spy](/item/1897), [Teachings of Relinar](/item/1898), [Scale of Hsagra](/item/1899)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/1897" data-url="1897" class="tooltip-link link">Head of a Kromzek Spy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/1898" data-url="1898" class="tooltip-link link">Teachings of Relinar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/1899" data-url="1899" class="tooltip-link link">Scale of Hsagra</a>) then
 
 
 >**Lawyla says:** Soandso, you are to be commended for your valor and determination in assisting my Kin. Here is the spell that Hsagra died so long ago over. I only ask that each time that you use the sorcery here, that you remember Hsagra in a silent prayer of thanks. For I hope that will help ease Yelinak's still tormented soul from his loss. I bid you farewell. You are welcome amongst our ranks.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (100)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (25)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-50)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-50</span>)
 
 
- **You receive:**  [Spell: Hsagra's Wrath](/item/19470) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19470" data-url="19470" class="tooltip-link link">Spell: Hsagra's Wrath</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -55,7 +55,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Beginners Sewing Kit](/item/17271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17271" data-url="17271" class="tooltip-link link">Beginners Sewing Kit</a>
 
 
 **You say:** `glove`
@@ -67,7 +68,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22588)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22588" data-url="22588" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 **You say:** `sandal`
@@ -79,7 +81,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sandals Pattern](/item/22585)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22585" data-url="22585" class="tooltip-link link">An Enchanted Sandals Pattern</a>
 
 
 **You say:** `bracer`
@@ -91,7 +94,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22584)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22584" data-url="22584" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `cap`
@@ -103,7 +107,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22583)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22583" data-url="22583" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 **You say:** `trouser`
@@ -115,7 +120,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Trousers Pattern](/item/22587)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22587" data-url="22587" class="tooltip-link link">An Enchanted Trousers Pattern</a>
 
 
 **You say:** `sleeve`
@@ -127,7 +133,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22586)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22586" data-url="22586" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `robe`
@@ -139,7 +146,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Robe Pattern](/item/22589)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22589" data-url="22589" class="tooltip-link link">An Enchanted Robe Pattern</a>
 
 
 **You say:** `task`
@@ -157,7 +165,8 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [An Enchanted Book](/item/27431)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/27431" data-url="27431" class="tooltip-link link">An Enchanted Book</a>) then
 
 
 >**Juegile Sohgohm says:** I knew I could rely on Rephas to finish this research for me. We both know that this would not have been possible without your help young Soandso . Please take this dagger as a symbol of your dedication to the Order of Three. Your good deeds will surely be known throughout our guildhouse. Good luck to you!
@@ -166,19 +175,22 @@ if(expansion_flag >= 4.0 and  **You turn in:** [An Enchanted Book](/item/27431))
 
 
 
-* __Faction:__ [Order of Three](/faction/342) (10)
+Your faction standing with [Order of Three](/faction/342) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-2)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dagger of Arcane Order](/item/27495) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/27495" data-url="27495" class="tooltip-link link">Dagger of Arcane Order</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

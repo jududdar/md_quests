@@ -25,7 +25,8 @@ if **Faction** >= Dubious then
 
 
 
-**You receive:**  [Box For Bones](/item/17941)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17941" data-url="17941" class="tooltip-link link">Box For Bones</a>
 
 
 else
@@ -50,7 +51,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [A Tattered Note](/item/18804)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18804" data-url="18804" class="tooltip-link link">A Tattered Note</a>
 
 
 else
@@ -137,7 +139,8 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [A Box of Bones](/item/13882)) then 
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13882" data-url="13882" class="tooltip-link link">A Box of Bones</a>) then 
 
 
 >**Wolten Grafe says:** You have done well. Let it be known to all that you fight for the Rainkeeper. Go and continue the battle.
@@ -146,21 +149,26 @@ if **Faction** >= Dubious and  **You turn in:** [A Box of Bones](/item/13882)) t
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:** eq.ChooseRandom( [Water Flask](/item/13006), [Ration](/item/13007)) (+4500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13007" data-url="13007" class="tooltip-link link">Ration</a>) (+4500 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [A Sealed Letter](/item/18805)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18805" data-url="18805" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 >**Wolten Grafe says:** This is terrible news. It is good you did not find your grave in the catacombs. You completed your mission regardless of the odds of survival. The temple thanks you. We shall still require your service, Knight of Thunder. Events have transpired which put all agents of righteousness in danger. We cannot explain all as yet. Take this note to Freeport. You will give it to Eestyana Naestra at the Hall of Truth. Beware, now. The Shrine of Bertoxxulous now knows of your allegiance. Give me any other item.
@@ -169,21 +177,25 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [A Sealed Letter](/item
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (50)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-50)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (37)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (37)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+37</span>)
 
 
- **You receive:**  [A Note](/item/18822) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18822" data-url="18822" class="tooltip-link link">A Note</a> (+500 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Human Head](/item/13396)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/13396" data-url="13396" class="tooltip-link link">Human Head</a>) then 
 
 
 >**Wolten Grafe says:** We have finally destroyed the Rat King. You have performed a great service to Qeynos. Here is a small reward. Please continue with the work of the Rainkeeper.
@@ -192,21 +204,29 @@ elseif **Faction** >= Dubious and  **You turn in:** [Human Head](/item/13396)) t
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (50)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-50)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (37)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (37)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+37</span>)
 
 
- **You receive:** eq.ChooseRandom( [Patchwork Boots](/item/2112), 2106, 2111, 2104, 2108) (+4900 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2112" data-url="2112" class="tooltip-link link">Patchwork Boots</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2106" data-url="2106" class="tooltip-link link">Patchwork Cloak</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2111" data-url="2111" class="tooltip-link link">Patchwork Pants</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2104" data-url="2104" class="tooltip-link link">Patchwork Tunic</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2108" data-url="2108" class="tooltip-link link">Patchwork Sleeves</a>) (+4900 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Order of Thunder](/item/13288)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 5 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/13288" data-url="13288" class="tooltip-link link">Order of Thunder</a>) then 
 
 
 >**Wolten Grafe says:** Ahh. Drosco's Order of Thunder. You are truly an honorable knight. Many vile people would pay greatly for this medal. I thank you for its return. I shall honor you by rewarding you with a thunder staff. Meant for young clerics and paladins of this temple. Never let it leave your side.
@@ -215,19 +235,22 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Order of Thunder](/ite
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (50)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-50)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (37)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (37)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+37</span>)
 
 
- **You receive:**  [Thunder Staff](/item/6357) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6357" data-url="6357" class="tooltip-link link">Thunder Staff</a> (+2000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

@@ -37,22 +37,32 @@ local bandage = 0;
 
 
 
-if( **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) then
 
 
 bandage=4;
 
-if( **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009), [Bandages](/item/13009)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) then
 
 
 bandage=3;
 
-if( **You turn in:** [Bandages](/item/13009), [Bandages](/item/13009)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) then
 
 
 bandage=2;
 
-if( **You turn in:** [Bandages](/item/13009)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) then
 
 
 bandage=1;
@@ -76,23 +86,23 @@ for i = 1, bandage do
 
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
 

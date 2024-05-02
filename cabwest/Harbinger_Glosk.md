@@ -25,7 +25,8 @@ if **Faction** >= Amiable +100 then
 
 
 
-**You receive:**  [Unfinished Sceptre](/item/12873)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/12873" data-url="12873" class="tooltip-link link">Unfinished Sceptre</a>
 
 
 
@@ -110,14 +111,15 @@ local text = "I await both the sceptre and your revenant skullcap.";
 
 
 
-if( **You turn in:** [Guild Summons](/item/18207)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18207" data-url="18207" class="tooltip-link link">Guild Summons</a>) then 
 
 
 
 >**Harbinger Glosk says:** Another apprentice has reached rebirth. You now have become one with the Brood of Kotiz. We study the ancient writing of Kotiz. Through his writing we have found the power of the dark circles. Listen well to the scholars within this tower and seek the [Keepers Grotto] for knowledge of our spells. This drape shall be the sign to all Iksar that you walk with the Brood. Now go speak with Xydoz.
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (100)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+100</span>)
 
 
 
@@ -128,7 +130,7 @@ if( **You turn in:** [Guild Summons](/item/18207)) then
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (25)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+25</span>)
 
 
 
@@ -142,37 +144,46 @@ if( **You turn in:** [Guild Summons](/item/18207)) then
 
 
 
- **You receive:**  [Drape of the Brood](/item/12407) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_929.png" alt="" /> <a
+                                href="/item/12407" data-url="12407" class="tooltip-link link">Drape of the Brood</a> (+500 exp)
+
+ 
 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Sceptre of Emperor Vekin](/item/12874), [Revenant Skullcap](/item/4265)) then
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/12874" data-url="12874" class="tooltip-link link">Sceptre of Emperor Vekin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4265" data-url="4265" class="tooltip-link link">Revenant Skullcap</a>) then
 
 
 >*Harbinger Glosk presents to you a glowing skullcap. 'This is the treasured cap of the sorcerers of this tower. Let all gaze upon you in awe. You are what others aspire to be. I look forward to reading of your adventures, Sorceror Soandso.'*
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (10)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Sorcerer Skullcap](/item/4266) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4266" data-url="4266" class="tooltip-link link">Sorcerer Skullcap</a> (+10000 exp)
 
-
-
-
-
-
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 
 
 
-elseif( **You turn in:** [Illegible Note: Boots](/item/14794)) then
+
+
+
+
+
+
+elseif( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14794" data-url="14794" class="tooltip-link link">Illegible Note: Boots</a>) then
 
 
 >*Harbinger Glosk hisses and says venomously, 'And I am disturbed yet again. I hope for your sake it is important.'*
@@ -181,9 +192,13 @@ elseif( **You turn in:** [Illegible Note: Boots](/item/14794)) then
 >*Harbinger Glosk The gaunt necromancer looks down at the paper in his hands and after reading a few lines gasps, then falls into a violent coughing fit. After recovering he takes a deep breath, puffs his chest out and hands the paper back to you. With his head held high, he says in a raspy voice, 'Show this to Rixiz. He will test you.'*
 
 
- **You receive:**  [Illegible Note: Boots](/item/14794) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14794" data-url="14794" class="tooltip-link link">Illegible Note: Boots</a> 
 
-elseif( **You turn in:** [Illegible Note: Greaves](/item/14793)) then
+ 
+
+elseif( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14793" data-url="14793" class="tooltip-link link">Illegible Note: Greaves</a>) then
 
 
 >*Harbinger Glosk snatches the note out of your hands, obviously irritated. After reading a few lines, he glances up at you, his brow furrowed, then looks down again to continue reading. When he's finished, he hands the note back to you and takes a deep breath, shuddering slightly. He then says, 'Xydoz. Take this to Xydoz. He will test you.'*
@@ -192,7 +207,10 @@ elseif( **You turn in:** [Illegible Note: Greaves](/item/14793)) then
 >*Harbinger Glosk watches you carefully as you leave.*
 
 
- **You receive:**  [Illegible Note: Greaves](/item/14793) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14793" data-url="14793" class="tooltip-link link">Illegible Note: Greaves</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

@@ -34,7 +34,10 @@ end
 
 
 
-if( **You turn in:** [Djinni Statuette](/item/20955), [Spiroc Thunder Totem](/item/20856), [White Gold Earring](/item/20857)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20955" data-url="20955" class="tooltip-link link">Djinni Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20856" data-url="20856" class="tooltip-link link">Spiroc Thunder Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/20857" data-url="20857" class="tooltip-link link">White Gold Earring</a>) then 
 
 
 
@@ -45,25 +48,42 @@ if( **You turn in:** [Djinni Statuette](/item/20955), [Spiroc Thunder Totem](/it
 >**Gordon Treecaller says:** Great work, Soandso, take this earring as a token of my admiration.
 
 
- **You receive:**  [Thunderforged Earring](/item/14568) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_619.png" alt="" /> <a
+                                href="/item/14568" data-url="14568" class="tooltip-link link">Thunderforged Earring</a> (+100000 exp)
 
-elseif( **You turn in:** [Bitter Honey](/item/20859), [Circlet of Brambles](/item/20860), [Efreeti Long Sword](/item/20858), [Emerald Spiroc Feather](/item/20962)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20859" data-url="20859" class="tooltip-link link">Bitter Honey</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_505.png" alt="" /> <a
+                                href="/item/20860" data-url="20860" class="tooltip-link link">Circlet of Brambles</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20858" data-url="20858" class="tooltip-link link">Efreeti Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20962" data-url="20962" class="tooltip-link link">Emerald Spiroc Feather</a>) then 
 
 
 
 >**Gordon Treecaller says:** You are indeed a ranger of noble bearing. The sword Arydryidriyorn will do well at your side.
 
 
- **You receive:**  [Arydryidriyorn](/item/27732) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/27732" data-url="27732" class="tooltip-link link">Arydryidriyorn</a> (+100000 exp)
 
-elseif( **You turn in:** [Efreeti War Bow](/item/20861), [Thickened Nectar](/item/20969), [Sphinx Tallow](/item/20862), [Shimmering Pearl](/item/20863)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/20861" data-url="20861" class="tooltip-link link">Efreeti War Bow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20969" data-url="20969" class="tooltip-link link">Thickened Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/20862" data-url="20862" class="tooltip-link link">Sphinx Tallow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/20863" data-url="20863" class="tooltip-link link">Shimmering Pearl</a>) then 
 
 
 
 >**Gordon Treecaller says:** You are a walking legend, Soandso. Please take Windstriker. It needs one such as yourself to wield it.
 
 
- **You receive:**  [Windstriker](/item/11696) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1104.png" alt="" /> <a
+                                href="/item/11696" data-url="11696" class="tooltip-link link">Windstriker</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

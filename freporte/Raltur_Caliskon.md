@@ -27,24 +27,28 @@ end
 
 
 
-if( **You turn in:** [A Note](/item/18822)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18822" data-url="18822" class="tooltip-link link">A Note</a>) then
 
 
 >**Raltur Caliskon says:** So the great Antonius Bayle wishes to ally himself with the mighty Knights of Truth. How pathetic. It would appear that the alliance has spawned infiltrators of sorts. Of course, we of the Dismal Rage are already aware of this, but I am sure Sir Lucan D'Lere knows nothing as usual. I have a [mission] for any evil shadowknight of Innoruuk.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (20)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-3)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (4)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
 
-elseif( **You turn in:** [Bayle List III](/item/18810)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18810" data-url="18810" class="tooltip-link link">Bayle List III</a>) then
 
 
 >**Raltur Caliskon says:** You have done well. This is the Bayle List. I have heard of it. It is useless without the remaining two parts. Take the list. You must collect the other two pieces of the list and take them to a scribe by the name of Rathmana Allin. He can be found in the deserts of South Ro. First, you must go ask Venox Tarkog what the Bayle List is. He is here in the shrine and will fill you in on your mission.
@@ -52,7 +56,10 @@ elseif( **You turn in:** [Bayle List III](/item/18810)) then
 
 
 
- **You receive:**  [Bayle List III](/item/18810) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18810" data-url="18810" class="tooltip-link link">Bayle List III</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

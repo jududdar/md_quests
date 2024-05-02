@@ -58,30 +58,36 @@ local text = "There is another! I have reports that there were two Mudtoe ogres 
 
 
 
-if( **You turn in:** [Recruitment Letter](/item/18766)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18766" data-url="18766" class="tooltip-link link">Recruitment Letter</a>) then 
 
 
 >**Furtog Ogrebane says:** Greetings, friend, and welcome to Stormguard Hall! I am Furtog Ogrebane, Captain of the Guard. We shall train you to be a fearless warrior, who will serve and protect King Kazon well. Here is your tunic.  Now, let's begin your training.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (100)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (15)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (15)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (25)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-25)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Dirt Stained Tunic*](/item/13515) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13515" data-url="13515" class="tooltip-link link">Dirt Stained Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Ogre Head](/item/13316), [Ogre Head](/item/13317)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/13316" data-url="13316" class="tooltip-link link">Ogre Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/13317" data-url="13317" class="tooltip-link link">Ogre Head</a>) then 
 
 
 >**Furtog Ogrebane says:** Finally my great father's work has been completed. All the Mudtoe ogres have been exterminated. Thank you. Take this weapon which my father pried from the cold, dead hands of the Mudtoe ogre captain. It is called an ogre war maul. May you wield it with honor in the name of Kaladim.
@@ -90,21 +96,24 @@ elseif( **You turn in:** [Ogre Head](/item/13316), [Ogre Head](/item/13317)) the
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (50)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (7)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (7)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (12)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+12</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-12)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Ogre War Maul](/item/6302) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_581.png" alt="" /> <a
+                                href="/item/6302" data-url="6302" class="tooltip-link link">Ogre War Maul</a> (+250 exp)
+
+**You receive coin:** 1-3 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

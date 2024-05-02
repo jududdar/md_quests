@@ -44,22 +44,27 @@ local text = "Two Deepwater goblin nets are required.";
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Deepwater Goblin Net](/item/12311), [Deepwater Goblin Net](/item/12311)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/12311" data-url="12311" class="tooltip-link link">Deepwater Goblin Net</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/12311" data-url="12311" class="tooltip-link link">Deepwater Goblin Net</a>) then
 
 
 >**David says:** You have done well. Take the mold for the bracer.  Go forth to speak with Thomas of [Lord Searfire].  Then all components shall be known.
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (20)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-3)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Mold of Ro Bracer](/item/12301) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12301" data-url="12301" class="tooltip-link link">Mold of Ro Bracer</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

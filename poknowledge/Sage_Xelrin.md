@@ -34,7 +34,8 @@ continue = 0;
 >**Sage Xelrin says:** By using this box created in cooperation with the [other sages] in Knowledge. you will be able to either extract a magical scroll or the binding used to hold the magic to the object.  Those elements will be the basis for my research.  Just bring anything you manage to extract for me.
 
 
-**You receive:**  [Sage's Box of Research](/item/17176)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17176" data-url="17176" class="tooltip-link link">Sage's Box of Research</a>
 
 **You say:** `other sages`
 
@@ -60,79 +61,102 @@ end
 
 
 
-if( **You turn in:** [Evocation Binding](/item/15952)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1027.png" alt="" /> <a
+                                href="/item/15952" data-url="15952" class="tooltip-link link">Evocation Binding</a>) then 
 
 
- **You receive:**  [Orb of Arcane Visions](/item/32025) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/32025" data-url="32025" class="tooltip-link link">Orb of Arcane Visions</a> (+100000 exp)
 
-elseif( **You turn in:** [Abjuration Binding](/item/15954)) then 
+ 
 
-
- **You receive:**  [Flawed Spell Creation](/item/32027) (+100000 exp)
-
-elseif( **You turn in:** [Spell: Strong Poison](/item/15955)) then 
-
-
- **You receive:**  [Visionary's Lens](/item/32028) (+100000 exp)
-
-elseif( **You turn in:** [Spell: Ykesha](/item/15951)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1027.png" alt="" /> <a
+                                href="/item/15954" data-url="15954" class="tooltip-link link">Abjuration Binding</a>) then 
 
 
- **You receive:**  [Gleaming Bauble](/item/32024) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/32027" data-url="32027" class="tooltip-link link">Flawed Spell Creation</a> (+100000 exp)
 
-elseif( **You turn in:** [Spell: Screaming Mace](/item/15953)) then 
+ 
 
-
- **You receive:**  [Sentient Medallion](/item/32026) (+100000 exp)
-
-elseif( **You turn in:** [Word of Combine](/item/15946)) then 
-
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Word of Sorcery](/item/15947)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15946" data-url="15946" class="tooltip-link link">Word of Combine</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
 
-elseif( **You turn in:** [Word of Helix](/item/15948)) then 
+ 
 
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Word of Inverse](/item/15949)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15947" data-url="15947" class="tooltip-link link">Word of Sorcery</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
 
-elseif( **You turn in:** [Word of Impetus](/item/15950)) then 
+ 
 
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Aqi Note](/item/15956)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15948" data-url="15948" class="tooltip-link link">Word of Helix</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
 
-elseif( **You turn in:** [Bep Note](/item/15942)) then 
+ 
 
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Cjo Note](/item/15943)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15949" data-url="15949" class="tooltip-link link">Word of Inverse</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
 
-elseif( **You turn in:** [Da Note](/item/15944)) then 
+ 
 
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Eio Note](/item/15945)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15950" data-url="15950" class="tooltip-link link">Word of Impetus</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15956" data-url="15956" class="tooltip-link link">Aqi Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15942" data-url="15942" class="tooltip-link link">Bep Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15943" data-url="15943" class="tooltip-link link">Cjo Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15944" data-url="15944" class="tooltip-link link">Da Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15945" data-url="15945" class="tooltip-link link">Eio Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

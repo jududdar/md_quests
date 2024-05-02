@@ -74,55 +74,79 @@ end
 local text = "Solusek Ro does not believe in half measures.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), [Bonechipped Mask](/item/2367), [Patch of Shadow](/item/2368), [Darkbone Skull](/item/10558)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2352" data-url="2352" class="tooltip-link link">Glowing Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/2367" data-url="2367" class="tooltip-link link">Bonechipped Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_595.png" alt="" /> <a
+                                href="/item/2368" data-url="2368" class="tooltip-link link">Patch of Shadow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/10558" data-url="10558" class="tooltip-link link">Darkbone Skull</a>) then
 
 
 >**Vilissia says:** Mask, patch, skull and mask. All of the items necessary for me to make an acumen mask.  Excellent.  All praise Solusek Ro!
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Acumen Mask](/item/2366) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1063.png" alt="" /> <a
+                                href="/item/2366" data-url="2366" class="tooltip-link link">Acumen Mask</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000), [Ruby](/item/10035), [Ruby](/item/10035)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then 
 
 
 e.other:Say("Here is your prize - a lambent ruby.");
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Ruby](/item/10118) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10118" data-url="10118" class="tooltip-link link">Lambent Ruby</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Lizardscale Cloak](/item/2332), [Rune of Scale](/item/10553), [Rune of Scale](/item/10554), [Rune of Scale](/item/10555)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/2332" data-url="2332" class="tooltip-link link">Lizardscale Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10553" data-url="10553" class="tooltip-link link">Rune of Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10554" data-url="10554" class="tooltip-link link">Rune of Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10555" data-url="10555" class="tooltip-link link">Rune of Scale</a>) then 
 
 
 e.other:Say("You impress me, adventurer! I had not expected you to return with all of the runes. Very well, I shall keep my half of the bargain. Here is your Runescale Cloak.");
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Runescale Cloak](/item/2364) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_663.png" alt="" /> <a
+                                href="/item/2364" data-url="2364" class="tooltip-link link">Runescale Cloak</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>) then 
 
 
 e.other:Say("I see that Gavel has sent you to me.  Very well, I have vulcanized your platinum bar - take it.");
 
 
- **You receive:**  [Vulcanized Platinum Bar](/item/19048) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/19048" data-url="19048" class="tooltip-link link">Vulcanized Platinum Bar</a> (+1000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

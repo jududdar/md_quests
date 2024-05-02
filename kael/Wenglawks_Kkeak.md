@@ -41,7 +41,8 @@
 >**Wenglawks Kkeak says:** Wonderful, Soandso. Take this note to Kellek and he will give you the tools.
 
 
-**You receive:**  [Voucher for Toolset](/item/25279)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/25279" data-url="25279" class="tooltip-link link">Voucher for Toolset</a>
 
 **You say:** `undertake`
 
@@ -53,7 +54,8 @@
 >**Wenglawks Kkeak says:** In the great divide there is a small outpost of kromrif. In that outpost you will find Bekerak, my client. I have acquired this new hunting spear for him and he may wish to test it out. Because of one simple mistake, once in my past, he thinks all of my wares are shoddy. I need the payment for the transaction still so don't let him get away without giving it to you. Take this voucher to Kellek and he will give you the spear.
 
 
-**You receive:**  [Voucher for Spear](/item/25280)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/25280" data-url="25280" class="tooltip-link link">Voucher for Spear</a>
 
 **You say:** `third client`
 
@@ -83,7 +85,8 @@
 >**Wenglawks Kkeak says:** I will curse your immortal soul if you fail, Soandso. In the depths of the icy waters of the cobalt scar lives an outcast siren who preys upon her own kind. We have a deal, I will provide her with an excellent hunting net and she will provide me with a giant cloak made of the scales of her kind. Take this voucher to Kellek and deliver the net. Do whatever it takes to get my cloak.
 
 
-**You receive:**  [Voucher for Mechanical Net](/item/25281)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/25281" data-url="25281" class="tooltip-link link">Voucher for Mechanical Net</a>
 end
 
 ## Turn-Ins
@@ -92,7 +95,8 @@ end
 
 
 
-if( **You turn in:** [Message to Wenglawks](/item/28600),platinum = 200) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/28600" data-url="28600" class="tooltip-link link">Message to Wenglawks</a>,platinum = 200) then
 
 
 
@@ -101,50 +105,76 @@ if( **You turn in:** [Message to Wenglawks](/item/28600),platinum = 200) then
 >**Wenglawks Kkeak says:** Here is the information your employer requested. Now be gone. I have more business to take care of.
 
 
- **You receive:**  [Message to Herald](/item/28601) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28601" data-url="28601" class="tooltip-link link">Message to Herald</a> 
 
-elseif( **You turn in:** [Receipt](/item/20474)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/20474" data-url="20474" class="tooltip-link link">Receipt</a>) then 
 
 
 >**Wenglawks Kkeak says:** I assume the delivery went well? You can have these as payment. One of my customers just decided he does not wish to buy them. They are rather sturdy! I do have another task available if you wish to [undertake] it.
 
 
- **You receive:**  [Engraved Bone Pauldrons](/item/25062) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/25062" data-url="25062" class="tooltip-link link">Engraved Bone Pauldrons</a> (+1000 exp)
 
-elseif( **You turn in:** [Giant Icewurm Talisman](/item/25130)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/25130" data-url="25130" class="tooltip-link link">Giant Icewurm Talisman</a>) then 
 
 
 >**Wenglawks Kkeak says:** He has reconsidered the offer, you say? This is most excellent! I hope this will be acceptable payment for your troubles, Soandso. My cash situation is not the best at this point in time. I do have a [third client] who needs delivery...
 
 
- **You receive:**  [Bracer of Midnight](/item/25061) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1040.png" alt="" /> <a
+                                href="/item/25061" data-url="25061" class="tooltip-link link">Bracer of Midnight</a> (+1500 exp)
 
-elseif( **You turn in:** [Giant Siren Scale Cloak](/item/25110)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/25110" data-url="25110" class="tooltip-link link">Giant Siren Scale Cloak</a>) then 
 
 
 >**Wenglawks Kkeak says:** It is truly a sight to behold. This is the most fashionable cloak I have yet to see. Even King Tormax will be green with envy. This old bag has served me well, I hope you find it to your liking.
 
 
- **You receive:**  [Wenglawks Manly Purse](/item/17049) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_717.png" alt="" /> <a
+                                href="/item/17049" data-url="17049" class="tooltip-link link">Wenglawks Manly Purse</a> (+2000 exp)
 
-elseif( **You turn in:** [Helssen's Voucher](/item/1722)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/1722" data-url="1722" class="tooltip-link link">Helssen's Voucher</a>) then 
 
 
 >**Wenglawks Kkeak says:** So you are the mercenary I have been hearing about! Not what I expected. Anyway, here is your reward. Carry it well. Also, this noble's seal will prove your loyalty to anyone who is skeptical.
 
 
- **You receive:**  [Girdle of Reflection](/item/1719) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1150.png" alt="" /> <a
+                                href="/item/1719" data-url="1719" class="tooltip-link link">Girdle of Reflection</a> (+2000 exp)
+
+ 
 
 
- **You receive:**  [Noble's Seal](/item/1723) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_512.png" alt="" /> <a
+                                href="/item/1723" data-url="1723" class="tooltip-link link">Noble's Seal</a> 
 
-elseif( **You turn in:** [Note to Wenglawks](/item/29068), platinum = 100) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/29068" data-url="29068" class="tooltip-link link">Note to Wenglawks</a>, platinum = 100) then
 
 
 >**Wenglawks Kkeak says:** Here is the information your employer requested. Now be gone. I have more business to take care of.
 
 
- **You receive:**  [Dispelling device](/item/29626) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_652.png" alt="" /> <a
+                                href="/item/29626" data-url="29626" class="tooltip-link link">Dispelling device</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

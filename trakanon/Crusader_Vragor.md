@@ -25,7 +25,9 @@ end
 
 
 
-if( **You turn in:** [Stupendous Tome](/item/18051), [Crusader's Coffin](/item/17031)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18051" data-url="18051" class="tooltip-link link">Stupendous Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1142.png" alt="" /> <a
+                                href="/item/17031" data-url="17031" class="tooltip-link link">Crusader's Coffin</a>) then
 
 
 >**Crusader Vragor says:** The tome! I can finally pass on in peace. Before I go I will tell you that Zhaoku rests to the east of here near Old Sebilis. He is gigantic and not easily missed.
@@ -34,13 +36,15 @@ if( **You turn in:** [Stupendous Tome](/item/18051), [Crusader's Coffin](/item/1
 **Spawn NPC:**  [Zhaoku](/npc/95184) at (**y:** -2260, **x:** -1801)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (10)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:** 0 (+20000 exp)
+ &#127873; **You receive:** 0 (+20000 exp)
+
+ 
 
 
 **Crusader Vragor despawns.**

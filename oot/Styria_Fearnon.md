@@ -40,7 +40,8 @@ end
 
 
 
-if( **You turn in:** [Bracers of Erollisi](/item/13337)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/13337" data-url="13337" class="tooltip-link link">Bracers of Erollisi</a>) then 
 
 
 >**Styria Fearnon says:** Oh!! Thank you!! We are so grateful to you. I offer you this as reward. It is one of the dwarven smith's finest works.
@@ -49,26 +50,43 @@ if( **You turn in:** [Bracers of Erollisi](/item/13337)) then
 
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (20)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (5)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (5)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (5)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-5)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-5</span>)
 
 
 
 
- **You receive:** eq.ChooseRandom( [Axe](/item/5007), [Broad Sword](/item/5008), [Ringmail Coif](/item/3101), [Iron Visor](/item/3102), [Ringmail Neckguard](/item/3103), [Ringmail Coat](/item/3104), [Ringmail Mantle](/item/3105), [Ringmail Cape](/item/3106), [Ringmail Skirt](/item/3107), [Ringmail Sleeves](/item/3108), [Ringmail Bracelet](/item/3109), [Ringmail Gloves](/item/3110), [Ringmail Pants](/item/3111), [Ringmail Boots](/item/3112)) (+250 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_573.png" alt="" /> <a
+                                href="/item/5007" data-url="5007" class="tooltip-link link">Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5008" data-url="5008" class="tooltip-link link">Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3101" data-url="3101" class="tooltip-link link">Ringmail Coif</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/3102" data-url="3102" class="tooltip-link link">Iron Visor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_627.png" alt="" /> <a
+                                href="/item/3103" data-url="3103" class="tooltip-link link">Ringmail Neckguard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3104" data-url="3104" class="tooltip-link link">Ringmail Coat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/3105" data-url="3105" class="tooltip-link link">Ringmail Mantle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/3106" data-url="3106" class="tooltip-link link">Ringmail Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/3107" data-url="3107" class="tooltip-link link">Ringmail Skirt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3108" data-url="3108" class="tooltip-link link">Ringmail Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3109" data-url="3109" class="tooltip-link link">Ringmail Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3110" data-url="3110" class="tooltip-link link">Ringmail Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3111" data-url="3111" class="tooltip-link link">Ringmail Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3112" data-url="3112" class="tooltip-link link">Ringmail Boots</a>) (+250 exp)
 
-elseif( **You turn in:** [Pirates Earring](/item/13336)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/13336" data-url="13336" class="tooltip-link link">Pirates Earring</a>) then 
 
 
 >**Styria Fearnon says:** Good work. That is one less pirate to worry about. We do not have much, but take this as payment.
@@ -77,21 +95,28 @@ elseif( **You turn in:** [Pirates Earring](/item/13336)) then
 
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (5)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (1)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (1)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-1)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Aviak Feather](/item/13339), [Conch Shell](/item/13342), [Fishing Spear](/item/7017), [Kiola Nut](/item/13340), [Shark Skin](/item/13075)) (+100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_514.png" alt="" /> <a
+                                href="/item/13339" data-url="13339" class="tooltip-link link">Aviak Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1139.png" alt="" /> <a
+                                href="/item/13342" data-url="13342" class="tooltip-link link">Conch Shell</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7017" data-url="7017" class="tooltip-link link">Fishing Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1000.png" alt="" /> <a
+                                href="/item/13340" data-url="13340" class="tooltip-link link">Kiola Nut</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/13075" data-url="13075" class="tooltip-link link">Shark Skin</a>) (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

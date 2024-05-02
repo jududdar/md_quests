@@ -25,7 +25,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Torn Parchment](/item/13718)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/13718" data-url="13718" class="tooltip-link link">Torn Parchment</a>
 
 end
 
@@ -35,7 +36,8 @@ end
 
 
 
-if( **You turn in:** [Note to Niclaus](/item/18970)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/18970" data-url="18970" class="tooltip-link link">Note to Niclaus</a>) then
 
 
 >**Niclaus Ressinn says:** Oh, things are becoming dire here in Norrath. May Rodcet protect us! I have gathered most of the evidence I will need to present to Jahnda, but I could still use your assistance with one final piece. I need to recover a rib bone from of the undead beasts that wander these hills. Be sure the rib bone comes from one of the putrid skeletons. They are the spawn of Bertoxxulous.
@@ -43,7 +45,8 @@ if( **You turn in:** [Note to Niclaus](/item/18970)) then
 
 eq.set_global("niclaus","1",1,"H12");
 
-elseif(eq.get_qglobals(e.self,e.other)["niclaus"] == "1" and  **You turn in:** [Putrid Rib Bone](/item/13722)) then
+elseif(eq.get_qglobals(e.self,e.other)["niclaus"] == "1" and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/13722" data-url="13722" class="tooltip-link link">Putrid Rib Bone</a>) then
 
 
 >**Niclaus Ressinn says:** Excellent! Rodcet smiles upon us this day! Here, please take this pouch of evidence to Jahnda in the Temple of Life. She will know what we must do. I will remain here to keep an eye out for the minions of Bertoxxlous. Also, accept this small reward as a token of my appreciation of your efforts to rid Norrath of the influence of the Plaguebringer.
@@ -55,22 +58,25 @@ eq.delete_global("niclaus");
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (50)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (15)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (25)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-12)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (7)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Pouch of Evidence](/item/13724) (+4000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/13724" data-url="13724" class="tooltip-link link">Pouch of Evidence</a> (+4000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

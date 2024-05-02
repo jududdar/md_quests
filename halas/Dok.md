@@ -20,7 +20,8 @@
 >**Dok says:** Grreatt!!  Take this wax jarr.  Head to any place ye can find the wee ones they call bixies. I'm afraid ye're going to hafta bash 'em and search to find out if they're carrying any honeycombs.  If they are, then ye can fill the jar with them and combine them, then return the full honeycomb jar to me. I'll be givin' ye a special candle if ye can do that fer me.
 
 
-**You receive:**  [Empty Jar](/item/17958)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/17958" data-url="17958" class="tooltip-link link">Empty Jar</a>
 
 **You say:** `any information about the crime`
 
@@ -57,7 +58,8 @@ end
 
 
 
-if( **You turn in:** [Full Honeycomb Jar](/item/12222)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/12222" data-url="12222" class="tooltip-link link">Full Honeycomb Jar</a>) then
 
 
 >**Dok says:** Great work!! Now I can make more candles! Here ye are, me fri. I call this the Everburn Candle. It has a wee bit o' magic in it. I hope ye like it.
@@ -66,18 +68,25 @@ if( **You turn in:** [Full Honeycomb Jar](/item/12222)) then
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (25)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (18)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+18</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (18)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+18</span>)
 
 
- **You receive:**  [Everburn Candle](/item/12220) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1127.png" alt="" /> <a
+                                href="/item/12220" data-url="12220" class="tooltip-link link">Everburn Candle</a> (+250 exp)
 
-elseif( **You turn in:** [Foot of Candlestick](/item/12275), [Stem of Candlestick](/item/12276), [Soil of Underfoot](/item/12282), [Honeycomb](/item/13953)) then
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1013.png" alt="" /> <a
+                                href="/item/12275" data-url="12275" class="tooltip-link link">Foot of Candlestick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_732.png" alt="" /> <a
+                                href="/item/12276" data-url="12276" class="tooltip-link link">Stem of Candlestick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/12282" data-url="12282" class="tooltip-link link">Soil of Underfoot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1069.png" alt="" /> <a
+                                href="/item/13953" data-url="13953" class="tooltip-link link">Honeycomb</a>) then
 
 
 >**Dok says:** Here is your Candle o' Bravery.
@@ -86,15 +95,18 @@ elseif( **You turn in:** [Foot of Candlestick](/item/12275), [Stem of Candlestic
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (5)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (3)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (3)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Candle of Bravery](/item/12277) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1128.png" alt="" /> <a
+                                href="/item/12277" data-url="12277" class="tooltip-link link">Candle of Bravery</a> (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

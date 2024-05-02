@@ -60,7 +60,8 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A Doll](/item/13712)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13712" data-url="13712" class="tooltip-link link">A Doll</a>) then
 
 
 >*Indaria tries to keep her composure. She hands you a silver locket with great effort, and then bursts into tears.*
@@ -69,21 +70,24 @@ if **Faction** >= Indifferent and  **You turn in:** [A Doll](/item/13712)) then
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Velvet Choker](/item/1316) (+27440 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/1316" data-url="1316" class="tooltip-link link">Velvet Choker</a> (+27440 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

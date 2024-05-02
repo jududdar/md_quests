@@ -40,7 +40,11 @@ end
 local text = "You know the deal!! Four Odus Pearls and you get the Treant Wood.";
 
 
-if( **You turn in:** [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/13878" data-url="13878" class="tooltip-link link">Pearl of Odus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/13878" data-url="13878" class="tooltip-link link">Pearl of Odus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/13878" data-url="13878" class="tooltip-link link">Pearl of Odus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/13878" data-url="13878" class="tooltip-link link">Pearl of Odus</a>) then 
 
 
 >**Rodgar the Tall says:** Wonderful!! I am sure that was a lot safer than battling a treant.
@@ -49,21 +53,24 @@ if( **You turn in:** [Pearl of Odus](/item/13878), [Pearl of Odus](/item/13878),
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (2)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Wooden Shards](/item/13824) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

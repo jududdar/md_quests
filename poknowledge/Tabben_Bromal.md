@@ -11,7 +11,8 @@ e.self:Say("What is it? What do you wan. . . Oh bloody underfoot, do forgive me,
 
 
 
-if(**You possess item:**  [Small Parts Container](/item/17278) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17278" data-url="17278" class="tooltip-link link">Small Parts Container</a> x 1
 
 
 
@@ -30,7 +31,8 @@ end
 
 
 
-if( **You turn in:** [Strange Jeweler's Schematic](/item/28278)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28278" data-url="28278" class="tooltip-link link">Strange Jeweler's Schematic</a>) then 
 
 
 >*Tabben Bromal takes the document from you and looks at it for a moment. 'Well, this is a beautiful looking schematic. I wonder what they are trying to make with it? Where did you get this? No wait; don't tell me. I'd rather not know. I can make some of this writing out but just barely. What I can read leads me to believe that I'd be better off not knowing.'*
@@ -42,9 +44,14 @@ e.self:Emote("falls victim to his curiosity and grabs a small kit from the table
 >**Tabben Bromal says:** Seal those things up in the container that I just gave you and bring it straight back to me. I'll wait here for you and see if I can decipher anymore of this schematic.
 
 
- **You receive:** GiveAll( [Small parts kit](/item/17277), [Strange Jeweler's Schematic](/item/28278)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17277" data-url="17277" class="tooltip-link link">Small parts kit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28278" data-url="28278" class="tooltip-link link">Strange Jeweler's Schematic</a>) 
 
-elseif( **You turn in:** [Sealed Parts Box](/item/28283)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/28283" data-url="28283" class="tooltip-link link">Sealed Parts Box</a>) then 
 
 
 >**Tabben Bromal says:** Oh, you've returned! Very good, Soandso! Saria and I have made some real progress on the document that you brought us. Watch this and you'll see what I mean!
@@ -56,9 +63,14 @@ elseif( **You turn in:** [Sealed Parts Box](/item/28283)) then
 >**Tabben Bromal says:** That should work for you, but from what we gathered, there's another layer of mechanics that works to shield and envelope the existing talisman. It's going to require more parts. So take this container and let me know when you're [ready] to write down the names of the next set of parts.
 
 
- **You receive:** GiveAll( [Small Parts Container](/item/17278), [Small Clockwork Talisman](/item/28284)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17278" data-url="17278" class="tooltip-link link">Small Parts Container</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/28284" data-url="28284" class="tooltip-link link">Small Clockwork Talisman</a>) 
 
-elseif( **You turn in:** [Locked Parts Box](/item/28289)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/28289" data-url="28289" class="tooltip-link link">Locked Parts Box</a>) then
 
 
 >*Tabben Bromal nods at you and takes the parts box over to the table. He seems to have laid out the extra tools that he needs prior to your return. With only a few twists and clicks, the pieces of the talisman lock together and begin to glow. The gnome turns and hands you the talisman and the design schematic in an exaggeratedly sharp gesture.*
@@ -70,6 +82,10 @@ elseif( **You turn in:** [Locked Parts Box](/item/28289)) then
 >**Tabben Bromal says:** It's seems that words are beginning to write themselves onto that schematic of yours. Maybe she'll be able to understand them. I sure don't want to. Take care.
 
 
- **You receive:** GiveAll( [The Talisman Schematic](/item/28291), [Powered Clockwork Talisman](/item/28290)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28291" data-url="28291" class="tooltip-link link">The Talisman Schematic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/28290" data-url="28290" class="tooltip-link link">Powered Clockwork Talisman</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

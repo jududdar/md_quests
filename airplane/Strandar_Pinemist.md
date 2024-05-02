@@ -20,7 +20,8 @@
 >**Strandar Pinemist says:** Please read this tome. It will explain how Will Treewalker is able to assist. When you are finished, please return it to me. We have but a single copy of such a tome, for which a tree gave its life.
 
 
-**You receive:**  [The Long Walk](/item/18528)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18528" data-url="18528" class="tooltip-link link">The Long Walk</a>
 
 **You say:** `fenalla`
 
@@ -29,7 +30,8 @@
 >**Strandar Pinemist says:** Please read this tome. It wll explain what Fenalla Moonshadow can assist you with. When you are finished, please return this to me. We have but a single copy of such a tome in the world, for which a tree gave its life.
 
 
-**You receive:**  [The Gift](/item/18529)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18529" data-url="18529" class="tooltip-link link">The Gift</a>
 end
 
 
@@ -37,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [The Long Walk](/item/18528)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18528" data-url="18528" class="tooltip-link link">The Long Walk</a>) then 
 
 
 >**Strandar Pinemist says:** Welcome, Will Treewalker.
@@ -48,7 +51,8 @@ if( **You turn in:** [The Long Walk](/item/18528)) then
 
 **Strandar Pinemist despawns.**
 
-elseif( **You turn in:** [The Gift](/item/18529)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18529" data-url="18529" class="tooltip-link link">The Gift</a>) then 
 
 
 >**Strandar Pinemist says:** Welcome, Fenalla Moonshadow.

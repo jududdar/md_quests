@@ -48,17 +48,23 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Giant Snake Fang](/item/7005), [Aviak Charm](/item/13737), [Tiger Skin](/item/13762)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/7005" data-url="7005" class="tooltip-link link">Giant Snake Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/13737" data-url="13737" class="tooltip-link link">Aviak Charm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_833.png" alt="" /> <a
+                                href="/item/13762" data-url="13762" class="tooltip-link link">Tiger Skin</a>) then
 
 
 >**Errrak Thickshank says:** I cannot believe. Thank you. Please, take this talisman. I bought from wandering shaman but it no help Graalf, maybe it help you. Now please go, Errrak must see if this will help Graalf.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (5)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Bone Talisman](/item/10139) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/10139" data-url="10139" class="tooltip-link link">Bone Talisman</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

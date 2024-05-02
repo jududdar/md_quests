@@ -30,16 +30,20 @@ end
 
 
 
-if( **You turn in:** [Tailfangs Tail](/item/30667)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/30667" data-url="30667" class="tooltip-link link">Tailfangs Tail</a>) then
 
 
 >**Dar Khura Pyjek says:** Great spirit you've done it! Thank you Soandso. we are in your debt. You have earned this weapon of the venomous scourge. wield it with honor and pride.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (20)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Scorpialis](/item/30783) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/30783" data-url="30783" class="tooltip-link link">Scorpialis</a> (+75000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -26,7 +26,8 @@
 >**Tobon Starpyre says:** Fabulous! Here is a list of the observers outside of Ak'Anon. Go and ask each for a [spare telescope lens]. Each should give you one. We have need of them. I await your return as does your reward, either Fire Bolt or Fingers of Fire. Meant for a skilled wizard of the eighth trial.
 
 
-**You receive:**  [A List](/item/18868)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18868" data-url="18868" class="tooltip-link link">A List</a>
 
 
 **You say:** `yendar`
@@ -40,41 +41,54 @@ end
 
 
 
-if( **You turn in:** [Registration Letter](/item/18774)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18774" data-url="18774" class="tooltip-link link">Registration Letter</a>) then 
 
 
 >**Tobon Starpyre says:** Ah.. Welcome, friend! I am Tobon Starpyre, Master Wizard of Library Mechanimagica. This is our tunic - wear it with pride. Study hard, master your skills, and make us proud.
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (100)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-15)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-15</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-5)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (15)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (15)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+15</span>)
 
 
 
- **You receive:**  [Soot Stained Gold Robe*](/item/13523) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_941.png" alt="" /> <a
+                                href="/item/13523" data-url="13523" class="tooltip-link link">Soot Stained Gold Robe*</a> (+20 exp)
+
+ 
 
 
-elseif( **You turn in:** [A Telescope Lens](/item/13275), [A Telescope Lens](/item/13276), [A Telescope Lens](/item/13277), [A Telescope Lens](/item/13279)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/13275" data-url="13275" class="tooltip-link link">A Telescope Lens</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/13276" data-url="13276" class="tooltip-link link">A Telescope Lens</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/13277" data-url="13277" class="tooltip-link link">A Telescope Lens</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/13279" data-url="13279" class="tooltip-link link">A Telescope Lens</a>) then
 
 
 >**Tobon Starpyre says:** Thank you for your work. I heard news of the troubles you encountered. Besides these troubles you still completed your mission. We are grateful. And as I once stated, your reward awaits.
 
 
- **You receive:** eq.ChooseRandom( [Spell: Column of Frost](/item/15380), [Spell: Fire Bolt](/item/15477), [Spell: Shock of Ice](/item/15656)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15380" data-url="15380" class="tooltip-link link">Spell: Column of Frost</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15477" data-url="15477" class="tooltip-link link">Spell: Fire Bolt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15656" data-url="15656" class="tooltip-link link">Spell: Shock of Ice</a>) (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

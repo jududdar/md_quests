@@ -24,13 +24,17 @@ end
 
 
 
-if( **You turn in:** [A Glimmering Fairie Wing](/item/12339)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/12339" data-url="12339" class="tooltip-link link">A Glimmering Fairie Wing</a>) then
 
 
 >**Princess Joleena says:** My wing!! I am so happy!! Thank you Soandso. You have proved that I can trust giants once again. Please take a Pouch of Fairie Gold Dust. Its magical properties are desired by all.
 
 
- **You receive:**  [Pouch of Gold Dust](/item/12333) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/12333" data-url="12333" class="tooltip-link link">Pouch of Gold Dust</a> (+1500 exp)
+
+ 
 end
 
 

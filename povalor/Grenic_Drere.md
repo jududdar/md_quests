@@ -5,7 +5,9 @@
 
 
 
-if ( e.other:KeyRingCheck( [Ring of Marr](/item/29214)) or **You possess item:**  [Ring of Marr](/item/29214) x 1
+if ( e.other:KeyRingCheck( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1255.png" alt="" /> <a
+                                href="/item/29214" data-url="29214" class="tooltip-link link">Ring of Marr</a>) or **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1255.png" alt="" /> <a
+                                href="/item/29214" data-url="29214" class="tooltip-link link">Ring of Marr</a> x 1
 
 
 
@@ -54,13 +56,20 @@ end
 
 
 
-if (  **You turn in:** [Box of Souls](/item/29281), [Soul Sphere](/item/29292), [Soul Sphere](/item/29293), [Soul Sphere](/item/29294)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/29281" data-url="29281" class="tooltip-link link">Box of Souls</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/29292" data-url="29292" class="tooltip-link link">Soul Sphere</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/29293" data-url="29293" class="tooltip-link link">Soul Sphere</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/29294" data-url="29294" class="tooltip-link link">Soul Sphere</a>  ) then 
 
 
 >**Grenic Drere says:** Hmm, this is minor vindication, but vindication nonetheless.  I will never again fight with my old compatriots, but now I know the punishment of those responsible for my exile is fitting for their crime.  We did have an agreement, and while stripped of my rank I still have my honor.  This ring is what all Soldiers of Marr wear to enter the Halls of Honor, it serves no use for me any longer, it is yours now.
 
 
- **You receive:**  [Ring of Marr](/item/29214) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1255.png" alt="" /> <a
+                                href="/item/29214" data-url="29214" class="tooltip-link link">Ring of Marr</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

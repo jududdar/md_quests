@@ -47,38 +47,49 @@ end
 
 
 
-if  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Snake Scales](/item/13070), [Snake Scales](/item/13070)) then 
+if  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/13070" data-url="13070" class="tooltip-link link">Snake Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/13070" data-url="13070" class="tooltip-link link">Snake Scales</a>) then 
 
 
 >**Kaglari says:** SNORT!! Good. Innoruuk get special gift. Not you, dis time. Here. Learning majik wid dis. You more want to help Innoruuk?
 
 
-* __Faction:__ [Dark Ones](/faction/237) (5)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Spell: Burst of Flame](/item/15093) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15093" data-url="15093" class="tooltip-link link">Spell: Burst of Flame</a> (+1000 exp)
 
-elseif ( **You turn in:** [A tattered note](/item/18791)) then 
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18791" data-url="18791" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Kaglari says:** Good.. Kaglari need you help.. Kaglari teach you majik now.
 
 
-* __Faction:__ [Dark Ones](/faction/237) (100)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (25)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-15)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Muck Stained Tunic*](/item/13529) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13529" data-url="13529" class="tooltip-link link">Muck Stained Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

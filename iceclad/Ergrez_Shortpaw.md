@@ -68,44 +68,74 @@ end
 
 
 
-if( **You turn in:** [Medium Quality Cougarskin](/item/30064), [Cutting Shells](/item/30065), [Cutting Shells](/item/30065)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_552.png" alt="" /> <a
+                                href="/item/30064" data-url="30064" class="tooltip-link link">Medium Quality Cougarskin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_998.png" alt="" /> <a
+                                href="/item/30065" data-url="30065" class="tooltip-link link">Cutting Shells</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_998.png" alt="" /> <a
+                                href="/item/30065" data-url="30065" class="tooltip-link link">Cutting Shells</a>) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
 
 
- **You receive:**  [Cougarskin Boots](/item/30020) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/30020" data-url="30020" class="tooltip-link link">Cougarskin Boots</a> 
 
-elseif( **You turn in:** [High Quality Cougarskin](/item/30030), [Mammoth Meat](/item/13407), [Mammoth Meat](/item/13407)) then 
+ 
 
-
->*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
-
-
- **You receive:**  [Cougarskin Mask](/item/30027) 
-
-elseif( **You turn in:** [Low Quality Cougarskin](/item/30031), [Walrus Meat](/item/30097), [Walrus Meat](/item/30097)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_552.png" alt="" /> <a
+                                href="/item/30030" data-url="30030" class="tooltip-link link">High Quality Cougarskin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13407" data-url="13407" class="tooltip-link link">Mammoth Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13407" data-url="13407" class="tooltip-link link">Mammoth Meat</a>) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
 
 
- **You receive:**  [Cougarskin Sleeves](/item/30028) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/30027" data-url="30027" class="tooltip-link link">Cougarskin Mask</a> 
 
-elseif( **You turn in:** [Medium Quality Dire Wolf Fur](/item/30025), [Skinning Rock](/item/30062), [Skinning Rock](/item/30062)) then 
+ 
 
-
->*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
-
-
- **You receive:**  [Dire Wolf-Hide Cloak](/item/25019) 
-
-elseif( **You turn in:** [Low Quality Dire Wolf Fur](/item/30024), [Bark Bindings](/item/30063), [Bark Bindings](/item/30063)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_552.png" alt="" /> <a
+                                href="/item/30031" data-url="30031" class="tooltip-link link">Low Quality Cougarskin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/30097" data-url="30097" class="tooltip-link link">Walrus Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/30097" data-url="30097" class="tooltip-link link">Walrus Meat</a>) then 
 
 
 >*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
 
 
- **You receive:**  [Direwolf Fur Hood](/item/30029) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/30028" data-url="30028" class="tooltip-link link">Cougarskin Sleeves</a> 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/30025" data-url="30025" class="tooltip-link link">Medium Quality Dire Wolf Fur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_871.png" alt="" /> <a
+                                href="/item/30062" data-url="30062" class="tooltip-link link">Skinning Rock</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_871.png" alt="" /> <a
+                                href="/item/30062" data-url="30062" class="tooltip-link link">Skinning Rock</a>) then 
+
+
+>*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/25019" data-url="25019" class="tooltip-link link">Dire Wolf-Hide Cloak</a> 
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/30024" data-url="30024" class="tooltip-link link">Low Quality Dire Wolf Fur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/30063" data-url="30063" class="tooltip-link link">Bark Bindings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/30063" data-url="30063" class="tooltip-link link">Bark Bindings</a>) then 
+
+
+>*Ergrez Shortpaw works with the fur for awhile by skinning it and sewing it*
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/30029" data-url="30029" class="tooltip-link link">Direwolf Fur Hood</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

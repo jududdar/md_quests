@@ -34,7 +34,14 @@ end
 
 
 
-local count =  **You turn in:**  { [Thorny Vine Helm](/item/4891),  [Thorny Vine Chestplate](/item/4892),  [Thorny Vine Vambraces](/item/4893),  [Thorny Vine Bracer](/item/4894),  [Thorny Vine Gauntlets](/item/4895),  [Thorny Vine Greaves](/item/4896),  [Thorny Vine Boots](/item/4897)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/4891" data-url="4891" class="tooltip-link link">Thorny Vine Helm</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4892" data-url="4892" class="tooltip-link link">Thorny Vine Chestplate</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4893" data-url="4893" class="tooltip-link link">Thorny Vine Vambraces</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4894" data-url="4894" class="tooltip-link link">Thorny Vine Bracer</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4895" data-url="4895" class="tooltip-link link">Thorny Vine Gauntlets</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4896" data-url="4896" class="tooltip-link link">Thorny Vine Greaves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4897" data-url="4897" class="tooltip-link link">Thorny Vine Boots</a>}
 
 if(count > 0) then
 
@@ -47,7 +54,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Peridot](/item/10028), 10037, 22503, 15981) (+300000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
+
+ 
 
 
 

@@ -29,7 +29,10 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Nathyn Illuminious says:** After an unfortunate mishap with an escaped vampyre in the city the Magus Conlegium and the Validus Custodus declared that no vampyres shall ever again enter the city of Katta Castellum and only their ashes or blood may be studied under the careful observation of the Magus Conlegium. I am very sorry but I have some pressing business I must attend to and I'm afraid I have nothing more to offer. You may take this information back to Magistrate Phenic as he has requested.
 
 
- **You receive:**  [Report of Nathyns Questioning](/item/31755) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/31755" data-url="31755" class="tooltip-link link">Report of Nathyns Questioning</a> 
+
+ 
 
 
 eq.delete_global("first_badge_nathyn");
@@ -41,7 +44,8 @@ end
 
 
 
-if( **You turn in:** [Katta Castellum Badge of Service](/item/31752)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/31752" data-url="31752" class="tooltip-link link">Katta Castellum Badge of Service</a>) then
 
 
 >**Nathyn Illuminious says:** Ahh I see you're assisting Phenic. Perhaps looking into more information on [Valdanov Zefeer]?
@@ -50,6 +54,9 @@ if( **You turn in:** [Katta Castellum Badge of Service](/item/31752)) then
 eq.set_global("first_badge_nathyn","1",0,"F");
 
 
- **You receive:**  [Katta Castellum Badge of Service](/item/31754) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/31754" data-url="31754" class="tooltip-link link">Katta Castellum Badge of Service</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

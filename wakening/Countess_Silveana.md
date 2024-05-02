@@ -26,15 +26,19 @@ end
 
 
 
-if( **You turn in:** [Kromzek Surveyor Scope](/item/30221)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1141.png" alt="" /> <a
+                                href="/item/30221" data-url="30221" class="tooltip-link link">Kromzek Surveyor Scope</a>) then
 
 
 >*Countess Silveana claps boisterously 'My people are in your debt for putting anto that monsters murderous squashings! Here is the crest of the Sifaye*
 
 
-* __Faction:__ [Tunarean Court](/faction/449) (20)
+Your faction standing with [Tunarean Court](/faction/449) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Crest of the Sifaye](/item/24866) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/24866" data-url="24866" class="tooltip-link link">Crest of the Sifaye</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

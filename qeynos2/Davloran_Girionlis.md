@@ -37,7 +37,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Lightbringers Assembly Kit](/item/17266)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17266" data-url="17266" class="tooltip-link link">Lightbringers Assembly Kit</a>
 
 
 **You say:** `helm`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracer`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `armguard`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boot`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `greave`
@@ -97,7 +102,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlet`
@@ -109,7 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -121,7 +128,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `job`
@@ -147,7 +155,11 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Wisp Essence](/item/27399), [Wisp Essence](/item/27399), [Flawless Gnoll Hides](/item/27417), [Flawless Gnoll Hides](/item/27417)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_585.png" alt="" /> <a
+                                href="/item/27399" data-url="27399" class="tooltip-link link">Wisp Essence</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_585.png" alt="" /> <a
+                                href="/item/27399" data-url="27399" class="tooltip-link link">Wisp Essence</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/27417" data-url="27417" class="tooltip-link link">Flawless Gnoll Hides</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/27417" data-url="27417" class="tooltip-link link">Flawless Gnoll Hides</a>) then
 
 
 >**Davloran Girionlis says:** These are exactly what I needed! Its for sure that I have a lot to learn about Smithing but low and behold I was able to create this fine blade out of my remaining materials. Please carry it with you as a symbol of my gratitude. Rodcet smiles down upon you young Soandso, you have done well.
@@ -156,19 +168,22 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Wisp Essence](/item/27399), [Wis
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Rodcet Nife Defenders Blade](/item/27490) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/27490" data-url="27490" class="tooltip-link link">Rodcet Nife Defenders Blade</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

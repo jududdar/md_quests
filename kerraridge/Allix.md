@@ -48,16 +48,20 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Ajrah Leaf](/item/6349)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_795.png" alt="" /> <a
+                                href="/item/6349" data-url="6349" class="tooltip-link link">Ajrah Leaf</a>) then
 
 
 >**Allix says:** Ajrah! Raaarrr! Ajrah Leaf! Allix destined to be mighty saiar now! Allix unsure how to thank you. Here, take this. Is my most treasured tunic.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (4)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:**  [Erudehide Tunic](/item/1120) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/1120" data-url="1120" class="tooltip-link link">Erudehide Tunic</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

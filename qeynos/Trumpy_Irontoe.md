@@ -107,7 +107,11 @@ local text = "Beh! Thanks, Skippy. Why don't ya buy yourself one? And.. <gulp>..
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Honey Mead](/item/13033), [Honey Mead](/item/13033), [Honey Mead](/item/13033), [Honey Mead](/item/13033)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13033" data-url="13033" class="tooltip-link link">Honey Mead</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13033" data-url="13033" class="tooltip-link link">Honey Mead</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13033" data-url="13033" class="tooltip-link link">Honey Mead</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13033" data-url="13033" class="tooltip-link link">Honey Mead</a>) then
 
 
 >**Trumpy Irontoe says:** BWAH hah hah! I knew you wasn't the loser you.. <gulp>.. <gulp>.. appear to be! I will have to tell [Kane].. <burp>.. all about you. Maybe get you in the gang!
@@ -116,21 +120,23 @@ if **Faction** >= Dubious and  **You turn in:** [Honey Mead](/item/13033), [Hone
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+200 exp)
+ &#127873; **You receive:** 0 (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

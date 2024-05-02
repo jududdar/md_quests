@@ -141,7 +141,8 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Hurrietas Bloody Dress](/item/13134)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_712.png" alt="" /> <a
+                                href="/item/13134" data-url="13134" class="tooltip-link link">Hurrietas Bloody Dress</a>) then 
 
 
 >**Garuc Anehm says:** Hahaha.. I see you actually killed a respected, well-known citizen of Qeynos. No loss for them, but you are certainly a gain for our shrine. Maybe this shall do you some good. If not now, then surely later. You may need it when the Qeynos Guards hunt you down.
@@ -152,24 +153,35 @@ if **Faction** >= Indifferent and  **You turn in:** [Hurrietas Bloody Dress](/it
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (1)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rats Foot Necklace](/item/1053), [Patchwork Tunic](/item/2104), 2106, 2108, 2111, 2112,  [Rat Shaped Ring](/item/13301), 15235) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1053" data-url="1053" class="tooltip-link link">Rats Foot Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2104" data-url="2104" class="tooltip-link link">Patchwork Tunic</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2106" data-url="2106" class="tooltip-link link">Patchwork Cloak</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2108" data-url="2108" class="tooltip-link link">Patchwork Sleeves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2111" data-url="2111" class="tooltip-link link">Patchwork Pants</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2112" data-url="2112" class="tooltip-link link">Patchwork Boots</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/13301" data-url="13301" class="tooltip-link link">Rat Shaped Ring</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15235" data-url="15235" class="tooltip-link link">Spell: Invisibility vs Undead</a>) (+500 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/item/13908)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13908" data-url="13908" class="tooltip-link link">Busted Prayer Beads</a>) then 
 
 
 >**Garuc Anehm says:** You fool! Brother Trintle was our mole within the Priests of Life. Now you have killed him. For this you shall die!
@@ -180,19 +192,19 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Busted Prayer Beads](/i
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-50)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-5)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (12)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+12</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -200,7 +212,8 @@ eq.attack(e.other:GetName())
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Prayer Beads](/item/13296)) then 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13296" data-url="13296" class="tooltip-link link">Prayer Beads</a>) then 
 
 
 >**Garuc Anehm says:** Fine work! One less threat to our shrine. Take this. It shall help you become a greater asset to our shrine. Go forth and spread the disease.
@@ -211,26 +224,41 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Prayer Beads](/item/132
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (1)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rats Foot Necklace](/item/1053), [Small Patchwork Tunic](/item/2116), [Small Tattered Gloves](/item/2122), [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Broad Sword](/item/5016), [Rusty Two Handed Sword](/item/5023), [Rusty Mace](/item/6011), [Torch](/item/13002), [Wooden Flute](/item/13001), [Rat Shaped Ring](/item/13301), [Wrist Pouch](/item/17001)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1053" data-url="1053" class="tooltip-link link">Rats Foot Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2116" data-url="2116" class="tooltip-link link">Small Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2122" data-url="2122" class="tooltip-link link">Small Tattered Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5016" data-url="5016" class="tooltip-link link">Rusty Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/6011" data-url="6011" class="tooltip-link link">Rusty Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/13001" data-url="13001" class="tooltip-link link">Wooden Flute</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/13301" data-url="13301" class="tooltip-link link">Rat Shaped Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_667.png" alt="" /> <a
+                                href="/item/17001" data-url="17001" class="tooltip-link link">Wrist Pouch</a>) (+500 exp)
+
+ 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13287)) then 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/13287" data-url="13287" class="tooltip-link link">Order of Thunder</a>) then 
 
 
 >**Garuc Anehm says:** Fine work! One less threat to our shrine. Take this. It shall help you become a greater asset to our shrine. Go forth and spread the disease.
@@ -241,22 +269,36 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (1)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rats Foot Necklace](/item/1053), [Small Patchwork Tunic](/item/2116), [Small Tattered Gloves](/item/2122), [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Broad Sword](/item/5016), [Rusty Two Handed Sword](/item/5023), [Rusty Mace](/item/6011), [Torch](/item/13002), [Wooden Flute](/item/13001), [Rat Shaped Ring](/item/13301), [Wrist Pouch](/item/17001)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1053" data-url="1053" class="tooltip-link link">Rats Foot Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2116" data-url="2116" class="tooltip-link link">Small Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2122" data-url="2122" class="tooltip-link link">Small Tattered Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5016" data-url="5016" class="tooltip-link link">Rusty Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/6011" data-url="6011" class="tooltip-link link">Rusty Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/13001" data-url="13001" class="tooltip-link link">Wooden Flute</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/13301" data-url="13301" class="tooltip-link link">Rat Shaped Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_667.png" alt="" /> <a
+                                href="/item/17001" data-url="17001" class="tooltip-link link">Wrist Pouch</a>) (+500 exp)
+
+ 
 
 
 

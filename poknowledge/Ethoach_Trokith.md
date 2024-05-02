@@ -10,7 +10,8 @@
 e.self:DoAnim(70);
 
 
-if(**You possess item:**  [Intermediate Stealth Manual](/item/28793) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/28793" data-url="28793" class="tooltip-link link">Intermediate Stealth Manual</a> x 1
 
 
 
@@ -29,7 +30,11 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Blizzard Gem](/item/9423), [Symbol of the Diaku](/item/26709), [Intermediate Stealth Manual](/item/28793)) then
+if(**Your level** > 19 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/9423" data-url="9423" class="tooltip-link link">Blizzard Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1082.png" alt="" /> <a
+                                href="/item/26709" data-url="26709" class="tooltip-link link">Symbol of the Diaku</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/28793" data-url="28793" class="tooltip-link link">Intermediate Stealth Manual</a>) then
 
 
 >**Ethoach Trokith says:** Astounding! This certainly proves you are worth far more than you appear. Take this book, it can teach you many new things. Also know this, Tenada Jeried is available for further study, and only for advanced students such as yourself. Be sure to visit him and tell him you are interested in learning from him. Take care, Soandso.
@@ -38,6 +43,9 @@ if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Blizz
 
 
 
- **You receive:**  [Advanced Stealth Manual](/item/28794) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/28794" data-url="28794" class="tooltip-link link">Advanced Stealth Manual</a> (+500000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

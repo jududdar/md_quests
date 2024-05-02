@@ -38,7 +38,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Crushed Pot](/item/20457)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/20457" data-url="20457" class="tooltip-link link">Crushed Pot</a>
 
 
 elseif( **Faction is** < Amiable) then
@@ -76,7 +77,8 @@ end
 if( **Faction is** > Indifferent) then 
 
 
-if( **You turn in:** [Receipt](/item/20474)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/20474" data-url="20474" class="tooltip-link link">Receipt</a>) then
 
 
 
@@ -84,7 +86,10 @@ if( **You turn in:** [Receipt](/item/20474)) then
 
 
 
- **You receive:**  [Ancient Pattern](/item/18960) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18960" data-url="18960" class="tooltip-link link">Ancient Pattern</a> 
+
+ 
 
 
 

@@ -46,7 +46,8 @@ continue = 0;
 >**Sage Balic says:** Sorry, I digress. Where was I? Oh yes! In the past I, as well as the other Sages, have had little success; however from the volumes of information found here, each of us found a new outlook on the creation of magic. I found that most of the magical discoveries came from existing magical components, mostly runes and words of power. Should you come by any of these components please use this box to check to see if they have the proper magical configuration. The extractor will be able to remove what it needs if you find a valid combination. Right now I believe the box will only function with a single word and rune of approximately the same power.
 
 
-**You receive:**  [Sage's Box of Research](/item/17176)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17176" data-url="17176" class="tooltip-link link">Sage's Box of Research</a>
 
 **You say:** `their research`
 
@@ -67,7 +68,8 @@ continue = 0;
 >*Sage Balic blinks and looks at you. 'I have told you all that I know, for more knowledge you will need to seek its creator.  The enchanter is more than likely very old, the mask having been made at the height of the power of the Froglok race.  Here take this picture book to aid you in your quest.'  Sage Balic hands you a book.*
 
 
-**You receive:**  [Picturebook](/item/11275)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/11275" data-url="11275" class="tooltip-link link">Picturebook</a>
 end
 
 ## Timer(s)
@@ -87,79 +89,105 @@ end
 
 
 
-if( **You turn in:** [Word of Combine](/item/15946)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15946" data-url="15946" class="tooltip-link link">Word of Combine</a>) then 
 
 
- **You receive:**  [Sage's Apprentice Cap](/item/32019) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1121.png" alt="" /> <a
+                                href="/item/32019" data-url="32019" class="tooltip-link link">Sage's Apprentice Cap</a> (+100000 exp)
 
-elseif( **You turn in:** [Word of Sorcery](/item/15947)) then 
+ 
 
-
- **You receive:**  [Twisted Talisman](/item/32020) (+100000 exp)
-
-elseif( **You turn in:** [Word of Helix](/item/15948)) then 
-
-
- **You receive:**  [Three Ringed Hoop](/item/32021) (+100000 exp)
-
-elseif( **You turn in:** [Word of Inverse](/item/15949)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15947" data-url="15947" class="tooltip-link link">Word of Sorcery</a>) then 
 
 
- **You receive:**  [Joined Signet](/item/32022) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/32020" data-url="32020" class="tooltip-link link">Twisted Talisman</a> (+100000 exp)
 
-elseif( **You turn in:** [Word of Impetus](/item/15950)) then 
+ 
 
-
- **You receive:**  [Apprentice's Notebook](/item/32023) (+100000 exp)
-
-elseif( **You turn in:** [Evocation Binding](/item/15952)) then 
-
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Abjuration Binding](/item/15954)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15948" data-url="15948" class="tooltip-link link">Word of Helix</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/32021" data-url="32021" class="tooltip-link link">Three Ringed Hoop</a> (+100000 exp)
 
-elseif( **You turn in:** [Spell: Strong Poison](/item/15955)) then 
+ 
 
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Spell: Ykesha](/item/15951)) then 
-
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Spell: Screaming Mace](/item/15953)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15949" data-url="15949" class="tooltip-link link">Word of Inverse</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/32022" data-url="32022" class="tooltip-link link">Joined Signet</a> (+100000 exp)
 
-elseif( **You turn in:** [Aqi Note](/item/15956)) then 
+ 
 
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Bep Note](/item/15942)) then 
-
-
- **You receive:** 0 (+100000 exp)
-
-elseif( **You turn in:** [Cjo Note](/item/15943)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/15950" data-url="15950" class="tooltip-link link">Word of Impetus</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/32023" data-url="32023" class="tooltip-link link">Apprentice's Notebook</a> (+100000 exp)
 
-elseif( **You turn in:** [Da Note](/item/15944)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1027.png" alt="" /> <a
+                                href="/item/15952" data-url="15952" class="tooltip-link link">Evocation Binding</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
 
-elseif( **You turn in:** [Eio Note](/item/15945)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1027.png" alt="" /> <a
+                                href="/item/15954" data-url="15954" class="tooltip-link link">Abjuration Binding</a>) then 
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15956" data-url="15956" class="tooltip-link link">Aqi Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15942" data-url="15942" class="tooltip-link link">Bep Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15943" data-url="15943" class="tooltip-link link">Cjo Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15944" data-url="15944" class="tooltip-link link">Da Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/15945" data-url="15945" class="tooltip-link link">Eio Note</a>) then 
+
+
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

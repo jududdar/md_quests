@@ -12,7 +12,9 @@ elseif(e.wp == 6) then
 >*Cleet Miller gathers up a bale of straw*
 
 
-**Spawns on ground:**  [Sack of Hay](/item/13990) at (**y:** - [Blade of Shadowed Flame](/item/3583), **x:** -4632)
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1145.png" alt="" /> <a
+                                href="/item/13990" data-url="13990" class="tooltip-link link">Sack of Hay</a> at (**y:** - <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_576.png" alt="" /> <a
+                                href="/item/3583" data-url="3583" class="tooltip-link link">Blade of Shadowed Flame</a>, **x:** -4632)
 
 
 e.self:SetRunning(true);

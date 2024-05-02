@@ -36,7 +36,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [Tax Collection Box](/item/17012)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/17012" data-url="17012" class="tooltip-link link">Tax Collection Box</a>
 
 
 else
@@ -64,7 +65,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [List of Debtors](/item/18009)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18009" data-url="18009" class="tooltip-link link">List of Debtors</a>
 
 
 else
@@ -89,7 +91,9 @@ local text = "Very good <cough> work. But I need both the full tax collection bo
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Full Tax Collection Box](/item/13181), [List of Debtors](/item/18009)) then
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/13181" data-url="13181" class="tooltip-link link">Full Tax Collection Box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18009" data-url="18009" class="tooltip-link link">List of Debtors</a>) then
 
 
 >**Vicus Nonad says:** <cough> Great! Thank you so much. Here is a small gratuity for a job well done. Thank you again. <cough> Antonius Bayle and the People of Qeynos appreciate all yo have done.
@@ -98,21 +102,28 @@ if **Faction** >= Apprehensive and  **You turn in:** [Full Tax Collection Box](/
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (10)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-5)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (-10)
+Your faction standing with [Kane Bayle](/faction/273) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (10)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** eq.ChooseRandom( [Brass Ring](/item/13053), [Copper Amulet](/item/10010), [Hematite](/item/10018), [Turquoise](/item/10017), [Malachite](/item/10015)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/13053" data-url="13053" class="tooltip-link link">Brass Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/10010" data-url="10010" class="tooltip-link link">Copper Amulet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/10018" data-url="10018" class="tooltip-link link">Hematite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/10017" data-url="10017" class="tooltip-link link">Turquoise</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>) (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

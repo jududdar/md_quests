@@ -57,7 +57,8 @@ else
 >**Hierophant Zand says:** That is most unfortunate for you.  Your suffering will be extended on this plane, until you find your way back to us. Take this and read it on your way to speak with the Toilmaster.  He will guide you.  Yesssss...' You feel as if something is peering at you from behind the speaker's soulless eyes as the last letter he speaks transforms into a sigh.
 
 
-**You receive:**  [A Ragged Book](/item/18271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18271" data-url="18271" class="tooltip-link link">A Ragged Book</a>
 
 
 
@@ -82,13 +83,18 @@ local text1 = "seems to black out, and then recover. He speaks with the voice of
 
 
 
-if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18272" data-url="18272" class="tooltip-link link">Rites of Exoneration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/24770" data-url="24770" class="tooltip-link link">Filled Penance Bag</a>) then 
 
 
 >*Hierophant Zand takes the bag and tome from you and in return gives you the item that you have been thinking of all of this time. 'Lucky you. You have earned a second chance. Praise Cazic-Thule!'*
 
 
- **You receive:**  [Iron Cudgel of the Petitioner](/item/5140) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5140" data-url="5140" class="tooltip-link link">Iron Cudgel of the Petitioner</a> 
+
+ 
 
 
 
@@ -96,52 +102,62 @@ if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A Froglok Hex Doll](/item/12734)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/12734" data-url="12734" class="tooltip-link link">A Froglok Hex Doll</a>) then
 
 
 >**Hierophant Zand says:** Fine work! I hope for your sake, you did not purchase it from a brave adventurer. Take this note to the one for whom it is written. This lizard has knowledge of a large number of skulls.
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
 
- **You receive:**  [The Bone Garrison](/item/18054) (+80000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/18054" data-url="18054" class="tooltip-link link">The Bone Garrison</a> (+80000 exp)
+
+**You receive coin:** 5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Iksar Skull Helm](/item/12741), [Iron Cudgel of the Prophet](/item/5144), [Iksar Skull](/item/12740)) then
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12741" data-url="12741" class="tooltip-link link">Iksar Skull Helm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5144" data-url="5144" class="tooltip-link link">Iron Cudgel of the Prophet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12740" data-url="12740" class="tooltip-link link">Iksar Skull</a>) then
 
 
 >*Hierophant Zand closes his eyes and reopens them. They have no pupils. He speaks and you hear his voice echo. 'We are Di Nozok. You have earned the weapon of a channeler. We hope to fill your thoughts with ours some day. Go and seek out Dexl. We send you to him. Farewell , Channeler of Cabilis.*
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (20)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+20</span>)
 
 
 
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
 
 
 
 
- **You receive:**  [Iron Cudgel of the Channeler](/item/5145) (+120000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5145" data-url="5145" class="tooltip-link link">Iron Cudgel of the Channeler</a> (+120000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

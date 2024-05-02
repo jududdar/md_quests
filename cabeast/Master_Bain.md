@@ -94,7 +94,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Leech Husk Pouch](/item/17998)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17998" data-url="17998" class="tooltip-link link">Leech Husk Pouch</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -122,35 +123,46 @@ end
 
 
 
-if( **You turn in:** [Pale White Tome](/item/18468), [Vine Woven Basket](/item/22923)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18468" data-url="18468" class="tooltip-link link">Pale White Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/22923" data-url="22923" class="tooltip-link link">Vine Woven Basket</a>) then
 
 
 >*Master Bain smiles at your dedication to Cazic Thule and hands you a small gem.*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (5)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a> (+20000 exp)
 
-elseif( **You turn in:** [Dim White Tome](/item/18467), [Earthenware Bowl](/item/22922)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18467" data-url="18467" class="tooltip-link link">Dim White Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1010.png" alt="" /> <a
+                                href="/item/22922" data-url="22922" class="tooltip-link link">Earthenware Bowl</a>) then
 
 
 >*Master Bain smiles at your dedication to Cazic Thule and hands you a small gem.*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (5)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a> (+20000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Monk Training Bag](/item/12688)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12688" data-url="12688" class="tooltip-link link">Monk Training Bag</a>) then 
 
 
 
@@ -167,13 +179,25 @@ elseif **Faction** >= Amiable and  **You turn in:** [Monk Training Bag](/item/12
 
 
 
-* __Faction:__ [Swift Tails](/faction/444) (5)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Sparring Headgear](/item/4350), [Sparring Facemask](/item/4351), [Sparring Collar](/item/4352), [Sparring Harness](/item/4353), [Sparring Shoulder Pads](/item/4354), [Sparring Rib Pad](/item/4355), [Sparring Arm Guards](/item/4356), [Sparring Grappler Gloves](/item/4357), [Sparring Shin Guards](/item/4358), [Sparring Clogs](/item/4359)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/4350" data-url="4350" class="tooltip-link link">Sparring Headgear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/4351" data-url="4351" class="tooltip-link link">Sparring Facemask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/4352" data-url="4352" class="tooltip-link link">Sparring Collar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/4353" data-url="4353" class="tooltip-link link">Sparring Harness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/4354" data-url="4354" class="tooltip-link link">Sparring Shoulder Pads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/4355" data-url="4355" class="tooltip-link link">Sparring Rib Pad</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/4356" data-url="4356" class="tooltip-link link">Sparring Arm Guards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/4357" data-url="4357" class="tooltip-link link">Sparring Grappler Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/4358" data-url="4358" class="tooltip-link link">Sparring Shin Guards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_666.png" alt="" /> <a
+                                href="/item/4359" data-url="4359" class="tooltip-link link">Sparring Clogs</a>) (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

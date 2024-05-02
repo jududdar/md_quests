@@ -88,27 +88,30 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Monogrammed Cloth](/item/13302)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/13302" data-url="13302" class="tooltip-link link">Monogrammed Cloth</a>) then
 
 
 >**Rihtur Fullome says:** You have done a truly wicked deed. Good work! Milea was a prestigious member of the Hall of Steel and a friend to the Knights of Truth. It is better that she now fertilizes the flowers of the Plains of Karana. Here. A fitting reward for such a deed.
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (1)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -20,7 +20,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Convergence](/item/19423),  [Spell: Defoliation](/item/19296),  [Spell: Splurt](/item/19294),  [Spell: Thrall of Bones](/item/19299)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19423" data-url="19423" class="tooltip-link link">Spell: Convergence</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19296" data-url="19296" class="tooltip-link link">Spell: Defoliation</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19294" data-url="19294" class="tooltip-link link">Spell: Splurt</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19299" data-url="19299" class="tooltip-link link">Spell: Thrall of Bones</a>}
 
 if(count > 0) then
 
@@ -33,7 +37,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Minion of Shadows](/item/19297), [Spell: Sacrifice](/item/19421), [Spell: Scent of Terris](/item/19408), [Spell: Shadowbond](/item/19409)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19297" data-url="19297" class="tooltip-link link">Spell: Minion of Shadows</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19421" data-url="19421" class="tooltip-link link">Spell: Sacrifice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19408" data-url="19408" class="tooltip-link link">Spell: Scent of Terris</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19409" data-url="19409" class="tooltip-link link">Spell: Shadowbond</a>) (+500 exp)
+
+ 
 
 
 

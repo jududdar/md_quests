@@ -47,12 +47,16 @@ end
 
 
 
-if( **You turn in:** [Aisha'a Locket](/item/5996)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/5996" data-url="5996" class="tooltip-link link">Aisha'a Locket</a>) then
 
 
 >*Jalil Talih looks at you stunned, 'This is... it was Aisha's, my wedding gift to her. Kalila had given it to Behari and I thought I would never see it again. Where did you find...' Jalil trails off as the truth becomes clear to him. With a sorrowful look at his daughter, he continues, 'at least now we know. You have gone to such lengths, please take this, it was my gift from the city upon obtaining full Khala Dun honors. You have earned it my friend.'*
 
 
- **You receive:**  [Belt of the Khala Dun](/item/5995) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_533.png" alt="" /> <a
+                                href="/item/5995" data-url="5995" class="tooltip-link link">Belt of the Khala Dun</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -285,104 +285,133 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Jaggedpine Sap](/item/8766), [Dew of the Hatchling](/item/8767), [Flawless Panther Hide](/item/8765)) then 
+if **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_692.png" alt="" /> <a
+                                href="/item/8766" data-url="8766" class="tooltip-link link">Jaggedpine Sap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_694.png" alt="" /> <a
+                                href="/item/8767" data-url="8767" class="tooltip-link link">Dew of the Hatchling</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/8765" data-url="8765" class="tooltip-link link">Flawless Panther Hide</a>) then 
 
 
 e.self:Emote("studies the hide carefully 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Cured Panther Hide](/item/8764) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/8764" data-url="8764" class="tooltip-link link">Cured Panther Hide</a> (+2000 exp)
 
-elseif **Faction** >= Warmly and  **You turn in:** [Flayed Panther Hide](/item/8799), [Shark Rib](/item/8797)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/8799" data-url="8799" class="tooltip-link link">Flayed Panther Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/8797" data-url="8797" class="tooltip-link link">Shark Rib</a>) then 
 
 
 >*Lerian Wyndrunner inspects the rib and the hide, checking for imperfections that might disable him from completing his work. Satisfied with the quality of the components, Lerian places the rib in the center of the hide, which is draped over his arm. He then begins to speak softly in an ancient, druidic tongue that is foreign to your ears and knowledge. As he speaks, the black fur of the hide seems to pierce the cartilage shark rib, binding it in-place. The rest of the hide folds back, wrapping itself around the druid's arm. Lerian then completes his chant and removes the Reinforced Rawhide Sleeves from his arm and offers it to Soandso 'There is [more that you must do], my friend, before this task is complete.'*
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Reinforced Rawhide Sleeves](/item/8863) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/8863" data-url="8863" class="tooltip-link link">Reinforced Rawhide Sleeves</a> (+2000 exp)
 
-elseif **Faction** >= Warmly and  **You turn in:** [Jaggedpine Panther Hide](/item/8879), [Shadowjade Fern Seeds](/item/8873), [Shadowjade Fern Leaves](/item/8878), [Shadowjade Fern Leaves](/item/8878)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/8879" data-url="8879" class="tooltip-link link">Jaggedpine Panther Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1233.png" alt="" /> <a
+                                href="/item/8873" data-url="8873" class="tooltip-link link">Shadowjade Fern Seeds</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_911.png" alt="" /> <a
+                                href="/item/8878" data-url="8878" class="tooltip-link link">Shadowjade Fern Leaves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_911.png" alt="" /> <a
+                                href="/item/8878" data-url="8878" class="tooltip-link link">Shadowjade Fern Leaves</a>) then 
 
 
 e.self:Emote("studies the hide carefully 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Shadowjade Hide](/item/8881) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/8881" data-url="8881" class="tooltip-link link">Shadowjade Hide</a> (+2000 exp)
 
-elseif **Faction** >= Warmly and  **You turn in:** [Braids of Pine](/item/8866), [Black Rawhide Bracer](/item/8867)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/8866" data-url="8866" class="tooltip-link link">Braids of Pine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/8867" data-url="8867" class="tooltip-link link">Black Rawhide Bracer</a>) then 
 
 
 >*Lerian Wyndrunner gently places the braids of pine across the rawhide bracer.  He murmurs a few soft syllables, and the braids begin to move and grow, as if of their own volition.  Wrapping around and through the blackened rawhide, the bracer is soon completely covered by the braids.  With twinkle in his eye, Lerian hands the bracer to Soandso.*
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Bracer of Braided Pine](/item/8865) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/8865" data-url="8865" class="tooltip-link link">Bracer of Braided Pine</a> (+2000 exp)
 
-elseif **Faction** >= Warmly and  **You turn in:** [Blackened Mithril Netted Gloves](/item/8872), [Shadowjade Moss](/item/8792), [Shadowjade Fern Leaves](/item/8878)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_529.png" alt="" /> <a
+                                href="/item/8872" data-url="8872" class="tooltip-link link">Blackened Mithril Netted Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1196.png" alt="" /> <a
+                                href="/item/8792" data-url="8792" class="tooltip-link link">Shadowjade Moss</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_911.png" alt="" /> <a
+                                href="/item/8878" data-url="8878" class="tooltip-link link">Shadowjade Fern Leaves</a>) then 
 
 
 >*Lerian Wyndrunner examines the gloves, checking the item's stability and quality of make. Satisfied, Lerian then pulls the gloves onto his hands and proceeds to carefully cover the gloves with the dark emerald moss. He then closes his eyes and begins to whisper a soft chant in an ancient druidic language as he opens the small pouch and sprinkles the fern seeds across the palms and back of his hands. As he chants, his hands hold a soft emerald radiance and the seeds begin to sprout before your eyes. The tiny ferns weave in an out of the Mithril netting, binding the moss to the gloves and creating a beautiful design upon the back of each gloves. Lerian removes the gloves as his chant ends and extends them to Soandso, a delicate, warm smile upon his face in silent approval.*
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Forest Woven Gloves](/item/8871) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/8871" data-url="8871" class="tooltip-link link">Forest Woven Gloves</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -19,25 +19,29 @@ end
 
 
 
-if( **You turn in:** [Snapped Pole](/item/13922)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/13922" data-url="13922" class="tooltip-link link">Snapped Pole</a>) then 
 
 
 >**Olunea Miltin says:** Great! Thank you stranger. The rogues must have broken it. At least I could repair it. It would be seasons before I could afford another pole.
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (5)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-1)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Fishing Pole](/item/13100) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/13100" data-url="13100" class="tooltip-link link">Fishing Pole</a> (+2000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

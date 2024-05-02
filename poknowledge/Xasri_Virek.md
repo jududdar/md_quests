@@ -8,7 +8,8 @@
 
 
 
-if(**You possess item:**  [Beginner Combat Manual](/item/28788) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/28788" data-url="28788" class="tooltip-link link">Beginner Combat Manual</a> x 1
 
 
 
@@ -27,7 +28,9 @@ end
 
 
 
-if( **You turn in:** [Beginner Combat Manual](/item/28788), [Junk Beast Power Source](/item/29145)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/28788" data-url="28788" class="tooltip-link link">Beginner Combat Manual</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1027.png" alt="" /> <a
+                                href="/item/29145" data-url="29145" class="tooltip-link link">Junk Beast Power Source</a>) then 
 
 
 >**Xasri Virek says:** Very impressive, Soandso. This proves you have clearly graduated to the next phase of training we have to offer. Keep this book by your side and speak to Gwiraba Gelrid when you are ready for your next lesson.
@@ -36,6 +39,9 @@ if( **You turn in:** [Beginner Combat Manual](/item/28788), [Junk Beast Power So
 
 
 
- **You receive:**  [Intermediate Combat Manual](/item/28790) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/28790" data-url="28790" class="tooltip-link link">Intermediate Combat Manual</a> (+500000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

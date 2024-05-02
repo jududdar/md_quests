@@ -133,24 +133,29 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Jade Studded Rawhide Tunic](/item/8761), [Silver Griffon Feathers](/item/8760)) then
+if **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/8761" data-url="8761" class="tooltip-link link">Jade Studded Rawhide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_908.png" alt="" /> <a
+                                href="/item/8760" data-url="8760" class="tooltip-link link">Silver Griffon Feathers</a>) then
 
 
 >**Nolan Greenwood says:** You have done well, Soandso. I am impressed and most pleased to know that you are adapting and accepting our ways so easily. Take this and may it protect you in these troubling times.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Tunic of the Pine](/item/8400) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/8400" data-url="8400" class="tooltip-link link">Tunic of the Pine</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

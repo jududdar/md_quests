@@ -112,35 +112,39 @@ if( **You turn in:** gold = 2) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
 
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Blank Scroll Sheets](/item/18006) (+100 exp)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
-elseif( **You turn in:** [Lomarc's Payment](/item/18793)) then 
+
+
+
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18006" data-url="18006" class="tooltip-link link">Blank Scroll Sheets</a> (+100 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18793" data-url="18793" class="tooltip-link link">Lomarc's Payment</a>) then 
 
 
 >**Lomarc says:** What the heck is this?!? No money at all? You'll pay for this, you back-stabbing knave!

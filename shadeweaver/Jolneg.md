@@ -18,13 +18,20 @@ end
 
 
 
-if( **You turn in:** [Deathmaw Claw](/item/7808), [Deathmaw Claw](/item/7808), [Deathmaw Claw](/item/7808), [Wooden Practice Flail](/item/30579)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7808" data-url="7808" class="tooltip-link link">Deathmaw Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7808" data-url="7808" class="tooltip-link link">Deathmaw Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7808" data-url="7808" class="tooltip-link link">Deathmaw Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/30579" data-url="30579" class="tooltip-link link">Wooden Practice Flail</a>) then
 
 
 >*Jolneg takes the flail and starts placing the claws into it forming a formidable looking weapon. 'This seems a good weapon indeed. Here, you can take it for helping to test my theory of weapon crafting. Safe travels to you friend.'*
 
 
- **You receive:**  [Deathmaw Claw Club](/item/7815) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1188.png" alt="" /> <a
+                                href="/item/7815" data-url="7815" class="tooltip-link link">Deathmaw Claw Club</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -16,7 +16,8 @@
 >**Yakem Oreslinger says:** I need you to take this crate and fill it with either Small Bracks of Unrefined Ore or Large Bricks of Unrefined Ore then return it to me so that I may refine it and sell it. The unrefined ore that I require is often mined by the goblins in the ruins of Permafrost Keep.
 
 
-**You receive:**  [Empty Ore Crate](/item/17814)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17814" data-url="17814" class="tooltip-link link">Empty Ore Crate</a>
 
 end
 
@@ -26,35 +27,41 @@ end
 
 
 
-if( **You turn in:** [Small Shipment of High Quality Ore](/item/10952)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10952" data-url="10952" class="tooltip-link link">Small Shipment of High Quality Ore</a>) then 
 
 
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (4)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+4</span>)
 
 
 
 >**Yakem Oreslinger says:** Thank you! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 4 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Yakem Oreslinger despawns.**
 
-elseif( **You turn in:** [Large Shipment of High Quality Ore](/item/10953)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10953" data-url="10953" class="tooltip-link link">Large Shipment of High Quality Ore</a>) then 
 
 
 
 >**Yakem Oreslinger says:** Thank you! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (4)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+4</span>)
 
 
 
- **You receive:** 0 (+3500 exp)
+ &#127873; **You receive:** 0 (+3500 exp)
+
+**You receive coin:** 4 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Yakem Oreslinger despawns.**

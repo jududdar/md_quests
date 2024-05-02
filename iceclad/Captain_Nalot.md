@@ -50,20 +50,29 @@ end
 
 
 
-if( **You turn in:** [Completed Map of Iceclad](/item/30047)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30047" data-url="30047" class="tooltip-link link">Completed Map of Iceclad</a>) then
 
 
 >*Captain Nalot squints and then knocks hard on the metal half of his face to get his eye back in adjustment.. 'Arrr. This is perfect. Har! Now we can be plannin' our pillagin' and plunderin' all proper like. Good work, Soandso!' Captain Nalot slaps you on the back and accidentally drops his eyepatch. Being a proper pirate now you conveniently forget to mention it to him.*
 
 
- **You receive:**  [Eyepatch of Plunder](/item/30008) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_595.png" alt="" /> <a
+                                href="/item/30008" data-url="30008" class="tooltip-link link">Eyepatch of Plunder</a> (+50000 exp)
 
-elseif( **You turn in:** [Rum Box Key](/item/30040), [Locked Rum Box](/item/30039)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1078.png" alt="" /> <a
+                                href="/item/30040" data-url="30040" class="tooltip-link link">Rum Box Key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/30039" data-url="30039" class="tooltip-link link">Locked Rum Box</a>) then 
 
 
 >**Captain Nalot says:** Land ho!  That be me rum!  Where did ya get that?  Ah nevermind.  Gimme those things.  Just a bit of a turn here... and a pick there... and a twist... and shes unlocked, har!  Here, take a jug.  It be the least I can do fer ye.  We'll be havin a party tonight lads!
 
 
- **You receive:**  [Capt. Nalot's Triple Strength Rum](/item/30034) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_703.png" alt="" /> <a
+                                href="/item/30034" data-url="30034" class="tooltip-link link">Capt. Nalot's Triple Strength Rum</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

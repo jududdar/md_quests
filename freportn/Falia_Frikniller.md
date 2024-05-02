@@ -33,12 +33,16 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Letter to Falia](/item/18925)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18925" data-url="18925" class="tooltip-link link">Letter to Falia</a>) then
 
 
 >**Falia Frikniller says:** Heh, that good for nothing fool. I've been here for over a month already, and I haven't seen him yet. Bah, anyway, could you take this back to him for me? It was our grandfather's lucky necklace. He passed it down to our father, and now onto my brother. Knowing that little worm, Grenny, he'll probably trade it for a mug of ale. Oh well, thanks for delivering the letter, friend. Good day to you, and safe travels.
 
 
- **You receive:**  [Broken Heirloom Necklace](/item/13159) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1147.png" alt="" /> <a
+                                href="/item/13159" data-url="13159" class="tooltip-link link">Broken Heirloom Necklace</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

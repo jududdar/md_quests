@@ -43,7 +43,7 @@ if **Faction** >= Ally +100 then
 
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (-1000)
+Your faction standing with [Guardians of the Vale](/faction/263) got worse (<span class='text-danger'>-1000</span>)
 
 
 
@@ -51,7 +51,8 @@ if **Faction** >= Ally +100 then
 
 
 
-**You receive:**  [Squad Ring](/item/13936)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/13936" data-url="13936" class="tooltip-link link">Squad Ring</a>
 
 
 elseif **Faction** >= Indifferent then 

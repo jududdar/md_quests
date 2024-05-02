@@ -19,7 +19,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [A Scrap of Parchment](/item/18821)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18821" data-url="18821" class="tooltip-link link">A Scrap of Parchment</a>
 
 
 else
@@ -44,7 +45,8 @@ end
 
 
 
-if( **You turn in:** [A Scrap of Parchment](/item/18821)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18821" data-url="18821" class="tooltip-link link">A Scrap of Parchment</a>) then
 
 
 >**Earron Huntlan says:** What the..? This voucher was for Kwint, not you! I will find someone more trustworthy to take it to him.
@@ -55,18 +57,18 @@ if( **You turn in:** [A Scrap of Parchment](/item/18821)) then
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-25)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (-3)
+Your faction standing with [Antonius Bayle](/faction/219) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (-2)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-5)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-5</span>)
 
 **This NPC *should* return incorrect items given.**

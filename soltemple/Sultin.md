@@ -86,69 +86,93 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Glowing Glamour Stone](/item/10087), [Golden Rod](/item/6337)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10087" data-url="10087" class="tooltip-link link">Glowing Glamour Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/6337" data-url="6337" class="tooltip-link link">Golden Rod</a>) then
 
 
 >**Sultin says:** Well done, adventurer. You have kept your part of the bargain, so I keep mine. Here is your rod.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Rod of Insidious Glamour](/item/6329) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/6329" data-url="6329" class="tooltip-link link">Rod of Insidious Glamour</a> (+1000 exp)
+
+ 
 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Pouch of Silver Dust](/item/12240), [Glowing Silver Wand](/item/6340)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/12240" data-url="12240" class="tooltip-link link">Pouch of Silver Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6340" data-url="6340" class="tooltip-link link">Glowing Silver Wand</a>) then
 
 
 >**Sultin says:** I see that you are resourceful... you have earned your incandescent wand.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Incandescent Wand](/item/6334) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6334" data-url="6334" class="tooltip-link link">Incandescent Wand</a> (+1000 exp)
+
+ 
 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Gloves](/item/2353), [Enchanted Gloves](/item/2354), [Gleaming Gloves](/item/2355), [Radiant Gloves](/item/2356)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2353" data-url="2353" class="tooltip-link link">Glowing Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2354" data-url="2354" class="tooltip-link link">Enchanted Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2355" data-url="2355" class="tooltip-link link">Gleaming Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2356" data-url="2356" class="tooltip-link link">Radiant Gloves</a>) then
 
 
 >**Sultin says:** Four pairs of gloves you have given me ? I will give you one pair in return. We shall see who had the better deal.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Incandescent Gloves](/item/2351) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2351" data-url="2351" class="tooltip-link link">Incandescent Gloves</a> (+1000 exp)
+
+ 
 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Glowing Mask](/item/2352), [Rune of Fortune](/item/10530), [Rune of Fortune](/item/10531), [Rune of Fortune](/item/10532)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2352" data-url="2352" class="tooltip-link link">Glowing Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10530" data-url="10530" class="tooltip-link link">Rune of Fortune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10531" data-url="10531" class="tooltip-link link">Rune of Fortune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10532" data-url="10532" class="tooltip-link link">Rune of Fortune</a>) then
 
 
 >**Sultin says:** Fortune favors you .. as will this mask.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Incandescent Mask](/item/2350) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2350" data-url="2350" class="tooltip-link link">Incandescent Mask</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

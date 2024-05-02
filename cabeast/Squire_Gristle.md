@@ -22,14 +22,17 @@
 >*Squire Gristle shakes his head and growls. 'That is not good, broodling... Not good at all. You will need to take this note and seek out the Toilmaster immediately. Read it on the way and hope that your incompetence can be overcome. We do have a pit for you, should this prove to be impossible.*
 
 
-**You receive:**  [A Ragged Book](/item/18271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18271" data-url="18271" class="tooltip-link link">A Ragged Book</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18272" data-url="18272" class="tooltip-link link">Rites of Exoneration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/24770" data-url="24770" class="tooltip-link link">Filled Penance Bag</a>) then
 
 
 
@@ -39,6 +42,9 @@ if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/
 >**Squire Gristle says:** Lucky you. You have earned a second chance. Praise Cazic-Thule!
 
 
- **You receive:**  [Pawn's Khukri](/item/5120) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5120" data-url="5120" class="tooltip-link link">Pawn's Khukri</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

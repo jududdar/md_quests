@@ -26,10 +26,13 @@ end
 
 
 
-if( **You turn in:** [Letter to Peffin](/item/18171)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18171" data-url="18171" class="tooltip-link link">Letter to Peffin</a>) then
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 
 PeffinCampFire(e);

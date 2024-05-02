@@ -50,45 +50,59 @@ end
 
 
 
-if( **You turn in:** [Illegible Cantrip](/item/13845)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13845" data-url="13845" class="tooltip-link link">Illegible Cantrip</a>) then
 
 
 >**Tara Neklene says:** Very fine work, my young apprentice. This shall be very useful in understanding their ways. I have heard rumors of a scribe who can decipher these scrolls. He is said to frequent the local taverns. Bah!! If I cannot decipher them, no one can!! Continue with your work. Soon you shall advance enough to [test the might of the orc oracles].
 
 
-* __Faction:__ [Arcane Scientists](/faction/220) (10)
+Your faction standing with [Arcane Scientists](/faction/220) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (2)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007), [Torch](/item/13002), [Water Flask](/item/13006)) (+250 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13005" data-url="13005" class="tooltip-link link">Iron Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13007" data-url="13007" class="tooltip-link link">Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>) (+250 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Illegible Scroll](/item/13225)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13225" data-url="13225" class="tooltip-link link">Illegible Scroll</a>) then
 
 
 >**Tara Neklene says:** Wonderful! You have survived the might of an oracle. With this we can now continue our experiments. Now you may continue your teaching and study the power to summon those of earth, air, water and fire.
 
 
-* __Faction:__ [Arcane Scientists](/faction/220) (15)
+Your faction standing with [Arcane Scientists](/faction/220) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-2)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-2)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Elementalkin: Air](/item/15317), [Spell: Elementalkin: Earth](/item/15058), [Spell: Elementalkin: Fire](/item/15316), [Spell: Elementalkin: Water](/item/15315)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15317" data-url="15317" class="tooltip-link link">Spell: Elementalkin: Air</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15058" data-url="15058" class="tooltip-link link">Spell: Elementalkin: Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15316" data-url="15316" class="tooltip-link link">Spell: Elementalkin: Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15315" data-url="15315" class="tooltip-link link">Spell: Elementalkin: Water</a>) (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

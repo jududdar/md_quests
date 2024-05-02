@@ -26,7 +26,8 @@
 >**Klok Ephmir says:** That would be good. If you are a blacksmith, I am sure you can find a sharpening stone and bring life back in my disk. If you sharpen this I shall gladly provide you with some thin sliced froglok.
 
 
-**You receive:**  [Dull Cutting Disk](/item/12449)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/12449" data-url="12449" class="tooltip-link link">Dull Cutting Disk</a>
 
 **You say:** `outlander`
 
@@ -41,7 +42,8 @@ end
 
 
 
-if( **You turn in:** [Sharp Cutting Disk](/item/12450)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/12450" data-url="12450" class="tooltip-link link">Sharp Cutting Disk</a>) then
 
 
 
@@ -50,16 +52,28 @@ if( **You turn in:** [Sharp Cutting Disk](/item/12450)) then
 >*Klok Ephmir takes the disk and attaches it to an odd device powered by a foot pedal. He takes a froglok leg and begins to slice it as chunks of gristle flies into your face. When he is done he hands you some thin sliced froglok. 'There you are. Run along.'*
 
 
- **You receive:**  [Thin Sliced Froglok Meat](/item/12445) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_815.png" alt="" /> <a
+                                href="/item/12445" data-url="12445" class="tooltip-link link">Thin Sliced Froglok Meat</a> 
+
+ 
 
 
- **You receive:**  [Thin Sliced Froglok Meat](/item/12445) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_815.png" alt="" /> <a
+                                href="/item/12445" data-url="12445" class="tooltip-link link">Thin Sliced Froglok Meat</a> 
+
+ 
 
 
- **You receive:**  [Thin Sliced Froglok Meat](/item/12445) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_815.png" alt="" /> <a
+                                href="/item/12445" data-url="12445" class="tooltip-link link">Thin Sliced Froglok Meat</a> 
+
+ 
 
 
- **You receive:**  [Thin Sliced Froglok Meat](/item/12445) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_815.png" alt="" /> <a
+                                href="/item/12445" data-url="12445" class="tooltip-link link">Thin Sliced Froglok Meat</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

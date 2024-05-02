@@ -25,7 +25,8 @@ end
 
 
 
-if( **You turn in:** [Shiny Tin Bowl](/item/17860)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_858.png" alt="" /> <a
+                                href="/item/17860" data-url="17860" class="tooltip-link link">Shiny Tin Bowl</a>) then
 
 
 >*Jaeil the Wretched howls in anger, his body seeming to suck energy from the walls around him as he sees his reflection. He pulls a hammer from the bundle in his arms and swings fiercely at your head.*

@@ -78,7 +78,9 @@ end
 local text = "I'll need both the kobold medicine pouch and the diviner's bowl before I can reward you, Soandso. Good luck.";
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Kobold Shamans Pouch](/item/17056), [Diviners Bowl](/item/1766)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/17056" data-url="17056" class="tooltip-link link">Kobold Shamans Pouch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1248.png" alt="" /> <a
+                                href="/item/1766" data-url="1766" class="tooltip-link link">Diviners Bowl</a>) then 
 
 
 >**Breya Nostulia says:** Well done, Soandso. I had a feeling you would return victorious. Here is your reward, the Leggings of Midnight Sea. Wear them with pride for the Ocean Lord. If you are interested in aiding us further, you may want to ask Gans about his brother.
@@ -87,16 +89,19 @@ if( **Faction is** > Indifferent and  **You turn in:** [Kobold Shamans Pouch](/i
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (25)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+25</span>)
  
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
  
 
-* __Faction:__ [Heretics](/faction/265) (-3)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Midnight Sea Mail Leggings](/item/1762) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_630.png" alt="" /> <a
+                                href="/item/1762" data-url="1762" class="tooltip-link link">Midnight Sea Mail Leggings</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

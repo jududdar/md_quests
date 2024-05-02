@@ -190,24 +190,28 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Neb's head](/item/26010)) then
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_916.png" alt="" /> <a
+                                href="/item/26010" data-url="26010" class="tooltip-link link">Neb's head</a>) then
 
 
 >**Zlandicar says:** Excellent work! Here is your key, go bother that prattling fool Jaled Dar, and leave me be.
 
 
-* __Faction:__ [Zlandicar](/faction/464) (500)
+Your faction standing with [Zlandicar](/faction/464) got better (<span class='text-success'>+500</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-50)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Chetari](/faction/462) (50)
+Your faction standing with [Chetari](/faction/462) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-50)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-50</span>)
 
 
- **You receive:**  [Jaled Dar's Tomb Key](/item/28060) (+250000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/28060" data-url="28060" class="tooltip-link link">Jaled Dar's Tomb Key</a> (+250000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

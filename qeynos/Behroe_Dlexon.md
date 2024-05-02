@@ -59,7 +59,8 @@ if **Faction** >= Indifferent +50 then
 
 
 
-**You receive:**  [The Thornless Rose](/item/18026)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18026" data-url="18026" class="tooltip-link link">The Thornless Rose</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -83,7 +84,8 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Letter to Behroe](/item/18027)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18027" data-url="18027" class="tooltip-link link">Letter to Behroe</a>) then
 
 
 >**Behroe Dlexon says:** Ah, thank you, kind Soandso.  You've made two foolish lovebirds very happy.  Please, take this..  Though it is not much, it will help keep you warm on those chilly Karana nights.  It is very good to have a friend such as yourself, and I will one day repay you for your kindness and generosity.
@@ -92,24 +94,28 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Letter to Behroe](/item
 
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (8)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+8</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Shawl of the Wind Spirit](/item/1055) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1055" data-url="1055" class="tooltip-link link">Shawl of the Wind Spirit</a> (+50 exp)
 
-elseif **Faction** >= Indifferent +50 and  **You turn in:** [Jusean's Report Request](/item/18021)) then
+ 
+
+elseif **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18021" data-url="18021" class="tooltip-link link">Jusean's Report Request</a>) then
 
 
 >*Behroe Dlexon yawns and says, 'Oh, report time already again?  Yeah, here ya go, Soandso.  Be careful around here at night, I've been seeing some rough looking characters lurking about.*
@@ -118,24 +124,28 @@ elseif **Faction** >= Indifferent +50 and  **You turn in:** [Jusean's Report Req
 
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (10)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Behroe's Report](/item/18023) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18023" data-url="18023" class="tooltip-link link">Behroe's Report</a> (+50 exp)
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+ 
+
+**This NPC *should* return incorrect items given.**
+
 ## On NPC Death
 
 >**Behroe Dlexon says:** Your actions will not go unnoticed! The League of Antonican Bards has many members all over this continent.

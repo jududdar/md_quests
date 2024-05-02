@@ -14,7 +14,10 @@
 
 
 
- **You receive:**  [Third part of an Iceclad Map](/item/30045) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30045" data-url="30045" class="tooltip-link link">Third part of an Iceclad Map</a> (+1000 exp)
+
+ 
 
 
 **Stop timer** named *depop*

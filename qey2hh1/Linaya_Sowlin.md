@@ -40,7 +40,8 @@ end
 
 
 
-if( **You turn in:** [Flask of Nitrates](/item/13945)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13945" data-url="13945" class="tooltip-link link">Flask of Nitrates</a>) then
 
 
 >**Linaya Sowlin says:** Oh thank Tunare you showed up when you did. I was at a nearby merchant house when a fellow dropped a [note] and I picked it up and read it. It talked of the [Unkempt Druids] and before I could read on, the man swiped it from my hands. I ran for dear life, for surely he would kill me for reading the note. I think I lost him in the woods but I am not sure. Please stay with me a while to be sure.
@@ -49,22 +50,24 @@ if( **You turn in:** [Flask of Nitrates](/item/13945)) then
 
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (10)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (1)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-2)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
+
+ 
 
 
 **Spawn NPC:**  [Draze Slashyn](/npc/12181) at (**y:** -3400, **x:** -8000)

@@ -33,7 +33,8 @@ if( **Faction is** >= Amiable) then
 
 
 
-**You receive:**  [Air Tight Box](/item/17923)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17923" data-url="17923" class="tooltip-link link">Air Tight Box</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -63,7 +64,8 @@ if( **Faction is** >= Amiable) then
 
 
 
-**You receive:**  [A Telescope Lens](/item/13277)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/13277" data-url="13277" class="tooltip-link link">A Telescope Lens</a>
 
 
 elseif( **Faction is** == Indifferent) then

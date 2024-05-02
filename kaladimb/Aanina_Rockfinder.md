@@ -17,13 +17,17 @@ end
 
 
 
-if( **You turn in:** [A note of credit](/item/20879)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/20879" data-url="20879" class="tooltip-link link">A note of credit</a>) then
 
 
 >**Aanina Rockfinder says:** Ah, nice of you to come and pick this up for Ganelorn! I know he is a busy fellow. I certainly hope that his girlfriend will like this gift.
 
 
- **You receive:**  [A Gift](/item/20880) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/20880" data-url="20880" class="tooltip-link link">A Gift</a> 
+
+ 
 end
 
 

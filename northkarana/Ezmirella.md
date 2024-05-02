@@ -34,13 +34,17 @@ end
 
 
 
-if( **You turn in:** [Silver Wand](/item/6338), gold = 50) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6338" data-url="6338" class="tooltip-link link">Silver Wand</a>, gold = 50) then
 
 
 >**Ezmirella says:** I have blessed your silver wand.  To complete the enchantment, you must take the wand to Raine Beteria in the Erudin Library.  Tip her 50 golden coins, and she will help you.
 
 
- **You receive:**  [Blessed Silver Wand](/item/6339) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6339" data-url="6339" class="tooltip-link link">Blessed Silver Wand</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

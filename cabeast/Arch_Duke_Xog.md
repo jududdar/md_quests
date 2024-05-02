@@ -66,7 +66,8 @@ local text3 = "A true crusader would have brought to me what I requested. The He
 
 
 
-if( **You turn in:** [Guild Summons](/item/18205)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18205" data-url="18205" class="tooltip-link link">Guild Summons</a>) then 
 
 
 
@@ -76,74 +77,81 @@ if( **You turn in:** [Guild Summons](/item/18205)) then
 >**Arch Duke Xog says:** Welcome into our brotherhood. Know you that our way is the way of pain. Do as we say and you shall climb the rungs of knighthood. Listen well to the Lords of Pain within this temple and follow the words of the hierophants, for Cazic-Thule speaks to us through them. Take this khukri. It is the chosen weapon of the Crusaders and can deliver great pain unto our foes. Go now and learn our ways. Seek out Lord Gikzic.
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (100)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (25)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+25</span>)
 
 
 
 
 
 
- **You receive:**  [Pawn's Khukri](/item/5120) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1174.png" alt="" /> <a
+                                href="/item/5120" data-url="5120" class="tooltip-link link">Pawn's Khukri</a> (+200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-3 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Stupendous Tome](/item/18051), [Hero's Khukri](/item/5126)) then 
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18051" data-url="18051" class="tooltip-link link">Stupendous Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1184.png" alt="" /> <a
+                                href="/item/5126" data-url="5126" class="tooltip-link link">Hero's Khukri</a>) then 
 
 
 >**Arch Duke Xog says:** A legible tome of the scrolls of Vok Na Zov! What a find this is!! May the unholy curses of Cazic flow through you. Please accept the weapon of a Lord of Pain. To abandon it is to abandon our ways and earn yourself the hatred of our order.
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (10)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Lord of Pain's Khukri](/item/5128) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1184.png" alt="" /> <a
+                                href="/item/5128" data-url="5128" class="tooltip-link link">Lord of Pain's Khukri</a> (+25000 exp)
 
-elseif( **You turn in:** [Illegible Note: Bracer](/item/14791)) then 
+**You receive coin:** 1-8 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
-
-
-
-
-
->*Arch Duke Xog  takes the note and glances at it briefly then lets out a heavy sigh and stares out over the city for several minutes. Finally he says quietly, 'Several months ago we lost contact with one of our crusaders. His name is, or was, Geanik. The last we heard from him he was furthering our cause against the loathsome Goblins that reside in Warsliks Wood. Just recently we were visited by a [strange Iksar].'*
-
-elseif( **You turn in:** [Traitors Heart](/item/14807), [Sapphire](/item/10034), [Sapphire](/item/10034)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/14807" data-url="14807" class="tooltip-link link">Traitors Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>) then
 
 
 >**Arch Duke Xog says:** Thanks for resolving this issue. Here is your reward
 
 
- **You receive:**  [Xog's Reference: Bracer](/item/14808) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/14808" data-url="14808" class="tooltip-link link">Xog's Reference: Bracer</a> (+10000 exp)
 
-elseif( **You turn in:** [Illegible Note: Gauntlets](/item/14792)) then 
+ 
 
-
->*Arch Duke Xog  takes the note without even a glance in your direction and begins reading. After a long silence, he lets his arms drop to his sides and says quietly, 'We kill, Soandso. That is our job, our duty in life. Our targets are chosen for us. We merely listen. Right now I am being told there is a traitor not far from here, near the ocean. Go to him andhis life. Bring me his head, and two star rubies. As you do this, try hard to listen to our Lord's instruction. If you hear even a whisper, you will know more righteousness than most of this city.'*
-
-elseif( **You turn in:** [Head of Blackhand](/item/14806), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1208.png" alt="" /> <a
+                                href="/item/14806" data-url="14806" class="tooltip-link link">Head of Blackhand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Arch Duke Xog says:** Well done, Soandso.
 
 
- **You receive:**  [Xog's Reference: Gauntlet](/item/14809) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/14809" data-url="14809" class="tooltip-link link">Xog's Reference: Gauntlet</a> (+10000 exp)
 
-elseif( **You turn in:** [Greenmist Icon](/item/14814)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/14814" data-url="14814" class="tooltip-link link">Greenmist Icon</a>) then
 
 
 >*Arch Duke Xog takes the icon and stares at it. His face twists into a look of disdain and he suddenly throws the icon off the balcony. It lands in the water some distance away. Without even a glance at you he says in disgust, 'You're an idiot, Soandso. You fit your profession well. Leave my sight.'*
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (-25)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (-6)
+Your faction standing with [Legion of Cabilis](/faction/441) got worse (<span class='text-danger'>-6</span>)
 
 **This NPC *should* return incorrect items given.**
 

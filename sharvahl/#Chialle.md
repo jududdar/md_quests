@@ -240,7 +240,11 @@ end
 
 
 
-if( **You turn in:** [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/item/30625)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/30625" data-url="30625" class="tooltip-link link">Sweet Payala Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/30625" data-url="30625" class="tooltip-link link">Sweet Payala Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/30625" data-url="30625" class="tooltip-link link">Sweet Payala Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/30625" data-url="30625" class="tooltip-link link">Sweet Payala Nectar</a>) then
 
 
 >**Chialle says:** Oh wow! This is just what I was hoping for. Thank you so much! You must be a real good friend to Saren to have her make you these, she never makes freshly squeezed nectar unless she really likes someone. You have a kind heart Soandso. Please take this with you as a token of my friendship.
@@ -249,7 +253,10 @@ if( **You turn in:** [Sweet Payala Nectar](/item/30625), [Sweet Payala Nectar](/
 >*Chialle smiles as she hands Soandso a shimmering emberstone ring.*
 
 
- **You receive:**  [Chialles Friendship Ring](/item/30609) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_508.png" alt="" /> <a
+                                href="/item/30609" data-url="30609" class="tooltip-link link">Chialles Friendship Ring</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

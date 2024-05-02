@@ -26,6 +26,9 @@ if( **You turn in:** gold = 1000) then
 >**Mark Blotter says:** Here it is, I am sure you will be very satisfied with this purchase!
 
 
- **You receive:**  [Sealed Golden Scroll Tube](/item/10671) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/10671" data-url="10671" class="tooltip-link link">Sealed Golden Scroll Tube</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -48,13 +48,20 @@ end
 
 
 
-if( **You turn in:** [Nightmare Mephit Heart](/item/29228), [Crystal Spider Brain](/item/29229), [Solid Block of Perilium](/item/29230), platinum =  [Zaharns Coronet](/item/3000)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/29228" data-url="29228" class="tooltip-link link">Nightmare Mephit Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/29229" data-url="29229" class="tooltip-link link">Crystal Spider Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1095.png" alt="" /> <a
+                                href="/item/29230" data-url="29230" class="tooltip-link link">Solid Block of Perilium</a>, platinum =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3000" data-url="3000" class="tooltip-link link">Zaharns Coronet</a>) then
 
 
 >**Borik Darkanvil says:** Ah ha! Here we go one box of souls!
 
 
- **You receive:**  [Box of Souls](/item/29281) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/29281" data-url="29281" class="tooltip-link link">Box of Souls</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

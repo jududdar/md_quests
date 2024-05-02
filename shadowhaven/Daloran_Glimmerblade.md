@@ -40,7 +40,8 @@
 >**Daloran Glimmerblade says:** That is great to hear, Soandso. Here is the hilt. Please go see Yaeorat at once and bring me news about the magic that surrounds this sword hilt good or bad.
 
 
-**You receive:**  [Gemmed Sword Hilt](/item/4762)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4762" data-url="4762" class="tooltip-link link">Gemmed Sword Hilt</a>
 end
 
 ## Turn-Ins
@@ -49,21 +50,24 @@ end
 
 
 
-if( **You turn in:** [Gem Encrusted Sword Hilt](/item/4763)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4763" data-url="4763" class="tooltip-link link">Gem Encrusted Sword Hilt</a>) then 
 
 
 >**Daloran Glimmerblade says:** Fantastic work, Soandso. It would seem that this hilt is fit to be attached to a blade and distributed amongst my guards. I have many other hilts that I need delivered to Yaeorat should you choose to courier another in the future. Until then good luck to you.
 
 
-* __Faction:__ [House of Fordel](/faction/1510) (25)
+Your faction standing with [House of Fordel](/faction/1510) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Haven Defenders](/faction/1509) (25)
+Your faction standing with [Haven Defenders](/faction/1509) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (2)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

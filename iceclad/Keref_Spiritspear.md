@@ -32,18 +32,22 @@ end
 
 
 
-if( **You turn in:** [Rune Shafted Harpoon](/item/30052)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/30052" data-url="30052" class="tooltip-link link">Rune Shafted Harpoon</a>) then
 
 
 >*Keref Spiritspear gasps in astonishment. 'This true hero weapon.  This just like harpoon of mighty Groumshak! Now I can find family! Many thanks, friend to Snowfang. Take this for thanks. It protect from danger.'  He hands you an intricately carved ice totem. A feeling of safety washes over you as he places it in your hand.*
 
 
-* __Faction:__ [Snowfang Gnolls](/faction/439) (3)
+Your faction standing with [Snowfang Gnolls](/faction/439) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Ulthork](/faction/431) (-1)
+Your faction standing with [Ulthork](/faction/431) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Icy Totem of Protection](/item/30051) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/30051" data-url="30051" class="tooltip-link link">Icy Totem of Protection</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -13,7 +13,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `forge`
@@ -33,7 +34,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `bravefoot gauntlets`
@@ -45,7 +47,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `bravefoot vambraces`
@@ -57,7 +60,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `bravefoot greaves`
@@ -69,7 +73,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `bravefoot breastplate`
@@ -81,7 +86,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 **You say:** `bravefoot mail boots`
@@ -93,7 +99,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 end
 
@@ -103,13 +110,17 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Letter to Jimji Bottletoe](/item/19628)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19628" data-url="19628" class="tooltip-link link">Letter to Jimji Bottletoe</a>) then
 
 
 >**Jimji Bottletoe says:** Pleased to meet you Soandso! You must be one of Kayas new trainees. Kaya has asked me to help get you outfitted in a suit of armor to protect you from the vile weapons of Rivervales foes. I have assembled a kit for you that will allow you to construct the armor pieces once you have gathered the necessary components. The required components vary according to which piece of Bravefoot Mail armor you are planning on assembling. Do you wish to craft a [bravefoot helm]. a [bravefoot mail bracer]. [bravefoot gauntlets]. [bravefoot mail boots]. [bravefoot vambraces]. [bravefoot greaves]. or a [bravefoot breastplate].
 
 
- **You receive:**  [Mail Assembly Kit](/item/17124) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

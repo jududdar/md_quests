@@ -44,7 +44,8 @@
 >*a lost pirate laughs. 'Its yer funeral, boyo. I'm not even sure they're readable. Oh, well. Here, take this. It's the cover of the book I was puttin' the map in. If ya get the first four parts, put em in there. If ya get the fifth, just go give it ta Ami the way ya find it. Hey, if ya find em all, come get me so I can find me way back. I'm thinkin' I'd like ta go back now.'*
 
 
-**You receive:**  [Map Binding](/item/17053)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/17053" data-url="17053" class="tooltip-link link">Map Binding</a>
 
 **You say:** `chapter p`
 
@@ -59,13 +60,17 @@ end
 
 
 
-if( **You turn in:** [Pieces of the Iceclad Map](/item/30046)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30046" data-url="30046" class="tooltip-link link">Pieces of the Iceclad Map</a>) then
 
 
 >*a lost pirate grins widely and slaps you on the arm. 'Har har! You're crazier than I am. And since I know that I must not be that crazy after all. Ahh, I haven't felt this good in ages..' He shuffles the pieces and jots down a few notes here and there. 'There, now it's really finished. Let's get us outta here. Hold this fer me.' As he starts to try and crawl up the hill, a sleek figure darts towards him.*
 
 
- **You receive:**  [Completed Map of Iceclad](/item/30047) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30047" data-url="30047" class="tooltip-link link">Completed Map of Iceclad</a> (+50000 exp)
+
+ 
 
 
 **Spawn NPC:**  [rabid snow cougar](/npc/110012) at this location.

@@ -57,18 +57,24 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18784)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18784" data-url="18784" class="tooltip-link link">A tattered note</a>) then 
  
 
 >**Tylfon says:** Hmm.. I hope you can prove yourself a lot more valuable than you look. Here, throw this on.. it'll help protect you a little. Let's get started on improving your skills.
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (100)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Old Worn Gray Tunic*](/item/13535) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13535" data-url="13535" class="tooltip-link link">Old Worn Gray Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), [Rusty Dagger](/item/7007),gold = 2) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7007" data-url="7007" class="tooltip-link link">Rusty Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7007" data-url="7007" class="tooltip-link link">Rusty Dagger</a>,gold = 2) then
  
 
 >**Tylfon says:** Well, well. I didn't think you could do it. Here's your cut and don't be surprised that it's not much because it's your first lesson. Remember. the smaller the operation. the bigger the share, and the richest rogues have the tightest lips.
@@ -77,12 +83,17 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), 
 
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (1)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Tarnished Dagger](/item/7021) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7021" data-url="7021" class="tooltip-link link">Tarnished Dagger</a> (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/13346), [Rusty Dagger](/item/13346),gold = 2) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/13346" data-url="13346" class="tooltip-link link">Rusty Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/13346" data-url="13346" class="tooltip-link link">Rusty Dagger</a>,gold = 2) then
  
 
 >**Tylfon says:** Well, well. I didn't think you could do it. Here's your cut and don't be surprised that it's not much because it's your first lesson. Remember. the smaller the operation. the bigger the share, and the richest rogues have the tightest lips.
@@ -91,12 +102,17 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/13346),
 
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (1)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Tarnished Dagger](/item/7021) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7021" data-url="7021" class="tooltip-link link">Tarnished Dagger</a> (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), [Rusty Dagger](/item/13346),gold = 2) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7007" data-url="7007" class="tooltip-link link">Rusty Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/13346" data-url="13346" class="tooltip-link link">Rusty Dagger</a>,gold = 2) then
  
 
 >**Tylfon says:** Well, well. I didn't think you could do it. Here's your cut and don't be surprised that it's not much because it's your first lesson. Remember. the smaller the operation. the bigger the share, and the richest rogues have the tightest lips.
@@ -107,18 +123,25 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusty Dagger](/item/7007), 
 
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (1)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Tarnished Dagger](/item/7021) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7021" data-url="7021" class="tooltip-link link">Tarnished Dagger</a> (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Emerald Shard](/item/13322)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/13322" data-url="13322" class="tooltip-link link">Emerald Shard</a>) then
  
 
 >**Tylfon says:** Excellent job, Soandso, we will turn you into a rogue of Tunare yet.  Here this is for your trouble.
 
 
- **You receive:**  [Silvermesh Leggings](/item/3315) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3315" data-url="3315" class="tooltip-link link">Silvermesh Leggings</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -33,7 +33,8 @@
 >*an Iksar master hands you an old tattered sack. 'This shall be your proof of allegiance. Prove that you are strong with an intact mandible of a skulking brutling and the claws of a burynai excavator. Prove that you are a monk of fist and tail with a sash of an exiled human monk and the sparring gloves of a goblin pit fighter. Combined, these items make the sack full. This will earn my trust and the hand.'*
 
 
-**You receive:**  [Tattered Sack from Rinmark](/item/17036)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17036" data-url="17036" class="tooltip-link link">Tattered Sack from Rinmark</a>
 
 **You say:** `assist old Rinmark in completing his rock garden`
 
@@ -42,7 +43,8 @@
 >*an Iksar master pours the pebbles into his pocket and hands the box to you. 'Take my box. Fill and combine within my box the following; a radiant meteorite, frontier fool's gold, petrified redwood, Rile's sand coin, sulfur stone, fragment of tektite, plains pebble, jade magma, heart of ice and an unholy coldstone. Return the full tin box to me and I shall reward you with a shackle of bronze.'*
 
 
-**You receive:**  [Empty Tin Box](/item/17039)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17039" data-url="17039" class="tooltip-link link">Empty Tin Box</a>
 
 **You say:** `student`
 
@@ -51,7 +53,8 @@
 >*an Iksar master hands you what appears to be the base of a key. 'This was delivered to me by a dying student. He collapsed just after handing it to me. He was accompanying a student of mine named Veltar. They were questing for the legendary Whistling Fists. The key is made of a metal I have never felt or heard of. Find him.'*
 
 
-**You receive:**  [Part of a Large Key](/item/17040)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/17040" data-url="17040" class="tooltip-link link">Part of a Large Key</a>
 
 **You say:** `test of patience`
 
@@ -76,47 +79,58 @@ end
 
 
 
-if( **You turn in:** [Full Sack for Master](/item/12815)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12815" data-url="12815" class="tooltip-link link">Full Sack for Master</a>) then
 
 
 >*an Iksar master bows before you and takes a wrinkled, mummified hand from a pouch at his side. 'Take the hand. Let it rest within Cabilis and be reunited with the left.'*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (20)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Iksar Right Hand =|-](/item/12797) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/12797" data-url="12797" class="tooltip-link link">Iksar Right Hand =|-</a> (+20000 exp)
 
-elseif( **You turn in:** [A Tin Box](/item/12829)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12829" data-url="12829" class="tooltip-link link">A Tin Box</a>) then
 
 
 >*an Iksar master opens the box to reveal a variety of pebbles. 'How grand!! My pebbles!! Now I can continue with my rock garden!! Hmmm. You look familiar. Hey!! I bet you can help me complete my garden!! Would you please [assist old Rinmark in completing his rock garden]?'*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (20)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** 0 (+30000 exp)
+ &#127873; **You receive:** 0 (+30000 exp)
 
-elseif( **You turn in:** [A Pebble Filled Box](/item/12836)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12836" data-url="12836" class="tooltip-link link">A Pebble Filled Box</a>) then
 
 
 >*an Iksar master graciously accepts the tin box filled with precious rocks and gems. 'Thank you greatly, young Soandso. For your deed, I bestow upon you the shackle of bronze!! You have completed the third rung. Alas, there is no time for celebration. I need your help in rescuing a [student] of mine.'*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (20)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Shackle of Bronze](/item/4195) (+30000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4195" data-url="4195" class="tooltip-link link">Shackle of Bronze</a> (+30000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

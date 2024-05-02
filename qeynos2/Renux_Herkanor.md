@@ -68,7 +68,8 @@ if **Faction** >= Indifferent +50 then
 
 
 
-**You receive:**  [Lomarc's Payment](/item/18793)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18793" data-url="18793" class="tooltip-link link">Lomarc's Payment</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -93,7 +94,8 @@ end
 
 
 
-if **Faction** >= Indifferent +40 and  **You turn in:** [Kerran Doll](/item/13716)) then 
+if **Faction** >= Indifferent +40 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13716" data-url="13716" class="tooltip-link link">Kerran Doll</a>) then 
 
 
 >**Renux Herkanor says:** Yes, I see you aim to please. I hope you gave Lomarc the payment he deserved? Heh, that punk had no idea of the value of this shipment. The emerald inside this doll will fetch a pretty penny from those greedy merchants.
@@ -102,30 +104,32 @@ if **Faction** >= Indifferent +40 and  **You turn in:** [Kerran Doll](/item/1371
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (30)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+30</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-4)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-4</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (4)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-4)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (4)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+4</span>)
 
 
 
 
- **You receive:** 0 (+1000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-4</span>)
+
+
+
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+4</span>)
+
+
+
+
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -41,13 +41,18 @@ end
 
 
 
-if( **You turn in:** [Ring of the Ancients](/item/12268), [Shadowed Rapier](/item/7100), platinum = 325) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_563.png" alt="" /> <a
+                                href="/item/12268" data-url="12268" class="tooltip-link link">Ring of the Ancients</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7100" data-url="7100" class="tooltip-link link">Shadowed Rapier</a>, platinum = 325) then
 
 
 >**Hasten Bootstrutter says:** The time to trade has come!! I am now rich and you are now fast. Take the Journeyman Boots and run like the wind.
 
 
- **You receive:**  [Journeyman's Boots](/item/2300) (+1250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_764.png" alt="" /> <a
+                                href="/item/2300" data-url="2300" class="tooltip-link link">Journeyman's Boots</a> (+1250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

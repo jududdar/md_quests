@@ -46,7 +46,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Empty Bag](/item/17944)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17944" data-url="17944" class="tooltip-link link">Empty Bag</a>
 
 
 
@@ -105,7 +106,11 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223), [Wrath Orc Wristbands](/item/12223)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/12223" data-url="12223" class="tooltip-link link">Wrath Orc Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/12223" data-url="12223" class="tooltip-link link">Wrath Orc Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/12223" data-url="12223" class="tooltip-link link">Wrath Orc Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/12223" data-url="12223" class="tooltip-link link">Wrath Orc Wristbands</a>) then 
 
 
 >**Lysbith McNaff says:** Ye're becoming a fine champion o' Halas. Take th' Seax. May ye always defend Halas!
@@ -114,33 +119,37 @@ if( **Faction is** > Indifferent and  **You turn in:** [Wrath Orc Wristbands](/i
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (20)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+20</span>)
 
 
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (4)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+4</span>)
 
 
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (5)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+5</span>)
 
 
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
 
 
 
- **You receive:**  [Seax](/item/7322) (+3000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7322" data-url="7322" class="tooltip-link link">Seax</a> (+3000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Bag of Ice Necklaces](/item/13898)) then 
+ 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13898" data-url="13898" class="tooltip-link link">Bag of Ice Necklaces</a>) then 
 
 
 >**Lysbith McNaff says:** Ye've done well, me young " .. e.other:Class() .. " .  We've gathered these to add to yer provisions.  While in the Everfrost Peaks, be on the watch fer any gnolls ye may find.  I declare there to be a [gnoll bounty].
@@ -149,33 +158,43 @@ elseif( **Faction is** > Indifferent and  **You turn in:** [Bag of Ice Necklaces
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (10)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (2)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (2)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
 
 
 
- **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007), [Water Flask](/item/13006), [Torch](/item/13002), [Small Lantern](/item/13003)) (+3800 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13005" data-url="13005" class="tooltip-link link">Iron Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13007" data-url="13007" class="tooltip-link link">Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_684.png" alt="" /> <a
+                                href="/item/13003" data-url="13003" class="tooltip-link link">Small Lantern</a>) (+3800 exp)
 
-elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>) then
 
 
 
@@ -185,25 +204,31 @@ elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (15)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+15</span>)
 
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (3)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (3)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:** eq.ChooseRandom( [Iron Ration](/item/13005), [Ration](/item/13007), [Water Flask](/item/13006), [Torch](/item/13002)) (+8000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13005" data-url="13005" class="tooltip-link link">Iron Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_570.png" alt="" /> <a
+                                href="/item/13007" data-url="13007" class="tooltip-link link">Ration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>) (+8000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 **This NPC *should* return incorrect items given.**

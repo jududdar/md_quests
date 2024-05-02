@@ -21,7 +21,8 @@
 >**Drakis Bloodcaster says:** Take this tome and read it.  When you are finished, return it to me and I will summon Jzil.
 
 
-**You receive:**  [Shadowy Thoughts](/item/18536)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18536" data-url="18536" class="tooltip-link link">Shadowy Thoughts</a>
 
 **You say:** `Dugaas`
 
@@ -30,14 +31,16 @@
 >**Drakis Bloodcaster says:** Take this book and read it then.  When you are finished, hand it back to me and I will summon the vile Dugaas.
 
 
-**You receive:**  [Pomp and Circumstance](/item/18537)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18537" data-url="18537" class="tooltip-link link">Pomp and Circumstance</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Shadowy Thoughts](/item/18536)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18536" data-url="18536" class="tooltip-link link">Shadowy Thoughts</a>) then 
 
 
 >**Drakis Bloodcaster says:** Farewell.
@@ -48,7 +51,8 @@ if( **You turn in:** [Shadowy Thoughts](/item/18536)) then
 
 **Drakis Bloodcaster despawns.**
 
-elseif( **You turn in:** [Pomp and Circumstance](/item/18537)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18537" data-url="18537" class="tooltip-link link">Pomp and Circumstance</a>) then 
 
 
 >**Drakis Bloodcaster says:** Farewell.

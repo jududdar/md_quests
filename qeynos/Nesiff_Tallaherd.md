@@ -17,13 +17,14 @@
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 >**Nesiff Tallaherd says:** Tax time again already?? It seems like I just paid yesterday.. High taxes and low sales mean I won't be able to stay in business much longer. Good thing ol' Weleth is taking care of me. Here are my taxes.
 
 
-**You receive:**  [Tallaherds Tax Payment](/item/13173)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13173" data-url="13173" class="tooltip-link link">Tallaherds Tax Payment</a>
 end
 
 ## Turn-Ins
@@ -32,7 +33,8 @@ end
 
 
 
-if( **You turn in:** [Crate of Defective Arrows](/item/13925)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13925" data-url="13925" class="tooltip-link link">Crate of Defective Arrows</a>) then 
 
 
 >**Nesiff Tallaherd says:** Oh dear. I hope my mistake will not bring too much grief down on poor Weleth. He was told not to order arrows from me after the last time I fouled up their shipment. But Weleth knew I needed the account to stay in business. Could you please rush this new invoice to him right away? Thank you.
@@ -41,24 +43,28 @@ if( **You turn in:** [Crate of Defective Arrows](/item/13925)) then
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (5)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [A Slip of Parchment](/item/18824) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/18824" data-url="18824" class="tooltip-link link">A Slip of Parchment</a> (+250 exp)
 
-elseif( **You turn in:** [Claim Check](/item/18012)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18012" data-url="18012" class="tooltip-link link">Claim Check</a>) then
 
 
 >**Nesiff Tallaherd says:** Oh.  Vesteri sent you?  Here you go.  I hope Te'Anara likes it.
@@ -67,21 +73,24 @@ elseif( **You turn in:** [Claim Check](/item/18012)) then
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Wooden Statue](/item/13864) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/13864" data-url="13864" class="tooltip-link link">Wooden Statue</a> (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

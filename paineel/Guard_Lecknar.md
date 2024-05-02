@@ -21,7 +21,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Bone Crafted Key](/item/6378)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1078.png" alt="" /> <a
+                                href="/item/6378" data-url="6378" class="tooltip-link link">Bone Crafted Key</a>
 
 
 elseif **Faction** >= Indifferent then

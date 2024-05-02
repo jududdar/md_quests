@@ -13,16 +13,19 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Opaque Gem](/item/1666)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_959.png" alt="" /> <a
+                                href="/item/1666" data-url="1666" class="tooltip-link link">Opaque Gem</a>) then 
 
 
 >**Ooglyn says:** Ahhh, tank you, now me can...OH LOOK!! DA SIGN!!!! Oh, sorry you missed it. The sign show you where to wait for da test. Follow me...I like you so I take you there. We goin for a swim, Soandso!
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 >**Ooglyn says:** Ok shaman, let us be off.

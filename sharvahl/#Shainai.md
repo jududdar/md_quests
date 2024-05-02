@@ -91,7 +91,10 @@ if(e.self:GetWaypointID() > 16 and e.self:GetWaypointID() < 59) then
 
 
 
- **You receive:**  [Shainais Bag](/item/4460) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/4460" data-url="4460" class="tooltip-link link">Shainais Bag</a> 
+
+ 
 
 
 

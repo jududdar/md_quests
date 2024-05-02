@@ -117,11 +117,13 @@ end
 
 
 
-if ( not **You possess item:**  [Sphere of Coalesced Water](/item/29163) x 1
+if ( not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/29163" data-url="29163" class="tooltip-link link">Sphere of Coalesced Water</a> x 1
 
 
 
-**You receive:**  [Sphere of Coalesced Water](/item/29163)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/29163" data-url="29163" class="tooltip-link link">Sphere of Coalesced Water</a>
 
 
 

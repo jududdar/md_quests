@@ -31,7 +31,8 @@ if( **Faction is** >= Indifferent) then
 
 
 
-**You receive:**  [A Sealed Letter](/item/18886)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18886" data-url="18886" class="tooltip-link link">A Sealed Letter</a>
 
 
 else

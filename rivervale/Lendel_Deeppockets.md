@@ -45,7 +45,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Dusty Mail Assembly Kit](/item/17247)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17247" data-url="17247" class="tooltip-link link">Dusty Mail Assembly Kit</a>
 
 
 **You say:** `coifs`
@@ -57,7 +58,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Coif Pattern](/item/22671)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22671" data-url="22671" class="tooltip-link link">An Enchanted Coif Pattern</a>
 
 
 **You say:** `bracers`
@@ -69,7 +71,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22672)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22672" data-url="22672" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `sleeves`
@@ -81,7 +84,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22673)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22673" data-url="22673" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `boots`
@@ -93,7 +97,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boots Pattern](/item/22674)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22674" data-url="22674" class="tooltip-link link">An Enchanted Boots Pattern</a>
 
 
 **You say:** `legplates`
@@ -105,7 +110,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Legplates Pattern](/item/22675)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22675" data-url="22675" class="tooltip-link link">An Enchanted Legplates Pattern</a>
 
 
 **You say:** `gauntlets`
@@ -117,7 +123,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlets Pattern](/item/22676)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22676" data-url="22676" class="tooltip-link link">An Enchanted Gauntlets Pattern</a>
 
 
 **You say:** `tunic`
@@ -129,7 +136,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Tunic Pattern](/item/22677)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22677" data-url="22677" class="tooltip-link link">An Enchanted Tunic Pattern</a>
 
 
 **You say:** `job`
@@ -147,48 +155,57 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [A tattered note](/item/18732)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18732" data-url="18732" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Lendel Deeppockets says:** HA! I asked that fool Denry to send me a professional, and this is what I get?!? Oh diddlepicks! That crotchety old coot never liked me anyway. And after all I've done for him! Hrrmf! Ah well, let's get you started and see what ya got, huh, kid? Here, wear this. Maybe I'll have Toelia break you in, huh? Yeah, that'll work! Go find her, and she'll put you to work. Just remember, we all earn our keep around here, or else it's back to hay farm for you! Oh yeah, tell her you're the [new dishwasher] so she knows you are on the level.
 
 
-* __Faction:__ [Deeppockets](/faction/241) (100)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-5)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (5)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (5)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Old Brown Vest*](/item/13539) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13539" data-url="13539" class="tooltip-link link">Old Brown Vest*</a> (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Orc Bone Fragments](/item/22693), [Fractured Orc Jawbone](/item/22694)) then
+ 
 
-
-* __Faction:__ [Deeppockets](/faction/241) (10)
-
-
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
-
-
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/22693" data-url="22693" class="tooltip-link link">Orc Bone Fragments</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/22694" data-url="22694" class="tooltip-link link">Fractured Orc Jawbone</a>) then
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Dirk of the Slickfinger](/item/22695) (+20 exp)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
+
+
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
+
+
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_763.png" alt="" /> <a
+                                href="/item/22695" data-url="22695" class="tooltip-link link">Dirk of the Slickfinger</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

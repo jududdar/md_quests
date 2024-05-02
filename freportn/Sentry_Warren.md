@@ -19,21 +19,25 @@ end
 
 
 
-if( **You turn in:** [Part of Potion of Marr](/item/12133)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12133" data-url="12133" class="tooltip-link link">Part of Potion of Marr</a>) then
 
 
 >**Sentry Warren says:** Thank you. I believe you need to seek out Sentry Xyrin. She is not at the temple. I believe she left to speak with [Sisterhood of Erollisi]. She was to speak with Styria.
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (1)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Last of Potion of Marr](/item/12134) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12134" data-url="12134" class="tooltip-link link">Last of Potion of Marr</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -20,24 +20,33 @@ end
 
 
 
-if( **You turn in:** [A Gossamer Wing](/item/24870), [a prismatic wing](/item/24871)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_908.png" alt="" /> <a
+                                href="/item/24870" data-url="24870" class="tooltip-link link">A Gossamer Wing</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_908.png" alt="" /> <a
+                                href="/item/24871" data-url="24871" class="tooltip-link link">a prismatic wing</a>) then 
 
 
 >**a storm giant foreman says:** You've done well. Maybe that foolish court will learn yet that the expansion of Kael cannot be impeded.
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (2)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (2)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** eq.ChooseRandom( [Holgresh Mojo Stick](/item/24887), [Holgresh Grand Vizier Beads](/item/24889), [Holgresh Mojo Stick](/item/24886), [Holgresh Mojo Stick](/item/24885), [Holgresh Mojo Stick](/item/24884)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/24887" data-url="24887" class="tooltip-link link">Holgresh Mojo Stick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/24889" data-url="24889" class="tooltip-link link">Holgresh Grand Vizier Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/24886" data-url="24886" class="tooltip-link link">Holgresh Mojo Stick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/24885" data-url="24885" class="tooltip-link link">Holgresh Mojo Stick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/24884" data-url="24884" class="tooltip-link link">Holgresh Mojo Stick</a>) (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

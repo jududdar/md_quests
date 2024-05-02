@@ -47,10 +47,14 @@ end
 
 
 
-if( **You turn in:** [Emerald](/item/10029)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/10029" data-url="10029" class="tooltip-link link">Emerald</a>) then 
 
 
- **You receive:**  [Before Green](/item/18068) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18068" data-url="18068" class="tooltip-link link">Before Green</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

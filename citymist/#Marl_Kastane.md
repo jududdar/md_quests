@@ -25,7 +25,8 @@ end
 
 
 
-if( **You turn in:** [Lhranc's Token](/item/14384)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/14384" data-url="14384" class="tooltip-link link">Lhranc's Token</a>) then
 
 
 
@@ -33,11 +34,14 @@ if( **You turn in:** [Lhranc's Token](/item/14384)) then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (-53)
+Your faction standing with [Truespirit](/faction/404) got worse (<span class='text-danger'>-53</span>)
 
 
 
- **You receive:**  [Innoruuk's Curse](/item/14383) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1195.png" alt="" /> <a
+                                href="/item/14383" data-url="14383" class="tooltip-link link">Innoruuk's Curse</a> 
+
+ 
 
 
 

@@ -46,7 +46,8 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](/item/13968)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13968" data-url="13968" class="tooltip-link link">Shattered Caster Beads</a>) then 
 
 
 >**Shamus Felligan says:** Shattered! This has happened frequently! These beads are very delicate. They're useless to me now, however, I'll reward ye fer the execution of yet more goblin casters. Continue yer work. The Tribunal watches ye!
@@ -55,7 +56,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (10)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+10</span>)
 
 
 
@@ -73,7 +74,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
 
@@ -91,7 +92,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -109,7 +110,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -127,7 +128,7 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-2)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-2</span>)
 
 
 
@@ -147,9 +148,22 @@ if( **Faction is** > Indifferent and  **You turn in:** [Shattered Caster Beads](
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Frost Rift](/item/15275), [Spell: Sicken](/item/15075), [Spell: Fleeting Fury](/item/15271), [Spell: Spirit of Bear](/item/15279), [Spell: Cure Blindness](/item/15212), [Spell: Spirit Sight](/item/15079), [Spell: Summon Food](/item/15050), [Spell: Endure Fire](/item/15224), [Spell: Gate](/item/15036)) (+1600 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15270" data-url="15270" class="tooltip-link link">Spell: Drowsy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15275" data-url="15275" class="tooltip-link link">Spell: Frost Rift</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15075" data-url="15075" class="tooltip-link link">Spell: Sicken</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15271" data-url="15271" class="tooltip-link link">Spell: Fleeting Fury</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15279" data-url="15279" class="tooltip-link link">Spell: Spirit of Bear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15212" data-url="15212" class="tooltip-link link">Spell: Cure Blindness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15079" data-url="15079" class="tooltip-link link">Spell: Spirit Sight</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15050" data-url="15050" class="tooltip-link link">Spell: Summon Food</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15224" data-url="15224" class="tooltip-link link">Spell: Endure Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15036" data-url="15036" class="tooltip-link link">Spell: Gate</a>) (+1600 exp)
 
-elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item/13969)) then
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **Faction is** > Indifferent and   **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13969" data-url="13969" class="tooltip-link link">Caster Beads</a>) then
 
 
 
@@ -159,7 +173,7 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (25)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+25</span>)
 
 
 
@@ -177,7 +191,7 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (3)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+3</span>)
 
 
 
@@ -195,7 +209,7 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-3)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-3</span>)
 
 
 
@@ -213,7 +227,7 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-3)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-3</span>)
 
 
 
@@ -231,7 +245,7 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-5)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-5</span>)
 
 
 
@@ -251,7 +265,10 @@ elseif( **Faction is** > Indifferent and   **You turn in:** [Caster Beads](/item
 
 
 
- **You receive:**  [Gavel of Justice](/item/6028) (+6400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6028" data-url="6028" class="tooltip-link link">Gavel of Justice</a> (+6400 exp)
+
+**You receive coin:** 0-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **This NPC *should* return incorrect items given.**

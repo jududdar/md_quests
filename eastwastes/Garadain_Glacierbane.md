@@ -54,7 +54,8 @@
 >**Garadain Glacierbane says:** I'm taking a liking to you, stranger. Your eagerness to help us will not go unnoticed. Find my nephew and give him this axe. It should keep him from hurting himself. Return to me with the ring and proof that he is safe.
 
 
-**You receive:**  [Dull Bladed Axe](/item/30265)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/30265" data-url="30265" class="tooltip-link link">Dull Bladed Axe</a>
 
 
 
@@ -91,7 +92,8 @@
 >**Garadain Glacierbane says:** [Tain] Hammerfrost can get you one. Find him and give him this.
 
 
-**You receive:**  [Note to Tain](/item/30139)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/30139" data-url="30139" class="tooltip-link link">Note to Tain</a>
 
 **You say:** `tain`
 
@@ -165,7 +167,8 @@ local text1 = "Excuse me, Soandso, aren't you forgetting something?";
 
 
 
-if( **You turn in:** [Coldain Hunting Blanket](/item/30135)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/30135" data-url="30135" class="tooltip-link link">Coldain Hunting Blanket</a>) then
 
 
 >**Garadain Glacierbane says:** Ahh, that'll do fine. Take this, it is but a trinket for now, but continue to serve the Coldain and it will grow in power. I must get some rest now, for I have been told my [nephew] has disappeared again and I will need to track him down tomorrow.
@@ -174,29 +177,34 @@ if( **You turn in:** [Coldain Hunting Blanket](/item/30135)) then
 
 
 
-* __Faction:__ [Coldain](/faction/406) (5)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (1)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-2)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Copper Coldain Insignia Ring](/item/30131) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/30131" data-url="30131" class="tooltip-link link">Copper Coldain Insignia Ring</a> (+1000 exp)
 
-
-
-
-
-
+ 
 
 
 
-elseif( **You turn in:** [Copper Coldain Insignia Ring](/item/30131), [Broken Axe](/item/30267)) then
+
+
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/30131" data-url="30131" class="tooltip-link link">Copper Coldain Insignia Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/30267" data-url="30267" class="tooltip-link link">Broken Axe</a>) then
 
 
 >**Garadain Glacierbane says:** Well done friend! My nephew is safe at home and his thirst for adventure is quenched for now. The beast will claim no more of our people. I couldn't have handled it better myself. Now I can get back to the business of [hunting].
@@ -205,29 +213,34 @@ elseif( **You turn in:** [Copper Coldain Insignia Ring](/item/30131), [Broken Ax
 
 
 
-* __Faction:__ [Coldain](/faction/406) (10)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (2)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-5)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Silver Coldain Insignia Ring](/item/30133) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_874.png" alt="" /> <a
+                                href="/item/30133" data-url="30133" class="tooltip-link link">Silver Coldain Insignia Ring</a> (+2000 exp)
 
-
-
-
-
-
+ 
 
 
 
-elseif( **You turn in:** [Silver Coldain Insignia Ring](/item/30133), [Coldain Hunting Knife](/item/30137)) then
+
+
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_874.png" alt="" /> <a
+                                href="/item/30133" data-url="30133" class="tooltip-link link">Silver Coldain Insignia Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/30137" data-url="30137" class="tooltip-link link">Coldain Hunting Knife</a>) then
 
 
 >**Garadain Glacierbane says:** Hrmm, not quite the work of a Coldain. Barely functional, in fact. I'll be needing to touch this up a bit. Fetch me a Coldain [smithing hammer] and I'll be sure to tell my associates in Thurgadin of your deeds.
@@ -236,29 +249,34 @@ elseif( **You turn in:** [Silver Coldain Insignia Ring](/item/30133), [Coldain H
 
 
 
-* __Faction:__ [Coldain](/faction/406) (20)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (5)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-10)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:**  [Gold Coldain Insignia Ring](/item/30132) (+3000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/30132" data-url="30132" class="tooltip-link link">Gold Coldain Insignia Ring</a> (+3000 exp)
 
-
-
-
-
-
+ 
 
 
 
-elseif( **You turn in:** [Coldain Smithing Hammer](/item/30140), [Gold Coldain Insignia Ring](/item/30132)) then
+
+
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/30140" data-url="30140" class="tooltip-link link">Coldain Smithing Hammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/30132" data-url="30132" class="tooltip-link link">Gold Coldain Insignia Ring</a>) then
 
 
 >**Garadain Glacierbane says:** Ahh, there we go now, that's more like it. It would be time to return to the hunt were it not for the [plans] our spies have discovered.
@@ -267,29 +285,34 @@ elseif( **You turn in:** [Coldain Smithing Hammer](/item/30140), [Gold Coldain I
 
 
 
-* __Faction:__ [Coldain](/faction/406) (25)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (6)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-12)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Platinum Coldain Insignia Ring](/item/30134) (+4000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_873.png" alt="" /> <a
+                                href="/item/30134" data-url="30134" class="tooltip-link link">Platinum Coldain Insignia Ring</a> (+4000 exp)
 
-
-
-
-
-
+ 
 
 
 
-elseif( **You turn in:** [Head of Scarbrow](/item/30141), [Platinum Coldain Insignia Ring](/item/30134)) then
+
+
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_996.png" alt="" /> <a
+                                href="/item/30141" data-url="30141" class="tooltip-link link">Head of Scarbrow</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_873.png" alt="" /> <a
+                                href="/item/30134" data-url="30134" class="tooltip-link link">Platinum Coldain Insignia Ring</a>) then
 
 
 >**Garadain Glacierbane says:** Without your assistance, we would have lost our camp and our lives. Again, I thank you. Now that you have proven your loyalty to the throne I have a special [favor] to ask of you.
@@ -298,29 +321,35 @@ elseif( **You turn in:** [Head of Scarbrow](/item/30141), [Platinum Coldain Insi
 
 
 
-* __Faction:__ [Coldain](/faction/406) (25)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (6)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-12)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Obsidian Coldain Insignia Ring](/item/30268) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_674.png" alt="" /> <a
+                                href="/item/30268" data-url="30268" class="tooltip-link link">Obsidian Coldain Insignia Ring</a> (+5000 exp)
 
-
-
-
-
-
+ 
 
 
 
-elseif( **You turn in:** [Rodrick's Head](/item/1045), [Note from Kromrif](/item/18084), [Obsidian Coldain Insignia Ring](/item/30268)) then
+
+
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/1045" data-url="1045" class="tooltip-link link">Rodrick's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18084" data-url="18084" class="tooltip-link link">Note from Kromrif</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_674.png" alt="" /> <a
+                                href="/item/30268" data-url="30268" class="tooltip-link link">Obsidian Coldain Insignia Ring</a>) then
 
 
 >*Garadain Glacierbane lowers his head and mutters, 'At least there will be some closure for their families, thanks to you. The Ry\`gorr will pay for this with their lives! I will ask you to help us in the invasion of Ry\`gorr keep, but first I have a delicate [mission] I was hoping you'd handle.*
@@ -329,29 +358,33 @@ elseif( **You turn in:** [Rodrick's Head](/item/1045), [Note from Kromrif](/item
 
 
 
-* __Faction:__ [Coldain](/faction/406) (25)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (6)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-12)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Mithril Coldain Insignia Ring](/item/30162) (+6000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_880.png" alt="" /> <a
+                                href="/item/30162" data-url="30162" class="tooltip-link link">Mithril Coldain Insignia Ring</a> (+6000 exp)
 
-
-
-
-
-
+ 
 
 
 
-elseif( **You turn in:** [Note from Corbin](/item/1047)) then
+
+
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/1047" data-url="1047" class="tooltip-link link">Note from Corbin</a>) then
 
 
 >*Garadain Glacierbane Thank you, Soandso, your service to our people has been most helpful. The time has come for our people to make war with the Ry\`gorr. They must pay for their transgressions against our people. We are just waiting on you. Prepare yourself for glorious battle and tell me when you are [ready].*
@@ -360,19 +393,22 @@ elseif( **You turn in:** [Note from Corbin](/item/1047)) then
 
 
 
-* __Faction:__ [Coldain](/faction/406) (25)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (6)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-12)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Adamantium Coldain Insignia Ring](/item/30163) (+7000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_614.png" alt="" /> <a
+                                href="/item/30163" data-url="30163" class="tooltip-link link">Adamantium Coldain Insignia Ring</a> (+7000 exp)
+
+ 
 
 
 
@@ -382,7 +418,8 @@ elseif( **You turn in:** [Note from Corbin](/item/1047)) then
 
 
 
-elseif( **You turn in:** [Adamantium Coldain Insignia Ring](/item/30163)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_614.png" alt="" /> <a
+                                href="/item/30163" data-url="30163" class="tooltip-link link">Adamantium Coldain Insignia Ring</a>) then
 
 
 >*Garadain Glacierbane Give this to Gloradin and return to me immediately, it is time. May Brell be with us!*
@@ -391,18 +428,21 @@ elseif( **You turn in:** [Adamantium Coldain Insignia Ring](/item/30163)) then
 
 
 
-* __Faction:__ [Coldain](/faction/406) (15)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (3)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-7)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-7</span>)
 
 
- **You receive:**  [Marching Orders](/item/1093) (+3500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/1093" data-url="1093" class="tooltip-link link">Marching Orders</a> (+3500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

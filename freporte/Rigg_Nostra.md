@@ -19,18 +19,24 @@ end
 
 
 
-if( **You turn in:** [Bent Playing Card](/item/19917)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/19917" data-url="19917" class="tooltip-link link">Bent Playing Card</a>) then
 
 
 >**Rigg Nostra says:** Excellent I've been waiting for the Coalition to send me some assistance. I have an associate waiting for some supplies that have not yet been collected. I need you to acquire a [crate of pick heads] and a [bundle of hardwood shafts] and bring them to me so that I may prepare them for delivery to my associate.
 
-elseif( **You turn in:** [Bundle of Hardwood Staves](/item/19931), [Crate of Pick Axe Heads](/item/19929)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/19931" data-url="19931" class="tooltip-link link">Bundle of Hardwood Staves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/19929" data-url="19929" class="tooltip-link link">Crate of Pick Axe Heads</a>) then
 
 
 >**Rigg Nostra says:** Thanks Soandso.  Now hand this crate to the fellow behind you.
 
 
- **You receive:**  [Large Crate of Mining Supplies](/item/19930) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/19930" data-url="19930" class="tooltip-link link">Large Crate of Mining Supplies</a> 
+
+ 
 
 
 **Spawn NPC:**  [Orc Centurion](/npc/10000) at (**y:** -456, **x:** -144)

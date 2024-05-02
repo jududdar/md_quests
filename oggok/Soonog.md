@@ -44,53 +44,64 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18789)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18789" data-url="18789" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Soonog says:** Soonog own you now.. fight for Soonog.. Soonog make you strong.. Soonog army rule all!!
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (100)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (50)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+50</span>)
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (-15)
+Your faction standing with [Storm Guard](/faction/312) got worse (<span class='text-danger'>-15</span>)
 
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (-15)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-15</span>)
 
 
 
- **You receive:**  [Green Stained Skin Tunic*](/item/13527) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13527" data-url="13527" class="tooltip-link link">Green Stained Skin Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410), [Lizard Meat](/item/13410)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13410" data-url="13410" class="tooltip-link link">Lizard Meat</a>) then
 
 
 >**Soonog says:** Small meats but is good nuff.  You take dis and go kill eberyting.  Make all scared of da Greenblood knights.  You get ready for next inb.. ins.. invat.. you get ready for next war.  You learning stuff, you come bak here and me teach you more Greenblood stuf so we be more tuffest.
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (5)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (2)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (-1)
+Your faction standing with [Storm Guard](/faction/312) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (-1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Rusty Two Handed Sword](/item/5023) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

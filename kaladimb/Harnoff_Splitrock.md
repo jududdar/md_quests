@@ -16,7 +16,8 @@
 >**Harnoff Splitrock says:** I was hopin you'd be up fer the job! Take this here crate and fill it with either Small Bricks of Unrefined Ore or Large Bricks of Unrefined Ore and I'll pay ya when ye return.
 
 
-**You receive:**  [Empty Ore Crate](/item/17814)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17814" data-url="17814" class="tooltip-link link">Empty Ore Crate</a>
 
 end
 
@@ -26,7 +27,8 @@ end
 
 
 
-if( **You turn in:** [Small Shipment of High Quality Ore](/item/10952)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10952" data-url="10952" class="tooltip-link link">Small Shipment of High Quality Ore</a>) then 
 
 
 
@@ -34,59 +36,64 @@ if( **You turn in:** [Small Shipment of High Quality Ore](/item/10952)) then
 >**Harnoff Splitrock says:** Thank you! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (5)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (1)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (-1)
+Your faction standing with [Miners Guild 628](/faction/322) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 4 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Harnoff Splitrock despawns.**
 
-elseif( **You turn in:** [Large Shipment of High Quality Ore](/item/10953)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10953" data-url="10953" class="tooltip-link link">Large Shipment of High Quality Ore</a>) then 
 
 
 
 >**Harnoff Splitrock says:** Thank you! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (-1)
+Your faction standing with [Miners Guild 628](/faction/322) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (1)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 4 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Harnoff Splitrock despawns.**

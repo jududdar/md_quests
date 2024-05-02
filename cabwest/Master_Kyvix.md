@@ -25,7 +25,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Brood Sack](/item/17024)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17024" data-url="17024" class="tooltip-link link">Brood Sack</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -54,7 +55,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Spectacle](/item/12848)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/12848" data-url="12848" class="tooltip-link link">A Spectacle</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -88,25 +90,10 @@ local text2 = "So you are expecting to earn your way to rank of revenant, eh? Yo
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full Component Sack](/item/12420), [Apprentice Skullcap - 3rd Rank](/item/4262)) then 
-
-
-
-
-
-
->**Master Kyvix says:** you have taken far too long!! Already another apprentice has performed this task. You will still be rewarded with the Dark Binder skullcap, but now you must aid in a [true mission].
-
-
-* __Faction:__ [Brood of Kotiz](/faction/443) (10)
-
-
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
-
-
- **You receive:**  [Dark Binder Skullcap](/item/4263) (+200 exp)
-
-elseif **Faction** >= Amiable and  **You turn in:** [A Journal](/item/18065), [Dark Binder Skullcap](/item/4263)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12420" data-url="12420" class="tooltip-link link">Full Component Sack</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18065" data-url="18065" class="tooltip-link link">A Journal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4263" data-url="4263" class="tooltip-link link">Dark Binder Skullcap</a>) then 
 
 
 
@@ -116,27 +103,36 @@ elseif **Faction** >= Amiable and  **You turn in:** [A Journal](/item/18065), [D
 >**Master Kyvix says:** I did not expect you to return. You made me lose a bet with one of the other scholars. Seeing as you have delivered the tome, I shall not harm you, but rather welcome you into the rank of the dark circles. Listen well to the scholars within this tower and seek the [Keepers Grotto] for knowledge of our spells. This drape shall be the sign to all iksar that you walk with the Brood. Now go speak with Xydoz.
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (10)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Occultist Skullcap](/item/4264) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4264" data-url="4264" class="tooltip-link link">Occultist Skullcap</a> (+200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Stem of Candlestick](/item/12853), [Foot of Candlestick](/item/12852), [Occultist Skullcap](/item/4264)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_732.png" alt="" /> <a
+                                href="/item/12853" data-url="12853" class="tooltip-link link">Stem of Candlestick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1013.png" alt="" /> <a
+                                href="/item/12852" data-url="12852" class="tooltip-link link">Foot of Candlestick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4264" data-url="4264" class="tooltip-link link">Occultist Skullcap</a>) then
 
 
 
 >*Master Kyvix grabs the candle parts and puts them in an odd pouch, then takes your cap which disintegrates in his palm. He hands you another cap. 'Welcome, Revenant Soandso. You have done well. The Harbinger awaits you. He seeks a [new revenant].'*
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (10)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Revenant Skullcap](/item/4265) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4265" data-url="4265" class="tooltip-link link">Revenant Skullcap</a> (+200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

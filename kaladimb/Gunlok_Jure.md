@@ -43,7 +43,11 @@ end
 
 
 
-if( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>) then
 
 
 >**Gunlok Jure says:** You have done well. We thank you for your deed with this humble reward. The power behind the raising of our dead shall soon be found. You will earn more respect with more bone chips. I only wish you could assist in the return of the [remains of Cromil].
@@ -52,27 +56,49 @@ if( **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone
 
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (10)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+10</span>)
 
 
  
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (10)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (7)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+7</span>)
 
 
 
 
 
- **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122), [Small Patchwork Pants](/item/2123), [Small Patchwork Boots](/item/2124), [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Broad Sword](/item/5016), [Rusty Two Handed Sword](/item/5023), [Rusty Mace](/item/6011), [Torch](/item/13002), [Small Lantern](/item/13003)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2113" data-url="2113" class="tooltip-link link">Small Tattered Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2114" data-url="2114" class="tooltip-link link">Small Tattered Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2115" data-url="2115" class="tooltip-link link">Small Tattered Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2116" data-url="2116" class="tooltip-link link">Small Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2117" data-url="2117" class="tooltip-link link">Small Tattered Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2118" data-url="2118" class="tooltip-link link">Small Patchwork Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2119" data-url="2119" class="tooltip-link link">Small Tattered Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2120" data-url="2120" class="tooltip-link link">Small Patchwork Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2121" data-url="2121" class="tooltip-link link">Small Tattered Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2122" data-url="2122" class="tooltip-link link">Small Tattered Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2123" data-url="2123" class="tooltip-link link">Small Patchwork Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2124" data-url="2124" class="tooltip-link link">Small Patchwork Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5016" data-url="5016" class="tooltip-link link">Rusty Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/6011" data-url="6011" class="tooltip-link link">Rusty Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_684.png" alt="" /> <a
+                                href="/item/13003" data-url="13003" class="tooltip-link link">Small Lantern</a>) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Bones](/item/13332)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13332" data-url="13332" class="tooltip-link link">Dwarf Bones</a>) then 
 
 
 >**Gunlok Jure says:** Many thanks, my friend. Now my brother can rest in peace. Please take this spell. May it serve you well.
@@ -81,24 +107,30 @@ elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Bones](/item/13332)) 
 
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (20)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+20</span>)
 
 
  
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (20)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+20</span>)
 
 
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (15)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+15</span>)
 
 
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Flash of Light](/item/15201), [Spell: Spook the Dead](/item/15209), [Spell: Hammer of Wrath](/item/15223), [Spell: Root](/item/15230)) (+10000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15201" data-url="15201" class="tooltip-link link">Spell: Flash of Light</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15209" data-url="15209" class="tooltip-link link">Spell: Spook the Dead</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15223" data-url="15223" class="tooltip-link link">Spell: Hammer of Wrath</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15230" data-url="15230" class="tooltip-link link">Spell: Root</a>) (+10000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

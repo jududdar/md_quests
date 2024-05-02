@@ -383,44 +383,54 @@ end
 
 
 
-if **Faction** >= Warmly and  **You turn in:** [Black Rawhide Tunic](/item/8763), [Pouch of Polished Jade Stones](/item/8762)) then 
+if **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/8763" data-url="8763" class="tooltip-link link">Black Rawhide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/8762" data-url="8762" class="tooltip-link link">Pouch of Polished Jade Stones</a>) then 
 
 
 >**Jhaya Wyndrunner says:** Excellent, my friend! Well done indeed. These are exactly what I needed to make the tunic Nolan has requested of you. And. . . thank you for avenging my dear, departed friend. She shall be missed, and it is in her memory that I give you the Jade Studded Tunic. Go now, my friend. Nolan awaits and I am sure that he will be most impressed with your success thus far
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Jade Studded Rawhide Tunic](/item/8761) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/8761" data-url="8761" class="tooltip-link link">Jade Studded Rawhide Tunic</a> (+2000 exp)
 
-elseif **Faction** >= Warmly and  **You turn in:** [Shadowjade Weave](/item/8884), [Blackened Mithril Chain](/item/8885)) then 
+ 
+
+elseif **Faction** >= Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/8884" data-url="8884" class="tooltip-link link">Shadowjade Weave</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/8885" data-url="8885" class="tooltip-link link">Blackened Mithril Chain</a>) then 
 
 
 >**Jhaya Wyndrunner says:** Excellent, my friend! Well done indeed. These are exactly what I needed to make the circlet. Go now, my friend. Cheyloh awaits and I am sure that he will be most impressed with your success thus far.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Shadowjade Circlet](/item/8883) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/8883" data-url="8883" class="tooltip-link link">Shadowjade Circlet</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

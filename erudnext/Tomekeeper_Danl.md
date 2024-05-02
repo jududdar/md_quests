@@ -25,13 +25,17 @@ end
 
 
 
-if( **You turn in:** [Immortals](/item/18195)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18195" data-url="18195" class="tooltip-link link">Immortals</a>) then
 
 
 >*Tomekeeper Danl gasps at the sight of the rare book. 'This is a great find indeed! I can only imagine who you had to.. persuade to give you the book. Our library would be very interested in acquiring this and I am prepared to give you this referral that marks you as a friend of the library. If only [Lheao] could see this.'*
 
 
- **You receive:**  [Danl's Reference](/item/1682) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1004.png" alt="" /> <a
+                                href="/item/1682" data-url="1682" class="tooltip-link link">Danl's Reference</a> 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 3 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

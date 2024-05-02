@@ -32,7 +32,8 @@
 >**Khonza Ayssla says:** Take this satchel and please listen closely. I need the following and they need to be relatively fresh. So dont waste time with frivolous strolls through the jungle. I require two Panda Claws, two Tiger Skins, two Asp Poison Sacs, a Bamboo Shoot, and a Kejekan Palm Fruit, which you will need to find somewhere in the jungle. Once you have these items, combine them in the bag and return to me.
 
 
-**You receive:**  [Burlap Satchel](/item/17884)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17884" data-url="17884" class="tooltip-link link">Burlap Satchel</a>
 end
 
 ## Turn-Ins
@@ -41,18 +42,22 @@ end
 
 
 
-if( **You turn in:** [Full Gathering Satchel](/item/6975)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/6975" data-url="6975" class="tooltip-link link">Full Gathering Satchel</a>) then
 
 
 >**Khonza Ayssla says:** I thought the kobolds would have you for dinner, but you made it back.' Ayssla takes the satchel and begins to pour different vials of foul smelling liquid into it. She then takes the entire contents of the bag and dumps it into a large kettle and begins to chant in an unknown language. After a few minutes, she takes a small amount of the now boiling liquid and puts it in a vial. 'Take this vial back to Jali. I pray to the Titan Spirits that it works.
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (5)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Vial of Healing Liquid](/item/6976) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/6976" data-url="6976" class="tooltip-link link">Vial of Healing Liquid</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

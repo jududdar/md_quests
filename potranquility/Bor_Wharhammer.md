@@ -73,14 +73,16 @@ if((e.other:GetClass() >= 1 and e.other:GetClass() <= 5) or (e.other:GetClass() 
 
 
 
-**You receive:**  [Mystical Furnace of Ro](/item/17184)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1115.png" alt="" /> <a
+                                href="/item/17184" data-url="17184" class="tooltip-link link">Mystical Furnace of Ro</a>
 
 
 else
 
 
 
-**You receive:**  [Druzzil's Mystical Sewing Kit](/item/17185)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_892.png" alt="" /> <a
+                                href="/item/17185" data-url="17185" class="tooltip-link link">Druzzil's Mystical Sewing Kit</a>
 
 
 
@@ -89,105 +91,120 @@ if (e.other:GetClass() == 1) then
 
 
 
-**You receive:**  [Warrior Emblem](/item/16267)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/16267" data-url="16267" class="tooltip-link link">Warrior Emblem</a>
 
 
 elseif (e.other:GetClass() == 2) then
 
 
 
-**You receive:**  [Cleric Emblem](/item/16271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/16271" data-url="16271" class="tooltip-link link">Cleric Emblem</a>
 
 
 elseif (e.other:GetClass() == 3) then
 
 
 
-**You receive:**  [Paladin Emblem](/item/16269)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/16269" data-url="16269" class="tooltip-link link">Paladin Emblem</a>
 
 
 elseif (e.other:GetClass() == 4) then
 
 
 
-**You receive:**  [Ranger Emblem](/item/16272)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/16272" data-url="16272" class="tooltip-link link">Ranger Emblem</a>
 
 
 elseif (e.other:GetClass() == 5) then
 
 
 
-**You receive:**  [Shadowknight Emblem](/item/16270)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/16270" data-url="16270" class="tooltip-link link">Shadowknight Emblem</a>
 
 
 elseif (e.other:GetClass() == 6) then
 
 
 
-**You receive:**  [Druid Emblem](/item/16276)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/16276" data-url="16276" class="tooltip-link link">Druid Emblem</a>
 
 
 elseif (e.other:GetClass() == 7) then
 
 
 
-**You receive:**  [Monk Emblem](/item/16275)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/16275" data-url="16275" class="tooltip-link link">Monk Emblem</a>
 
 
 elseif (e.other:GetClass() == 8) then
 
 
 
-**You receive:**  [Bard Emblem](/item/16268)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/16268" data-url="16268" class="tooltip-link link">Bard Emblem</a>
 
 
 elseif (e.other:GetClass() == 9) then
 
 
 
-**You receive:**  [Rogue Emblem](/item/16273)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/16273" data-url="16273" class="tooltip-link link">Rogue Emblem</a>
 
 
 elseif (e.other:GetClass() == 10) then
 
 
 
-**You receive:**  [Shaman Emblem](/item/16274)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/16274" data-url="16274" class="tooltip-link link">Shaman Emblem</a>
 
 
 elseif (e.other:GetClass() == 11) then
 
 
 
-**You receive:**  [Necromancer Emblem](/item/16278)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/16278" data-url="16278" class="tooltip-link link">Necromancer Emblem</a>
 
 
 elseif (e.other:GetClass() == 12) then
 
 
 
-**You receive:**  [Wizard Emblem](/item/16279)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/16279" data-url="16279" class="tooltip-link link">Wizard Emblem</a>
 
 
 elseif (e.other:GetClass() == 13) then
 
 
 
-**You receive:**  [Magician Emblem](/item/16280)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/16280" data-url="16280" class="tooltip-link link">Magician Emblem</a>
 
 
 elseif (e.other:GetClass() == 14) then
 
 
 
-**You receive:**  [Enchanter Emblem](/item/16281)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/16281" data-url="16281" class="tooltip-link link">Enchanter Emblem</a>
 
 
 elseif (e.other:GetClass() == 15) then
 
 
 
-**You receive:**  [Beastlord Emblem](/item/16277)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/16277" data-url="16277" class="tooltip-link link">Beastlord Emblem</a>
 
 
 

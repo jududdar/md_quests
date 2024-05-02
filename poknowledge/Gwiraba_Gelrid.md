@@ -7,7 +7,8 @@
 
 
 
-if(**You possess item:**  [Intermediate Combat Manual](/item/28790) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/28790" data-url="28790" class="tooltip-link link">Intermediate Combat Manual</a> x 1
 
 
 
@@ -28,12 +29,19 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Rage Filled Gem](/item/26697), [Sandstorm Gem](/item/9421), [Intermediate Combat Manual](/item/28790)) then
+if(**Your level** > 19 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/26697" data-url="26697" class="tooltip-link link">Rage Filled Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/9421" data-url="9421" class="tooltip-link link">Sandstorm Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/28790" data-url="28790" class="tooltip-link link">Intermediate Combat Manual</a>) then
 
 
 >**Gwiraba Gelrid says:** I must say, this is a surprise. I was beginning to wonder if you would ever return with these. I'm glad you see you have though. Take this new book and use it well in your future journeys. You may also be interested to know that Tenada Jeried also has a few lesson plans for very advanced students. If you should see him, be sure to tell him you are interested in learning from him. Good luck to you, Soandso!
 
 
- **You receive:**  [Advanced Combat Manual](/item/28791) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/28791" data-url="28791" class="tooltip-link link">Advanced Combat Manual</a> (+500000 exp)
+
+**You receive coin:** 0-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

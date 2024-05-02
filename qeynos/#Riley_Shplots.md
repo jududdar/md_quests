@@ -15,10 +15,14 @@ end
 
 
 
-if( **You turn in:** [Confession Document](/item/2344)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/2344" data-url="2344" class="tooltip-link link">Confession Document</a>) then
 
 
- **You receive:**  [Rileys Confession](/item/2369) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/2369" data-url="2369" class="tooltip-link link">Rileys Confession</a> 
+
+ 
 
 
 eq.set_global("invest_badge","second_suspect",3,"F");
@@ -26,7 +30,8 @@ eq.set_global("invest_badge","second_suspect",3,"F");
 
 **Spawn NPC:**  [\#Willie Garrote](/npc/1201) at (**y:** -11, **x:** -414)
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+**This NPC *should* return incorrect items given.**
+
 ## Signals
 
 if(e.signal == 1) then

@@ -34,7 +34,10 @@ end
 >*Renni Stone opens the box carefully and inspects the contents.  'These will do.  Thank ye.  Take this as a reward.'*
 
 
- **You receive:**  [Fine Antique Pelisse](/item/28235) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/28235" data-url="28235" class="tooltip-link link">Fine Antique Pelisse</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

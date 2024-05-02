@@ -5,7 +5,8 @@
 
 ## Dialog
 
-if(**You possess item:**  [Di'zok Signet of Service](/item/5728) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a> x 1
 
 
 
@@ -25,7 +26,8 @@ end
 
 
 
-if( **You turn in:** [Report to Skargus](/item/6474)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/6474" data-url="6474" class="tooltip-link link">Report to Skargus</a>) then 
 
 
 eq.start(99);
@@ -37,7 +39,9 @@ eq.start(99);
 
 
 
- **You receive:** 0 (+50000 exp)
+ &#127873; **You receive:** 0 (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -30,7 +30,8 @@ if **Faction** >= Amiable +200 then
 
 
 
-**You receive:**  [Case of Blackburrow Stout](/item/13131)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13131" data-url="13131" class="tooltip-link link">Case of Blackburrow Stout</a>
 
 
 else

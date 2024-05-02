@@ -35,13 +35,17 @@ end
 
 
 
-if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet of Marr](/item/20606)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/20605" data-url="20605" class="tooltip-link link">Crescent Symbol of Rhaj</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/20606" data-url="20606" class="tooltip-link link">Righteous Amulet of Marr</a>  ) then 
 
 
 >*A Wandering Spirit quickly grabs the amulet and crescent symbol before speaking. 'At long last! I can now rest in peace along with my fellow brethren. Thank you Soandso. May the might of Marr follow you wherever you may go.'*
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
 **Spawn NPC:**  [\#A Wandering Spirit](/npc/208209) at this location.

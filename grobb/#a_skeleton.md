@@ -41,13 +41,17 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Ogre Butcher Apron](/item/12217)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/12217" data-url="12217" class="tooltip-link link">Ogre Butcher Apron</a>) then 
 
 
 >**a skeleton says:** Great! Thanks a lot, pal. Lets get moving. I hear my bonehead roomie called the Captain was spotted by Basher Sklama. Go ask [where the Captain] is.
 
 
- **You receive:**  [The Butcher](/item/12214) (+25 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12214" data-url="12214" class="tooltip-link link">The Butcher</a> (+25 exp)
+
+ 
 
 
 **a skeleton despawns.**

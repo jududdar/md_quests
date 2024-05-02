@@ -32,5 +32,6 @@
 >**Travis Two Tone says:** Take this letter to Felisity Starbright in Freeport.  You can find her at the bard guild hall.  I am sure she will compensate you for your troubles.
 
 
-**You receive:**  [A Bardic Letter (Freeport)](/item/18158)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18158" data-url="18158" class="tooltip-link link">A Bardic Letter (Freeport)</a>
 end

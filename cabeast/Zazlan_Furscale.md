@@ -32,36 +32,64 @@ end
 
 
 
-if( **You turn in:** [Banded Boots](/item/3064), [Fire Emerald](/item/10033), [Spirit Caller Beads](/item/14767), [Rhino Hoof](/item/14768)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3064" data-url="3064" class="tooltip-link link">Banded Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/14767" data-url="14767" class="tooltip-link link">Spirit Caller Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1139.png" alt="" /> <a
+                                href="/item/14768" data-url="14768" class="tooltip-link link">Rhino Hoof</a>) then
 
 
 >**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
 
 
- **You receive:**  [Scaled Mystic Boots](/item/4984) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/4984" data-url="4984" class="tooltip-link link">Scaled Mystic Boots</a> (+1000 exp)
 
-elseif( **You turn in:** [Banded Bracer](/item/3061), [Ruby](/item/10035), [Coercion Implant](/item/14769), [Gooey Adhesive](/item/14770)) then
+ 
 
-
->**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
-
-
- **You receive:**  [Scaled Mystic Bracers](/item/4988) (+1000 exp)
-
-elseif( **You turn in:** [Banded Cloak](/item/3058), [Star Ruby](/item/10032), [Forest Giant Hammer](/item/14765), [Worn Charbone](/item/14766)) then
-
-
->**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
-
-
- **You receive:**  [Scaled Mystic Cloak](/item/4991) (+1000 exp)
-
-elseif( **You turn in:** [Banded Sleeves](/item/3060), [Sapphire](/item/10034), [Frenzied Gnawer Tail](/item/14763), [Froglok Treated Planks](/item/14764)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3061" data-url="3061" class="tooltip-link link">Banded Bracer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/14769" data-url="14769" class="tooltip-link link">Coercion Implant</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/14770" data-url="14770" class="tooltip-link link">Gooey Adhesive</a>) then
 
 
 >**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
 
 
- **You receive:**  [Scaled Mystic Vambraces](/item/4986) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/4988" data-url="4988" class="tooltip-link link">Scaled Mystic Bracers</a> (+1000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/3058" data-url="3058" class="tooltip-link link">Banded Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/14765" data-url="14765" class="tooltip-link link">Forest Giant Hammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/14766" data-url="14766" class="tooltip-link link">Worn Charbone</a>) then
+
+
+>**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/4991" data-url="4991" class="tooltip-link link">Scaled Mystic Cloak</a> (+1000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3060" data-url="3060" class="tooltip-link link">Banded Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/14763" data-url="14763" class="tooltip-link link">Frenzied Gnawer Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/14764" data-url="14764" class="tooltip-link link">Froglok Treated Planks</a>) then
+
+
+>**Zazlan Furscale says:** You have succeeded! Take this as payment and begin getting the next bundle.  The more supplies we have the faster we can rebuild
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/4986" data-url="4986" class="tooltip-link link">Scaled Mystic Vambraces</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

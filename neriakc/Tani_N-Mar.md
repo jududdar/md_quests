@@ -111,28 +111,32 @@ end
 
 
 
-if( **You turn in:** [Human Head](/item/13892)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_983.png" alt="" /> <a
+                                href="/item/13892" data-url="13892" class="tooltip-link link">Human Head</a>) then
 
 
 >**Tani N-Mar says:** Good work! I knew you could prove your worth. Most waste time training. I do not reward those who waste my time. Please take this. It is from our horde, from countless robberies. I hope you can use it to advance yourself. Remember to always stay faithful to Neriak.
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (20)
+Your faction standing with [Ebon Mask](/faction/244) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (-5)
+Your faction standing with [Wolves of the North](/faction/320) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (-2)
+Your faction standing with [Guardians of the Vale](/faction/263) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (-5)
+Your faction standing with [Carson McCabe](/faction/329) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Cinctured Whip](/item/5066) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/5066" data-url="5066" class="tooltip-link link">Cinctured Whip</a> (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 9 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

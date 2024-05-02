@@ -13,7 +13,14 @@ end
 
 
 
-local count =  **You turn in:**  { [Ethereal Mist Helm](/item/4881),  [Ethereal Mist Chestplate](/item/4882),  [Ethereal Mist Vambraces](/item/4883),  [Ethereal Mist Bracers](/item/4884),  [Ethereal Mist Gauntlets](/item/4885),  [Ethereal Mist Greaves](/item/4886),  [Ethereal Mist Boots](/item/4887)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/4881" data-url="4881" class="tooltip-link link">Ethereal Mist Helm</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4882" data-url="4882" class="tooltip-link link">Ethereal Mist Chestplate</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4883" data-url="4883" class="tooltip-link link">Ethereal Mist Vambraces</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4884" data-url="4884" class="tooltip-link link">Ethereal Mist Bracers</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4885" data-url="4885" class="tooltip-link link">Ethereal Mist Gauntlets</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4886" data-url="4886" class="tooltip-link link">Ethereal Mist Greaves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4887" data-url="4887" class="tooltip-link link">Ethereal Mist Boots</a>}
 
 if(count > 0) then
 
@@ -26,7 +33,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Peridot](/item/10028), 10037, 22503, 15981) (+300000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
+
+ 
 
 
 

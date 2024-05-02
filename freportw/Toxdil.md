@@ -27,20 +27,29 @@ end
 local text = "I require two snake venom sacs and my fee of 20 gold coins before I shall create the snake venom."
 
 
-if( **You turn in:** [A Sparkling Sapphire](/item/12353)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/12353" data-url="12353" class="tooltip-link link">A Sparkling Sapphire</a>) then
 
 
 >**Toxdil says:** The gem!! I would notice it's sparkle anywhere!! I cannot believe you are handing it back to me!! What a fool. Here you are fool. You can have this worthless key now.
 
 
- **You receive:**  [A Tiny Key](/item/12351) (+15000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1077.png" alt="" /> <a
+                                href="/item/12351" data-url="12351" class="tooltip-link link">A Tiny Key</a> (+15000 exp)
 
-elseif( **You turn in:** [A Snake Venom Sac](/item/14017), [A Snake Venom Sac](/item/14017),gold = 20) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_818.png" alt="" /> <a
+                                href="/item/14017" data-url="14017" class="tooltip-link link">A Snake Venom Sac</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_818.png" alt="" /> <a
+                                href="/item/14017" data-url="14017" class="tooltip-link link">A Snake Venom Sac</a>,gold = 20) then
 
 
 >**Toxdil says:** Here is your snake venom. May you... shall we say... apply it to good use.
 
 
- **You receive:**  [Snake Venom](/item/14016) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_806.png" alt="" /> <a
+                                href="/item/14016" data-url="14016" class="tooltip-link link">Snake Venom</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

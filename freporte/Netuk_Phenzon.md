@@ -46,22 +46,26 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [A tattered flier](/item/18818)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18818" data-url="18818" class="tooltip-link link">A tattered flier</a>) then 
 
 
 >**Netuk Phenzon says:** It is about time you returned! Innoruuk would be proud of the red you have spread upon the land.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (30)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-4)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-4</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (6)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+6</span>)
 
 
- **You receive:**  [Spell: Siphon Strength](/item/15343) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15343" data-url="15343" class="tooltip-link link">Spell: Siphon Strength</a> (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

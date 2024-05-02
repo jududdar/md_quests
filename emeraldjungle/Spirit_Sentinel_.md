@@ -45,35 +45,31 @@ end
 
 
 
-if **Faction** >= Kindly +100 and  **You turn in:** [Historic Article](/item/18456), [Crusades of the High Scale](/item/18457), [Head Housekeepers Log](/item/18458)) then 
+if **Faction** >= Kindly +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18456" data-url="18456" class="tooltip-link link">Historic Article</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18457" data-url="18457" class="tooltip-link link">Crusades of the High Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18458" data-url="18458" class="tooltip-link link">Head Housekeepers Log</a>) then 
 
 
 >**Spirit Sentinel  says:** Hmmm, it appears the queen's disappearance wasn't as random as we thought. It also looks as if this High Scale was having some sort of affair with Neh. We have little but speculation at this point so making it known to Nak'Ashiir would do nothing. Perhaps finding the resting place of the High Scale will show us more in the way of what really happened. We suspect the icon mentioned in this log could now be located in the city's old temple. Find the icon and bring it to Kirn, wherever he is. Tell me what you learn afterwards.
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
-elseif **Faction** >= Warmly +150 and  **You turn in:** [Neh\`Ashiirs Diary](/item/18459)) then 
-
-
->**Spirit Sentinel  says:** So, the truth is found!  Nak mourned over the loss of his child instead of relishing the blessing of his god, Cazic-Thule. His wife and the High Scale then abandoned him in disgust, but even that was an aftereffect of what caused the king to turn his back on his faith. The child is the key!  If we put the child to rest, Nak may repent of what he has done and the mantle may be lifted. The most difficult task is now at hand. Find the child, then take proof of her passing to Nak. I can feel the mantle's foundation crumbling!  Now, go!
-
-
-* __Faction:__ [Truespirit](/faction/404) (1000)
-
-
- **You receive:** 0 (+75000 exp)
-
-elseif **Faction** >= Ally +800 and  **You turn in:** [Iksar Scale](/item/1674)) then 
+elseif **Faction** >= Warmly +150 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/1674" data-url="1674" class="tooltip-link link">Iksar Scale</a>) then 
 
 
 >*Spirit Sentinel  What is this?  The scale of Rak'Ashiir's father?  Then Rak has repented his mistake?  But why is the mantle still in place?  If Rak has repented, then the mantle should have dissolved since he was the one who initiated its construction.  But is its initiation the key?  How could we have been so blind?  Kirn said Rak'Ashiir had the blood of his people on his hands but that is false. Rak merely pointed to a path that would lead them to destruction.  It was the people who chose to follow. Now all [is lost].*
 
 
-* __Faction:__ [Truespirit](/faction/404) (-2000)
+Your faction standing with [Truespirit](/faction/404) got worse (<span class='text-danger'>-2000</span>)
 
 
- **You receive:**  [Spear of Fate](/item/10651) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1187.png" alt="" /> <a
+                                href="/item/10651" data-url="10651" class="tooltip-link link">Spear of Fate</a> (+75000 exp)
+
+ 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

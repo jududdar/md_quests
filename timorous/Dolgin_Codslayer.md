@@ -30,13 +30,17 @@ end
 
 
 
-if( **You turn in:** [Froglok Essence](/item/20696) and e.other:GetClass() == 6) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/20696" data-url="20696" class="tooltip-link link">Froglok Essence</a> and e.other:GetClass() == 6) then
 
 
 >**Dolgin Codslayer says:** What's this? Egads! It's perfect.  Now all we gotta do is hope he bites.' Dolgin takes a little of the essence and smears it on a piece of bread. He places the bait into the water and watches intently.
 
 
- **You receive:**  [Froglok Essence](/item/20696) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/20696" data-url="20696" class="tooltip-link link">Froglok Essence</a> 
+
+ 
 
 
 **Spawn NPC:**  [\#Faydedar](/npc/96073) at (**y:** -11745, **x:** -2178)

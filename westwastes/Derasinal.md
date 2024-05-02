@@ -87,22 +87,27 @@ local token = 0;
 
 
 
-if(**You possess item:**  [Rune of Bleve](/item/1895) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1895" data-url="1895" class="tooltip-link link">Rune of Bleve</a> x 1
 
 
 >**Derasinal says:** I have given you the Rune of Bleve, to assist you in your research for the once lost magic against the Kromzek. I hope that you can make good use of it, for it is very sacred to me. May Veeshan guide your path!
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** GiveAll( [Jualicns Token](/item/1908), [Rune of Bleve](/item/1895)) (+1000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/1908" data-url="1908" class="tooltip-link link">Jualicns Token</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1895" data-url="1895" class="tooltip-link link">Rune of Bleve</a>) (+1000 exp)
+
+ 
 
 
 **Derasinal despawns.**

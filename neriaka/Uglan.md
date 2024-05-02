@@ -26,31 +26,34 @@ end
 
 
 
-if( **You turn in:** [A Cracked Stein](/item/13357)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_708.png" alt="" /> <a
+                                href="/item/13357" data-url="13357" class="tooltip-link link">A Cracked Stein</a>) then
 
 
 >**Uglan says:** You from Oggok. Me waiting for you. Me know dark elves have dark plan for ogres. We must stop plan. You must go to Nektulos Forest. Wait for blue orc. He deliver message for dark elf king. Not good. You kill blue orc runners. If message on them then you take to Lork in Oggok. Ogres must know plan.
 
 
-* __Faction:__ [The Dead](/faction/239) (5)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-1)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-1)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-10)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
 

@@ -38,13 +38,14 @@ else
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 >**Flynn Merrington says:** BWAH! HA HA HA! Did you all hear that?! Soandso is a gnoll loving weakling who isn't fit to comb my feet! BWAH HA HA! MY FEET! HA HA HA! Oh.. too rich.. Heh.. HA HA HA! Oh.. Heh heh heh
 
 
-**You receive:**  [Sayers Tax Payment](/item/13174)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13174" data-url="13174" class="tooltip-link link">Sayers Tax Payment</a>
 
 
 **Signaled to:**  [Sabnie Blagard](/npc/2083)
@@ -62,7 +63,8 @@ end
 
 
 
-if( **You turn in:** [Eruds Tonic](/item/13122)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13122" data-url="13122" class="tooltip-link link">Eruds Tonic</a>) then
 
 
 >**Flynn Merrington says:** Well, now... That's cutting out the middle man. Thanks, chum! Now, beat it!
@@ -71,22 +73,25 @@ if( **You turn in:** [Eruds Tonic](/item/13122)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-20)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (3)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-3)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (-2)
+Your faction standing with [Kane Bayle](/faction/273) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Label of Erud's Tonic](/item/13123) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/13123" data-url="13123" class="tooltip-link link">Label of Erud's Tonic</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

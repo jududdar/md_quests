@@ -38,29 +38,41 @@ end
 
 
 
-if( **You turn in:** [A strategic map of Kithicor](/item/16548)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/16548" data-url="16548" class="tooltip-link link">A strategic map of Kithicor</a>) then 
 
 
 >**Morin Shadowbane says:** Excellent work, Soandso!! It is obvious that you are a highly skilled tracker and warrior. Accept this reward, my personal sword which has served me well in countless battles. Perhaps you are willing to perform [another service] on our behalf?
 
 
- **You receive:**  [Short Sword of Morin](/item/5422) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1170.png" alt="" /> <a
+                                href="/item/5422" data-url="5422" class="tooltip-link link">Short Sword of Morin</a> (+5000 exp)
 
-elseif( **You turn in:** [Ebony Bladed Sword](/item/5405)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5405" data-url="5405" class="tooltip-link link">Ebony Bladed Sword</a>) then 
 
 
 >**Morin Shadowbane says:** Excellent work, Soandso!! It is obvious that you are a highly skilled tracker and warrior. Accept this reward, my personal sword which has served me well in countless battles. Perhaps you are willing to perform [another service] on our behalf?
 
 
- **You receive:**  [Short Sword of Morin](/item/5422) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1170.png" alt="" /> <a
+                                href="/item/5422" data-url="5422" class="tooltip-link link">Short Sword of Morin</a> (+5000 exp)
 
-elseif( **You turn in:** [Sealed Ghoul Boss' Log Book](/item/20638)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/20638" data-url="20638" class="tooltip-link link">Sealed Ghoul Boss' Log Book</a>) then 
 
 
 >**Morin Shadowbane says:** We meet again, Soandso.  The ghoul boss' log reveals much of the machinations of our dark oppressors, but not enough.  Deliver these orders to Bryn in Lesser Faydark, and he will provide you with another weapon to aid in our defense of Kithicor.
 
 
- **You receive:**  [Orders for Bryn](/item/20639) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/20639" data-url="20639" class="tooltip-link link">Orders for Bryn</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

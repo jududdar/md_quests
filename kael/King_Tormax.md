@@ -148,56 +148,64 @@ end
 
 
 
-if( **You turn in:** [Dain Frostreaver's Head](/item/30501)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30501" data-url="30501" class="tooltip-link link">Dain Frostreaver's Head</a>) then 
 
 
 if( **Faction is** > Threatening) then
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (500)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+500</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (500)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+500</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (-250)
+Your faction standing with [Yelinak](/faction/436) got worse (<span class='text-danger'>-250</span>)
 
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (-250)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got worse (<span class='text-danger'>-250</span>)
 
 
 
- **You receive:**  [Belt of Dwarf Slaying](/item/25858) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_718.png" alt="" /> <a
+                                href="/item/25858" data-url="25858" class="tooltip-link link">Belt of Dwarf Slaying</a> (+500000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Yelinak's Head](/item/24984)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/24984" data-url="24984" class="tooltip-link link">Yelinak's Head</a>) then 
 
 
 if( **Faction is** > Threatening) then
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (500)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+500</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (500)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+500</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (-250)
+Your faction standing with [Yelinak](/faction/436) got worse (<span class='text-danger'>-250</span>)
 
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (-250)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got worse (<span class='text-danger'>-250</span>)
 
 
 
- **You receive:**  [Gauntlets of Dragon Slaying](/item/25857) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/25857" data-url="25857" class="tooltip-link link">Gauntlets of Dragon Slaying</a> (+500000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

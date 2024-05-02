@@ -24,7 +24,8 @@ end
 
 
 
-if( **You turn in:** [Alluring Horn](/item/20530)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_594.png" alt="" /> <a
+                                href="/item/20530" data-url="20530" class="tooltip-link link">Alluring Horn</a>) then
 
 
 >**Vedico Windwisper says:** Where did you find this? I thought the cyclops took it. I am in your debt, Soandso. This horn has always been special to me.
@@ -33,7 +34,10 @@ if( **You turn in:** [Alluring Horn](/item/20530)) then
 >*Vedico Windwisper reaches into her pack and pulls out a note. 'Do you think you could deliver this to my gnome friend Forpar? I have not spoken to him in a while and unfortunatly I will be unable to make the trip to visit him. If you are looking to have an instrument made he is the man to ask.'*
 
 
- **You receive:**  [Note to Forpar Fizfla](/item/20378) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/20378" data-url="20378" class="tooltip-link link">Note to Forpar Fizfla</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

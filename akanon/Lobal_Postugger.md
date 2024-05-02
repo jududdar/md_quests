@@ -26,7 +26,8 @@ end
 
 
 
-if( **You turn in:** [Bundle of Poisons](/item/9470)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_697.png" alt="" /> <a
+                                href="/item/9470" data-url="9470" class="tooltip-link link">Bundle of Poisons</a>) then
 
 
 
@@ -35,7 +36,10 @@ if( **You turn in:** [Bundle of Poisons](/item/9470)) then
 
 
 
- **You receive:**  [Dip Resist Sketch](/item/24096) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1005.png" alt="" /> <a
+                                href="/item/24096" data-url="24096" class="tooltip-link link">Dip Resist Sketch</a> 
+
+ 
 
 
 

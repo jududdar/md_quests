@@ -14,23 +14,27 @@ end
 
 
 
-if( **You turn in:** [Hunter's Pike](/item/32170)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/32170" data-url="32170" class="tooltip-link link">Hunter's Pike</a>) then
 
 
 >**Dragen Faux says:** I'm sorry to have doubted you before. Please forgive me. My mind is not what it used to be. Since you are the wolf slayer perhaps you cn help us find something. We've been unable to find it. If you can combine the Centerstone along with the Wolf Slayer in this box and bring back what you have. I should be able to reward you once we are through here.
 
 
- **You receive:**  [Dragens Box](/item/17073) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_724.png" alt="" /> <a
+                                href="/item/17073" data-url="17073" class="tooltip-link link">Dragens Box</a> (+10000 exp)
+
+ 
 
 
- **You receive:**  [Hunter's Pike](/item/32170) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/32170" data-url="32170" class="tooltip-link link">Hunter's Pike</a> 
 
-elseif( **You turn in:** [Gem-Inlaid Spear](/item/32300)) then
+ 
 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/32189" data-url="32189" class="tooltip-link link">Dragens Runed War Spear</a> (+10000 exp)
 
->**Dragen Faux says:** I knew you'd come through. This is going to make someone really happy. Take this for your troubles.
-
-
- **You receive:**  [Dragens Runed War Spear](/item/32189) (+10000 exp)
+ 
 
 **This NPC *should* return incorrect items given.**

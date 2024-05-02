@@ -17,11 +17,14 @@ end
 
 
 
-local ethereal =  **You turn in:**  { [Ethereal Parchment](/item/29112)}
+local ethereal =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a>}
 
-local spectral =  **You turn in:**  { [Spectral Parchment](/item/29131)}
+local spectral =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a>}
 
-local glyphed =  **You turn in:**  { [Glyphed Rune Word](/item/29132)}
+local glyphed =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a>}
 
 if(ethereal > 0) then
 
@@ -34,7 +37,14 @@ e.self:Emote("accepts the item carefully, his scaled hand delicate in its grasp.
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Festering Darkness](/item/26920), 26924, 26921, 26925, 26937) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26920" data-url="26920" class="tooltip-link link">Spell: Festering Darkness</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26924" data-url="26924" class="tooltip-link link">Spell: Aura of Darkness</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26921" data-url="26921" class="tooltip-link link">Spell: Touch of Volatis</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26925" data-url="26925" class="tooltip-link link">Spell: Zevfeer's Bite</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26937" data-url="26937" class="tooltip-link link">Spell: Deny Undead</a>) 
+
+ 
 
 
 
@@ -54,7 +64,15 @@ e.self:Emote("accepts the item carefully, his scaled hand delicate in its grasp.
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Shroud of Chaos](/item/21651), 26922, 26923, 21632, 21634, 21633) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21651" data-url="21651" class="tooltip-link link">Spell: Shroud of Chaos</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26922" data-url="26922" class="tooltip-link link">Spell: Aura of Pain</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26923" data-url="26923" class="tooltip-link link">Spell: Terror of Thule</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21632" data-url="21632" class="tooltip-link link">Spell: Pact of Hate</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21634" data-url="21634" class="tooltip-link link">Spell: Spear of Decay</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21633" data-url="21633" class="tooltip-link link">Spell: Blood of Hate</a>) 
+
+ 
 
 
 
@@ -74,7 +92,13 @@ e.self:Emote("accepts the item carefully, his scaled hand delicate in its grasp.
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Voice of Thule](/item/26926), 26927, 26928, 21635) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26926" data-url="26926" class="tooltip-link link">Spell: Voice of Thule</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26927" data-url="26927" class="tooltip-link link">Spell: Aura of Hate</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26928" data-url="26928" class="tooltip-link link">Spell: Touch of Innoruuk</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21635" data-url="21635" class="tooltip-link link">Spell: Cloak of Luclin</a>) 
+
+ 
 
 
 

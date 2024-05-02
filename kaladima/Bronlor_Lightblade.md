@@ -59,7 +59,8 @@
 
 
 
-**You receive:**  [A Note To Taldrik](/item/2429)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2429" data-url="2429" class="tooltip-link link">A Note To Taldrik</a>
 
 **You say:** `drinks`
 
@@ -77,7 +78,11 @@ end
 
 
 
-if( **You turn in:** [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](/item/2396)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_850.png" alt="" /> <a
+                                href="/item/2396" data-url="2396" class="tooltip-link link">Enraged Goblin Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_850.png" alt="" /> <a
+                                href="/item/2396" data-url="2396" class="tooltip-link link">Enraged Goblin Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_850.png" alt="" /> <a
+                                href="/item/2396" data-url="2396" class="tooltip-link link">Enraged Goblin Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_850.png" alt="" /> <a
+                                href="/item/2396" data-url="2396" class="tooltip-link link">Enraged Goblin Beads</a>) then
 
 
 
@@ -86,16 +91,19 @@ if( **You turn in:** [Enraged Goblin Beads](/item/2396), [Enraged Goblin Beads](
 >**Bronlor Lightblade says:** I knew I was able to trust ye to help me rid the land of these nasty goblins! The Bloodforge Brigade salutes ye Soandso. Ye will be well known in our city for being the young one that helped rid our mountains of these goblins. Please take this as a symbol of your devotion to your faith and your God and return to me when ye are ready for yer next [task].
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (5)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (3)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Initiate Symbol of Brell Serilis](/item/1430) (+25 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1430" data-url="1430" class="tooltip-link link">Initiate Symbol of Brell Serilis</a> (+25 exp)
+
+ 
 
 
 

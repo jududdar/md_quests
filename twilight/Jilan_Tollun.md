@@ -64,53 +64,92 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Sky Jewel](/item/4492), [Embedded Steel Figurine](/item/5949), [Mark of the Wolf](/item/5948), [Ancient Wrappings](/item/5950)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5949" data-url="5949" class="tooltip-link link">Embedded Steel Figurine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5948" data-url="5948" class="tooltip-link link">Mark of the Wolf</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/5950" data-url="5950" class="tooltip-link link">Ancient Wrappings</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Feral Belt](/item/3996) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/3996" data-url="3996" class="tooltip-link link">Feral Belt</a> (+25000 exp)
 
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of the Panther](/item/5941), [Iridescent Crystal](/item/5942), [Embedded Bronze Figurine](/item/5943)) then
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Feral Cape](/item/3993) (+25000 exp)
-
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of the Bestial](/item/5951), [Embedded Admantium Figurine](/item/5952), [Roaring Idol](/item/5953)) then
-
-
-FactionReward(e)
-
-
- **You receive:**  [Feral Claws](/item/3997) (+25000 exp)
-
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Alligator](/item/5944), [Embedded Electrum Figurine](/item/5945)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5941" data-url="5941" class="tooltip-link link">Mark of the Panther</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/5942" data-url="5942" class="tooltip-link link">Iridescent Crystal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/5943" data-url="5943" class="tooltip-link link">Embedded Bronze Figurine</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Feral Gloves](/item/3994) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/3993" data-url="3993" class="tooltip-link link">Feral Cape</a> (+25000 exp)
 
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of the Shark](/item/5946), [Embedded Silver Figurine](/item/5947)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5951" data-url="5951" class="tooltip-link link">Mark of the Bestial</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/5952" data-url="5952" class="tooltip-link link">Embedded Admantium Figurine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/5953" data-url="5953" class="tooltip-link link">Roaring Idol</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Feral Talisman](/item/3995) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1179.png" alt="" /> <a
+                                href="/item/3997" data-url="3997" class="tooltip-link link">Feral Claws</a> (+25000 exp)
 
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of the Tiger](/item/5939), [Embedded Wooden Figurine](/item/5940)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5944" data-url="5944" class="tooltip-link link">Mark of the Alligator</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/5945" data-url="5945" class="tooltip-link link">Embedded Electrum Figurine</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Feral Veil](/item/3992) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/3994" data-url="3994" class="tooltip-link link">Feral Gloves</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5946" data-url="5946" class="tooltip-link link">Mark of the Shark</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5947" data-url="5947" class="tooltip-link link">Embedded Silver Figurine</a>) then
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/3995" data-url="3995" class="tooltip-link link">Feral Talisman</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5939" data-url="5939" class="tooltip-link link">Mark of the Tiger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/5940" data-url="5940" class="tooltip-link link">Embedded Wooden Figurine</a>) then
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/3992" data-url="3992" class="tooltip-link link">Feral Veil</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -118,14 +157,14 @@ function FactionReward(e)
 
 >**Jilan Tollun says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

@@ -58,13 +58,17 @@ end
 
 
 
-if( **You turn in:** [Mystical Lute Body](/item/20536)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/20536" data-url="20536" class="tooltip-link link">Mystical Lute Body</a>) then 
 
 
 >**An Undead Bard says:** I feel so powerful once again...a strange feeling is overcoming me!
 
 
- **You receive:**  [Mystical Lute Body](/item/20536) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/20536" data-url="20536" class="tooltip-link link">Mystical Lute Body</a> 
+
+ 
 
 
 **An Undead Bard attacks you.**

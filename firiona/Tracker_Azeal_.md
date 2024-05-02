@@ -11,7 +11,8 @@
 if(e.self:GetX() == -1548 and e.self:GetY() == -2559) then
 
 
-if( **You turn in:** [A Coin](/item/12691)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/12691" data-url="12691" class="tooltip-link link">A Coin</a>) then 
 
 
 

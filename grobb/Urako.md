@@ -104,22 +104,29 @@ local text = "Dis no good. We need the butcher, baker, minstrel and captain.";
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [The Baker](/item/12213), [The Butcher](/item/12214), [The Captain](/item/12215), [The Minstrel](/item/12216)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12213" data-url="12213" class="tooltip-link link">The Baker</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12214" data-url="12214" class="tooltip-link link">The Butcher</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12215" data-url="12215" class="tooltip-link link">The Captain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12216" data-url="12216" class="tooltip-link link">The Minstrel</a>) then 
 
 
 >**Urako says:** Tank you. You saved me neck. Kaglari not learn me mistake now. Me give you a [Kaglari mana doll].
 
 
-* __Faction:__ [Dark Ones](/faction/237) (10)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (2)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Kaglari Mana Doll](/item/12212) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/12212" data-url="12212" class="tooltip-link link">Kaglari Mana Doll</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

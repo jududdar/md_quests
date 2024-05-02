@@ -110,80 +110,96 @@ local text = "No, No, No! I said to bring me the happy love bracers and the trol
 
 
 
-if ( **You turn in:** [A tattered note](/item/18792)) then 
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18792" data-url="18792" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Hukulk says:** Haaah!! Bow to Hukulk!! Hukulk make you feared.. make you powered! Dark power flow through you! Hate and Fear in your blood! Go to Vergad. He give you first lesson in pain.
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (100)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-15)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-15</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-25)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-25</span>)
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (5)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Black and Green Tunic*](/item/13530) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13530" data-url="13530" class="tooltip-link link">Black and Green Tunic*</a> (+20 exp)
+
+ 
 
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073), [Bone Chips](/item/13073)) then 
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>) then 
 
 
 >**Hukulk says:** You good. Take dis. Make much pain and hurt. Make tings bleeds. Kill, hurt all. Innoruuk and me say do, now go. You do much, come bak. Teach you how more hurt and pain make. Go.
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (5)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-1)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-1)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (1)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+1</span>)
 
 
 
 
 
 
- **You receive:**  [Rusty Two Handed Sword](/item/5023) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a> (+1000 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Troll Head](/item/12201), [Happy Love Bracers](/item/12202)) then 
+ 
+
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_996.png" alt="" /> <a
+                                href="/item/12201" data-url="12201" class="tooltip-link link">Troll Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/12202" data-url="12202" class="tooltip-link link">Happy Love Bracers</a>) then 
 
 
 >**Hukulk says:** Ha!! Ha!! Who have last laugh now!! You do good werk.  Now me give you extra helm of Hukulk. Now go away!!
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (40)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+40</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-6)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-6</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-10)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (2)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+2</span>)
 
 
 
- **You receive:**  [Helm of Hukulk](/item/3316) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_536.png" alt="" /> <a
+                                href="/item/3316" data-url="3316" class="tooltip-link link">Helm of Hukulk</a> (+1000 exp)
+
+**You receive coin:** 1-10 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

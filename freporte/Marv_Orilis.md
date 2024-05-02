@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Curing Kit](/item/17125)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17125" data-url="17125" class="tooltip-link link">Curing Kit</a>
 
 
 **You say:** `rage sorcerer cap`
@@ -41,7 +42,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 
 **You say:** `rage sorcerer wristband`
@@ -53,7 +55,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 
 **You say:** `rage sorcerer gloves`
@@ -65,7 +68,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 
 **You say:** `rage sorcerer boots`
@@ -77,7 +81,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
 
 
 **You say:** `rage sorcerer sleeves`
@@ -89,7 +94,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 
 **You say:** `rage sorcerer pantaloons`
@@ -101,7 +107,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 
 **You say:** `rage sorcerer robe`
@@ -113,7 +120,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Robe Pattern](/item/11395)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/11395" data-url="11395" class="tooltip-link link">Tattered Robe Pattern</a>
 
 
 **You say:** `staff of dismal rage`
@@ -133,35 +141,45 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Yovik Splegle's Head](/item/19935)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/19935" data-url="19935" class="tooltip-link link">Yovik Splegle's Head</a>) then
 
 
 >**Marv Orilis says:** Poor, poor Yovik Splegle. Haha! Excellent work, Soandso. Quickly, fetch me a giant rattlesnake skin and a giant leaf scarab eye along with your Rough Hewn Dismal Staff and I will construct you the Staff of Dismal Rage before your very eyes.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (10)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (2)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Rough Hewn Dismal Staff](/item/19924) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/19924" data-url="19924" class="tooltip-link link">Rough Hewn Dismal Staff</a> 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rough Hewn Dismal Staff](/item/19924), [Giant Rattlesnake Skin](/item/19852), [Giant Leaf Scarab Eye](/item/19936)) then
+ 
 
-
-* __Faction:__ [Dismal Rage](/faction/271) (10)
-
-
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
-
-
-* __Faction:__ [Opal Darkbriar](/faction/296) (2)
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/19924" data-url="19924" class="tooltip-link link">Rough Hewn Dismal Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/19852" data-url="19852" class="tooltip-link link">Giant Rattlesnake Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/19936" data-url="19936" class="tooltip-link link">Giant Leaf Scarab Eye</a>) then
 
 
- **You receive:**  [Staff of Dismal Rage](/item/19941) (+250 exp)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+10</span>)
+
+
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
+
+
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+2</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/19941" data-url="19941" class="tooltip-link link">Staff of Dismal Rage</a> (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

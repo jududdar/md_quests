@@ -41,7 +41,8 @@ if **Faction** >= Kindly then
 
 
 
-**You receive:**  [Tearons Bracer](/item/13108)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/13108" data-url="13108" class="tooltip-link link">Tearons Bracer</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -72,7 +73,8 @@ if(fac < 4) then
 
 
 
-**You receive:**  [Tearons Bracer](/item/13108)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/13108" data-url="13108" class="tooltip-link link">Tearons Bracer</a>
 
 
 else
@@ -88,43 +90,52 @@ end
 
 
 
-if( **You turn in:** [Highkeep Royal Suite](/item/12267), [Royal Amulet of Thex](/item/13109)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1077.png" alt="" /> <a
+                                href="/item/12267" data-url="12267" class="tooltip-link link">Highkeep Royal Suite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1058.png" alt="" /> <a
+                                href="/item/13109" data-url="13109" class="tooltip-link link">Royal Amulet of Thex</a>) then
 
 
 >**Tearon Bleanix says:** Peace..  I can rest now.  You now hold my Silent Watch Shield.  Protect Felwithe..
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (25)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (18)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+18</span>)
 
 
- **You receive:**  [Silent Watch Shield](/item/9312) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9312" data-url="9312" class="tooltip-link link">Silent Watch Shield</a> (+0 exp)
+
+ 
 
 
 **Tearon Bleanix despawns.**
 
 
-if( **You turn in:** [Tearon's Bracer](/item/13112)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/13112" data-url="13112" class="tooltip-link link">Tearon's Bracer</a>) then
 
 
 >**Tearon Bleanix says:** King Tearis Thex thanks you my friend. Could you please hand the princess this amulet. It is hers. I pryed it from the hands of some beggar.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (25)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (25)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Royal Amulet of Thex](/item/13109) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1058.png" alt="" /> <a
+                                href="/item/13109" data-url="13109" class="tooltip-link link">Royal Amulet of Thex</a> (+0 exp)
+
+ 
 
 
 **Spawn NPC:**  [\#Princess Lenya](/npc/6573) at (**y:** 13.0, **x:** 52.0)

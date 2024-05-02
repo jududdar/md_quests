@@ -37,13 +37,20 @@ local text = "I require all four titan samples in order to pursue the research I
 
 
 
-if( **You turn in:** [Gigantic Gorilla Fang](/item/6957), [Giant Sabertooth Fang](/item/6943), [Giant Leopard Fang](/item/6959), [Ancient Snake Rattle](/item/6948)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/6957" data-url="6957" class="tooltip-link link">Gigantic Gorilla Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/6943" data-url="6943" class="tooltip-link link">Giant Sabertooth Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/6959" data-url="6959" class="tooltip-link link">Giant Leopard Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1122.png" alt="" /> <a
+                                href="/item/6948" data-url="6948" class="tooltip-link link">Ancient Snake Rattle</a>) then
 
 
 >**Sejako Mujan says:** Excellent!! These shall provide valuable information to my research on the spirit realm.
 
 
- **You receive:**  [Staff of the Moribund Spirits](/item/2568) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/2568" data-url="2568" class="tooltip-link link">Staff of the Moribund Spirits</a> (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

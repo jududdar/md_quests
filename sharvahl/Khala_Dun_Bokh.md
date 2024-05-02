@@ -242,17 +242,24 @@ end
 
 
 
-if( **You turn in:** [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587), [Rhino Beetle Eye](/item/14587)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/14587" data-url="14587" class="tooltip-link link">Rhino Beetle Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/14587" data-url="14587" class="tooltip-link link">Rhino Beetle Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/14587" data-url="14587" class="tooltip-link link">Rhino Beetle Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/14587" data-url="14587" class="tooltip-link link">Rhino Beetle Eye</a>) then
 
 
 >*Khala Dun Bokh tosses the beetle eyes into his mouth & attempts to say something to the effect of 'here is your payment.' The sound of crunching gristle & popping eyeballs prevents him from saying it properly.*
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 3 <img src='/static/icons/item_646.png' width='14' height='14'/> 3 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
-if( **You turn in:** [A Shield Repair Order](/item/29803)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29803" data-url="29803" class="tooltip-link link">A Shield Repair Order</a>) then
 
 
 >**Khala Dun Bokh says:** Outstanding! Nothing like a sharp-looking shield to scare off the undesirables. And if you bring it back full of food I wouldn't complain either,
@@ -264,17 +271,24 @@ if( **You turn in:** [A Shield Repair Order](/item/29803)) then
 >**Khala Dun Bokh says:** Just kidding! You have much to do and Barkhem would have my hide if I kept you from your studies.
 
 
- **You receive:**  [Bokhs Dented Shield](/item/29813) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29813" data-url="29813" class="tooltip-link link">Bokhs Dented Shield</a> 
+
+ 
 
 
 
-if( **You turn in:** [Bokhs Immaculate Shield](/item/29814)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29814" data-url="29814" class="tooltip-link link">Bokhs Immaculate Shield</a>) then
 
 
 >**Khala Dun Bokh says:** Well done, shiny enough to eat off of. My compliments to you Soandso, Barkhem would be most pleased.
 
 
- **You receive:**  [Bokhs work order](/item/29815) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/29815" data-url="29815" class="tooltip-link link">Bokhs work order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

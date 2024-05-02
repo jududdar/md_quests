@@ -35,7 +35,8 @@ if(**Your level** < 35) then
 >**Trep Thilcan says:** Great! Here is a special crate.  It needs to be filled with a purification tablet from Freeport, a keg of beer from Qeynos, a ball of twine from Shadeweaver, a bundle of weapons from Firiona, an armor assortment from Thurgadin, and a case of meat from the Bazaar.  That should give me quite a stock of items to sell to travelers out here.
 
 
-**You receive:**  [Empty Supplies Crate](/item/17177)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/17177" data-url="17177" class="tooltip-link link">Empty Supplies Crate</a>
 end
 
 ## Turn-Ins
@@ -44,12 +45,15 @@ end
 
 
 
-if( **You turn in:** [Merchants Crate of Supplies](/item/15978)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/15978" data-url="15978" class="tooltip-link link">Merchants Crate of Supplies</a>) then
 
 
 >**Trep Thilcan says:** Fantastic! You got me everything I need to set up shop.  Here is some money for your troubles.  I hoped you learned something as well. I am sorry I have nothing more to give you except this advice, if you combine a clockwork carapace, a metal rod, gnomish bolts, firewater and grease in a toolbox you should get something nice!
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

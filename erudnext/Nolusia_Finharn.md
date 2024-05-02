@@ -189,7 +189,8 @@ end
 
 
 
-if( **You turn in:** [Eruds Tonic](/item/13118)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13118" data-url="13118" class="tooltip-link link">Eruds Tonic</a>) then
 
 
 >**Nolusia Finharn says:** Good work! Now, hold the bottle by the label! When you hand Flynn the bottle, the label will slide off. Bring me the label as proof of the deed.
@@ -198,21 +199,25 @@ if( **You turn in:** [Eruds Tonic](/item/13118)) then
 
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (20)
+Your faction standing with [Craftkeepers](/faction/231) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (2)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-3)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (3)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Eruds Tonic](/item/13122) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13122" data-url="13122" class="tooltip-link link">Eruds Tonic</a> (+200 exp)
 
-elseif( **You turn in:** [Label of Erud's Tonic](/item/13123)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/13123" data-url="13123" class="tooltip-link link">Label of Erud's Tonic</a>) then
 
 
 >**Nolusia Finharn says:** Fantastic. Now I can rest assured that my brother stands a better chance of finding the right path without that manipulating little man around. Master Lanken can rest assured that the waters are safe from abuse.
@@ -221,19 +226,26 @@ elseif( **You turn in:** [Label of Erud's Tonic](/item/13123)) then
 
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (30)
+Your faction standing with [Craftkeepers](/faction/231) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-4)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-4</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (4)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:** eq.ChooseRandom( [Eruds Tonic](/item/13122), [Rusty Long Sword](/item/5019), [Splintering Club](/item/6017), [Rusty Scimitar](/item/5021), [Rusty Short Sword](/item/5013)) (+0 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13122" data-url="13122" class="tooltip-link link">Eruds Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5019" data-url="5019" class="tooltip-link link">Rusty Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_737.png" alt="" /> <a
+                                href="/item/6017" data-url="6017" class="tooltip-link link">Splintering Club</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5021" data-url="5021" class="tooltip-link link">Rusty Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>) (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

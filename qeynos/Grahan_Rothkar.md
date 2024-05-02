@@ -77,33 +77,8 @@ end
 
 
 
-if( **Faction is** >= Amiable and  **You turn in:** [Pen Key \# 7](/item/20031)) then 
-
-
->**Grahan Rothkar says:** I thank you. I must admit I had my doubts, but you have proven yourself a true warrior. I salute you. You can be of some assistance to me.It see ms as though there has been a [second escaped gladiator] and I have a reward waiting for a human warrior.
-
-
-
-
-
-* __Faction:__ [Steel Warriors](/faction/311) (10)
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
-
-
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
-
-
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
-
-
-* __Faction:__ [Knights of Truth](/faction/281) (2)
-
-
- **You receive:** eq.ChooseRandom( [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Scythe](/item/5015), [Rusty Broad Sword](/item/5016), [Rusty Long Sword](/item/5019), [Rusty Battle Axe](/item/5020), [Rusty Scimitar](/item/5021), [Rusty Bastard Sword](/item/5022), [Rusty Two Handed Sword](/item/5023), [Rusty Halberd](/item/5024), [Rusty Two Handed Battle Axe](/item/5025)) (+0 exp)
-
-elseif( **Faction is** >= Amiable and  **You turn in:** [Minotaur Hero Shackles](/item/12188)) then 
+if( **Faction is** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/12188" data-url="12188" class="tooltip-link link">Minotaur Hero Shackles</a>) then 
 
 
 >**Grahan Rothkar says:** You are a true Steel Warrior!! Now you shall wear my hero bracers. I designed them for my greatest gladiators and you have shown yourself mighty enough to wear them.
@@ -112,24 +87,28 @@ elseif( **Faction is** >= Amiable and  **You turn in:** [Minotaur Hero Shackles]
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (75)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-11)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-11</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-11)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-11</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (15)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Hero Bracers](/item/12189) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/12189" data-url="12189" class="tooltip-link link">Hero Bracers</a> (+0 exp)
 
-elseif( **You turn in:** [Arena Lion Skin](/item/13398)) then
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/13398" data-url="13398" class="tooltip-link link">Arena Lion Skin</a>) then
 
 
 >**Grahan Rothkar says:** I salute you. You have done well and crossed into the brotherhood of the Steel Warriors. Welcome. Take this. It is the mark of a Steel Warrior. Live the way of the warrior.
@@ -138,24 +117,28 @@ elseif( **You turn in:** [Arena Lion Skin](/item/13398)) then
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (25)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-3)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (5)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Steel Warrior Bracer](/item/13229) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/13229" data-url="13229" class="tooltip-link link">Steel Warrior Bracer</a> (+0 exp)
 
-elseif( **You turn in:** [A Sealed Letter](/item/18894)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18894" data-url="18894" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 >**Grahan Rothkar says:** So you are ready to encounter your final test. I wish you well, young warrior. Take this key to the pen on the left along the wall with three doors. There you shall meet your final challenge. Return with proof of victory. Exit before it is at anand I shall not help you.
@@ -170,22 +153,25 @@ elseif( **You turn in:** [A Sealed Letter](/item/18894)) then
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (5)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Pen Key \# 5](/item/20029) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1078.png" alt="" /> <a
+                                href="/item/20029" data-url="20029" class="tooltip-link link">Pen Key \# 5</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

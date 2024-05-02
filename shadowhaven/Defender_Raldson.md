@@ -22,7 +22,8 @@
 >**Defender Raldson says:** That is very nice of you, Soandso. I'm sure his family will be very grateful. He should not be there alone and we fear the worst for him. If you are to go search for him, please bring him this note from Zimloro that contains further instructions Please seek him out and do your best to convince him to come home.
 
 
-**You receive:**  [A List of Potion Components](/item/4764)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/4764" data-url="4764" class="tooltip-link link">A List of Potion Components</a>
 end
 
 ## Combat

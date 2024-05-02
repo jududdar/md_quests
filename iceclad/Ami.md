@@ -39,13 +39,17 @@ end
 
 
 
-if( **You turn in:** [Chapter P](/item/30042)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30042" data-url="30042" class="tooltip-link link">Chapter P</a>) then
 
 
 >*Ami bounces excitedly. 'Oh! I've been needing this!' She reads over the pages intently. 'Uh. Pirate - A sea robber.' She scratches her head. 'I totally forgot we were supposed to be robbing people. Put down yer weapons and hand over yer platinum and gold ya port side bilge suckers! Heh. This is great. Thank you, Soandso' She grins and goes back to reading.*
 
 
- **You receive:**  [Pirate Grammar Manual](/item/18962) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18962" data-url="18962" class="tooltip-link link">Pirate Grammar Manual</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

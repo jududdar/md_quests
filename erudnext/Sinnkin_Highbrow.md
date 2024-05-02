@@ -34,7 +34,8 @@ end
 
 
 
-if( **You turn in:** [Innoruuk's Kiss of Death](/item/13121)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_827.png" alt="" /> <a
+                                href="/item/13121" data-url="13121" class="tooltip-link link">Innoruuk's Kiss of Death</a>) then
 
 
 >**Sinnkin Highbrow says:** It's about time you figured it out, genius! Maybe you should spend more time in the library. Here, take this tonic and get out of here before they see me giving it to you and turn us both inside out.
@@ -43,10 +44,13 @@ if( **You turn in:** [Innoruuk's Kiss of Death](/item/13121)) then
 
 
 
-* __Faction:__ [Erudite Citizen (Race)](/faction/694) (5)
+Your faction standing with [Erudite Citizen (Race)](/faction/694) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Eruds Tonic](/item/13118) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13118" data-url="13118" class="tooltip-link link">Eruds Tonic</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

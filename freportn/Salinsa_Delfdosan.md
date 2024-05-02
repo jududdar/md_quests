@@ -31,7 +31,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [Gem Encrusted Mail Kit](/item/17259)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17259" data-url="17259" class="tooltip-link link">Gem Encrusted Mail Kit</a>
 
 
 **You say:** `recipe components`
@@ -51,7 +52,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracer`
@@ -63,7 +65,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `armguard`
@@ -75,7 +78,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boot`
@@ -87,7 +91,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `greave`
@@ -99,7 +104,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlet`
@@ -111,7 +117,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -123,7 +130,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `final mission`
@@ -149,27 +157,33 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [A Torn Qeynos Newsletter](/item/9931), [Pristine Scarab Eye](/item/9932), [Pristine Scarab Eye](/item/9932)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/9931" data-url="9931" class="tooltip-link link">A Torn Qeynos Newsletter</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_917.png" alt="" /> <a
+                                href="/item/9932" data-url="9932" class="tooltip-link link">Pristine Scarab Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_917.png" alt="" /> <a
+                                href="/item/9932" data-url="9932" class="tooltip-link link">Pristine Scarab Eye</a>) then 
 
 
 >**Salinsa Delfdosan says:** 'I knew that Deisnak would still have this! This has more useful information to us here at the temple then you could imagine. I am very happy to see that you were able to get it back for me. For your tireless devotion to our House I would like to present you with this mace. It has brought me good fortune in all the days that I carried it, I only wish that it can do the same for you. Good luck Knobinshu, and thank you.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (25)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-3)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (5)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (2)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Mace of the Ordained](/item/9937) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/9937" data-url="9937" class="tooltip-link link">Mace of the Ordained</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

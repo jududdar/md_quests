@@ -49,73 +49,89 @@ end
 
 
 
-if( **You turn in:** [Borannin's Seal](/item/1420)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/1420" data-url="1420" class="tooltip-link link">Borannin's Seal</a>) then
 
 
 >**Mordin Frostcleaver says:** Hullo, Soandso, I see you've signed on for a bit of food service eh? Well, we can always use an extra pair o' hands here dat's fer sure. First things first, warsh yer grubby mitts an' cook up dinner fer good ol' Leif. Should'n be too tough fer ye, he has simple enough taste. Make him a Tundrabear sandwich an' lemme know when he's been fed. Don'tcha ferget ta give him this with his meal.
 
 
- **You receive:**  [Leif's Napkin](/item/1415) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/1415" data-url="1415" class="tooltip-link link">Leif's Napkin</a> 
 
-elseif( **You turn in:** [Used Napkin](/item/1419)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/1419" data-url="1419" class="tooltip-link link">Used Napkin</a>) then
 
 
 >**Mordin Frostcleaver says:** Well don, outlander! We'll make a chef of you before we're through. Next you'll need to whip up some Snow Bunny stew fer Missus Coldheart. Again, give her this napkin with her meal an' lemme know when she's been served.
 
 
-* __Faction:__ [Coldain](/faction/406) (2)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (1)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-1)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Tritas Napkin](/item/1416) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/1416" data-url="1416" class="tooltip-link link">Tritas Napkin</a> (+100000 exp)
 
-elseif( **You turn in:** [Dirty Pot](/item/1423)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/1423" data-url="1423" class="tooltip-link link">Dirty Pot</a>) then
 
 
 >**Mordin Frostcleaver says:** Now yer cookin! Letsee here... Guard Leif, check... Trita Coldheart, check... Ahh yes, next we need an Ulthork meat pie fer Brita. She's a doll, smart too, but she can be testy when she's hungry so get movin'!
 
 
-* __Faction:__ [Coldain](/faction/406) (3)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (1)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-1)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Britas Napkin](/item/1417) (+150000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/1417" data-url="1417" class="tooltip-link link">Britas Napkin</a> (+150000 exp)
 
-elseif( **You turn in:** [Used Pie Tin](/item/1424)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1013.png" alt="" /> <a
+                                href="/item/1424" data-url="1424" class="tooltip-link link">Used Pie Tin</a>) then
 
 
 >**Mordin Frostcleaver says:** More dirty dishes, eh? Well outlander, only one more meal to serve and I'll be done with ye. Make a snow griffin souffle fer the Grand Historian himself. It's his favorite.
 
 
-* __Faction:__ [Coldain](/faction/406) (3)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (1)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-1)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Thoridains Napkin](/item/1418) (+200000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/1418" data-url="1418" class="tooltip-link link">Thoridains Napkin</a> (+200000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

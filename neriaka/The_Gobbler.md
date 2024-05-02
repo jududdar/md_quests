@@ -44,7 +44,8 @@
 >**The Gobbler says:** Good. Me wrap order of dwarf pickles in.. HEY!! Me out of special wrapping paper!! Hmm.. Here. Me use dis. Now, <..click.. Locks grub locker> Here. You take to Nerbilik in tearsy ocean and he pay you. No think of opening locker. Only Nerbilik has key.
 
 
-**You receive:**  [Grub Locker](/item/12203)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12203" data-url="12203" class="tooltip-link link">Grub Locker</a>
 end
 
 ## Turn-Ins
@@ -55,7 +56,8 @@ local randrew = 0;
 
 
 
-if( **You turn in:** [Preserved Leg](/item/13384)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1068.png" alt="" /> <a
+                                href="/item/13384" data-url="13384" class="tooltip-link link">Preserved Leg</a>) then 
 
 
 >**The Gobbler says:** Uggh!! Froglok legs!! Me hate smelly legs, but me need it for fat trolls.
@@ -66,14 +68,18 @@ if( **You turn in:** [Preserved Leg](/item/13384)) then
 
 
 
-* __Faction:__ [Neriak Ogre](/faction/353) (5)
+Your faction standing with [Neriak Ogre](/faction/353) got better (<span class='text-success'>+5</span>)
 
 
 if(math.random(1,100) < 20) then
 
 
 
- **You receive:** eq.ChooseRandom( [Ogre Butcher Gloves](/item/13386), [Ogre Meat Cleaver](/item/13385)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/13386" data-url="13386" class="tooltip-link link">Ogre Butcher Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_573.png" alt="" /> <a
+                                href="/item/13385" data-url="13385" class="tooltip-link link">Ogre Meat Cleaver</a>) 
+
+ 
 
 
 
@@ -81,7 +87,9 @@ note = Item not always given
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

@@ -239,45 +239,54 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Nyrein's Tome](/item/8918), [Earthen Crown of the Underfoot](/item/8917)) then
+if( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/8918" data-url="8918" class="tooltip-link link">Nyrein's Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/8917" data-url="8917" class="tooltip-link link">Earthen Crown of the Underfoot</a>) then
 
 
 e.self:Say("You have done well thus far and I commend your actions and success. Now, the trials shall continue and this shall be the walk that tests your faith 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
   
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Nyrein's Prayer](/item/8919) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/8919" data-url="8919" class="tooltip-link link">Nyrein's Prayer</a> (+1000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Tempest Guard's Stone](/item/8952)) then
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/8952" data-url="8952" class="tooltip-link link">Tempest Guard's Stone</a>) then
 
 
 >*Lady Deira gives you a warm, gentle smile and a bow of respect as she offers a white steel crown ornamented with a single blue gem. 'Welcome to the Veterans of the Storm. We honor you as Tempest Guard, Downz. Bear this symbol in humility and as a sign of your eternal pledge in service and protection of all that The Rainkeeper holds dear and sacred.'*
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (15)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (7)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (7)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Crown of the Tempest Guard](/item/8954) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_511.png" alt="" /> <a
+                                href="/item/8954" data-url="8954" class="tooltip-link link">Crown of the Tempest Guard</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

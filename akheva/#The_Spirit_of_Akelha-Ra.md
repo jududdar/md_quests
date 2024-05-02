@@ -53,13 +53,17 @@ end
 
 
 
-if( **You turn in:** [Essence Emerald](/item/9963)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/9963" data-url="9963" class="tooltip-link link">Essence Emerald</a>) then
 
 
 >*The Spirit of Akelha-Ra  laughs quietly as the energy of the gem is absorbed into her being. She begins to chant in what you presume to be Akhevan. She suddenly cries out in pain and her image begins to flicker. She looks at Soandso directly in the eyes and says, 'Vyanemis Tuis, use my gift wisely.' She disappears into the black marble leaving only a dark scepter frame lying on the floor. Soandso picks it up.*
 
 
- **You receive:**  [Shadowed Scepter Frame](/item/17323) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/17323" data-url="17323" class="tooltip-link link">Shadowed Scepter Frame</a> (+20000 exp)
+
+ 
 
 
 **The Spirit of Akelha-Ra despawns.**

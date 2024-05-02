@@ -31,16 +31,20 @@ end
 
 
 
-if( **You turn in:** [Head of Stanos](/item/28058)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/28058" data-url="28058" class="tooltip-link link">Head of Stanos</a>) then
 
 
 >**General V-ghera says:** Life is indeed sweet! Thank you, Soandso, you have done me a great service this day. Take this, Stanos was kind enough to return it to me, and I have no use for it now. Know that you have the blessing of Innoruuk for this deed! But of course, I leave it to you to leave here alive. A leader has to feed his minions, you know.
 
 
-* __Faction:__ [Fallen of Bloody Kithicor](/faction/420) (500)
+Your faction standing with [Fallen of Bloody Kithicor](/faction/420) got better (<span class='text-success'>+500</span>)
 
 
- **You receive:**  [Guise of the Coercer](/item/2475) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2475" data-url="2475" class="tooltip-link link">Guise of the Coercer</a> (+50000 exp)
+
+ 
 
 
 **General V-ghera despawns.**

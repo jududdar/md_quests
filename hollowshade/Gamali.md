@@ -16,22 +16,32 @@ local bottles = 0
 
 
 
-if( **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>) then
 
 
 bottles = 4;
 
-elseif( **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598), [Bottle](/item/16598)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>) then
 
 
 bottles = 3;
 
-elseif( **You turn in:** [Bottle](/item/16598), [Bottle](/item/16598)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>) then
 
 
 bottles = 2;
 
-elseif( **You turn in:** [Bottle](/item/16598)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/16598" data-url="16598" class="tooltip-link link">Bottle</a>) then
 
 
 bottles = 1;
@@ -49,7 +59,10 @@ repeat
 
 
 
- **You receive:**  [Bottle of fresh water](/item/31761) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/31761" data-url="31761" class="tooltip-link link">Bottle of fresh water</a> 
+
+ 
 
 
 

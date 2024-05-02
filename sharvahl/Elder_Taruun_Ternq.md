@@ -193,18 +193,24 @@ end
 
 
 
-if( **You turn in:** [Regional Status Report](/item/5564)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/5564" data-url="5564" class="tooltip-link link">Regional Status Report</a>) then
 
 
 >**Elder Taruun Ternq says:** I see that Joharr introduced you to our cavern dwelling friends. This report shows that you were very successful on your last patrol. Your progress as a Taruun is most pleasing. You have shown us that you are ready to advance to the level of apprentice. I will send someone for your new cloak in a moment. While I am doing that, please use this bowl to prepare some spicy fish stew and take it to Kerr Tiparr in the Hollowshade outpost. It's not often that they get good food out there. If you don't remember the recipe, just ask cook Mylis. When you are done, please return with your old cloak and the empty pot. Always remember... Service to the community should always precede any thoughts of personal advancement.
 
 
-* __Faction:__ [Taruun](/faction/1530) (10)
+Your faction standing with [Taruun](/faction/1530) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Large Stewing Pot](/item/5570) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/5570" data-url="5570" class="tooltip-link link">Large Stewing Pot</a> (+1000 exp)
 
-elseif( **You turn in:** [Empty Stew Bowl](/item/5567), [Cloak of the Taruun Recruit](/item/3465)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/5567" data-url="5567" class="tooltip-link link">Empty Stew Bowl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/3465" data-url="3465" class="tooltip-link link">Cloak of the Taruun Recruit</a>) then
 
 
 >**Elder Taruun Ternq says:** Very well done,Soandso. Take this cloak and wear it with pride. May it keep your silhouette hidden from our enemies and keep you safe from those things that may walk in shadows darker than ours. Your work is being noticed, young Taruun. Please keep a clear eye on the path that lies before you. Speak to Elam Arruk when you are ready to continue your training. You will need only to show him the cloak that I just gave you. He will know how to instruct you from there. Be well.
@@ -213,12 +219,17 @@ elseif( **You turn in:** [Empty Stew Bowl](/item/5567), [Cloak of the Taruun Rec
 **Elder Taruun Ternq shouts:** <span class="text-danger">Hear me fellow Vah Shir! The Taruun have seen fit to escalate citizen Soandso to the rank of apprentice. He grows in strength and wisdom daily. We are proud as should you all be. May this student of our ways continue to progress and live worthy of our noble heritage.</span>
 
 
-* __Faction:__ [Taruun](/faction/1530) (20)
+Your faction standing with [Taruun](/faction/1530) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Cloak of the Taruun Apprentice](/item/5558) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5558" data-url="5558" class="tooltip-link link">Cloak of the Taruun Apprentice</a> (+2500 exp)
 
-elseif( **You turn in:** [Cloak of the Taruun Apprentice](/item/5558), [Sonic Wolf Bane Dagger](/item/6158)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5558" data-url="5558" class="tooltip-link link">Cloak of the Taruun Apprentice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/6158" data-url="6158" class="tooltip-link link">Sonic Wolf Bane Dagger</a>) then
 
 
 >**Elder Taruun Ternq says:** Well done.  Take this new cloak and wear it with pride.  You can now be called journeyman!
@@ -227,6 +238,11 @@ elseif( **You turn in:** [Cloak of the Taruun Apprentice](/item/5558), [Sonic Wo
 **Elder Taruun Ternq shouts:** <span class="text-danger">Hear me fellow Vah Shir! The Taruun have seen fit to escalate citizen Soandso to the rank of journeyman. He grows in strength and wisdom daily. We are proud as should you all be. May this student of our ways continue to progress and live worthy of our noble heritage.</span>
 
 
- **You receive:** GiveAll( [Sonic Wolf Bane Dagger](/item/6158), [Cloak of the Taruun Journeyman](/item/6275)) (+10000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/6158" data-url="6158" class="tooltip-link link">Sonic Wolf Bane Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/6275" data-url="6275" class="tooltip-link link">Cloak of the Taruun Journeyman</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

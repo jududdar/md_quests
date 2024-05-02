@@ -28,7 +28,8 @@ if( **Faction is** > Amiable) then
 >**Commander Leuz says:** Very good! Take this to the scout and wait for them to return the report.
 
 
-  **You receive:**  [Scout Tools](/item/29683)
+   &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_884.png" alt="" /> <a
+                                href="/item/29683" data-url="29683" class="tooltip-link link">Scout Tools</a>
 
 end
 
@@ -38,21 +39,24 @@ end
 
 
 
-if( **Faction is** > Amiable and  **You turn in:** [Scout Report](/item/29688)) then
+if( **Faction is** > Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/29688" data-url="29688" class="tooltip-link link">Scout Report</a>) then
 
 
 >**Commander Leuz says:** Well this artifact will defently need study. Thank you for this report. Perhaps after we have researched this object more we will have more for you to search for.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (20)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (5)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-10)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -22,41 +22,52 @@ end
 
 
 
-if( **You turn in:** [Aching Blood](/item/14058), [Aching Blood](/item/14058), [Aching Blood](/item/14058), [Aching Blood](/item/14058)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_806.png" alt="" /> <a
+                                href="/item/14058" data-url="14058" class="tooltip-link link">Aching Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_806.png" alt="" /> <a
+                                href="/item/14058" data-url="14058" class="tooltip-link link">Aching Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_806.png" alt="" /> <a
+                                href="/item/14058" data-url="14058" class="tooltip-link link">Aching Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_806.png" alt="" /> <a
+                                href="/item/14058" data-url="14058" class="tooltip-link link">Aching Blood</a>) then
 
 
 >*Zabaltin Draux takes the poison from you and pours it into a bottle of ale. 'Here, deliver this to Brendar Mynden! Tell him first that I wish to find compromise between our differences to throw him off guard. Then give him the ale to drink. So that I know you were successful bring me that gaudy ring he always wears. I sure do hate that ugly ring.'*
 
 
- **You receive:**  [Poisoned Wine](/item/29862) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/29862" data-url="29862" class="tooltip-link link">Poisoned Wine</a> 
 
-elseif( **You turn in:** [Unadorned Ring](/item/29863)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_875.png" alt="" /> <a
+                                href="/item/29863" data-url="29863" class="tooltip-link link">Unadorned Ring</a>) then
 
 
 >**Zabaltin Draux says:** Ha! His gaudy ring! You have done well young rogue. Perhaps you would be an asset to the Eye after all. You can have his nasty ring back, I am sure that it is worthless. Darn thing weighs as much as a Netherbian and is twice as ugly!
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (10)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (1)
+Your faction standing with [Seru](/faction/1483) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Haven Smugglers](/faction/1542) (-1)
+Your faction standing with [Haven Smugglers](/faction/1542) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-1)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (-2)
+Your faction standing with [Magus Conlegium](/faction/1504) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Unadorned Ring](/item/29864) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_875.png" alt="" /> <a
+                                href="/item/29864" data-url="29864" class="tooltip-link link">Unadorned Ring</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

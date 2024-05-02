@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Verona Rankin](/item/19846)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19846" data-url="19846" class="tooltip-link link">Note to Verona Rankin</a>
 
 
 **You say:** `next task`
@@ -33,7 +34,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Bent Playing Card](/item/19917)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/19917" data-url="19917" class="tooltip-link link">Bent Playing Card</a>
 
 end
 
@@ -45,31 +47,38 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Rough Blue Gem](/item/19918)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/19918" data-url="19918" class="tooltip-link link">Rough Blue Gem</a>) then
 
 
 >**Tovan Tenlah says:** Sharpen this dagger and take it with this gem and a rattlesnake skin to Verona Rankin.
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (5)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (5)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (1)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Faceted Blue Gem](/item/19919) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/19919" data-url="19919" class="tooltip-link link">Faceted Blue Gem</a> (+100 exp)
+
+ 
 
 
- **You receive:**  [Dull Coalition Dirk](/item/19920) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/19920" data-url="19920" class="tooltip-link link">Dull Coalition Dirk</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

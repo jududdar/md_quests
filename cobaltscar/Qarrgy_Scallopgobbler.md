@@ -47,40 +47,57 @@ local text1 = "I'm sorry strange one. That is not a sufficient barter.";
 
 
 
-if( **You turn in:** [Barracuda Liver](/item/30059), [Barracuda Liver](/item/30059)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30059" data-url="30059" class="tooltip-link link">Barracuda Liver</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30059" data-url="30059" class="tooltip-link link">Barracuda Liver</a>) then
 
 
 >*Qarrgy Scallopgobbler slams a knife into the various livers and squeezes out all of their various goos and juices.  Eventually he separates a bit of it and pours it into a protective bladder.  'Excellent work.  This good catch.  Here, you have sack of ooze.  Its good for burning things off or etching metals.  Thank you for your help.*
 
 
- **You receive:**  [Bladder of Acidic Ooze](/item/30060) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30060" data-url="30060" class="tooltip-link link">Bladder of Acidic Ooze</a> 
 
-elseif( **You turn in:** [Emerald Dragon Scales](/item/22823), [Ulthork Tusks](/item/24874), [Fine Plate Breastplate](/item/21004)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/22823" data-url="22823" class="tooltip-link link">Emerald Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/24874" data-url="24874" class="tooltip-link link">Ulthork Tusks</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/21004" data-url="21004" class="tooltip-link link">Fine Plate Breastplate</a>) then
 
 
 >*Qarrgy Scallopgobbler skillfully crafts the Emerald Dragon Scales into a tunic, hands it to Soandso, and claps enthusiastically.*
 
 
-* __Faction:__ [Othmir](/faction/432) (5)
+Your faction standing with [Othmir](/faction/432) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Ulthork](/faction/431) (-1)
+Your faction standing with [Ulthork](/faction/431) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Emerald Dragonscale Tunic](/item/11635) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_621.png" alt="" /> <a
+                                href="/item/11635" data-url="11635" class="tooltip-link link">Emerald Dragonscale Tunic</a> (+5000 exp)
 
-elseif( **You turn in:** [Sea Dragon Scales](/item/22814), [Ornately Runed Shell Necklace](/item/28515), [Fine Plate Bracer](/item/21009)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/22814" data-url="22814" class="tooltip-link link">Sea Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_998.png" alt="" /> <a
+                                href="/item/28515" data-url="28515" class="tooltip-link link">Ornately Runed Shell Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/21009" data-url="21009" class="tooltip-link link">Fine Plate Bracer</a>) then
 
 
 >*Qarrgy Scallopgobbler skillfully crafts the Sea Dragon Scales into a bracer, hands it to Soandso, and claps enthusiastically.*
 
 
-* __Faction:__ [Othmir](/faction/432) (5)
+Your faction standing with [Othmir](/faction/432) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Ulthork](/faction/431) (-1)
+Your faction standing with [Ulthork](/faction/431) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Sea Dragonscale Bracer](/item/11589) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/11589" data-url="11589" class="tooltip-link link">Sea Dragonscale Bracer</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

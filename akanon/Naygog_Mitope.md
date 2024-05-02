@@ -27,7 +27,8 @@ e.self:DoAnim(67);
 
 
 
-**You receive:**  [Parchment to Windlebeck](/item/10986)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/10986" data-url="10986" class="tooltip-link link">Parchment to Windlebeck</a>
 
 
 **You say:** `further instruction`
@@ -64,52 +65,60 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Yulcabis Axe](/item/10990)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_573.png" alt="" /> <a
+                                href="/item/10990" data-url="10990" class="tooltip-link link">Yulcabis Axe</a>) then 
 
 
 >**Naygog Mitope says:** Well done Soandso. Take this Dull Dark Reflection Axe and sharpen it in a forge with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once the axe has been sharpened take it to Clockwork SmithXIII with a Coyote Pelt and he will put the finishing touches on the weapon.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (10)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-1)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-1)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Dull Dark Reflection Axe](/item/10995) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_573.png" alt="" /> <a
+                                href="/item/10995" data-url="10995" class="tooltip-link link">Dull Dark Reflection Axe</a> (+100 exp)
+
+ 
 
 
-elseif ( **You turn in:** [Stained Parchment](/item/18759)) then 
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18759" data-url="18759" class="tooltip-link link">Stained Parchment</a>) then 
 
 
 >**Naygog Mitope says:** This is fabulous news!!  You have done well, young one. Once you are ready for [further instruction] please let me know, I will guide you through your early and most dangerous days. When you have become more experienced in our art, I will be able to further instruct you on how to progress through your early ranks.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (100)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-10)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-10)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-10)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-10</span>)
 
 
 
- **You receive:**  [Tin Patched Tunic*](/item/13518) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13518" data-url="13518" class="tooltip-link link">Tin Patched Tunic*</a> (+20 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

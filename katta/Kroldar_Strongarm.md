@@ -28,7 +28,11 @@ local text = "I require the fangs of four Vampyres!";
 
 
 
-if( **You turn in:** [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/2691" data-url="2691" class="tooltip-link link">Vampyre Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/2691" data-url="2691" class="tooltip-link link">Vampyre Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/2691" data-url="2691" class="tooltip-link link">Vampyre Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/2691" data-url="2691" class="tooltip-link link">Vampyre Fang</a>) then
 
 
 
@@ -37,33 +41,36 @@ if( **You turn in:** [Vampyre Fang](/item/2691), [Vampyre Fang](/item/2691), [Va
 >**Kroldar Strongarm says:** You have dedicated yourself to the war with the Coterie of the Eternal Night. I will continue to reward you for the fangs of every four vampyres that you slay. Should you be ambitious and skilled enough to confront the coterie leaders and live I will respectfully grant you honor that you deserve.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (5)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Vial of Blessed Water](/item/31728) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/31728" data-url="31728" class="tooltip-link link">Vial of Blessed Water</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

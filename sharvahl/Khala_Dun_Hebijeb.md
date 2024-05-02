@@ -200,12 +200,17 @@ end
 
 
 
-if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>) then
 
 
 >**Khala Dun Hebijeb says:** I was told to expect you, Soandso. It is my duty to supervise this stage of your training, which will help strengthen you in preparation for your life of service to our people. There is much to do in very little time so let us begin. There are creatures that roam freely at the base of the rock on which we live. You are tasked with demonstrating a basic understanding of combat by defeating skeletons of grimlings and delivering to me four of their femurs.
 
-elseif( **You turn in:** [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443), [Skeletal Grimling Femur](/item/3443)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/3443" data-url="3443" class="tooltip-link link">Skeletal Grimling Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/3443" data-url="3443" class="tooltip-link link">Skeletal Grimling Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/3443" data-url="3443" class="tooltip-link link">Skeletal Grimling Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/3443" data-url="3443" class="tooltip-link link">Skeletal Grimling Femur</a>) then
 
 
 >*Khala Dun Hebijeb looks at you with an expression of approval*
@@ -214,12 +219,16 @@ elseif( **You turn in:** [Skeletal Grimling Femur](/item/3443), [Skeletal Grimli
 >**Khala Dun Hebijeb says:** Your completion of the assigned task has been noted. Accept this weapon as a token of the Khala Dun's gratitude. You will find the Khala Dun to be very generous to it's humble students, quick to reward obedience. I have been notified that one of our citizens needs some assistance, bring me proof that you have aided Dronqam Runghi.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Crude Bone Short Sword](/item/3445) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/3445" data-url="3445" class="tooltip-link link">Crude Bone Short Sword</a> (+1000 exp)
 
-elseif( **You turn in:** [Pinch of Acrylia Dust](/item/3449)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/3449" data-url="3449" class="tooltip-link link">Pinch of Acrylia Dust</a>) then
 
 
 >*Khala Dun Hebijeb takes the acrylia dust and places it in a vial already half full of the metal*
@@ -228,9 +237,15 @@ elseif( **You turn in:** [Pinch of Acrylia Dust](/item/3449)) then
 >**Khala Dun Hebijeb says:** You are nearly finished with the task at hand, Soandso. I now need you to begin your training in the art of blacksmithing, an essential aspect of the life of the Khala Dun. Combine this mold with three metal bits and a flask of water to fashion a buckler frame. When this is done bring it to me with the Crude Bone Short Sword and your initiate's cloak.
 
 
- **You receive:**  [Buckler Frame Mold](/item/3450) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/3450" data-url="3450" class="tooltip-link link">Buckler Frame Mold</a> 
 
-elseif( **You turn in:** [Buckler Frame](/item/3451), [Crude Bone Short Sword](/item/3445), [Initiate's Cloak of Shar Vahl](/item/2878)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1124.png" alt="" /> <a
+                                href="/item/3451" data-url="3451" class="tooltip-link link">Buckler Frame</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/3445" data-url="3445" class="tooltip-link link">Crude Bone Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>) then
 
 
 >**Khala Dun Hebijeb says:** Your progress pleases our order young one, and I am proud to promote you to the rank of recruit within the Khala Dun. Wear this cloak with pride, Soandso. I have completed your buckler as well as enhanced your sword. The blade will now be more effective when used against the skeletons from which it was constructed. Show the buckler to Armsman Khaigesh and he will instruct you further.
@@ -239,9 +254,15 @@ elseif( **You turn in:** [Buckler Frame](/item/3451), [Crude Bone Short Sword](/
 **Khala Dun Hebijeb shouts:** <span class="text-danger">Fellow citizens of Shar Vahl, help me welcome Soandso to the rank of recruit in the honorable Khala Dun. May his actions henceforth reflect the strict sense of loyalty to our king that defines our order. May he exhaust his every resource in glorious defense of our proud people!</span>
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** GiveAll( [Buckler of the Recruit](/item/3452), [Cloak of the Khala Dun Recruit](/item/3453), [Skeletonbane Short Sword](/item/3454)) (+2000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/3452" data-url="3452" class="tooltip-link link">Buckler of the Recruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/3453" data-url="3453" class="tooltip-link link">Cloak of the Khala Dun Recruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/3454" data-url="3454" class="tooltip-link link">Skeletonbane Short Sword</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2000" data-url="2000" class="tooltip-link link">Vale Reinforced Boots</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -77,7 +77,8 @@ local text = "I am ordered to only enchant the spell when I have both Bonethunde
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13287)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/13287" data-url="13287" class="tooltip-link link">Order of Thunder</a>) then 
 
 
 >**Kasine Paegra says:** You are a very honorable person. You have returned an Order of Thunder which you truly do not need. I give you the protection of the Rainkeeper to watch over you. May it keep you from harm. Go and serve.
@@ -89,28 +90,31 @@ if **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/132
 **Kasine Paegra casts:** [Holy Armor](/spell/11) on target.
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
 
 
- **You receive:** 0 (+1000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item/13288)) then 
+
+
+
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/13288" data-url="13288" class="tooltip-link link">Order of Thunder</a>) then 
 
 
 >**Kasine Paegra says:** You have returned an Order of Thunder which has been drained of all its power.  I wonder how this could have happened.  No doubt evil is behind this.  Thank you for its return.  I give you the blessings of Karana.  Go and serve the Rainkeeper.
@@ -119,34 +123,40 @@ elseif **Faction** >= Indifferent and  **You turn in:** [Order of Thunder](/item
 **Kasine Paegra casts:** [Minor Healing](/spell/200) on target.
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (20)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+20</span>)
 
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-20)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-20</span>)
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (15)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+15</span>)
 
 
 
 
- **You receive:** 0 (+1000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
-elseif **Faction** >= Warmly +150 and  **You turn in:** [Bonethunder Staff](/item/6358), gold = 500) then 
+
+
+
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
+
+elseif **Faction** >= Warmly +150 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6358" data-url="6358" class="tooltip-link link">Bonethunder Staff</a>, gold = 500) then 
 
 
 >**Kasine Paegra says:** The Rainkeeper has bestowed this weapon with power once more. Take it and defend our temple.
 
 
- **You receive:**  [Bonethunder Staff](/item/6358) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6358" data-url="6358" class="tooltip-link link">Bonethunder Staff</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

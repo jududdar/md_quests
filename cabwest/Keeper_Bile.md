@@ -38,18 +38,40 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Brittle Iksar Skull](/item/12739), [Brittle Iksar Skull](/item/12739), [Large Scorpion Pincer](/item/12659), [Sabertooth Cub Canine](/item/12426)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12739" data-url="12739" class="tooltip-link link">Brittle Iksar Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12739" data-url="12739" class="tooltip-link link">Brittle Iksar Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/12659" data-url="12659" class="tooltip-link link">Large Scorpion Pincer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/12426" data-url="12426" class="tooltip-link link">Sabertooth Cub Canine</a>) then
 
 
 >*Keeper Bile tosses the items into a nearby box and reaches into a sack at his feet. He hands you your reward. 'This spell is going to need some major testing. I can always use more of the same components.'*
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (2)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Cavorting Bones](/item/15338), [Spell: Clinging Darkness](/item/15344), [Spell: Coldlight](/item/15339), [Spell: Disease Cloud](/item/15340), [Spell: Endure Cold](/item/15225), [Spell: Fear](/item/15229), [Spell: Grim Aura](/item/15346), [Spell: Leering Corpse](/item/15491), [Spell: Lifespike](/item/15502), [Spell: Lifetap](/item/15341), [Spell: Locate Corpse](/item/15342), [Spell: Numb the Dead](/item/15347), [Spell: Poison Bolt](/item/15348), [Spell: Reclaim Energy](/item/15331), [Spell: Sense the Dead](/item/15221), [Spell: Siphon Strength](/item/15343)) (+100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15338" data-url="15338" class="tooltip-link link">Spell: Cavorting Bones</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15344" data-url="15344" class="tooltip-link link">Spell: Clinging Darkness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15339" data-url="15339" class="tooltip-link link">Spell: Coldlight</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15340" data-url="15340" class="tooltip-link link">Spell: Disease Cloud</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15225" data-url="15225" class="tooltip-link link">Spell: Endure Cold</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15229" data-url="15229" class="tooltip-link link">Spell: Fear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15346" data-url="15346" class="tooltip-link link">Spell: Grim Aura</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15491" data-url="15491" class="tooltip-link link">Spell: Leering Corpse</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15502" data-url="15502" class="tooltip-link link">Spell: Lifespike</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15341" data-url="15341" class="tooltip-link link">Spell: Lifetap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15342" data-url="15342" class="tooltip-link link">Spell: Locate Corpse</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15347" data-url="15347" class="tooltip-link link">Spell: Numb the Dead</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15348" data-url="15348" class="tooltip-link link">Spell: Poison Bolt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15331" data-url="15331" class="tooltip-link link">Spell: Reclaim Energy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15221" data-url="15221" class="tooltip-link link">Spell: Sense the Dead</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15343" data-url="15343" class="tooltip-link link">Spell: Siphon Strength</a>) (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

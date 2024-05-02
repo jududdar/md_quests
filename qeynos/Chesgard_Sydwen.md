@@ -76,7 +76,8 @@ if(fac <= 4) then
 
 
 
-**You receive:**  [Temple Blankets](/item/12102)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_790.png" alt="" /> <a
+                                href="/item/12102" data-url="12102" class="tooltip-link link">Temple Blankets</a>
 
 
 elseif(fac == 5) then
@@ -145,10 +146,12 @@ end
 
 
 
-local sash =  **You turn in:**  { [Bandit Sash](/item/12100)}
+local sash =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/12100" data-url="12100" class="tooltip-link link">Bandit Sash</a>}
 
 
-if( **You turn in:** [A Sealed Letter](/item/18839)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18839" data-url="18839" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 >**Chesgard Sydwen says:** Hmmph!! My son is living in a fantasy world. Still, you have done well. Take this as a token of appreciation. It is not much, but it may come in handy.
@@ -160,19 +163,26 @@ if( **You turn in:** [A Sealed Letter](/item/18839)) then
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:** eq.ChooseRandom( [Backpack](/item/17005), [Cast-Iron Warhammer](/item/6041), [Raw-hide Gorget](/item/2139), [Small Raw-hide Mask](/item/2150), [Buckler](/item/9001)) (+1500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17005" data-url="17005" class="tooltip-link link">Backpack</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6041" data-url="6041" class="tooltip-link link">Cast-Iron Warhammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2139" data-url="2139" class="tooltip-link link">Raw-hide Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2150" data-url="2150" class="tooltip-link link">Small Raw-hide Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/9001" data-url="9001" class="tooltip-link link">Buckler</a>) (+1500 exp)
+
+ 
 
 
 if(sash > 0) then
@@ -190,19 +200,44 @@ repeat
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (20)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-20)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (15)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bronze Dagger](/item/7012), [Bronze Rapier](/item/7013), [Bronze Spear](/item/7014), [Bronze Main Gauche](/item/7015), [Bronze Shortened Spear](/item/7016), [Bronze Short Sword](/item/5026), [Bronze Long Sword](/item/5027), [Bronze Battle Axe](/item/5028), [Bronze Bastard Sword](/item/5029), [Bronze Two Handed Sword](/item/5030), [Bronze Halberd](/item/5031), [Bronze Axe](/item/5032), [Bronze Broad Sword](/item/5033), [Bronze Scimitar](/item/5034), [Bronze Scythe](/item/5035), [Bronze Claymore](/item/5036), [Bronze Two Handed Battle Axe](/item/5037), [Bronze Mace](/item/6019), [Bronze Two Handed Hammer](/item/6021), [Bronze Warhammer](/item/6022), [Bronze Flail](/item/6023), [Bronze Morning Star](/item/6024), [Round Shield](/item/9002)) (+8100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7012" data-url="7012" class="tooltip-link link">Bronze Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7013" data-url="7013" class="tooltip-link link">Bronze Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/7014" data-url="7014" class="tooltip-link link">Bronze Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_763.png" alt="" /> <a
+                                href="/item/7015" data-url="7015" class="tooltip-link link">Bronze Main Gauche</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7016" data-url="7016" class="tooltip-link link">Bronze Shortened Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5026" data-url="5026" class="tooltip-link link">Bronze Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5027" data-url="5027" class="tooltip-link link">Bronze Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5028" data-url="5028" class="tooltip-link link">Bronze Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/5029" data-url="5029" class="tooltip-link link">Bronze Bastard Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5030" data-url="5030" class="tooltip-link link">Bronze Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5031" data-url="5031" class="tooltip-link link">Bronze Halberd</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_573.png" alt="" /> <a
+                                href="/item/5032" data-url="5032" class="tooltip-link link">Bronze Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5033" data-url="5033" class="tooltip-link link">Bronze Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5034" data-url="5034" class="tooltip-link link">Bronze Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_579.png" alt="" /> <a
+                                href="/item/5035" data-url="5035" class="tooltip-link link">Bronze Scythe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/5036" data-url="5036" class="tooltip-link link">Bronze Claymore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5037" data-url="5037" class="tooltip-link link">Bronze Two Handed Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/6019" data-url="6019" class="tooltip-link link">Bronze Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6021" data-url="6021" class="tooltip-link link">Bronze Two Handed Hammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6022" data-url="6022" class="tooltip-link link">Bronze Warhammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6023" data-url="6023" class="tooltip-link link">Bronze Flail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6024" data-url="6024" class="tooltip-link link">Bronze Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9002" data-url="9002" class="tooltip-link link">Round Shield</a>) (+8100 exp)
+
+**You receive coin:** 0-1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

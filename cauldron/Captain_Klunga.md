@@ -29,7 +29,8 @@ end
 
 
 
-if( **You turn in:** [Abandoned Orc Shovel](/item/12278)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_891.png" alt="" /> <a
+                                href="/item/12278" data-url="12278" class="tooltip-link link">Abandoned Orc Shovel</a>) then
 
 
 **Stop timer** named *depop*
@@ -44,7 +45,8 @@ eq.start(2);
 if(e.wp == 1) then
 
 
-**Spawns on ground:**  [Chalice of Conquest](/item/12274) at location.
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/12274" data-url="12274" class="tooltip-link link">Chalice of Conquest</a> at location.
 
 elseif(e.wp ==2) then
 

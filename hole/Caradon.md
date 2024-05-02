@@ -34,7 +34,8 @@ end
 
 
 
-if **Faction** >  Apprehensive +17 and  **You turn in:** [Cell Key](/item/14373)) then
+if **Faction** >  Apprehensive +17 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/14373" data-url="14373" class="tooltip-link link">Cell Key</a>) then
 
 
 >**Caradon says:** Kyrenna! We are free!
@@ -43,7 +44,7 @@ if **Faction** >  Apprehensive +17 and  **You turn in:** [Cell Key](/item/14373)
 **Spawn NPC:**  [Kyrenna](/npc/39155) at (**y:** 426.6, **x:** -195.8)
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
 **Caradon attacks you.**

@@ -19,7 +19,8 @@ end
 
 
 
-local count =  **You turn in:**  { [Deathfist Slashed Belt](/item/13916)}, 1
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13916" data-url="13916" class="tooltip-link link">Deathfist Slashed Belt</a>}, 1
 
 if(count > 0) then
 
@@ -32,23 +33,25 @@ repeat
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (5)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-1)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+9350 exp)
+ &#127873; **You receive:** 0 (+9350 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

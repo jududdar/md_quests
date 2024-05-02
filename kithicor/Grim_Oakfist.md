@@ -5,7 +5,7 @@ local EENOT_SPAWN_LOCS = {
 
 { 500, -645, 27 },
 
-{ 1972, -800, [Silent Fist Clan](/faction/309) },
+{ 1972, -800, 309 },
 
 { 2024, -118, 297 },
 
@@ -130,22 +130,28 @@ local text = "I asked you to hunt down all three of the tigers.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Unusual Tiger Pelt](/item/12341), [Peculiar Tiger Pelt](/item/12342), [Strange Tiger Pelt](/item/12343)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_833.png" alt="" /> <a
+                                href="/item/12341" data-url="12341" class="tooltip-link link">Unusual Tiger Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_833.png" alt="" /> <a
+                                href="/item/12342" data-url="12342" class="tooltip-link link">Peculiar Tiger Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_833.png" alt="" /> <a
+                                href="/item/12343" data-url="12343" class="tooltip-link link">Strange Tiger Pelt</a>) then
 
 
 >**Grim Oakfist says:** Good work.  I hope you had no run ins with the local rangers.  Here is my reward.  An object from the past which I found in my journeys.  Wish that I could reward you also with [treant fists].
 
 
-* __Faction:__ [Ashen Order](/faction/361) (10)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (1)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Collar of Neshika](/item/12367) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/12367" data-url="12367" class="tooltip-link link">Collar of Neshika</a> 
+
+ 
 
 
 **Grim Oakfist despawns.**

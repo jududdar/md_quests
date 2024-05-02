@@ -32,7 +32,10 @@
 **Spawn NPC:**  [\#a coterie general](/npc/172185) at this location.
 
 
- **You receive:**  [Old Bone Key](/item/31758) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1078.png" alt="" /> <a
+                                href="/item/31758" data-url="31758" class="tooltip-link link">Old Bone Key</a> 
+
+ 
 
 
 **Kerzar Clawtore despawns.**

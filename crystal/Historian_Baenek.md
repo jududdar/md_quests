@@ -86,16 +86,19 @@ end
 
 
 
-if( **You turn in:** [Worn Coldain Tome](/item/18237)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18237" data-url="18237" class="tooltip-link link">Worn Coldain Tome</a>) then
 
 
 >**Historian Baenek says:** You found one of our lost tomes! A lost volume of the Book of Grudges, quite a find! Oh, dear Brell! This evidence proves that the legend of Burdael is true! Thank you, Soandso. And now I suppose you wish to meet his ghostly form. I have sensed him from time to time. I will call to him now. Go and wait for him in the lower halls. His spirit sometimes calls to me from the fearsome stalagterrors' lair. Be wary though, undeath may have twisted his mind beyond reason.
 
 
-* __Faction:__ [Citizens of Froststone](/faction/460) (5)
+Your faction standing with [Citizens of Froststone](/faction/460) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 **Spawn NPC:**  [Ghost of Burdael](/npc/121015) at (**y:** -151, **x:** -308)

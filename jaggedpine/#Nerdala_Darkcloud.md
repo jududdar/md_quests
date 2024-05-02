@@ -20,7 +20,8 @@
 >**Nerdala Darkcloud says:** Well, that's nice of you. Here, take this Lunch Bag and bring it to Waldo Pinemyer. He is the steward of the Shrine of Karana on the far edge of forest. Take his lunch to him and bring the empty bag back to me and I'll let you have my pasta recipes.
 
 
-**You receive:**  [Lunch Bag](/item/8271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/8271" data-url="8271" class="tooltip-link link">Lunch Bag</a>
 end
 
 ## Turn-Ins
@@ -29,13 +30,17 @@ end
 
 
 
-if( **You turn in:** [Empty Lunch Bag](/item/8272)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/8272" data-url="8272" class="tooltip-link link">Empty Lunch Bag</a>) then 
 
 
 >**Nerdala Darkcloud says:** Oh why thank you dear. Here's the pasta recipes as I promised.
 
 
- **You receive:**  [Pasta For All](/item/18427) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/18427" data-url="18427" class="tooltip-link link">Pasta For All</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

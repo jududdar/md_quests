@@ -192,36 +192,58 @@ end
 
 
 
-if( **You turn in:** [Acrylia Slate of Shar Vahl](/item/2877)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>) then
 
 
 >**Harbin Gernawl says:** Ahh, Soandso, I was told you'd be coming. I am Harbin, and I will oversee the next bit of your progress in the Taruun. You have bravely chosen a path that will put your every skill to the test. May your abilities be honed in the service of the noble Vah Shir. To begin, bring me the soft chitin of three of the Rhinobeetles that dwell in the crater surrounding our city.
 
 
- **You receive:**  [Acrylia Slate of Shar Vahl](/item/2877) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a> 
 
-if( **You turn in:** [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chitin](/item/3455), [Soft Rhinobeetle Chitin](/item/3455)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/3455" data-url="3455" class="tooltip-link link">Soft Rhinobeetle Chitin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/3455" data-url="3455" class="tooltip-link link">Soft Rhinobeetle Chitin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/3455" data-url="3455" class="tooltip-link link">Soft Rhinobeetle Chitin</a>) then
 
 
 >*Harbin Gernawl takes the chitin and deftly fashions a buckler as he speaks, 'Your progress will be reported, Soandso. For your effort thus far I present you with this buckler. It will help to protect you until you become adept enough to wield a weapon in each of your hands. Meanwhile, it is time for you to practice the skill that Shar Vahl relies on to feed it's people. Following this recipe, deliver four boiled rockhopper eggs to Sergeant Tylah in Hollowshade moor. Return to me with the acrylia he will pay you.'*
 
 
- **You receive:**  [Buckler of the Beetle](/item/3456) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3456" data-url="3456" class="tooltip-link link">Buckler of the Beetle</a> 
 
-if( **You turn in:** [Acrylia Flakes](/item/3459)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/3459" data-url="3459" class="tooltip-link link">Acrylia Flakes</a>) then
 
 
 >**Harbin Gernawl says:** Your progress will be rewarded, Soandso. Soon all will recognize you as a recruit of the cunning Taruun! Speak with Merchant Rytan. When he is through with you return to me with his seal, your buckler, your initiate's cloak and this seal.
 
 
- **You receive:**  [Initiate Seal of the Taruun](/item/3460) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/3460" data-url="3460" class="tooltip-link link">Initiate Seal of the Taruun</a> 
 
-if( **You turn in:** [Initiate Seal of the Taruun](/item/3460), [Seal of Rytan](/item/3464), [Initiate's Cloak of Shar Vahl](/item/2878), [Buckler of the Beetle](/item/3456)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/3460" data-url="3460" class="tooltip-link link">Initiate Seal of the Taruun</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/3464" data-url="3464" class="tooltip-link link">Seal of Rytan</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3456" data-url="3456" class="tooltip-link link">Buckler of the Beetle</a>) then
 
 
 >**Harbin Gernawl says:** Your hard work is pleasing to the Taruun, Soandso, which now accepts you as an official recruit. Wear this cloak with pride. Your buckler has been treated with a special epoxy and should protect you more effectively now. Show the buckler to Taruun Joharr and he will continue to guide you on your sacred path. I sense a strong spirit in you, young one. May it guide you to greatness!
 
 
- **You receive:** GiveAll( [Cloak of the Taruun Recruit](/item/3465), [Hardened Buckler of the Beetle](/item/3466)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/3465" data-url="3465" class="tooltip-link link">Cloak of the Taruun Recruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3466" data-url="3466" class="tooltip-link link">Hardened Buckler of the Beetle</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

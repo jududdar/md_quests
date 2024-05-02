@@ -19,22 +19,26 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18726)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18726" data-url="18726" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Depnar Bulrious says:** Welcome to the Temple of Divine Light. I am Master Bulrious. Here. we study and spread the will of Quellious. Here is your guild tunic. Go find Jras Solsier. he will get you started with your first lesson.
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (100)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (25)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-25)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Faded Silver Tunic*](/item/13546) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13546" data-url="13546" class="tooltip-link link">Faded Silver Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -8,7 +8,8 @@
 if( **Faction is** > Apprehensive) then
 
 
-if( **You turn in:** [Replacement Records](/item/29855)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29855" data-url="29855" class="tooltip-link link">Replacement Records</a>) then
 
 
 
@@ -16,7 +17,10 @@ if( **You turn in:** [Replacement Records](/item/29855)) then
 
 
 
- **You receive:**  [Original Records](/item/29856) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29856" data-url="29856" class="tooltip-link link">Original Records</a> 
+
+ 
 
 
 

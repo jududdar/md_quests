@@ -36,31 +36,51 @@ end
 
 
 
-if( **You turn in:** [Efreeti War Horn](/item/20830), [Saffron Spiroc Feather](/item/20961), [Adamantium Bands](/item/20828), [Glowing Diamond](/item/20829)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_594.png" alt="" /> <a
+                                href="/item/20830" data-url="20830" class="tooltip-link link">Efreeti War Horn</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20961" data-url="20961" class="tooltip-link link">Saffron Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_873.png" alt="" /> <a
+                                href="/item/20828" data-url="20828" class="tooltip-link link">Adamantium Bands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20829" data-url="20829" class="tooltip-link link">Glowing Diamond</a>) then 
 
 
 >**Denise Songweaver says:** The horn of Denon will aid you greatly, I believe.
 
 
- **You receive:**  [Denon's Horn of Disaster](/item/27724) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_594.png" alt="" /> <a
+                                href="/item/27724" data-url="27724" class="tooltip-link link">Denon's Horn of Disaster</a> (+100000 exp)
 
-elseif( **You turn in:** [Imp Statuette](/item/20953), [Dull Stone](/item/20826), [Amulet of Woven Hair](/item/20827)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20953" data-url="20953" class="tooltip-link link">Imp Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1095.png" alt="" /> <a
+                                href="/item/20826" data-url="20826" class="tooltip-link link">Dull Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/20827" data-url="20827" class="tooltip-link link">Amulet of Woven Hair</a>) then
 
 
 
 >**Denise Songweaver says:** I hope you find this amulet useful, Soandso.
 
 
- **You receive:**  [Amulet of the Fae](/item/27723) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/27723" data-url="27723" class="tooltip-link link">Amulet of the Fae</a> (+100000 exp)
 
-elseif( **You turn in:** [Efreeti War Spear](/item/20831), [Manna Nectar](/item/20968), [Nebulous Emerald](/item/20832), [Nebulous Diamond](/item/20833)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/20831" data-url="20831" class="tooltip-link link">Efreeti War Spear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20968" data-url="20968" class="tooltip-link link">Manna Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/20832" data-url="20832" class="tooltip-link link">Nebulous Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20833" data-url="20833" class="tooltip-link link">Nebulous Diamond</a>) then
 
 
 
 >**Denise Songweaver says:** The spear of harmony is a powerful weapon indeed. I hope you find it useful, Soandso.
 
 
- **You receive:**  [Spear of Harmony](/item/27725) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/27725" data-url="27725" class="tooltip-link link">Spear of Harmony</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -82,7 +82,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Rolled Up Note](/item/14041)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/14041" data-url="14041" class="tooltip-link link">A Rolled Up Note</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -152,7 +153,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Rolled up Note](/item/12998)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/12998" data-url="12998" class="tooltip-link link">Rolled up Note</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -182,74 +184,85 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Veisha's Engagement Ring](/item/12997)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1052.png" alt="" /> <a
+                                href="/item/12997" data-url="12997" class="tooltip-link link">Veisha's Engagement Ring</a>) then 
 
 
 >**Davorre Bloodthorn says:** Only a few years have passed and her heart has already forgotten me. No doubt she has found another to warm her bed. Go, find her new lover, and bring me nothing less than his head.
 
 
-* __Faction:__ [Heretics](/faction/265) (5)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-5)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-5)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-5)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-5)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Phaeril Nightshire's Head](/item/12996)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_986.png" alt="" /> <a
+                                href="/item/12996" data-url="12996" class="tooltip-link link">Phaeril Nightshire's Head</a>) then 
 
 
 >**Davorre Bloodthorn says:** Apparently her choice in suitors has drifted to the most pathetic of wretches ever to slither Odus. You have done well, child. I ask of you one last task before my message to Veisha is complete. Here, deliver this to her with my most sincere regards.
 
 
-* __Faction:__ [Heretics](/faction/265) (5)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-5)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-5)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-5)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-5)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [A Locked Chest](/item/12995) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/12995" data-url="12995" class="tooltip-link link">A Locked Chest</a> (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Veisha Fathomwalker's Head](/item/12994)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_987.png" alt="" /> <a
+                                href="/item/12994" data-url="12994" class="tooltip-link link">Veisha Fathomwalker's Head</a>) then 
 
 
 >**Davorre Bloodthorn says:** My revenge has been satisfied. Thank you, my child. You have proven yourself to be a most worthy asset to our cause. Here, I no longer have any use for this, my ties to the old life are now severed.
 
 
-* __Faction:__ [Heretics](/faction/265) (20)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-20)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-20)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-20)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-20)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-20</span>)
 
 
- **You receive:**  [Battle Worn Halberd](/item/5526) (+6000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5526" data-url="5526" class="tooltip-link link">Battle Worn Halberd</a> (+6000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

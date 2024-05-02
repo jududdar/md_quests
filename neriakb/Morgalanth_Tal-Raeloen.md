@@ -51,7 +51,8 @@ if((e.other:GetClass() == 12 or e.other:GetClass() == 13 or e.other:GetClass() =
 
 
 
-**You receive:**  [Mystical Sewing Kit](/item/17246)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17246" data-url="17246" class="tooltip-link link">Mystical Sewing Kit</a>
 
 
 
@@ -74,7 +75,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22628)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22628" data-url="22628" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 **You say:** `bracers`
@@ -86,7 +88,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22629)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22629" data-url="22629" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `sandals`
@@ -98,7 +101,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Slippers Pattern](/item/22630)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22630" data-url="22630" class="tooltip-link link">An Enchanted Slippers Pattern</a>
 
 
 **You say:** `sleeves`
@@ -110,7 +114,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22631" data-url="22631" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `trousers`
@@ -122,7 +127,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Trousers Pattern](/item/22632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22632" data-url="22632" class="tooltip-link link">An Enchanted Trousers Pattern</a>
 
 
 **You say:** `gloves`
@@ -134,7 +140,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22633" data-url="22633" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 **You say:** `robes`
@@ -146,7 +153,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Robe Pattern](/item/22634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22634" data-url="22634" class="tooltip-link link">An Enchanted Robe Pattern</a>
 
 
 **You say:** `final test`
@@ -164,13 +172,19 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Chief Deroslans Prayer Beads](/item/22642), [Chief Ferilsars Prayer Beads](/item/22643), [Chief Wasolors Prayer Beads](/item/22644)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/22642" data-url="22642" class="tooltip-link link">Chief Deroslans Prayer Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/22643" data-url="22643" class="tooltip-link link">Chief Ferilsars Prayer Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/22644" data-url="22644" class="tooltip-link link">Chief Wasolors Prayer Beads</a>) then
 
 
 >**Morgalanth Tal-Raeloen says:** Your prowess both in the classroom and on the battlefield has certainly amazed me. Please take this relic that is only presented to the most dedicated initiates and carry it with pride. You have made your house very proud on this day.
 
 
- **You receive:**  [Ceremonial Dagger of the Spurned](/item/22647) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/22647" data-url="22647" class="tooltip-link link">Ceremonial Dagger of the Spurned</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

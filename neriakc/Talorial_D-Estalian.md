@@ -37,7 +37,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Old Enchanted Box](/item/17244)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17244" data-url="17244" class="tooltip-link link">Old Enchanted Box</a>
 
 
 **You say:** `glove`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22588)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22588" data-url="22588" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 **You say:** `bracer`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22584)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22584" data-url="22584" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `trouser`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Trousers Pattern](/item/22587)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22587" data-url="22587" class="tooltip-link link">An Enchanted Trousers Pattern</a>
 
 
 **You say:** `slipper`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Slippers Pattern](/item/22630)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22630" data-url="22630" class="tooltip-link link">An Enchanted Slippers Pattern</a>
 
 
 **You say:** `sleeve`
@@ -97,7 +102,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22586)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22586" data-url="22586" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `skullcap`
@@ -109,7 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22583)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22583" data-url="22583" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 **You say:** `robe`
@@ -121,7 +128,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Robe Pattern](/item/22589)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22589" data-url="22589" class="tooltip-link link">An Enchanted Robe Pattern</a>
 
 
 **You say:** `final test`
@@ -141,6 +149,7 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Ancient Book Binding](/item/17243)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17243" data-url="17243" class="tooltip-link link">An Ancient Book Binding</a>
 
 end

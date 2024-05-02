@@ -51,20 +51,34 @@ end
 
 
 
-if( **You turn in:** [Fleshless Skull](/item/31427), [Corrupted Fauns Skin](/item/31430), [Corrupted Panther Skin](/item/31429), [Corrupted Unicorns Skin](/item/31428) and **Your level** >= 55) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/31427" data-url="31427" class="tooltip-link link">Fleshless Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/31430" data-url="31430" class="tooltip-link link">Corrupted Fauns Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/31429" data-url="31429" class="tooltip-link link">Corrupted Panther Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/31428" data-url="31428" class="tooltip-link link">Corrupted Unicorns Skin</a> and **Your level** >= 55) then
 
 
 >**Guardian of Takish says:** May Tunare's blessing be upon thee! Here, take this item and use it wisely.
 
 
- **You receive:**  [Natures Defender](/item/1209) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1178.png" alt="" /> <a
+                                href="/item/1209" data-url="1209" class="tooltip-link link">Natures Defender</a> (+1000 exp)
 
-elseif( **You turn in:** [Idol of Corruption](/item/31432), [Idol of Decay](/item/31434), [Idol of Disease](/item/31431), [Idol of Erosion](/item/31433) and **Your level** >= 55) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/31432" data-url="31432" class="tooltip-link link">Idol of Corruption</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/31434" data-url="31434" class="tooltip-link link">Idol of Decay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/31431" data-url="31431" class="tooltip-link link">Idol of Disease</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/31433" data-url="31433" class="tooltip-link link">Idol of Erosion</a> and **Your level** >= 55) then
 
 
 >**Guardian of Takish says:** May Tunare's blessing be upon thee! Here, take this item and use it wisely.
 
 
- **You receive:**  [Symbol of Tunarian Worship](/item/1223) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/1223" data-url="1223" class="tooltip-link link">Symbol of Tunarian Worship</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

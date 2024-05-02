@@ -131,7 +131,11 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Wings of a Sifaye Knight](/item/25112), [Sifaye Head](/item/25113), [Sifaye Head](/item/25113), [Sifaye Head](/item/25113)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_910.png" alt="" /> <a
+                                href="/item/25112" data-url="25112" class="tooltip-link link">Wings of a Sifaye Knight</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/25113" data-url="25113" class="tooltip-link link">Sifaye Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/25113" data-url="25113" class="tooltip-link link">Sifaye Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/25113" data-url="25113" class="tooltip-link link">Sifaye Head</a>) then
 
 
 >**Nojas Blackfist says:** Congratulations, slayer of tiny beasts. Take this living tattoe for your troubles.  If you wish to continue to serve me, find a way to capture more noble sifaye... alive.
@@ -140,18 +144,21 @@ if **Faction** >= Amiable and  **You turn in:** [Wings of a Sifaye Knight](/item
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (10)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (2)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-5)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Silver Dragon Tattoo](/item/25056) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/25056" data-url="25056" class="tooltip-link link">Silver Dragon Tattoo</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

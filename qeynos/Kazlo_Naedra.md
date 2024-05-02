@@ -42,25 +42,28 @@ end
 
 
 
-if( **You turn in:** [Blank Scroll Sheets](/item/18006)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18006" data-url="18006" class="tooltip-link link">Blank Scroll Sheets</a>) then
 
 
 >**Kazlo Naedra says:** Good work, Soandso! Here's a little something for your troubles. Your quick work and loyalty will be noted by the Order of Three.
 
 
-* __Faction:__ [Order of Three](/faction/342) (5)
+Your faction standing with [Order of Three](/faction/342) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+200 exp)
+ &#127873; **You receive:** 0 (+200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

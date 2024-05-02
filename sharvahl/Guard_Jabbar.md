@@ -12,7 +12,8 @@ end
 
 
 
-if( **You turn in:** [Crate of Tea](/item/31766)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/31766" data-url="31766" class="tooltip-link link">Crate of Tea</a>) then
 
 
 >**Guard Jabbar says:** Ah the tea! I've been anxiously awaiting your arrival Soandso! We'd almost run out of this wonderful Gravel leaf tea. Take this seal back to Ahlam, and give him my thanks.
@@ -21,7 +22,10 @@ if( **You turn in:** [Crate of Tea](/item/31766)) then
 eq.start(37);
 
 
- **You receive:**  [Jabbar's seal](/item/31775) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/31775" data-url="31775" class="tooltip-link link">Jabbar's seal</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

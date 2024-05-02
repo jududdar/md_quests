@@ -13,13 +13,17 @@ end
 
 
 
-if( **You turn in:** [A Metal Key](/item/12849)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/12849" data-url="12849" class="tooltip-link link">A Metal Key</a>) then
 
 
 >**Tin Banker I says:** *Whirrrr*
 
 
- **You receive:**  [A Journal](/item/18065) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18065" data-url="18065" class="tooltip-link link">A Journal</a> 
+
+ 
 end
 
 

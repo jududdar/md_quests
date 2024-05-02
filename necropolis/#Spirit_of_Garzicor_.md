@@ -8,13 +8,17 @@
 
 
 
-if( **You turn in:** [Flawless Diamond](/item/25814)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/25814" data-url="25814" class="tooltip-link link">Flawless Diamond</a>) then 
 
 
 >*Spirit of Garzicor  's ghostly hand takes the gem and clutches at it tightly. The spirit then looks towards the sky as it slowly begins to fade away. After a time, nothing is left but the gem, now glowly softly. You quickly take the gem from mid air before it to vanishes.*
 
 
- **You receive:**  [Gold Tinted Diamond](/item/2091) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/2091" data-url="2091" class="tooltip-link link">Gold Tinted Diamond</a> (+5000 exp)
+
+ 
 
 
 **Spirit of Garzicor  despawns.**

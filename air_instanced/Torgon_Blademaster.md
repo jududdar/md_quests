@@ -20,7 +20,8 @@
 >**Torgon Blademaster says:** So be it, warrior.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the mighty warrior Falorn to test you.
 
 
-**You receive:**  [Falorn story](/item/18520)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18520" data-url="18520" class="tooltip-link link">Falorn story</a>
 
 **You say:** `ogog`
 
@@ -29,7 +30,8 @@
 >**Torgon Blademaster says:** Ogog?  You are indeed brave for choosing that brute.  Take this book telling the tale of Ogog and read it.  When you are finished, hand it back to me.
 
 
-**You receive:**  [Ogog Story](/item/18521)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18521" data-url="18521" class="tooltip-link link">Ogog Story</a>
 end
 
 
@@ -37,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [Falorn story](/item/18520)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18520" data-url="18520" class="tooltip-link link">Falorn story</a>) then 
 
 
 
@@ -49,7 +52,8 @@ if( **You turn in:** [Falorn story](/item/18520)) then
 
 **Torgon Blademaster despawns.**
 
-elseif( **You turn in:** [Ogog Story](/item/18521)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18521" data-url="18521" class="tooltip-link link">Ogog Story</a>) then 
 
 
 >**Torgon Blademaster says:** Farewell.

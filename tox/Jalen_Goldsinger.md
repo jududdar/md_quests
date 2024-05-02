@@ -26,25 +26,29 @@ end
 
 
 
-if( **You turn in:** [Potion of Sorrow](/item/7113), platinum = 100) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_585.png" alt="" /> <a
+                                href="/item/7113" data-url="7113" class="tooltip-link link">Potion of Sorrow</a>, platinum = 100) then 
 
 
 >**Jalen Goldsinger says:** Excuse me while I add some other items to this mix. There. Finished. Here you go, and thank you for your business.
 
 
-* __Faction:__ [Gate Callers](/faction/254) (3)
+Your faction standing with [Gate Callers](/faction/254) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Empty Crystal Sphere](/item/7112) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/7112" data-url="7112" class="tooltip-link link">Empty Crystal Sphere</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

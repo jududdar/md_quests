@@ -32,7 +32,8 @@
 >**Legionnaire Delaren says:** Centurion Peran is new to the ranks.  He gets things done I suppose it just takes him a long, long time.  Since you did his job for him, take him these new orders.  We will make a soldier out of him yet.
 
 
-**You receive:**  [Perans Orders](/item/6514)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/6514" data-url="6514" class="tooltip-link link">Perans Orders</a>
 end
 
 ## Turn-Ins
@@ -41,7 +42,11 @@ end
 
 
 
-if( **You turn in:** [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/10692" data-url="10692" class="tooltip-link link">Zelniak Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/10692" data-url="10692" class="tooltip-link link">Zelniak Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/10692" data-url="10692" class="tooltip-link link">Zelniak Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/10692" data-url="10692" class="tooltip-link link">Zelniak Meat</a>) then
 
 
 >**Legionnaire Delaren says:** Although your service to Seru is appreciated, I just received word that you were not the one that was sent to do this menial task. That lazy boy [Peran] was supposed to take the job.
@@ -50,24 +55,26 @@ if( **You turn in:** [Zelniak Meat](/item/10692), [Zelniak Meat](/item/10692), [
 
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (5)
+Your faction standing with [Citizens of Seru](/faction/1499) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (1)
+Your faction standing with [Hand of Seru](/faction/1484) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (1)
+Your faction standing with [Heart of Seru](/faction/1486) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (1)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (-2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+**You receive coin:** 0-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

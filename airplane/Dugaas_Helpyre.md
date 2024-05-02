@@ -36,7 +36,10 @@ end
 
 
 
-if( **You turn in:** [Imp Statuette](/item/20953), [Obsidian Amulet](/item/20786), [Pulsating Ruby](/item/20787)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20953" data-url="20953" class="tooltip-link link">Imp Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/20786" data-url="20786" class="tooltip-link link">Obsidian Amulet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/20787" data-url="20787" class="tooltip-link link">Pulsating Ruby</a>) then 
 
 
 
@@ -47,25 +50,41 @@ if( **You turn in:** [Imp Statuette](/item/20953), [Obsidian Amulet](/item/20786
 >**Dugaas Helpyre says:** A sphinx's heart holds many magical properties, Soandso.  Wear this amulet and reap the benefits.
 
 
- **You receive:**  [Sphinx Heart Amulet](/item/14560) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/14560" data-url="14560" class="tooltip-link link">Sphinx Heart Amulet</a> (+100000 exp)
 
-elseif( **You turn in:** [Gorgon Head](/item/20790), [Aged Nectar](/item/20967), [Glowing Black Pearl](/item/20791), [Efreeti Great Staff](/item/20792)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_985.png" alt="" /> <a
+                                href="/item/20790" data-url="20790" class="tooltip-link link">Gorgon Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20967" data-url="20967" class="tooltip-link link">Aged Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/20791" data-url="20791" class="tooltip-link link">Glowing Black Pearl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/20792" data-url="20792" class="tooltip-link link">Efreeti Great Staff</a>) then 
 
 
 
 >**Dugaas Helpyre says:** You surpise even me, Soandso.  A great necromancer you are and now you have the staff to prove it!
 
 
- **You receive:**  [Gorgon Head Staff](/item/11689) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_887.png" alt="" /> <a
+                                href="/item/11689" data-url="11689" class="tooltip-link link">Gorgon Head Staff</a> (+100000 exp)
 
-elseif( **You turn in:** [White Spiroc Feather](/item/20960), [Nebulous Ruby](/item/20788), [Ring of Veeshan](/item/20789)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20960" data-url="20960" class="tooltip-link link">White Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/20788" data-url="20788" class="tooltip-link link">Nebulous Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_765.png" alt="" /> <a
+                                href="/item/20789" data-url="20789" class="tooltip-link link">Ring of Veeshan</a>) then 
 
 
 
 >**Dugaas Helpyre says:** Take this ring, Soandso.  Oh, and just Ignore the wailing, you will get used to it in time.
 
 
- **You receive:**  [Band of Wailing Winds](/item/27713) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/27713" data-url="27713" class="tooltip-link link">Band of Wailing Winds</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

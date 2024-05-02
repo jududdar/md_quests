@@ -28,15 +28,18 @@ if( **You turn in:** platinum = 1000) then
 >**Smaka says:** Okay, enjoy me drink!
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (3)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (1)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Cough Elixir](/item/14365) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/14365" data-url="14365" class="tooltip-link link">Cough Elixir</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

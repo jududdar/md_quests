@@ -42,7 +42,11 @@ end
 
 
 
-if( **You turn in:** [Efreeti Scimitar](/item/20739), [Fire Sky Ruby](/item/20738), [Lush Nectar](/item/20965), [Storm Sky Opal](/item/20740)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/20739" data-url="20739" class="tooltip-link link">Efreeti Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/20738" data-url="20738" class="tooltip-link link">Fire Sky Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20965" data-url="20965" class="tooltip-link link">Lush Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/20740" data-url="20740" class="tooltip-link link">Storm Sky Opal</a>) then 
 
 
 
@@ -50,33 +54,41 @@ if( **You turn in:** [Efreeti Scimitar](/item/20739), [Fire Sky Ruby](/item/2073
 >**Fenalla Moonshadow says:** I am honored to know one such as you, Soandso. I beg you to wield Espri with as much grace you have shown during the travails to obtain it.
 
 
- **You receive:**  [Espri](/item/11683) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1169.png" alt="" /> <a
+                                href="/item/11683" data-url="11683" class="tooltip-link link">Espri</a> (+100000 exp)
+
+ 
 
 
 
 **Fenalla Moonshadow despawns.**
 
-elseif( **You turn in:** [Divine Honeycomb](/item/20735), [Efreeti Statuette](/item/20951), [Wilders Girdle](/item/20734)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1069.png" alt="" /> <a
+                                href="/item/20735" data-url="20735" class="tooltip-link link">Divine Honeycomb</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/20951" data-url="20951" class="tooltip-link link">Efreeti Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_560.png" alt="" /> <a
+                                href="/item/20734" data-url="20734" class="tooltip-link link">Wilders Girdle</a>) then 
 
 
 
 >**Fenalla Moonshadow says:** You have done well, young one.
 
 
- **You receive:**  [Honeycomb Belt](/item/11684) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_505.png" alt="" /> <a
+                                href="/item/11684" data-url="11684" class="tooltip-link link">Honeycomb Belt</a> (+100000 exp)
+
+ 
 
 
 
 **Fenalla Moonshadow despawns.**
 
-elseif( **You turn in:** [Acidic Venom](/item/20736), [Ethereal Ruby](/item/20737), [Spiroc Elders Totem](/item/20867), [White-tipped Spiroc Feather](/item/20958)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20736" data-url="20736" class="tooltip-link link">Acidic Venom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/20737" data-url="20737" class="tooltip-link link">Ethereal Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20867" data-url="20867" class="tooltip-link link">Spiroc Elders Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/14555" data-url="14555" class="tooltip-link link">Spiroc Banisher Focus</a> (+100000 exp)
 
-
-
->**Fenalla Moonshadow says:** You have done well, young one.
-
-
- **You receive:**  [Spiroc Banisher Focus](/item/14555) (+100000 exp)
+ 
 
 
 

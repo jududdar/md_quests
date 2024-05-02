@@ -74,7 +74,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [Vial of Infectious Disease](/item/10262)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/10262" data-url="10262" class="tooltip-link link">Vial of Infectious Disease</a>
 
 
 
@@ -124,78 +125,90 @@ end
 
 
 
-if( **You turn in:** [Stained Note](/item/18769)) then  
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18769" data-url="18769" class="tooltip-link link">Stained Note</a>) then  
 
 
 >**Evah Xokez says:** Join us in fulfilling teh will of Bertoxxulous. You can train with us here, in the shadows of the Abbey. Wear this tunic to help conceal your true identity.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (100)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-10)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-10)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-10)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-10</span>)
 
 
 
- **You receive:**  [Tin Patched Tunic*](/item/13518) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13518" data-url="13518" class="tooltip-link link">Tin Patched Tunic*</a> (+20 exp)
+
+ 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Empty Infectious Vial](/item/10263)) then 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/10263" data-url="10263" class="tooltip-link link">Empty Infectious Vial</a>) then 
 
 
 >**Evah Xokez says:** I hope you enjoyed the thrill of your first lesson and the awakening of your vision. Now you must prove your utility to our society. Take this airtight container and gather the [components] for another dose of the plague rat disease.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (50)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+50</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-5)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-5)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-5)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-5</span>)
 
 
 
- **You receive:**  [Airtight Metal Box](/item/17357) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17357" data-url="17357" class="tooltip-link link">Airtight Metal Box</a> (+150 exp)
+
+ 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Container of Infectious Reagents](/item/10266)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/10266" data-url="10266" class="tooltip-link link">Container of Infectious Reagents</a>) then
 
 
 >**Evah Xokez says:** It appears that you truly seek to expand your vision into the Dark Reflection, Soandso. I grant you the Initiate Symbol of Bertoxxulous!
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (25)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-2)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-2</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-2)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-2</span>)
 
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-2)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-2</span>)
 
 
 
- **You receive:**  [Initiate Symbol of Bertoxxulous](/item/1390) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/1390" data-url="1390" class="tooltip-link link">Initiate Symbol of Bertoxxulous</a> (+200 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

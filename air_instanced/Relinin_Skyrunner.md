@@ -33,35 +33,52 @@ end
 
 
 
-if( **You turn in:** [Auburn Tessera](/item/20934), [Griffon Talon](/item/20850), [Ysgaril Root](/item/20849)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20934" data-url="20934" class="tooltip-link link">Auburn Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/20850" data-url="20850" class="tooltip-link link">Griffon Talon</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_583.png" alt="" /> <a
+                                href="/item/20849" data-url="20849" class="tooltip-link link">Ysgaril Root</a>) then 
 
 
 >**Relinin Skyrunner says:** Good work, ranger.
 
 
- **You receive:**  [Griffon Talon Necklace](/item/14567) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/14567" data-url="14567" class="tooltip-link link">Griffon Talon Necklace</a> (+100000 exp)
+
+ 
 
 
 **Relinin Skyrunner despawns.**
 
-elseif( **You turn in:** [Fine Velvet Cloak](/item/20853), [Harpy Tongue](/item/20852), [Mithril Disc](/item/20851)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/20853" data-url="20853" class="tooltip-link link">Fine Velvet Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1087.png" alt="" /> <a
+                                href="/item/20852" data-url="20852" class="tooltip-link link">Harpy Tongue</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/20851" data-url="20851" class="tooltip-link link">Mithril Disc</a>) then 
 
 
 >**Relinin Skyrunner says:** You should find this cloak useful.
 
 
- **You receive:**  [Dark Cloak of the Sky](/item/27731) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/27731" data-url="27731" class="tooltip-link link">Dark Cloak of the Sky</a> (+100000 exp)
+
+ 
 
 
 **Relinin Skyrunner despawns.**
 
-elseif( **You turn in:** [Dragon-hide Mantle](/item/20854), [Gridelin Globe](/item/20948), [Spiroc Earth totem](/item/20855)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20948" data-url="20948" class="tooltip-link link">Gridelin Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20855" data-url="20855" class="tooltip-link link">Spiroc Earth totem</a>) then 
 
 
 >**Relinin Skyrunner says:** The mantle I give you to wear houses a powerful enchantment. Use it with care.
 
 
- **You receive:**  [Earthshaker's Mantle](/item/2714) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2714" data-url="2714" class="tooltip-link link">Earthshaker's Mantle</a> (+100000 exp)
+
+ 
 
 
 **Relinin Skyrunner despawns.**

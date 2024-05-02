@@ -26,20 +26,29 @@ end
 
 
 
-if( **You turn in:** [Twisted Symbol of the Apprentice](/item/20643), [Rolling Stone Moss](/item/20649)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/20643" data-url="20643" class="tooltip-link link">Twisted Symbol of the Apprentice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/20649" data-url="20649" class="tooltip-link link">Rolling Stone Moss</a>) then 
 
 
 >**Emkel Kabae says:** Very good, Soandso, you have done as the master asked yet again, take this as a reward.' Emkel reaches into his robes and pulls out a small symbol. He holds it out and the tiny symbol floats to your hand.
 
 
- **You receive:**  [Symbol of the Serpent](/item/20644) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/20644" data-url="20644" class="tooltip-link link">Symbol of the Serpent</a> (+500 exp)
 
-elseif( **You turn in:** [Refined Manisi Herb](/item/20650)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1197.png" alt="" /> <a
+                                href="/item/20650" data-url="20650" class="tooltip-link link">Refined Manisi Herb</a>) then 
 
 
 >**Emkel Kabae says:** You are truly worthy of studying with our master. Bear this new symbol and contemplate what you wish from life before you let go of it. Ask the master about the symbol of testing and he will explain all. I too was tested by him.' Emkel pulls up his sleeve to show a grievous scar from his wrist to his shoulder.
 
 
- **You receive:**  [Symbol of Testing](/item/20647) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/20647" data-url="20647" class="tooltip-link link">Symbol of Testing</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

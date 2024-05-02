@@ -65,7 +65,8 @@ end
 
 
 
-if( **You turn in:** [A Sealed Letter](/item/18807)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18807" data-url="18807" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Nomaria Doseniar says:** Good work, child of the plague. Now take this forged note to Te'Anara of the Jaggedpine Treefolk. Be sure to watch your back, now. The guards of Qeynos surely know who you are by now. They will not stop to ask questions.
@@ -74,22 +75,25 @@ if( **You turn in:** [A Sealed Letter](/item/18807)) then
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (50)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-7)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (5)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-12)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (2)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [A Sealed Letter](/item/18806) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18806" data-url="18806" class="tooltip-link link">A Sealed Letter</a> (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

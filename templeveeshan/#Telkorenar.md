@@ -79,37 +79,65 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Emerald Symbol](/item/31257), [Emerald Tear](/item/31268), [Ruby Tear](/item/31270), [Platinum Symbol](/item/31258)) then 
+if **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31257" data-url="31257" class="tooltip-link link">Emerald Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31268" data-url="31268" class="tooltip-link link">Emerald Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31270" data-url="31270" class="tooltip-link link">Ruby Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31258" data-url="31258" class="tooltip-link link">Platinum Symbol</a>) then 
 
 
 FactionHits(e);
 
 
- **You receive:**  [Pauldrons of the Deep Flame](/item/31472) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/31472" data-url="31472" class="tooltip-link link">Pauldrons of the Deep Flame</a> (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Glowing Drake Orb](/item/31260), [Silver Symbol](/item/31253), [White Tear](/item/31261), [White Symbol](/item/31250)) then 
+ 
 
-
-FactionHits(e);
-
-
- **You receive:**  [Serrated Dragon Tooth](/item/31469) (+20000 exp)
-
-elseif **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [Black Symbol](/item/31251), [Poison Symbol](/item/31255), [Serrated Symbol](/item/31254)) then 
-
-
-FactionHits(e);
-
-
- **You receive:**  [Earring of the Living Flame](/item/31470) (+20000 exp)
-
-elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Symbol](/item/31256), [Poison Tear](/item/31266), [Serrated Tear](/item/31265), [Ruby Symbol](/item/31259)) then 
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/31260" data-url="31260" class="tooltip-link link">Glowing Drake Orb</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31253" data-url="31253" class="tooltip-link link">Silver Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31261" data-url="31261" class="tooltip-link link">White Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31250" data-url="31250" class="tooltip-link link">White Symbol</a>) then 
 
 
 FactionHits(e);
 
 
- **You receive:**  [Cloak of the Fire Storm](/item/31471) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/31469" data-url="31469" class="tooltip-link link">Serrated Dragon Tooth</a> (+20000 exp)
+
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31262" data-url="31262" class="tooltip-link link">Black Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31251" data-url="31251" class="tooltip-link link">Black Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31255" data-url="31255" class="tooltip-link link">Poison Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31254" data-url="31254" class="tooltip-link link">Serrated Symbol</a>) then 
+
+
+FactionHits(e);
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_619.png" alt="" /> <a
+                                href="/item/31470" data-url="31470" class="tooltip-link link">Earring of the Living Flame</a> (+20000 exp)
+
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31256" data-url="31256" class="tooltip-link link">Flame Kissed Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31266" data-url="31266" class="tooltip-link link">Poison Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31265" data-url="31265" class="tooltip-link link">Serrated Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31259" data-url="31259" class="tooltip-link link">Ruby Symbol</a>) then 
+
+
+FactionHits(e);
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/31471" data-url="31471" class="tooltip-link link">Cloak of the Fire Storm</a> (+20000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -117,8 +145,8 @@ function FactionHits(e)
 
 >**Telkorenar says:** You have done well, ".. e.other:Race() .. ". You have proven that you are strong, but do you dare enter those halls again?
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (75)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+75</span>)
 
-* __Faction:__ [Yelinak](/faction/436) (18)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+18</span>)
 
-* __Faction:__ [Kromzek](/faction/448) (-37)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-37</span>)

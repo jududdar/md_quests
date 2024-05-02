@@ -43,13 +43,17 @@ end
 
 
 
-if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet of Marr](/item/20606)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/20605" data-url="20605" class="tooltip-link link">Crescent Symbol of Rhaj</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/20606" data-url="20606" class="tooltip-link link">Righteous Amulet of Marr</a>  ) then 
 
 
 >*A Wandering Spirit quickly grabs the amulet and crescent symbol before speaking. 'At long last! I can now rest in peace along with my fellow brethren. Thank you Soandso. May the might of Marr follow you wherever you may go.'*
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
 **A Wandering Spirit despawns.**
@@ -57,13 +61,17 @@ if (  **You turn in:** [Crescent Symbol of Rhaj](/item/20605), [Righteous Amulet
 
 
 
-elseif (  **You turn in:** [Unwavering Shield of Faith](/item/20608), [Unwavering Sword of Faith](/item/20607)  ) then 
+elseif (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_805.png" alt="" /> <a
+                                href="/item/20608" data-url="20608" class="tooltip-link link">Unwavering Shield of Faith</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1173.png" alt="" /> <a
+                                href="/item/20607" data-url="20607" class="tooltip-link link">Unwavering Sword of Faith</a>  ) then 
 
 
 >*A Wandering Spirit looks at you with great surprise. 'It's been quite some time since I've been without my weaponry. Thank you for returning them to me Soandso.'*
 
 
- **You receive:** 0 
+ &#127873; **You receive:** 0 
+
+ 
 
 
 **A Wandering Spirit despawns.**

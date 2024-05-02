@@ -42,7 +42,8 @@ end
 
 
 
-if( **You turn in:** [Shainais Blanket](/item/4478)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1243.png" alt="" /> <a
+                                href="/item/4478" data-url="4478" class="tooltip-link link">Shainais Blanket</a>) then
 
 
 >*Shainai settles comfortably in for restful afternoon nap, 'Thank you for walking me home, it was ever so nice of you.  Goodnight.'*

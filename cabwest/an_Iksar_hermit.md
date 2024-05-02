@@ -19,7 +19,8 @@ if **Faction** >= Amiable +200 then
 
 
 
-**You receive:**  [A Flaxen Hilt](/item/17195)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1140.png" alt="" /> <a
+                                href="/item/17195" data-url="17195" class="tooltip-link link">A Flaxen Hilt</a>
 
 
 else
@@ -38,19 +39,24 @@ local text = "All is not complete. A cap and the rest, which was asked for, is r
 
 
 
-if( **You turn in:** [Barbed Scaled Whip](/item/12886), [Sorcerer Skullcap](/item/4266)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/12886" data-url="12886" class="tooltip-link link">Barbed Scaled Whip</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4266" data-url="4266" class="tooltip-link link">Sorcerer Skullcap</a>) then
 
 
 >*an Iksar hermit takes the flail and vanishes with a brilliant flash!! Within your hands appears a skullcap. You hear a voice echo through the cave. Well done. You are a formidable necromancer. We thank you.*
 
 
- **You receive:**  [Necromancer Skullcap](/item/4267) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/4267" data-url="4267" class="tooltip-link link">Necromancer Skullcap</a> (+10000 exp)
+
+ 
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (15)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
 **an Iksar hermit despawns.**

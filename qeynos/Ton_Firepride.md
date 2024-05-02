@@ -23,13 +23,14 @@
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 >**Ton Firepride says:** Oh I see, Vicus has got some other sap to do his work. Fine. Here are your stinking taxes. If Kane were in charge, things would be different around here.
 
 
-**You receive:**  [Fireprides Tax Payment](/item/13170)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13170" data-url="13170" class="tooltip-link link">Fireprides Tax Payment</a>
 
 **You say:** `lanhern`
 
@@ -51,7 +52,8 @@ end
 
 
 
-if( **You turn in:** [Hurrieta's Tunic](/item/13129)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_712.png" alt="" /> <a
+                                href="/item/13129" data-url="13129" class="tooltip-link link">Hurrieta's Tunic</a>) then
 
 
 >**Ton Firepride says:** Ha! This is great. Here's your money, murderer! Hope the guards don't find you. Now get lost! Take the tunic. Maybe Garuc will reward you for such a vile deed. I sure don't want to keep it around here.
@@ -60,22 +62,25 @@ if( **You turn in:** [Hurrieta's Tunic](/item/13129)) then
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (20)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-3)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (3)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (2)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (3)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Hurrietas Bloody Dress](/item/13134) (+400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_712.png" alt="" /> <a
+                                href="/item/13134" data-url="13134" class="tooltip-link link">Hurrietas Bloody Dress</a> (+400 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

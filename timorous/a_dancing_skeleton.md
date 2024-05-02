@@ -44,7 +44,8 @@ eq.set_timer(100,30000);
 >**a dancing skeleton says:** Yes!! Return the hand. Here it is. Missing four it is. Within the tower of past pain and torture is where the four lie. Taken by bones similar to myself.
 
 
-**You receive:**  [hand with one only a thumb](/item/17037)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/17037" data-url="17037" class="tooltip-link link">hand with one only a thumb</a>
 
 
 eq.set_timer(100,4000);

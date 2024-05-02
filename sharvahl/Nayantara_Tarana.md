@@ -18,12 +18,16 @@ end
 
 
 
-if( **You turn in:** [Reflective Shard](/item/16860)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/16860" data-url="16860" class="tooltip-link link">Reflective Shard</a>) then
 
 
 >*Nayantara Tarana inspects the shard, 'This is perfect, Soandso, thank you. I will fit this into my telescope as soon as I get home, here is the drop of moonlight that I promised you. Good luck, my friend' she says with a bow.*
 
 
- **You receive:**  [Drop of Moonlight](/item/5992) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_694.png" alt="" /> <a
+                                href="/item/5992" data-url="5992" class="tooltip-link link">Drop of Moonlight</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

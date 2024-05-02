@@ -141,7 +141,11 @@ local text2 = "Ah, very good. You are well on your way to earning the yellow Sas
 if **Faction** >= Amiable +50 then
 
 
-if( **You turn in:** [Deathfist Pawn Scalp](/item/13794), [Deathfist Pawn Scalp](/item/13794), [Snake Fang](/item/13067), [Bone Chips](/item/13073)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13794" data-url="13794" class="tooltip-link link">Deathfist Pawn Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13794" data-url="13794" class="tooltip-link link">Deathfist Pawn Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/13067" data-url="13067" class="tooltip-link link">Snake Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>) then
 
 
 
@@ -149,41 +153,51 @@ if( **You turn in:** [Deathfist Pawn Scalp](/item/13794), [Deathfist Pawn Scalp]
 
 
 
-* __Faction:__ [Ashen Order](/faction/361) (25)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (1)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [White Training Sash](/item/10130) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_932.png" alt="" /> <a
+                                href="/item/10130" data-url="10130" class="tooltip-link link">White Training Sash</a> (+500 exp)
+
+ 
 
 
 
 
 
 
-if **Faction** >= Amiable +75 and  **You turn in:** [White Training Sash](/item/10130), [Giant Snake Rattle](/item/13058), [Deathfist Slashed Belt](/item/13916), [Desert Tarantula Chitin](/item/20901)) then
+if **Faction** >= Amiable +75 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_932.png" alt="" /> <a
+                                href="/item/10130" data-url="10130" class="tooltip-link link">White Training Sash</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1122.png" alt="" /> <a
+                                href="/item/13058" data-url="13058" class="tooltip-link link">Giant Snake Rattle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13916" data-url="13916" class="tooltip-link link">Deathfist Slashed Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/20901" data-url="20901" class="tooltip-link link">Desert Tarantula Chitin</a>) then
 
 
 >**Velan Torresk says:** Ah, well done, Soandso. You have proven that you are a very skillful fighter and it is an honor to have you as a member of the Ashen Order. On behalf of Master Closk, and under the watchful eyes of Quellious, I present you, Soandso, with this, the yellow Sash of Order. Go out and make us proud.
 
 
-* __Faction:__ [Ashen Order](/faction/361) (50)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (7)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (2)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Yellow Sash of Order](/item/10131) (+750 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_933.png" alt="" /> <a
+                                href="/item/10131" data-url="10131" class="tooltip-link link">Yellow Sash of Order</a> (+750 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

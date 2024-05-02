@@ -45,7 +45,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Mail Assembly Kit](/item/17124)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a>
 
 
 **You say:** `gauntlets`
@@ -57,7 +58,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `boots`
@@ -69,7 +71,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `bracer`
@@ -81,7 +84,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `helm`
@@ -93,7 +97,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `greaves`
@@ -105,7 +110,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `vambraces`
@@ -117,7 +123,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `breastplate`
@@ -129,7 +136,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 end
 
@@ -141,39 +149,49 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Silver Leafed Emerald Amulet](/item/20280)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1049.png" alt="" /> <a
+                                href="/item/20280" data-url="20280" class="tooltip-link link">Silver Leafed Emerald Amulet</a>) then
 
 
 >**Terren Starwatcher says:** You have done well young Soandso. If you continue to show such devotion to your people and your faith then perhaps one day you will serve in the chambers of King Tearis Thex himself. Take this Rusty Sylvan Morning Star and scrape the rust from it in a forge with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once that is done bring me the Refined Sylvan Morning Star, a Pristine Drakeling Scales, and an Arborean Amber.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (5)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (5)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (3)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Rusty Sylvan Morning Star](/item/20297) (+36450 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/20297" data-url="20297" class="tooltip-link link">Rusty Sylvan Morning Star</a> (+36450 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Refined Sylvan Morning Star](/item/20300), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/20300" data-url="20300" class="tooltip-link link">Refined Sylvan Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/20271" data-url="20271" class="tooltip-link link">Pristine Forest Drakeling Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_951.png" alt="" /> <a
+                                href="/item/20274" data-url="20274" class="tooltip-link link">Arborean Amber</a>) then
 
 
 >**Terren Starwatcher says:** Terren Starwatcher fashions a grip out of the pristine forest drakeling scales, fastens the arborean amber to the pommel, and polishes the head of the morning star with a luminescent substance. 'I grant you a Sylvan Initiate Morning Star. May it serve you well in your service to The All Mother.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (5)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (5)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (3)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Sylvan Initiate Morningstar](/item/20330) (+36450 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/20330" data-url="20330" class="tooltip-link link">Sylvan Initiate Morningstar</a> (+36450 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

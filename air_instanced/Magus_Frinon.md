@@ -20,7 +20,8 @@
 >**Magus Frinon says:** Frederic it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the magician Frederic to test you.
 
 
-**You receive:**  [Forms of Magic](/item/18532)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18532" data-url="18532" class="tooltip-link link">Forms of Magic</a>
 
 **You say:** `Roanis`
 
@@ -29,14 +30,16 @@
 >**Magus Frinon says:** Roanis it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the magician Roanis to test you.
 
 
-**You receive:**  [Channeling](/item/18533)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18533" data-url="18533" class="tooltip-link link">Channeling</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Forms of Magic](/item/18532)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18532" data-url="18532" class="tooltip-link link">Forms of Magic</a>) then 
 
 
 >**Magus Frinon says:** Till next time!  Farewell!
@@ -47,7 +50,8 @@ if( **You turn in:** [Forms of Magic](/item/18532)) then
 
 **Magus Frinon despawns.**
 
-elseif( **You turn in:** [Channeling](/item/18533)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18533" data-url="18533" class="tooltip-link link">Channeling</a>) then 
 
 
 >**Magus Frinon says:** Till next time!  Farewell!

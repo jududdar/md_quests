@@ -79,30 +79,35 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18714)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18714" data-url="18714" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Priestess Jahnda says:** Welcome to the Temple of Life. I am Jahnda, the High Priestess of the Clerics of Nife. Wear this tunic with pride and carry out the will of Nife. Please, see Tonmerk Plorsin or Nomsoe Jusagta. They will help get you started spreading the will of The Prime Healer.
 
 
-* __Faction:__ [Priests of Life](/faction/341) (100)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (30)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (50)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-25)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (15)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Faded Tunic*](/item/13506) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13506" data-url="13506" class="tooltip-link link">Faded Tunic*</a> (+100 exp)
 
-elseif( **You turn in:** [Pouch of Evidence](/item/13724)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/13724" data-url="13724" class="tooltip-link link">Pouch of Evidence</a>) then
 
 
 >**Priestess Jahnda says:** Excellent work! You are surely under the protection and guidance of the Prime Healer. This evidence will help us greatly to convince Antonious and the guild leaders of Qeynos that the Bloodsabers are here and seek to destroy all we have worked so long for.
@@ -111,41 +116,53 @@ elseif( **You turn in:** [Pouch of Evidence](/item/13724)) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (50)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (15)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (25)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-12)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (7)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+7</span>)
 
 
 if(math.random(100) > 5) then
 
 
 
- **You receive:** eq.ChooseRandom( [Potion of Light Healing](/item/14007), [Potion of Disease Warding](/item/14003)) (+4000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/14007" data-url="14007" class="tooltip-link link">Potion of Light Healing</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/14003" data-url="14003" class="tooltip-link link">Potion of Disease Warding</a>) (+4000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 else
 
 
 
- **You receive:** eq.ChooseRandom( [Skullcap of Rodcet Nife](/item/13723), [Shield of Nife](/item/13720)) (+4000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/13723" data-url="13723" class="tooltip-link link">Skullcap of Rodcet Nife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_805.png" alt="" /> <a
+                                href="/item/13720" data-url="13720" class="tooltip-link link">Shield of Nife</a>) (+4000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
-elseif( **You turn in:** [PrayerBeads](/item/13911)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13911" data-url="13911" class="tooltip-link link">PrayerBeads</a>) then 
 
 
 >**Priestess Jahnda says:** Oh my word!! This is terrible news. This belongs to Hayle Mool. He has been captured by the Splitpaw Clan while in Karana. You must go to his aid. We cannot do so at this time. Here. Be sure to hand him this summons. I will need to speak with him.
 
 
- **You receive:**  [Temple Summons](/item/18927) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18927" data-url="18927" class="tooltip-link link">Temple Summons</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

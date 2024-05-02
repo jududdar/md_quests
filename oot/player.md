@@ -20,7 +20,9 @@ else
 if(qglobals.strongbox ~= nil) then
 
 
-**Spawns on ground:**  [A Strongbox](/item/13860) at (**y:** -433, **x:** - [Sarnak Battle Shield](/item/9205))
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13860" data-url="13860" class="tooltip-link link">A Strongbox</a> at (**y:** -433, **x:** - <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/9205" data-url="9205" class="tooltip-link link">Sarnak Battle Shield</a>)
 
 
 eq.delete_global("strongbox");

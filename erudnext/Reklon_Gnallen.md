@@ -78,29 +78,45 @@ end
 
 
 
-if( **You turn in:** [Tainted Darksteel Breastplate](/item/29001), [Pure Crystal](/item/29006)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/29001" data-url="29001" class="tooltip-link link">Tainted Darksteel Breastplate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/29006" data-url="29006" class="tooltip-link link">Pure Crystal</a>) then
 
 
 >*Reklon Gnallen presses the gem of purity against the breastplate. Its dark gleam softens and then glows bright once again. 'Compassion is strong in you. Few so called heroes would sacrifice their time for such a menial task as you performed. Continue your work. Hold this ancient breastplate until you have completed your task.*
 
 
- **You receive:**  [Gleaming Crested Breastplate](/item/29004) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/29004" data-url="29004" class="tooltip-link link">Gleaming Crested Breastplate</a> 
 
-elseif( **You turn in:** [Tainted Darksteel Sword](/item/29000), [bucket of pure water](/item/29009)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/29000" data-url="29000" class="tooltip-link link">Tainted Darksteel Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1016.png" alt="" /> <a
+                                href="/item/29009" data-url="29009" class="tooltip-link link">bucket of pure water</a>) then
 
 
 >*Reklon Gnallen washes the sword's blade in the water of purity. Its dark surface begins to shine, as true as the day it was forged. 'Such a sacrifice is rare among the poor. Truly, the woman must have loved her brother. Remember the lesson you have learned from her. Keep the sword until your work is done.'*
 
 
- **You receive:**  [Gleaming Crested Sword](/item/29003) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/29003" data-url="29003" class="tooltip-link link">Gleaming Crested Sword</a> 
 
-elseif( **You turn in:** [Gleaming Crested Sword](/item/29003), [Gleaming Crested Breastplate](/item/29004), [Gleaming Crested Shield](/item/29005)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/29003" data-url="29003" class="tooltip-link link">Gleaming Crested Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/29004" data-url="29004" class="tooltip-link link">Gleaming Crested Breastplate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_758.png" alt="" /> <a
+                                href="/item/29005" data-url="29005" class="tooltip-link link">Gleaming Crested Shield</a>) then
 
 
 >**Reklon Gnallen says:** I never thought our order would see these artifacts again. With the return of these relics we can now put at ease a scar upon the history of our order. This cleansing will atone for his failure. Your soul must be pure to have given so freely of yourself. Go now, take this crested token of our order. If you wish to free his soul you must undertake another sacrifice.
 
 
- **You receive:**  [Mark of Atonement](/item/29010) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/29010" data-url="29010" class="tooltip-link link">Mark of Atonement</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

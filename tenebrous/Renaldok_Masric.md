@@ -40,7 +40,10 @@ if **Faction** >= Dubious then
 
 
 
- **You receive:**  [Empty Blood Skin](/item/17096) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_717.png" alt="" /> <a
+                                href="/item/17096" data-url="17096" class="tooltip-link link">Empty Blood Skin</a> 
+
+ 
 
 
 else
@@ -72,24 +75,28 @@ end
 
 
 
-if( **You turn in:** [Skin of Akheva Blood](/item/10799)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_717.png" alt="" /> <a
+                                href="/item/10799" data-url="10799" class="tooltip-link link">Skin of Akheva Blood</a>) then 
 
 
 >**Renaldok Masric says:** Well done, for a mortal you have served us well
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (20)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-2)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-2)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Valdanov Zevfeer](/faction/1507) (2)
+Your faction standing with [Valdanov Zevfeer](/faction/1507) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Coterie Mask of the Dead](/item/7778) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_506.png" alt="" /> <a
+                                href="/item/7778" data-url="7778" class="tooltip-link link">Coterie Mask of the Dead</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -8,13 +8,17 @@ local name;
 
 
 
-if( **You turn in:** [Interrogators Briefing](/item/18292) ) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18292" data-url="18292" class="tooltip-link link">Interrogators Briefing</a> ) then 
 
 
 >**an interrogator says:** I see you wish to become an interrogator. This is not a duty for the weak of heart you know. This job sometimes requires...
 
 
- **You receive:**  [Confession Document](/item/2344) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/2344" data-url="2344" class="tooltip-link link">Confession Document</a> (+1000 exp)
+
+ 
 
 
 **Set a timer** named *brief* for 10 seconds
@@ -25,13 +29,19 @@ name = e.other:GetName();
 
 brief = 0;
 
-elseif( **You turn in:** [Head of Markus Cachexia](/item/2390), [Head of Morley Murrain](/item/2391), [Theodore's Confession](/item/2395)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/2390" data-url="2390" class="tooltip-link link">Head of Markus Cachexia</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/2391" data-url="2391" class="tooltip-link link">Head of Morley Murrain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/2395" data-url="2395" class="tooltip-link link">Theodore's Confession</a>) then 
 
 
 >**an interrogator says:** Excellent work, you did just fine today. You'll make a fine interrogator. Talk to Vegalys about advancing further.
 
 
- **You receive:**  [Interrogator's Badge](/item/2387) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/2387" data-url="2387" class="tooltip-link link">Interrogator's Badge</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

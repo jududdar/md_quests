@@ -30,7 +30,8 @@ end
 
 
 
-local cgb =  **You turn in:**  { [Guard Bracelet](/item/13303)}
+local cgb =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/13303" data-url="13303" class="tooltip-link link">Guard Bracelet</a>}
 
 
 if **Faction** >= Apprehensive and (cgb > 0))  then 
@@ -45,22 +46,34 @@ repeat
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-2)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bunker Battle Blade](/item/5369), [Round Shield](/item/9002), [Bronze Bracers](/item/4209), [Bronze Battle Axe](/item/5028), [Bronze Scimitar](/item/5034), [Reinforced Boots](/item/2248), [Tentacle Whip](/item/5310), [Targ Shield](/item/9003), [Fine Steel Dagger](/item/7350), [Fine Steel Long Sword](/item/5350)) (+50000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5369" data-url="5369" class="tooltip-link link">Bunker Battle Blade</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9002" data-url="9002" class="tooltip-link link">Round Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4209" data-url="4209" class="tooltip-link link">Bronze Bracers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5028" data-url="5028" class="tooltip-link link">Bronze Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5034" data-url="5034" class="tooltip-link link">Bronze Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2248" data-url="2248" class="tooltip-link link">Reinforced Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/5310" data-url="5310" class="tooltip-link link">Tentacle Whip</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/9003" data-url="9003" class="tooltip-link link">Targ Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/7350" data-url="7350" class="tooltip-link link">Fine Steel Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5350" data-url="5350" class="tooltip-link link">Fine Steel Long Sword</a>) (+50000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
@@ -71,7 +84,8 @@ until cgb == 0
 
 
 
-if( **You turn in:** [Guard Bracelet](/item/13304)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/13304" data-url="13304" class="tooltip-link link">Guard Bracelet</a>) then 
 
 
 >**Capt Linarius says:** You fool! You have killed a fine and outstanding guard. You shall pay dearly for this!

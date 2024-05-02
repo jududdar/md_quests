@@ -31,7 +31,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Sol Cauldron](/item/17977)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/17977" data-url="17977" class="tooltip-link link">Sol Cauldron</a>
 
 
 elseif **Faction** >= Indifferent then

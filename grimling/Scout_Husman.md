@@ -33,10 +33,13 @@ return;
 
 
 
-if( **You turn in:** [Polished Acrylia Sphere](/item/3681)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/3681" data-url="3681" class="tooltip-link link">Polished Acrylia Sphere</a>) then 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 >**Scout Husman says:** Nothing better than killing grimlings for the king! Follow me closely and fight well. Make certain that I survive, for if I perish the mission will be a failure.

@@ -28,7 +28,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Component Mortar](/item/17020)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_857.png" alt="" /> <a
+                                href="/item/17020" data-url="17020" class="tooltip-link link">Component Mortar</a>
 
 
 
@@ -205,112 +206,143 @@ local text1 = "In my hand shall be placed three skulls of the Trilac Brotherhood
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A note to Oxyn](/item/3895)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/3895" data-url="3895" class="tooltip-link link">A note to Oxyn</a>) then 
 
 
 
 >*Hierophant Oxyn takes the note and begins to howl into the air! 'The visions are true! The new prophecy begins today, Crusader,' the mystic growls with pleasure. He quickly turns and takes a bottle of murky liquid from one of his potion bags and hands it to you. 'Take this and keep it safe. Our visions have told of this day. We have been able to learn of the metal of prophecy. This [liquid] will help us to locate its true resting place!*
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (20)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Bottle of Liquid Deklium](/item/3892) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_694.png" alt="" /> <a
+                                href="/item/3892" data-url="3892" class="tooltip-link link">Bottle of Liquid Deklium</a> (+5000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Chunk of Tynnonium](/item/3886)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/3886" data-url="3886" class="tooltip-link link">Chunk of Tynnonium</a>) then 
 
 
 >*Hierophant Oxyn holds the ore in his hands and begins to chant. His eyes go white as he raises the chunk of ore above his head. He lowers his arms and shakes his head for a moment. His eyes return to their normal state as they focus on you. The shaman hands you the ore and says, 'Seek out the creator of Rile's blade. He is still on this plane. I have felt his torment. Take this note to Librarian Zimor. He learned a great deal from the tome and can instruct you further.'*
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (20)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Note to Librarian Zimor](/item/3893) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/3893" data-url="3893" class="tooltip-link link">Note to Librarian Zimor</a> (+5000 exp)
+
+ 
 
 
 
- **You receive:**  [Chunk of Tynnonium](/item/3886) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/3886" data-url="3886" class="tooltip-link link">Chunk of Tynnonium</a> 
+
+ 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full Component Mortar](/item/12403)) then 
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_857.png" alt="" /> <a
+                                href="/item/12403" data-url="12403" class="tooltip-link link">Full Component Mortar</a>) then 
 
 
 >**Hierophant Oxyn says:** We appreciate your service. Take a few copper for your deed as well as some of our cursed waters. They will provide you with nourishment. As for future tasks, we are searching for a few [lost skulls] and i am sure you are searching for your [iron cudgel of the clairvoyant] And i also hear that the furscales are in need of some broodlings to do some manual labor. Tell them Oxyn sent you.
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (2)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
 
 
 
 
- **You receive:**  [Cursed Wafers](/item/12406) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1086.png" alt="" /> <a
+                                href="/item/12406" data-url="12406" class="tooltip-link link">Cursed Wafers</a> (+50 exp)
+
+ 
 
 
- **You receive:**  [Cursed Wafers](/item/12406) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1086.png" alt="" /> <a
+                                href="/item/12406" data-url="12406" class="tooltip-link link">Cursed Wafers</a> 
+
+ 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Morgl Skull](/item/12721), [Logrin Skull](/item/12722), [Waz Skull](/item/12723), [Iron Cudgel of the Petitioner](/item/5140)) then
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12721" data-url="12721" class="tooltip-link link">Morgl Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12722" data-url="12722" class="tooltip-link link">Logrin Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12723" data-url="12723" class="tooltip-link link">Waz Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5140" data-url="5140" class="tooltip-link link">Iron Cudgel of the Petitioner</a>) then
 
 
 >**Hierophant Oxyn says:** Excellent! You have proved yourself worthy to wield the iron cudgel of the clairvoyant. As a clairvoyant I feel I can trust you, so I will tell you that the issue of the missing skulls is a [much larger problem] than last stated.
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
 
 
 
 
- **You receive:**  [Iron Cudgel of the Clairvoyant](/item/5141) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5141" data-url="5141" class="tooltip-link link">Iron Cudgel of the Clairvoyant</a> (+2000 exp)
+
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Skull with I](/item/12724), [Skull with II](/item/12725), [Iron Cudgel of the Clairvoyant](/item/5141)) then
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12724" data-url="12724" class="tooltip-link link">Skull with I</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12725" data-url="12725" class="tooltip-link link">Skull with II</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5141" data-url="5141" class="tooltip-link link">Iron Cudgel of the Clairvoyant</a>) then
 
 
 >**Hierophant Oxyn says:** We are in your debt,Soandso . You are truly one who shall collect all the lost ancient skulls. Take your weapon. Go to Hierophant Zand and he shall guide you further. Tell him you are [the chosen saviour].
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
 
 
 
 
- **You receive:**  [Iron Cudgel of the Seer](/item/5142) (+60000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5142" data-url="5142" class="tooltip-link link">Iron Cudgel of the Seer</a> (+60000 exp)
+
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

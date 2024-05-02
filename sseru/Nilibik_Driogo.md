@@ -34,34 +34,38 @@ end
 
 
 
-if( **You turn in:** [Cracked Amulet](/item/6515)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/6515" data-url="6515" class="tooltip-link link">Cracked Amulet</a>) then
 
 
 >*Nilibik Driogo speaks a small incantation as he pulls a branch from a nearby tree and ties it around the amulet 'I shall mourn him dearly, he was a good friend. This was the amulet that I had given him before he left to explore Grieg's End. I want you to have this for helping to find his lost soul. Go in peace my friend.*
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (20)
+Your faction standing with [Citizens of Seru](/faction/1499) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (2)
+Your faction standing with [Hand of Seru](/faction/1484) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (2)
+Your faction standing with [Heart of Seru](/faction/1486) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (2)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (2)
+Your faction standing with [Shoulders of Seru](/faction/1487) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (-10)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:**  [Nilibiks Yew Affixed Amulet](/item/6516) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1054.png" alt="" /> <a
+                                href="/item/6516" data-url="6516" class="tooltip-link link">Nilibiks Yew Affixed Amulet</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

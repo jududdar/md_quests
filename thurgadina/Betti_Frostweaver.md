@@ -16,7 +16,8 @@
 >**Betti Frostweaver says:** It will be an honor to assist you in fashioning an embroidered shawl. It is a very demanding product and I can see from the look in your eyes that you desire to burn your sewing kit in our furnace, but if you persevere, your efforts will be richly rewarded. When you are ready you must carefully weave a spool of sacred Coldain thread. Take the thread, this pattern, and the silk shawl and carefully embroider the pattern. The result will be most exquisite. Please show me if you manage to create one.
 
 
-**You receive:**  [Embroidered Shawl Pattern](/item/1833)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/1833" data-url="1833" class="tooltip-link link">Embroidered Shawl Pattern</a>
 
 **You say:** `pattern`
 
@@ -37,12 +38,17 @@ end
 
 
 
-if( **You turn in:** [Embroidered Coldain Prayer Shawl](/item/1198)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/1198" data-url="1198" class="tooltip-link link">Embroidered Coldain Prayer Shawl</a>) then
 
 
 >**Betti Frostweaver says:** Spectacular artistry! I doubt I could have done better myself. You'll have to forgive me, I know time is short and I tend to carry on. This is the pattern for the making of a rune sacred to our people. It will be our final test of your craftsmanship and will put many of your skills to the test, but I trust you'll find the finished product to be more than worth the effort. Show Gilthan the embroidered shawl, he will set you on the path. May Brell always be with you outlander.
 
 
- **You receive:** GiveAll( [Embroidered Coldain Prayer Shawl](/item/1198), [Runed Prayer Shawl pattern](/item/1849)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/1198" data-url="1198" class="tooltip-link link">Embroidered Coldain Prayer Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/1849" data-url="1849" class="tooltip-link link">Runed Prayer Shawl pattern</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

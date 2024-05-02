@@ -76,53 +76,93 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Astral Jewel](/item/4494), [Mark of Reliance](/item/5902), [Blessed Water](/item/5903)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5902" data-url="5902" class="tooltip-link link">Mark of Reliance</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/5903" data-url="5903" class="tooltip-link link">Blessed Water</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Bracer](/item/3977) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/3977" data-url="3977" class="tooltip-link link">Blessed Knight's Bracer</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Courage](/item/5891), [White Marble Bowl](/item/5892), [Jagged Reed](/item/5893)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Blessed Knight's Breastplate](/item/3973) (+25000 exp)
-
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Bravery](/item/5897), [Sunflower Fruit](/item/5898), [Weathered Bundle of Wood](/item/5899)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Blessed Knight's Greaves](/item/3975) (+25000 exp)
-
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Valor](/item/5888), [Withered Branch](/item/5889), [Pale Pearl](/item/5890)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5891" data-url="5891" class="tooltip-link link">Mark of Courage</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_858.png" alt="" /> <a
+                                href="/item/5892" data-url="5892" class="tooltip-link link">White Marble Bowl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/5893" data-url="5893" class="tooltip-link link">Jagged Reed</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Helm](/item/3972) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/3973" data-url="3973" class="tooltip-link link">Blessed Knight's Breastplate</a> (+25000 exp)
 
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Daring](/item/5900), [Life Gem](/item/5901)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5897" data-url="5897" class="tooltip-link link">Mark of Bravery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/5898" data-url="5898" class="tooltip-link link">Sunflower Fruit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/5899" data-url="5899" class="tooltip-link link">Weathered Bundle of Wood</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Pauldrons](/item/3976) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_611.png" alt="" /> <a
+                                href="/item/3975" data-url="3975" class="tooltip-link link">Blessed Knight's Greaves</a> (+25000 exp)
 
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Righteousness](/item/5894), [Runic Card](/item/5895), [Pristine Ebony Idol](/item/5896)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5888" data-url="5888" class="tooltip-link link">Mark of Valor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/5889" data-url="5889" class="tooltip-link link">Withered Branch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/5890" data-url="5890" class="tooltip-link link">Pale Pearl</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Vambraces](/item/3974) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_628.png" alt="" /> <a
+                                href="/item/3972" data-url="3972" class="tooltip-link link">Blessed Knight's Helm</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5900" data-url="5900" class="tooltip-link link">Mark of Daring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/5901" data-url="5901" class="tooltip-link link">Life Gem</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/3976" data-url="3976" class="tooltip-link link">Blessed Knight's Pauldrons</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5894" data-url="5894" class="tooltip-link link">Mark of Righteousness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_649.png" alt="" /> <a
+                                href="/item/5895" data-url="5895" class="tooltip-link link">Runic Card</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5896" data-url="5896" class="tooltip-link link">Pristine Ebony Idol</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_546.png" alt="" /> <a
+                                href="/item/3974" data-url="3974" class="tooltip-link link">Blessed Knight's Vambraces</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -130,14 +170,14 @@ function FactionReward(e)
 
 >**Latrag Darkaxe says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

@@ -42,55 +42,82 @@ local text = "This enough is not! Two is what Grevak spoke!";
 
 
 
-if  ( **You turn in:** [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354), [Lizard Tail](/item/13354)) then
+if  ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>) then
 
 
 >**Grevak says:** Now I shall take the lizard tails to shamans I will.  Healing spells will help create. You continue to slay. Continue to be the peon. Continue to live
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (10)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (5)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (-1)
+Your faction standing with [Storm Guard](/faction/312) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (-1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Large Tattered Skullcap](/item/2125), [Large Tattered Mask](/item/2126), [Large Tattered Gorget](/item/2127), [Large Tattered Shoulderpads](/item/2129), [Large Tattered Wristbands](/item/2133), [Large Tattered Gloves](/item/2134), [Large Buckler](/item/9016)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2125" data-url="2125" class="tooltip-link link">Large Tattered Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2126" data-url="2126" class="tooltip-link link">Large Tattered Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2127" data-url="2127" class="tooltip-link link">Large Tattered Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2129" data-url="2129" class="tooltip-link link">Large Tattered Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2133" data-url="2133" class="tooltip-link link">Large Tattered Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2134" data-url="2134" class="tooltip-link link">Large Tattered Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/9016" data-url="9016" class="tooltip-link link">Large Buckler</a>) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Mystic Doll](/item/13367), [Mystic Doll](/item/13367)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a>) then
 
 
 >**Grevak says:** A shaman doll! A great knight you some day become. A gift I give to help you on your way. The fight will continue. All hail the Greenbloods!
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (10)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (5)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (-1)
+Your faction standing with [Storm Guard](/faction/312) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (-1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Pickled Lizard](/item/13453), [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Two Handed Battle Axe](/item/5025), [Rusty Broad Sword](/item/5016), [Rusty Long Sword](/item/5019), [Rusty Battle Axe](/item/5020), [Rusty Two Handed Sword](/item/5023), [Spell: Siphon Strength](/item/15343), [Spell: Invisibility vs Undead](/item/15235)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/13453" data-url="13453" class="tooltip-link link">Pickled Lizard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5025" data-url="5025" class="tooltip-link link">Rusty Two Handed Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5016" data-url="5016" class="tooltip-link link">Rusty Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5019" data-url="5019" class="tooltip-link link">Rusty Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5020" data-url="5020" class="tooltip-link link">Rusty Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15343" data-url="15343" class="tooltip-link link">Spell: Siphon Strength</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15235" data-url="15235" class="tooltip-link link">Spell: Invisibility vs Undead</a>) (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

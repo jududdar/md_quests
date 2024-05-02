@@ -30,7 +30,8 @@ end
 
 
 
-if( **You turn in:** [Lion Meat Shipment](/item/13961)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/13961" data-url="13961" class="tooltip-link link">Lion Meat Shipment</a>) then 
 
 
 
@@ -40,7 +41,7 @@ if( **You turn in:** [Lion Meat Shipment](/item/13961)) then
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (10)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+10</span>)
 
 
 
@@ -51,7 +52,7 @@ if( **You turn in:** [Lion Meat Shipment](/item/13961)) then
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (7)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+7</span>)
 
 
 
@@ -62,7 +63,7 @@ if( **You turn in:** [Lion Meat Shipment](/item/13961)) then
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (7)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+7</span>)
 
 
 
@@ -74,6 +75,9 @@ if( **You turn in:** [Lion Meat Shipment](/item/13961)) then
 
 
 
- **You receive:**  [Lion Delight](/item/12221) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_816.png" alt="" /> <a
+                                href="/item/12221" data-url="12221" class="tooltip-link link">Lion Delight</a> (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

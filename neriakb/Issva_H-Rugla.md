@@ -32,7 +32,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 
 **You say:** `boot`
@@ -44,7 +45,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
 
 
 **You say:** `bracer`
@@ -56,7 +58,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 
 **You say:** `helm`
@@ -68,7 +71,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 
 **You say:** `greave`
@@ -80,7 +84,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 
 **You say:** `vambrace`
@@ -92,7 +97,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 
 **You say:** `breastplate`
@@ -104,7 +110,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Tunic Pattern](/item/19556)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19556" data-url="19556" class="tooltip-link link">Tattered Tunic Pattern</a>
 
 end
 
@@ -114,13 +121,17 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Request Form](/item/31753)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/31753" data-url="31753" class="tooltip-link link">Request Form</a>) then 
 
 
 >**Issva H-Rugla says:** So you are one of Jarrex's new recruits. You are to assist in the construction of the armor you will don as a new Warrior of the Indigo Brotherhood. I have assembled a kit that is used in the crafting of Orc Slayer Mail. You must travel beyond Neriak into the Nektulos Forest for the [materials] that compose the armor.
 
 
- **You receive:**  [Mail Assembly Kit](/item/17124) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

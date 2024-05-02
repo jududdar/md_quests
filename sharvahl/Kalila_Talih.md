@@ -25,7 +25,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Kalila'a Diary](/item/18324)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18324" data-url="18324" class="tooltip-link link">Kalila'a Diary</a>
 
 
 else
@@ -42,7 +43,8 @@ end
 
 
 
-if( **You turn in:** [Aisha'a Locket](/item/5996)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/5996" data-url="5996" class="tooltip-link link">Aisha'a Locket</a>) then
 
 
 >*Kalila Talih gasps at the sight of what you have handed her, 'mother's locket! Have you found...' She looks into your eyes and sees the answer to her unspoken question. 'I... I thank you,' is all that she can manage.'*
@@ -51,6 +53,9 @@ if( **You turn in:** [Aisha'a Locket](/item/5996)) then
 >**Kalila Talih says:** At least now we know. You have gone to such lengths, please take this, it was my gift from the city upon obtaining full Khala Dun honors. You have earned it my friend.
 
 
- **You receive:**  [Belt of the Khala Dun](/item/5995) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_533.png" alt="" /> <a
+                                href="/item/5995" data-url="5995" class="tooltip-link link">Belt of the Khala Dun</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -20,13 +20,18 @@ end
 
 
 
-if( **You turn in:** [Mithril Plated Girth](/item/4310), [Slime Crystal Staff](/item/6335)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_549.png" alt="" /> <a
+                                href="/item/4310" data-url="4310" class="tooltip-link link">Mithril Plated Girth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/6335" data-url="6335" class="tooltip-link link">Slime Crystal Staff</a>) then
 
 
 >**Tibrinn Ember says:** You have done well. Here is the reward for your deeds.
 
 
- **You receive:**  [Sap Sheen Staff](/item/6364) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6364" data-url="6364" class="tooltip-link link">Sap Sheen Staff</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

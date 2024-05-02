@@ -52,42 +52,68 @@ end
 
 
 
-if( **You turn in:** [Bloodgill Scales](/item/14824), [Banded Bracer](/item/3061), [Sapphire](/item/10034)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1232.png" alt="" /> <a
+                                href="/item/14824" data-url="14824" class="tooltip-link link">Bloodgill Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3061" data-url="3061" class="tooltip-link link">Banded Bracer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
 
 
- **You receive:**  [Dreadscale Bracer](/item/4971) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/4971" data-url="4971" class="tooltip-link link">Dreadscale Bracer</a> (+10000 exp)
+
+ 
 
 
 
-if( **You turn in:** [Boots of Zorash](/item/14829), [Grachnist's Head](/item/14820), [Banded Leggings](/item/3063), [Star Ruby](/item/10032)) then
-
-
->**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
-
-
- **You receive:**  [Dreadscale Greaves](/item/4973) (+10000 exp)
-
-
-
-if( **You turn in:** [Wings of the Drixie Queen](/item/14827), [Banded Mask](/item/3054), [Fire Emerald](/item/10033)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/14829" data-url="14829" class="tooltip-link link">Boots of Zorash</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/14820" data-url="14820" class="tooltip-link link">Grachnist's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3063" data-url="3063" class="tooltip-link link">Banded Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
 
 
- **You receive:**  [Dreadscale Mask](/item/4975) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_630.png" alt="" /> <a
+                                href="/item/4973" data-url="4973" class="tooltip-link link">Dreadscale Greaves</a> (+10000 exp)
+
+ 
 
 
 
-if( **You turn in:** [A Sarnak War Braid](/item/12982), [Scorpion Chitin](/item/14821), [Banded Mail](/item/3056), [Ruby](/item/10035)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_909.png" alt="" /> <a
+                                href="/item/14827" data-url="14827" class="tooltip-link link">Wings of the Drixie Queen</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/3054" data-url="3054" class="tooltip-link link">Banded Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>) then
 
 
 >**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
 
 
- **You receive:**  [Dreadscale Breastplate](/item/4969) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/4975" data-url="4975" class="tooltip-link link">Dreadscale Mask</a> (+10000 exp)
+
+ 
+
+
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12982" data-url="12982" class="tooltip-link link">A Sarnak War Braid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1225.png" alt="" /> <a
+                                href="/item/14821" data-url="14821" class="tooltip-link link">Scorpion Chitin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3056" data-url="3056" class="tooltip-link link">Banded Mail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then
+
+
+>**Sarth Scarscale says:** Well done!  Here is the item we agreed upon.  May Cazic's glorious curses flow through you!
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/4969" data-url="4969" class="tooltip-link link">Dreadscale Breastplate</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

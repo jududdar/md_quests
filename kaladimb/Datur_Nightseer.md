@@ -37,24 +37,29 @@ end
 
 
 
-if( **You turn in:** [Folded Parchment](/item/18768)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18768" data-url="18768" class="tooltip-link link">Folded Parchment</a>) then
 
 
 >**Datur Nightseer says:** Welcome, we are the Paladins of the Underfoot. I am Datur, and I will help teach you the word and will of the Duke of Below, Brell Serilis. Here is our guild tunic. Let's get started, shall we?
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (100)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (100)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (75)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Dusty Tunic*](/item/13514) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13514" data-url="13514" class="tooltip-link link">Dusty Tunic*</a> (+20 exp)
 
-elseif(( **Faction is** > Indifferent) and ( **You turn in:** [Chalice Case](/item/12279))) then
+ 
+
+elseif(( **Faction is** > Indifferent) and ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/12279" data-url="12279" class="tooltip-link link">Chalice Case</a>)) then
 
 
 >**Datur Nightseer says:** The chalice is returned!! Praise be to Brell!! You have proven yourself to our church and have earned our respect. Let me welcome you into our brotherhood with the Cape of Underfoot. Wear it with pride as all of our finest paladins do.
@@ -63,15 +68,18 @@ elseif(( **Faction is** > Indifferent) and ( **You turn in:** [Chalice Case](/it
 
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (15)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (15)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (11)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+11</span>)
 
 
- **You receive:**  [Cape of Underfoot](/item/12281) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/12281" data-url="12281" class="tooltip-link link">Cape of Underfoot</a> (+2500 exp)
+
+**You receive coin:** 1-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -51,9 +51,11 @@ end
 
 
 
-local gls =  **You turn in:**  { [Greater Lightstone](/item/10400)}
+local gls =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10400" data-url="10400" class="tooltip-link link">Greater Lightstone</a>}
 
-local ls =  **You turn in:**  { [Lightstone](/item/10300)}
+local ls =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10300" data-url="10300" class="tooltip-link link">Lightstone</a>}
 
 
 
@@ -69,19 +71,23 @@ repeat
 
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (10)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (1)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Runes and Research Volume I](/item/18175), 18176) (+10000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18175" data-url="18175" class="tooltip-link link">Runes and Research Volume I</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18176" data-url="18176" class="tooltip-link link">Runes and Research Volume II</a>) (+10000 exp)
+
+ 
 
 
 
@@ -103,19 +109,22 @@ repeat
 
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (10)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (1)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Concordance of Research](/item/17504) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/17504" data-url="17504" class="tooltip-link link">Concordance of Research</a> (+10000 exp)
+
+ 
 
 
 

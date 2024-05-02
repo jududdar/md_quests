@@ -212,23 +212,31 @@ end
 
 
 
-if( **You turn in:** [A Shield Repair Order](/item/29803)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29803" data-url="29803" class="tooltip-link link">A Shield Repair Order</a>) then
 
 
 >**Khala Dun Koby says:** Oh this old shield does fine, but I guess if Barkhem needs to break in a new apprentice, it does have some dings in it. Thank you, my friend.
 
 
- **You receive:**  [Kobys Dented Shield](/item/29804) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29804" data-url="29804" class="tooltip-link link">Kobys Dented Shield</a> 
+
+ 
 
 
 
-if( **You turn in:** [Kobys Immaculate Shield](/item/29805)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29805" data-url="29805" class="tooltip-link link">Kobys Immaculate Shield</a>) then
 
 
 >**Khala Dun Koby says:** Tip-top work! Barkhem has done well by himself choosing you for an apprentice.
 
 
- **You receive:**  [Kobys work order](/item/29806) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/29806" data-url="29806" class="tooltip-link link">Kobys work order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

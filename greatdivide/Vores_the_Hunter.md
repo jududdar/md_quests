@@ -31,13 +31,18 @@ end
 
 
 
-if( **You turn in:** [Gem of Persuasion](/item/30270), [Blood Wolf Harness](/item/30249)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/30270" data-url="30270" class="tooltip-link link">Gem of Persuasion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_719.png" alt="" /> <a
+                                href="/item/30249" data-url="30249" class="tooltip-link link">Blood Wolf Harness</a>) then 
 
 
 >**Vores the Hunter says:** Hey! What ya got there? Well now, ain't that pretty! Ya know, this just might do it. You done what I never was able. I gotta give ya that much. I ain't much o' one for travelin' any more. My legs be old and my bones are weak. You take this harness and find a good big mother of a wurm ta test it on. Just focus in yer mind what yer wantin the wurm ta do. Heh, maybe have it clear out some pests, eh?
 
 
- **You receive:**  [Harness of Control](/item/30272) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_719.png" alt="" /> <a
+                                href="/item/30272" data-url="30272" class="tooltip-link link">Harness of Control</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

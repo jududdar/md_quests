@@ -22,7 +22,8 @@
 >**Guard Cheslin says:** Of course I shall donate to that esteemed order. Here you are, my good friend. Now run along before you are injured by some nasty creature. By the way, you should speak with my fellow guard, Leopold. He also would donate.
 
 
-**You receive:**  [A Donation](/item/13295)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/13295" data-url="13295" class="tooltip-link link">A Donation</a>
 
 **You say:** `drop`
 
@@ -42,30 +43,41 @@ end
 
 
 
-if( **You turn in:** [Ebon Lotus](/item/13904), [Library of Erudin](/item/13905), [Chrono Cyclone](/item/13906), [Diamond Vale](/item/13907)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_650.png" alt="" /> <a
+                                href="/item/13904" data-url="13904" class="tooltip-link link">Ebon Lotus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/13905" data-url="13905" class="tooltip-link link">Library of Erudin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_649.png" alt="" /> <a
+                                href="/item/13906" data-url="13906" class="tooltip-link link">Chrono Cyclone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_652.png" alt="" /> <a
+                                href="/item/13907" data-url="13907" class="tooltip-link link">Diamond Vale</a>) then
 
 
 >**Guard Cheslin says:** Oh great! I have all my cards back. Here is a little something for assisting a Qeynos guard. And any time you are in trouble, just call on Cheslin, master swordsman. Take it to my father, Master Chesgard of the Knights of Thunder in Qeynos. No doubt he sent you to follow me on my watch.
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (20)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-3)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (2)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [A Sealed Letter](/item/18839) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18839" data-url="18839" class="tooltip-link link">A Sealed Letter</a> (+1500 exp)
 
-elseif( **You turn in:** [Ebon Lotus](/item/13904) or  **You turn in:** [Library of Erudin](/item/13905) or  **You turn in:** [Chrono Cyclone](/item/13906) or  **You turn in:** [Diamond Vale](/item/13907)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_650.png" alt="" /> <a
+                                href="/item/13904" data-url="13904" class="tooltip-link link">Ebon Lotus</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/13905" data-url="13905" class="tooltip-link link">Library of Erudin</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_649.png" alt="" /> <a
+                                href="/item/13906" data-url="13906" class="tooltip-link link">Chrono Cyclone</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_652.png" alt="" /> <a
+                                href="/item/13907" data-url="13907" class="tooltip-link link">Diamond Vale</a>) then
 
 
 >**Guard Cheslin says:** Wow!! I thought I lost this for good. All together I lost the [illusion] cards: Ebon Lotus, Library of Erudin, Chrono Cyclone and Diamond Vale. Man!! Those are rare cards!
@@ -98,7 +110,8 @@ elseif(e.wp == 3) then
 >**Guard Cheslin says:** Fear not, simple travelers. Cheslin the masterful is here to protect you.
 
 
-eq.create_ground_object( [Library of Erudin](/item/13905),xloc,yloc,zloc,0,300000); 
+eq.create_ground_object( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/13905" data-url="13905" class="tooltip-link link">Library of Erudin</a>,xloc,yloc,zloc,0,300000); 
 
 
 >**Guard Cheslin says:** Hey! Did I just drop something?
@@ -109,7 +122,8 @@ elseif(e.wp == 4) then
 >**Guard Cheslin says:** Fear not, simple travelers. Cheslin the masterful is here to protect you.
 
 
-eq.create_ground_object( [Ebon Lotus](/item/13904),xloc,yloc,zloc,0,300000); 
+eq.create_ground_object( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_650.png" alt="" /> <a
+                                href="/item/13904" data-url="13904" class="tooltip-link link">Ebon Lotus</a>,xloc,yloc,zloc,0,300000); 
 
 
 >**Guard Cheslin says:** Hey! Did I just drop something?
@@ -120,7 +134,8 @@ elseif(e.wp == 7) then
 >**Guard Cheslin says:** Fear not, simple travelers. Cheslin the masterful is here to protect you.
 
 
-eq.create_ground_object( [Diamond Vale](/item/13907),xloc,yloc,zloc,0,300000); 
+eq.create_ground_object( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_652.png" alt="" /> <a
+                                href="/item/13907" data-url="13907" class="tooltip-link link">Diamond Vale</a>,xloc,yloc,zloc,0,300000); 
 
 
 >**Guard Cheslin says:** Hey! Did I just drop something?
@@ -131,7 +146,8 @@ elseif(e.wp == 9) then
 >**Guard Cheslin says:** Fear not, simple travelers. Cheslin the masterful is here to protect you.
 
 
-eq.create_ground_object( [Chrono Cyclone](/item/13906),xloc,yloc,zloc,0,300000); 
+eq.create_ground_object( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_649.png" alt="" /> <a
+                                href="/item/13906" data-url="13906" class="tooltip-link link">Chrono Cyclone</a>,xloc,yloc,zloc,0,300000); 
 
 
 >**Guard Cheslin says:** Hey! Did I just drop something?

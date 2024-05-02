@@ -41,22 +41,27 @@ end
 local text = "I instructed you to return with no less than two dark pots.";
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Dark Cauldron](/item/12309), [A Dark Cauldron](/item/12309)) then 
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/12309" data-url="12309" class="tooltip-link link">A Dark Cauldron</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/12309" data-url="12309" class="tooltip-link link">A Dark Cauldron</a>) then 
 
 
 >**Abigail says:** You have earned the mold.  You will now need go and speak with Thomas about [Lord Searfire].
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (20)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (20)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (15)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Mold of Ro Breastplate](/item/12299) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12299" data-url="12299" class="tooltip-link link">Mold of Ro Breastplate</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

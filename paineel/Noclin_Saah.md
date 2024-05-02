@@ -48,28 +48,32 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Rotting Femur](/item/7107)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/7107" data-url="7107" class="tooltip-link link">Rotting Femur</a>) then
 
 
 >**Noclin Saah says:** Ah! You found him and obviously removed his presence from the yard. You have my thanks, small as it is for such a menial task. Here. Keep this worthless bit of bone for your labors.
 
 
-* __Faction:__ [Heretics](/faction/265) (3)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-3)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-3)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-3)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-3)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Noclins Femur](/item/7106) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/7106" data-url="7106" class="tooltip-link link">Noclins Femur</a> (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

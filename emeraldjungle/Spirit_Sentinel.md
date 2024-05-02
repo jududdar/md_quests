@@ -121,7 +121,8 @@ if **Faction** >= Kindly then
 
 
 
-**You receive:**  [Ancient Journal](/item/17805)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/17805" data-url="17805" class="tooltip-link link">Ancient Journal</a>
 
 
 
@@ -140,35 +141,43 @@ end
 
 
 
-if **Faction** >= Amiable +200 and  **You turn in:** [Sparkling Gem](/item/1668)) then 
+if **Faction** >= Amiable +200 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/1668" data-url="1668" class="tooltip-link link">Sparkling Gem</a>) then 
 
 
 >**Spirit Sentinel says:** Ahh, you live, shaman! I am glad the beasts of this jungle haven't torn your body asunder. Tell me, do you still walk the path? Are you willing to [continue what you have started]?
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Black Dire Pelt](/item/1672)) then 
+elseif **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/1672" data-url="1672" class="tooltip-link link">Black Dire Pelt</a>) then 
 
 
 >*Spirit Sentinel begins to weep softly as he sees the pelt, battered and bloody. After a few moments, he says, 'We can only hope his passing was quick and painless. The Dire was powerful and yet you overcame him. Always remember that when you became [Heyokah], it was the passing of a noble, yet misguided being that allowed you to do so. You should hold a special place in your heart for him and what he was in life. To help you remember him, we will fashion this pelt into a pair of boots and give them to you. With every step you take, you must think on the Dire, else his death be in vain forever.*
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Black Fur Boots](/item/1678) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_525.png" alt="" /> <a
+                                href="/item/1678" data-url="1678" class="tooltip-link link">Black Fur Boots</a> (+50000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Completed Report](/item/3599)) then 
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/3599" data-url="3599" class="tooltip-link link">Completed Report</a>) then 
 
 
 >*Spirit Sentinel Ahhh good, let us hope what you have found will point us in the right direction. Hmmm...this is interesting. It appears the disappearance of the first queen may have caused Rak'Ashiir's faith to decline. From there, the first King Rak laid down the groundwork for the city's eventual demise. We need to learn what happened to the queen. Perhaps bringing this knowledge to the King's now cursed form will lift the mantle. We've learned that the last lord of Torsis, Ghiosk, was a bit of a historian. Find him and see what you can learn about the queen. Take what you find to my brother here in the jungle beneath the murky waters of a pond.*
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:** 0 (+75000 exp)
+ &#127873; **You receive:** 0 (+75000 exp)
+
+ 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

@@ -32,7 +32,10 @@
 >**Kellari Autumnfall says:** Please, place the skin samples in the separate trays within this box and return it to me.  Maybe, I'll have an idea of what to do from there by the time you're done. Thank you for your assistance. Good hunting.
 
 
- **You receive:**  [10 Tray Specimen Kit](/item/17103) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17103" data-url="17103" class="tooltip-link link">10 Tray Specimen Kit</a> 
+
+ 
 end
 
 ## Turn-Ins
@@ -41,12 +44,16 @@ end
 
 
 
-if( **You turn in:** [Completed Specimen Kit](/item/3870)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/3870" data-url="3870" class="tooltip-link link">Completed Specimen Kit</a>) then 
 
 
 >*Kellari Autumnfall looks at the various trays in the kit and turns pale, even for her normal complexion.  She looks at you and says, 'This is much worse than we thought.  We assumed that this was caused by someone from within our ranks, but I would never have thought that Colain was involved*
 
 
- **You receive:**  [Note from Kellari](/item/3872) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/3872" data-url="3872" class="tooltip-link link">Note from Kellari</a> (+5000 exp)
+
+**You receive coin:** 1-10 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

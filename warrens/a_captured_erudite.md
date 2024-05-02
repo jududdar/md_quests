@@ -14,13 +14,16 @@ end
 
 
 
-if( **You turn in:** [Bronze Shackle Key](/item/6923)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/6923" data-url="6923" class="tooltip-link link">Bronze Shackle Key</a>) then
 
 
 >**a captured erudite says:** I say we round up the Furballs AND the Dog Faces and let them kill each other off! Then we can easily finish off the survivors
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 **a captured erudite despawns.**

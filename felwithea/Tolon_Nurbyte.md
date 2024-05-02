@@ -124,22 +124,26 @@ end
 
 
 
-if( **You turn in:** [Sealed Letter](/item/18841)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18841" data-url="18841" class="tooltip-link link">Sealed Letter</a>) then
 
 
 >**Tolon Nurbyte says:** So I see you completed your mission. Good work. You just may be a member of the Silent Watch someday. Well my friend. I will be keeping my eye on you. No doubt we will meet again. Oh, I almost forgot. The Princess wanted you to have this. Now show yourself the door.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (25)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (25)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Thexian Shiv](/item/13362) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/13362" data-url="13362" class="tooltip-link link">Thexian Shiv</a> (+0 exp)
+
+ 
 
 
 **Tolon Nurbyte despawns.**

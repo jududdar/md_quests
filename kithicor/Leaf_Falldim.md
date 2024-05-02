@@ -55,65 +55,56 @@ local text2 = "This is but a portion of the bow. I must have the other part.";
 
 
 
-if( **You turn in:** [Broken Bow Part B](/item/12321), [Broken Bow Part A](/item/12320)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/12321" data-url="12321" class="tooltip-link link">Broken Bow Part B</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/12320" data-url="12320" class="tooltip-link link">Broken Bow Part A</a>) then
 
 
 >**Leaf Falldim says:** You have performed well, brave ranger. Put these upon your hands. Protection from the strongest of bowstring and magic are their greatest power. I do believe we have another mission which may yield you the [ivy etched leggings].
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ivy Etched Gauntlets](/item/3190) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3190" data-url="3190" class="tooltip-link link">Ivy Etched Gauntlets</a> (+10000 exp)
 
-elseif( **You turn in:** [Star of Odus](/item/10059), [Quiver of Kithicor - full](/item/12328)) then
+ 
 
-
->**Leaf Falldim says:** Wonderful!! I see he did find it. How lucky we are that he did all the hard work. My thanks to you are embodied in these ivy etched leggings. Now you may [earn the ivy etched boots] to go along with them.
-
-
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
-
-
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
-
-
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
-
-
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
-
-
- **You receive:**  [Ivy Etched Leggings](/item/3191) (+10000 exp)
-
-elseif( **You turn in:** [A Bar of Ronium](/item/12305), [Mistmoore Granite](/item/12306),gold = 1000) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10059" data-url="10059" class="tooltip-link link">Star of Odus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/12305" data-url="12305" class="tooltip-link link">A Bar of Ronium</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/12306" data-url="12306" class="tooltip-link link">Mistmoore Granite</a>,gold = 1000) then
 
 
 >**Leaf Falldim says:** You have succeeded!! I believe I owe you the ivy etched boots.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (10)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ivy Etched Boots](/item/3192) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3192" data-url="3192" class="tooltip-link link">Ivy Etched Boots</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -37,13 +37,20 @@ end
 
 
 
-if( **You turn in:** [Rebreather](/item/16889), [Rebreather](/item/16889), [Block of Permafrost](/item/20665), [Keg of Vox Tail Ale](/item/20664)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1023.png" alt="" /> <a
+                                href="/item/16889" data-url="16889" class="tooltip-link link">Rebreather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1023.png" alt="" /> <a
+                                href="/item/16889" data-url="16889" class="tooltip-link link">Rebreather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/20665" data-url="20665" class="tooltip-link link">Block of Permafrost</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_979.png" alt="" /> <a
+                                href="/item/20664" data-url="20664" class="tooltip-link link">Keg of Vox Tail Ale</a>) then
 
 
 >**Denken Strongpick says:** Excellent! Here is your sword. I feel like I'm at home already!
 
 
- **You receive:**  [Ancient Sword Blade](/item/20667) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/20667" data-url="20667" class="tooltip-link link">Ancient Sword Blade</a> (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

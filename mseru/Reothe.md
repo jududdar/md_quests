@@ -22,7 +22,11 @@ end
 
 
 
-if( **You turn in:** [Bark Potion](/item/14519), [Bark Potion](/item/14519), [Spring Crystal](/item/14512), [Harvest Crystal](/item/14511)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_696.png" alt="" /> <a
+                                href="/item/14519" data-url="14519" class="tooltip-link link">Bark Potion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_696.png" alt="" /> <a
+                                href="/item/14519" data-url="14519" class="tooltip-link link">Bark Potion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/14512" data-url="14512" class="tooltip-link link">Spring Crystal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/14511" data-url="14511" class="tooltip-link link">Harvest Crystal</a>) then
 
 
 >**Reothe says:** This is great! We can treat our injured and have something to eat for weeks. I can vaguely recall Bregun heading towards the Lair of the Netherbians. You might ask a guard there if they have seen him.
@@ -31,6 +35,8 @@ if( **You turn in:** [Bark Potion](/item/14519), [Bark Potion](/item/14519), [Sp
 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

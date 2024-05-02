@@ -48,21 +48,33 @@ end
 
 
 
-if( **You turn in:** [Medallion of the Kunzar](/item/19951), [Medallion of the Nathsar](/item/19952)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19951" data-url="19951" class="tooltip-link link">Medallion of the Kunzar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19952" data-url="19952" class="tooltip-link link">Medallion of the Nathsar</a>) then
 
 
 >**Emperor Ganak says:** You have returned to me two medallions of my people. In return, I give you this key to enter the ruins of Sebilis. Be wary though, for Trakanon, Scourge of the Sibilisian empire resides within. 
 
 
- **You receive:**  [Trakanon Idol](/item/20883) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20883" data-url="20883" class="tooltip-link link">Trakanon Idol</a> (+10000 exp)
 
-elseif( **You turn in:** [Trakanon's Tooth](/item/7276), [Medallion of the Obulus](/item/19953), [Medallion of the Jarsath](/item/19954), [Medallion of the Kylong](/item/19955)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/7276" data-url="7276" class="tooltip-link link">Trakanon's Tooth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19953" data-url="19953" class="tooltip-link link">Medallion of the Obulus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19954" data-url="19954" class="tooltip-link link">Medallion of the Jarsath</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19955" data-url="19955" class="tooltip-link link">Medallion of the Kylong</a>) then
 
 
 >**Emperor Ganak says:** I must say, I thought your flesh would be rotting from your bones alongside the remains of the ancient Sebilisians. I commend you on your victory over the poison dragon and thank you for returning the ancient medallions of my people. I reward you with the key you seek. A place shall be prepared for your souls among the most honored of the dead. Soon you will be seeing the world through the shroud of death.
 
 
- **You receive:**  [Key of Veeshan](/item/20884) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/20884" data-url="20884" class="tooltip-link link">Key of Veeshan</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

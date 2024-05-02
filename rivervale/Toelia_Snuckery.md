@@ -84,7 +84,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Torn Old Pouch](/item/13785)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/13785" data-url="13785" class="tooltip-link link">Torn Old Pouch</a>) then 
 
 
 >**Toelia Snuckery says:** What is this? The pouch is empty!  Where is the Ruby?! What do you mean you don't have it? Oh no. I bet [Chomper] swallowed it! Get it back and bring it to me.
@@ -93,24 +94,27 @@ if **Faction** >= Amiable and  **You turn in:** [Torn Old Pouch](/item/13785)) t
 
 
 
-* __Faction:__ [Deeppockets](/faction/241) (5)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Large Ruby](/item/13786)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/13786" data-url="13786" class="tooltip-link link">Large Ruby</a>) then 
 
 
 >**Toelia Snuckery says:** You found it! Heh. Good thing you brought it back bub. This thing isn't priceless, its worthless but at least you proved you are loyal. Poor ol' Chomper..
@@ -119,22 +123,24 @@ elseif **Faction** >= Amiable and  **You turn in:** [Large Ruby](/item/13786)) t
 
 
 
-* __Faction:__ [Deeppockets](/faction/241) (10)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

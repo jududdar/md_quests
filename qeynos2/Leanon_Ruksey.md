@@ -13,27 +13,31 @@ end
 
 
 
-if( **You turn in:** [Jusean's Report Request](/item/18020)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18020" data-url="18020" class="tooltip-link link">Jusean's Report Request</a>) then
 
 
 >**Leanon Ruksey says:** Ah, hello there, Soandso. It's such a fine day out, wouldn't you say? Ah, reports are due in. Very well, here you go. Say hello to the fellows back at the Wind Spirit's Song for me. May you have many safe travels, my friend.
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (10)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Leanon's Report](/item/18024) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18024" data-url="18024" class="tooltip-link link">Leanon's Report</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

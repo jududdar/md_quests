@@ -8,7 +8,8 @@
 
 
 
-if( **You turn in:** [A Dusty Iksar Skull](/item/30984)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/30984" data-url="30984" class="tooltip-link link">A Dusty Iksar Skull</a>) then
 
 
 >*Oracle Qulin runs his scaled fingers slowly over the cracked, brittle skull. 'Granix did well to send you to me, I may yet be able to recover the spirit of this ancient and set it free. Come! I shall need your help with this ritual.'*
@@ -30,13 +31,17 @@ if( **You turn in:** [A Dusty Iksar Skull](/item/30984)) then
 
 
 
-elseif( **You turn in:** [Wet Skull Fragments](/item/30985)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/30985" data-url="30985" class="tooltip-link link">Wet Skull Fragments</a>) then
 
 
 >**Oracle Qulin says:** It seems this particular ancient does not wish to be put to rest. Return this note to Hierophant Granix and tell him what happened. He will surely wish this skull to be disposed of properly, but I do not have the power to do it myself.
 
 
- **You receive:**  [Note to Granix](/item/30986) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30986" data-url="30986" class="tooltip-link link">Note to Granix</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -21,18 +21,22 @@ end
 local qglobals = eq.get_qglobals(e.self,e.other);
 
 
-if( **You turn in:** [Note to Camin](/item/18088)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18088" data-url="18088" class="tooltip-link link">Note to Camin</a>) then
 
 
 >**Camin says:** So you have met Solomen, eh? He is a man with a wealth of knowledge. It is good to hear he is well.
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
 eq.set_global("wizepic","1",0,"D30");
 
-elseif( **You turn in:** [Ro's Breath](/item/14330)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_701.png" alt="" /> <a
+                                href="/item/14330" data-url="14330" class="tooltip-link link">Ro's Breath</a>) then
 
 
 if(qglobals["wizepic"] == "2") then
@@ -43,11 +47,14 @@ if(qglobals["wizepic"] == "2") then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (10)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+10</span>)
 
 
 
- **You receive:**  [Ro's Breath](/item/14331) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_701.png" alt="" /> <a
+                                href="/item/14331" data-url="14331" class="tooltip-link link">Ro's Breath</a> (+10000 exp)
+
+ 
 
 
 
@@ -62,7 +69,10 @@ else
 
 
 
- **You receive:**  [Ro's Breath](/item/14330) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_701.png" alt="" /> <a
+                                href="/item/14330" data-url="14330" class="tooltip-link link">Ro's Breath</a> 
+
+ 
 
 
 elseif( **You turn in:** platinum = 1000) then
@@ -76,11 +86,13 @@ if(qglobals["wizepic"] == "1") then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (10)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+10</span>)
 
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
 

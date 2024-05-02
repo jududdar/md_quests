@@ -20,7 +20,8 @@ end
 
 
 
-if( **You turn in:** [Note for Historian Qua](/item/9049)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/9049" data-url="9049" class="tooltip-link link">Note for Historian Qua</a>) then
 
 
 >**Arms Historian Qua says:** It is a pleasure to meet you, Soandso. The Animists mentioned that someone would be by, but for me not to wait, so I sent the information that they requested to Weapons Master Rahoul. He is having a master smith finish the blades.
@@ -29,6 +30,9 @@ if( **You turn in:** [Note for Historian Qua](/item/9049)) then
 >**Arms Historian Qua says:** Take him this receipt and I'm sure that he'll get you the weapons as soon as possible. Take care. It appears that a lot of people are relying on you in this matter. You may be the only person that can do this.
 
 
- **You receive:**  [Quas Receipt](/item/9050) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/9050" data-url="9050" class="tooltip-link link">Quas Receipt</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

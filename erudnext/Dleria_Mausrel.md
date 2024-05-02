@@ -36,7 +36,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Empty Bag](/item/17939)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17939" data-url="17939" class="tooltip-link link">Empty Bag</a>
 
 
 
@@ -71,7 +72,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Snapped Pole](/item/13922)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/13922" data-url="13922" class="tooltip-link link">Snapped Pole</a>) then 
 
 
 >**Dleria Mausrel says:** Good work, young priest. Soon you shall carry the word of the Ocean Lord to distant lands. For now, continue your training. As for your reward, I have this which has been sitting in our vault. I hope it can be of use to a young priest such as yourself.
@@ -80,18 +82,25 @@ if **Faction** >= Amiable and  **You turn in:** [Snapped Pole](/item/13922)) the
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (5)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Raw-hide Sleeves](/item/2144), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Backpack](/item/17005)) (+4000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2144" data-url="2144" class="tooltip-link link">Raw-hide Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2146" data-url="2146" class="tooltip-link link">Raw-hide Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2147" data-url="2147" class="tooltip-link link">Raw-hide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17005" data-url="17005" class="tooltip-link link">Backpack</a>) (+4000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bag of Zombie Flesh](/item/13880)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13880" data-url="13880" class="tooltip-link link">Bag of Zombie Flesh</a>) then 
 
 
 >**Dleria Mausrel says:** Peeuww!! That most certainly is zombie flesh!! Here is your reward. You have done a fine service in the name of Prexus. Soon you shall advance and we may tell you of greater dangers lurking in the depths.
@@ -100,16 +109,28 @@ elseif **Faction** >= Amiable and  **You turn in:** [Bag of Zombie Flesh](/item/
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (10)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Raw-hide Sleeves](/item/2144), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Backpack](/item/17005), [Spell: True North](/item/15205), [Spell: Cure Poison](/item/15203), [Spell: Divine Aura](/item/15207), [Spell: Flash of Light](/item/15201), [Spell: Lull](/item/15208), [Spell: Spook the Dead](/item/15209)) (+4000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2144" data-url="2144" class="tooltip-link link">Raw-hide Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2146" data-url="2146" class="tooltip-link link">Raw-hide Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2147" data-url="2147" class="tooltip-link link">Raw-hide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17005" data-url="17005" class="tooltip-link link">Backpack</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15205" data-url="15205" class="tooltip-link link">Spell: True North</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15203" data-url="15203" class="tooltip-link link">Spell: Cure Poison</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15207" data-url="15207" class="tooltip-link link">Spell: Divine Aura</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15201" data-url="15201" class="tooltip-link link">Spell: Flash of Light</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15208" data-url="15208" class="tooltip-link link">Spell: Lull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15209" data-url="15209" class="tooltip-link link">Spell: Spook the Dead</a>) (+4000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

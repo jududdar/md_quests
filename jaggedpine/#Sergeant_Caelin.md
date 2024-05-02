@@ -67,7 +67,8 @@ end
 
 
 
-if( **You turn in:** [Qeynos Badge of Honor](/item/2388)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/2388" data-url="2388" class="tooltip-link link">Qeynos Badge of Honor</a>) then 
 
 
 if( **Faction is** > Indifferent) then 
@@ -78,44 +79,67 @@ if( **Faction is** > Indifferent) then
 
 
 
- **You receive:**  [Marked Qeynos Badge of Honor](/item/8285) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/8285" data-url="8285" class="tooltip-link link">Marked Qeynos Badge of Honor</a> 
+
+ 
 
 
 
- **You receive:**  [Official Warning](/item/8283) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/8283" data-url="8283" class="tooltip-link link">Official Warning</a> 
+
+ 
 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Stack of Shift Reports](/item/8279)) then 
+elseif( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/8279" data-url="8279" class="tooltip-link link">Stack of Shift Reports</a>) then 
 
 
 >**Sergeant Caelin says:** Oh praise Karana, how did you manage to get these out of him? Never mind, I don't really care. Here, take this Compiled Report to Captain Tillin in Qeynos at once.
 
 
- **You receive:**  [Compiled Report](/item/8280) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/8280" data-url="8280" class="tooltip-link link">Compiled Report</a> 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Orders for Sergeant Caelin](/item/8287)) then 
+ 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/8287" data-url="8287" class="tooltip-link link">Orders for Sergeant Caelin</a>) then 
 
 
 >*Sergeant Caelin face grows pale as he reads the orders. 'Bossamir was right. The gnolls are far stronger than we expected. We lack the resources for a frontal assault so we have no choice to but to resort to covert operations and strike teh gnolls at their heart. Their leader must fall and you look like the one for the job. Take this Writ of Execution and carry out the sentence. Your target is the leader of the gnolls, Barducks Darkpaw. Affix the Writ of Execution to the Head of Barducks Darkpaw and seal it in this Black Satchel. Return to me with the Closed Black Satchel and your Marked Qeynos Badge of Honor for your just reward.*
 
 
- **You receive:**  [Writ of Execution](/item/8282) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/8282" data-url="8282" class="tooltip-link link">Writ of Execution</a> 
+
+ 
 
 
- **You receive:**  [Black Satchel](/item/17160) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17160" data-url="17160" class="tooltip-link link">Black Satchel</a> 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Closed Black Satchel](/item/8286), [Marked Qeynos Badge of Honor](/item/8285)) then 
+ 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/8286" data-url="8286" class="tooltip-link link">Closed Black Satchel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/8285" data-url="8285" class="tooltip-link link">Marked Qeynos Badge of Honor</a>) then 
 
 
 >**Sergeant Caelin says:** A job well done! Perhaps now that will throw the gnolls into disarray and show them that we are not to be trifled with! The people of Qeynos and it's surrounding territories are in a great debt to you. You have prove time and again your willingness to take great risks to protect those who can't protect themselves. I am hereby empowered to grant to you an honorary rank of nobility. Take this badge and wear it proudly.
 
 
- **You receive:**  [Qeynos Badge of Nobility](/item/8968) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/8968" data-url="8968" class="tooltip-link link">Qeynos Badge of Nobility</a> 
+
+ 
 
 else
 
 
-local canine =  **You turn in:**  { [Gnoll Canine](/item/8264)}
+local canine =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/8264" data-url="8264" class="tooltip-link link">Gnoll Canine</a>}
 
 
 if(canine > 0) then
@@ -132,27 +156,29 @@ repeat
 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 

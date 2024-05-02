@@ -27,10 +27,13 @@ return;
 
 
 
-if( **You turn in:** [Marbled Acrylia Sphere](/item/4349)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/4349" data-url="4349" class="tooltip-link link">Marbled Acrylia Sphere</a>) then 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 >**Scout Danarin says:** May the spirits guide us Soandso. Now summon your friends and all the courage you possess, this won't be easy.

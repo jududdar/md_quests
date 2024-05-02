@@ -44,7 +44,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Brood Canopic](/item/17023)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/17023" data-url="17023" class="tooltip-link link">Brood Canopic</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -80,35 +81,20 @@ local text2 = "I will not be bothered unless you bring me everything!";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Preserved Sarnak Brain](/item/12411), [Apprentice Skullcap - 2nd Rank](/item/4261)) then
-
-
->**Master Rixiz says:** You have done well. Here is your final apprentice skullcap.
-
-
-* __Faction:__ [Brood of Kotiz](/faction/443) (10)
-
-
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
-
-
- **You receive:**  [Apprentice Skullcap - 3rd Rank](/item/4262) (+150 exp)
-
-elseif( **You turn in:** [Illegible Note: Boots](/item/14794)) then
-
-
->*Master Rixiz takes the note and after reading a few lines opens his eyes wide in astonishment. He looks up at you and stares at you a while before he says,*
-
-
->**Master Rixiz says:** You spoke to the Brothers? A common soldier such as yourself interested in silly stories to frighten broodlings? Fine, then. You shall know confidence, if you live. If you have the strength to stride into a lair, go before the owner, and kill that thing in its own home, you will acquire a small part of the virtue we as necromancers must master to ply our art. In the Frontier Mountains lives a unit of the troublesome burynai. Invade their home and destroy their leader. Bring me proof and two fire emeralds.
-
-elseif( **You turn in:** [Snaorfs Medallion](/item/14810), [Fire Emerald](/item/10033), [Fire Emerald](/item/10033)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1205.png" alt="" /> <a
+                                href="/item/12411" data-url="12411" class="tooltip-link link">Preserved Sarnak Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/14810" data-url="14810" class="tooltip-link link">Snaorfs Medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>) then
 
 
 >**Master Rixiz says:** Well done, here is your reference.
 
 
- **You receive:**  [Glosk's Reference: Boots](/item/14813) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/14813" data-url="14813" class="tooltip-link link">Glosk's Reference: Boots</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

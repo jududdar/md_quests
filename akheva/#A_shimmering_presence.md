@@ -30,7 +30,8 @@ end
 
 
 
-if( **You turn in:** [Summoned: Wisp Stone](/item/10294)) then
+if( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10294" data-url="10294" class="tooltip-link link">Summoned: Wisp Stone</a>) then
 
 
 >*A shimmering presence  begins to quiver and shake. The formless entity appears to grow and shrink in complete disregard to natural laws. The light in the temple around you appears to slowly dim until you are surrounded by an impenetrable cloak of shadows. Fear grips your heart as your vision slowly adapts to accommodate the low light. When you can finally make out the figure before you, you find yourself silently praying for the darkness to return.*
@@ -39,7 +40,9 @@ if( **You turn in:** [Summoned: Wisp Stone](/item/10294)) then
 **Spawn NPC:**  [\#The Spirit of Akelha\`Ra](/npc/179019) at this location.
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+ 
 
 
 **A shimmering presence despawns.**

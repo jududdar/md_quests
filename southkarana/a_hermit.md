@@ -61,7 +61,8 @@ end
 
 
 
-if( **You turn in:** [A Human Heart](/item/13854)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/13854" data-url="13854" class="tooltip-link link">A Human Heart</a>) then 
 
 
 >**a hermit says:** Good work, my friend! I thank you and the Unkempt Druids thank you. Unfortunately I have sold the other song sheet to a traveling bard of the plains. I believe her name was Cordelia. Now be on your way. Unless you plan to join the Unkempt Druids..?
@@ -70,38 +71,45 @@ if( **You turn in:** [A Human Heart](/item/13854)) then
 
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (20)
+Your faction standing with [Unkempt Druids](/faction/324) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-5)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (-15)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (10)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Winds of Karana sheet 1](/item/13116) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/13116" data-url="13116" class="tooltip-link link">Winds of Karana sheet 1</a> (+1000 exp)
 
-elseif( **You turn in:** [Barbarian Head](/item/13913)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/13913" data-url="13913" class="tooltip-link link">Barbarian Head</a>) then 
 
 
 >**a hermit says:** What fine work you do! In the name of all Norrath's beasts and of the Unkempt Druids, I thank you. No longer will there be senseless slaughter. Here is the flute.
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (10)
+Your faction standing with [Unkempt Druids](/faction/324) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-10)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (-10)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (10)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [A Cracked Flute](/item/13310) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/13310" data-url="13310" class="tooltip-link link">A Cracked Flute</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

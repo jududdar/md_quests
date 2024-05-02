@@ -192,16 +192,20 @@ end
 
 
 
-if( **You turn in:** [Vase Pieces](/item/5955)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/5955" data-url="5955" class="tooltip-link link">Vase Pieces</a>) then 
 
 
 >**Chogar says:** I can do nothing to repair this mess, but a skilled potter like you should be able to create a new one with little trouble. One second please. I'll jot a rough sketch of what I surmise the original looked like when it was intact. You can take the sketch and make a new one. It will require of you a medium sized block of clay, a little water, and this sketch. Here you go. The sketch is a little crude, but I am sure that it will suffice. Fire it with a quality firing sheet and give the resulting product to Gawfed. Jihli told me that he was eager to receive it.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rough Vase Sketch](/item/5956) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/5956" data-url="5956" class="tooltip-link link">Rough Vase Sketch</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

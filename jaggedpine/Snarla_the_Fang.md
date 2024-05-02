@@ -82,59 +82,82 @@ end
 
 
 
-if( **Faction is** > Dubious and  **You turn in:** [Dryad Pate](/item/8199)) then 
+if( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/8199" data-url="8199" class="tooltip-link link">Dryad Pate</a>) then 
 
 
 >**Snarla the Fang says:** Ohh. . . This really good, thanks! You take this token of friendship. You all smell the same so this way I know who you are. I can make nice [necklaces] for my friends.
 
 
-* __Faction:__ [Anchorites of Brell Serilis](/faction/1598) (20)
+Your faction standing with [Anchorites of Brell Serilis](/faction/1598) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Token of Friendship](/item/8270) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/8270" data-url="8270" class="tooltip-link link">Token of Friendship</a> 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Token of Friendship](/item/8270)) then 
+ 
+
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/8270" data-url="8270" class="tooltip-link link">Token of Friendship</a>) then 
 
 
 >**Snarla the Fang says:** Ok, here pouch to collect stuff. Come back when pouch full. Make sure you seal pouch or stuff may fall out.
 
 
- **You receive:**  [Necklace Component Pouch](/item/17263) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_679.png" alt="" /> <a
+                                href="/item/17263" data-url="17263" class="tooltip-link link">Necklace Component Pouch</a> 
+
+ 
 
 
- **You receive:**  [Token of Friendship](/item/8270) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/8270" data-url="8270" class="tooltip-link link">Token of Friendship</a> 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Sealed Wolf Fang Pouch](/item/9228)) then 
+ 
+
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_667.png" alt="" /> <a
+                                href="/item/9228" data-url="9228" class="tooltip-link link">Sealed Wolf Fang Pouch</a>) then 
 
 
 >**Snarla the Fang says:** Oh hello friend, I make this nice necklace for you! You wear this and feel the spirit of the wolf run through you!
 
 
-* __Faction:__ [Anchorites of Brell Serilis](/faction/1598) (10)
+Your faction standing with [Anchorites of Brell Serilis](/faction/1598) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Wolf Fang Necklace](/item/8258) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/8258" data-url="8258" class="tooltip-link link">Wolf Fang Necklace</a> 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Sealed Bear Fang Pouch](/item/9229)) then 
+ 
+
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_667.png" alt="" /> <a
+                                href="/item/9229" data-url="9229" class="tooltip-link link">Sealed Bear Fang Pouch</a>) then 
 
 
 >**Snarla the Fang says:** My friend returns again! I make this nice necklace for you. Wear this and feel the essence of the bear flow through you.
 
 
-* __Faction:__ [Anchorites of Brell Serilis](/faction/1598) (10)
+Your faction standing with [Anchorites of Brell Serilis](/faction/1598) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Bear Fang Necklace](/item/8261) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/8261" data-url="8261" class="tooltip-link link">Bear Fang Necklace</a> 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Sealed Panther Fang Pouch](/item/9230)) then 
+ 
+
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_667.png" alt="" /> <a
+                                href="/item/9230" data-url="9230" class="tooltip-link link">Sealed Panther Fang Pouch</a>) then 
 
 
 >**Snarla the Fang says:** Hello again friend. This nice panther fang, here you take this necklace I make you. It imbued with spirit of the cat.
 
 
-* __Faction:__ [Anchorites of Brell Serilis](/faction/1598) (10)
+Your faction standing with [Anchorites of Brell Serilis](/faction/1598) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Panther Fang Necklace](/item/8257) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/8257" data-url="8257" class="tooltip-link link">Panther Fang Necklace</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

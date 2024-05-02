@@ -14,10 +14,14 @@ end
 
 
 
-if( **You turn in:** [an Ornate Bottle](/item/12963)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12963" data-url="12963" class="tooltip-link link">an Ornate Bottle</a>) then 
 
 
- **You receive:**  [bottle of swirling smoke](/item/12966) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12966" data-url="12966" class="tooltip-link link">bottle of swirling smoke</a> 
+
+ 
 
 
 **a human skeleton despawns.**

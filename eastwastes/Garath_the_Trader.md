@@ -34,42 +34,58 @@ end
 
 
 
-if( **You turn in:** [Priceless Velium Battlehammer](/item/27301)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/27301" data-url="27301" class="tooltip-link link">Priceless Velium Battlehammer</a>) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
 
 
- **You receive:**  [Priceless Velium Fist Wraps](/item/5833) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/5833" data-url="5833" class="tooltip-link link">Priceless Velium Fist Wraps</a> (+1000 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [Primal Velium Battlehammer](/item/27321)) then
-
-
->**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
-
-
- **You receive:**  [Primal Velium Fist Wraps](/item/27320) (+1000 exp)
-
-
-
-elseif( **You turn in:** [Priceless Velium Warsword](/item/27300)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/27321" data-url="27321" class="tooltip-link link">Primal Velium Battlehammer</a>) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
 
 
- **You receive:**  [Priceless Velium Knights Sword](/item/5834) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/27320" data-url="27320" class="tooltip-link link">Primal Velium Fist Wraps</a> (+1000 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [Primal Velium Warsword](/item/27328)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/27300" data-url="27300" class="tooltip-link link">Priceless Velium Warsword</a>) then
 
 
 >**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
 
 
- **You receive:**  [Primal Velium Knight's Sword](/item/5835) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/5834" data-url="5834" class="tooltip-link link">Priceless Velium Knights Sword</a> (+1000 exp)
+
+ 
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/27328" data-url="27328" class="tooltip-link link">Primal Velium Warsword</a>) then
+
+
+>**Garath the Trader says:** Ah, excellent! Guess standin out here in the cold proved worthwhile for me after all. You take that weapon and enjoy it, I know I\`ll be getting some use of this one. Safe travel to ya, friend!
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/5835" data-url="5835" class="tooltip-link link">Primal Velium Knight's Sword</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

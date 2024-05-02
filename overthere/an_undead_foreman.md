@@ -32,7 +32,8 @@ end
 
 
 
-if( **Faction is** >= Amiable and  **You turn in:** [Jade](/item/10023)) then 
+if( **Faction is** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_952.png" alt="" /> <a
+                                href="/item/10023" data-url="10023" class="tooltip-link link">Jade</a>) then 
 
 
 >*an undead foreman an undead foreman places the gem deep within his hollow eye socket. He pulls a giant sledgehammer from thin air and hands it to you.*
@@ -41,7 +42,10 @@ if( **Faction is** >= Amiable and  **You turn in:** [Jade](/item/10023)) then
 >**an undead foreman says:** Here!! You shall be assigned to the lower decks of the Scaled Trident.
 
 
- **You receive:**  [Worker Sledgemallet](/item/12863) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/12863" data-url="12863" class="tooltip-link link">Worker Sledgemallet</a> 
+
+ 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

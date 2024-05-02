@@ -33,7 +33,8 @@
 >**Nihilist Zeegarn says:** What is this?' The Nihilist barks in disbelief. 'You have lost your drape? This is unacceptable! Take this note and report to the Toilmaster at once. Read it on the way and praise Cazic-Thule for any mercy that you may be granted!
 
 
-**You receive:**  [A Ragged Book](/item/18271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18271" data-url="18271" class="tooltip-link link">A Ragged Book</a>
 end
 
 ## Turn-Ins
@@ -42,13 +43,18 @@ end
 
 
 
-if( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18272" data-url="18272" class="tooltip-link link">Rites of Exoneration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/24770" data-url="24770" class="tooltip-link link">Filled Penance Bag</a>) then
 
 
 
 >*Nihilist Zeegarn takes the bag and tome from you and in return gives you the item that you have been thinking of all of this time.'Lucky you. You have earned a second chance. Praise Cazic-Thule!'*
 
 
- **You receive:**  [Drape of the Brood](/item/12407) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_929.png" alt="" /> <a
+                                href="/item/12407" data-url="12407" class="tooltip-link link">Drape of the Brood</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

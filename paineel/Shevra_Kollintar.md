@@ -24,28 +24,41 @@ end
 
 
 
-if( **You turn in:** [A Sealed Letter](/item/12270)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/12270" data-url="12270" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Shevra Kollintar says:** Ah, excellent work.  I certainly had my doubts about you, Soandso.  Wear this well.
 
 
-* __Faction:__ [Heretics](/faction/265) (25)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-25)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-25)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-25)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-25)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:** eq.ChooseRandom( [Blackened Iron Coif](/item/3040), [Blackened Iron Collar](/item/3042), [Blackened Iron Mail](/item/3043), [Blackened Iron Spaulder](/item/3044), [Blackened Iron Waistband](/item/3046), [Blackened Iron Armplates](/item/3047), [Blackened Iron Bracers](/item/3048), [Blackened Iron Gloves](/item/3049), [Blackened Iron Legplates](/item/3050), [Blackened Iron Boots](/item/3051)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3040" data-url="3040" class="tooltip-link link">Blackened Iron Coif</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_627.png" alt="" /> <a
+                                href="/item/3042" data-url="3042" class="tooltip-link link">Blackened Iron Collar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3043" data-url="3043" class="tooltip-link link">Blackened Iron Mail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/3044" data-url="3044" class="tooltip-link link">Blackened Iron Spaulder</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/3046" data-url="3046" class="tooltip-link link">Blackened Iron Waistband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3047" data-url="3047" class="tooltip-link link">Blackened Iron Armplates</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3048" data-url="3048" class="tooltip-link link">Blackened Iron Bracers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/3049" data-url="3049" class="tooltip-link link">Blackened Iron Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_845.png" alt="" /> <a
+                                href="/item/3050" data-url="3050" class="tooltip-link link">Blackened Iron Legplates</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_844.png" alt="" /> <a
+                                href="/item/3051" data-url="3051" class="tooltip-link link">Blackened Iron Boots</a>) (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

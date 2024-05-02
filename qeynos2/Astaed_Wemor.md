@@ -111,7 +111,8 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/18862)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18862" data-url="18862" class="tooltip-link link">A tattered note</a>) then
 
 
 
@@ -122,24 +123,31 @@ if **Faction** >= Indifferent and  **You turn in:** [A tattered note](/item/1886
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (5)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bronze Warhammer](/item/6022), [Bronze Flail](/item/6023), [Bronze Morning Star](/item/6024), [Bronze Warclub](/item/6025)) (+4000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6022" data-url="6022" class="tooltip-link link">Bronze Warhammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6023" data-url="6023" class="tooltip-link link">Bronze Flail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6024" data-url="6024" class="tooltip-link link">Bronze Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_738.png" alt="" /> <a
+                                href="/item/6025" data-url="6025" class="tooltip-link link">Bronze Warclub</a>) (+4000 exp)
 
-elseif **Faction** >= Amiable +50 and  **You turn in:** [Honey Jum](/item/13952)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/13952" data-url="13952" class="tooltip-link link">Honey Jum</a>) then
 
 
 >**Astaed Wemor says:** I pray to Rodcet Nife that you have made it back in time. Let's add a small amount of this honey jum to this and.. here is the potion. This potion must be taken to a sick member of the congregation. The man is Lempeck Hargrin. He lives in the west plains of Karana between the river and the crop fields. He is in dire need of this potion. He has an odd disease. We have tried everything to cure him and this is his last chance. Run to him.
@@ -148,24 +156,29 @@ elseif **Faction** >= Amiable +50 and  **You turn in:** [Honey Jum](/item/13952)
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (20)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (6)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-5)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:** eq.ChooseRandom( [Prime Healer Potion](/item/13954), [Prime Healer Potion](/item/13955)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/13954" data-url="13954" class="tooltip-link link">Prime Healer Potion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/13955" data-url="13955" class="tooltip-link link">Prime Healer Potion</a>) (+1000 exp)
 
-elseif **Faction** >= Amiable +50 and  **You turn in:** [Rusty Scythe](/item/13970)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_579.png" alt="" /> <a
+                                href="/item/13970" data-url="13970" class="tooltip-link link">Rusty Scythe</a>) then
 
 
 >**Astaed Wemor says:** It is good to know that we saved Lempeck. He has given us his scythe as a donation to the temple. We shall find a use for it. As for your fine work at preserving the life of another, I reward you with the Shining Star of Life. Should you ever desire more strength in battle, call upon it to give you strength, but let it be known that at battle's you shall feel weaker than before you called upon the power. Just for a short time. When the power is drained, go to our temple storehouse and ask Whysia to [recharge the Shining Star of Life]. Go and serve life.
@@ -174,22 +187,25 @@ elseif **Faction** >= Amiable +50 and  **You turn in:** [Rusty Scythe](/item/139
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (20)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (6)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-5)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Shining Star of Light](/item/6356) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6356" data-url="6356" class="tooltip-link link">Shining Star of Light</a> (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

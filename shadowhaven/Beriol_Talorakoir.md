@@ -28,7 +28,8 @@
 >**Beriol Talorakoir says:** You are exactly the one I am looking for. After presenting this seal to Dersino, inform him that you wish to take the research and I am sure that he will know I have sent you. I look forward to seeing you soon.
 
 
-**You receive:**  [Seal of Beriol](/item/4769)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/4769" data-url="4769" class="tooltip-link link">Seal of Beriol</a>
 
 **You say:** `exodus`
 
@@ -43,18 +44,21 @@ end
 
 
 
-if( **You turn in:** [Book of Ancient Scribings](/item/4770)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/4770" data-url="4770" class="tooltip-link link">Book of Ancient Scribings</a>) then
 
 
 >**Beriol Talorakoir says:** This is exactly the research book that I was in need of. I am very thankful for you getting these for me. Should you ever feel up to it again in the future Dersino always is getting new books in that could be very helpful in my studies. Again, I thank you and wish you the best of luck.
 
 
-* __Faction:__ [House of Midst](/faction/1511) (25)
+Your faction standing with [House of Midst](/faction/1511) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (2)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

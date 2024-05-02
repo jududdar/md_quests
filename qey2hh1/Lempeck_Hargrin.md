@@ -28,7 +28,8 @@ end
 
 
 
-if( **You turn in:** [Prime Healer Potion](/item/13954)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/13954" data-url="13954" class="tooltip-link link">Prime Healer Potion</a>) then 
 
 
 >**Lempeck Hargrin says:** Thank you!! I felt the madness nearing my brain, but now I feel much better. Please take this as thanks - it is all I have to donate to Astaed Wemor. Be sure he gets it. I shall thank Rodcet Nife every day for sending help.
@@ -37,24 +38,28 @@ if( **You turn in:** [Prime Healer Potion](/item/13954)) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rusty Scythe](/item/13970) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_579.png" alt="" /> <a
+                                href="/item/13970" data-url="13970" class="tooltip-link link">Rusty Scythe</a> (+50000 exp)
 
-elseif( **You turn in:** [Prime Healer Potion](/item/13955)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/13955" data-url="13955" class="tooltip-link link">Prime Healer Potion</a>) then
 
 
 
@@ -67,21 +72,23 @@ elseif( **You turn in:** [Prime Healer Potion](/item/13955)) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (10)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (3)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-2)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+50000 exp)
+ &#127873; **You receive:** 0 (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

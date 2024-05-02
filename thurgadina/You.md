@@ -53,7 +53,8 @@ if (count == 3) then
 >*You have been inspired. The sacred pattern of the Coldain rune materializes on the ground before you.*
 
 
-**Spawns on ground:**  [Etched Rune pattern](/item/1855) at (**y:** -320, **x:** 793)
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/1855" data-url="1855" class="tooltip-link link">Etched Rune pattern</a> at (**y:** -320, **x:** 793)
 
 
 count = 0;

@@ -51,38 +51,49 @@ end
 
 
 
-if  **Faction** >= Indifferent and  **You turn in:** [Deathfist Slashed Belt](/item/13916)) then 
+if  **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13916" data-url="13916" class="tooltip-link link">Deathfist Slashed Belt</a>) then 
 
 
 >**Bregna says:** Good job. Dat help lerns um. Takes dis ta help ya lerns how ta do more hateful tings. Ya gots a good starts fer Him ta be prouds a ya
 
 
-* __Faction:__ [Dark Ones](/faction/237) (5)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (1)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Spell: Spirit Pouch](/item/15272) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15272" data-url="15272" class="tooltip-link link">Spell: Spirit Pouch</a> (+50 exp)
 
-elseif ( **You turn in:** [A Blood Raven Tailfeather](/item/26632), [A Wrulon Claw](/item/26640), [Arachnae Fangs](/item/29921), [Swirling Banshee Essence](/item/26662)) then 
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_618.png" alt="" /> <a
+                                href="/item/26632" data-url="26632" class="tooltip-link link">A Blood Raven Tailfeather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/26640" data-url="26640" class="tooltip-link link">A Wrulon Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/29921" data-url="29921" class="tooltip-link link">Arachnae Fangs</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_698.png" alt="" /> <a
+                                href="/item/26662" data-url="26662" class="tooltip-link link">Swirling Banshee Essence</a>) then 
 
 
 >**Bregna says:** Dis am gud. I see you've been talkin' to Garuuk. Methanks you fer da help. Take dis note back ta Garuuk so he knows you helped me. Tanks again!
 
 
-* __Faction:__ [Dark Ones](/faction/237) (10)
+Your faction standing with [Dark Ones](/faction/237) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (2)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Frogloks of Guk](/faction/251) (-1)
+Your faction standing with [Frogloks of Guk](/faction/251) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Troll Receipt](/item/28740) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28740" data-url="28740" class="tooltip-link link">Troll Receipt</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

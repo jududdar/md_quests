@@ -86,39 +86,55 @@ end
 
 
 
-if( **Faction is** > Dubious and  **You turn in:** [Jade Reaver](/item/5664)) then
+if( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1164.png" alt="" /> <a
+                                href="/item/5664" data-url="5664" class="tooltip-link link">Jade Reaver</a>) then
 
 
 >**Kinlo Strongarm says:** Arrrrr. Ooooo. Arrrrrr... Yah, now that's what I be callin' a good lookin' axe. I be crackin' a few skulls with this one. Oh, here's yer block o' mud. Our priests o' Brell use the mud pit fer relievin' themselves after really hard ale blessin' ceremonies, so ya ain't got ta be enchantin' it in holy water or anythin' cause they already have. Har har!
 
 
- **You receive:**  [Enchanted Clay](/item/20455) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/20455" data-url="20455" class="tooltip-link link">Enchanted Clay</a> 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Soulbound Hammer](/item/20478)) then
+ 
+
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/20478" data-url="20478" class="tooltip-link link">Soulbound Hammer</a>) then
 
 
 >*Kinlo Strongarm examines the hammer respectfully, admiring its craftsmanship. He strikes it against his anvil and winces as a howl fills the air. 'This is one of the ancients' hammers? I can almost, well, almost hear it callin ta me. It's strong, that's fer sure, lad. I don't know how ye got it, but aye, a dwarf could make a mighty blade with this. It's lookin like this thing still has its owner inside it though. I'm not knowin how, and not wantin to know, but fer yer own good ye better find some way ta get 'im out.'*
 
 
- **You receive:**  [Soulbound Hammer](/item/20478) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/20478" data-url="20478" class="tooltip-link link">Soulbound Hammer</a> 
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Hammer of the Ancients](/item/20485)) then
+ 
+
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/20485" data-url="20485" class="tooltip-link link">Hammer of the Ancients</a>) then
 
 
 >*Kinlo Strongarm looks at the hammer and nods once before slamming the head against his anvil, and shattering the head. In a cloud of dust, another dwarf appears from the cloud and tosses you a hunk of metal. Kinlo stares in awe.*
 
 
- **You receive:**  [Small bit of Mithril Ore](/item/20482) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/20482" data-url="20482" class="tooltip-link link">Small bit of Mithril Ore</a> 
+
+ 
 
 
 **Spawn NPC:**  [Usbak the Old](/npc/67089) at (**y:** 346.8, **x:** -189.5)
 
-elseif( **Faction is** > Dubious and  **You turn in:** [Small bit of Mithril Ore](/item/20482)) then
+elseif( **Faction is** > Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/20482" data-url="20482" class="tooltip-link link">Small bit of Mithril Ore</a>) then
 
 
 >**Kinlo Strongarm says:** Erm. Well, I ain't never worked with this stuff but here's what I got for ya. It ain't bad, pretty much like the one ye got there. I suppose ye should take the one the ancient made and show it ta yer friend.
 
 
- **You receive:**  [Refined Mithril Blade](/item/20483) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20483" data-url="20483" class="tooltip-link link">Refined Mithril Blade</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

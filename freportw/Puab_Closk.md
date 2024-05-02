@@ -92,7 +92,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Puab's Token](/item/12369)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/12369" data-url="12369" class="tooltip-link link">Puab's Token</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -123,39 +124,47 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18746)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18746" data-url="18746" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Puab Closk says:** Welcome to the house of the Ashen Order. We are a small guild of monks who have devoted our lives to refining our minds, souls, and physical beings to their maximum potential. Please see Brother Torresk as soon as you get a chance. He is in charge of helping our newer members begin their training. Good luck, Soandso.
 
 
-* __Faction:__ [Ashen Order](/faction/361) (100)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (15)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (5)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Torn Cloth Tunic*](/item/13507) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13507" data-url="13507" class="tooltip-link link">Torn Cloth Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [a pawprint](/item/12370)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12370" data-url="12370" class="tooltip-link link">a pawprint</a>) then 
 
 
 >**Puab Closk says:** You have performed a great service to one who is your brother. Your loyalty shines brightly, as does your skill. Take the treant fists. They are yours now.
 
 
-* __Faction:__ [Ashen Order](/faction/361) (20)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (1)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Treant Fists](/item/12344) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/12344" data-url="12344" class="tooltip-link link">Treant Fists</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

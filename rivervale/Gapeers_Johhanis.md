@@ -162,22 +162,28 @@ end
 local text = "Oh....well.....This is nice, but I'll need the swollen, waterlogged, and algae covered flesh before I can reward you.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Algae Covered Flesh](/item/1736), [Swollen Flesh](/item/1737), [Waterlogged Flesh](/item/1735)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/1736" data-url="1736" class="tooltip-link link">Algae Covered Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/1737" data-url="1737" class="tooltip-link link">Swollen Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/1735" data-url="1735" class="tooltip-link link">Waterlogged Flesh</a>) then
 
 
 >*Gapeers Johhanis cheers as you hand him the samples of zombie flesh. He says, 'You have them! Excellent! Thank you very much, Soandso! Now I have much work to do so shoo before you break something else. Oh and here is your reward. It's an anklet that all our acolytes wear. Not only is it functional, but we can show off our beautiful foot hairs at the same time. Us halflings are pretty smart really.*
 
 
-* __Faction:__ [Priests of Mischief](/faction/300) (5)
+Your faction standing with [Priests of Mischief](/faction/300) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Acolyte's Anklet](/item/1731) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1124.png" alt="" /> <a
+                                href="/item/1731" data-url="1731" class="tooltip-link link">Acolyte's Anklet</a> (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-7 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-15 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 else
 

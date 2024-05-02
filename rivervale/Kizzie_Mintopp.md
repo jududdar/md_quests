@@ -53,28 +53,34 @@ end
 local text = "This is not all! Kizzie says, three honeycombs and thirty gold coins! Oooh! They never listen.";
 
 
-if( **You turn in:** [Honeycomb](/item/13953), [Honeycomb](/item/13953), [Honeycomb](/item/13953),gold = 30) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1069.png" alt="" /> <a
+                                href="/item/13953" data-url="13953" class="tooltip-link link">Honeycomb</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1069.png" alt="" /> <a
+                                href="/item/13953" data-url="13953" class="tooltip-link link">Honeycomb</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1069.png" alt="" /> <a
+                                href="/item/13953" data-url="13953" class="tooltip-link link">Honeycomb</a>,gold = 30) then
 
 
 >**Kizzie Mintopp says:** You are one lucky bixie buster. I just made a batch of honey jum. Here. No waiting for you.  One jar for your good work. Bye, now!
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Honey Jum](/item/13952) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/13952" data-url="13952" class="tooltip-link link">Honey Jum</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -106,62 +106,90 @@ end
 local text = "Solusek Ro does not believe in half measures.";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [A Broom](/item/16544), [Cyclops Toes](/item/16543), [Griffon Feathers](/item/16538), [Star Ruby](/item/10032)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_889.png" alt="" /> <a
+                                href="/item/16544" data-url="16544" class="tooltip-link link">A Broom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/16543" data-url="16543" class="tooltip-link link">Cyclops Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_909.png" alt="" /> <a
+                                href="/item/16538" data-url="16538" class="tooltip-link link">Griffon Feathers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Vira says:** All of the components to make the infamous broom of Trilon!  Well done, adventurer.  As you have proven yourself worthy, I grant you this broom.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Broom of Trilon](/item/6360) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_889.png" alt="" /> <a
+                                href="/item/6360" data-url="6360" class="tooltip-link link">Broom of Trilon</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Ruby](/item/10035), [Gargoyle Eye](/item/10014), [A Shovel](/item/16545), [Hill Giant Toes](/item/16539)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_943.png" alt="" /> <a
+                                href="/item/10014" data-url="10014" class="tooltip-link link">Gargoyle Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_891.png" alt="" /> <a
+                                href="/item/16545" data-url="16545" class="tooltip-link link">A Shovel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/16539" data-url="16539" class="tooltip-link link">Hill Giant Toes</a>) then 
 
 
 >**Vira says:** Each of the four items needed to construct the famed Shovel of Ponz!  Very well.  As you have displayed ingenuity, I grant you this shovel.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Shovel of Ponz](/item/6361) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_891.png" alt="" /> <a
+                                href="/item/6361" data-url="6361" class="tooltip-link link">Shovel of Ponz</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [A Torch](/item/16546), [Fire Drake Scale](/item/16534), [Fire Emerald](/item/10033), [Fire Giant Toes](/item/16541)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/16546" data-url="16546" class="tooltip-link link">A Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/16534" data-url="16534" class="tooltip-link link">Fire Drake Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/16541" data-url="16541" class="tooltip-link link">Fire Giant Toes</a>) then 
 
 
 >**Vira says:** All of the pieces of the famous Torch of Alna!  I never thought you would find them all!  As you have displayed courage, I grant you this torch.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Torch of Alna](/item/6362) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/6362" data-url="6362" class="tooltip-link link">Torch of Alna</a> (+1000 exp)
+
+ 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Ice Giant Toes](/item/16540), [Mermaid Scale](/item/16542), [Sapphire](/item/10034), [A Stein](/item/16547)) then 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/16540" data-url="16540" class="tooltip-link link">Ice Giant Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_998.png" alt="" /> <a
+                                href="/item/16542" data-url="16542" class="tooltip-link link">Mermaid Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_708.png" alt="" /> <a
+                                href="/item/16547" data-url="16547" class="tooltip-link link">A Stein</a>) then 
 
 
 >**Vira says:** The four components required for the stein of Ulissa?!  I am impressed!  As you have displayed valor, I grant you this stein.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Stein of Ulissa](/item/6363) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_708.png" alt="" /> <a
+                                href="/item/6363" data-url="6363" class="tooltip-link link">Stein of Ulissa</a> (+1000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

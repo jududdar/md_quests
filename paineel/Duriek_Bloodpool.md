@@ -44,18 +44,22 @@ end
 
 
 
-if( **You turn in:** [Letter to Duriek](/item/18099)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18099" data-url="18099" class="tooltip-link link">Letter to Duriek</a>) then
 
 
 >**Duriek Bloodpool says:** Yes, most unfortunate. I was informed last week of the death of my most recent apprentice. A few months ago, I paid a substantial sum to a group of rogues sent from Neriak to collect on a gambling debt. He swore to me that was theof it, but I suspected otherwise. My warnings of gambling with the rogues fell on deaf ears.
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:** 0 (+15000 exp)
+ &#127873; **You receive:** 0 (+15000 exp)
 
-elseif( **You turn in:** [Cough Elixir](/item/14365)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/14365" data-url="14365" class="tooltip-link link">Cough Elixir</a>) then
 
 
 
@@ -63,9 +67,10 @@ elseif( **You turn in:** [Cough Elixir](/item/14365)) then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
-elseif( **You turn in:** [Dusty Tome](/item/14382)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/14382" data-url="14382" class="tooltip-link link">Dusty Tome</a>) then
 
 
 
@@ -73,12 +78,15 @@ elseif( **You turn in:** [Dusty Tome](/item/14382)) then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 elseif **Faction** >= Apprehensive +17 then
 
 
-if( **You turn in:** [Ghoulbane](/item/5403), [Soul Leech, Dark Sword of Blood](/item/11609), [Blade of Abrogation](/item/5430), [Decrepit Sheath](/item/14366)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5403" data-url="5403" class="tooltip-link link">Ghoulbane</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/5430" data-url="5430" class="tooltip-link link">Blade of Abrogation</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_726.png" alt="" /> <a
+                                href="/item/14366" data-url="14366" class="tooltip-link link">Decrepit Sheath</a>) then
 
 
 
@@ -86,11 +94,14 @@ e.self:Emote("takes the Ghoulbane and places the other swords on either side of 
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
 
- **You receive:**  [Corrupted Ghoulbane](/item/14367) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/14367" data-url="14367" class="tooltip-link link">Corrupted Ghoulbane</a> 
+
+ 
 
 
 

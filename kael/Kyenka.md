@@ -131,45 +131,53 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Great Dragon's Head](/item/25119)) then
+if **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/25119" data-url="25119" class="tooltip-link link">Great Dragon's Head</a>) then
 
 
 >**Kyenka says:** This beast must have taken quite a force to slay. These boots have been crafted to reward your kind for such great efforts. Take them and wear them with pride. They will be a warning to other dragons that you are a great slayer of their kind.
 
 
-* __Faction:__ [Kromzek](/faction/448) (30)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (7)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (7)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-15)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Barbed Dragonscale Boots](/item/25029) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/25029" data-url="25029" class="tooltip-link link">Barbed Dragonscale Boots</a> (+75000 exp)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Greater Dragon's Head](/item/25118)) then
+ 
+
+elseif **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/25118" data-url="25118" class="tooltip-link link">Greater Dragon's Head</a>) then
 
 
 >**Kyenka says:** You serve the crown well, Soandso. This is one less beast to ruin our lands. Take these pauldrons which I have fashioned from the first dragon scales brought to King Tormax's court.
 
 
-* __Faction:__ [Kromzek](/faction/448) (30)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (7)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (7)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-15)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Barbed Dragonscale Pauldrons](/item/25028) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/25028" data-url="25028" class="tooltip-link link">Barbed Dragonscale Pauldrons</a> (+75000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

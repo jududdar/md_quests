@@ -207,21 +207,29 @@ end
 
 
 
-if( **You turn in:** [A Shield Repair Order](/item/29803)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29803" data-url="29803" class="tooltip-link link">A Shield Repair Order</a>) then
 
 
 >**Khala Dun Aihjin says:** Well it's about time Barkhem got around to us, and he couldn't even be bothered to come himself. Please get this back to me as soon as you can... you do know that we are here to guard the city, right?
 
 
- **You receive:**  [Aihjins Dented Shield](/item/29810) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29810" data-url="29810" class="tooltip-link link">Aihjins Dented Shield</a> 
 
-elseif( **You turn in:** [Aihjins Immaculate Shield](/item/29811)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/29811" data-url="29811" class="tooltip-link link">Aihjins Immaculate Shield</a>) then
 
 
 >**Khala Dun Aihjin says:** Well done, I sure will be ready for next time something tries to cause a disturbance in our city. My thanks to you Soandso.
 
 
- **You receive:**  [Aihjins work order](/item/29812) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/29812" data-url="29812" class="tooltip-link link">Aihjins work order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

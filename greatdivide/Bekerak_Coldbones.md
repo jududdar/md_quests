@@ -56,7 +56,8 @@ end
 
 
 
-if( **You turn in:** [Bekeraks New Spear](/item/25106)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/25106" data-url="25106" class="tooltip-link link">Bekeraks New Spear</a>) then 
 
 
 >**Bekerak Coldbones says:** Well, well, I see Wenglawks finally got around to sending me my new spear. I hope it's not as shoddy as the last one. Your payment? Bahaha, did Wenglawks not tell you? Payment was to be a giant icewurm tooth carved into an amulet. Come now, little one. I will find an ice wurm for us to slay together. Then you can pull one of its teeth out for me and I will fashion the talisman for that greedy merchant.
@@ -64,55 +65,67 @@ if( **You turn in:** [Bekeraks New Spear](/item/25106)) then
 
 **Spawn NPC:**  [\#an angry shardwurm](/npc/118016) at (**y:** -3011, **x:** -2776)
 
-elseif( **You turn in:** [Giant Shard Wurm Tooth](/item/25191)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/25191" data-url="25191" class="tooltip-link link">Giant Shard Wurm Tooth</a>) then 
 
 
 >*Bekerak Coldbones pulls out a large knife and begins to carve at the tooth. After a few minutes he pulls out a length of rope and fashions it into a very large necklace. 'Here is his payment. Tell him the spear is fine, and that I might reconsider his last offer to me. He will know what I mean.'*
 
 
- **You receive:**  [Giant Icewurm Talisman](/item/25130) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/25130" data-url="25130" class="tooltip-link link">Giant Icewurm Talisman</a> 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Giant Sack of Supplies](/item/25266)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/25266" data-url="25266" class="tooltip-link link">Giant Sack of Supplies</a>) then 
 
 
 >**Bekerak Coldbones says:** Supplies from Svekk?  Where are the rest of them little one!  There must be more, we are here pushing the Coldain back into their hole in the wall and Svekk sends a " .. e.other:Race() .. " to deliver a small portion of supplies.  Take this note back to that fool.  Leave quickly before I take my rage out upon you.
 
 
-* __Faction:__ [Kromrif](/faction/419) (1)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (1)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-1)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Bekerak's Letter to Svekk](/item/25267) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/25267" data-url="25267" class="tooltip-link link">Bekerak's Letter to Svekk</a> (+250 exp)
+
+ 
 
 Bekerak's Letter to Svekk
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Large Supply Sack for Bekerak](/item/25269)) then 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/25269" data-url="25269" class="tooltip-link link">Large Supply Sack for Bekerak</a>) then 
 
 
 >**Bekerak Coldbones says:** I am in your debt, " .. e.other:Race() .. ".  These supplies will help our effort to destroy the Coldain.  I wish I had more to give than what I do.'  Bekerak pulls a strange looking totem on a string from one of his pockets and hands it to you.  'May Lord Rallos smile upon you, Soandso.'
 
 
-* __Faction:__ [Kromrif](/faction/419) (1)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (1)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (-1)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-1)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Kromrif Battle Totem](/item/25268) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/25268" data-url="25268" class="tooltip-link link">Kromrif Battle Totem</a> (+250 exp)
+
+ 
 
 Kromrif Battle Totem
 

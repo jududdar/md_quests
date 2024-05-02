@@ -22,7 +22,8 @@
 >**Mistala Glimmerblade says:** Many thanks, Soandso. The last I heard from Broansas he was heading for the Dawnshroud peaks. Please seek him out there and present him with this notarized letter so that he will know that I sent you. Return to me with his report as soon as you can. I await your return.
 
 
-**You receive:**  [A Notorized Letter](/item/4760)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/4760" data-url="4760" class="tooltip-link link">A Notorized Letter</a>
 end
 
 ## Turn-Ins
@@ -31,21 +32,24 @@ end
 
 
 
-if( **You turn in:** [Journal of Broansas](/item/4761)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/4761" data-url="4761" class="tooltip-link link">Journal of Broansas</a>) then
 
 
 >**Mistala Glimmerblade says:** It's nice to see that Broansas is doing well. I would not have been able to retrieve this information without your assistance, Soandso. I thank you for your help and will be sure to tell the council members of your good deeds. I often need reports retrieved so please check back if you would like to help to the House of Fordel.
 
 
-* __Faction:__ [House of Fordel](/faction/1510) (30)
+Your faction standing with [House of Fordel](/faction/1510) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Haven Defenders](/faction/1509) (30)
+Your faction standing with [Haven Defenders](/faction/1509) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (3)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:** 0 (+2500 exp)
+ &#127873; **You receive:** 0 (+2500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

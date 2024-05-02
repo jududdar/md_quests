@@ -47,27 +47,38 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18783)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18783" data-url="18783" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Sylia Windlehands says:** Greetings. friend. I am Sylia.  I see that you wish to join our humble guild.  Good.  Here is a gift for you - your guild tunic.  Let's get started with your training, shall we?
 
 
-* __Faction:__ [Song Weavers](/faction/401) (100)
+Your faction standing with [Song Weavers](/faction/401) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Faded Brown Tunic*](/item/13534) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13534" data-url="13534" class="tooltip-link link">Faded Brown Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>) then
 
 
 >**Sylia Windlehands says:** Splendid job! Now if you can just keep a tune, you'll be a fine bard.
 
 
-* __Faction:__ [Song Weavers](/faction/401) (5)
+Your faction standing with [Song Weavers](/faction/401) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Hand Drum](/item/13000) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1152.png" alt="" /> <a
+                                href="/item/13000" data-url="13000" class="tooltip-link link">Hand Drum</a> (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

@@ -43,39 +43,51 @@ local text = "Tunare be praised! Do you have the rest I requested?";
 
 
 
-if( **You turn in:** [A tattered note](/item/18786)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18786" data-url="18786" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Heartwood Master says:** Welcome! We are the Soldiers of Tunare, the sworn protectors of Faydark. I thank you for joining our cause, we can always use the help. Here, put on this tunic, and let's get started.. you have much to learn.
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (100)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (15)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (15)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Green and Tan Tunic*](/item/13537) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13537" data-url="13537" class="tooltip-link link">Green and Tan Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusty Short Sword](/item/5013), [Rusty Broad Sword](/item/5016), [Rusty Long Sword](/item/5019), [Rusty Bastard Sword](/item/5022)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5016" data-url="5016" class="tooltip-link link">Rusty Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5019" data-url="5019" class="tooltip-link link">Rusty Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/5022" data-url="5022" class="tooltip-link link">Rusty Bastard Sword</a>) then
 
 
 >**Heartwood Master says:** You have done well, child! Take this as a blessing from Tunare for doing her will.
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (1)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Worn Great Staff](/item/6012)) (+250 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5047" data-url="5047" class="tooltip-link link">Tarnished Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6012" data-url="6012" class="tooltip-link link">Worn Great Staff</a>) (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

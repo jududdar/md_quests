@@ -35,28 +35,41 @@ end
 
 
 
-if( **You turn in:** [Small Lantern](/item/13003)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_684.png" alt="" /> <a
+                                href="/item/13003" data-url="13003" class="tooltip-link link">Small Lantern</a>) then 
 
 
 >**Jyle Windshot says:** Thanks, friend. I have run a long way to get here in time. Mostly at night. I lost my lantern in a card game in Highkeep.
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (1)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (1)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-1)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [Wooden Shards](/item/13824), [a wooden heart](/item/12334)) (+50 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/13824" data-url="13824" class="tooltip-link link">Wooden Shards</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/12334" data-url="12334" class="tooltip-link link">a wooden heart</a>) (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

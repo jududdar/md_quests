@@ -24,12 +24,18 @@ end
 
 
 
-if( **You turn in:** [Pick](/item/5018), [Dwarven Ale](/item/13036), [Dwarven Ale](/item/13036)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/5018" data-url="5018" class="tooltip-link link">Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_703.png" alt="" /> <a
+                                href="/item/13036" data-url="13036" class="tooltip-link link">Dwarven Ale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_703.png" alt="" /> <a
+                                href="/item/13036" data-url="13036" class="tooltip-link link">Dwarven Ale</a>) then
 
 
 >*Diggs Duggun drinks one of the ales, burps loudly, then says 'By Brell's Beard! Yer a lifesaver, ya are! 'ere, take dis bone I've found 'ere in dis maze. Looks human ta me and I'm thinkin that a proper burial is in order. Freeport's the closest place dat has one o Marr's temples. I'm thinkin dis was one o' his Holy Knights by da look o' da tattered tunic I found it wrapped in. I'm thinkin Valeron might be havin an interest in it if you show that to him.'*
 
 
- **You receive:**  [A Dusty Old Leg Bone](/item/6701) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/6701" data-url="6701" class="tooltip-link link">A Dusty Old Leg Bone</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

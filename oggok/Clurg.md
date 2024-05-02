@@ -110,7 +110,8 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Barkeep Compendium](/item/13379)) then 
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/13379" data-url="13379" class="tooltip-link link">Barkeep Compendium</a>) then 
 
 
 >**Clurg says:** Ahhh!! My Barkeep Compendium has been returned!! I am in your debt. I do not like to be in any man's debt. Let me offer you this as payment for your great service. Obtaining my book could not have been a simple task.
@@ -119,24 +120,28 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Barkeep Compendium](/it
 
 
 
-* __Faction:__ [Clurg](/faction/228) (50)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (-50)
+Your faction standing with [Kazon Stormhammer](/faction/274) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (50)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (50)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Oggok Guards](/faction/337) (50)
+Your faction standing with [Oggok Guards](/faction/337) got better (<span class='text-success'>+50</span>)
 
 
- **You receive:**  [Stein of Moggok](/item/13380) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/13380" data-url="13380" class="tooltip-link link">Stein of Moggok</a> (+500 exp)
 
-elseif **Faction** >= Indifferent +50 and  **You turn in:** [Ogre Head](/item/13378)) then 
+ 
+
+elseif **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/13378" data-url="13378" class="tooltip-link link">Ogre Head</a>) then 
 
 
 >**Clurg says:** Haha! He shall mix no more Flaming Pungla's! I shall drink from his rotting skull tonight. As for you, take this and call it yours. Consider yourself a friend of Clurg.
@@ -145,22 +150,34 @@ elseif **Faction** >= Indifferent +50 and  **You turn in:** [Ogre Head](/item/13
 
 
 
-* __Faction:__ [Clurg](/faction/228) (15)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (-15)
+Your faction standing with [Kazon Stormhammer](/faction/274) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (15)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (15)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Oggok Guards](/faction/337) (15)
+Your faction standing with [Oggok Guards](/faction/337) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:** eq.ChooseRandom( [Large Ringmail Sleeves](/item/3132), [Large Ringmail Coat](/item/3128), [Large Ringmail Gloves](/item/3134), [Large Ringmail Pants](/item/3135), [Large Ringmail Boots](/item/3136), [Star Rose Quartz](/item/10021), [Pearl](/item/10024), [Ogre War Maul](/item/6302), [A Crude Stein](/item/13355), [Warhammer](/item/6006)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3132" data-url="3132" class="tooltip-link link">Large Ringmail Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_527.png" alt="" /> <a
+                                href="/item/3128" data-url="3128" class="tooltip-link link">Large Ringmail Coat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3134" data-url="3134" class="tooltip-link link">Large Ringmail Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3135" data-url="3135" class="tooltip-link link">Large Ringmail Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3136" data-url="3136" class="tooltip-link link">Large Ringmail Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_950.png" alt="" /> <a
+                                href="/item/10021" data-url="10021" class="tooltip-link link">Star Rose Quartz</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/10024" data-url="10024" class="tooltip-link link">Pearl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_581.png" alt="" /> <a
+                                href="/item/6302" data-url="6302" class="tooltip-link link">Ogre War Maul</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_708.png" alt="" /> <a
+                                href="/item/13355" data-url="13355" class="tooltip-link link">A Crude Stein</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6006" data-url="6006" class="tooltip-link link">Warhammer</a>) (+500 exp)
+
+**You receive coin:** 5 <img src='/static/icons/item_644.png' width='14' height='14'/> 1 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 else
 

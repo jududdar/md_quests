@@ -64,53 +64,92 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Auspice](/item/4940), [Avatar's Tome](/item/4949), [Rockhopper Spirit Fetish](/item/4950)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4940" data-url="4940" class="tooltip-link link">Mark of Auspice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/4949" data-url="4949" class="tooltip-link link">Avatar's Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/4950" data-url="4950" class="tooltip-link link">Rockhopper Spirit Fetish</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Augur's Cloak](/item/3757) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_842.png" alt="" /> <a
+                                href="/item/3757" data-url="3757" class="tooltip-link link">Augur's Cloak</a> (+25000 exp)
 
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Guidance](/item/4951), [Vitality Gem](/item/4952)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Augur's Gauntlets](/item/3758) (+25000 exp)
-
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Augury](/item/4955), [Aged Runic Crutch](/item/4956), [Lined Towel](/item/4957)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4951" data-url="4951" class="tooltip-link link">Mark of Guidance</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/4952" data-url="4952" class="tooltip-link link">Vitality Gem</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Augur's Waistband](/item/3760) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3758" data-url="3758" class="tooltip-link link">Augur's Gauntlets</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Oracle](/item/4938), [Aged Bone Fetish](/item/4939)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Augur's Mask](/item/3756) (+25000 exp)
-
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Darkened Shaft](/item/4959), [Oracle's Orb](/item/4960), [Mark of Premonition](/item/4958)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Augur's Spear](/item/3761) (+25000 exp)
-
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Rage](/item/4953), [Spirit Marked Ornament](/item/4954)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4955" data-url="4955" class="tooltip-link link">Mark of Augury</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/4956" data-url="4956" class="tooltip-link link">Aged Runic Crutch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_790.png" alt="" /> <a
+                                href="/item/4957" data-url="4957" class="tooltip-link link">Lined Towel</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Augur's Talisman](/item/3759) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1120.png" alt="" /> <a
+                                href="/item/3760" data-url="3760" class="tooltip-link link">Augur's Waistband</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4938" data-url="4938" class="tooltip-link link">Mark of the Oracle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_501.png" alt="" /> <a
+                                href="/item/4939" data-url="4939" class="tooltip-link link">Aged Bone Fetish</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/3756" data-url="3756" class="tooltip-link link">Augur's Mask</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/4959" data-url="4959" class="tooltip-link link">Darkened Shaft</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/4960" data-url="4960" class="tooltip-link link">Oracle's Orb</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4958" data-url="4958" class="tooltip-link link">Mark of Premonition</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/3761" data-url="3761" class="tooltip-link link">Augur's Spear</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4953" data-url="4953" class="tooltip-link link">Mark of Rage</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_514.png" alt="" /> <a
+                                href="/item/4954" data-url="4954" class="tooltip-link link">Spirit Marked Ornament</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/3759" data-url="3759" class="tooltip-link link">Augur's Talisman</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -118,4 +157,4 @@ function FactionReward(e)
 
 >**Sarah Jelnen says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Vornol Transon](/faction/1547) (5)
+Your faction standing with [Vornol Transon](/faction/1547) got better (<span class='text-success'>+5</span>)

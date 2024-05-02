@@ -61,7 +61,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [Field Supplies](/item/1724)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/1724" data-url="1724" class="tooltip-link link">Field Supplies</a>
 
 
 else
@@ -113,7 +114,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [Enchanted Velium Mask](/item/1713)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/1713" data-url="1713" class="tooltip-link link">Enchanted Velium Mask</a>
 
 
 else
@@ -138,7 +140,8 @@ local text = "I have much to do, Soandso. Do not waste my time unless you have t
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Report of Failure](/item/1709)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/1709" data-url="1709" class="tooltip-link link">Report of Failure</a>) then 
 
 
 >*Noble Helssen takes the report from you and places it in a pocket without even glancing at it. He says, 'Do not worry, Soandso. I know of the planar creatures who eliminated my troops. The fault is not yours but of that fool Drioc's. The Savage land is not just a simple forest as those idiots in the field believe. It is a cradle of life and the forces that drive it. Within that forest is a nexus, a gateway to another plane of existence, the Plane of Growth.'*
@@ -147,49 +150,64 @@ if **Faction** >= Indifferent and  **You turn in:** [Report of Failure](/item/17
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (15)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (3)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (3)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-7)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-7</span>)
 
 
- **You receive:**  [Inscribed Velium Tablet](/item/1710) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1710" data-url="1710" class="tooltip-link link">Inscribed Velium Tablet</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Helssen's Voucher](/item/1722)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/1722" data-url="1722" class="tooltip-link link">Helssen's Voucher</a>) then 
 
 
 >**Noble Helssen says:** Excellent choice, " .. e.other:Race() .. ". Competence and a sense of style. When we are ready to take the Wakening I will most definitely welcome your participation. Here is your reward.
 
 
- **You receive:**  [Noble's Seal](/item/1723) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_512.png" alt="" /> <a
+                                href="/item/1723" data-url="1723" class="tooltip-link link">Noble's Seal</a> (+2000 exp)
+
+ 
 
 
- **You receive:**  [Helssen's Prismatic Trinket](/item/1720) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_534.png" alt="" /> <a
+                                href="/item/1720" data-url="1720" class="tooltip-link link">Helssen's Prismatic Trinket</a> 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Arcanum of Rosh](/item/1712), [Ancient Rusted Key](/item/1714)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/1712" data-url="1712" class="tooltip-link link">Arcanum of Rosh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/1714" data-url="1714" class="tooltip-link link">Ancient Rusted Key</a>) then 
 
 
 >**Noble Helssen says:** Ahhh, you suprise me mercenary. You have found the book as well as the key to open it. I must begin my research as soon as possible. But first, your reward. With this voucher you can receive 1 of the 3 treasures I will offer you. If given to Kellek you will receive an item worthy of a hearty and rugged combatant. If given to Wenglawks you will aquire an item to be worn by only the most pious. And if given to me I will give you a sorcerous trinket of my own design.
 
 
-* __Faction:__ [Kromzek](/faction/448) (11)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+11</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (5)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (5)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Helssen's Voucher](/item/1722) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/1722" data-url="1722" class="tooltip-link link">Helssen's Voucher</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

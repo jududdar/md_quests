@@ -7,7 +7,8 @@
 if(e.self:GetX() == -1164 and e.self:GetY() == -3301 and e.self:GetGrid() == 0) then
 
 
-if( **You turn in:** [Harness of Control](/item/30272)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_719.png" alt="" /> <a
+                                href="/item/30272" data-url="30272" class="tooltip-link link">Harness of Control</a>) then 
 
 
 
@@ -15,7 +16,9 @@ if( **You turn in:** [Harness of Control](/item/30272)) then
 
 
 
- **You receive:** 0 (+20000 exp)
+ &#127873; **You receive:** 0 (+20000 exp)
+
+ 
 
 
 
@@ -26,7 +29,8 @@ if( **You turn in:** [Harness of Control](/item/30272)) then
 eq.start(54);
 
 
-elseif( **You turn in:** [Giants Harness of Control](/item/30274)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_719.png" alt="" /> <a
+                                href="/item/30274" data-url="30274" class="tooltip-link link">Giants Harness of Control</a>) then 
 
 
 
@@ -34,7 +38,9 @@ elseif( **You turn in:** [Giants Harness of Control](/item/30274)) then
 
 
 
- **You receive:** 0 (+20000 exp)
+ &#127873; **You receive:** 0 (+20000 exp)
+
+ 
 
 
 

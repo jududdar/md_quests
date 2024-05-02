@@ -45,7 +45,8 @@
 >**Einhorst McMannus says:** Oh, yes, the lion meat shipment. Aye, it's here somewhere. Just a moment. Ah! Here you go. Apologize for the delay in this.
 
 
-**You receive:**  [Lion Meat Shipment](/item/13961)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/13961" data-url="13961" class="tooltip-link link">Lion Meat Shipment</a>
 
 
 **You say:** `lion meat`
@@ -81,7 +82,8 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18831)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18831" data-url="18831" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Einhorst McMannus says:** Yes. We almost forgot of the shipment of Karana clovers. Here you are, my friend. Back to the north with you. I am sure the Shamans of Justice will need this.
@@ -90,18 +92,21 @@ if( **You turn in:** [A tattered note](/item/18831)) then
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (1)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Karana Clover Shipment](/item/13962) (+1600 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/13962" data-url="13962" class="tooltip-link link">Karana Clover Shipment</a> (+1600 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

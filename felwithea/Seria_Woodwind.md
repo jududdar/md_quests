@@ -37,7 +37,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Mail Assembly Kit](/item/17124)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a>
 
 
 **You say:** `felwithe defender gauntlets`
@@ -49,7 +50,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `felwithe defender boots`
@@ -61,7 +63,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `felwithe defender bracer`
@@ -73,7 +76,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `felwithe defender helm`
@@ -85,7 +89,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `felwithe defender greaves`
@@ -97,7 +102,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `felwithe defender vambraces`
@@ -109,7 +115,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 **You say:** `felwithe defender breastplate`
@@ -121,7 +128,8 @@ if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 **You say:** `further instruction`
@@ -152,39 +160,50 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Centurion Relgle's Head](/item/20288), [Head of an Ebon Mask Spy](/item/20289)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/20288" data-url="20288" class="tooltip-link link">Centurion Relgle's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_988.png" alt="" /> <a
+                                href="/item/20289" data-url="20289" class="tooltip-link link">Head of an Ebon Mask Spy</a>) then
 
 
 >**Seria Woodwind says:** Good work Soandso.  King Tearis Thex and the Royal Order of the Koada'Vie shall be pleased.  Take the Dull Felwithe Defenders Sword to a forge and sharpen it with a sharpening stone.  It may take you several attempts if you are unfamiliar with the process.  Once that is accomplished bring me the Sharp Felwithe Defenders Sword, a Pristine Forest Drakeling Scale, and an Arborean Amber and I will put the finishing touches on the weapon.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (10)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (10)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (7)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Dull Felwithe Defenders Sword](/item/20295) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/20295" data-url="20295" class="tooltip-link link">Dull Felwithe Defenders Sword</a> (+1000 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Felwithe Defenders Sword](/item/20299), [Pristine Forest Drakeling Scales](/item/20271), [Arborean Amber](/item/20274)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20299" data-url="20299" class="tooltip-link link">Sharp Felwithe Defenders Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/20271" data-url="20271" class="tooltip-link link">Pristine Forest Drakeling Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_951.png" alt="" /> <a
+                                href="/item/20274" data-url="20274" class="tooltip-link link">Arborean Amber</a>) then
 
 
 >*Seria Woodwind fashions a grip from the pristine forest drakeling scales, fastens the arborean amber to the pommel of the hilt and polishes the blade of the sword with a luminescent substance. 'Here is your new weapon young defender. May it serve you well in your service to the Koada'Vie.'*
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (5)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (5)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (3)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Felwithe Defenders Falchion](/item/20329) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/20329" data-url="20329" class="tooltip-link link">Felwithe Defenders Falchion</a> (+75000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

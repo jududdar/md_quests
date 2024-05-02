@@ -14,12 +14,16 @@ end
 
 
 
-if( **You turn in:** [Pot of Spicy Fish Stew](/item/5566)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/5566" data-url="5566" class="tooltip-link link">Pot of Spicy Fish Stew</a>) then
 
 
 >**Kerr Tiparr says:** Thanks Soandso! That was delicious. Here is the empty bowl.
 
 
- **You receive:**  [Empty Stew Bowl](/item/5567) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/5567" data-url="5567" class="tooltip-link link">Empty Stew Bowl</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

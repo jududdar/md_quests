@@ -46,28 +46,35 @@ local text = "I require all four reagents, anything less is useless. Incompetenc
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Eye of Urd](/item/10523), [Basalt Drake Scales](/item/19032), [Lens of Lord Soptyvr](/item/14110), [Widowmistress Hair](/item/14109)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/10523" data-url="10523" class="tooltip-link link">Eye of Urd</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/19032" data-url="19032" class="tooltip-link link">Basalt Drake Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/14110" data-url="14110" class="tooltip-link link">Lens of Lord Soptyvr</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/14109" data-url="14109" class="tooltip-link link">Widowmistress Hair</a>) then 
 
 
 >**Miadera Shadowfyre says:** Yes! Can you feel the terror in the air, prickling your flesh, and standing your hair on The chanters have summoned the avatar of Terror! Quickly take this mundane mask to him and he shall forge it into a valuable symbol to be worn by loyal apostles of Terror!
 
 
-* __Faction:__ [Heretics](/faction/265) (200)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+200</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-200)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-200</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-200)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-200</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-200)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-200</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-200)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-200</span>)
 
 
- **You receive:**  [Mundane Mask](/item/14106) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/14106" data-url="14106" class="tooltip-link link">Mundane Mask</a> (+5000 exp)
+
+**You receive coin:** 1-9 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Spawn NPC:**  [avatar of terror](/npc/75195) at (**y:** 1182, **x:** 421)

@@ -18,13 +18,18 @@ end
 
 
 
-if( **You turn in:** [Shining Metallic Robes](/item/1360)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_929.png" alt="" /> <a
+                                href="/item/1360" data-url="1360" class="tooltip-link link">Shining Metallic Robes</a>) then
 
 
 >**Kejar the Mighty says:** You found it, I am so pleased! Here is your reward
 
 
- **You receive:** eq.ChooseRandom( [Shiny Robe of the Underfoot](/item/8960), 8961) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_929.png" alt="" /> <a
+                                href="/item/8960" data-url="8960" class="tooltip-link link">Shiny Robe of the Underfoot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/8961" data-url="8961" class="tooltip-link link">Shiny Hunk of Metal</a>) (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

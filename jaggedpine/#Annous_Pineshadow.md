@@ -113,7 +113,8 @@ e.self:Say("Then your endeavor shall continue, my child. Take this scroll
 
 
 
-**You receive:**  [Ancient White Scroll](/item/8962)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/8962" data-url="8962" class="tooltip-link link">Ancient White Scroll</a>
 
 
 
@@ -177,70 +178,83 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Azure Idol of Karana](/item/8956)) then
+if( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/8956" data-url="8956" class="tooltip-link link">Azure Idol of Karana</a>) then
 
 
 e.self:Say("Marvelously done, my friend. The idol's return by your hand bodes well indeed toward the success of your quest. Now, it shall remain without a hand to possess it 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+ 
 
 
 eq.set_global("galeweaver","1",1,"F");
 
-elseif( **Faction is** > Warmly and  **You turn in:** [The Rainkeepers Writ](/item/8964), [Dormant Crystal Sphere](/item/8963), [Ancient White Scroll](/item/8962)) then 
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/8964" data-url="8964" class="tooltip-link link">The Rainkeepers Writ</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/8963" data-url="8963" class="tooltip-link link">Dormant Crystal Sphere</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/8962" data-url="8962" class="tooltip-link link">Ancient White Scroll</a>) then 
 
 
 e.self:Say("You have done well, my child. The ancient scroll has impressed upon it a small mirror of your faith. As it was with you through your travels, the runes have changed to reflect your own heart and what lies within it. I have woven for you the Orb of the Gale 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Dormant Gale Stone](/item/17135) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/17135" data-url="17135" class="tooltip-link link">Dormant Gale Stone</a> (+10000 exp)
+
+ 
 
 
 eq.delete_global("galeweaver");
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Orb of the Gale](/item/8966)) then 
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/8966" data-url="8966" class="tooltip-link link">Orb of the Gale</a>) then 
 
 
 e.self:Say("You astound me, my child. Well done indeed, and I am very pleased to know that you have been successful in these endeavors. It is an honor to bestow upon you this, our sacred symbol, and welcome you into the order of The Gale Weavers. Bear it proudly, but do not flaunt pride. Keep your sacred duties to The Rainkeeper first and foremost in your thoughts and actions 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (15)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (7)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (7)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [The Gale Weaver](/item/8967) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/8967" data-url="8967" class="tooltip-link link">The Gale Weaver</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

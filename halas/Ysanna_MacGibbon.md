@@ -72,7 +72,8 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Patched Gnoll Fur Bundle](/item/1330)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_842.png" alt="" /> <a
+                                href="/item/1330" data-url="1330" class="tooltip-link link">Patched Gnoll Fur Bundle</a>) then
 
 
 
@@ -82,25 +83,32 @@ if **Faction** >= Indifferent and  **You turn in:** [Patched Gnoll Fur Bundle](/
 
 
 
-* __Faction:__ [Rogues of the White Rose](/faction/305) (5)
+Your faction standing with [Rogues of the White Rose](/faction/305) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Fang of the Wolf](/item/1349) (+6000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/1349" data-url="1349" class="tooltip-link link">Fang of the Wolf</a> (+6000 exp)
+
+**You receive coin:** 0-1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Shrieking Ahlspiess](/item/7507)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/7507" data-url="7507" class="tooltip-link link">Shrieking Ahlspiess</a>) then
 
 
 
 >**Ysanna MacGibbon says:** Yay! You got another one for me! I'm so happy! Here as I promised is the sketch.
 
 
-* __Faction:__ [Rogues of the White Rose](/faction/305) (5)
+Your faction standing with [Rogues of the White Rose](/faction/305) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Sluggish Sketch](/item/24097) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1004.png" alt="" /> <a
+                                href="/item/24097" data-url="24097" class="tooltip-link link">Sluggish Sketch</a> 
+
+ 
 
 
 

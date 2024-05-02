@@ -18,13 +18,18 @@ end
 
 
 
-if( **You turn in:** [Claw Beast Talon](/item/7811), [Wooden Practice Flail](/item/30579)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/7811" data-url="7811" class="tooltip-link link">Claw Beast Talon</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/30579" data-url="30579" class="tooltip-link link">Wooden Practice Flail</a>) then
 
 
 >**Shekar says:** You have killed the Claw Beast!  Well done Soandso, you have shown a great ability to fight. I have not seen the like since the mightly Yalpeelor and Zunaloo!
 
 
- **You receive:**  [Claw Beast Talon Club](/item/7812) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1188.png" alt="" /> <a
+                                href="/item/7812" data-url="7812" class="tooltip-link link">Claw Beast Talon Club</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

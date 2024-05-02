@@ -31,7 +31,8 @@ end
 >**Blinza Toepopal says:** Here. Take it to Lowmot. The stew is already paid for but the good Deputy usually tips Jillin quite well. Hurry! It's getting cold!
 
 
-**You receive:**  [Carrot Stew](/item/13959)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_858.png" alt="" /> <a
+                                href="/item/13959" data-url="13959" class="tooltip-link link">Carrot Stew</a>
 end
 
 ## Turn-Ins
@@ -39,74 +40,84 @@ end
 
 
 
-if ( **You turn in:** [Crate of Carrots](/item/13958)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13958" data-url="13958" class="tooltip-link link">Crate of Carrots</a>) then
 
 
 >**Blinza Toepopal says:** Well it is about time!  The mayor gets very upset if he does not have the freshest of carrots in his stew.  Here is the money for the carrots.  Be off with you.  Now, where the heck did [Jillin] go?
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
 
-elseif ( **You turn in:** [Crate of Fine Carrots](/item/13957)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-6 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13957" data-url="13957" class="tooltip-link link">Crate of Fine Carrots</a>) then
 
 
 >**Blinza Toepopal says:** Oh excellent! These carrots are perfect! The finest Reebo has ever sent us. The mayor will be so pleased. Here is the payment for the carrots. Excuse me, but I must finish preparing the stew. Hmm. Where the heck did [Jillin] go?
 
 
-* __Faction:__ [Deeppockets](/faction/241) (5)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+20 exp)
+ &#127873; **You receive:** 0 (+20 exp)
 
-elseif ( **You turn in:** [Crate of Rotten Carrots](/item/13971)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-6 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13971" data-url="13971" class="tooltip-link link">Crate of Rotten Carrots</a>) then
 
 
 >**Blinza Toepopal says:** What are these?!  I am trying to make stew for the mayor and you bring me ROTTEN CARROTS?!  Have you no sense??  Take these back to Reebo.
 
 
-* __Faction:__ [Deeppockets](/faction/241) (-5)
+Your faction standing with [Deeppockets](/faction/241) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (-1)
+Your faction standing with [Carson McCabe](/faction/329) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Crate of Rotten Carrots](/item/13972) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13972" data-url="13972" class="tooltip-link link">Crate of Rotten Carrots</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

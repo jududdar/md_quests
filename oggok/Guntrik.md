@@ -47,64 +47,77 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18787)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18787" data-url="18787" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Guntrik says:** Ahh..  good..  good..  here. take..  Now you Craknek! You bash good. Bash lizards. Bash froggies. Bash mushrooms. Remember. you no help Greenbloods. Crakneks stronger than Greenbloods.
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (100)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (15)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-15)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-15</span>)
 
 
 
- **You receive:**  [Mud Stained Skin Tunic*](/item/13525) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13525" data-url="13525" class="tooltip-link link">Mud Stained Skin Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Nobles Crest](/item/13361)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/13361" data-url="13361" class="tooltip-link link">A Nobles Crest</a>) then
 
 
 >**Guntrik says:** One less trouble. Hunhuh!! You do good work. Keep up. Remember to bring any special things to Guntrik. Here junk for good work. Go away now.
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (15)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (2)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-2)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-2</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Bronze Two Handed Sword](/item/5030), [Bronze Two Handed Battle Axe](/item/5037), [Bronze Two Handed Hammer](/item/6021)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5030" data-url="5030" class="tooltip-link link">Bronze Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5037" data-url="5037" class="tooltip-link link">Bronze Two Handed Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6021" data-url="6021" class="tooltip-link link">Bronze Two Handed Hammer</a>) (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Tattered Parchment](/item/18883)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18883" data-url="18883" class="tooltip-link link">Tattered Parchment</a>) then
 
 
 >**Guntrik says:** Ooh! This where hunters stay. You must go to Rathe Mountains and find Drinn's Inn. Kill all. Bring owners' scalps back and me give good junk. You get more warriors to help. Say Guntrik command them. You will need all help you get.
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (2)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Clurg](/faction/228) (1)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (-1)
+Your faction standing with [Green Blood Knights](/faction/261) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

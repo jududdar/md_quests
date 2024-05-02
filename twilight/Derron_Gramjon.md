@@ -70,61 +70,107 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Star Jewel](/item/4490), [Mark of Belief](/item/4839), [Light Etched of Sapphire](/item/4840)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4839" data-url="4839" class="tooltip-link link">Mark of Belief</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/4840" data-url="4840" class="tooltip-link link">Light Etched of Sapphire</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Boots of the Holy Rite](/item/3742) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3742" data-url="3742" class="tooltip-link link">Boots of the Holy Rite</a> (+25000 exp)
 
-elseif( **You turn in:** [Light Etched Ruby](/item/4838), [Mark of Truth](/item/4829), [Moon Jewel](/item/4489)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Bracer of the Holy Rite](/item/3741) (+25000 exp)
-
-elseif( **You turn in:** [Brazier of Light](/item/4798), [Genuine Leather Padding](/item/4797), [Mark of Faith](/item/4796), [Sky Jewel](/item/4492)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/4838" data-url="4838" class="tooltip-link link">Light Etched Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4829" data-url="4829" class="tooltip-link link">Mark of Truth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Breastplate of the Holy Rite](/item/3737) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/3741" data-url="3741" class="tooltip-link link">Bracer of the Holy Rite</a> (+25000 exp)
 
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Candle of Rites](/item/4818), [Lexicon of Omens](/item/4810), [Mark of Purity](/item/4809)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Greaves of the Holy Rite](/item/3739) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Holy Statuette](/item/4795), [Mark of Remedy](/item/4793), [Vial of Holy Water](/item/4794)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Helm of the Holy Rite](/item/3736) (+25000 exp)
-
-elseif( **You turn in:** [Decorative Bracers of Wistfulnees](/item/4820), [Mark of the Divine](/item/4819), [Sun Jewel](/item/4488)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1082.png" alt="" /> <a
+                                href="/item/4798" data-url="4798" class="tooltip-link link">Brazier of Light</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/4797" data-url="4797" class="tooltip-link link">Genuine Leather Padding</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4796" data-url="4796" class="tooltip-link link">Mark of Faith</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Pauldrons of the Holy Rite](/item/3740) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/3737" data-url="3737" class="tooltip-link link">Breastplate of the Holy Rite</a> (+25000 exp)
 
-elseif( **You turn in:** [Mark of the Holy](/item/4799), [Meteor Jewel](/item/4493), [Restored Tapestry](/item/4808), [Tome of Deities](/item/4800)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1128.png" alt="" /> <a
+                                href="/item/4818" data-url="4818" class="tooltip-link link">Candle of Rites</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/4810" data-url="4810" class="tooltip-link link">Lexicon of Omens</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4809" data-url="4809" class="tooltip-link link">Mark of Purity</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Vambraces of the Holy Rite](/item/3738) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3739" data-url="3739" class="tooltip-link link">Greaves of the Holy Rite</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/4795" data-url="4795" class="tooltip-link link">Holy Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4793" data-url="4793" class="tooltip-link link">Mark of Remedy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1155.png" alt="" /> <a
+                                href="/item/4794" data-url="4794" class="tooltip-link link">Vial of Holy Water</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_628.png" alt="" /> <a
+                                href="/item/3736" data-url="3736" class="tooltip-link link">Helm of the Holy Rite</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4820" data-url="4820" class="tooltip-link link">Decorative Bracers of Wistfulnees</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4819" data-url="4819" class="tooltip-link link">Mark of the Divine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/3740" data-url="3740" class="tooltip-link link">Pauldrons of the Holy Rite</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4799" data-url="4799" class="tooltip-link link">Mark of the Holy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/4808" data-url="4808" class="tooltip-link link">Restored Tapestry</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/4800" data-url="4800" class="tooltip-link link">Tome of Deities</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_546.png" alt="" /> <a
+                                href="/item/3738" data-url="3738" class="tooltip-link link">Vambraces of the Holy Rite</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -132,14 +178,14 @@ function FactionReward(e)
 
 >**Derron Gramjon says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

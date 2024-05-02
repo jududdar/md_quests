@@ -25,21 +25,28 @@ end
 
 
 
-if( **You turn in:** [Ganss note to Yelesom](/item/18173)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18173" data-url="18173" class="tooltip-link link">Ganss note to Yelesom</a>) then
 
 
 >**Yelesom Paust says:** Gans sent you to check on me did he? Well you can tell my dear brother that the surveying has been halted. One of those furballs has stolen my tools, making my job impossible. Kerrans, kobolds, gnolls, we're constantly under siege by these primitives. Anyway, perhaps you could [help me]?
 
 
- **You receive:** 0 (+150 exp)
+ &#127873; **You receive:** 0 (+150 exp)
 
-elseif( **You turn in:** [Yelesom's Tools](/item/1768)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_716.png" alt="" /> <a
+                                href="/item/1768" data-url="1768" class="tooltip-link link">Yelesom's Tools</a>) then
 
 
 >**Yelesom Paust says:** Thank you for recovering my tools, please take this to my brother for your reward.
 
 
- **You receive:**  [Yelesom's Reports](/item/1771) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/1771" data-url="1771" class="tooltip-link link">Yelesom's Reports</a> (+150 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

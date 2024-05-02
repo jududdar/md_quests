@@ -20,7 +20,8 @@
 >**McNeal Jocub says:** Take this note to the Qeynos Hills. Somewhere there, you shall find a gnoll at night called Gnasher. Give him the note. Now, get moving!
 
 
-**You receive:**  [A tattered note](/item/18800)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18800" data-url="18800" class="tooltip-link link">A tattered note</a>
 
 **You say:** `blackburrow stout`
 
@@ -54,42 +55,55 @@ local moonstone = 0;
 
 
 
-if( **You turn in:** [Case of Blackburrow Stout](/item/13131)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13131" data-url="13131" class="tooltip-link link">Case of Blackburrow Stout</a>) then
 
 
 >**McNeal Jocub says:** Good work, pal. Here's a little dough to spend, just don't spend it at any other bar.
 
 
-* __Faction:__ [Karana Residents](/faction/345) (30)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (4)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (9)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+9</span>)
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
 
-elseif( **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-12 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>) then
 
 
 moonstone = 4;
 
-elseif( **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070), [Moonstone](/item/10070)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>) then
 
 
 moonstone = 3;
 
-elseif( **You turn in:** [Moonstone](/item/10070), [Moonstone](/item/10070)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>) then
 
 
 moonstone = 2;
 
-elseif( **You turn in:** [Moonstone](/item/10070)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a>) then
 
 
 moonstone = 1;
@@ -105,23 +119,26 @@ repeat
 
 
 
-* __Faction:__ [Karana Residents](/faction/345) (1)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Black Burrow Stout](/item/13107) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_827.png" alt="" /> <a
+                                href="/item/13107" data-url="13107" class="tooltip-link link">Black Burrow Stout</a> (+200 exp)
+
+ 
 
 
 

@@ -98,21 +98,30 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Valley Spiritling Stone](/item/6970), [Jungle Spiritling Stone](/item/6971), [Mountain Spiritling Stone](/item/6972)) then 
+if **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/6970" data-url="6970" class="tooltip-link link">Valley Spiritling Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/6971" data-url="6971" class="tooltip-link link">Jungle Spiritling Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/6972" data-url="6972" class="tooltip-link link">Mountain Spiritling Stone</a>) then 
 
 
 >*Saemey Wirewhisker grinds the spiritling stones in a mortar and pestle with foreign runes scratched into the ceramic. 'This powder will assist in matters concerning the contacting or freeing of spirits.'*
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (1)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** GiveAll( [Kejek Spirit Powder](/item/6980),eq.ChooseRandom(0, [Kejek Spirit Powder](/item/6980)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/6980" data-url="6980" class="tooltip-link link">Kejek Spirit Powder</a>,eq.ChooseRandom(0, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/6980" data-url="6980" class="tooltip-link link">Kejek Spirit Powder</a>) 
 
-elseif **Faction** >= Dubious +300 and  **You turn in:** [Kejek Spirit Powder](/item/6980), [Soul Orb](/item/6977)) then 
+ 
+
+elseif **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/6980" data-url="6980" class="tooltip-link link">Kejek Spirit Powder</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/6977" data-url="6977" class="tooltip-link link">Soul Orb</a>) then 
 
 
 >**Saemey Wirewhisker says:** I require a Soul Orb and Kejek Spirit Dust in order to perform the ritual that will free the imprisoned souls.
@@ -121,12 +130,15 @@ elseif **Faction** >= Dubious +300 and  **You turn in:** [Kejek Spirit Powder](/
 >*Saemey Wirewhisker scrawls an arcane symbol on the ground with an odd powder and places the orb in its center. He then begins reciting an incantation and waving his arms over the symbol and orb. Moments later the orb shatters and an apparition appears.*
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (1)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Shattered Soul Orb](/item/2576) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/2576" data-url="2576" class="tooltip-link link">Shattered Soul Orb</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

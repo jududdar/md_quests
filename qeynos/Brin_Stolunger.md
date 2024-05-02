@@ -27,7 +27,8 @@ if( **Faction is** >= Amiable) then
 
 
 
-**You receive:**  [Empty Arena Sack](/item/17935)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17935" data-url="17935" class="tooltip-link link">Empty Arena Sack</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -54,7 +55,8 @@ end
 if( **Faction is** >= Amiable) then 
 
 
-if( **You turn in:** [Full Arena Sack](/item/13399)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13399" data-url="13399" class="tooltip-link link">Full Arena Sack</a>) then 
 
 
 
@@ -66,30 +68,34 @@ if( **You turn in:** [Full Arena Sack](/item/13399)) then
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (2)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+2</span>)
 
 
 
- **You receive:**  [A Sealed Letter](/item/18893) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18893" data-url="18893" class="tooltip-link link">A Sealed Letter</a> (+10000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Letter of Recommendation](/item/18895)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18895" data-url="18895" class="tooltip-link link">Letter of Recommendation</a>) then 
 
 
 
@@ -101,27 +107,30 @@ elseif( **You turn in:** [Letter of Recommendation](/item/18895)) then
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (2)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+2</span>)
 
 
 
- **You receive:**  [A Sealed Letter](/item/18894) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18894" data-url="18894" class="tooltip-link link">A Sealed Letter</a> (+20000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **This NPC *should* return incorrect items given.**

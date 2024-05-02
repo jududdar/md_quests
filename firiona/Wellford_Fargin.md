@@ -29,22 +29,30 @@ end
 
 
 
-if( **You turn in:** [Star of Odus](/item/10059)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10059" data-url="10059" class="tooltip-link link">Star of Odus</a>) then
 
 
 >**Wellford Fargin says:** Thank you!! I never could have gone to Odus to replace this. Perhaps now you can collect some rare coins.
 
 
- **You receive:**  [Tin Box](/item/17045) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17045" data-url="17045" class="tooltip-link link">Tin Box</a> 
+
+ 
 
 
 
-if( **You turn in:** [A Tin Box](/item/12829)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12829" data-url="12829" class="tooltip-link link">A Tin Box</a>) then
 
 
 >**Wellford Fargin says:** Wow!! I never thought I would ever see these in my entire life.  Please take this and Thank you!!!!
 
 
- **You receive:**  [Nostrolo Tambourine](/item/12940) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1152.png" alt="" /> <a
+                                href="/item/12940" data-url="12940" class="tooltip-link link">Nostrolo Tambourine</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

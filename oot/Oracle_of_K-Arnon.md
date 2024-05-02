@@ -85,33 +85,41 @@ end
 
 
 
-if( **You turn in:** [Book of Scale](/item/18302)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18302" data-url="18302" class="tooltip-link link">Book of Scale</a>) then 
 
 
 >**Oracle of K-Arnon says:** Unbelievable! The legendary Book of Scale is mine! Please, take this as a small token of my thanks. I warn you however, if you ever manage to join the corporeal body to the evil that resides within, you will rue the day.
 
 
-* __Faction:__ [Oracle of K`Arnon](/faction/402) (10)
+Your faction standing with [Oracle of K`Arnon](/faction/402) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Oracle of Marud](/faction/403) (-10)
+Your faction standing with [Oracle of Marud](/faction/403) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:**  [Miragul's Phylactery](/item/19072) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1017.png" alt="" /> <a
+                                href="/item/19072" data-url="19072" class="tooltip-link link">Miragul's Phylactery</a> (+25000 exp)
 
-elseif( **You turn in:** [Book of Turmoil](/item/18202)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18202" data-url="18202" class="tooltip-link link">Book of Turmoil</a>) then 
 
 
 >**Oracle of K-Arnon says:** Thank thee for this tome. Be sure to check back with me later, as I might have another task for thee.
 
 
-* __Faction:__ [Oracle of K`Arnon](/faction/402) (10)
+Your faction standing with [Oracle of K`Arnon](/faction/402) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Oracle of Marud](/faction/403) (-10)
+Your faction standing with [Oracle of Marud](/faction/403) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:**  [Glowing Torch](/item/10071) (+72900 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/10071" data-url="10071" class="tooltip-link link">Glowing Torch</a> (+72900 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -50,13 +50,17 @@ end
 
 
 
-local helmet =  **You turn in:**  { [Giant Warrior Helmet](/item/29062)}
+local helmet =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_747.png" alt="" /> <a
+                                href="/item/29062" data-url="29062" class="tooltip-link link">Giant Warrior Helmet</a>}
 
-local storm_toe =  **You turn in:**  { [Storm Giant Toes](/item/29124)}
+local storm_toe =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/29124" data-url="29124" class="tooltip-link link">Storm Giant Toes</a>}
 
-local assignment =  **You turn in:**  { [Mercenary Assignments](/item/29624)}
+local assignment =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_652.png" alt="" /> <a
+                                href="/item/29624" data-url="29624" class="tooltip-link link">Mercenary Assignments</a>}
 
-local frost_toe =  **You turn in:**  { [Frost Giant Toes](/item/29125)}
+local frost_toe =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/29125" data-url="29125" class="tooltip-link link">Frost Giant Toes</a>}
 
 
 
@@ -74,22 +78,24 @@ repeat
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (15)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+15</span>)
 
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (3)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-7)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-7</span>)
 
 
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+ 
 
 
 
@@ -112,22 +118,24 @@ repeat
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (10)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (2)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-5)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-5</span>)
 
 
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
+
+**You receive coin:** 1-10 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
@@ -148,22 +156,24 @@ repeat
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 1-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
@@ -184,22 +194,24 @@ repeat
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 1-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

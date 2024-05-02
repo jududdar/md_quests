@@ -27,7 +27,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Steel Warriors Mail Kit](/item/17262)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17262" data-url="17262" class="tooltip-link link">Steel Warriors Mail Kit</a>
 
 
 **You say:** `helm`
@@ -39,7 +40,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `bracer`
@@ -51,7 +53,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `armguards`
@@ -63,7 +66,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boots`
@@ -75,7 +79,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `greaves`
@@ -87,7 +92,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `gauntlets`
@@ -99,7 +105,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `breastplate`
@@ -111,7 +118,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `final task`
@@ -130,28 +138,34 @@ end
 local expansion_flag = eq.get_current_expansion();
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Pristine Giant Scarab Leg](/item/9919), [Lion Paw](/item/9918), [Vial of Smoke](/item/9923)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/9919" data-url="9919" class="tooltip-link link">Pristine Giant Scarab Leg</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/9918" data-url="9918" class="tooltip-link link">Lion Paw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1134.png" alt="" /> <a
+                                href="/item/9923" data-url="9923" class="tooltip-link link">Vial of Smoke</a>) then 
 
 
 >**Arinna Trueblade says:** Your determination to further your training and knowledge never ceases to amaze me. I knew I could count on you to retrieve these items for me. Luck was also on my side because I was able to craft the blade we spoke of before. May it protect you in all of your battles that await you. Excellent work Soandso.
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (25)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-3)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (5)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Jagged Blade of the Steel Warrior](/item/9940) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1169.png" alt="" /> <a
+                                href="/item/9940" data-url="9940" class="tooltip-link link">Jagged Blade of the Steel Warrior</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

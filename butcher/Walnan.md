@@ -36,13 +36,20 @@ local text = "Wait, Soandso, are you not forgetting something?";
 
 
 
-if( **You turn in:** [Power of Fire](/item/28036), [Power of Wind](/item/28037), [Power of Earth](/item/28038), [Power of Water](/item/28039)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/28036" data-url="28036" class="tooltip-link link">Power of Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/28037" data-url="28037" class="tooltip-link link">Power of Wind</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/28038" data-url="28038" class="tooltip-link link">Power of Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/28039" data-url="28039" class="tooltip-link link">Power of Water</a>) then
 
 
 >**Walnan says:** The arcane art of Summoning is derived from the power of the elements which surround us. Continue your journey across the Ocean of Tears. In a dark fortress, you should find Akksstaf lurking about. Be wary, but tell him that you seek Magi'kot. Hurry now Soandso, you do not wish to miss the ship!
 
 
- **You receive:**  [Power of the Elements](/item/28031) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/28031" data-url="28031" class="tooltip-link link">Power of the Elements</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

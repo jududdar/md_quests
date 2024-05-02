@@ -18,13 +18,17 @@ end
 
 
 
-if( **You turn in:** [Giant Sized Monocle](/item/20678)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/20678" data-url="20678" class="tooltip-link link">Giant Sized Monocle</a>) then
 
 
 >**Mentrax Mountainbone says:** Eh, you actually found one! Thank you, Soandso. Here is a block of ore for you. Just don't let the other giants know.
 
 
- **You receive:**  [Rejesiam Ore](/item/20666) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/20666" data-url="20666" class="tooltip-link link">Rejesiam Ore</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

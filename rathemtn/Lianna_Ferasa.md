@@ -22,13 +22,17 @@ end
 
 
 
-if( **You turn in:** [Liannas Flute](/item/13899)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/13899" data-url="13899" class="tooltip-link link">Liannas Flute</a>) then
 
 
 >**Lianna Ferasa says:** Thank you for setting his spirit free.  Keep his memory alive with this.
 
 
- **You receive:**  [Icon of the Reverent](/item/19010) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19010" data-url="19010" class="tooltip-link link">Icon of the Reverent</a> (+1000 exp)
+
+ 
 end
 
 

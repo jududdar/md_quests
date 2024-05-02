@@ -84,7 +84,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [Bent Playing Card](/item/13903)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/13903" data-url="13903" class="tooltip-link link">Bent Playing Card</a>
 
 
 else
@@ -156,28 +157,31 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Sealed Note For Knargon](/item/18722)) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18722" data-url="18722" class="tooltip-link link">Sealed Note For Knargon</a>) then 
 
 
 >**Knargon Lanenda says:** Hmm. Carson better deal with his little 'problem' soon, it's costing us a lot of money. Hanns is gonna skin us all when he hears this. Go tell Hanns that [Carson has a mole in the Highpass] guards, and see what he wants us to do.
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+0 exp)
+ &#127873; **You receive:** 0 (+0 exp)
+
+ 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

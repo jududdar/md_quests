@@ -13,11 +13,14 @@ end
 
 
 
-local ethereal =  **You turn in:**  { [Ethereal Parchment](/item/29112)}
+local ethereal =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a>}
 
-local spectral =  **You turn in:**  { [Spectral Parchment](/item/29131)}
+local spectral =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a>}
 
-local glyphed =  **You turn in:**  { [Glyphed Rune Word](/item/29132)}
+local glyphed =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a>}
 
 if(ethereal > 0) then
 
@@ -30,7 +33,12 @@ e.self:Emote("takes the arcane item from you. Carefully, he inspects it
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Earthen Roots](/item/26943), 21628, 21627) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26943" data-url="26943" class="tooltip-link link">Spell: Earthen Roots</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21628" data-url="21628" class="tooltip-link link">Spell: Call of the Rathe</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21627" data-url="21627" class="tooltip-link link">Spell: Strength of Tunare</a>) 
+
+ 
 
 
 
@@ -50,7 +58,13 @@ e.self:Emote("takes the arcane item from you. Carefully, he inspects it
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Frozen Wind](/item/26931), 26929, 26930, 21626) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26931" data-url="26931" class="tooltip-link link">Spell: Frozen Wind</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26929" data-url="26929" class="tooltip-link link">Spell: Nature's Rebuke</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26930" data-url="26930" class="tooltip-link link">Spell: Spirit of the Predator</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21626" data-url="21626" class="tooltip-link link">Spell: Brushfire</a>) 
+
+ 
 
 
 
@@ -70,7 +84,11 @@ e.self:Emote("takes the arcane item from you. Carefully, he inspects it
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Protection of the Wild](/item/21655), 26932) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21655" data-url="21655" class="tooltip-link link">Spell: Protection of the Wild</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26932" data-url="26932" class="tooltip-link link">Spell: Cry of Thunder</a>) 
+
+ 
 
 
 

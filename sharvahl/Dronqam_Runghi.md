@@ -18,12 +18,18 @@ end
 
 
 
-if( **You turn in:** [Redcap Mushroom](/item/3446), [Pinch of scarlet moss](/item/3447), [Bluecapped Mushroom](/item/3448)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/3446" data-url="3446" class="tooltip-link link">Redcap Mushroom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1201.png" alt="" /> <a
+                                href="/item/3447" data-url="3447" class="tooltip-link link">Pinch of scarlet moss</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/3448" data-url="3448" class="tooltip-link link">Bluecapped Mushroom</a>) then
 
 
 >**Dronqam Runghi says:** Wonderful! I have little to offer you for your trouble aside from my gratitude. Here is a pinch of acrylia dust. I know it's not much. If you have no need for it go to Mignah, he can always use all kinds of acrylia.
 
 
- **You receive:**  [Pinch of Acrylia Dust](/item/3449) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/3449" data-url="3449" class="tooltip-link link">Pinch of Acrylia Dust</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

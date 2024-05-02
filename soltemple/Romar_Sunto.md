@@ -45,7 +45,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [A coin pouch](/item/17511)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17511" data-url="17511" class="tooltip-link link">A coin pouch</a>
 
 
 **You say:** `what.* coin`
@@ -75,35 +76,47 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Lambent Stone](/item/10000)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a>) then
 
 
 >**Romar Sunto says:** A stone for a staff - very well.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Darkwood Staff](/item/6048) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/6048" data-url="6048" class="tooltip-link link">Darkwood Staff</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Radiant Coin of Tash](/item/10793)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/10793" data-url="10793" class="tooltip-link link">Radiant Coin of Tash</a>) then 
 
 
 >**Romar Sunto says:** The Coin of Tash - fully enchanted! I am in your debt. Here is the scroll of Tashania that was promised to you.
 
 
- **You receive:**  [Spell: Tashania](/item/15678) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15678" data-url="15678" class="tooltip-link link">Spell: Tashania</a> (+20000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Coin of Tash](/item/10790)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/10790" data-url="10790" class="tooltip-link link">Coin of Tash</a>) then 
 
 
 >**Romar Sunto says:** The Coin of Tash. It is of no use to me like this. You must take the coin to Tarn Visilin in High Keep to get it enchanted.
 
 
- **You receive:**  [Coin of Tash](/item/10790) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/10790" data-url="10790" class="tooltip-link link">Coin of Tash</a> 
+
+ 
 
 elseif **Faction** >= Indifferent and  **You turn in:** gold = 50) then 
 
@@ -114,12 +127,15 @@ e.other:Say("Once you combine the coins within the pouch, you must take the Coin
 
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Tome of Tesh](/item/18032) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18032" data-url="18032" class="tooltip-link link">Tome of Tesh</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

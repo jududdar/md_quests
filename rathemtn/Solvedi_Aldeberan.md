@@ -22,13 +22,18 @@ local text = "Impressive, do you have the rest?";
 
 
 
-if( **You turn in:** [A Giant Laceless Sandal](/item/9352), [Lionhide Backpack](/item/17350)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_761.png" alt="" /> <a
+                                href="/item/9352" data-url="9352" class="tooltip-link link">A Giant Laceless Sandal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_884.png" alt="" /> <a
+                                href="/item/17350" data-url="17350" class="tooltip-link link">Lionhide Backpack</a>) then
 
 
 >**Solvedi Aldeberan says:** You are now a respected ally of the Unkempt. Wield this with pride.
 
 
- **You receive:**  [Solvedi Scimitar](/item/5378) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5378" data-url="5378" class="tooltip-link link">Solvedi Scimitar</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

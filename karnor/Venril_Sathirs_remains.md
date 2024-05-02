@@ -21,7 +21,8 @@ end
 
 
 
-if( **You turn in:** [Summoned: Firefly Globe](/item/10295)) then
+if( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10295" data-url="10295" class="tooltip-link link">Summoned: Firefly Globe</a>) then
 
 
 >*Venril Sathirs remains grasps the glowing sphere of fireflies from your hands. Tendrils of mystical energy begin to flow forth from the swarm of glowing insects like tiny fingers. The glowing tendrils begin to reach into the ribcage of the rotting remains of Venril Sathir, coalescing into the form of an iksar ghost.*

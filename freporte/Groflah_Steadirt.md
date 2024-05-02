@@ -39,30 +39,44 @@ local Tumpy_Tonic = 0;
 
 
 
-if( **You turn in:** [A tattered flier](/item/18818)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18818" data-url="18818" class="tooltip-link link">A tattered flier</a>) then
 
 
 >**Groflah Steadirt says:** This used to be hanging in Zimel's Blades. It is the price list. It is badly faded though. There was a fire in Zimel's Blades and I was on the scene just afterward. I did not see this hanging. I wonder who took it . . . Hmmmm.. oh, yes.. the markings on the list! It is a code! Here. I will fill it in. Read it. You probably do not even know who Ariska is.
 
 
- **You receive:**  [A tattered flier](/item/18819) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18819" data-url="18819" class="tooltip-link link">A tattered flier</a> 
 
-elseif( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>) then
 
 
 Tumpy_Tonic = 4;
 
-elseif( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>) then
 
 
 Tumpy_Tonic = 3;
 
-elseif( **You turn in:** [Tumpy Tonic](/item/12114), [Tumpy Tonic](/item/12114)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>) then
 
 
 Tumpy_Tonic = 2;
 
-elseif( **You turn in:** [Tumpy Tonic](/item/12114)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>) then
 
 
 Tumpy_Tonic = 1;
@@ -80,23 +94,25 @@ repeat
 
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (10)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (10)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (10)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (7)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+7</span>)
 
 
 
- **You receive:** 0 (+15 exp)
+ &#127873; **You receive:** 0 (+15 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

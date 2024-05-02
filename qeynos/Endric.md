@@ -32,7 +32,8 @@ end
 
 
 
-if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1149.png" alt="" /> <a
+                                href="/item/13713" data-url="13713" class="tooltip-link link">A Small Tattered Dress</a>) then
 
 
 >**Endric says:** Yes,  I do believe this was the child's dress.  Here, take this as your share of the reward.  Her father will be heartbroken..
@@ -43,21 +44,26 @@ if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Hematite](/item/10018), [Hematite](/item/10018), [Golden Ear Stud](/item/10320)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/10018" data-url="10018" class="tooltip-link link">Hematite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/10018" data-url="10018" class="tooltip-link link">Hematite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/10320" data-url="10320" class="tooltip-link link">Golden Ear Stud</a>) (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

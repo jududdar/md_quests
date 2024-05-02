@@ -38,7 +38,10 @@ end
 
 
 
-if( **You turn in:** [Efreeti Statuette](/item/20951), [Mithril  Air Ring](/item/20747), [Box of Winds](/item/20748)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/20951" data-url="20951" class="tooltip-link link">Efreeti Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_544.png" alt="" /> <a
+                                href="/item/20747" data-url="20747" class="tooltip-link link">Mithril  Air Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/20748" data-url="20748" class="tooltip-link link">Box of Winds</a>) then
 
 
 
@@ -50,12 +53,17 @@ if( **You turn in:** [Efreeti Statuette](/item/20951), [Mithril  Air Ring](/item
 >**Abec Ianor says:** Excellent! Take this.
 
 
- **You receive:**  [Solidate Mithril Ring](/item/11686) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_872.png" alt="" /> <a
+                                href="/item/11686" data-url="11686" class="tooltip-link link">Solidate Mithril Ring</a> (+100000 exp)
+
+ 
 
 
 **Abec Ianor despawns.**
 
-elseif( **You turn in:** [White-tipped Spiroc Feather](/item/20958), [Pulsating Sapphire](/item/20749), [Amethyst Amulet](/item/20750)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/20749" data-url="20749" class="tooltip-link link">Pulsating Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/20750" data-url="20750" class="tooltip-link link">Amethyst Amulet</a>) then
 
 
 
@@ -66,19 +74,29 @@ elseif( **You turn in:** [White-tipped Spiroc Feather](/item/20958), [Pulsating 
 >**Abec Ianor says:** Excellent! Take this.
 
 
- **You receive:**  [Amulet of the Void](/item/27710) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/27710" data-url="27710" class="tooltip-link link">Amulet of the Void</a> (+100000 exp)
+
+ 
 
 
 **Abec Ianor despawns.**
 
-elseif( **You turn in:** [Efreeti War Staff](/item/20753), [Lush Nectar](/item/20965), [Copper Air Band](/item/20751), [Large Sky Sapphire](/item/20752)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/20753" data-url="20753" class="tooltip-link link">Efreeti War Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20965" data-url="20965" class="tooltip-link link">Lush Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/20751" data-url="20751" class="tooltip-link link">Copper Air Band</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_965.png" alt="" /> <a
+                                href="/item/20752" data-url="20752" class="tooltip-link link">Large Sky Sapphire</a>) then
 
 
 
 >**Abec Ianor says:** Excellent! Take this.
 
 
- **You receive:**  [Nargon's Staff](/item/11685) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/11685" data-url="11685" class="tooltip-link link">Nargon's Staff</a> (+100000 exp)
+
+ 
 
 
 **Abec Ianor despawns.**

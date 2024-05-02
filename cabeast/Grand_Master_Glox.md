@@ -55,41 +55,43 @@ local text1 = "sits, his eyes still closed, and tilts his head in confusion. He 
 
 
 
-if( **You turn in:** [Guild Summons](/item/18204)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18204" data-url="18204" class="tooltip-link link">Guild Summons</a>) then 
 
 
 >*Grand Master Glox 'breaks his meditation and quickly grabs your forearms. You feel the raw power in his heavily callused hands. Out of nowhere, his tail sweeps forward and places a shackle upon your wrist. He then points south towards Master Bain and returns to his meditation.'*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (200)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+200</span>)
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (50)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+50</span>)
 
 
 
 
 
 
- **You receive:**  [Shackle of Dust](/item/4190) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/4190" data-url="4190" class="tooltip-link link">Shackle of Dust</a> (+1000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Illegible Note: Helm](/item/14788)) then
-
-
->*Grand Master Glox sits whispering incoherently for a long moment before even regarding the note you dropped in front of him. The Grand Master suddenly snatches up the note from Xlixinar, removes a small charcoal marker from a belt pouch, and scrawls some intructions upon it. He drops the note immediately after finishing and resumes his meditation without a word.*
-
-
- **You receive:**  [Note from Glox](/item/18980) 
-
-elseif( **You turn in:** [a Tiny Collar](/item/14782), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/14782" data-url="14782" class="tooltip-link link">a Tiny Collar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >*Grand Master Glox nods slightly*
 
 
- **You receive:**  [Glox Reference](/item/14783) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/14783" data-url="14783" class="tooltip-link link">Glox Reference</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

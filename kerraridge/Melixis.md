@@ -64,29 +64,41 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Guk Bracket Mildew](/item/14042)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1196.png" alt="" /> <a
+                                href="/item/14042" data-url="14042" class="tooltip-link link">Guk Bracket Mildew</a>) then
 
 
 >**Melixis says:** Many thanks... rrrr... here is dull ring.
 
 
- **You receive:**  [Copper Ring](/item/13733) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/13733" data-url="13733" class="tooltip-link link">Copper Ring</a> 
 
-elseif **Faction** >= Dubious and  **You turn in:** [Faerix Spores](/item/14043)) then
+ 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1201.png" alt="" /> <a
+                                href="/item/14043" data-url="14043" class="tooltip-link link">Faerix Spores</a>) then
 
 
 >**Melixis says:** Melixis thanks you, Hamed will be pleased. A kinda shiny ring is yours.
 
 
- **You receive:**  [Silver Ring](/item/13731) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/13731" data-url="13731" class="tooltip-link link">Silver Ring</a> 
 
-elseif **Faction** >= Dubious and  **You turn in:** [Degenerated Guk Weed](/item/14044)) then
+ 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1233.png" alt="" /> <a
+                                href="/item/14044" data-url="14044" class="tooltip-link link">Degenerated Guk Weed</a>) then
 
 
 >**Melixis says:** You done good job, furless one. Here is really shiny ring. Rarr...
 
 
- **You receive:**  [Gold Ring](/item/13732) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/13732" data-url="13732" class="tooltip-link link">Gold Ring</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

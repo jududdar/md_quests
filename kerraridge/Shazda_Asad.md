@@ -38,28 +38,36 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Emissary Head](/item/12319)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_986.png" alt="" /> <a
+                                href="/item/12319" data-url="12319" class="tooltip-link link">Emissary Head</a>) then
 
 
 >**Shazda Asad says:** Excellent work, young ayyar! You have proven your willingness to dispose of the enemies of our tribe, now you must face one of their most murderous sentries! Bring me the head of Sentinel Creot and I shall induct you into our sejah!
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (20)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+20</span>)
 
 
 
- **You receive:**  [Kejaar Totem](/item/10343) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/10343" data-url="10343" class="tooltip-link link">Kejaar Totem</a> (+5000 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Sentinel Creot's Head](/item/12438)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 6 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_986.png" alt="" /> <a
+                                href="/item/12438" data-url="12438" class="tooltip-link link">Sentinel Creot's Head</a>) then
 
 
 >**Shazda Asad says:** You have proven your devotion to our cause and defeated one of the greatest threats to our people. I welcome you into the Kerran Sejah. Wear this bracer as a symbol of your station in the Kerran tribes.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (55)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+55</span>)
 
 
- **You receive:**  [Sejah Ghulam Bracer](/item/3147) (+6500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/3147" data-url="3147" class="tooltip-link link">Sejah Ghulam Bracer</a> (+6500 exp)
+
+**You receive coin:** 5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

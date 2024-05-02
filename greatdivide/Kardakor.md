@@ -43,7 +43,9 @@ end
 
 
 
-if( **You turn in:** [An old worn Talisman](/item/1861), [Head of the Taskmaster](/item/1862)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1861" data-url="1861" class="tooltip-link link">An old worn Talisman</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/1862" data-url="1862" class="tooltip-link link">Head of the Taskmaster</a>) then
 
 
 if( **Faction is** >= Kindly) then
@@ -58,19 +60,22 @@ if( **Faction is** >= Kindly) then
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (50)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+50</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (12)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+12</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-25)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-25</span>)
 
 
 
- **You receive:**  [An old worn Talisman](/item/1861) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1861" data-url="1861" class="tooltip-link link">An old worn Talisman</a> (+50000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

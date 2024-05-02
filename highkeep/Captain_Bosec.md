@@ -200,25 +200,35 @@ local ear = 0;
 
 
 
-if( **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>) then
 
 
 
 ear = 4;
 
-elseif( **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>) then
 
 
 
 ear = 3;
 
-elseif( **You turn in:** [Left Goblin Ear](/item/13790), [Left Goblin Ear](/item/13790)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>) then
 
 
 
 ear = 2;
 
-elseif( **You turn in:** [Left Goblin Ear](/item/13790)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_793.png" alt="" /> <a
+                                href="/item/13790" data-url="13790" class="tooltip-link link">Left Goblin Ear</a>) then
 
 
 
@@ -243,32 +253,27 @@ repeat
 
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (2)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (1)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (1)
-
-
-
-
-
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+1</span>)
 
 
 
@@ -284,7 +289,14 @@ repeat
 
 
 
- **You receive:** 0 (+2500 exp)
+
+
+
+
+
+ &#127873; **You receive:** 0 (+2500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

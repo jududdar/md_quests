@@ -91,18 +91,25 @@ local text = "I am expecting pages one through four. Do I have to go and find th
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [An Illegible Note](/item/12854), [An Illegible Note](/item/12855), [An Illegible Note](/item/12856), [An Illegible Note](/item/12857)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12854" data-url="12854" class="tooltip-link link">An Illegible Note</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12855" data-url="12855" class="tooltip-link link">An Illegible Note</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12856" data-url="12856" class="tooltip-link link">An Illegible Note</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12857" data-url="12857" class="tooltip-link link">An Illegible Note</a>) then
 
 
 >**Keeper Rott says:** Oh, great necromancer, how can I repay you?!! I know. Here is a spell I recently researched. It should help you increase the strength of a summoned pet. Learn it well.
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (3)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Intensify Death](/item/16426) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/16426" data-url="16426" class="tooltip-link link">Spell: Intensify Death</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

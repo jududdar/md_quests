@@ -98,7 +98,10 @@ local questState = tonumber(eq.get_qglobals(e.other).pov_orb_quest or 0);
 
 
 
-if (  **You turn in:** [A piece of the crystalline globe](/item/25796), [A piece of the crystalline globe](/item/25797), [A piece of the crystalline globe](/item/25798)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/25796" data-url="25796" class="tooltip-link link">A piece of the crystalline globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/25797" data-url="25797" class="tooltip-link link">A piece of the crystalline globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/25798" data-url="25798" class="tooltip-link link">A piece of the crystalline globe</a>  ) then 
 
 
 
@@ -115,7 +118,10 @@ if ( questState == 6 ) then
 
 
 
- **You receive:**  [A Crystalline Globe](/item/25596) (+1 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/25596" data-url="25596" class="tooltip-link link">A Crystalline Globe</a> (+1 exp)
+
+ 
 
 
 else

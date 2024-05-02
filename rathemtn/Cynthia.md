@@ -38,13 +38,17 @@ end
 
 
 
-if( **You turn in:** [A Shining Stone](/item/10085), gold = 50) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10085" data-url="10085" class="tooltip-link link">A Shining Stone</a>, gold = 50) then
 
 
 >**Cynthia says:** I've done what I can to enchant your stone, but you will need to find Tarn Visilin in Highpass Keep to finish the enchantments.  Don't forget to pay him the same fee you gave me, or he may decide to keep the stone for himself!
 
 
- **You receive:**  [A Glamour Stone](/item/10086) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10086" data-url="10086" class="tooltip-link link">A Glamour Stone</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

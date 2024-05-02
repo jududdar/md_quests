@@ -14,7 +14,8 @@ end
 
 
 
-if( **You turn in:** [Official Seal of the Khati Sha](/item/9031)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/9031" data-url="9031" class="tooltip-link link">Official Seal of the Khati Sha</a>) then
 
 
 >**Scout Ahlikal says:** Well met, I'm glad that you made it! This jungle is oppressive, with its dank earth and dark canopy. The sooner you dispatch that spirit, the sooner we can both make our way out of this vile place. Move towards the ruins that lie about two hundred feet from here. The spirit will be there. Release it from its current form and return the totem to me. I will wrap it for you, so that you may place it in the container that you should have been given. Take care and be swift!

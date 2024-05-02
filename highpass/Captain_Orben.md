@@ -193,25 +193,35 @@ local scalp = 0;
 
 
 
-if( **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>) then
 
 
 
 scalp = 4;
 
-elseif( **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>) then
 
 
 
 scalp = 3;
 
-elseif( **You turn in:** [Gnoll Scalp](/item/13792), [Gnoll Scalp](/item/13792)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>) then
 
 
 
 scalp = 2;
 
-elseif( **You turn in:** [Gnoll Scalp](/item/13792)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/13792" data-url="13792" class="tooltip-link link">Gnoll Scalp</a>) then
 
 
 
@@ -236,32 +246,34 @@ repeat
 
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (5)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (2)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (2)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (2)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+2</span>)
 
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (2)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+2</span>)
 
 
 
 
- **You receive:** 0 (+2500 exp)
+ &#127873; **You receive:** 0 (+2500 exp)
+
+**You receive coin:** 0-1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

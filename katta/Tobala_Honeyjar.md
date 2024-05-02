@@ -28,7 +28,10 @@
 >**Tobala Honeyjar says:** How humble of you to assist me with my mundane tasks! Take this bag and fill it with Three piles of Owlbear Dung, Three Piles of Fungus Compost, and Two Piles of Netherbian Nitrate.
 
 
- **You receive:**  [Empty Fertilizer Bag](/item/17870) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/17870" data-url="17870" class="tooltip-link link">Empty Fertilizer Bag</a> 
+
+ 
 
 **You say:** `rare plants`
 
@@ -43,38 +46,49 @@ end
 
 
 
-if( **You turn in:** [Full Fertilizer Bag](/item/31779)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/31779" data-url="31779" class="tooltip-link link">Full Fertilizer Bag</a>) then
 
 
 >**Tobala Honeyjar says:** Oh! Thank you so much! You have saved much time and trouble! Now if only those tinkerers in the Illuminarium Industria could figure out how to get that artificial light working!
 
 
-* __Faction:__ [Concilium Universus](/faction/1561) (2)
+Your faction standing with [Concilium Universus](/faction/1561) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Midnight Tangelo](/item/12809) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/12809" data-url="12809" class="tooltip-link link">Midnight Tangelo</a> (+500 exp)
 
-elseif( **You turn in:** [Twilight Orchid](/item/14936), [Dawnflower Seeds](/item/14931), [Red Sands Cactus](/item/14952), [Letalis Zenith Vine](/item/14953)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_721.png" alt="" /> <a
+                                href="/item/14936" data-url="14936" class="tooltip-link link">Twilight Orchid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_773.png" alt="" /> <a
+                                href="/item/14931" data-url="14931" class="tooltip-link link">Dawnflower Seeds</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1200.png" alt="" /> <a
+                                href="/item/14952" data-url="14952" class="tooltip-link link">Red Sands Cactus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1197.png" alt="" /> <a
+                                href="/item/14953" data-url="14953" class="tooltip-link link">Letalis Zenith Vine</a>) then
 
 
 >**Tobala Honeyjar says:** Oh! Thank you so much! You have saved much time and trouble! Now if only those tinkerers in the Illuminarium Industria could figure out how to get that artificial light working!
 
 
-* __Faction:__ [Concilium Universus](/faction/1561) (2)
+Your faction standing with [Concilium Universus](/faction/1561) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Foraging Machette](/item/10695) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/10695" data-url="10695" class="tooltip-link link">Foraging Machette</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

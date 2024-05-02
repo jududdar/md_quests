@@ -53,16 +53,22 @@ end
 
 
 
-if( **You turn in:** [Mechanical Pen](/item/10600), [Ink of the Dark](/item/10601), [White Paper](/item/10602)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/10600" data-url="10600" class="tooltip-link link">Mechanical Pen</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_697.png" alt="" /> <a
+                                href="/item/10601" data-url="10601" class="tooltip-link link">Ink of the Dark</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/10602" data-url="10602" class="tooltip-link link">White Paper</a>) then
 
 
 >**Stofo Olan says:** Yes, that is what I wanted. Here, take these notes. My teacher will be very interested if he is shown what I have found.
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Copy of Notes](/item/10603) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/10603" data-url="10603" class="tooltip-link link">Copy of Notes</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

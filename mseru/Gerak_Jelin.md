@@ -20,5 +20,6 @@
 >**Gerak Jelin says:** Yeah, it looks grim to anyone in this awful place. I wrote her this letter when I found out that I was being exiled, but did not get a chance to give it to her. If you want to risk it, you can take it to her. Make no mention it is from me. She is loyal to the city and would not want to be cast out because of me.
 
 
-**You receive:**  [Tattered Letter](/item/6269)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/6269" data-url="6269" class="tooltip-link link">Tattered Letter</a>
 end

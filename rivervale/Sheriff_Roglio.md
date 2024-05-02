@@ -60,54 +60,65 @@ end
 
 
 
-if( **You turn in:** [Recruitment Summons](/item/18733)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18733" data-url="18733" class="tooltip-link link">Recruitment Summons</a>) then 
 
 
 >**Sheriff Roglio says:** Welcome to the Guardians of the Vale. I'm Roglio Bruth, and I run this proud little outfit. You seem to be of hearty stock, let's put you to work. Here's your guild tunic - hope it fits. Start your training right away.  Speak with the marshals of this guild.
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (100)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (15)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (10)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (15)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-15)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Old Tan Tunic*](/item/13540) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13540" data-url="13540" class="tooltip-link link">Old Tan Tunic*</a> (+20 exp)
 
-elseif( **You turn in:**  { [RunnyEye Warbeads](/item/13931)}, 4) > 0
+ 
+
+elseif( **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>}, 4) > 0
 
 
 >**Sheriff Roglio says:** Good work, Deputy Soandso! We shall soon rid our countryside of the goblin threat. Here are your wages. Eat well tonight!
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (1)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-1)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Tagglefoot Tingle Drink](/item/13024) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_717.png" alt="" /> <a
+                                href="/item/13024" data-url="13024" class="tooltip-link link">Tagglefoot Tingle Drink</a> (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
- **You receive:**  [Bixie Berry Buns](/item/13023) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1021.png" alt="" /> <a
+                                href="/item/13023" data-url="13023" class="tooltip-link link">Bixie Berry Buns</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

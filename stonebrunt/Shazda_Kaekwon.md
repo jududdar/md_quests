@@ -49,7 +49,8 @@ if **Faction** >= Dubious +300 then
 
 
 
-**You receive:**  [Burlap Satchel](/item/17883)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17883" data-url="17883" class="tooltip-link link">Burlap Satchel</a>
 
 
 else
@@ -84,32 +85,43 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Satchel of Heretic Heads](/item/6969)) then
+if **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/6969" data-url="6969" class="tooltip-link link">Satchel of Heretic Heads</a>) then
 
 
 >**Shazda Kaekwon says:** Less heretics to defile the lands and spirits. You have the gratitude of Kejek for your assistance in repelling the heretic threat.
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (8)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+8</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Kejekan Tribal Headband](/item/6955), [Swiftclaw Sash](/item/6953)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/6955" data-url="6955" class="tooltip-link link">Kejekan Tribal Headband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_938.png" alt="" /> <a
+                                href="/item/6953" data-url="6953" class="tooltip-link link">Swiftclaw Sash</a>) (+5000 exp)
 
-elseif **Faction** >= Dubious +300 and  **You turn in:** [Kobold Head](/item/6968)) then
+**You receive coin:** 1-3 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/6968" data-url="6968" class="tooltip-link link">Kobold Head</a>) then
 
 
 >**Shazda Kaekwon says:** By slaying Rognarog you have spared the lives of those who would have crossed his path. I thank you for your assistance, the spirits have noticed your actions and are pleased.
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (3)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Titan Blessed Tanto](/item/6982), [Titan Blessed Tachi](/item/6983), [Titan Blessed Bokken](/item/6984)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/6982" data-url="6982" class="tooltip-link link">Titan Blessed Tanto</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1169.png" alt="" /> <a
+                                href="/item/6983" data-url="6983" class="tooltip-link link">Titan Blessed Tachi</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1189.png" alt="" /> <a
+                                href="/item/6984" data-url="6984" class="tooltip-link link">Titan Blessed Bokken</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

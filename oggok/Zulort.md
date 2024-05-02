@@ -77,39 +77,57 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187), [Froglok Tadpole Flesh](/item/13187)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13187" data-url="13187" class="tooltip-link link">Froglok Tadpole Flesh</a>) then
 
 
 >**Zulort says:** Oh, me.. um.. Warlord BERRY happy. Berry like dese. Gimme. Uh, why is you still here? Take dis and gets more kills. You learning good, come sees me. I teaches you bout stuff. Make you [bedder shaman]. Go. He and me watching.
 
 
-* __Faction:__ [Shamen of War](/faction/394) (5)
+Your faction standing with [Shamen of War](/faction/394) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Spell: Burst of Flame](/item/15093) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15093" data-url="15093" class="tooltip-link link">Spell: Burst of Flame</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent +50 and  **You turn in:** [Allize Volew Medicine Bag](/item/14199), [Mystic Doll](/item/13367), [Mystic Doll](/item/13367), [Mystic Doll](/item/13367)) then
+ 
+
+elseif **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/14199" data-url="14199" class="tooltip-link link">Allize Volew Medicine Bag</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a>) then
 
 
 >**Zulort says:** Dis good stuff! Me and Warlord happy! Wear dis symbol and he make yoo strong with majik!
 
 
-* __Faction:__ [Shamen of War](/faction/394) (5)
+Your faction standing with [Shamen of War](/faction/394) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Initiate Symbol of Rallos Zek](/item/1444) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1444" data-url="1444" class="tooltip-link link">Initiate Symbol of Rallos Zek</a> (+1000 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18788)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18788" data-url="18788" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Zulort says:** Take, take.. You now Shaman of War.. Zulort make you majik, too.
 
 
-* __Faction:__ [Shamen of War](/faction/394) (100)
+Your faction standing with [Shamen of War](/faction/394) got better (<span class='text-success'>+100</span>)
 
 
 
- **You receive:**  [Dirty Patched Fur Tunic*](/item/13526) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13526" data-url="13526" class="tooltip-link link">Dirty Patched Fur Tunic*</a> (+20 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

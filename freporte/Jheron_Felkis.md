@@ -19,7 +19,8 @@ end
 
 
 
-if( **You turn in:** [Tesch Val Compilation](/item/18508)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18508" data-url="18508" class="tooltip-link link">Tesch Val Compilation</a>) then 
 
 
 
@@ -28,7 +29,10 @@ if( **You turn in:** [Tesch Val Compilation](/item/18508)) then
 >**Jheron Felkis says:** So you are from Umvera! What is this? Oh my! INtersting! I'll bind them right away! A little snip here..a little snip there.. All done! That didn't take long, did it? I won't be doing this forever, you know. After the milita burned down my father's home, he could not afford to send me through proper schooling. Ah well, such is life!
 
 
- **You receive:**  [Pawbook](/item/18510) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18510" data-url="18510" class="tooltip-link link">Pawbook</a> (+2500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

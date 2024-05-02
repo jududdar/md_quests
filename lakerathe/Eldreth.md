@@ -44,7 +44,10 @@ local text = "looks at you, obviously expecting more. Did you forget the milk?";
 
 
 
-if( **You turn in:** [Bottle of Milk](/item/13087), [Bottle of Milk](/item/13087), [Combined Parchment](/item/28012), platinum = 100) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13087" data-url="13087" class="tooltip-link link">Bottle of Milk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13087" data-url="13087" class="tooltip-link link">Bottle of Milk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/28012" data-url="28012" class="tooltip-link link">Combined Parchment</a>, platinum = 100) then
 
 
 
@@ -52,23 +55,26 @@ if( **You turn in:** [Bottle of Milk](/item/13087), [Bottle of Milk](/item/13087
 
 
 
-* __Faction:__ [Order of Three](/faction/342) (400)
+Your faction standing with [Order of Three](/faction/342) got better (<span class='text-success'>+400</span>)
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-100)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-100</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (60)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+60</span>)
 
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-60)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-60</span>)
 
 
 
- **You receive:**  [Scribbled Parchment](/item/28053) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/28053" data-url="28053" class="tooltip-link link">Scribbled Parchment</a> (+500 exp)
+
+ 
 
 
 

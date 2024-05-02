@@ -50,7 +50,8 @@ if(fac < 5) then
 
 
 
-**You receive:**  [Chest of Faith](/item/17925)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17925" data-url="17925" class="tooltip-link link">Chest of Faith</a>
 
 
 elseif(fac == 5) then
@@ -101,7 +102,8 @@ if(fac < 5) then
 
 
 
-**You receive:**  [Beetle Eye Chest](/item/17934)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17934" data-url="17934" class="tooltip-link link">Beetle Eye Chest</a>
 
 
 elseif(fac == 5) then
@@ -183,7 +185,8 @@ if( **You turn in:** gold = 20 and (fac < 5)) then
 
 e.other:SelfCast(11);
 
-elseif( **You turn in:** [Beetle Eye Chest](/item/13395)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/13395" data-url="13395" class="tooltip-link link">Beetle Eye Chest</a>) then 
 
 
 >**Daedet Losaren says:** You have done well. Karana is pleased. I cannot say the same for the cat people. I now bestow upon you the knowledge of Holy Armor. Study the words and soon the power shall be bestowed upon you by the greatness that is the Rainkeeper.
@@ -192,21 +195,25 @@ elseif( **You turn in:** [Beetle Eye Chest](/item/13395)) then
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Spell: Holy Armor](/item/15011) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15011" data-url="15011" class="tooltip-link link">Spell: Holy Armor</a> (+200 exp)
 
-elseif( **You turn in:** [Chest of Faith](/item/13289)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13289" data-url="13289" class="tooltip-link link">Chest of Faith</a>) then 
 
 
 >**Daedet Losaren says:** You have done supremely well, my young acolyte of Thunder. For your great service to the Temple of Thunder. Now go and cast the storm into the populace of Antonica.
@@ -215,18 +222,21 @@ elseif( **You turn in:** [Chest of Faith](/item/13289)) then
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Spell: Ward Undead](/item/15218) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15218" data-url="15218" class="tooltip-link link">Spell: Ward Undead</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

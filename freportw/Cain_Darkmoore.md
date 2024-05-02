@@ -43,7 +43,8 @@ end
 
 
 
-local count =  **You turn in:**  { [Deathfist Slashed Belt](/item/13916)}, 2
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13916" data-url="13916" class="tooltip-link link">Deathfist Slashed Belt</a>}, 2
 
 if(count > 0) then
 
@@ -56,27 +57,29 @@ repeat
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (5)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+17750 exp)
+ &#127873; **You receive:** 0 (+17750 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
@@ -85,28 +88,32 @@ count = count - 1;
 
 until count == 0;
 
-elseif( **You turn in:** [A tattered note](/item/18748)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18748" data-url="18748" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Cain Darkmoore says:** Welcome to the Steel Warriors, young warrior. It is time to prove your mettle. Look to the outskirts of Freeport and join the fray. Show Clan Deathfist what a warrior of the bunker can do.
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (100)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (20)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-15)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-15)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (20)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Dirty Training Tunic*](/item/13572) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13572" data-url="13572" class="tooltip-link link">Dirty Training Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

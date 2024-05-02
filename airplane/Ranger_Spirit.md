@@ -20,7 +20,8 @@
 >**Ranger Spirit says:** Relinin Skyrunner, you say. True to Tunare is she.  Take this book and read it. When you feel you know it well, return it and Relinin will appear to test you.
 
 
-**You receive:**  [Sisters and Life](/item/18546)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18546" data-url="18546" class="tooltip-link link">Sisters and Life</a>
 
 **You say:** `gordon`
 
@@ -29,14 +30,16 @@
 >**Ranger Spirit says:** Ahhh, Gordon Treecaller.  Many say he is the finest swordsman ever. Read of his tale and return the book when you are finished.
 
 
-**You receive:**  [The Mother](/item/18547)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18547" data-url="18547" class="tooltip-link link">The Mother</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Sisters and Life](/item/18546)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18546" data-url="18546" class="tooltip-link link">Sisters and Life</a>) then 
 
 
 >**Ranger Spirit says:** Relinin Skyrunner, I summon thee.
@@ -47,7 +50,8 @@ if( **You turn in:** [Sisters and Life](/item/18546)) then
 
 **Ranger Spirit despawns.**
 
-elseif( **You turn in:** [The Mother](/item/18547)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18547" data-url="18547" class="tooltip-link link">The Mother</a>) then 
 
 
 >**Ranger Spirit says:** Gordon Treecaller, I summon thee.

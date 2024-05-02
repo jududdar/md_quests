@@ -236,48 +236,71 @@ local text4 = "Oh yea.. this will be the finest snake fang necklace I've ever ma
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [a piece of Rat Fur](/item/13064), [a piece of Rat Fur](/item/13064), gold = 3) then 
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13064" data-url="13064" class="tooltip-link link">a piece of Rat Fur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13064" data-url="13064" class="tooltip-link link">a piece of Rat Fur</a>, gold = 3) then 
 
 
 >**Menkes Tabolet says:** Hey. look at this. some of my best work, if I do say so myself. Enjoy, and tell your friends
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (2)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Rat Fur Cap](/item/1050) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/1050" data-url="1050" class="tooltip-link link">Rat Fur Cap</a> (+200 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054),gold = 4) then
+ 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>,gold = 4) then
 
 
 >**Menkes Tabolet says:** This cape turned out great. It'll sure help keep you warm on those cold and stormy nights out in the Karanas.
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (5)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Rat Pelt Cape](/item/1051) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/1051" data-url="1051" class="tooltip-link link">Rat Pelt Cape</a> (+200 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Snake Fang](/item/13067), [Snake Fang](/item/13067), [Snake Fang](/item/13067),gold = 2) then
+ 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/13067" data-url="13067" class="tooltip-link link">Snake Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/13067" data-url="13067" class="tooltip-link link">Snake Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/13067" data-url="13067" class="tooltip-link link">Snake Fang</a>,gold = 2) then
 
 
 >**Menkes Tabolet says:** Hey, hey.. with this little baby, you will be the talk of the town tonight!
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (5)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Snake Fang Necklace](/item/1052) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_502.png" alt="" /> <a
+                                href="/item/1052" data-url="1052" class="tooltip-link link">Snake Fang Necklace</a> (+200 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Rat Foot](/item/13065), [Rat Whiskers](/item/13071), [Honey Mead](/item/13033)) then
+ 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/13065" data-url="13065" class="tooltip-link link">Rat Foot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/13071" data-url="13071" class="tooltip-link link">Rat Whiskers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13033" data-url="13033" class="tooltip-link link">Honey Mead</a>) then
 
 
 >**Menkes Tabolet says:** Now this here has got to be one of my best works.. I dare you to find someone who can make a higher quality necklace than this one! Enjoy, my good friend!
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (5)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Rats Foot Necklace](/item/1053) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1053" data-url="1053" class="tooltip-link link">Rats Foot Necklace</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

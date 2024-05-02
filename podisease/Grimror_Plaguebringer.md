@@ -59,7 +59,11 @@ local text = "Grimror not thupeed! Dis not four!";
 
 
 
-if( **You turn in:** [Sengian Larvae Flesh](/item/9290), [Generian Larvae Flesh](/item/9291), [Scaevian Larvae Flesh](/item/9292), [Harrion Larvae Flesh](/item/9293)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1222.png" alt="" /> <a
+                                href="/item/9290" data-url="9290" class="tooltip-link link">Sengian Larvae Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1222.png" alt="" /> <a
+                                href="/item/9291" data-url="9291" class="tooltip-link link">Generian Larvae Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1222.png" alt="" /> <a
+                                href="/item/9292" data-url="9292" class="tooltip-link link">Scaevian Larvae Flesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1222.png" alt="" /> <a
+                                href="/item/9293" data-url="9293" class="tooltip-link link">Harrion Larvae Flesh</a>) then
 
 
 >**Grimror Plaguebringer says:** Yuuz dun guud! But Grimror keent geeve you anyting, but Grimror have dis. Grimror also have seekret information. Krypt of Deekay in in here. Dunt tink yuuz wanna go in dere. Dere be mean old rotten keengs in dere, yuuz dunt want ta mess wif dem, dere also be udder sortz uf baddies in dere, be carefuul if yuuz goin dat way. I hurd stories dat Bertoshulus es in dere too, Grimror even saw him in here one time. In dis place yuuz only gots ta worry about Grummus, him fatter dan Grimror, got theek skin too. Him have key ta get inna de Krypt,but Grimror knew da seekret way een. Dat bracer keen make da portil into de Krypt tink dat yuuz belongz dere. Guud barshin!
@@ -76,7 +80,10 @@ if( **You turn in:** [Sengian Larvae Flesh](/item/9290), [Generian Larvae Flesh]
 
 
 
- **You receive:**  [Bangle of Disease Warding](/item/9294) (+1 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1057.png" alt="" /> <a
+                                href="/item/9294" data-url="9294" class="tooltip-link link">Bangle of Disease Warding</a> (+1 exp)
+
+ 
 
 
 

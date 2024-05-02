@@ -19,25 +19,29 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18729)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18729" data-url="18729" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Lanken Rjarn says:** Welcome to the Craft Keepers! You have much to learn, and I'm sure you are anxious to get started. Here's your training robe. Go see Nolusia, she'll give you your first lesson.
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (100)
+Your faction standing with [Craftkeepers](/faction/231) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (10)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-15)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (15)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Old Patched Robe*](/item/13549) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_941.png" alt="" /> <a
+                                href="/item/13549" data-url="13549" class="tooltip-link link">Old Patched Robe*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

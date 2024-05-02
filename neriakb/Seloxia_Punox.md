@@ -52,7 +52,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Sealed Letter](/item/18842)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18842" data-url="18842" class="tooltip-link link">A Sealed Letter</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -78,45 +79,62 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18751)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18751" data-url="18751" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Seloxia Punox says:** I shall reserve any official welcoming until you have proven yourself a suitable member for the Indigo Brotherhood. That proof shall be obtained by your progression in your training. See Yegek B'Larin, one of my most trusted trainers in the Brotherhood and obey his command carefully if you wish to succeed as a member of the Brotherhood.
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (100)
+Your faction standing with [Indigo Brotherhood](/faction/270) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (-15)
+Your faction standing with [Emerald Warriors](/faction/326) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (-5)
+Your faction standing with [Steel Warriors](/faction/311) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-200)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-200</span>)
 
 
- **You receive:**  [Old Training Tunic*](/item/13580) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13580" data-url="13580" class="tooltip-link link">Old Training Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [a sealed letter](/item/18843)) then   
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18843" data-url="18843" class="tooltip-link link">a sealed letter</a>) then   
 
 
 >**Seloxia Punox says:** Very fine work my young warrior. You may soon be ready to become a Teir'Dal courier. For now we shall reward you. This will assist you in further service to the Indigo Brotherhood and King Naythox Thex.
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (10)
+Your faction standing with [Indigo Brotherhood](/faction/270) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (-1)
+Your faction standing with [Emerald Warriors](/faction/326) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (-1)
+Your faction standing with [Steel Warriors](/faction/311) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bronze Short Sword](/item/5026), [Cloth Cap](/item/1001), [Cloth Veil](/item/1002), [Cloth Choker](/item/1003), [Cloth Shirt](/item/1004), [Cloth Shawl](/item/1005), [Rusty Axe](/item/5014), [Rusty Scythe](/item/5015), [Rusty Scimitar](/item/5021), [Bronze Long Sword](/item/5027)) (+250 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5026" data-url="5026" class="tooltip-link link">Bronze Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/1001" data-url="1001" class="tooltip-link link">Cloth Cap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/1002" data-url="1002" class="tooltip-link link">Cloth Veil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/1003" data-url="1003" class="tooltip-link link">Cloth Choker</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/1004" data-url="1004" class="tooltip-link link">Cloth Shirt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1005" data-url="1005" class="tooltip-link link">Cloth Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_579.png" alt="" /> <a
+                                href="/item/5015" data-url="5015" class="tooltip-link link">Rusty Scythe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5021" data-url="5021" class="tooltip-link link">Rusty Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5027" data-url="5027" class="tooltip-link link">Bronze Long Sword</a>) (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

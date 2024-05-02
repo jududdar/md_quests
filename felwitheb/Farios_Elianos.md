@@ -9,7 +9,8 @@
 if ( **Faction is** > Indifferent) then 
 
 
-if( **You turn in:** [Crushed Pot](/item/20457)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/20457" data-url="20457" class="tooltip-link link">Crushed Pot</a>) then
 
 
 
@@ -17,11 +18,15 @@ if( **You turn in:** [Crushed Pot](/item/20457)) then
 
 
 
- **You receive:**  [Grocery List](/item/20458) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/20458" data-url="20458" class="tooltip-link link">Grocery List</a> 
+
+ 
 
 
 
-if( **You turn in:** [Bag of Provisions](/item/20459)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/20459" data-url="20459" class="tooltip-link link">Bag of Provisions</a>) then
 
 
 
@@ -29,7 +34,10 @@ if( **You turn in:** [Bag of Provisions](/item/20459)) then
 
 
 
- **You receive:**  [Receipt](/item/20474) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_867.png" alt="" /> <a
+                                href="/item/20474" data-url="20474" class="tooltip-link link">Receipt</a> 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 3 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

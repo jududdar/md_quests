@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Letter to Bartle Barnick](/item/19629)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19629" data-url="19629" class="tooltip-link link">Letter to Bartle Barnick</a>
 
 
 **You say:** `further instruction`
@@ -47,44 +48,52 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [A tattered note](/item/18734)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18734" data-url="18734" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Hibbs Rootenpaw says:** Hello, friend! I am Hibbs Rootenpaw, leader of the Storm Reapers. Our guild works together with Will Tagglefoot and his family on their farm, to produce the food supply for all of Rivervale. With Karana's help, we have a bountiful harvest every season. We're glad you could help us out. Here's your guild tunic, it'll help keep you dry during the wet months. Go find Reebo out in the fields. He'll help get you started. Welcome aboard! May you serve Karana well.
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (100)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (10)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (15)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-15)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Jumjum Sack Tunic*](/item/13541) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13541" data-url="13541" class="tooltip-link link">Jumjum Sack Tunic*</a> (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Rusbek's Head](/item/19689)) then 
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_992.png" alt="" /> <a
+                                href="/item/19689" data-url="19689" class="tooltip-link link">Rusbek's Head</a>) then 
 
 
 >**Hibbs Rootenpaw says:** Excellent work young Storm Reaper. It is sad that one of our own would resort to such vile acts; his mind must have been twisted by evil desires. Such behavior is practically unheard of among the kind people of Rivervale. Take this dull scimitar and sharpen it in the forge here at the Tagglefoots Farm with a sharpening stone. It may take several attempts if you are unfamiliar with the process. Once that is done give the sharpened scimitar and a large fruit bat wing to Bodbin Gimple and he will put the finishing touches on what will be a fitting scimitar for a Druid of the Storm Reapers.
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (10)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Dull Storm Reaper Scimitar](/item/19626) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/19626" data-url="19626" class="tooltip-link link">Dull Storm Reaper Scimitar</a> (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

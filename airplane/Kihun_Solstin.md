@@ -25,13 +25,19 @@ end
 
 
 
-if( **You turn in:** [Crown of Elemental Mastery](/item/20764), [Elemental Binder](/item/28043), [Pegasus Feather Cloak](/item/2463)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_511.png" alt="" /> <a
+                                href="/item/20764" data-url="20764" class="tooltip-link link">Crown of Elemental Mastery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_511.png" alt="" /> <a
+                                href="/item/28043" data-url="28043" class="tooltip-link link">Elemental Binder</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/2463" data-url="2463" class="tooltip-link link">Pegasus Feather Cloak</a>) then
 
 
 >**Kihun Solstin says:** If you have obtained the other, lesser Elements, go speak with The Master of Elements, who is now waiting for you. I wish you luck. If you have not completed all the tasks set for you, let me know, and I shall let you see the Master.
 
 
- **You receive:**  [Element of Wind](/item/28033) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/28033" data-url="28033" class="tooltip-link link">Element of Wind</a> (+5000 exp)
+
+ 
 
 
 **Spawn NPC:**  [\#Master of Elements](/npc/71040) at (**y:** 1346.3, **x:** 604.5)

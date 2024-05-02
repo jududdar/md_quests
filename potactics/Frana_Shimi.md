@@ -18,5 +18,6 @@
 >**Frana Shimi says:** Fine.  Have them.  When you take these to the Zeks perhaps you could mention how hard I worked on them, and my release could be considered.  I know that my desire to serve Rallos was once great, but I would like for my soul to finally be at rest.
 
 
-**You receive:**  [Advanced Glazeworking](/item/18636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/18636" data-url="18636" class="tooltip-link link">Advanced Glazeworking</a>
 end

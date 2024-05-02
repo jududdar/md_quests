@@ -17,7 +17,8 @@
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
 
 **You say:** `bracer`
 
@@ -29,7 +30,8 @@
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 **You say:** `cap`
 
@@ -41,7 +43,8 @@
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 **You say:** `glove`
 
@@ -53,7 +56,8 @@
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 **You say:** `legging`
 
@@ -65,7 +69,8 @@
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 **You say:** `sleeve`
 
@@ -77,7 +82,8 @@
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 **You say:** `tunic`
 
@@ -89,7 +95,8 @@
 
 
 
-**You receive:**  [Tattered Tunic Pattern](/item/19556)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19556" data-url="19556" class="tooltip-link link">Tattered Tunic Pattern</a>
 
 **You say:** `silk thread`
 
@@ -103,36 +110,46 @@ end
 
 
 
-if( **You turn in:** [Note to Verona Rankin](/item/19846) ) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19846" data-url="19846" class="tooltip-link link">Note to Verona Rankin</a> ) then 
 
 
 >**Verona Rankin says:** Ah, Tovan sent you for a suit of traders clothing. I can instruct you on how to prepare your suit of clothing but you will have to acquire the required materials yourself. Use this Curing Kit to construct the clothing once you have done so. Do you wish to prepare Coalition Trader [Gloves], Coalition Trader [Boots], a Coalition Trader [Bracer], a Coalition Trader [Cap], Coalition Trader [Leggings], Coalition Trader [Sleeves], or a Coalition Trader [Tunic]?
 
 
- **You receive:**  [Curing Kit](/item/17125) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17125" data-url="17125" class="tooltip-link link">Curing Kit</a> 
 
-elseif( **You turn in:** [Faceted Blue Gem](/item/19919), [Sharpened Coalition Dirk](/item/19925), [Rattlesnake Skin](/item/19850)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/19919" data-url="19919" class="tooltip-link link">Faceted Blue Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/19925" data-url="19925" class="tooltip-link link">Sharpened Coalition Dirk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/19850" data-url="19850" class="tooltip-link link">Rattlesnake Skin</a>) then
 
 
 >**Verona Rankin says:** You have proven yourself worthy of our cause. Take this and use it to bring down non followers of Innoruuk.
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (5)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (5)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (1)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Coalition Trader Dirk](/item/19937) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/19937" data-url="19937" class="tooltip-link link">Coalition Trader Dirk</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

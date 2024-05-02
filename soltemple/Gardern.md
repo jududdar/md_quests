@@ -70,47 +70,66 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Heart of Fire](/item/10548), [Heart of Frost](/item/10549), [Rod of Bone](/item/10550), [Darkwood Staff](/item/6048)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10548" data-url="10548" class="tooltip-link link">Heart of Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/10549" data-url="10549" class="tooltip-link link">Heart of Frost</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/10550" data-url="10550" class="tooltip-link link">Rod of Bone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/6048" data-url="6048" class="tooltip-link link">Darkwood Staff</a>) then
 
 
 >**Gardern says:** Well done, Soandso - here is the staff of Temperate Flux. Use it with the blessings of the Temple of Solusek Ro.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Staff of Temperate Flux](/item/6342) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/6342" data-url="6342" class="tooltip-link link">Staff of Temperate Flux</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Bloodblack Wand](/item/10551), [Silver Wand](/item/6338), [Twice-Woven Silk](/item/10557), [A Scepter](/item/14364)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/10551" data-url="10551" class="tooltip-link link">Bloodblack Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6338" data-url="6338" class="tooltip-link link">Silver Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/14364" data-url="14364" class="tooltip-link link">A Scepter</a>) then
 
 
 >**Gardern says:** Well done, Soandso. Now I will craft your Weeping Wand, as promised.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Weeping Wand](/item/6341) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6341" data-url="6341" class="tooltip-link link">Weeping Wand</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Sapphire](/item/10034), [Sapphire](/item/10034), [Lambent Stone](/item/10000)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a>) then
 
 
 >**Gardern says:** Here is your prize - a lambent sapphire.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Sapphire](/item/10119) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10119" data-url="10119" class="tooltip-link link">Lambent Sapphire</a> (+1000 exp)
+
+ 
 end
 
 

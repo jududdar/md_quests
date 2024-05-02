@@ -14,7 +14,8 @@
 >**Warlord Geot says:** Very good to have you on board, Trooper Soandso! We have had reports of sarnak legionnaires attacking caravans. I shall require you to find these sarnak legionnaires. Take this pack. Fill and combine it with as many of their brains as sill fit inside. Return the full pack to me and I shall consider you for a promotion.
 
 
-**You receive:**  [Lake Garrison Pack](/item/17044)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17044" data-url="17044" class="tooltip-link link">Lake Garrison Pack</a>
 end
 
 ## Turn-Ins
@@ -23,54 +24,65 @@ end
 
 
 
-if( **You turn in:** [Four Sarnak Heads](/item/12914)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12914" data-url="12914" class="tooltip-link link">Four Sarnak Heads</a>) then
 
 
 >**Warlord Geot says:** Very good. I cannot see any reason a warrior like you should waste their time on the patrols of a trooper. I shall recommend you for a promotion. I hope the War Baron agrees.
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Legionnaire Recommendation](/item/18074) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18074" data-url="18074" class="tooltip-link link">Legionnaire Recommendation</a> (+2000 exp)
 
-if( **You turn in:** [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408), [Sarnak Hatchling Brain](/item/12408)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1204.png" alt="" /> <a
+                                href="/item/12408" data-url="12408" class="tooltip-link link">Sarnak Hatchling Brain</a>) then
 
 
 >**Warlord Geot says:** Bravo!! You have done well. Here is a small reward. The greater reward is service to the empire.
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
 e.other:GiveCash(0,0,1,0);
 
 
- **You receive:**  [Dried Froglok Leg](/item/12614) (+3000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1068.png" alt="" /> <a
+                                href="/item/12614" data-url="12614" class="tooltip-link link">Dried Froglok Leg</a> (+3000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

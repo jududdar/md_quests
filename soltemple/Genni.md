@@ -87,38 +87,51 @@ local text = "Solusek Ro does not believe in half measures.";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Star Ruby](/item/10032), [Star Ruby](/item/10032), [Lambent Stone](/item/10000)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a>) then
 
 
 >**Genni says:** Here is your prize - a lambent star ruby.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lambent Star Ruby](/item/10117) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10117" data-url="10117" class="tooltip-link link">Lambent Star Ruby</a> 
+
+ 
 
 elseif **Faction** >= Indifferent and  **You turn in:** gold = 550) then
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Fire Opal](/item/10031) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/10031" data-url="10031" class="tooltip-link link">Fire Opal</a> 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Enchanted Platinum Bar](/item/16507)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>) then
 
 
 >**Genni says:** I see that Gavel has sent you to me. Very well, I have galvanized your platinum bar - take it.
 
 
- **You receive:**  [Galvanized Platinum Bar](/item/19047) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/19047" data-url="19047" class="tooltip-link link">Galvanized Platinum Bar</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

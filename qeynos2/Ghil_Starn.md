@@ -77,7 +77,8 @@ if( **Faction is** >= Indifferent) then
 
 
 
-**You receive:**  [Package for Den](/item/13784)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/13784" data-url="13784" class="tooltip-link link">Package for Den</a>
 
 
 else
@@ -100,7 +101,8 @@ end
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Note for Ghil](/item/18796)) then
+if( **Faction is** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18796" data-url="18796" class="tooltip-link link">Note for Ghil</a>) then
 
 
 >**Ghil Starn says:** Ah, good job, Soandso. It's good to know that I can trust you to get the job done. Here, take this for your efforts. This is a pair of gloves that we hand out to some of our more trusted members. Keep up the good work.
@@ -109,30 +111,33 @@ if( **Faction is** >= Indifferent and  **You turn in:** [Note for Ghil](/item/18
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (100)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+100</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-15)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-15</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (15)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-15)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (10)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+15</span>)
 
 
 
 
- **You receive:**  [Brown Leather Gloves](/item/1049) (+50000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-15</span>)
+
+
+
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+10</span>)
+
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/1049" data-url="1049" class="tooltip-link link">Brown Leather Gloves</a> (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

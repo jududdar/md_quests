@@ -88,12 +88,18 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Underbulk Bile](/item/32403), [Razor Fungus Spores](/item/32510), [Saprophyte Spores](/item/19836)) then
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/32403" data-url="32403" class="tooltip-link link">Underbulk Bile</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/32510" data-url="32510" class="tooltip-link link">Razor Fungus Spores</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/19836" data-url="19836" class="tooltip-link link">Saprophyte Spores</a>) then
 
 
 >**Priestess Tarafol says:** Thank you so much!! These will help so much in trying to find a cure for these people. Here, take this as a token of my gratitude.
 
 
- **You receive:**  [Tarafols Pendant](/item/19842) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1058.png" alt="" /> <a
+                                href="/item/19842" data-url="19842" class="tooltip-link link">Tarafols Pendant</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -8,7 +8,7 @@
 
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (-50)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got worse (<span class='text-danger'>-50</span>)
 
 **You say:** `solusek ro`
 

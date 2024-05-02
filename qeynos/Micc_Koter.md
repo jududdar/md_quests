@@ -38,7 +38,9 @@ local text = "Hey...  Better get me another one... I can't quite remember...  He
 
 
 
-if( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>) then
 
 
 >**Micc Koter says:** Oh yes. Now I remember.. Ha ha.. He said he was going into the Plains of Karana to look for some gnoll lover by the name of Caninel. He said Caninel knew something about the location of the Paw of Opolla. It sounds like a bunch of rat crap to me , I never heard of no one named Caninel. But off he went.. Heck , finding one person in the Plains of Karana without a [ ranger ] to guide you is like looking for a clean spot on ol'Klieb here. Ha ha!!

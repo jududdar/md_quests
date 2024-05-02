@@ -46,25 +46,13 @@ local text = "Fool! Bonlarg say THREE lizardman scout fifes and green stained sk
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Green Stained Skin Tunic*](/item/13527)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/12199" data-url="12199" class="tooltip-link link">Black Shadow Tunic</a> (+500 exp)
 
-
->**Bonlarg says:** Took you long time! It easy task, but me guess you still earn black shadow tunic. You wear to show all that you young shadowknight. It help you be smarter likes Bonlarg. It only for young Greenblood shadowknight. Maybe later green shadow tunic you earn or maybe dead you be
-
-
-* __Faction:__ [Green Blood Knights](/faction/261) (5)
-
-
-* __Faction:__ [Clurg](/faction/228) (2)
-
-
-* __Faction:__ [Storm Guard](/faction/312) (-1)
-
-
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (-1)
-
-
- **You receive:**  [Black Shadow Tunic](/item/12199) (+500 exp)
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -85,22 +85,27 @@ end
 
 
 
-if(**You possess item:**  [Rune of Concentration](/item/1896) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1896" data-url="1896" class="tooltip-link link">Rune of Concentration</a> x 1
 
 
 >**Draazak says:** Soandso, whom Relinar found to be necessary for the success of the magic against those foul giants. I present this Rune of Concentration to you with faith that you are trusted amongst us or you would not have been sent to me. Make haste so that no time is wasted in extracting revenge for their past transgressions.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** GiveAll( [Rune of Concentration](/item/1896), [Jualicns Token](/item/1908)) (+1000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1896" data-url="1896" class="tooltip-link link">Rune of Concentration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/1908" data-url="1908" class="tooltip-link link">Jualicns Token</a>) (+1000 exp)
+
+ 
 
 
 **Draazak despawns.**

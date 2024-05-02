@@ -60,7 +60,10 @@ end
 local text = "All right. Remember, I need all three ingredients to test this spell out. Keep up the good work, Soandso.";
   
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Rat Whiskers](/item/13071), [Bat Fur](/item/13069), [Fire Beetle Eye](/item/10307)) then 
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/13071" data-url="13071" class="tooltip-link link">Rat Whiskers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_792.png" alt="" /> <a
+                                href="/item/13069" data-url="13069" class="tooltip-link link">Bat Fur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/10307" data-url="10307" class="tooltip-link link">Fire Beetle Eye</a>) then 
 
 
 >**Caleah Herblender says:** Hmm. Good job, Soandso, let's give this a try. Flame and fire. Heat and spark. Touch of Ro, light this dark! Ahh. It stills needs a little work, I guess. Thanks for your help, here's a little something for your effort.
@@ -69,22 +72,24 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [Rat Whiskers](/item/130
 
 
 
-* __Faction:__ [Order of Three](/faction/342) (5)
+Your faction standing with [Order of Three](/faction/342) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
 
- **You receive:** 0 (+300 exp)
+ &#127873; **You receive:** 0 (+300 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false)
 

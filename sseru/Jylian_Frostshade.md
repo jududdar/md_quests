@@ -34,31 +34,35 @@ end
 
 
 
-if( **You turn in:** [Ethereal Drape](/item/29865)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1126.png" alt="" /> <a
+                                href="/item/29865" data-url="29865" class="tooltip-link link">Ethereal Drape</a>) then
 
 
 >*Jylian Frostshade delicately removes one of the embroidered symbols from the fading robe. Jylian then begins to weave spells to the robe until it becomes fully materialized. 'These robes have unusual symbols all about them. I must study this symbol in greater detail. Here you can have this robe, I have placed an enchantment on it to keep it from fading from this plane of existence any further. Your service to Seru is appreciated. Now go, I need silence to concentrate.'*
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (10)
+Your faction standing with [Citizens of Seru](/faction/1499) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (1)
+Your faction standing with [Hand of Seru](/faction/1484) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (1)
+Your faction standing with [Heart of Seru](/faction/1486) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (1)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (-5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Frayed Ethereal Drape](/item/29890) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1126.png" alt="" /> <a
+                                href="/item/29890" data-url="29890" class="tooltip-link link">Frayed Ethereal Drape</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

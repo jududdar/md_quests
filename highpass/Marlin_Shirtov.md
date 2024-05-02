@@ -25,21 +25,25 @@ end
 
 
 
-if( **You turn in:** [Silk Evening Tunic](/item/13352)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13352" data-url="13352" class="tooltip-link link">Silk Evening Tunic</a>) then 
 
 
 >**Marlin Shirtov says:** Ahh!! The silk evening tunic. Mistress Anna will look stunning in this. Here is the key to Princess Lenya's cell. Good luck, hero!
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (5)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (5)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (5)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Brass Key](/item/20008) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/20008" data-url="20008" class="tooltip-link link">Brass Key</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

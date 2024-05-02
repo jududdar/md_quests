@@ -19,7 +19,8 @@ end
 
 
 
-if( **You turn in:** [Letter to Elisha](/item/28086)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/28086" data-url="28086" class="tooltip-link link">Letter to Elisha</a>) then
 
 
 >*Elisha Dirtyshoes reads the letter and says, 'Oh happy day! Boiron will be visiting me soon. You may take Narik's ring back to him now. If you'll excuse me, I have some cleaning up to do.'*
@@ -28,6 +29,9 @@ if( **You turn in:** [Letter to Elisha](/item/28086)) then
 
 
 
- **You receive:**  [Nariks Ring](/item/28087) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1064.png" alt="" /> <a
+                                href="/item/28087" data-url="28087" class="tooltip-link link">Nariks Ring</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

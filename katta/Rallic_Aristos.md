@@ -36,22 +36,26 @@ end
 
 
 
-if( **You turn in:** [Grimling Runner Pouch](/item/31730)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/31730" data-url="31730" class="tooltip-link link">Grimling Runner Pouch</a>) then
 
 
 >**Rallic Aristos says:** Excellent. The contents of the pouch shall be examined immediately. Take this pattern for a crafting a pack that will be sure to lighten the burden of its contents. I'm afraid I do not have the rest of the [required materials] at hand.
 
 
-* __Faction:__ [Concilium Universus](/faction/1561) (5)
+Your faction standing with [Concilium Universus](/faction/1561) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-2)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Rallic Pack Pattern](/item/31729) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/31729" data-url="31729" class="tooltip-link link">Rallic Pack Pattern</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

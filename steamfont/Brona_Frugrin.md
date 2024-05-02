@@ -66,31 +66,35 @@ end
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Evil Eye Lens](/item/10170)) then
+if( **Faction is** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/10170" data-url="10170" class="tooltip-link link">Evil Eye Lens</a>) then
 
 
 >**Brona Frugrin says:** Not only did you find Borxx but you were able to slay her as well?! You are truly a champion of great skill. This lens of Borxx's will greatly aid our research of other planes of existence. I have been authorized by the Eldritch Collective to offer you this Staff of the Observers. Carry it with pride.
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (15)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-2)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (2)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (2)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
- **You receive:**  [Staff of the Observers](/item/10171) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/10171" data-url="10171" class="tooltip-link link">Staff of the Observers</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

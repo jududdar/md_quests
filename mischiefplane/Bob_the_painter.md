@@ -20,12 +20,16 @@ end
 
 
 
-if( **You turn in:** [Words of Wealth](/item/18008)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18008" data-url="18008" class="tooltip-link link">Words of Wealth</a>) then
 
 
 >**Bob the painter says:** Ay!!! this is poifect! 'ere take this pot o' gold. It's empty at the moment. Go ask my brother Vinny about the pot and mebbe he'll have a clue how ta get it full agin.
 
 
- **You receive:**  [An Empty Pot of Gold](/item/17326) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1082.png" alt="" /> <a
+                                href="/item/17326" data-url="17326" class="tooltip-link link">An Empty Pot of Gold</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

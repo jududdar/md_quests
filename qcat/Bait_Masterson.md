@@ -30,25 +30,10 @@ end
 
 
 
-if( **You turn in:** [Old Blue Tunic*](/item/13544)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/13922" data-url="13922" class="tooltip-link link">Snapped Pole</a> (+500 exp)
 
-
->**Bait Masterson says:** Nice material!! I feel the ways of Prexus enlightening my soul. Unngh!! Enough of this fishing. Here take my broken fishing pole and toss it to the sea. All hail Prexus!!
-
-
-
-
-
-* __Faction:__ [Deepwater Knights](/faction/242) (5)
-
-
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
-
-
-* __Faction:__ [Heretics](/faction/265) (-1)
-
-
- **You receive:**  [Snapped Pole](/item/13922) (+500 exp)
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -24,26 +24,31 @@ local text = "Hey, I can't start me work without both Stonetooth's axe and the s
 
 
 
-if( **You turn in:** [Small Piece of Velium](/item/22569), [Normon's axe](/item/1690)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/22569" data-url="22569" class="tooltip-link link">Small Piece of Velium</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/1690" data-url="1690" class="tooltip-link link">Normon's axe</a>) then 
 
 
 >**Hakon Brightsteel says:** Excellent! I'll get ta work now. Hakon whistles an unfamiliar tune as he repairs and sharpens the pick axe. Here ye are, Soandso. Watch that old Stonetooth, he's a few steins short of a keg, if ye know what I mean.
 
 
-* __Faction:__ [Coldain](/faction/406) (5)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (1)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-2)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-2</span>)
 
 
 
 
- **You receive:**  [Normon's axe](/item/1691) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/1691" data-url="1691" class="tooltip-link link">Normon's axe</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

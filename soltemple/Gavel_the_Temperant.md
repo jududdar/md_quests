@@ -67,37 +67,65 @@ local text = "Impressive, do you have the rest?";
 
 
 
-if( **You turn in:** [Enchanted Platinum Bar](/item/16507), [Enchanted Platinum Bar](/item/16507), [Icon of the Reverent](/item/19010), [Ingot of the Reverent](/item/19009)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19010" data-url="19010" class="tooltip-link link">Icon of the Reverent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19009" data-url="19009" class="tooltip-link link">Ingot of the Reverent</a>) then
 
 
 >**Gavel the Temperant says:** Wear this with pride!
 
 
- **You receive:**  [Bracers of the Reverent](/item/4925) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4925" data-url="4925" class="tooltip-link link">Bracers of the Reverent</a> (+1000 exp)
 
-elseif( **You turn in:** [Magnetized Platinum Bar](/item/19049), [Magnetized Platinum Bar](/item/19049), [Icon of Sacrament](/item/19016), [Ingot of Sacrament](/item/19015)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/19049" data-url="19049" class="tooltip-link link">Magnetized Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/19049" data-url="19049" class="tooltip-link link">Magnetized Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19016" data-url="19016" class="tooltip-link link">Icon of Sacrament</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19015" data-url="19015" class="tooltip-link link">Ingot of Sacrament</a>) then
 
 
 >**Gavel the Temperant says:** It is an honor to forge such a weapon. Wield it with pride!
 
 
- **You receive:**  [Caduceus of Sacrament](/item/6407) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6407" data-url="6407" class="tooltip-link link">Caduceus of Sacrament</a> (+1000 exp)
 
-elseif( **You turn in:** [Galvanized Platinum Bar](/item/19047), [Galvanized Platinum Bar](/item/19047), [Ingot of the Constant](/item/19011), [Icon of the Constant](/item/19012)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/19047" data-url="19047" class="tooltip-link link">Galvanized Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/19047" data-url="19047" class="tooltip-link link">Galvanized Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19011" data-url="19011" class="tooltip-link link">Ingot of the Constant</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19012" data-url="19012" class="tooltip-link link">Icon of the Constant</a>) then
 
 
 >**Gavel the Temperant says:** Wear this with pride!
 
 
- **You receive:**  [Chestplate of the Constant](/item/4926) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4926" data-url="4926" class="tooltip-link link">Chestplate of the Constant</a> (+1000 exp)
 
-elseif( **You turn in:** [Vulcanized Platinum Bar](/item/19048), [Vulcanized Platinum Bar](/item/19048), [Ingot of the Devout](/item/19013), [Icon of the Devout](/item/19014)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/19048" data-url="19048" class="tooltip-link link">Vulcanized Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/19048" data-url="19048" class="tooltip-link link">Vulcanized Platinum Bar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19013" data-url="19013" class="tooltip-link link">Ingot of the Devout</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19014" data-url="19014" class="tooltip-link link">Icon of the Devout</a>) then
 
 
 >**Gavel the Temperant says:** Wear this with pride!
 
 
- **You receive:**  [Shield of the Devout](/item/9427) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_973.png" alt="" /> <a
+                                href="/item/9427" data-url="9427" class="tooltip-link link">Shield of the Devout</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

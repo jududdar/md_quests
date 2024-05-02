@@ -49,5 +49,6 @@
 >**Elial Brook says:** Oh, good.  Be careful!  He may be the heretic escapee.
 
 
-**You receive:**  [A Leaflet](/item/18830)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18830" data-url="18830" class="tooltip-link link">A Leaflet</a>
 end

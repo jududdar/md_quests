@@ -32,12 +32,16 @@ end
 
 
 
-if( **You turn in:** [Giant Loyalist Token](/item/1782)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/1782" data-url="1782" class="tooltip-link link">Giant Loyalist Token</a>) then 
 
 
 >**Tomekeeper Bjordnessin says:** Amazing! Simply Amazing! The legends must be true! This item was said to have been given to the Dragon Sage as a sign of friendship and trust, but I have always considered it to be legend. The discovery of this artifact will work wonders for my status! I have discovered a legend! Oh... Oh yes. You sought information on that herb. Take this back to the sage. Maybe he can decipher it.
 
 
- **You receive:**  [Giant Scalebound Tome](/item/1783) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1225.png" alt="" /> <a
+                                href="/item/1783" data-url="1783" class="tooltip-link link">Giant Scalebound Tome</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

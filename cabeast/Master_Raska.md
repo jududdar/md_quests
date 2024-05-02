@@ -25,7 +25,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [First Rite Pack](/item/17026)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17026" data-url="17026" class="tooltip-link link">First Rite Pack</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -151,75 +152,101 @@ local text1 = "You will get nothing until I hold two bandit masks and the shackl
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full First Rite Pack](/item/12427)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12427" data-url="12427" class="tooltip-link link">Full First Rite Pack</a>) then
 
 
 >**Master Raska says:** You have succeeded, young Soandso! You have proven yourself a skilled monk. You will now wear the shackle of clay. You will now be required to increase your intensity of training in hopes that you may soon be able to earn your [shackle of stone].
 
 
-* __Faction:__ [Swift Tails](/faction/444) (10)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Shackle of Clay](/item/4191) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/4191" data-url="4191" class="tooltip-link link">Shackle of Clay</a> (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Shackle of Dust](/item/4190), [Shackle of Clay](/item/4191), [Iksar Bandit Mask](/item/12428), [Iksar Bandit Mask](/item/12428)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/4190" data-url="4190" class="tooltip-link link">Shackle of Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/4191" data-url="4191" class="tooltip-link link">Shackle of Clay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_938.png" alt="" /> <a
+                                href="/item/12428" data-url="12428" class="tooltip-link link">Iksar Bandit Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_938.png" alt="" /> <a
+                                href="/item/12428" data-url="12428" class="tooltip-link link">Iksar Bandit Mask</a>) then
 
 
 >**Master Raska says:** You have done supremely, Soandso. You have earned your shackle of stone. Mistress Niska will now help you on your way to earning the shackle of rock. May the elements guide you to the next rung.
 
 
-* __Faction:__ [Swift Tails](/faction/444) (10)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Shackle of Stone](/item/4192) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1235.png" alt="" /> <a
+                                href="/item/4192" data-url="4192" class="tooltip-link link">Shackle of Stone</a> (+10000 exp)
 
-elseif( **You turn in:** [Faded White Tome](/item/18469), [A Mechanical Iksar Tail](/item/12822)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
-
->*Master Raska smiles at your dedication to Cazic Thule and hands you a small gem.*
-
-
-* __Faction:__ [Swift Tails](/faction/444) (5)
-
-
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
-
-
- **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
-
-elseif( **You turn in:** [Pure White Tome](/item/18470), [Sealed Journal](/item/22924)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18469" data-url="18469" class="tooltip-link link">Faded White Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
+                                href="/item/12822" data-url="12822" class="tooltip-link link">A Mechanical Iksar Tail</a>) then
 
 
 >*Master Raska smiles at your dedication to Cazic Thule and hands you a small gem.*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (5)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a> (+20000 exp)
 
-elseif( **You turn in:** [First Half of Torn Note](/item/18232), [Second Half of Torn Note](/item/18233)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18470" data-url="18470" class="tooltip-link link">Pure White Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/22924" data-url="22924" class="tooltip-link link">Sealed Journal</a>) then
+
+
+>*Master Raska smiles at your dedication to Cazic Thule and hands you a small gem.*
+
+
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
+
+
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a> (+20000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/18232" data-url="18232" class="tooltip-link link">First Half of Torn Note</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/18233" data-url="18233" class="tooltip-link link">Second Half of Torn Note</a>) then
 
 
 >**Master Raska says:** This is all that was ever found of Gandan Tailfist. I wish you luck in your quest. May you fare better than he did.
 
 
-* __Faction:__ [Swift Tails](/faction/444) (5)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Ancient Thin Flute](/item/12429) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12429" data-url="12429" class="tooltip-link link">Ancient Thin Flute</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

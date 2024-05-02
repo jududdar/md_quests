@@ -60,13 +60,17 @@ end
 
 
 
-local firstitem =  **You turn in:**  { [Mini-gyro Shields](/item/28164)}
+local firstitem =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1026.png" alt="" /> <a
+                                href="/item/28164" data-url="28164" class="tooltip-link link">Mini-gyro Shields</a>}
 
-local seconditem =  **You turn in:**  { [Silicorrosive Grease](/item/28165)}
+local seconditem =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/28165" data-url="28165" class="tooltip-link link">Silicorrosive Grease</a>}
 
-local thirditem =  **You turn in:**  { [Size 12 Sprockets](/item/28162)}
+local thirditem =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_731.png" alt="" /> <a
+                                href="/item/28162" data-url="28162" class="tooltip-link link">Size 12 Sprockets</a>}
 
-local forthitem =  **You turn in:**  { [Tri-platinum Foil](/item/28163)}
+local forthitem =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/28163" data-url="28163" class="tooltip-link link">Tri-platinum Foil</a>}
 
 
 
@@ -85,7 +89,9 @@ DoRandomGem(e);
 
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+ 
 
 
 
@@ -111,7 +117,9 @@ DoRandomGem(e);
 
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+ 
 
 
 
@@ -137,7 +145,9 @@ DoRandomGem(e);
 
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+ 
 
 
 
@@ -163,7 +173,9 @@ DoRandomGem(e);
 
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+ 
 
 
 

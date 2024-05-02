@@ -22,21 +22,28 @@ end
 
 
 
-if( **You turn in:** [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695), [Sturdy Grimling Mining Pick](/item/2695)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/2695" data-url="2695" class="tooltip-link link">Sturdy Grimling Mining Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/2695" data-url="2695" class="tooltip-link link">Sturdy Grimling Mining Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/2695" data-url="2695" class="tooltip-link link">Sturdy Grimling Mining Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/2695" data-url="2695" class="tooltip-link link">Sturdy Grimling Mining Pick</a>) then
 
 
 >**Toktonn Geerlok says:** Excellent! Soon the grimlings may be coerced into being less stingy with their precious ore!
 
 
-* __Faction:__ [Concilium Universus](/faction/1561) (4)
+Your faction standing with [Concilium Universus](/faction/1561) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-2)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Industria Acrylia War Pick](/item/31727) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/31727" data-url="31727" class="tooltip-link link">Industria Acrylia War Pick</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

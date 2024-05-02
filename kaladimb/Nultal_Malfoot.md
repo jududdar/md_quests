@@ -68,28 +68,40 @@ if **Faction** >= Indifferent and  **You turn in:** gold = 3) then
 **Nultal Malfoot casts:** [Light Healing](/spell/17) on target.
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030), [Skunk Scent Gland](/item/14030)) then 
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/14030" data-url="14030" class="tooltip-link link">Skunk Scent Gland</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/14030" data-url="14030" class="tooltip-link link">Skunk Scent Gland</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/14030" data-url="14030" class="tooltip-link link">Skunk Scent Gland</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/14030" data-url="14030" class="tooltip-link link">Skunk Scent Gland</a>) then 
 
 
 >**Nultal Malfoot says:** I thank you for your good deed. I trust it was not a problem. Take this scroll. A cleric of this cathedral will find it useful. May the power of Underfoot be with you.
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (5)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+5</span>)
 
 
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (3)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+3</span>)
 
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Cure Poison](/item/15203), [Spell: Fear](/item/15229), [Spell: Furor](/item/15560), [Spell: Gate](/item/15036), [Spell: Stun](/item/15216), [Spell: Reckless Strength](/item/15215)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15203" data-url="15203" class="tooltip-link link">Spell: Cure Poison</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15229" data-url="15229" class="tooltip-link link">Spell: Fear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15560" data-url="15560" class="tooltip-link link">Spell: Furor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15036" data-url="15036" class="tooltip-link link">Spell: Gate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15216" data-url="15216" class="tooltip-link link">Spell: Stun</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15215" data-url="15215" class="tooltip-link link">Spell: Reckless Strength</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

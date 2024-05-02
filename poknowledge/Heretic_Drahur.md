@@ -13,11 +13,14 @@ end
 
 
 
-local ethereal =  **You turn in:**  { [Ethereal Parchment](/item/29112)}
+local ethereal =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a>}
 
-local spectral =  **You turn in:**  { [Spectral Parchment](/item/29131)}
+local spectral =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a>}
 
-local glyphed =  **You turn in:**  { [Glyphed Rune Word](/item/29132)}
+local glyphed =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a>}
 
 if(ethereal > 0) then
 
@@ -30,7 +33,17 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Greater Immobilize](/item/26945), 21638, 21640, 28413, 28417, 26946, 28418, 28419) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26945" data-url="26945" class="tooltip-link link">Spell: Greater Immobilize</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21638" data-url="21638" class="tooltip-link link">Spell: Touch of Mujaki</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21640" data-url="21640" class="tooltip-link link">Spell: Neurotoxin</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28413" data-url="28413" class="tooltip-link link">Spell: Shield of the Arcane</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28417" data-url="28417" class="tooltip-link link">Spell: Legacy of Zek</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26946" data-url="26946" class="tooltip-link link">Spell: Petrifying Earth</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28418" data-url="28418" class="tooltip-link link">Spell: Rune of Death</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28419" data-url="28419" class="tooltip-link link">Spell: Saryrn's Kiss</a>) 
+
+ 
 
 
 
@@ -50,7 +63,17 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Force Shield](/item/28414), 28420, 28421, 28422, 28415, 28423, 28424, 28559) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28414" data-url="28414" class="tooltip-link link">Spell: Force Shield</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28420" data-url="28420" class="tooltip-link link">Spell: Death's Silence</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28421" data-url="28421" class="tooltip-link link">Spell: Embracing Darkness</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28422" data-url="28422" class="tooltip-link link">Spell: Saryrn's Companion</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28415" data-url="28415" class="tooltip-link link">Spell: Shield of Maelin</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28423" data-url="28423" class="tooltip-link link">Spell: Seduction of Saryrn</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28424" data-url="28424" class="tooltip-link link">Spell: Touch of Death</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28559" data-url="28559" class="tooltip-link link">Spell: Destroy Undead</a>) 
+
+ 
 
 
 
@@ -70,7 +93,12 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Blood of Thule](/item/28416), 28425, 28427) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28416" data-url="28416" class="tooltip-link link">Spell: Blood of Thule</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28425" data-url="28425" class="tooltip-link link">Spell: Child of Bertoxxulous</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28427" data-url="28427" class="tooltip-link link">Spell: Word of Terris</a>) 
+
+ 
 
 
 

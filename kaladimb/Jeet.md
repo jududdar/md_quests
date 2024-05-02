@@ -135,7 +135,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Scrubber Key](/item/12164)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/12164" data-url="12164" class="tooltip-link link">Scrubber Key</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -161,53 +162,76 @@ local text = "What are you?! Some kinda' slacker?! I told you to return with FOU
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>) then 
 
 
 >**Jeet says:** It's about time you managed to smash these four!! Here. You do good work. We could use someone like you to [run to the gnome city].
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (20)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-1)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-3)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122), [Small Patchwork Pants](/item/2123), [Small Patchwork Boots](/item/2124)) (+4000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2113" data-url="2113" class="tooltip-link link">Small Tattered Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2114" data-url="2114" class="tooltip-link link">Small Tattered Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2115" data-url="2115" class="tooltip-link link">Small Tattered Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2116" data-url="2116" class="tooltip-link link">Small Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2117" data-url="2117" class="tooltip-link link">Small Tattered Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2118" data-url="2118" class="tooltip-link link">Small Patchwork Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2119" data-url="2119" class="tooltip-link link">Small Tattered Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2120" data-url="2120" class="tooltip-link link">Small Patchwork Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2121" data-url="2121" class="tooltip-link link">Small Tattered Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2122" data-url="2122" class="tooltip-link link">Small Tattered Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2123" data-url="2123" class="tooltip-link link">Small Patchwork Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2124" data-url="2124" class="tooltip-link link">Small Patchwork Boots</a>) (+4000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/13282" data-url="13282" class="tooltip-link link">Scrap Metal</a>) then 
 
 
 >**Jeet says:** Great work!! We need this junk for something and we sure didn't need this rat sucking up any of our gems. Here. This is a Mining Cap 628. It's not much, but it is the mark of our miners and provides light for mining purposes. Hold onto it. You never know when we may call upon you to produce it.
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (15)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-1)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-2)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Miners Cap 628](/item/12165) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/12165" data-url="12165" class="tooltip-link link">Miners Cap 628</a> (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12167)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12167" data-url="12167" class="tooltip-link link">Gnome Take</a>) then 
 
 
 >**Jeet says:** What is all this junk!! That blasted tin rat is supposed to be heisting expensive goods from rich gnomes - not all this garbage!! Here. This is your cut of this junk.
@@ -216,24 +240,33 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12167)) t
 
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (5)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-1)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bead Necklace](/item/10009), [Malachite](/item/10015), [Small Piece of Ore](/item/10500), [Iony's Absorber](/item/13220), [Small Piece of Ore](/item/10500), [Lapis Lazuli](/item/10016)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/10009" data-url="10009" class="tooltip-link link">Bead Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/10500" data-url="10500" class="tooltip-link link">Small Piece of Ore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/13220" data-url="13220" class="tooltip-link link">Iony's Absorber</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/10500" data-url="10500" class="tooltip-link link">Small Piece of Ore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10016" data-url="10016" class="tooltip-link link">Lapis Lazuli</a>) (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12162)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/12162" data-url="12162" class="tooltip-link link">Gnome Take</a>) then 
 
 
 >**Jeet says:** Good work miner. This is a fantastic haul!! Those wrinkly little gnomes don't know what is going on. Here is your cut. Now get back to work.
@@ -242,22 +275,30 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnome Take](/item/12162)) t
 
 
 
-* __Faction:__ [Miners Guild 628](/faction/322) (25)
+Your faction standing with [Miners Guild 628](/faction/322) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Butcherblock Bandits](/faction/379) (-1)
+Your faction standing with [Butcherblock Bandits](/faction/379) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Deeppockets](/faction/241) (1)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-3)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:** eq.ChooseRandom( [Silver Stud](/item/10005), [Silver Ring](/item/10038), [Turquoise](/item/10017), [Jasper](/item/10020), [Silver Earring](/item/10006), [Golden Ear Stud](/item/10320)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_544.png" alt="" /> <a
+                                href="/item/10005" data-url="10005" class="tooltip-link link">Silver Stud</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/10038" data-url="10038" class="tooltip-link link">Silver Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/10017" data-url="10017" class="tooltip-link link">Turquoise</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_949.png" alt="" /> <a
+                                href="/item/10020" data-url="10020" class="tooltip-link link">Jasper</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_544.png" alt="" /> <a
+                                href="/item/10006" data-url="10006" class="tooltip-link link">Silver Earring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/10320" data-url="10320" class="tooltip-link link">Golden Ear Stud</a>) (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

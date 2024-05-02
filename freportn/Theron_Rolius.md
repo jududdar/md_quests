@@ -57,7 +57,8 @@ else
 >**Theron Rolius says:** Reef sharks are the smallest and most docile of the sharks.  Even a young acolyte can slay one.  I have heard there are some in the Ocean of Tears.  I need a young acolyte to [hunt] reef sharks.  I require their skins.
 
 
-**You receive:**  [Empty Shark Sack](/item/17937)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17937" data-url="17937" class="tooltip-link link">Empty Shark Sack</a>
 
 **You say:** `hunt`
 
@@ -76,51 +77,58 @@ else
 
 
 
-if( **You turn in:** [Damaged Militia Helm](/item/13921)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/13921" data-url="13921" class="tooltip-link link">Damaged Militia Helm</a>) then
 
 
 >**Theron Rolius says:** Fantastic work, my young knight.  Here is a small token of the my appreciation.  I would offer you a sharkskin shield, but I have made only a few and the paladins are testing them.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (25)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-3)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (5)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (2)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
 
-elseif( **You turn in:** [Sack of Sharkskins](/item/13873)) then
+**You receive coin:** 3 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13873" data-url="13873" class="tooltip-link link">Sack of Sharkskins</a>) then
 
 
 >**Theron Rolius says:** Thanks for the hard work, here is a shield to help you in your duties.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (25)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-3)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (5)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (2)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Sharkskin Shield](/item/13868) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/13868" data-url="13868" class="tooltip-link link">Sharkskin Shield</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

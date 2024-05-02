@@ -23,24 +23,48 @@ end
 
 
 
-if( **You turn in:** [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789), [Shadeling Silk](/item/2789)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/2789" data-url="2789" class="tooltip-link link">Shadeling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/2789" data-url="2789" class="tooltip-link link">Shadeling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/2789" data-url="2789" class="tooltip-link link">Shadeling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/2789" data-url="2789" class="tooltip-link link">Shadeling Silk</a>) then
 
 
 >**Jala says:** Woohoo! Thank you so much Soandso! Hey, maybe you would like to try your hand at weaving as well. If you combine the silks in that loom over there, you can make some decent thread to work with. Make four of them and bring them to me. I will judge your craftsmanship.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (5)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
 
-if( **You turn in:** [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791), [Shade Silk Thread](/item/2791)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/2791" data-url="2791" class="tooltip-link link">Shade Silk Thread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/2791" data-url="2791" class="tooltip-link link">Shade Silk Thread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/2791" data-url="2791" class="tooltip-link link">Shade Silk Thread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/2791" data-url="2791" class="tooltip-link link">Shade Silk Thread</a>) then
 
 
 >**Jala says:** Not bad at all! You definitely have some hidden talent there Soandso. Keep at it and you may just become a master tailor yourself. Here, take this with you. It will help protect you from the nasty bite of the Xakra worms.
 
 
- **You receive:** eq.ChooseRandom( [Cloth Cap](/item/1001), 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/1001" data-url="1001" class="tooltip-link link">Cloth Cap</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/1002" data-url="1002" class="tooltip-link link">Cloth Veil</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/1003" data-url="1003" class="tooltip-link link">Cloth Choker</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/1004" data-url="1004" class="tooltip-link link">Cloth Shirt</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1005" data-url="1005" class="tooltip-link link">Cloth Shawl</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/1006" data-url="1006" class="tooltip-link link">Cloth Cape</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/1007" data-url="1007" class="tooltip-link link">Cloth Cord</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/1008" data-url="1008" class="tooltip-link link">Cloth Sleeves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/1009" data-url="1009" class="tooltip-link link">Cloth Wristband</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_517.png" alt="" /> <a
+                                href="/item/1010" data-url="1010" class="tooltip-link link">Cloth Gloves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/1011" data-url="1011" class="tooltip-link link">Cloth Pants</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_666.png" alt="" /> <a
+                                href="/item/1012" data-url="1012" class="tooltip-link link">Cloth Sandals</a>) (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

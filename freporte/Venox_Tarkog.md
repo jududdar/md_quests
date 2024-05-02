@@ -48,22 +48,26 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 1.0 and  **You turn in:** [A tattered note](/item/18744)) then 
+if(expansion_flag >= 1.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18744" data-url="18744" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Venox Tarkog says:** Here we find a new follower.. Here we find a tunic of the Dismal Rage. Put the two together and let the hate grow. Let it be known from now on that your soul belongs to the Prince of Hate, Innoruuk. It is his power which flows within you. Destroy all those who oppose us. Please introduce your hate to the others in this shrine.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (100)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-15)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (20)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Faded Crimson Tunic*](/item/13561) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13561" data-url="13561" class="tooltip-link link">Faded Crimson Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

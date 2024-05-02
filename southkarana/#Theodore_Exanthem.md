@@ -48,7 +48,8 @@ elseif(e.signal == 6) then
 >**Theodore Exanthem says:** Fine, follow me creeps.
 
 
-eq.move_to(-3098,- [Fanged Talisman](/item/5872),94,160,true);
+eq.move_to(-3098,- <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/5872" data-url="5872" class="tooltip-link link">Fanged Talisman</a>,94,160,true);
 
 
 
@@ -96,13 +97,18 @@ local yloc = e.self:GetY();
 
 
 
-if( **You turn in:** [Confession Document](/item/2344) and (xloc == -3098 and yloc == - [Fanged Talisman](/item/5872))) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/2344" data-url="2344" class="tooltip-link link">Confession Document</a> and (xloc == -3098 and yloc == - <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/5872" data-url="5872" class="tooltip-link link">Fanged Talisman</a>)) then 
 
 
 >*Theodore Exanthem makes a big X at the bottom of the document and hands it back saying, 'A bunch of worthless thugs is all you folks are!'*
 
 
- **You receive:**  [Theodore's Confession](/item/2395) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/2395" data-url="2395" class="tooltip-link link">Theodore's Confession</a> 
+
+ 
 
 
 **Signaled to:**  [an interrogator](/npc/14050)

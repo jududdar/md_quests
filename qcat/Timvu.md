@@ -32,5 +32,5 @@ while ( e.self:CheckGround() ) do
 >**Timvu says:** What?  Why the Circle of Unseen Hands, of course!
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-5</span>)
 end

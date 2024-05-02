@@ -76,61 +76,107 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Sky Jewel](/item/4492), [Aged Gold Coin](/item/4741), [Dark Gem](/item/4742), [Priceless Book](/item/4743)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/4741" data-url="4741" class="tooltip-link link">Aged Gold Coin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_965.png" alt="" /> <a
+                                href="/item/4742" data-url="4742" class="tooltip-link link">Dark Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/4743" data-url="4743" class="tooltip-link link">Priceless Book</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Cap of Pestilence](/item/3723) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/3723" data-url="3723" class="tooltip-link link">Cap of Pestilence</a> (+25000 exp)
 
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Miniature Armband](/item/4744), [Mark of Fortune](/item/4745), [Sun Wraith Eye](/item/4746)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Robe of Pestilence](/item/3724) (+25000 exp)
-
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Petrified Totem](/item/4748), [Frozen Hailstone](/item/4749), [Glowing Crystal](/item/4750)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Sleeves of Pestilence](/item/3725) (+25000 exp)
-
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Divining Rod](/item/4751), [Aged Platinum Symbol](/item/4752), [Silver Sign](/item/4753)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/4744" data-url="4744" class="tooltip-link link">Miniature Armband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4745" data-url="4745" class="tooltip-link link">Mark of Fortune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1130.png" alt="" /> <a
+                                href="/item/4746" data-url="4746" class="tooltip-link link">Sun Wraith Eye</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Pants of Pestilence](/item/3726) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1126.png" alt="" /> <a
+                                href="/item/3724" data-url="3724" class="tooltip-link link">Robe of Pestilence</a> (+25000 exp)
 
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Ancient Fossil](/item/4771), [Wrought Iron Shavings](/item/4772)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Shawl of Pestilence](/item/3727) (+25000 exp)
-
-elseif( **You turn in:** [Star Jewel](/item/4490), [Granite Idol](/item/4773), [Ancient Silver Coin](/item/4774)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Bracer of Pestilence](/item/3728) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Blackened Ornament](/item/4775), [Snake Scale Sceptre](/item/4776)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/4748" data-url="4748" class="tooltip-link link">Petrified Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/4749" data-url="4749" class="tooltip-link link">Frozen Hailstone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/4750" data-url="4750" class="tooltip-link link">Glowing Crystal</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Sandals of Pestilence](/item/3729) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/3725" data-url="3725" class="tooltip-link link">Sleeves of Pestilence</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/4751" data-url="4751" class="tooltip-link link">Divining Rod</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/4752" data-url="4752" class="tooltip-link link">Aged Platinum Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/4753" data-url="4753" class="tooltip-link link">Silver Sign</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/3726" data-url="3726" class="tooltip-link link">Pants of Pestilence</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/4771" data-url="4771" class="tooltip-link link">Ancient Fossil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1032.png" alt="" /> <a
+                                href="/item/4772" data-url="4772" class="tooltip-link link">Wrought Iron Shavings</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/3727" data-url="3727" class="tooltip-link link">Shawl of Pestilence</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/4773" data-url="4773" class="tooltip-link link">Granite Idol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/4774" data-url="4774" class="tooltip-link link">Ancient Silver Coin</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/3728" data-url="3728" class="tooltip-link link">Bracer of Pestilence</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/4775" data-url="4775" class="tooltip-link link">Blackened Ornament</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/4776" data-url="4776" class="tooltip-link link">Snake Scale Sceptre</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_558.png" alt="" /> <a
+                                href="/item/3729" data-url="3729" class="tooltip-link link">Sandals of Pestilence</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -138,14 +184,14 @@ function FactionReward(e)
 
 >**Bella Stremi says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

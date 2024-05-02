@@ -41,13 +41,17 @@ local text = "Come now.. I said I require the ring of the Dead and 10 gold piece
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Ring of the Dead](/item/13394), gold = 10) then 
+if **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_674.png" alt="" /> <a
+                                href="/item/13394" data-url="13394" class="tooltip-link link">Ring of the Dead</a>, gold = 10) then 
 
 
 >**Xantis Ixtax says:** Here you are, disciple. I have enchanted your ring once more.
 
 
- **You receive:**  [Ring of the Dead](/item/13394) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_674.png" alt="" /> <a
+                                href="/item/13394" data-url="13394" class="tooltip-link link">Ring of the Dead</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

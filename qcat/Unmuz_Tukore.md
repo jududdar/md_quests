@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Wellis Pestule](/item/20206)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20206" data-url="20206" class="tooltip-link link">Note to Wellis Pestule</a>
 
 
 **You say:** `pressing matter`
@@ -55,28 +56,32 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Grennet Stormhand's Head](/item/20186)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/20186" data-url="20186" class="tooltip-link link">Grennet Stormhand's Head</a>) then
 
 
 >**Unmuz Tukore says:** Excellent, the Knights of Thunder must learn that by beginning an inquisition of the Bloodsabers they are effectively declaring war. Take this Rusty Scourge Knight Saber to a forge and sharpen it with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done take the Tarnished Scourge Knight Saber and a Giant King Snake Skin to Wellis Pestule and he will put the finsihing touches on the weapon.
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (1)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rusty Scourge Knight Saber](/item/20187) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/20187" data-url="20187" class="tooltip-link link">Rusty Scourge Knight Saber</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

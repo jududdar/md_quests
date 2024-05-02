@@ -20,7 +20,8 @@
 >**Nomsoe Jusagta says:** Our allies, the Knights of Thunder, have requested that we aid their followers in the Plains of Karana. We have a few young acolytes working there now. Take this blessed oil to Brother Estle. Follow the path to the plains. He shall be waiting for you by a tree alongside the path.
 
 
-**You receive:**  [Blessed Oil Flask](/item/13910)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13910" data-url="13910" class="tooltip-link link">Blessed Oil Flask</a>
 
 **You say:** `bertoxxulous`
 

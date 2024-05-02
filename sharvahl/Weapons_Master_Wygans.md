@@ -30,53 +30,77 @@ end
 
 
 
-if( **You turn in:** [Claw of the Grunt](/item/7170)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_975.png" alt="" /> <a
+                                href="/item/7170" data-url="7170" class="tooltip-link link">Claw of the Grunt</a>) then 
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Grimling Bane Claw](/item/7171) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_975.png" alt="" /> <a
+                                href="/item/7171" data-url="7171" class="tooltip-link link">Grimling Bane Claw</a> (+300 exp)
 
-if( **You turn in:** [Dirk of the Grunt](/item/7180)) then 
+ 
 
-
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
-
-
- **You receive:**  [Grimling Bane Dirk](/item/7181) (+300 exp)
-
-if( **You turn in:** [Great Sword of the Grunt](/item/7174)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/7180" data-url="7180" class="tooltip-link link">Dirk of the Grunt</a>) then 
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Grimling Bane Great Sword](/item/7175) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/7181" data-url="7181" class="tooltip-link link">Grimling Bane Dirk</a> (+300 exp)
 
-if( **You turn in:** [Hammer of the Grunt](/item/7176)) then 
+ 
 
-
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
-
-
- **You receive:**  [Grimling Bane Hammer](/item/7177) (+300 exp)
-
-if( **You turn in:** [Short Sword of the Grunt](/item/7172)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/7174" data-url="7174" class="tooltip-link link">Great Sword of the Grunt</a>) then 
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Grimling Bane Short Sword](/item/7173) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/7175" data-url="7175" class="tooltip-link link">Grimling Bane Great Sword</a> (+300 exp)
 
-if( **You turn in:** [Staff of the Grunt](/item/7178)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_903.png" alt="" /> <a
+                                href="/item/7176" data-url="7176" class="tooltip-link link">Hammer of the Grunt</a>) then 
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Grimling Bane Staff](/item/7179) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_903.png" alt="" /> <a
+                                href="/item/7177" data-url="7177" class="tooltip-link link">Grimling Bane Hammer</a> (+300 exp)
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/7172" data-url="7172" class="tooltip-link link">Short Sword of the Grunt</a>) then 
+
+
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/7173" data-url="7173" class="tooltip-link link">Grimling Bane Short Sword</a> (+300 exp)
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/7178" data-url="7178" class="tooltip-link link">Staff of the Grunt</a>) then 
+
+
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/7179" data-url="7179" class="tooltip-link link">Grimling Bane Staff</a> (+300 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

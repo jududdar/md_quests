@@ -15,13 +15,20 @@ end
 
 
 
-if( **You turn in:** [Useless Cloth Cap](/item/13894)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/13894" data-url="13894" class="tooltip-link link">Useless Cloth Cap</a>) then
 
 
 >**a skeleton says:** Good work, you should be running this operation instead of that Talrigar fellow. Have a small reward. A little bit of the gems I found while tunneling through this rock.
 
 
- **You receive:** eq.ChooseRandom( [Malachite](/item/10015), [Lapis Lazuli](/item/10016), [Turquoise](/item/10017), [Hematite](/item/10018)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10016" data-url="10016" class="tooltip-link link">Lapis Lazuli</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/10017" data-url="10017" class="tooltip-link link">Turquoise</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/10018" data-url="10018" class="tooltip-link link">Hematite</a>) (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -109,7 +109,8 @@ end
 
 
 
-if( **You turn in:** [Head of Guard Nash](/item/8276)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/8276" data-url="8276" class="tooltip-link link">Head of Guard Nash</a>) then 
 
 
 >**Farkus Grime says:** You've done well, I see we are of a like mind. I'll lure the bear outside so you can do your work.

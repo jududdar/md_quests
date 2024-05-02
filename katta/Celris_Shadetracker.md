@@ -26,21 +26,25 @@ end
 
 
 
-if( **You turn in:** [Skin of Blood Like Substance](/item/7776)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_717.png" alt="" /> <a
+                                href="/item/7776" data-url="7776" class="tooltip-link link">Skin of Blood Like Substance</a>) then 
 
 
 >**Celris Shadetracker says:** You have done well Soandso! I will have this substance examined by our experts at the Magus Conlegium. Perhaps the results will give us some clue as to what teh Coterie of the Eternal Night is collecting it for.
 
 
-* __Faction:__ [Concilium Universus](/faction/1561) (8)
+Your faction standing with [Concilium Universus](/faction/1561) got better (<span class='text-success'>+8</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-4)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-4</span>)
 
 
- **You receive:**  [Validus Scout Cloak](/item/7777) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_532.png" alt="" /> <a
+                                href="/item/7777" data-url="7777" class="tooltip-link link">Validus Scout Cloak</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

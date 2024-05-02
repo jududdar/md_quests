@@ -222,7 +222,8 @@ end
 
 
 
-if( **You turn in:** [Quas Receipt](/item/9050)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/9050" data-url="9050" class="tooltip-link link">Quas Receipt</a>) then
 
 
 >**Weapons Master Rahoul says:** You are just the time. The weapon that Elder Dumul requested has almost been completed. We need you to gather a few items in order to complete the weapon. These items will not require much effort to acquire, but I will need to tell you where to look. Place all of the items that I request in this box and return it to me as quickly as possible.
@@ -231,9 +232,13 @@ if( **You turn in:** [Quas Receipt](/item/9050)) then
 >**Weapons Master Rahoul says:** Now, seek out a large chunk of perfect acrylia [ore], two Gems of the [Void], and chunk of dense fungal [padding]. Once I have those items, I can finish the weapon that you will need to use to kill the dark animist.
 
 
- **You receive:**  [Rahoul's Collection Box](/item/17363) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_837.png" alt="" /> <a
+                                href="/item/17363" data-url="17363" class="tooltip-link link">Rahoul's Collection Box</a> 
 
-elseif( **You turn in:** [Sealed Collection Box](/item/9051)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9051" data-url="9051" class="tooltip-link link">Sealed Collection Box</a>) then
 
 
 >**Weapons Master Rahoul says:** These claws should work well for you. The design was research by Historian Qua. They should work to neutralize the magical field that protects the dark animist and allow you to tear his scaly flesh from his frame. Remember that all of this is theoretical. Those claws are an original creation. You will be the first to prove their effectiveness in combat.
@@ -242,6 +247,10 @@ elseif( **You turn in:** [Sealed Collection Box](/item/9051)) then
 >**Weapons Master Rahoul says:** Take the claws back to Animist Dumul and show him their design. Use them well, Soandso. May the spirits guide you in your attack. 
 
 
- **You receive:** GiveAll( [Jagged Claw of Rending](/item/9055), [Jagged Claw of Rending](/item/9056)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_518.png" alt="" /> <a
+                                href="/item/9055" data-url="9055" class="tooltip-link link">Jagged Claw of Rending</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_518.png" alt="" /> <a
+                                href="/item/9056" data-url="9056" class="tooltip-link link">Jagged Claw of Rending</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

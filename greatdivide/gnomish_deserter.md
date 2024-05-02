@@ -38,13 +38,17 @@ end
 
 
 
-if( **You turn in:** [Dissolving Liquid](/item/30061)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_699.png" alt="" /> <a
+                                href="/item/30061" data-url="30061" class="tooltip-link link">Dissolving Liquid</a>) then 
 
 
 >*gnomish deserter grins and pours the ooze on his hand and the box.  You hear a burning sizzle and then the box thumps onto the ground.  'Ow! Ow! Take it!  Hah.  I never thought I'd get rid of that piece of...'*
 
 
- **You receive:**  [Locked Rum Box](/item/30039) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/30039" data-url="30039" class="tooltip-link link">Locked Rum Box</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

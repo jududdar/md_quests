@@ -18,13 +18,18 @@ end
 
 
 
-if( **You turn in:** [Frontier Ore](/item/12880), [Gem of Nimbleness](/item/6552), platinum = 500) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/12880" data-url="12880" class="tooltip-link link">Frontier Ore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/6552" data-url="6552" class="tooltip-link link">Gem of Nimbleness</a>, platinum = 500) then
 
 
 >**Dapper Blackhammer says:** I thank ya for ya patronage. Here is what ya came here for. Now be careful who ya point this at. 'Tis quite sharp, " .. e.other:Race() .. ". Be off with ya now as I must get back ta workin here. Good day!
 
 
- **You receive:**  [Rozzuts Whistler](/item/6551) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/6551" data-url="6551" class="tooltip-link link">Rozzuts Whistler</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

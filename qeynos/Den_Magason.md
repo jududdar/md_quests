@@ -120,35 +120,39 @@ if( **You turn in:** gold = 2) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
 
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Blank Scroll Sheets](/item/18006) (+100 exp)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
-elseif( **You turn in:** [Package for Den](/item/13784)) then
+
+
+
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18006" data-url="18006" class="tooltip-link link">Blank Scroll Sheets</a> (+100 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/13784" data-url="13784" class="tooltip-link link">Package for Den</a>) then
 
 
 >**Den Magason says:** All right, I'll make sure this gets put on the next boat to Erudin. But now, I need a favor of you. Since I'm stuck here working the docks all day, I need someone to run out to Qeynos Hills and bring me back various pelts and skins. I got a customer in Odus who is trying to get a new shop started, and he needs some samples. Bring me back some snake scales, a high quality bear skin, a high quality wolf skin, and some bat fur. Make sure the quality is good, I can't send him rags.
@@ -157,32 +161,38 @@ elseif( **You turn in:** [Package for Den](/item/13784)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (10)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:** 0 (+1000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
-elseif( **You turn in:** [Snake Scales](/item/13070), [High Quality Bear Skin](/item/13752), [High Quality Wolf Skin](/item/13755), [Bat Fur](/item/13069)) then 
+
+
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
+
+
+
+
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/13070" data-url="13070" class="tooltip-link link">Snake Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13752" data-url="13752" class="tooltip-link link">High Quality Bear Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13755" data-url="13755" class="tooltip-link link">High Quality Wolf Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_792.png" alt="" /> <a
+                                href="/item/13069" data-url="13069" class="tooltip-link link">Bat Fur</a>) then 
 
 
 >**Den Magason says:** Great... Hopefully he will like these samples, and order a lot more from me. Here's some gold for your efforts. Also, could you pass this note on to Ghil next time you talk to him? Thanks again.
@@ -191,30 +201,33 @@ elseif( **You turn in:** [Snake Scales](/item/13070), [High Quality Bear Skin](/
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (20)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+20</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-3)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-3</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (3)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-3)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (3)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+3</span>)
 
 
 
 
- **You receive:**  [Note for Ghil](/item/18796) (+50000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-3</span>)
+
+
+
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+3</span>)
+
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18796" data-url="18796" class="tooltip-link link">Note for Ghil</a> (+50000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **This NPC *should* return incorrect items given.**

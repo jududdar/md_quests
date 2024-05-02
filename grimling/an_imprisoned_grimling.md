@@ -20,5 +20,6 @@
 >**an imprisoned grimling says:** Take, take, I trust. You no kill me now. Hurry, locks change soon!
 
 
-**You receive:**  [Forked Prison Key](/item/5976)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_742.png" alt="" /> <a
+                                href="/item/5976" data-url="5976" class="tooltip-link link">Forked Prison Key</a>
 end

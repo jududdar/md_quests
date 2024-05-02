@@ -64,61 +64,107 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Cloud Jewel](/item/4491), [Mark of the Martial](/item/5496), [Hope Ruby](/item/5497)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5496" data-url="5496" class="tooltip-link link">Mark of the Martial</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/5497" data-url="5497" class="tooltip-link link">Hope Ruby</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Soldier's Boots](/item/3939) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3939" data-url="3939" class="tooltip-link link">Soldier's Boots</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Siege](/item/5494), [Blue Egg](/item/5495)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Soldier's Bracer](/item/3938) (+25000 exp)
-
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of War](/item/5483), [Weathered Yew Wand](/item/5484), [Dew of Dawn](/item/5485)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5494" data-url="5494" class="tooltip-link link">Mark of the Siege</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_871.png" alt="" /> <a
+                                href="/item/5495" data-url="5495" class="tooltip-link link">Blue Egg</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Soldier's Breastplate](/item/3934) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/3938" data-url="3938" class="tooltip-link link">Soldier's Bracer</a> (+25000 exp)
 
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Archery](/item/5489), [Golden Torch](/item/5490), [Small Meteor Fragment](/item/5491)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Soldier's Greaves](/item/3936) (+25000 exp)
-
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Battle](/item/5480), [Petrified Toes](/item/5481), [Fire Blossom](/item/5482)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Soldier's Helm](/item/3933) (+25000 exp)
-
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Swordsmanship](/item/5492), [Water Blossom](/item/5493)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5483" data-url="5483" class="tooltip-link link">Mark of War</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/5484" data-url="5484" class="tooltip-link link">Weathered Yew Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/5485" data-url="5485" class="tooltip-link link">Dew of Dawn</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Soldier's Pauldrons](/item/3937) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/3934" data-url="3934" class="tooltip-link link">Soldier's Breastplate</a> (+25000 exp)
 
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Arms](/item/5486), [Small Sponge](/item/5487), [Scorched Rock](/item/5488)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5489" data-url="5489" class="tooltip-link link">Mark of Archery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/5490" data-url="5490" class="tooltip-link link">Golden Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/5491" data-url="5491" class="tooltip-link link">Small Meteor Fragment</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Soldier's Vambraces](/item/3935) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_611.png" alt="" /> <a
+                                href="/item/3936" data-url="3936" class="tooltip-link link">Soldier's Greaves</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5480" data-url="5480" class="tooltip-link link">Mark of Battle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/5481" data-url="5481" class="tooltip-link link">Petrified Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_721.png" alt="" /> <a
+                                href="/item/5482" data-url="5482" class="tooltip-link link">Fire Blossom</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_628.png" alt="" /> <a
+                                href="/item/3933" data-url="3933" class="tooltip-link link">Soldier's Helm</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5492" data-url="5492" class="tooltip-link link">Mark of Swordsmanship</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_721.png" alt="" /> <a
+                                href="/item/5493" data-url="5493" class="tooltip-link link">Water Blossom</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/3937" data-url="3937" class="tooltip-link link">Soldier's Pauldrons</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5486" data-url="5486" class="tooltip-link link">Mark of Arms</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_790.png" alt="" /> <a
+                                href="/item/5487" data-url="5487" class="tooltip-link link">Small Sponge</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/5488" data-url="5488" class="tooltip-link link">Scorched Rock</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_546.png" alt="" /> <a
+                                href="/item/3935" data-url="3935" class="tooltip-link link">Soldier's Vambraces</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -126,14 +172,14 @@ function FactionReward(e)
 
 >**Legionnaire Frankulus says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

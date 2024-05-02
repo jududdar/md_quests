@@ -36,13 +36,19 @@ local text = "Are you daft? How can I reconstruct the medallion of the Kylong wi
 
 
 
-if( **You turn in:** [Piece of a medallion](/item/19962), [Piece of a medallion](/item/19963), [Piece of a medallion](/item/19964)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19962" data-url="19962" class="tooltip-link link">Piece of a medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19963" data-url="19963" class="tooltip-link link">Piece of a medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19964" data-url="19964" class="tooltip-link link">Piece of a medallion</a>) then
 
 
 >**Professor Akabao says:** For ages this medallion has been scattered across these inhospitable lands, I had just about given up hope of locating the pieces and rebuilding this piece of Iksar history. You may keep it. It is enough to know that I have done my part to restore such an artifact to the people of Norrath.
 
 
- **You receive:**  [Medallion of the Kylong](/item/19955) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19955" data-url="19955" class="tooltip-link link">Medallion of the Kylong</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

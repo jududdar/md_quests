@@ -40,7 +40,8 @@
 >**Enic Ruklin says:** I would be glad to help you out. The Knights of Thunder are a respected order.
 
 
-**You receive:**  [A Donation](/item/13292)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13292" data-url="13292" class="tooltip-link link">A Donation</a>
 end
 
 ## Turn-Ins
@@ -48,7 +49,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Koalindl Fish](/item/13383)) then  
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_786.png" alt="" /> <a
+                                href="/item/13383" data-url="13383" class="tooltip-link link">Koalindl Fish</a>) then  
 
 
 >**Enic Ruklin says:** Thank you my friend! Every Koalindl must be accounted for, even the dead. Rodcet Nife shall be pleased and I shall reward you. Nothing much. Just a token of gratitude.
@@ -57,21 +59,25 @@ if **Faction** >= Amiable and  **You turn in:** [Koalindl Fish](/item/13383)) th
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (100)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (30)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (50)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-25)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (15)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:** eq.ChooseRandom( [Band of Rodcet Nife](/item/13297), [Prayer Beads](/item/13296)) (+5850 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/13297" data-url="13297" class="tooltip-link link">Band of Rodcet Nife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13296" data-url="13296" class="tooltip-link link">Prayer Beads</a>) (+5850 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

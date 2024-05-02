@@ -12,7 +12,8 @@ if( **Faction is** >= Indifferent) then
 >*Phenocryst speaks with a soundless voice, as if you are hearing your own thoughts. 'We sense you are attempting communication with us but do not understand what it is you are trying to convey. We are eager to know more. Perhaps there is one who knows the language of the stone and will speak with us'*
 
 
-elseif(**You possess item:**  [Velium Focus](/item/1693) x 1
+elseif(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1693" data-url="1693" class="tooltip-link link">Velium Focus</a> x 1
 
 
 
@@ -27,7 +28,8 @@ elseif(**You possess item:**  [Velium Focus](/item/1693) x 1
 
 
 
-elseif(**You possess item:**  [Velium Focus](/item/1701) x 1
+elseif(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1701" data-url="1701" class="tooltip-link link">Velium Focus</a> x 1
 
 
 
@@ -52,12 +54,14 @@ elseif(**You possess item:**  [Velium Focus](/item/1701) x 1
 
 
 
-**You receive:**  [Elbaite Focus](/item/1694)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/1694" data-url="1694" class="tooltip-link link">Elbaite Focus</a>
 
 
 
 
-e.other:NukeItem( [Velium Focus](/item/1701));
+e.other:NukeItem( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1701" data-url="1701" class="tooltip-link link">Velium Focus</a>);
 
 
 
@@ -69,49 +73,71 @@ end
 
 
 
-if( **You turn in:** [Velium Focus](/item/1692)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1692" data-url="1692" class="tooltip-link link">Velium Focus</a>) then 
 
 
 >*Phenocryst speaks to you from within your mind, You know the stone! This is wonderful! The fullfillment of the prophecy is now one step closer. The most ancient of the stone tells us that one not of stone will come forth and act as our harbringer of asscention. We believe you to be our harbringer. Please help us!*
 
 
-* __Faction:__ [Geonid Collective](/faction/458) (100)
+Your faction standing with [Geonid Collective](/faction/458) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Velium Focus](/item/1693) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1693" data-url="1693" class="tooltip-link link">Velium Focus</a> 
 
-elseif( **You turn in:** [Velium Focus](/item/1701)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1701" data-url="1701" class="tooltip-link link">Velium Focus</a>) then 
 
 
 >*Phenocryst sends it's thoughts to you, a feeling of disappointment washes over you, It seems the others are not aware of themselves yet. We are alone..So many questions yet we can find no answers. We have been given a very special gift but without direction we are lost. We must find who has made us aware of ourselves and why it has done so.*
 
 
-* __Faction:__ [Geonid Collective](/faction/458) (100)
+Your faction standing with [Geonid Collective](/faction/458) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Velium Focus](/item/1701) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_972.png" alt="" /> <a
+                                href="/item/1701" data-url="1701" class="tooltip-link link">Velium Focus</a> 
 
-elseif( **You turn in:** [Azurite Focus](/item/1698), [Holy Symbol of Zek](/item/1699), [Holy Symbol of Zek](/item/1699), [Holy Symbol of Zek](/item/1699)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/1698" data-url="1698" class="tooltip-link link">Azurite Focus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1699" data-url="1699" class="tooltip-link link">Holy Symbol of Zek</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1699" data-url="1699" class="tooltip-link link">Holy Symbol of Zek</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/1699" data-url="1699" class="tooltip-link link">Holy Symbol of Zek</a>) then
 
 
 >*Phenocryst thoughts become your own, a feeling of joy overwhelms you, 'Because of you we can at last speak with our maker. We were once given a gift, and we ask that you accept this gift from us now so that we may come closer to that which we owe our sentience to. Now. ,we must construct the Menhir.*
 
 
-* __Faction:__ [Geonid Collective](/faction/458) (100)
+Your faction standing with [Geonid Collective](/faction/458) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Phenocrysts Focus](/item/1700) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/1700" data-url="1700" class="tooltip-link link">Phenocrysts Focus</a> 
 
-elseif( **You turn in:** [Elbaite Focus](/item/1694), [Reddish Crystal](/item/1695), [Heavy Metallic Crystal](/item/1697), [Bent Metallic Crystal](/item/1696)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/1694" data-url="1694" class="tooltip-link link">Elbaite Focus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/1695" data-url="1695" class="tooltip-link link">Reddish Crystal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_732.png" alt="" /> <a
+                                href="/item/1697" data-url="1697" class="tooltip-link link">Heavy Metallic Crystal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/1696" data-url="1696" class="tooltip-link link">Bent Metallic Crystal</a>) then 
 
 
 >*Phenocryst makes no sound but it's voice fills your mind. We have always held our memories within the earth and stone but only recently have we become aware of them. We do not know what happened or who gave us this wonderful gift but we can now access those memories and are aware of it's storage. With that knowledge has come questions and desires. When the prophecy comes to be then we will have our answers and fulfill our desires.*
 
 
-* __Faction:__ [Geonid Collective](/faction/458) (100)
+Your faction standing with [Geonid Collective](/faction/458) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [Azurite Focus](/item/1698) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/1698" data-url="1698" class="tooltip-link link">Azurite Focus</a> 
+
+ 
 
 
 **Spawn NPC:**  [accolyte of Zek](/npc/119032) at (**y:** -690.21, **x:** 408.10)

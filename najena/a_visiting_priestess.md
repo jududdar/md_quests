@@ -43,31 +43,38 @@ local text = "grins evilly as she disassembles the staff and holds forth a runed
 
 
 
-if( **You turn in:** [Ice Crystal Staff](/item/6323), [Fire Crystal Staff](/item/6324), [Slime Crystal Staff](/item/6335), [Water Crystal Staff](/item/6336)) then  
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/6323" data-url="6323" class="tooltip-link link">Ice Crystal Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/6324" data-url="6324" class="tooltip-link link">Fire Crystal Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/6335" data-url="6335" class="tooltip-link link">Slime Crystal Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_811.png" alt="" /> <a
+                                href="/item/6336" data-url="6336" class="tooltip-link link">Water Crystal Staff</a>) then  
 
 
 >*a visiting priestess cackles with glee as she slowly assembles the runed rods, and with a muttered incantation and a flash of light, disappears, leaving only a note that slowly drifts to the ground.*
 
 
-* __Faction:__ [Priests of Innoruuk](/faction/340) (100)
+Your faction standing with [Priests of Innoruuk](/faction/340) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (15)
+Your faction standing with [King Naythox Thex](/faction/278) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-34)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-34</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (-25)
+Your faction standing with [Clerics of Tunare](/faction/226) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-15)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-400)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-400</span>)
 
 
- **You receive:**  [Scroll of Flayed Goblin Skin](/item/18401) (+132775 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18401" data-url="18401" class="tooltip-link link">Scroll of Flayed Goblin Skin</a> (+132775 exp)
+
+ 
 
 
 **a visiting priestess despawns.**

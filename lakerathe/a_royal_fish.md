@@ -12,7 +12,8 @@ end
 
 
 
-if( **You turn in:** [Fish Food](/item/12271)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12271" data-url="12271" class="tooltip-link link">Fish Food</a>) then
 
 
 >*a royal fish gladly gulps up your odd mixture and transforms into..!!*
@@ -24,13 +25,13 @@ if( **You turn in:** [Fish Food](/item/12271)) then
 e.other:Ding();
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (10)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (10)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (10)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+10</span>)
 
 
 **a royal fish despawns.**

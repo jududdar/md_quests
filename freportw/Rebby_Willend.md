@@ -13,10 +13,14 @@ end
 
 
 
-if( **You turn in:** [Message to Rebby](/item/18923)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18923" data-url="18923" class="tooltip-link link">Message to Rebby</a>) then
 
 
- **You receive:**  [Rebbys Rat Whiskers](/item/13158) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/13158" data-url="13158" class="tooltip-link link">Rebbys Rat Whiskers</a> (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

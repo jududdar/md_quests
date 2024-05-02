@@ -80,18 +80,22 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Vial of Healing Liquid](/item/6976)) then
+if **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/6976" data-url="6976" class="tooltip-link link">Vial of Healing Liquid</a>) then
 
 
 >**Jali Kaliio says:** Khonza Ayssla gave this to you? We must try it at once then.' Jali opens the vial and gently tilts back Yuio's head. He pours the liquid into her mouth and waits. Miraculously, Yuios fur begins to take on a healthy sheen and the sores begin to disappear! Yuio falls into Jali's arms then goes slack, passing out. 'She needs much rest. I cannot begin to thank you enough for helping us. Please accept this as a reward. It is not much but it should be of some use. You are indeed a friend of ours and if you ever need shelter from the wilds, please visit us again.
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (5)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Wakizashi of the Frozen Skies](/item/6952) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/6952" data-url="6952" class="tooltip-link link">Wakizashi of the Frozen Skies</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

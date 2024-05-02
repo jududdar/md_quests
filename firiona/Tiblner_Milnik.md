@@ -18,13 +18,19 @@ end
 
 
 
-if( **You turn in:** [Staff of Elemental Mastery: Earth](/item/11567), [Dirt of Underfoot](/item/28042), [Broom of Trilon](/item/6360), [Shovel of Ponz](/item/6361)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/28042" data-url="28042" class="tooltip-link link">Dirt of Underfoot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_889.png" alt="" /> <a
+                                href="/item/6360" data-url="6360" class="tooltip-link link">Broom of Trilon</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_891.png" alt="" /> <a
+                                href="/item/6361" data-url="6361" class="tooltip-link link">Shovel of Ponz</a>) then
 
 
 >**Tiblner Milnik says:** Take this Element and keep it with you. I wish you the best in your journey, but I must ask you to leave me now. This frantic pace you set makes me nervous.
 
 
- **You receive:**  [Element of Earth](/item/28032) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/28032" data-url="28032" class="tooltip-link link">Element of Earth</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

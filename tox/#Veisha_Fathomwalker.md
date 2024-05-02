@@ -26,15 +26,20 @@ end
 
 
 
-if( **You turn in:** [Rolled up Note](/item/12998)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/12998" data-url="12998" class="tooltip-link link">Rolled up Note</a>) then 
 
 
 >**Veisha Fathomwalker says:** Davorre, he is still alive! All these years I had thought him dead. He has kept his promise to me, and yet my most recent actions betray him so. I did not know. Here. Please give this to him with my most sincere regrets. I have moved on with my life and it is good to know that he is alive and well. But [Phaeril] is now my life.
 
 
- **You receive:**  [Veisha's Engagement Ring](/item/12997) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1052.png" alt="" /> <a
+                                href="/item/12997" data-url="12997" class="tooltip-link link">Veisha's Engagement Ring</a> (+1000 exp)
 
-elseif( **You turn in:** [A Locked Chest](/item/12995)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/12995" data-url="12995" class="tooltip-link link">A Locked Chest</a>) then 
 
 
 >**Veisha Fathomwalker says:** Vile creature! Child of heresy! My love's death shall be avenged! How dare you bring me his head in a box!

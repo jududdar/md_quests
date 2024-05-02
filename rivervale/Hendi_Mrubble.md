@@ -39,7 +39,10 @@ if( **You turn in:** gold = 10) then
 
 eq.SelfCast(213);
 
-elseif( **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1123.png" alt="" /> <a
+                                href="/item/14029" data-url="14029" class="tooltip-link link">Bixie Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1123.png" alt="" /> <a
+                                href="/item/14029" data-url="14029" class="tooltip-link link">Bixie Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1123.png" alt="" /> <a
+                                href="/item/14029" data-url="14029" class="tooltip-link link">Bixie Stinger</a>) then
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
@@ -47,7 +50,8 @@ elseif( **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/140
 
 eq.SelfCast(203);
 
-elseif( **You turn in:** [Piranha Tooth](/item/13929)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/13929" data-url="13929" class="tooltip-link link">Piranha Tooth</a>) then
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
@@ -55,13 +59,17 @@ elseif( **You turn in:** [Piranha Tooth](/item/13929)) then
 
 eq.SelfCast(12);
 
-elseif( **You turn in:** [Squad Ring](/item/13936)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/13936" data-url="13936" class="tooltip-link link">Squad Ring</a>) then 
 
 
 >**Hendi Mrubble says:** May the swift and silent spirit of Fizzlethorpe Bristlebane smile upon your frail soul.
 
 
- **You receive:**  [Squad Ring](/item/13936) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/13936" data-url="13936" class="tooltip-link link">Squad Ring</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

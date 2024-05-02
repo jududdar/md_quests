@@ -74,61 +74,107 @@ end
 
 
 
-if( **You turn in:** [Moon Jewel](/item/4489), [Mark of the Wild](/item/4961), [Braided Vine Bracelet](/item/4962), [Aged Dark Wood Shaft](/item/4992)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4961" data-url="4961" class="tooltip-link link">Mark of the Wild</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/4962" data-url="4962" class="tooltip-link link">Braided Vine Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/4992" data-url="4992" class="tooltip-link link">Aged Dark Wood Shaft</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Earth Blessed Cap](/item/3762) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/3762" data-url="3762" class="tooltip-link link">Earth Blessed Cap</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Nature](/item/4993), [Primal Earth Rune](/item/4994), [Growth Stone](/item/4995)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Tunic](/item/3763) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Vitality](/item/4996), [Etched Diamond of Nature](/item/4997), [Storm Filled Vial](/item/4998)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Sleeves](/item/3764) (+25000 exp)
-
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Life](/item/4999), [Etched Emerald of Nature](/item/5000), [Sack of Purified Soil](/item/5068)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4993" data-url="4993" class="tooltip-link link">Mark of Nature</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4994" data-url="4994" class="tooltip-link link">Primal Earth Rune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/4995" data-url="4995" class="tooltip-link link">Growth Stone</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Earth Blessed Leggings](/item/3765) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/3763" data-url="3763" class="tooltip-link link">Earth Blessed Tunic</a> (+25000 exp)
 
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Regeneration](/item/5069), [Etched Sapphire of Nature](/item/5079)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Mantle](/item/3766) (+25000 exp)
-
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Growth](/item/5089), [Etched Ruby of Nature](/item/5094)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Earth Blessed Bracer](/item/3767) (+25000 exp)
-
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Weather](/item/5095), [Etched Star Ruby of Nature](/item/5096)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4996" data-url="4996" class="tooltip-link link">Mark of Vitality</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/4997" data-url="4997" class="tooltip-link link">Etched Diamond of Nature</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1158.png" alt="" /> <a
+                                href="/item/4998" data-url="4998" class="tooltip-link link">Storm Filled Vial</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Earth Blessed Boots](/item/3768) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/3764" data-url="3764" class="tooltip-link link">Earth Blessed Sleeves</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/4999" data-url="4999" class="tooltip-link link">Mark of Life</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/5000" data-url="5000" class="tooltip-link link">Etched Emerald of Nature</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/5068" data-url="5068" class="tooltip-link link">Sack of Purified Soil</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/3765" data-url="3765" class="tooltip-link link">Earth Blessed Leggings</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5069" data-url="5069" class="tooltip-link link">Mark of Regeneration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/5079" data-url="5079" class="tooltip-link link">Etched Sapphire of Nature</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/3766" data-url="3766" class="tooltip-link link">Earth Blessed Mantle</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5089" data-url="5089" class="tooltip-link link">Mark of Growth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/5094" data-url="5094" class="tooltip-link link">Etched Ruby of Nature</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/3767" data-url="3767" class="tooltip-link link">Earth Blessed Bracer</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5095" data-url="5095" class="tooltip-link link">Mark of Weather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/5096" data-url="5096" class="tooltip-link link">Etched Star Ruby of Nature</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/3768" data-url="3768" class="tooltip-link link">Earth Blessed Boots</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -136,14 +182,14 @@ function FactionReward(e)
 
 >**Rilla Quickeyes says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

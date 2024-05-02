@@ -21,7 +21,8 @@ end
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Sarnak Dragoon Helm](/item/12761)) then
+if( **Faction is** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/12761" data-url="12761" class="tooltip-link link">Sarnak Dragoon Helm</a>) then
 
 
 >**Klok Sargin says:** Uhh. Thanks. I sort of told the lizard who bought the skull that you were asking for him, and, well, he was kinda mad, and... Soandso, meet Bruiser.

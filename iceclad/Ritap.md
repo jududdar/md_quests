@@ -36,15 +36,19 @@ end
 
 
 
-if( **You turn in:** [Frost Giant Scout Beard](/item/30048)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1001.png" alt="" /> <a
+                                href="/item/30048" data-url="30048" class="tooltip-link link">Frost Giant Scout Beard</a>) then
 
 
 >**Ritap says:** Arg! By blubberbeards nostril!  Ye'v done it!'  He braids the beard together into a sturdy rope. 'Now take this here rope and tie yerself up!  Come lets go tell the cap'n we'v captured us some prisoners!'
 
 
-* __Faction:__ [Pirates of Iceclad](/faction/447) (1)
+Your faction standing with [Pirates of Iceclad](/faction/447) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Tinkered Rope](/item/30049) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/30049" data-url="30049" class="tooltip-link link">Tinkered Rope</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

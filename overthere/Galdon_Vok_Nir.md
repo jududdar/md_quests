@@ -43,13 +43,19 @@ local text1 = "To open the canopic, I require the two Dai keys, the Dai skull ca
 
 
 
-if( **You turn in:** [Ton Warrior Totem](/item/12743), [Ton Warrior Totem](/item/12744), [Dai Nozok skull canopic](/item/12742), gold = 400) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/12743" data-url="12743" class="tooltip-link link">Ton Warrior Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/12744" data-url="12744" class="tooltip-link link">Ton Warrior Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/12742" data-url="12742" class="tooltip-link link">Dai Nozok skull canopic</a>, gold = 400) then
 
 
 >*Galdon Vok Nir takes the two keys. He inserts and twists them, one at a time, in hidden slots on the Dai skull canopic. Suddenly, it pops open and he hands you an iksar skull. 'Here you are,' he says, 'I hope it is what you were looking for.*
 
 
- **You receive:**  [Iksar Skull](/item/12740) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12740" data-url="12740" class="tooltip-link link">Iksar Skull</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

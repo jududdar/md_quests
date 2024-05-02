@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Curing Kit](/item/17125)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17125" data-url="17125" class="tooltip-link link">Curing Kit</a>
 
 
 **You say:** `boot`
@@ -41,7 +42,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Boot Pattern](/item/19561)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19561" data-url="19561" class="tooltip-link link">Tattered Boot Pattern</a>
   
 
 
@@ -54,7 +56,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Wristband Pattern](/item/19558)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19558" data-url="19558" class="tooltip-link link">Tattered Wristband Pattern</a>
 
 
 **You say:** `cap`
@@ -66,7 +69,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Cap Pattern](/item/19555)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 
 **You say:** `glove`
@@ -78,7 +82,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Glove Pattern](/item/19559)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19559" data-url="19559" class="tooltip-link link">Tattered Glove Pattern</a>
 
 
 **You say:** `legging`
@@ -90,7 +95,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Pant Pattern](/item/19560)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19560" data-url="19560" class="tooltip-link link">Tattered Pant Pattern</a>
 
 
 **You say:** `sleeve`
@@ -102,7 +108,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Sleeve Pattern](/item/19557)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19557" data-url="19557" class="tooltip-link link">Tattered Sleeve Pattern</a>
 
 
 **You say:** `tunic`
@@ -114,7 +121,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Tattered Tunic Pattern](/item/19556)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19556" data-url="19556" class="tooltip-link link">Tattered Tunic Pattern</a>
 
 
 **You say:** `next job`
@@ -132,7 +140,8 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Message in Thieves Cant](/item/19942)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/19942" data-url="19942" class="tooltip-link link">Message in Thieves Cant</a>) then
 
 
 >**Reldin Harkolis says:** Excellent! It is fortunate you recovered this message in time. Take this Rusty Unseen Hands Dagger to a forge and sharpen it with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is accomplished bring me the sharpened dagger, a gnoll fang, and a large king snake skin and I will put the finishing touches on the weapon for you.
@@ -141,32 +150,38 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Message in Thieves Cant](/item/1
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (10)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
-
-
-
-
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
-
-
-
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:**  [Rusty Unseen Hands Dagger](/item/19943) (+1000 exp)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Unseen Hands Dagger](/item/19944), [Gnoll Fang](/item/13915), [Large King Snake Skin](/item/19945)) then
+
+
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
+
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/19943" data-url="19943" class="tooltip-link link">Rusty Unseen Hands Dagger</a> (+1000 exp)
+
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/19944" data-url="19944" class="tooltip-link link">Sharpened Unseen Hands Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/19945" data-url="19945" class="tooltip-link link">Large King Snake Skin</a>) then
 
 
 >*Reldin Harkolis fashions a grip out of the large king snake skin, fastens the gnoll fang to the heel of the hilt, and polishes the blade with a faintly glowing polish. 'Herei syour new weapon young rogue.'*
@@ -175,6 +190,9 @@ elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Unseen Hands Dagge
 
 
 
- **You receive:**  [Dagger of Unseen Hands](/item/20266) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/20266" data-url="20266" class="tooltip-link link">Dagger of Unseen Hands</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

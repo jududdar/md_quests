@@ -58,53 +58,93 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Sun Jewel](/item/4488), [Fire Idol](/item/4495), [Fire Marked Scroll](/item/4496), [Runed Ring of Fire](/item/4497)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/4495" data-url="4495" class="tooltip-link link">Fire Idol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/4496" data-url="4496" class="tooltip-link link">Fire Marked Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1061.png" alt="" /> <a
+                                href="/item/4497" data-url="4497" class="tooltip-link link">Runed Ring of Fire</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Cap of Matter](/item/3684) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/3684" data-url="3684" class="tooltip-link link">Cap of Matter</a> (+25000 exp)
 
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Vial of Purified Fire](/item/4498), [Vial of Purified Water](/item/4499), [Vial of Purified Air](/item/4506)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Robe of Matter](/item/3685) (+25000 exp)
-
-elseif( **You turn in:** [Star Jewel](/item/4490), [Air Idol](/item/4507), [Air Marked Scroll](/item/4508), [Runed Ring of Air](/item/4509)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Sleeves of Matter](/item/3686) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Earth Idol](/item/4510), [Earth Marked Scroll](/item/4511), [Runed Ring of Earth](/item/4512)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/4498" data-url="4498" class="tooltip-link link">Vial of Purified Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/4499" data-url="4499" class="tooltip-link link">Vial of Purified Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/4506" data-url="4506" class="tooltip-link link">Vial of Purified Air</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Pants of Matter](/item/3687) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/3685" data-url="3685" class="tooltip-link link">Robe of Matter</a> (+25000 exp)
 
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Talisman of Burning Earth](/item/4513), [Vial of Purified Earth](/item/4514)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/4507" data-url="4507" class="tooltip-link link">Air Idol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/4508" data-url="4508" class="tooltip-link link">Air Marked Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_873.png" alt="" /> <a
+                                href="/item/4509" data-url="4509" class="tooltip-link link">Runed Ring of Air</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Shawl of Matter](/item/3688) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/3686" data-url="3686" class="tooltip-link link">Sleeves of Matter</a> (+25000 exp)
 
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Talisman of Moisture](/item/4584), [Vial of Aqua Waters](/item/4585)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/4510" data-url="4510" class="tooltip-link link">Earth Idol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/4511" data-url="4511" class="tooltip-link link">Earth Marked Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_674.png" alt="" /> <a
+                                href="/item/4512" data-url="4512" class="tooltip-link link">Runed Ring of Earth</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Bracer of Matter](/item/3689) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/3687" data-url="3687" class="tooltip-link link">Pants of Matter</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/4513" data-url="4513" class="tooltip-link link">Talisman of Burning Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/4514" data-url="4514" class="tooltip-link link">Vial of Purified Earth</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/3688" data-url="3688" class="tooltip-link link">Shawl of Matter</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/4584" data-url="4584" class="tooltip-link link">Talisman of Moisture</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1160.png" alt="" /> <a
+                                href="/item/4585" data-url="4585" class="tooltip-link link">Vial of Aqua Waters</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/3689" data-url="3689" class="tooltip-link link">Bracer of Matter</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -112,4 +152,4 @@ function FactionReward(e)
 
 >**Vornol Transon says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Vornol Transon](/faction/1547) (5)
+Your faction standing with [Vornol Transon](/faction/1547) got better (<span class='text-success'>+5</span>)

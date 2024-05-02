@@ -70,61 +70,107 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Silence](/item/5285), [Engraved Fire Emerald Statuette](/item/5286)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5285" data-url="5285" class="tooltip-link link">Mark of Silence</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5286" data-url="5286" class="tooltip-link link">Engraved Fire Emerald Statuette</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Boots of Concealment](/item/3794) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_779.png" alt="" /> <a
+                                href="/item/3794" data-url="3794" class="tooltip-link link">Boots of Concealment</a> (+25000 exp)
 
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Cunning](/item/5283), [Engraved Black Diamond Statuette](/item/5284)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Bracer of Concealment](/item/3793) (+25000 exp)
-
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Stealth](/item/5296), [Engraved Diamond Statuette](/item/5273), [Tethered Leash](/item/5274)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5283" data-url="5283" class="tooltip-link link">Mark of Cunning</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5284" data-url="5284" class="tooltip-link link">Engraved Black Diamond Statuette</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Mail of Concealment](/item/3789) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3793" data-url="3793" class="tooltip-link link">Bracer of Concealment</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of Burglary](/item/5278), [Engraved Ruby Statuette](/item/5279), [Small Brass Figurine](/item/5280)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Greaves of Concealment](/item/3791) (+25000 exp)
-
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Thievery](/item/5269), [Engraved Sapphire Statuette](/item/5270), [Brass Linked Chain](/item/5271)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Coif of Concealment](/item/3788) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Forgery](/item/5281), [Engraved Star Sapphire Statuette](/item/5282)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5296" data-url="5296" class="tooltip-link link">Mark of Stealth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5273" data-url="5273" class="tooltip-link link">Engraved Diamond Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/5274" data-url="5274" class="tooltip-link link">Tethered Leash</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Mantle of Concealment](/item/3792) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3789" data-url="3789" class="tooltip-link link">Mail of Concealment</a> (+25000 exp)
 
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Robbery](/item/5275), [Engraved Emerald Statuette](/item/5276), [Half Melted Blade](/item/5277)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5278" data-url="5278" class="tooltip-link link">Mark of Burglary</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5279" data-url="5279" class="tooltip-link link">Engraved Ruby Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/5280" data-url="5280" class="tooltip-link link">Small Brass Figurine</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Vambraces of Concealment](/item/3790) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_630.png" alt="" /> <a
+                                href="/item/3791" data-url="3791" class="tooltip-link link">Greaves of Concealment</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5269" data-url="5269" class="tooltip-link link">Mark of Thievery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5270" data-url="5270" class="tooltip-link link">Engraved Sapphire Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1235.png" alt="" /> <a
+                                href="/item/5271" data-url="5271" class="tooltip-link link">Brass Linked Chain</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3788" data-url="3788" class="tooltip-link link">Coif of Concealment</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5281" data-url="5281" class="tooltip-link link">Mark of Forgery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5282" data-url="5282" class="tooltip-link link">Engraved Star Sapphire Statuette</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/3792" data-url="3792" class="tooltip-link link">Mantle of Concealment</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5275" data-url="5275" class="tooltip-link link">Mark of Robbery</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5276" data-url="5276" class="tooltip-link link">Engraved Emerald Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5277" data-url="5277" class="tooltip-link link">Half Melted Blade</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3790" data-url="3790" class="tooltip-link link">Vambraces of Concealment</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -132,14 +178,14 @@ function FactionReward(e)
 
 >**Bolli Hillfoot says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

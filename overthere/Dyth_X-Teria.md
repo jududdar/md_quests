@@ -55,42 +55,60 @@ local text = "Only three souls will get you my knowledge, wizard.";
 
 
 
-if( **You turn in:** [Onyx](/item/10027)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_956.png" alt="" /> <a
+                                href="/item/10027" data-url="10027" class="tooltip-link link">Onyx</a>) then
 
 
 >**Dyth X-Teria says:** Identify this when the time comes. It is Ryla's prison.
 
 
- **You receive:**  [an Ornate Bottle](/item/12964) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12964" data-url="12964" class="tooltip-link link">an Ornate Bottle</a> (+0 exp)
 
-elseif( **You turn in:** [Peridot](/item/10028)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>) then
 
 
 >**Dyth X-Teria says:** This bottle is for the one called Hampton. If you look well, you can see his name.
 
 
- **You receive:**  [an Ornate Bottle](/item/12962) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12962" data-url="12962" class="tooltip-link link">an Ornate Bottle</a> (+0 exp)
 
-elseif( **You turn in:** [Star Rose Quartz](/item/10021)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_950.png" alt="" /> <a
+                                href="/item/10021" data-url="10021" class="tooltip-link link">Star Rose Quartz</a>) then
 
 
 
 >**Dyth X-Teria says:** This bottle is for Mardon. You may be able to identify his name upon it.
 
 
- **You receive:**  [an Ornate Bottle](/item/12963) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12963" data-url="12963" class="tooltip-link link">an Ornate Bottle</a> (+0 exp)
+
+ 
 
 
-elseif( **You turn in:** [bottle of swirling smoke](/item/12965), [bottle of swirling smoke](/item/12966), [bottle of swirling smoke](/item/12967)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12965" data-url="12965" class="tooltip-link link">bottle of swirling smoke</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12966" data-url="12966" class="tooltip-link link">bottle of swirling smoke</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12967" data-url="12967" class="tooltip-link link">bottle of swirling smoke</a>) then
 
 
 >*Dyth X-Teria empties the bottle's smoke into a very large glass urn filled with similar swirling smoke. You think you hear the cries of a thousand tortured souls. He then closes the urn and hands you a scroll. 'Here is your reward. It will blast a foe's brain and hopefully, they may forget their hatred.*
 
 
-* __Faction:__ [Venril Sathir](/faction/318) (30)
+Your faction standing with [Venril Sathir](/faction/318) got better (<span class='text-success'>+30</span>)
 
 
- **You receive:**  [Scroll of Brain Bite](/item/12968) (+3322176 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12968" data-url="12968" class="tooltip-link link">Scroll of Brain Bite</a> (+3322176 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

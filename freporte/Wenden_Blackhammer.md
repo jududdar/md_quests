@@ -49,29 +49,46 @@ end
 
 
 
-if( **You turn in:** [Unjeweled Dragon Head Hilt](/item/20668), [Diamond](/item/10037), [Black Sapphire](/item/10036), [Jacinth](/item/10053)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/20668" data-url="20668" class="tooltip-link link">Unjeweled Dragon Head Hilt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_965.png" alt="" /> <a
+                                href="/item/10036" data-url="10036" class="tooltip-link link">Black Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/10053" data-url="10053" class="tooltip-link link">Jacinth</a>) then 
 
 
 >*Wenden Blackhammer begins to fiddle with the hilt, gently pressing the gems into place. It seems to take forever as you watch in silence. Wenden slowly places the last gem in place and gently bends the settings to hold the gems before he hands it back to you. 'That's a very impressive looking hilt there. The material it is made out of seems strangely familiar,' Wenden says as he turns back to his forge and his other work.*
 
 
- **You receive:**  [Jeweled Dragon Head Hilt](/item/20671) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/20671" data-url="20671" class="tooltip-link link">Jeweled Dragon Head Hilt</a> (+1000 exp)
 
-elseif( **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669), [Rejesiam Ore](/item/20666), [Ball of Everliving Golem](/item/20677)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/20669" data-url="20669" class="tooltip-link link">Severely Damaged Dragon Head Hilt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/20666" data-url="20666" class="tooltip-link link">Rejesiam Ore</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/20677" data-url="20677" class="tooltip-link link">Ball of Everliving Golem</a>) then 
 
 
 >*Wenden Blackhammer works his magic with his forge as you have never seen done quite like this. The bending and shaping to repair the hilt is only something a master of his art could even fathom to try. Once the hilt has been cooled in a near by bucket of ice cold water, he checks it for balance and resonance before handing it to you.*
 
 
- **You receive:**  [Finely Crafted Dragon Head Hilt](/item/20672) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/20672" data-url="20672" class="tooltip-link link">Finely Crafted Dragon Head Hilt</a> (+1000 exp)
 
-elseif( **You turn in:** [Severely Damaged Dragon Head Hilt](/item/20669)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/20669" data-url="20669" class="tooltip-link link">Severely Damaged Dragon Head Hilt</a>) then
 
 
 >**Wenden Blackhammer says:** Where in the world did you drag that up?!' He peers closely at the severely damaged dragon head hilt. 'This metal is the same material that some mages use to make powerful golems and this other metal looks like rejesiam ore. If you can find some of those materials, I can fix this hilt up easily.
 
 
- **You receive:**  [Severely Damaged Dragon Head Hilt](/item/20669) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1231.png" alt="" /> <a
+                                href="/item/20669" data-url="20669" class="tooltip-link link">Severely Damaged Dragon Head Hilt</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

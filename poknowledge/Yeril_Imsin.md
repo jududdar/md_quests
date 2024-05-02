@@ -14,37 +14,44 @@
 >**Yeril Imsin says:** Excellent! Simply fill this crate with either four large bricks or four small bricks of unrefined ore from Norrath and return it to me. I will provide you with coin and refine the ore for sale to the smiths of New Tanaan.
 
 
-**You receive:**  [Empty Ore Crate](/item/17814)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17814" data-url="17814" class="tooltip-link link">Empty Ore Crate</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Large Shipment of High Quality Ore](/item/10953)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10953" data-url="10953" class="tooltip-link link">Large Shipment of High Quality Ore</a>) then
 
 
 >**Yeril Imsin says:** Thank you Soandso! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
 
 
-* __Faction:__ [Inhabitants of Tanaan](/faction/1636) (4)
+Your faction standing with [Inhabitants of Tanaan](/faction/1636) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 4 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Yeril Imsin despawns.**
 
-elseif( **You turn in:** [Small Shipment of High Quality Ore](/item/10952)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10952" data-url="10952" class="tooltip-link link">Small Shipment of High Quality Ore</a>) then
 
 
 >**Yeril Imsin says:** Thank you Soandso! I will prepare the ore for sale and be open for business again momentarily. Here is your payment for your services.
 
 
-* __Faction:__ [Inhabitants of Tanaan](/faction/1636) (4)
+Your faction standing with [Inhabitants of Tanaan](/faction/1636) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 4 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Yeril Imsin despawns.**

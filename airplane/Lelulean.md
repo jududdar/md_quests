@@ -33,29 +33,47 @@ end
 
 
 
-if( **You turn in:** [Crimson Tessera](/item/20931), [Darkstone Emerald](/item/20767), [Finely Woven Cloth Cord](/item/20768)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20931" data-url="20931" class="tooltip-link link">Crimson Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/20767" data-url="20767" class="tooltip-link link">Darkstone Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/20768" data-url="20768" class="tooltip-link link">Finely Woven Cloth Cord</a>) then 
 
 
 >**Lelulean says:** Good work, Soandso, I hope you find this as useful as I find the items you retrieved for me.
 
 
- **You receive:**  [Sphinx Hair Cord](/item/1277) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/1277" data-url="1277" class="tooltip-link link">Sphinx Hair Cord</a> (+100000 exp)
 
-elseif( **You turn in:** [Bluish Stone](/item/20769), [Light Cloth Mantle](/item/20770), [Silver Disc](/item/20938)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/20769" data-url="20769" class="tooltip-link link">Bluish Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/20770" data-url="20770" class="tooltip-link link">Light Cloth Mantle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/20938" data-url="20938" class="tooltip-link link">Silver Disc</a>) then 
 
 
 >**Lelulean says:** The Wind Walker's Mantle will sit well upon your shoulders, Soandso.  Be well this day.
 
 
- **You receive:**  [Wind Walkers Mantle](/item/1276) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1276" data-url="1276" class="tooltip-link link">Wind Walkers Mantle</a> (+100000 exp)
 
-elseif( **You turn in:** [Rugous Globe](/item/20945), [Silken Mask](/item/20772), [Sky Pearl](/item/20771)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20945" data-url="20945" class="tooltip-link link">Rugous Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/20772" data-url="20772" class="tooltip-link link">Silken Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/20771" data-url="20771" class="tooltip-link link">Sky Pearl</a>) then 
 
 
 >**Lelulean says:** My thanks to you, Soandso.  Take this mask as a token of my gratitude.
 
 
- **You receive:**  [Ivory Mask](/item/1275) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/1275" data-url="1275" class="tooltip-link link">Ivory Mask</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

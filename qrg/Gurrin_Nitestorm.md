@@ -31,24 +31,29 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Writ of Thunder](/item/8908), [Silver Blade of Rot](/item/8911)) then 
+if( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/8908" data-url="8908" class="tooltip-link link">Writ of Thunder</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1195.png" alt="" /> <a
+                                href="/item/8911" data-url="8911" class="tooltip-link link">Silver Blade of Rot</a>) then 
 
 
 e.self:Emote("examines the blade carefully, his manner seeming distant 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Purified Silver Blade](/item/8915) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1178.png" alt="" /> <a
+                                href="/item/8915" data-url="8915" class="tooltip-link link">Purified Silver Blade</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

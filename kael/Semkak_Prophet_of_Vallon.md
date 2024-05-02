@@ -51,24 +51,32 @@ end
 
 
 
-if( **Faction is** > Indifferent and ( **You turn in:** [Golden Tablet of Draconic Strategy](/item/24986) or  **You turn in:** [Scroll of Scaled Tactics](/item/24985))) then
+if( **Faction is** > Indifferent and ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/24986" data-url="24986" class="tooltip-link link">Golden Tablet of Draconic Strategy</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/24985" data-url="24985" class="tooltip-link link">Scroll of Scaled Tactics</a>)) then
 
 
 >**Semkak Prophet of Vallon says:** This tablet holds great knowledge. The Temple of Strategy thanks you, Soandso. Take this and know that your own strategies are wise indeed if you have acquired this tablet from the depths of the dragons' graveyard.
 
 
-* __Faction:__ [Kromzek](/faction/448) (20)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (5)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (5)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-10)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:** eq.ChooseRandom( [Steel Wristband  of Strategy](/item/25036), 25040, 25034, 25035) (+50000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_521.png" alt="" /> <a
+                                href="/item/25036" data-url="25036" class="tooltip-link link">Steel Wristband  of Strategy</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/25040" data-url="25040" class="tooltip-link link">Shield of Battle</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25034" data-url="25034" class="tooltip-link link">Circlet of Vallon</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/25035" data-url="25035" class="tooltip-link link">Book of Strategy</a>) (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

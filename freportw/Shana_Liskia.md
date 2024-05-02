@@ -37,7 +37,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Enchanted Sewing Kit](/item/17260)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17260" data-url="17260" class="tooltip-link link">Enchanted Sewing Kit</a>
 
 
 **You say:** `sleeve`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22586)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22586" data-url="22586" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `bracer`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22584)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22584" data-url="22584" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `cap`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22583)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22583" data-url="22583" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 **You say:** `glove`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22588)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22588" data-url="22588" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 **You say:** `sandal`
@@ -97,7 +102,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sandals Pattern](/item/22585)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22585" data-url="22585" class="tooltip-link link">An Enchanted Sandals Pattern</a>
 
 
 **You say:** `trouser`
@@ -109,7 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Trousers Pattern](/item/22587)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22587" data-url="22587" class="tooltip-link link">An Enchanted Trousers Pattern</a>
 
 
 **You say:** `robe`
@@ -121,7 +128,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Robe Pattern](/item/22589)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22589" data-url="22589" class="tooltip-link link">An Enchanted Robe Pattern</a>
 
 
 **You say:** `final assignment`
@@ -142,25 +150,31 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Lion Tooth](/item/9917), [Lion Tooth](/item/9917), [Shanas Necklace](/item/9933)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/9917" data-url="9917" class="tooltip-link link">Lion Tooth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/9917" data-url="9917" class="tooltip-link link">Lion Tooth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/9933" data-url="9933" class="tooltip-link link">Shanas Necklace</a>) then 
 
 
 >**Shana Liskia says:** I am so happy to have my necklace back! I cannot begin to tell you how much this means to me Reveree. Please take this dagger as a symbol of my sincere thanks. It was presented to me by the academy for my years of teaching but I hope you will take it. Good luck to you and come back to visit us soon!
 
 
-* __Faction:__ [Arcane Scientists](/faction/220) (25)
+Your faction standing with [Arcane Scientists](/faction/220) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (6)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-3)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Dagger of the Academy](/item/9938) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/9938" data-url="9938" class="tooltip-link link">Dagger of the Academy</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

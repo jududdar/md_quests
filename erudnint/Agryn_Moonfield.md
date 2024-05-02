@@ -25,13 +25,17 @@ end
 
 
 
-if( **You turn in:** [Peacekeeper Token](/item/13989)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/13989" data-url="13989" class="tooltip-link link">Peacekeeper Token</a>) then
 
 
 >**Agryn Moonfield says:** Ah!! A Peacekeeper. I have some Vasty Deep water sitting out already. Here you are. Do not let it fall into the wrong hands.
 
 
- **You receive:**  [Clear Water](/item/13939) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13939" data-url="13939" class="tooltip-link link">Clear Water</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -22,7 +22,9 @@ local text = "What?! I need the Legion Lager and the legion order.";
 
 
 
-if( **You turn in:** [Legion Order](/item/18242), [Legion Lager](/item/12463)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18242" data-url="18242" class="tooltip-link link">Legion Order</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_830.png" alt="" /> <a
+                                href="/item/12463" data-url="12463" class="tooltip-link link">Legion Lager</a>) then 
 
 
 >*Trooper Gummin slowly signs the order. '...Love, Innoruuk. There you go. Now run along. Let me enjoy my last brew alone.'*
@@ -31,21 +33,24 @@ if( **You turn in:** [Legion Order](/item/18242), [Legion Lager](/item/12463)) t
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Legion Order](/item/18243) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18243" data-url="18243" class="tooltip-link link">Legion Order</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

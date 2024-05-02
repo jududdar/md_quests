@@ -63,7 +63,8 @@ else
 
 
 
-**You receive:**  [Inert Potion](/item/13983)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_599.png" alt="" /> <a
+                                href="/item/13983" data-url="13983" class="tooltip-link link">Inert Potion</a>
 
 
 **You say:** `Serna Tasknon`
@@ -92,7 +93,8 @@ end
 
 
 
-if( **You turn in:** [Shark Powder](/item/12125)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12125" data-url="12125" class="tooltip-link link">Shark Powder</a>) then 
 
 
 >**Tonmerk Plorsin says:** I thank you, my good friend. Surely the road to Freeport was not easily trod. Please take this as compensation for your costs and I also grant you the ability to call forth the power of Rodcet Nife to smite the enemy. Go forth to defend life.
@@ -101,24 +103,29 @@ if( **You turn in:** [Shark Powder](/item/12125)) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (20)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (6)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-5)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Spell: Smite](/item/15016) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15016" data-url="15016" class="tooltip-link link">Spell: Smite</a> (+100000 exp)
 
-elseif( **You turn in:** [Bog Juice](/item/16581), [Bandages](/item/13009)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-30 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/16581" data-url="16581" class="tooltip-link link">Bog Juice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) then 
 
 
 >**Tonmerk Plorsin says:** The glory of Rodcet Nife flows through your soul. May your body and soul live in righteous health.
@@ -126,7 +133,8 @@ elseif( **You turn in:** [Bog Juice](/item/16581), [Bandages](/item/13009)) then
 
 **Tonmerk Plorsin casts:** [Counteract Disease](/spell/96) on target.
 
-elseif( **You turn in:** [Snake Fang](/item/13067)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/13067" data-url="13067" class="tooltip-link link">Snake Fang</a>) then 
 
 
 >**Tonmerk Plorsin says:** The glory of Rodcet Nife flows through your soul. May your body and soul live in righteous health.

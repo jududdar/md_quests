@@ -71,7 +71,11 @@ local text = "Mmmm. Ahh... <Burp!> That was delicious. How about another?";
 
 
 
-if( **You turn in:** [Ogre Swill](/item/13038),item2=  [Ogre Swill](/item/13038), [Ogre Swill](/item/13038), [Ogre Swill](/item/13038)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_829.png" alt="" /> <a
+                                href="/item/13038" data-url="13038" class="tooltip-link link">Ogre Swill</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_829.png" alt="" /> <a
+                                href="/item/13038" data-url="13038" class="tooltip-link link">Ogre Swill</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_829.png" alt="" /> <a
+                                href="/item/13038" data-url="13038" class="tooltip-link link">Ogre Swill</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_829.png" alt="" /> <a
+                                href="/item/13038" data-url="13038" class="tooltip-link link">Ogre Swill</a>) then
 
 
 
@@ -82,24 +86,27 @@ if( **You turn in:** [Ogre Swill](/item/13038),item2=  [Ogre Swill](/item/13038)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
-
-
-
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [A Donation](/item/13291) (+500 exp)
+
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/13291" data-url="13291" class="tooltip-link link">A Donation</a> (+500 exp)
+
+ 
 
 
 

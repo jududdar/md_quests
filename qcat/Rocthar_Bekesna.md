@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Illie Roln](/item/20205)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20205" data-url="20205" class="tooltip-link link">Note to Illie Roln</a>
 
 
 **You say:** `small task`
@@ -47,47 +48,55 @@ end
 
 local expansion_flag = eq.get_current_expansion();
 
-if( **You turn in:** [Blood Stained Note](/item/18853)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18853" data-url="18853" class="tooltip-link link">Blood Stained Note</a>) then 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (100)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-15)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (10)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-25)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (5)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Ruined Training Tunic*](/item/13598) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13598" data-url="13598" class="tooltip-link link">Ruined Training Tunic*</a> (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Lukas Hergo's Head](/item/20175)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/20175" data-url="20175" class="tooltip-link link">Lukas Hergo's Head</a>) then
 
 
 >**Rocthar Bekesna says:** Well done Soandso. Now take this Rusty Scourge Warrior Broadsword to a forge and sharpen it with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done take the Tarnished Scourge Warrior Sword and a Giant King Snake Skin to Illie Roln and he will put the finishing touches on the weapon.
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (10)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (-1)
+Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-2)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rusty Scourge Warrior Broadsword](/item/20176) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20176" data-url="20176" class="tooltip-link link">Rusty Scourge Warrior Broadsword</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -34,29 +34,36 @@ end
 
 
 
-if( **You turn in:** [Blessed Parchment](/item/5761), [Dark Root Ink](/item/5762), [Stormravens Quill](/item/5766)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/5761" data-url="5761" class="tooltip-link link">Blessed Parchment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/5762" data-url="5762" class="tooltip-link link">Dark Root Ink</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_755.png" alt="" /> <a
+                                href="/item/5766" data-url="5766" class="tooltip-link link">Stormravens Quill</a>) then 
 
 
 >*Rebecca Cabbageleaf smiles warmly, 'Brilliant, you've brought me some more supplies! Here, please take this last copy I've made. I'd planned to use it for myself, but I'll let you use it so you don't have to wait for me to make a new one. I do hope you enjoy it!'*
 
 
- **You receive:**  [Spell: Protection of the Cabbage](/item/9722) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/9722" data-url="9722" class="tooltip-link link">Spell: Protection of the Cabbage</a> 
 
-elseif( **You turn in:** [Xanthe\`s Earring of Nature](/item/9721)) then
+ 
 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1072.png" alt="" /> <a
+                                href="/item/28771" data-url="28771" class="tooltip-link link">Earring of the Solstice</a> 
 
->**Rebecca Cabbageleaf says:** Here you are friend, an earring of the Solstice. I'll see that your old earring goes to a druid who can make better use of it. Safe travels, friend!
+ 
 
-
- **You receive:**  [Earring of the Solstice](/item/28771) 
-
-elseif( **You turn in:** [Earring of the Solstice](/item/28771)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1072.png" alt="" /> <a
+                                href="/item/28771" data-url="28771" class="tooltip-link link">Earring of the Solstice</a>) then
 
 
 >**Rebecca Cabbageleaf says:** Here you are friend, Xanthe's Earring of Nature. I'll see that your old earring goes to someone who can make better use of it. Safe travels, friend!
 
 
- **You receive:**  [Xanthe\`s Earring of Nature](/item/9721) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1072.png" alt="" /> <a
+                                href="/item/9721" data-url="9721" class="tooltip-link link">Xanthe\`s Earring of Nature</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

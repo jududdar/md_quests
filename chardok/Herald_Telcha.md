@@ -61,7 +61,8 @@ elseif(( **Faction is** > Kindly) and (**Your level**> 49)) then
 
 
 
-**You receive:**  [Di'zok Signet of Service](/item/5728)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a>
 
 end
 
@@ -69,7 +70,9 @@ end
 
 
 
-if( **You turn in:** [Head of Skargus](/item/6476), [Di'zok Signet of Service](/item/5728)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_996.png" alt="" /> <a
+                                href="/item/6476" data-url="6476" class="tooltip-link link">Head of Skargus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a>) then 
 
 
 >**Herald Telcha says:** Ah hah! You are notworthy indeed amongst the servants of the Sarnak! Perhaps I should have you killed, before your deeds outdo mine.. Hmm.. Guards! Guards! Haha, do not panic menial being, in fact I am most impressed with your service. Here is the ring I promised you in exchange for your efforts.
@@ -78,35 +81,47 @@ if( **You turn in:** [Head of Skargus](/item/6476), [Di'zok Signet of Service](/
 
 
 
-* __Faction:__ [Brood of Di`Zok](/faction/451) (500)
+Your faction standing with [Brood of Di`Zok](/faction/451) got better (<span class='text-success'>+500</span>)
 
 
-* __Faction:__ [Sarnak Collective](/faction/307) (500)
+Your faction standing with [Sarnak Collective](/faction/307) got better (<span class='text-success'>+500</span>)
 
 
-* __Faction:__ [Goblins of Mountain Death](/faction/259) (-200)
+Your faction standing with [Goblins of Mountain Death](/faction/259) got worse (<span class='text-danger'>-200</span>)
 
 
 eq.delete_global("RegalBandBathezid");
 
 
- **You receive:**  [Regal band of Bathezid](/item/5727) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/5727" data-url="5727" class="tooltip-link link">Regal band of Bathezid</a> (+50000 exp)
+
+ 
 
 
- **You receive:**  [Di'zok Signet of Service](/item/5728) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a> 
 
-elseif(( **Faction is** >= Ally) and  **You turn in:** [Regal band of Bathezid](/item/5727)) then 
+ 
+
+elseif(( **Faction is** >= Ally) and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/5727" data-url="5727" class="tooltip-link link">Regal band of Bathezid</a>) then 
 
 
- **You receive:**  [Regal band of Bathezid](/item/5727) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/5727" data-url="5727" class="tooltip-link link">Regal band of Bathezid</a> 
+
+ 
 
 else 
 
 
-local salt =  **You turn in:**  { [Mt. Death Mineral Salts](/item/16972)}, 2
+local salt =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1015.png" alt="" /> <a
+                                href="/item/16972" data-url="16972" class="tooltip-link link">Mt. Death Mineral Salts</a>}, 2
 
 
-local skin =  **You turn in:**  { [Green Goblin Skin](/item/22135)}
+local skin =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1233.png" alt="" /> <a
+                                href="/item/22135" data-url="22135" class="tooltip-link link">Green Goblin Skin</a>}
 
 
 if(salt > 0) then
@@ -128,22 +143,24 @@ repeat
 
 
 
-* __Faction:__ [Brood of Di`Zok](/faction/451) (3)
+Your faction standing with [Brood of Di`Zok](/faction/451) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Sarnak Collective](/faction/307) (3)
+Your faction standing with [Sarnak Collective](/faction/307) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Goblins of Mountain Death](/faction/259) (-1)
+Your faction standing with [Goblins of Mountain Death](/faction/259) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
 
@@ -175,22 +192,24 @@ repeat
 
 
 
-* __Faction:__ [Brood of Di`Zok](/faction/451) (3)
+Your faction standing with [Brood of Di`Zok](/faction/451) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Sarnak Collective](/faction/307) (3)
+Your faction standing with [Sarnak Collective](/faction/307) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Goblins of Mountain Death](/faction/259) (-1)
+Your faction standing with [Goblins of Mountain Death](/faction/259) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
 

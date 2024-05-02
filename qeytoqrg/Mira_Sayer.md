@@ -15,7 +15,7 @@
 >*Mira Sayer looks up with tear-filled eyes and sobs uncontrollably.*
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 **You say:** `crying`
 

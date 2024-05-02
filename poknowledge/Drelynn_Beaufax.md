@@ -27,13 +27,17 @@ end
 
 
 
-if( **You turn in:** [Collection of Gems](/item/28077)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/28077" data-url="28077" class="tooltip-link link">Collection of Gems</a>) then
 
 
 >*Drelynn Beaufax inspects each gem carefully. 'These are in much better condition then I thought I would get them in. Adding these to my exhibit pleases me greatly. As promised, here is something for you.'*
 
 
- **You receive:**  [Fine Antique Veil](/item/28242) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/28242" data-url="28242" class="tooltip-link link">Fine Antique Veil</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

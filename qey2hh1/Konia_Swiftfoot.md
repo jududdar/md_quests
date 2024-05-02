@@ -29,7 +29,8 @@ e.self:Say(string.format("Hello there, %s.  I am hosting a relay running contest
 >**Konia Swiftfoot says:** Here you go.  Run with this torch as fast as you can to the Misty Thicket and hand this torch off to Fajio Knejo.  He will tell you where to go from there.  Hurry!  You do not have much time!
 
 
-**You receive:**  [Torch of Misty](/item/20532)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/20532" data-url="20532" class="tooltip-link link">Torch of Misty</a>
 end
 
 ## Turn-Ins
@@ -37,21 +38,29 @@ end
 
 
 
-if( **You turn in:** [Proof of Speed](/item/20379)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_765.png" alt="" /> <a
+                                href="/item/20379" data-url="20379" class="tooltip-link link">Proof of Speed</a>) then
 
 
 >**Konia Swiftfoot says:** Excellent!  You are quite a runner.  Here is half of the sheet music.  I decided to keep the other half because it has this wonderful signature.  I think it might be quite valuable.  It is probably worth as much as an instrument the great Mahlin used.
 
 
- **You receive:**  [Maestro's Symphony Page 24 Top](/item/20376) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/20376" data-url="20376" class="tooltip-link link">Maestro's Symphony Page 24 Top</a> (+1000 exp)
 
-elseif( **You turn in:** [Mahlins Mystical Bongos](/item/20366)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1152.png" alt="" /> <a
+                                href="/item/20366" data-url="20366" class="tooltip-link link">Mahlins Mystical Bongos</a>) then
 
 
 >**Konia Swiftfoot says:** Mahlin's bongos!  Here, take the other half of the sheet music.  I can't really make out what the signature was, anyway.
 
 
- **You receive:**  [Maestro's Symphony Page 24 Bottom](/item/20383) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/20383" data-url="20383" class="tooltip-link link">Maestro's Symphony Page 24 Bottom</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

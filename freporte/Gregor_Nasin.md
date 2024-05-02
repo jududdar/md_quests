@@ -69,7 +69,11 @@ end
 
 
 
-if( **You turn in:** [Eruds Tonic](/item/13118), [Koalindl Fish](/item/13383), [Honey Jum](/item/13952), [Kiola Nut](/item/13340)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_856.png" alt="" /> <a
+                                href="/item/13118" data-url="13118" class="tooltip-link link">Eruds Tonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_786.png" alt="" /> <a
+                                href="/item/13383" data-url="13383" class="tooltip-link link">Koalindl Fish</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/13952" data-url="13952" class="tooltip-link link">Honey Jum</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1000.png" alt="" /> <a
+                                href="/item/13340" data-url="13340" class="tooltip-link link">Kiola Nut</a>) then
 
 
 >**Gregor Nasin says:** Now I have every ingredient mentioned in the Barkeep Compendium. Here. You take it. <..click!.> Whoops!! I just closed it. It's magically sealed, I never closed it before. It's useless to you. I have no need for it any longer. Maybe you can return it to [Clurg] for some type of reward.
@@ -78,22 +82,25 @@ if( **You turn in:** [Eruds Tonic](/item/13118), [Koalindl Fish](/item/13383), [
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (5)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (5)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (1)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Barkeep Compendium](/item/13379) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/13379" data-url="13379" class="tooltip-link link">Barkeep Compendium</a> (+200 exp)
+
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

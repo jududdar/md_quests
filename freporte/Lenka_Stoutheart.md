@@ -64,7 +64,8 @@ end
 
 
 
-if( **You turn in:** [Boat Beacon](/item/13818)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_728.png" alt="" /> <a
+                                href="/item/13818" data-url="13818" class="tooltip-link link">Boat Beacon</a>) then 
 
 
 >**Lenka Stoutheart says:** Oh!! You must work for that Erudite named Palatos. I guess he won't have to spend anymore money drinking in Freeport. Here. Here is the portrait I kept until he could get me a new boat beacon.
@@ -73,41 +74,27 @@ if( **You turn in:** [Boat Beacon](/item/13818)) then
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (5)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (1)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [AkAnons Portrait](/item/12146) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/12146" data-url="12146" class="tooltip-link link">AkAnons Portrait</a> (+20000 exp)
 
-elseif( **You turn in:** [L.S. Pouch](/item/13814)) then 
+ 
 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/13922" data-url="13922" class="tooltip-link link">Snapped Pole</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_886.png" alt="" /> <a
+                                href="/item/13923" data-url="13923" class="tooltip-link link">Moggoks Right Eye</a>) (+200 exp)
 
->**Lenka Stoutheart says:** You found my pouch! Thanks kid. Let me buy you A drink and this is for the good work. Hmmmm. It looks as though they took my voucher. Darn it! Hey... It looks like they were using my bag to hold items they were stealing. Here you go. You can have it. It looks like junk.
-
-
-
-
-
-* __Faction:__ [Wolves of the North](/faction/320) (5)
-
-
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
-
-
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
-
-
-* __Faction:__ [Steel Warriors](/faction/311) (1)
-
-
- **You receive:** eq.ChooseRandom( [Snapped Pole](/item/13922), [Moggoks Right Eye](/item/13923)) (+200 exp)
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

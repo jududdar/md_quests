@@ -53,7 +53,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Useless Token](/item/12184)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/12184" data-url="12184" class="tooltip-link link">Useless Token</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -80,15 +81,19 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Crushbone Information](/item/12183)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/12183" data-url="12183" class="tooltip-link link">Crushbone Information</a>) then
 
 
 >**Geeda says:** Fine work. We are very grateful. Take this Scout Cape. May you use it to serve Kelethin.
 
 
-* __Faction:__ [Scouts of Tunare](/faction/316) (20)
+Your faction standing with [Scouts of Tunare](/faction/316) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Scouts Cape](/item/2914) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_840.png" alt="" /> <a
+                                href="/item/2914" data-url="2914" class="tooltip-link link">Scouts Cape</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

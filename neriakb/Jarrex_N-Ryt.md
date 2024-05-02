@@ -31,7 +31,8 @@ if(e.other:GetClass() == 1 and e.other:GetRace() == 6) then
 
 
 
-**You receive:**  [Request Form](/item/31753)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/31753" data-url="31753" class="tooltip-link link">Request Form</a>
 
 
 
@@ -81,7 +82,10 @@ if(e.other:GetClass() == 1 and e.other:GetRace() == 6) then
 
 
 
-if( **You turn in:** [Deathfist Templar Scalp](/item/16173), [Orc Clavicle](/item/19565), [Orc Fibula](/item/19564)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/16173" data-url="16173" class="tooltip-link link">Deathfist Templar Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/19565" data-url="19565" class="tooltip-link link">Orc Clavicle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/19564" data-url="19564" class="tooltip-link link">Orc Fibula</a>) then
 
 
 
@@ -91,11 +95,18 @@ if( **You turn in:** [Deathfist Templar Scalp](/item/16173), [Orc Clavicle](/ite
 
 
 
- **You receive:**  [Jagged Orc Slayer Sword](/item/19606) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/19606" data-url="19606" class="tooltip-link link">Jagged Orc Slayer Sword</a> 
+
+ 
 
 
 
-elseif( **You turn in:** [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562), [Young Kodiak Femur](/item/19562)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19562" data-url="19562" class="tooltip-link link">Young Kodiak Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19562" data-url="19562" class="tooltip-link link">Young Kodiak Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19562" data-url="19562" class="tooltip-link link">Young Kodiak Femur</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/19562" data-url="19562" class="tooltip-link link">Young Kodiak Femur</a>) then
 
 
 
@@ -105,7 +116,10 @@ elseif( **You turn in:** [Young Kodiak Femur](/item/19562), [Young Kodiak Femur]
 
 
 
- **You receive:**  [Black Femur Shield](/item/19609) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/19609" data-url="19609" class="tooltip-link link">Black Femur Shield</a> 
+
+ 
 
 
 

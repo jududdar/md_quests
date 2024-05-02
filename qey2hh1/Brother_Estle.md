@@ -79,7 +79,8 @@ end
 
 
 
-if( **You turn in:** [Blessed Oil Flask](/item/13910)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13910" data-url="13910" class="tooltip-link link">Blessed Oil Flask</a>) then
 
 
 >**Brother Estle says:** Thank you. Now I may cleanse the bodies of the new converts and help them enter into a new life. I also have this. It was given to me by a dying gnoll of all things. They belong to Brother Hayle. The gnoll's last words were 'Free him.' Make sure High Priestess Jahnda gets this. Be swift!
@@ -88,21 +89,24 @@ if( **You turn in:** [Blessed Oil Flask](/item/13910)) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (15)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (4)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-3)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (2)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [PrayerBeads](/item/13911) (+800 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13911" data-url="13911" class="tooltip-link link">PrayerBeads</a> (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

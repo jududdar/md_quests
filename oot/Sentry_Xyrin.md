@@ -48,7 +48,8 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Last of Potion of Marr](/item/12134)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12134" data-url="12134" class="tooltip-link link">Last of Potion of Marr</a>) then
 
 
 >**Sentry Xyrin says:** Ahhhh! I am energized! Come! Let us show these undead the greatness of Erollisi Marr!
@@ -60,16 +61,19 @@ eq.start(62);
 e.self:SetRunning(true);
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (20)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Empty Potion of Marr](/item/12135) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12135" data-url="12135" class="tooltip-link link">Empty Potion of Marr</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -86,7 +90,9 @@ elseif(e.wp == 5) then
 >**Sentry Xyrin says:** Many thanks to all who aided in this battle. I offer you this, a weapon I found on a slain Erudite paladin. May Marr watch over his soul and may Marr guide yours. Now I must go.
 
 
-**Spawns on ground:**  [Deepwater Harpoon](/item/5414) at (**y:** -886, **x:** - [Giang Yins Claws](/item/6963))
+**Spawns on ground:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5414" data-url="5414" class="tooltip-link link">Deepwater Harpoon</a> at (**y:** -886, **x:** - <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_975.png" alt="" /> <a
+                                href="/item/6963" data-url="6963" class="tooltip-link link">Giang Yins Claws</a>)
 
 
 **Sentry Xyrin despawns.**

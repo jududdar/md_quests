@@ -62,33 +62,41 @@ end
 
 
 
-if **Faction** >= Dubious +300 and  **You turn in:** [Chocolate Marr Cherries](/item/19992)) then
+if **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_911.png" alt="" /> <a
+                                href="/item/19992" data-url="19992" class="tooltip-link link">Chocolate Marr Cherries</a>) then
 
 
 >*Miranda claps her hands with excitement 'Chocolate cherries! My favorite! Here try some of this!'*
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (1)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Pouch of Kejek Catnip](/item/20115) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1145.png" alt="" /> <a
+                                href="/item/20115" data-url="20115" class="tooltip-link link">Pouch of Kejek Catnip</a> (+1000 exp)
 
-elseif **Faction** >= Dubious +300 and  **You turn in:** [Tiny Pouch of Bone Dice](/item/2088)) then
+ 
+
+elseif **Faction** >= Dubious +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/2088" data-url="2088" class="tooltip-link link">Tiny Pouch of Bone Dice</a>) then
 
 
 >**Miranda says:** You found my dice!!! Thank you Soandso!!
 
 
-* __Faction:__ [Kejek Village](/faction/5011) (2)
+Your faction standing with [Kejek Village](/faction/5011) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (1)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Ball of Burlap Yarn](/item/20116) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1140.png" alt="" /> <a
+                                href="/item/20116" data-url="20116" class="tooltip-link link">Ball of Burlap Yarn</a> (+1000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

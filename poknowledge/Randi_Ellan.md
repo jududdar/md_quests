@@ -28,12 +28,16 @@ end
 
 
 
-if( **You turn in:** [Collection of Plants](/item/28083)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/28083" data-url="28083" class="tooltip-link link">Collection of Plants</a>) then
 
 
 >**Randi Ellan says:** Plants and flowers are a special treasure I keep close to my heart. Did you ever stop to marvel at how beautiful these specimens are? I thank you greatly for them. Here, take this in return.
 
 
- **You receive:**  [Fine Antique Corset](/item/28238) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_563.png" alt="" /> <a
+                                href="/item/28238" data-url="28238" class="tooltip-link link">Fine Antique Corset</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

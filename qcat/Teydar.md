@@ -25,7 +25,10 @@ end
 if(   **Faction** >= Apprehensive +12 then  
 
 
-if( **You turn in:** [Drake Spine](/item/14372), [Decrepit Hide](/item/14371), [Enchanted Platinum Bar](/item/16507)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/14372" data-url="14372" class="tooltip-link link">Drake Spine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/14371" data-url="14371" class="tooltip-link link">Decrepit Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>) then
 
 
 
@@ -33,11 +36,14 @@ if( **You turn in:** [Drake Spine](/item/14372), [Decrepit Hide](/item/14371), [
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (5)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Decrepit Sheath](/item/14366) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_726.png" alt="" /> <a
+                                href="/item/14366" data-url="14366" class="tooltip-link link">Decrepit Sheath</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

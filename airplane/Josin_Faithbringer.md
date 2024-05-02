@@ -20,7 +20,8 @@
 >**Josin Faithbringer says:** Take and read this book. When you are done, hand it back to me and I will summon him.
 
 
-**You receive:**  [Practical Arts](/item/18540)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18540" data-url="18540" class="tooltip-link link">Practical Arts</a>
 
 **You say:** `Deric`
 
@@ -29,7 +30,8 @@
 >**Josin Faithbringer says:** Take and read this book. When you are done, hand it back to me and I will summon him.
 
 
-**You receive:**  [True Healing](/item/18541)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18541" data-url="18541" class="tooltip-link link">True Healing</a>
 end
 
 
@@ -37,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [Practical Arts](/item/18540)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18540" data-url="18540" class="tooltip-link link">Practical Arts</a>) then 
 
 
 >**Josin Faithbringer says:** Farewell.
@@ -48,7 +51,8 @@ if( **You turn in:** [Practical Arts](/item/18540)) then
 
 **Josin Faithbringer despawns.**
 
-elseif( **You turn in:** [True Healing](/item/18541)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18541" data-url="18541" class="tooltip-link link">True Healing</a>) then 
 
 
 >**Josin Faithbringer says:** Farewell.

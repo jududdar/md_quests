@@ -20,7 +20,8 @@
 >**Holwin says:** Take this and read it.  Once you are finished, I will summon the Tranquil's most enlightened follower.
 
 
-**You receive:**  [Strength](/item/18539)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18539" data-url="18539" class="tooltip-link link">Strength</a>
 
 **You say:** `ton po`
 
@@ -29,14 +30,16 @@
 >**Holwin says:** Take this book and read about the legendary Ton Po.  When you are finished, hand it back, and I will summon the master for you.
 
 
-**You receive:**  [Tranquility](/item/18538)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18538" data-url="18538" class="tooltip-link link">Tranquility</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Strength](/item/18539)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18539" data-url="18539" class="tooltip-link link">Strength</a>) then 
 
 
 >**Holwin says:** Farewell.
@@ -47,7 +50,8 @@ if( **You turn in:** [Strength](/item/18539)) then
 
 **Holwin despawns.**
 
-elseif( **You turn in:** [Tranquility](/item/18538)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18538" data-url="18538" class="tooltip-link link">Tranquility</a>) then 
 
 
 >**Holwin says:** Farewell.

@@ -24,7 +24,8 @@ end
 
 
 
-if( **You turn in:** [Grandmaster's Satchel](/item/17900)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/17900" data-url="17900" class="tooltip-link link">Grandmaster's Satchel</a>) then
 
 
 
@@ -35,7 +36,10 @@ if( **You turn in:** [Grandmaster's Satchel](/item/17900)) then
 
 
 
- **You receive:**  [Grandmaster's Carry-All](/item/17138) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17138" data-url="17138" class="tooltip-link link">Grandmaster's Carry-All</a> 
+
+ 
 
 
 

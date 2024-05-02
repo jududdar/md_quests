@@ -148,33 +148,47 @@ end
 
 
 
-if **Faction** >= Warmly and ( **You turn in:** [An old worn Talisman](/item/1861), [Teachings of Gkrean](/item/1864), [Head of Staff Sergeant Drioc](/item/1865), [A chipped fang](/item/1863) or  **You turn in:** [Teachings of Gkrean](/item/1864), [Head of Staff Sergeant Drioc](/item/1865), [A chipped fang](/item/1863))) then
+if **Faction** >= Warmly and ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1861" data-url="1861" class="tooltip-link link">An old worn Talisman</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/1864" data-url="1864" class="tooltip-link link">Teachings of Gkrean</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/1865" data-url="1865" class="tooltip-link link">Head of Staff Sergeant Drioc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1240.png" alt="" /> <a
+                                href="/item/1863" data-url="1863" class="tooltip-link link">A chipped fang</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/1864" data-url="1864" class="tooltip-link link">Teachings of Gkrean</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/1865" data-url="1865" class="tooltip-link link">Head of Staff Sergeant Drioc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1240.png" alt="" /> <a
+                                href="/item/1863" data-url="1863" class="tooltip-link link">A chipped fang</a>)) then
 
 
 >**Rolandal says:** So you finally made it ! Head back to Ralgyn to get your reward.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (50)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (12)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+12</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-25)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Glanitar's Imbued Talisman](/item/1866) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1866" data-url="1866" class="tooltip-link link">Glanitar's Imbued Talisman</a> (+10000 exp)
+
+ 
 
 
 **Rolandal despawns.**
 
-elseif **Faction** >= Kindly and  **You turn in:** [An old worn Talisman](/item/1861)) then
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1861" data-url="1861" class="tooltip-link link">An old worn Talisman</a>) then
 
 
 >**Rolandal says:** It would be my guess that you present this to me in hopes of finding out more about the magics it possesses. Before I can do this I require some rare treasures that you must present to me.
 
 
- **You receive:**  [An old worn Talisman](/item/1861) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1861" data-url="1861" class="tooltip-link link">An old worn Talisman</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

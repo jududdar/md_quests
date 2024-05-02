@@ -29,48 +29,56 @@ end
 
 
 
-if( **You turn in:** [Bixie Charm](/item/29852)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/29852" data-url="29852" class="tooltip-link link">Bixie Charm</a>) then
 
 
 >**Torsten Reidan says:** Bregun is still alive!? Amazing, I thought in his fragile state he wouldn't last long in Marus Seru or the Lair of the Netherbians for that matter. Here before anyone hears us talking, take this note to him. I believe he was onto something big and I must know what it was.
 
 
- **You receive:**  [Sealed Note to Bregun](/item/29853) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/29853" data-url="29853" class="tooltip-link link">Sealed Note to Bregun</a> 
 
-elseif( **You turn in:** [Breguns Directions](/item/29854)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29854" data-url="29854" class="tooltip-link link">Breguns Directions</a>) then
 
 
 >*Torsten Reidan pulls out a hollow book entitled 'A Detailed Look at Etiquette and Proper Grammar' and opens it to find a journal placed inside. 'This is astounding. The information in this journal is invaluable and must be brought to the others attention. Take this insignia. When you are ready to help us further seek out Euzan Jurek, tell him you were sent by me, and he will tell you what you can do to further our cause. I can not tell you more than this, but keep the insignia close to you for now.'*
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (10)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-5)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Insignia Earring of Veracity](/item/29857) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1048.png" alt="" /> <a
+                                href="/item/29857" data-url="29857" class="tooltip-link link">Insignia Earring of Veracity</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

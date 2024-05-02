@@ -21,27 +21,35 @@ end
 
 
 
-if( **You turn in:** [Frog Eye Necklace](/item/13369)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_849.png" alt="" /> <a
+                                href="/item/13369" data-url="13369" class="tooltip-link link">Frog Eye Necklace</a>) then
 
 
 >**Emissary Glib says:** Good work. That is one less troll slayer. My people shall learn of your good deed. Please search for the slayer captain. He must be stopped.
 
 
-* __Faction:__ [Oggok Citizen](/faction/143) (1)
+Your faction standing with [Oggok Citizen](/faction/143) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif( **You turn in:** [Frog Eye Necklace](/item/13370)) then
+**You receive coin:** 5 <img src='/static/icons/item_644.png' width='14' height='14'/> 7 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_849.png" alt="" /> <a
+                                href="/item/13370" data-url="13370" class="tooltip-link link">Frog Eye Necklace</a>) then
 
 
 >**Emissary Glib says:** 'Oooh!! .. You have dispatched the slayer captain. It will take them time to reorganize the slayers. During this time the froglok foragers can gather more provisions for Guk. Please take this as a token of my people's appreciation. Your standing with my brethren has grown. As for Marda's information.. within Grobb lies my aide, Groak. He was captured. Tell him Glib sent you.
 
 
-* __Faction:__ [Oggok Citizen](/faction/143) (2)
+Your faction standing with [Oggok Citizen](/faction/143) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Forager Bag](/item/17928), [Hopper Spear](/item/13371)) (+500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/17928" data-url="17928" class="tooltip-link link">Forager Bag</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/13371" data-url="13371" class="tooltip-link link">Hopper Spear</a>) (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

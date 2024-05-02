@@ -17,7 +17,8 @@ end
 
 
 
-if( **You turn in:** [Ring of the Coldain Council](/item/1464)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_872.png" alt="" /> <a
+                                href="/item/1464" data-url="1464" class="tooltip-link link">Ring of the Coldain Council</a>) then 
 
 
 **Spawn NPC:**  [\#Councilor Juliah Lockheart](/npc/129063) at this location.

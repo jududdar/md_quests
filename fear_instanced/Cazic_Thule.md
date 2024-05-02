@@ -17,20 +17,26 @@
 >*Cazic Thule 's thoughts begin to pervade your own, they creep into your mind with great force. You feel pressure as if your head will explode. You see his thoughts becoming your own. You see in these visions a tome bound in flesh dropped to the ground. You then open your eyes to see that same book, and take it knowing that it was meant for you.*
 
 
-**You receive:**  [Flayed Skin Tome](/item/18898)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18898" data-url="18898" class="tooltip-link link">Flayed Skin Tome</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Satchel of Cazic-Thule](/item/8226), [Flayed Skin Tome](/item/18898), [Flayed Skin Tome](/item/18899)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18898" data-url="18898" class="tooltip-link link">Flayed Skin Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18899" data-url="18899" class="tooltip-link link">Flayed Skin Tome</a>) then
 
 
 >*Cazic Thule seems pleased with the amount of pain that you have been able to inflict. Cazic Thule then grabs your hands and begins to infuse them with his power. Your hands burn like they were placed in lava for a moment, then feel cool as ice. You can feel the sheer power flowing through your new weapons of pain.*
 
 
- **You receive:**  [Whistling Fists](/item/7836) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/7836" data-url="7836" class="tooltip-link link">Whistling Fists</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

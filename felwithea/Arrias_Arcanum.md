@@ -19,22 +19,26 @@ end
 
 
 
-if( **You turn in:** [Arriallas Expended Token](/item/31493)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_753.png" alt="" /> <a
+                                href="/item/31493" data-url="31493" class="tooltip-link link">Arriallas Expended Token</a>) then
 
 
 >**Arrias Arcanum says:** This! This is the gift my daughter gave Ariam to aid his cause. This too is the piece of my soul that was missing. Your news of his fate is troubling, yet his heroism even beyond this life is cause for celebration. Here, keep this token. My heart is mended and I have no need of it. Once such as yourself who will continue to fight for the things in which my son believes ought to bear this. I am sure my daughter would agree.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (5)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (5)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (3)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [Arriallas Token](/item/31495) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_753.png" alt="" /> <a
+                                href="/item/31495" data-url="31495" class="tooltip-link link">Arriallas Token</a> (+300 exp)
+
+ 
 
 
 **Arrias Arcanum despawns.**

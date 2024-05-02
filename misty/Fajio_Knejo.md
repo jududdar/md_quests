@@ -12,13 +12,17 @@ end
 
 
 
-if( **You turn in:** [Torch of Misty](/item/20532)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/20532" data-url="20532" class="tooltip-link link">Torch of Misty</a>) then
 
 
 >**Fajio Knejo says:** Run onward, my friend, to the far off Desert of Ro and give this torch to Andad Filla.
 
 
- **You receive:**  [Torch of Ro](/item/20533) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/20533" data-url="20533" class="tooltip-link link">Torch of Ro</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

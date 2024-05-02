@@ -49,16 +49,19 @@ end
 
 
 
-if( **You turn in:** [Tiny Gem](/item/1665)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/1665" data-url="1665" class="tooltip-link link">Tiny Gem</a>) then 
 
 
 >**Bondl Felligan says:** WOW, thanks! This must be worth a fortune! I could drink for a month after sellin' this to one of them fool merchants. I'm going to see how much I can get for it right now!
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 eq.set_global("shamanbondl","1",1,"F");

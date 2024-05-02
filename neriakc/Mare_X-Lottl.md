@@ -26,13 +26,17 @@ end
 
 
 
-if( **You turn in:** [Jasper](/item/10020)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_949.png" alt="" /> <a
+                                href="/item/10020" data-url="10020" class="tooltip-link link">Jasper</a>) then 
 
 
 >**Mare X-Lottl says:** Jasper! My one and only love! All right.. That Tayla creature was lost in a game of King's Court with a very important and secret merchant. Belyea will not speak of him but that he was some sort of Baron. He did give me this trinket from his new friend and owner of the half-elf scamp. You keep it. It is worth nothing compared to sweet, beautiful Jasper.
 
 
- **You receive:**  [Klok's Seal](/item/1096) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/1096" data-url="1096" class="tooltip-link link">Klok's Seal</a> 
+
+ 
 
 elseif( **You turn in:** gold = 2) then 
 

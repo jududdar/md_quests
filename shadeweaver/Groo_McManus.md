@@ -30,12 +30,16 @@ end
 
 
 
-if( **You turn in:** [A Needle Thin Claw](/item/30601)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/30601" data-url="30601" class="tooltip-link link">A Needle Thin Claw</a>) then
 
 
 >**Groo McManus says:** Excellent! You have done well.  I can sense that you are in tune with the spirits around you. Take this, for you will need it in your next task. When you are [ready] for your next lesson let me know.
 
 
- **You receive:**  [Spell: Burst of Flame](/item/15093) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15093" data-url="15093" class="tooltip-link link">Spell: Burst of Flame</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

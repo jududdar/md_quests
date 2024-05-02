@@ -108,7 +108,8 @@ end
 local text = "Phagh! This is not enough. Get out of my sight!";
 
 
-if( **You turn in:** [A Note](/item/18200)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18200" data-url="18200" class="tooltip-link link">A Note</a>) then
 
 
 
@@ -119,18 +120,23 @@ if( **You turn in:** [A Note](/item/18200)) then
 
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (10)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (1)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [A Note](/item/18201) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18201" data-url="18201" class="tooltip-link link">A Note</a> 
 
-elseif( **You turn in:** [Dark Elf Decapitated Head](/item/13846), [A Note](/item/18201)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_989.png" alt="" /> <a
+                                href="/item/13846" data-url="13846" class="tooltip-link link">Dark Elf Decapitated Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18201" data-url="18201" class="tooltip-link link">A Note</a>) then
 
 
 >**Rysva To-Biath says:** Take this book and be gone with you.
@@ -139,24 +145,24 @@ elseif( **You turn in:** [Dark Elf Decapitated Head](/item/13846), [A Note](/ite
 
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (10)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (1)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Book of Turmoil](/item/18202) (+72900 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18202" data-url="18202" class="tooltip-link link">Book of Turmoil</a> (+72900 exp)
 
-elseif( **You turn in:** [Torn, burnt book](/item/19071), [Torn, Frost covered book](/item/19070),platinum = 1000) then
+ 
 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18302" data-url="18302" class="tooltip-link link">Book of Scale</a> (+25000 exp)
 
->**Rysva To-Biath says:** I have done what you asked, now begone from this place, I can bear your stink no longer.
-
-
- **You receive:**  [Book of Scale](/item/18302) (+25000 exp)
+ 
 
 **This NPC *should* return incorrect items given.**
 

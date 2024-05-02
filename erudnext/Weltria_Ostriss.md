@@ -14,7 +14,8 @@
 >**Weltria Ostriss says:** Take this case and return it to me when you have collected all of the scrolls.
 
 
-**You receive:**  [Large Scroll Case](/item/17058)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/17058" data-url="17058" class="tooltip-link link">Large Scroll Case</a>
 end
  
 ## Turn-Ins
@@ -22,22 +23,25 @@ end
 
 
 
-if( **You turn in:** [Kobold History Collection](/item/31825)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/31825" data-url="31825" class="tooltip-link link">Kobold History Collection</a>) then
 
 
 >**Weltria Ostriss says:** You have my gratitude, Soandso! This will make a valuable addition to our historical volumes and perhaps offer some insight into the workings of Kobold society.
 
 
-* __Faction:__ [Merchants of Erudin](/faction/289) (5)
+Your faction standing with [Merchants of Erudin](/faction/289) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (3)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:** 0 (+1500 exp)
+ &#127873; **You receive:** 0 (+1500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

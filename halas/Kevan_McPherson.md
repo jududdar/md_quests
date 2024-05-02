@@ -36,4 +36,5 @@ end
 
 
 
-item_lib.return_items(e.self, e.other, e.trade, e.text);
+**This NPC *should* return incorrect items given.**
+;

@@ -39,35 +39,52 @@ local text2 = "You want oven mittens den you gives me THREE froglok meats and TE
 
 
 
-if ( **You turn in:** [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191), [A Spore Mushroom](/item/12191)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/12191" data-url="12191" class="tooltip-link link">A Spore Mushroom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/12191" data-url="12191" class="tooltip-link link">A Spore Mushroom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/12191" data-url="12191" class="tooltip-link link">A Spore Mushroom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/12191" data-url="12191" class="tooltip-link link">A Spore Mushroom</a>) then
 
 
 >**Carver Cagrek says:** Gud werk! Me already made, err, founds dung part of meal. Here we go. One fungus dung pie! Enjoys.
 
 
-* __Faction:__ [Da Bashers](/faction/235) (5)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-1)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Fungus Spore Pie](/item/12210) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_783.png" alt="" /> <a
+                                href="/item/12210" data-url="12210" class="tooltip-link link">Fungus Spore Pie</a> (+1000 exp)
 
-elseif ( **You turn in:** [Froglok Meat](/item/13409), [Froglok Meat](/item/13409), [Froglok Meat](/item/13409), gold = 10) then
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13409" data-url="13409" class="tooltip-link link">Froglok Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13409" data-url="13409" class="tooltip-link link">Froglok Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13409" data-url="13409" class="tooltip-link link">Froglok Meat</a>, gold = 10) then
 
 
 >**Carver Cagrek says:** Bouts time you gets everyting! Here is you Grobb oven mittens. Dey good to keep you from hot stuff.
 
 
-* __Faction:__ [Da Bashers](/faction/235) (2)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-1)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Grobb Oven Mittens](/item/12211) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/12211" data-url="12211" class="tooltip-link link">Grobb Oven Mittens</a> (+1000 exp)
 
-elseif ( **You turn in:** [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [A Tattered Recipe](/item/18940)) then
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/13368" data-url="13368" class="tooltip-link link">HEHE Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/13368" data-url="13368" class="tooltip-link link">HEHE Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/13368" data-url="13368" class="tooltip-link link">HEHE Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18940" data-url="18940" class="tooltip-link link">A Tattered Recipe</a>) then
 
 
 >**Carver Cagrek says:** Finally!! What takes yous so long? Now carver Cagrek try and makes meat and feeds to trolls. Yous getting to be deputy carver. Mes give you Grobb cleaver!! Make strong and smarts on you it will. Just like carver Cagrek.
@@ -76,12 +93,15 @@ elseif ( **You turn in:** [HEHE Meat](/item/13368), [HEHE Meat](/item/13368), [H
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (30)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-4)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-4</span>)
 
 
- **You receive:**  [Grobb Cleaver](/item/5413) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5413" data-url="5413" class="tooltip-link link">Grobb Cleaver</a> (+20000 exp)
+
+**You receive coin:** 3 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

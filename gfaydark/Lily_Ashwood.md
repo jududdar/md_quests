@@ -28,7 +28,8 @@ if(**Your level** >= 50) then
 
 
 
-**You receive:**  [A love letter (Sealed)](/item/20876)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/20876" data-url="20876" class="tooltip-link link">A love letter (Sealed)</a>
 
 
 else

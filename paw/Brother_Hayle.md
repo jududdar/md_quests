@@ -80,7 +80,8 @@ end
 local text = "I will not hand Soulfire to you until you hand me the Soulfire hilt, Testimony of Truth, Sword of Faith and the returned note. I require them as [proof of nobility].";
 
 
-if( **You turn in:** [Temple Summons](/item/18927)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18927" data-url="18927" class="tooltip-link link">Temple Summons</a>) then 
 
 
 >**Brother Hayle says:** I am needed!! What am I doing here? I must return to the Temple of Life to commune with the Prime Healer. Rodcet Nife will give me more strength to finish this job. Thank you, young one! Take this key as a reward. Turn it into Tyokan in the temple shop. Safe journey to you!
@@ -89,67 +90,78 @@ if( **You turn in:** [Temple Summons](/item/18927)) then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (20)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+20</span>)
 
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (6)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+6</span>)
 
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-5)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-5</span>)
 
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
 
 
- **You receive:**  [T.O.L. 2020](/item/13306) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/13306" data-url="13306" class="tooltip-link link">T.O.L. 2020</a> (+1000 exp)
 
-elseif( **You turn in:** [A Sealed Note](/item/18936)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18936" data-url="18936" class="tooltip-link link">A Sealed Note</a>) then 
 
 
 >**Brother Hayle says:** Finally!! I see that Ariska has found a noble knight to retrieve Soulfire. Per Ariska's orders I am not to give Soulfire to you until you can show me [proof of nobility]. You must honor both the Temple of Life as well as the Hall of Truth and to a high degree. Only then shall you hold Soulfire.
 
 
-* __Faction:__ [Priests of Life](/faction/341) (10)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (3)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+3</span>)
 
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-2)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-2</span>)
 
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
 
- **You receive:**  [A Note](/item/18937) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/18937" data-url="18937" class="tooltip-link link">A Note</a> (+200 exp)
 
-elseif( **You turn in:** [A Note](/item/18937), [Brilliant Sword of Faith](/item/13947), [Testimony](/item/18828), [Glowing Sword Hilt](/item/12197)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/18937" data-url="18937" class="tooltip-link link">A Note</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/13947" data-url="13947" class="tooltip-link link">Brilliant Sword of Faith</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18828" data-url="18828" class="tooltip-link link">Testimony</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_973.png" alt="" /> <a
+                                href="/item/12197" data-url="12197" class="tooltip-link link">Glowing Sword Hilt</a>) then 
 
 
 if **Faction** >= Warmly then 
@@ -160,37 +172,40 @@ if **Faction** >= Warmly then
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (100)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+100</span>)
 
 
 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (30)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+30</span>)
 
 
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (50)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+50</span>)
 
 
 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-25)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-25</span>)
 
 
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (15)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+15</span>)
 
 
 
 
 
- **You receive:**  [SoulFire](/item/5504) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5504" data-url="5504" class="tooltip-link link">SoulFire</a> (+10000 exp)
+
+ 
 
 
 

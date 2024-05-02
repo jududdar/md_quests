@@ -29,13 +29,17 @@ end
 
 local scroll = 0;
 
-local Volone =  **You turn in:**  { [Helle Splitpaw-Haut](/item/18504)}
+local Volone =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18504" data-url="18504" class="tooltip-link link">Helle Splitpaw-Haut</a>}
 
-local Voltwo =  **You turn in:**  { [Tanned Split Paw Skin](/item/18505)}
+local Voltwo =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18505" data-url="18505" class="tooltip-link link">Tanned Split Paw Skin</a>}
 
-local Volthree =  **You turn in:**  { [Tanned Split Paw Skin](/item/18506)}
+local Volthree =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18506" data-url="18506" class="tooltip-link link">Tanned Split Paw Skin</a>}
 
-local Volfour =  **You turn in:**  { [Tanned Split Paw Skin](/item/18507)}
+local Volfour =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18507" data-url="18507" class="tooltip-link link">Tanned Split Paw Skin</a>}
 
 
 
@@ -91,22 +95,28 @@ if(math.random(100) < 50) then
 
 
 
-if(math.random(100) < 50 and not **You possess item:**  [Karanas Tear](/item/12076) x 1
+if(math.random(100) < 50 and not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_534.png" alt="" /> <a
+                                href="/item/12076" data-url="12076" class="tooltip-link link">Karanas Tear</a> x 1
 
 
 
 
- **You receive:**  [Karanas Tear](/item/12076) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_534.png" alt="" /> <a
+                                href="/item/12076" data-url="12076" class="tooltip-link link">Karanas Tear</a> 
+
+ 
 
 
 
 
 
-* __Faction:__ [Qeynos Citizens](/faction/121) (2)
+Your faction standing with [Qeynos Citizens](/faction/121) got better (<span class='text-success'>+2</span>)
 
 
 
- **You receive:** 0 (+18750 exp)
+ &#127873; **You receive:** 0 (+18750 exp)
+
+**You receive coin:** 0-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-8 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-15 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

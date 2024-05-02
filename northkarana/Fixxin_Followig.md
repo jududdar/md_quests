@@ -77,25 +77,29 @@ end
 
 
 
-if( **You turn in:** [Silver Bar](/item/16500)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16500" data-url="16500" class="tooltip-link link">Silver Bar</a>) then
 
 
 >*Fixxin Followig thanks Soandso heartily. 'Here is the book as promised. I wish you luck with your enchanted weapons. May they slay many lycanthropes before they go dull.'*
 
 
-* __Faction:__ [Karana Residents](/faction/345) (1)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Fixxin Followigs Silvery Blades](/item/18178) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18178" data-url="18178" class="tooltip-link link">Fixxin Followigs Silvery Blades</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

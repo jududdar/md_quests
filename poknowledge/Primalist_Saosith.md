@@ -13,11 +13,14 @@ end
 
 
 
-local ethereal =  **You turn in:**  { [Ethereal Parchment](/item/29112)}
+local ethereal =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a>}
 
-local spectral =  **You turn in:**  { [Spectral Parchment](/item/29131)}
+local spectral =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a>}
 
-local glyphed =  **You turn in:**  { [Glyphed Rune Word](/item/29132)}
+local glyphed =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a>}
 
 if(ethereal > 0) then
 
@@ -38,7 +41,14 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Infusion of Spirit](/item/28544), 28545, 21629, 28547, 28548) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28544" data-url="28544" class="tooltip-link link">Spell: Infusion of Spirit</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28545" data-url="28545" class="tooltip-link link">Spell: Healing of Sorsha</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21629" data-url="21629" class="tooltip-link link">Spell: Scorpion Venom</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28547" data-url="28547" class="tooltip-link link">Spell: Spiritual Vigor</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28548" data-url="28548" class="tooltip-link link">Spell: Spirit of Arag</a>) 
+
+ 
 
 
 
@@ -66,7 +76,14 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Arag's Celerity](/item/28549), 28550, 21630, 28551, 28552) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28549" data-url="28549" class="tooltip-link link">Spell: Arag's Celerity</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28550" data-url="28550" class="tooltip-link link">Spell: Spirit of Rellic</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21630" data-url="21630" class="tooltip-link link">Spell: Frost Spear</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28551" data-url="28551" class="tooltip-link link">Spell: Spiritual Dominion</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28552" data-url="28552" class="tooltip-link link">Spell: Spirit of Sorsha</a>) 
+
+ 
 
 
 
@@ -94,7 +111,11 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Sha's Revenge](/item/28553), 28554) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28553" data-url="28553" class="tooltip-link link">Spell: Sha's Revenge</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28554" data-url="28554" class="tooltip-link link">Spell: Ferocity</a>) 
+
+ 
 
 
 

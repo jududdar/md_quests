@@ -32,7 +32,8 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Flask of Nitrates](/item/13945)) then 
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13945" data-url="13945" class="tooltip-link link">Flask of Nitrates</a>) then 
 
 
 >**Kimble Nogflop says:** The flask of nitrates I sent for!! As was the deal, here is my [Regurgitonic]. Give it to whoever may need it and they will surely cough up whatever may be inside them with no harm to them whatsoever.
@@ -41,27 +42,31 @@ if **Faction** >= Apprehensive and  **You turn in:** [Flask of Nitrates](/item/1
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (10)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (2)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (2)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-2)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-2</span>)
 
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Regurgitonic](/item/12140), [Regurgitonic](/item/12139)) (+100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/12140" data-url="12140" class="tooltip-link link">Regurgitonic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/12139" data-url="12139" class="tooltip-link link">Regurgitonic</a>) (+100 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

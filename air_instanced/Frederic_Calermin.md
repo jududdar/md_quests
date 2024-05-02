@@ -37,36 +37,54 @@ end
 
 
 
-if( **You turn in:** [Crimson Tessera](/item/20931), [Ethereal Sapphire](/item/20754), [Feathered Cape](/item/20755)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20931" data-url="20931" class="tooltip-link link">Crimson Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/20754" data-url="20754" class="tooltip-link link">Ethereal Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/20755" data-url="20755" class="tooltip-link link">Feathered Cape</a>) then 
 
 
 >**Frederic Calermin says:** Take this as your reward.
 
 
- **You receive:**  [Bracelet of Clarification](/item/1274) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1040.png" alt="" /> <a
+                                href="/item/1274" data-url="1274" class="tooltip-link link">Bracelet of Clarification</a> (+100000 exp)
+
+ 
 
 
 **Frederic Calermin despawns.**
 
-elseif( **You turn in:** [Iron Disc](/item/20937), [Gem of Empowerment](/item/20756), [Ceramic Mask](/item/20757)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/20937" data-url="20937" class="tooltip-link link">Iron Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/20756" data-url="20756" class="tooltip-link link">Gem of Empowerment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/20757" data-url="20757" class="tooltip-link link">Ceramic Mask</a>) then 
 
 
 >**Frederic Calermin says:** This mask will suit you well, mage. Use it sparingly.
 
 
- **You receive:**  [Mask of Empowerment](/item/2707) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2707" data-url="2707" class="tooltip-link link">Mask of Empowerment</a> (+100000 exp)
+
+ 
 
 
 **Frederic Calermin despawns.**
 
-elseif( **You turn in:** [Hyaline Globe](/item/20944), [Ivory Pendant](/item/20758), [Golden Coffer](/item/20759)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20944" data-url="20944" class="tooltip-link link">Hyaline Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1058.png" alt="" /> <a
+                                href="/item/20758" data-url="20758" class="tooltip-link link">Ivory Pendant</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/20759" data-url="20759" class="tooltip-link link">Golden Coffer</a>) then
 
 
 
 >**Frederic Calermin says:** A pendant of gold and white, Soandso, wear it and beat back the night.
 
 
- **You receive:**  [Gold White Pendant](/item/14557) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1058.png" alt="" /> <a
+                                href="/item/14557" data-url="14557" class="tooltip-link link">Gold White Pendant</a> (+100000 exp)
+
+ 
 
 
 **Frederic Calermin despawns.**

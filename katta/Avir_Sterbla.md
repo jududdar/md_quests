@@ -30,33 +30,52 @@ local text1 = "I require four such samples for my research.  Please see if you c
 
 
 
-if( **You turn in:** [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692), [Vampyre Ashes](/item/2692) or  **You turn in:** [Vampyre Blood](/item/2693), [Vampyre Blood](/item/2693), [Vampyre Blood](/item/2693), [Vampyre Blood](/item/2693)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/2692" data-url="2692" class="tooltip-link link">Vampyre Ashes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/2692" data-url="2692" class="tooltip-link link">Vampyre Ashes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/2692" data-url="2692" class="tooltip-link link">Vampyre Ashes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/2692" data-url="2692" class="tooltip-link link">Vampyre Ashes</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/2693" data-url="2693" class="tooltip-link link">Vampyre Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/2693" data-url="2693" class="tooltip-link link">Vampyre Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/2693" data-url="2693" class="tooltip-link link">Vampyre Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/2693" data-url="2693" class="tooltip-link link">Vampyre Blood</a>) then
 
 
 >**Avir Sterbla says:** Thank you Soandso! These samples will be put to good use I assure you. The Coterie will not stand much longer against the forces of Katta Castellum.
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (3)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** GiveAll( [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015), [Malachite](/item/10015)) (+5000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/5000" data-url="5000" class="tooltip-link link">Etched Emerald of Nature</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

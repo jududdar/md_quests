@@ -33,7 +33,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Bag for Cutthroat Rings](/item/17975)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17975" data-url="17975" class="tooltip-link link">Bag for Cutthroat Rings</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -58,45 +59,55 @@ end
 local text = "I cannot reward you until you hand me four orc pawn picks. So says Captain Hazran.";
 
 
-if( **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>) then
 
 
 >**Guard Valon says:** You have done well. Keep up the good work and we may trust you to [hunt dervish cutthroats] which in turn will allow you to join the Reserve Freeport Militia.
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (3)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-1)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bag of Cutthroat Rings](/item/12272)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12272" data-url="12272" class="tooltip-link link">Bag of Cutthroat Rings</a>) then
 
 
 >**Guard Valon says:** Excellent work, Soandso!! You are quite formidable. Maybe soon you shall aid in our efforts to rid the Northern part of Freeport of the paladins!! Until then keep up the good work. Take this Armory Token to the Militia Armorer in the Militia House in Freeport to receive your tunic. He may not be there, but I assure you he will show up at some time. On the second floor. Hail Sir Lucan!!
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (10)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-1)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Militia Armory Token](/item/12273) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/12273" data-url="12273" class="tooltip-link link">Militia Armory Token</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

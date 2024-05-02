@@ -14,7 +14,8 @@ end
 
 
 
-if( **You turn in:** [Approved Issue Kit](/item/8898)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/8898" data-url="8898" class="tooltip-link link">Approved Issue Kit</a>) then
 
 
 >*General Bragmur begins to put the armor on, 'Finally the Dain has gotten word of my arrival here.  I await his final orders before proceeding.'*

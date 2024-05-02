@@ -58,7 +58,8 @@
 >**Lorisyn Oakwynd says:** Praise Tunare! I am so glad you were able to help us repel the threats from the Plaguebringer and their minions. We obtained this bridle from a Paladin suffering an ailment whom was chanting strangely about a person named Marnek. We aren't sure if it's cursed, but it is yours to have. Something tells me this bridle is tied directly to the Planar excursion, and won't last long.
 
 
-**You receive:**  [Ghostly Bridle](/item/31492)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/31492" data-url="31492" class="tooltip-link link">Ghostly Bridle</a>
 
 **You say:** `reward`
 
@@ -73,16 +74,13 @@ end
 
 
 
-if( **You turn in:** [Cloak of Flames and Frost (t)](/item/2662)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/6048" data-url="6048" class="tooltip-link link">Darkwood Staff</a> (+5000 exp)
+
+ 
 
 
->*Lorisyn Oakwynd holds up a staff and applies the blood to the top of the weapon, turning it dark red. 'Thank you! I hope it wasn't too much trouble to finish off. This weapon should prove most effective against other lycanthropes and magical creatures that you may run across. Good luck!*
-
-
- **You receive:**  [Darkwood Staff](/item/6048) (+5000 exp)
-
-
-* __Faction:__ [The Oakwynd Twins](/faction/20000) (50)
+Your faction standing with [The Oakwynd Twins](/faction/20000) got better (<span class='text-success'>+50</span>)
 
 **This NPC *should* return incorrect items given.**
 

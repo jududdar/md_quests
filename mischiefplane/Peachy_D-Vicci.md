@@ -14,12 +14,27 @@ end
 
 
 
-if( **You turn in:** [Funny Money](/item/9504), [Funny Money](/item/9504), [Funny Money](/item/9504), [Funny Money](/item/9504)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>) then
 
 
 >*Peachy D-Vicci reaches into her satchel and pulls out a small box. 'Here ya go! Enjoy it. Come back soon. Just a warning though, I cant give you a box that you already have. There isn't enough for everyone you know!'*
 
 
- **You receive:** eq.ChooseRandom( [a red gift box](/item/9505), [a blue gift box](/item/9506), [A Green Gift Box](/item/9507), [A Black Gift Box](/item/9508), [a purple gift box](/item/9509), [a white gift box](/item/9511), [A Silver Gift Box](/item/9512), [A Grey Gift Box](/item/9513), [Frostmaidens Idol](/item/6877)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9505" data-url="9505" class="tooltip-link link">a red gift box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9506" data-url="9506" class="tooltip-link link">a blue gift box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9507" data-url="9507" class="tooltip-link link">A Green Gift Box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9508" data-url="9508" class="tooltip-link link">A Black Gift Box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9509" data-url="9509" class="tooltip-link link">a purple gift box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9511" data-url="9511" class="tooltip-link link">a white gift box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9512" data-url="9512" class="tooltip-link link">A Silver Gift Box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/9513" data-url="9513" class="tooltip-link link">A Grey Gift Box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/6877" data-url="6877" class="tooltip-link link">Frostmaidens Idol</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

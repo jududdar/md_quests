@@ -36,38 +36,56 @@ end
 
 
 
-if( **You turn in:** [Ivory Tessera](/item/20928), [Gem of Invigoration](/item/20984), [Inlaid Choker](/item/20985)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20928" data-url="20928" class="tooltip-link link">Ivory Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/20984" data-url="20984" class="tooltip-link link">Gem of Invigoration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/20985" data-url="20985" class="tooltip-link link">Inlaid Choker</a>) then 
 
 
 
 >**Kendrick says:** Excellent! Fizzlethorpe blesses you with this gift.
 
 
- **You receive:**  [Wispy Choker of Vigor](/item/14552) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_501.png" alt="" /> <a
+                                href="/item/14552" data-url="14552" class="tooltip-link link">Wispy Choker of Vigor</a> (+100000 exp)
+
+ 
 
 
 
 **Kendrick despawns.**
 
-elseif( **You turn in:** [Spiroc Sky Totem](/item/20989), [Pearlescent Globe](/item/20942), [Black Griffon Feather](/item/20988)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20989" data-url="20989" class="tooltip-link link">Spiroc Sky Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20942" data-url="20942" class="tooltip-link link">Pearlescent Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20988" data-url="20988" class="tooltip-link link">Black Griffon Feather</a>) then 
 
 
 >**Kendrick says:** These spauldors made from griffon wings will aid you in your ascent to greatness, Soandso.
 
 
- **You receive:**  [Griffon Wing Spauldors](/item/2703) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2703" data-url="2703" class="tooltip-link link">Griffon Wing Spauldors</a> (+100000 exp)
+
+ 
 
 
 
 **Kendrick despawns.**
 
-elseif( **You turn in:** [Mottled Spiroc Feather](/item/20956), [Cracked Leather Belt](/item/20992), [Sphinxian Circlet](/item/20993)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20956" data-url="20956" class="tooltip-link link">Mottled Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/20992" data-url="20992" class="tooltip-link link">Cracked Leather Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1054.png" alt="" /> <a
+                                href="/item/20993" data-url="20993" class="tooltip-link link">Sphinxian Circlet</a>) then 
 
 
 >**Kendrick says:** If one is slow, he dies a quick death. With this belt, you can avoid all that with nary a breath.
 
 
- **You receive:**  [Renard's Belt of Quickness](/item/11676) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/11676" data-url="11676" class="tooltip-link link">Renard's Belt of Quickness</a> (+100000 exp)
+
+ 
 
 
 

@@ -51,25 +51,33 @@ end
 
 
 
-if( **Faction is** > Indifferent and ( **You turn in:** [Brells Divine Strategy](/item/24987) or  **You turn in:** [War Tactics of the Frostreavers](/item/24988))) then
+if( **Faction is** > Indifferent and ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/24987" data-url="24987" class="tooltip-link link">Brells Divine Strategy</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/24988" data-url="24988" class="tooltip-link link">War Tactics of the Frostreavers</a>)) then
 
 
 >**Gkrean Prophet of Tallon says:** You are a brave little beast to gain this tome. Let me impart a bit of wisdom to you. Tactics must change - if you do not ever adapt to new surroundings, environments and rules, you will surely perish.
 
 
-* __Faction:__ [Kromzek](/faction/448) (20)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (5)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (5)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-10)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:** eq.ChooseRandom( [Circlet of Tallon](/item/25037), [Book of Tactics](/item/25038), [Gauntlets of Iron Tactics](/item/25039), [Bracelet of Sacrifice](/item/25042)) (+50000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25037" data-url="25037" class="tooltip-link link">Circlet of Tallon</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/25038" data-url="25038" class="tooltip-link link">Book of Tactics</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_529.png" alt="" /> <a
+                                href="/item/25039" data-url="25039" class="tooltip-link link">Gauntlets of Iron Tactics</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1040.png" alt="" /> <a
+                                href="/item/25042" data-url="25042" class="tooltip-link link">Bracelet of Sacrifice</a>) (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

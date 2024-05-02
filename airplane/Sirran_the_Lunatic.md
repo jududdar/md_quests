@@ -133,7 +133,8 @@ local sirranName = "sirran";
 
 sirranName = sirranName .. eq.get_zone_guild_id();
 
-if( **You turn in:** [Miniature Sword](/item/20920)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/20920" data-url="20920" class="tooltip-link link">Miniature Sword</a>) then 
 
 
 
@@ -146,7 +147,10 @@ if(eq.get_qglobals()[sirranName] == "1") then
 
 
 
- **You receive:**  [Key of Swords](/item/20911) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/20911" data-url="20911" class="tooltip-link link">Key of Swords</a> 
+
+ 
 
 
 else
@@ -157,10 +161,14 @@ else
 
 
 
- **You receive:**  [Miniature Sword](/item/20920) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/20920" data-url="20920" class="tooltip-link link">Miniature Sword</a> 
+
+ 
 
 
-elseif( **You turn in:** [Lost rabbits foot](/item/20921)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_915.png" alt="" /> <a
+                                href="/item/20921" data-url="20921" class="tooltip-link link">Lost rabbits foot</a>) then 
 
 
 
@@ -172,7 +180,10 @@ if(eq.get_qglobals()[sirranName] == "1") then
 
 
 
- **You receive:**  [Key of the Misplaced](/item/20912) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/20912" data-url="20912" class="tooltip-link link">Key of the Misplaced</a> 
+
+ 
 
 
 else
@@ -183,10 +194,14 @@ else
 
 
 
- **You receive:**  [Lost rabbits foot](/item/20921) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_915.png" alt="" /> <a
+                                href="/item/20921" data-url="20921" class="tooltip-link link">Lost rabbits foot</a> 
+
+ 
 
 
-elseif( **You turn in:** [Broken Mirror](/item/20922)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/20922" data-url="20922" class="tooltip-link link">Broken Mirror</a>) then 
 
 
 
@@ -198,7 +213,10 @@ if(eq.get_qglobals()[sirranName] == "2") then
 
 
 
- **You receive:**  [Key of Misfortune](/item/20913) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_998.png" alt="" /> <a
+                                href="/item/20913" data-url="20913" class="tooltip-link link">Key of Misfortune</a> 
+
+ 
 
 
 else
@@ -209,10 +227,14 @@ else
 
 
 
- **You receive:**  [Broken Mirror](/item/20922) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1129.png" alt="" /> <a
+                                href="/item/20922" data-url="20922" class="tooltip-link link">Broken Mirror</a> 
+
+ 
 
 
-elseif( **You turn in:** [Animal Figurine](/item/20923)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/20923" data-url="20923" class="tooltip-link link">Animal Figurine</a>) then 
 
 
 
@@ -224,7 +246,10 @@ if(eq.get_qglobals()[sirranName] == "3") then
 
 
 
- **You receive:**  [Key of Beasts](/item/20914) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_651.png" alt="" /> <a
+                                href="/item/20914" data-url="20914" class="tooltip-link link">Key of Beasts</a> 
+
+ 
 
 
 else
@@ -235,10 +260,14 @@ else
 
 
 
- **You receive:**  [Animal Figurine](/item/20923) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/20923" data-url="20923" class="tooltip-link link">Animal Figurine</a> 
+
+ 
 
 
-elseif( **You turn in:** [Bird Whistle](/item/20924)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/20924" data-url="20924" class="tooltip-link link">Bird Whistle</a>) then 
 
 
 
@@ -250,7 +279,10 @@ if(eq.get_qglobals()[sirranName] == "4") then
 
 
 
- **You receive:**  [Avian Key](/item/20915) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20915" data-url="20915" class="tooltip-link link">Avian Key</a> 
+
+ 
 
 
 else
@@ -261,10 +293,14 @@ else
 
 
 
- **You receive:**  [Bird Whistle](/item/20924) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/20924" data-url="20924" class="tooltip-link link">Bird Whistle</a> 
+
+ 
 
 
-elseif( **You turn in:** [Noise Maker](/item/20925)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/20925" data-url="20925" class="tooltip-link link">Noise Maker</a>) then 
 
 
 
@@ -276,7 +312,10 @@ if(eq.get_qglobals()[sirranName] == "5") then
 
 
 
- **You receive:**  [Key of the Swarm](/item/20916) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_956.png" alt="" /> <a
+                                href="/item/20916" data-url="20916" class="tooltip-link link">Key of the Swarm</a> 
+
+ 
 
 
 else
@@ -287,10 +326,14 @@ else
 
 
 
- **You receive:**  [Noise Maker](/item/20925) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/20925" data-url="20925" class="tooltip-link link">Noise Maker</a> 
+
+ 
 
 
-elseif( **You turn in:** [Dull Dragon Scale](/item/20926)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/20926" data-url="20926" class="tooltip-link link">Dull Dragon Scale</a>) then 
 
 
 
@@ -302,7 +345,10 @@ if(eq.get_qglobals()[sirranName] == "6") then
 
 
 
- **You receive:**  [Key of Scale](/item/20917) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/20917" data-url="20917" class="tooltip-link link">Key of Scale</a> 
+
+ 
 
 
 else
@@ -313,10 +359,14 @@ else
 
 
 
- **You receive:**  [Dull Dragon Scale](/item/20926) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/20926" data-url="20926" class="tooltip-link link">Dull Dragon Scale</a> 
+
+ 
 
 
-elseif( **You turn in:** [Replica of the Wyrm Queen](/item/20927)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/20927" data-url="20927" class="tooltip-link link">Replica of the Wyrm Queen</a>) then 
 
 
 
@@ -328,7 +378,10 @@ if(eq.get_qglobals()[sirranName] == "7") then
 
 
 
- **You receive:**  [Veeshan's Key](/item/20918) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_952.png" alt="" /> <a
+                                href="/item/20918" data-url="20918" class="tooltip-link link">Veeshan's Key</a> 
+
+ 
 
 
 else
@@ -339,7 +392,10 @@ else
 
 
 
- **You receive:**  [Replica of the Wyrm Queen](/item/20927) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/20927" data-url="20927" class="tooltip-link link">Replica of the Wyrm Queen</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

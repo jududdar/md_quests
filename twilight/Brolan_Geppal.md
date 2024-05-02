@@ -64,53 +64,92 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Astral Jewel](/item/4494), [Mark of Melody](/item/5393), [Onyx Studded Medal](/item/5394), [Porous Rock](/item/5395)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5393" data-url="5393" class="tooltip-link link">Mark of Melody</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5394" data-url="5394" class="tooltip-link link">Onyx Studded Medal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/5395" data-url="5395" class="tooltip-link link">Porous Rock</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Bravado's Cape](/item/3928) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_663.png" alt="" /> <a
+                                href="/item/3928" data-url="3928" class="tooltip-link link">Bravado's Cape</a> (+25000 exp)
 
-elseif( **You turn in:** [Fire Emerald Studded Medal](/item/5397), [Mark of Anthems](/item/5396), [Sun Jewel](/item/4488)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5397" data-url="5397" class="tooltip-link link">Fire Emerald Studded Medal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5396" data-url="5396" class="tooltip-link link">Mark of Anthems</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Bravado's Gauntlets](/item/3929) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/3929" data-url="3929" class="tooltip-link link">Bravado's Gauntlets</a> (+25000 exp)
+
+ 
   
-elseif( **You turn in:** [Mark of Composition](/item/5474), [Peridot Studded Medal](/item/5475), [Seared Brand](/item/5476), [Star Jewel](/item/4490)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5474" data-url="5474" class="tooltip-link link">Mark of Composition</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5475" data-url="5475" class="tooltip-link link">Peridot Studded Medal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/5476" data-url="5476" class="tooltip-link link">Seared Brand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Bravado's Girdle](/item/3931) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_549.png" alt="" /> <a
+                                href="/item/3931" data-url="3931" class="tooltip-link link">Bravado's Girdle</a> (+25000 exp)
 
-elseif( **You turn in:** [Black Pearl Studded Medal](/item/5399), [Mark of Psalms](/item/5398), [Moon Jewel](/item/4489)) then
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Bravado's Gorget](/item/3930) (+25000 exp)
-
-elseif( **You turn in:** [Mark of Tenor](/item/5349), [Meteor Jewel](/item/4493), [Star Sapphire Studded Medal](/item/5354)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5399" data-url="5399" class="tooltip-link link">Black Pearl Studded Medal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5398" data-url="5398" class="tooltip-link link">Mark of Psalms</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Bravado's Mask](/item/3910) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_626.png" alt="" /> <a
+                                href="/item/3930" data-url="3930" class="tooltip-link link">Bravado's Gorget</a> (+25000 exp)
 
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Chants](/item/5477), [Moonstone Studded Medal](/item/5479), [Red Stone Idol](/item/5478)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5349" data-url="5349" class="tooltip-link link">Mark of Tenor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5354" data-url="5354" class="tooltip-link link">Star Sapphire Studded Medal</a>) then
 
 
 FactionReward(e)
 
 
- **You receive:**  [Bravado's Blade](/item/3932) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_772.png" alt="" /> <a
+                                href="/item/3910" data-url="3910" class="tooltip-link link">Bravado's Mask</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5477" data-url="5477" class="tooltip-link link">Mark of Chants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5479" data-url="5479" class="tooltip-link link">Moonstone Studded Medal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/5478" data-url="5478" class="tooltip-link link">Red Stone Idol</a>) then
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/3932" data-url="3932" class="tooltip-link link">Bravado's Blade</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -118,14 +157,14 @@ function FactionReward(e)
 
 >**Brolan Geppal says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

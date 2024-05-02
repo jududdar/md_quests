@@ -95,37 +95,62 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if( **You turn in:** [A Bunch of Optic Nerves](/item/14019), [Sapphire](/item/10034)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/14019" data-url="14019" class="tooltip-link link">A Bunch of Optic Nerves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>) then
 
 
 >**Ulan Meadowgreen says:** Very good. I am always in need of more optic nerves. Take this crafted bracer with my thanks.
 
 
- **You receive:**  [Crafted Bracers](/item/4177) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4177" data-url="4177" class="tooltip-link link">Crafted Bracers</a> (+25000 exp)
 
-elseif( **You turn in:** [Dark Circlet](/item/13742), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_938.png" alt="" /> <a
+                                href="/item/13742" data-url="13742" class="tooltip-link link">Dark Circlet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Ulan Meadowgreen says:** Is this.. it is! I did not recognize it at first, but this is indeed the circlet my father once crafted. It seems to have been enchanted since. Take these crafted greaves with my thanks for a job well done.
 
 
- **You receive:**  [Crafted Greaves](/item/4179) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4179" data-url="4179" class="tooltip-link link">Crafted Greaves</a> (+25000 exp)
 
-elseif( **You turn in:** [Bottom of a Fractured Rune](/item/13698), [Middle of a Fractured Rune](/item/13699), [Top of a Fractured Rune](/item/13738), [Fire Emerald](/item/10033)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/13698" data-url="13698" class="tooltip-link link">Bottom of a Fractured Rune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/13699" data-url="13699" class="tooltip-link link">Middle of a Fractured Rune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/13738" data-url="13738" class="tooltip-link link">Top of a Fractured Rune</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>) then
 
 
 >**Ulan Meadowgreen says:** Most impressive - all three pieces of the dwarven rune. When joined, this shall serve me well. Take this crafted pauldron with my gratitude.
 
 
- **You receive:**  [Crafted Pauldron](/item/4175) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/4175" data-url="4175" class="tooltip-link link">Crafted Pauldron</a> (+25000 exp)
 
-elseif( **You turn in:** [Werewolf Talon](/item/13746), [Ruby](/item/10035), [Ruby](/item/10035), [Ruby](/item/10035)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/13746" data-url="13746" class="tooltip-link link">Werewolf Talon</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then
 
 
 >**Ulan Meadowgreen says:** I am most impressed that you have returned from Castle Mistmoore with a werewolf talon. You have justly earned your crafted breastplate.
 
 
- **You receive:**  [Crafted Breastplate](/item/4174) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4174" data-url="4174" class="tooltip-link link">Crafted Breastplate</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

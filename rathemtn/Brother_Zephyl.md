@@ -52,22 +52,37 @@ local text = "We had an agreement. The proof of a skilled monk, the red sash, an
 
 
 
-if( **You turn in:** [The Idol](/item/12317), [Red Sash of Order](/item/10133)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/12317" data-url="12317" class="tooltip-link link">The Idol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10133" data-url="10133" class="tooltip-link link">Red Sash of Order</a>) then 
 
 
 >**Brother Zephyl says:** We thank you for the return of the idol of Zan Fi. Take this rare robe pattern. You shall find it useful should you aid [Brother Qwinn] in his quest. His item, the rare robe pattern, a swatch of shadow silk and a scroll containing Jonathan's Whistling Warsong. Into a sewing kit they will be going. And into the brotherhood will you. I hope you do not wish me to [return the sash].
 
 
- **You receive:**  [Rare Robe Pattern](/item/12315) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_790.png" alt="" /> <a
+                                href="/item/12315" data-url="12315" class="tooltip-link link">Rare Robe Pattern</a> (+2000 exp)
 
-elseif( **You turn in:** [Rare Robe Pattern](/item/12315), [Red Sash of Order](/item/10133)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_790.png" alt="" /> <a
+                                href="/item/12315" data-url="12315" class="tooltip-link link">Rare Robe Pattern</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10133" data-url="10133" class="tooltip-link link">Red Sash of Order</a>) then 
 
 
- **You receive:**  [Red Sash of Order](/item/10133) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10133" data-url="10133" class="tooltip-link link">Red Sash of Order</a> 
 
-elseif( **You turn in:** [Robe of the Lost Circle](/item/12256), [Red Sash of Order](/item/10133)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/12256" data-url="12256" class="tooltip-link link">Robe of the Lost Circle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10133" data-url="10133" class="tooltip-link link">Red Sash of Order</a>) then 
 
 
- **You receive:**  [Red Sash of Order](/item/10133) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10133" data-url="10133" class="tooltip-link link">Red Sash of Order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

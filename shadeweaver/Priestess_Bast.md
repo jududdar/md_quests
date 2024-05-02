@@ -13,16 +13,23 @@ end
 
 
 
-if( **You turn in:** [The Champion's Cape](/item/30856), [Drop of Loda Kai Blood](/item/30853), [Drop of Loda Kai Blood](/item/30853), [Drop of Loda Kai Blood](/item/30853)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/30856" data-url="30856" class="tooltip-link link">The Champion's Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/30853" data-url="30853" class="tooltip-link link">Drop of Loda Kai Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/30853" data-url="30853" class="tooltip-link link">Drop of Loda Kai Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/30853" data-url="30853" class="tooltip-link link">Drop of Loda Kai Blood</a>) then 
 
 
 >**Priestess Bast says:** You are indeed a friend to us and have earned a place of high honor among our people and our four-legged cousins. Wear this robe with pride and none will ever doubt your conviction for the honor of the felidae.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (15)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Blessed Champion's Cape](/item/30857) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/30857" data-url="30857" class="tooltip-link link">Blessed Champion's Cape</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

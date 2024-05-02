@@ -20,7 +20,8 @@
 >**Erus Ereptor Yuka says:** Yes but there is a rogue that is still unaccounted for. He had an escape route that was planned through the Twilight Sea. He was to swim to safety in the Twilight Sea. I am sure he is fine but if you want something to do so badly, take this letter to Elisah Astari and tell him you are taking over in his search for Tergus Raslin.
 
 
-**You receive:**  [Letter of Relief](/item/29868)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29868" data-url="29868" class="tooltip-link link">Letter of Relief</a>
 end
 
 ## Turn-Ins
@@ -29,33 +30,37 @@ end
 
 
 
-if( **You turn in:** [Shattered Praetor Blade](/item/29869)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1032.png" alt="" /> <a
+                                href="/item/29869" data-url="29869" class="tooltip-link link">Shattered Praetor Blade</a>) then 
 
 
 >**Erus Ereptor Yuka says:** He was caught? I cannot believe one of my own men would fail me. If he was caught he deserved whatever they gave to him. Still though tainting him with vampyrism is something that could have seriously affected this town. He could have done much damage before his time for the question arose. You have done a great justice to Seru by purging us of the evil.
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (10)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (1)
+Your faction standing with [Seru](/faction/1483) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Haven Smugglers](/faction/1542) (-1)
+Your faction standing with [Haven Smugglers](/faction/1542) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-1)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (-2)
+Your faction standing with [Magus Conlegium](/faction/1504) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [Praetor's Blade of Debility](/item/29870) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1173.png" alt="" /> <a
+                                href="/item/29870" data-url="29870" class="tooltip-link link">Praetor's Blade of Debility</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

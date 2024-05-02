@@ -4,7 +4,8 @@
 
 
 
-if ( **You possess item:**  [Tiny Gold Fist](/item/16260) x 1
+if ( **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/16260" data-url="16260" class="tooltip-link link">Tiny Gold Fist</a> x 1
 
 
 **You say:** `hail`
@@ -32,7 +33,8 @@ if ( **You possess item:**  [Tiny Gold Fist](/item/16260) x 1
 
 
 
-**You receive:**  [Sacred Bowl](/item/17183)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/17183" data-url="17183" class="tooltip-link link">Sacred Bowl</a>
 
 
 else
@@ -51,53 +53,77 @@ end
 
 
 
-if( **You turn in:** [Power of the Planes](/item/16266)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/16266" data-url="16266" class="tooltip-link link">Power of the Planes</a>) then 
 
 
 >*Councilwoman Kerasha takes the Power from you and hands it to Aid Eino. 'Thank you Soandso. The energy I must expend to perform such a task is days in the gathering. The city of Tanaan is forever in your debt. Take this, it is but a small token of the gratitude of the city. If it does not suit you, return it to me and I shall give you another reward.'*
 
 
- **You receive:**  [Jade Hoop of Speed](/item/32106) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/32106" data-url="32106" class="tooltip-link link">Jade Hoop of Speed</a> 
 
-if( **You turn in:** [Jade Hoop of Speed](/item/32106)) then 
+ 
 
-
->**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
-
-
- **You receive:**  [Frizzniks Endless Coin Purse](/item/17209) 
-
-if( **You turn in:** [Frizzniks Endless Coin Purse](/item/17209)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/32106" data-url="32106" class="tooltip-link link">Jade Hoop of Speed</a>) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
 
 
- **You receive:**  [Cord of Invigoration](/item/32107) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17209" data-url="17209" class="tooltip-link link">Frizzniks Endless Coin Purse</a> 
 
-if( **You turn in:** [Cord of Invigoration](/item/32107)) then 
+ 
 
-
->**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
-
-
- **You receive:**  [Mace of the Ancients](/item/32108) 
-
-if( **You turn in:** [Mace of the Ancients](/item/32108)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17209" data-url="17209" class="tooltip-link link">Frizzniks Endless Coin Purse</a>) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
 
 
- **You receive:**  [Ring of Farsight](/item/32109) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/32107" data-url="32107" class="tooltip-link link">Cord of Invigoration</a> 
 
-if( **You turn in:** [Ring of Farsight](/item/32109)) then 
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/32107" data-url="32107" class="tooltip-link link">Cord of Invigoration</a>) then 
 
 
 >**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
 
 
- **You receive:**  [Jade Hoop of Speed](/item/32106) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1325.png" alt="" /> <a
+                                href="/item/32108" data-url="32108" class="tooltip-link link">Mace of the Ancients</a> 
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1325.png" alt="" /> <a
+                                href="/item/32108" data-url="32108" class="tooltip-link link">Mace of the Ancients</a>) then 
+
+
+>**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/32109" data-url="32109" class="tooltip-link link">Ring of Farsight</a> 
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/32109" data-url="32109" class="tooltip-link link">Ring of Farsight</a>) then 
+
+
+>**Councilwoman Kerasha says:** I understand. Take this, may it serve you well, Soandso.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/32106" data-url="32106" class="tooltip-link link">Jade Hoop of Speed</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

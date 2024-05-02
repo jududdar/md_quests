@@ -18,83 +18,94 @@ end
 
 
 
-if( **You turn in:** [Scroll of the Burning Dead](/item/18474)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18474" data-url="18474" class="tooltip-link link">Scroll of the Burning Dead</a>) then
 
 
 >**Xon Quexill says:** Very interesting, servant of the Queen. This deed has stayed my wrath for this interruption of my business. Where did you find this?
 
 
-* __Faction:__ [The Dead](/faction/239) (1)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-3)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-3)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-3)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-3)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:** 0 (+6400 exp)
+ &#127873; **You receive:** 0 (+6400 exp)
 
-elseif( **You turn in:** [Ghostly Bridle](/item/31492)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 8 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/31492" data-url="31492" class="tooltip-link link">Ghostly Bridle</a>) then
 
 
 >**Xon Quexill says:** Ha ha ha ha! Oh the poor steed of a noble paladin! Bah, it will find no rest yet. I who can command the spirits of the dead demand it serve you once again.
 
 
-* __Faction:__ [The Dead](/faction/239) (1)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-3)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-3)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-3)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-3)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Bridle of Sir Ariam](/item/31496) (+6400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/31496" data-url="31496" class="tooltip-link link">Bridle of Sir Ariam</a> (+6400 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18758)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18758" data-url="18758" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Xon Quexill says:** Just what I need in this outfit, another waste of flesh. Here, put this on. Go bother Noxhil for a while - I'm sure he has some menial task for you.  You'd better prove yourself of value to me. I hear I can get a few plat for the skull of an idiot on the black market, and I could make a fortune from your type. Now, get outta here!
 
 
-* __Faction:__ [The Dead](/faction/239) (100)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (15)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-15)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-15)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-15)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-200)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-200</span>)
 
 
- **You receive:**  [Dark Stained Training Robe*](/item/13587) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_713.png" alt="" /> <a
+                                href="/item/13587" data-url="13587" class="tooltip-link link">Dark Stained Training Robe*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

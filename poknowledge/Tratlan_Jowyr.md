@@ -58,7 +58,8 @@ end
 
 
 
-if( **You turn in:** [The Reflecting Pools of Tanaan](/item/15960)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/15960" data-url="15960" class="tooltip-link link">The Reflecting Pools of Tanaan</a>) then
 
 
 >*Tratlan Jowyr leafs quickly through the book. 'Thank you, it will take quite some time to go through all the information here. Here is a little something for your troubles.'*
@@ -67,6 +68,9 @@ if( **You turn in:** [The Reflecting Pools of Tanaan](/item/15960)) then
 
 
 
- **You receive:**  [Fine Cut, Diamond Inlaid Mask](/item/9321) (+150000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1063.png" alt="" /> <a
+                                href="/item/9321" data-url="9321" class="tooltip-link link">Fine Cut, Diamond Inlaid Mask</a> (+150000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

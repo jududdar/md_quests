@@ -73,7 +73,11 @@ end
 if( **Faction is** > Dubious) then
 
 
-if( **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081), [Coldain Head](/item/30081)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>) then
 
 
 
@@ -81,53 +85,45 @@ if( **You turn in:** [Coldain Head](/item/30081), [Coldain Head](/item/30081), [
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (40)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+40</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Coldain](/faction/406) (-20)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-20</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-4)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-4</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Giant Scalemail Belt](/item/25011), 25016, 25013, 25010, 25017, 25014, 25007, 25005, 25015, 25009, 25006, 25012, 25018) (+50000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/25011" data-url="25011" class="tooltip-link link">Giant Scalemail Belt</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/25016" data-url="25016" class="tooltip-link link">Giant Scalemail Boots</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/25013" data-url="25013" class="tooltip-link link">Giant Scalemail Bracer</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/25010" data-url="25010" class="tooltip-link link">Giant Scalemail Cloak</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/25017" data-url="25017" class="tooltip-link link">Giant Scalemail Gauntlets</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/25014" data-url="25014" class="tooltip-link link">Giant Scalemail Gloves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_627.png" alt="" /> <a
+                                href="/item/25007" data-url="25007" class="tooltip-link link">Giant Scalemail Gorget</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/25005" data-url="25005" class="tooltip-link link">Giant Scalemail Helm</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/25015" data-url="25015" class="tooltip-link link">Giant Scalemail Leggings</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/25009" data-url="25009" class="tooltip-link link">Giant Scalemail Mantle</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/25006" data-url="25006" class="tooltip-link link">Giant Scalemail Mask</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/25012" data-url="25012" class="tooltip-link link">Giant Scalemail Sleeves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_527.png" alt="" /> <a
+                                href="/item/25018" data-url="25018" class="tooltip-link link">Giant Scalemail Tunic</a>) (+50000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100), [Shard Wurm Fang](/item/25100)) then
-
-
-
->**Slaggak the Trainer says:** Excellent work, Soandso.  Here is your reward as promised. A piece of prize armor crafted for war.
-
-
-
-* __Faction:__ [Kromrif](/faction/419) (40)
-
-
-
-* __Faction:__ [Kromzek](/faction/448) (10)
-
-
-
-* __Faction:__ [Coldain](/faction/406) (-20)
-
-
-
-* __Faction:__ [Claws of Veeshan](/faction/430) (-4)
-
-
-
- **You receive:**  [Cerulean Greaves](/item/25071) (+50000 exp)
-
-
-elseif( **You turn in:** [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger](/item/25101)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25100" data-url="25100" class="tooltip-link link">Shard Wurm Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25100" data-url="25100" class="tooltip-link link">Shard Wurm Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25100" data-url="25100" class="tooltip-link link">Shard Wurm Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25100" data-url="25100" class="tooltip-link link">Shard Wurm Fang</a>) then
 
 
 
@@ -135,23 +131,60 @@ elseif( **You turn in:** [Ice Wyvern Stinger](/item/25101), [Ice Wyvern Stinger]
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (40)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+40</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Coldain](/faction/406) (-20)
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-20</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-4)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-4</span>)
 
 
 
- **You receive:**  [Cerulean Vambraces](/item/25070) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/25071" data-url="25071" class="tooltip-link link">Cerulean Greaves</a> (+50000 exp)
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25101" data-url="25101" class="tooltip-link link">Ice Wyvern Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25101" data-url="25101" class="tooltip-link link">Ice Wyvern Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25101" data-url="25101" class="tooltip-link link">Ice Wyvern Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/25101" data-url="25101" class="tooltip-link link">Ice Wyvern Stinger</a>) then
+
+
+
+>**Slaggak the Trainer says:** Excellent work, Soandso.  Here is your reward as promised. A piece of prize armor crafted for war.
+
+
+
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+40</span>)
+
+
+
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
+
+
+
+Your faction standing with [Coldain](/faction/406) got worse (<span class='text-danger'>-20</span>)
+
+
+
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-4</span>)
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/25070" data-url="25070" class="tooltip-link link">Cerulean Vambraces</a> (+50000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

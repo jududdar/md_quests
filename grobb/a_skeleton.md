@@ -43,13 +43,17 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Grobb Oven Mittens](/item/12211)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/12211" data-url="12211" class="tooltip-link link">Grobb Oven Mittens</a>) then 
 
 
 >**a skeleton says:** Ahh! Oven mittens! Kinda' large, don't you think?! Oh well, now I can bake all I want without burning my hands. OKAY! Lets go. I overheard some basher named Nanrum saying he spotted my friend, the butcher. You should ask him [where the skeleton] is.
 
 
- **You receive:**  [The Baker](/item/12213) (+25 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12213" data-url="12213" class="tooltip-link link">The Baker</a> (+25 exp)
+
+ 
 
 
 **a skeleton despawns.**

@@ -235,7 +235,10 @@ end
 
 
 
-if ( not walking and  **You turn in:** [Copper Node](/item/9295), [Bundle of Super Conductive Wires](/item/9426), [Intact Power Cell](/item/9434) ) then
+if ( not walking and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1101.png" alt="" /> <a
+                                href="/item/9295" data-url="9295" class="tooltip-link link">Copper Node</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1140.png" alt="" /> <a
+                                href="/item/9426" data-url="9426" class="tooltip-link link">Bundle of Super Conductive Wires</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/9434" data-url="9434" class="tooltip-link link">Intact Power Cell</a> ) then
 
 
 >**Nitram Anizok says:** Excellent!  This is wonderful, please follow me!  I will show you the power of my greatest invention.

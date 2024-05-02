@@ -14,7 +14,8 @@
 >**Misla McMannus says:** Very well, then. Here you go. Be sure to deliver this to Teria O'Danos. She will be one of the first people you meet in Halas.
 
 
-**You receive:**  [Lion Meat Shipment](/item/13961)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/13961" data-url="13961" class="tooltip-link link">Lion Meat Shipment</a>
 
 **You say:** `halas`
 

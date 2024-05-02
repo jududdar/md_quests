@@ -40,7 +40,11 @@ end
 
 
 
-if( **You turn in:** [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/item/10690)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/10690" data-url="10690" class="tooltip-link link">Acrylian Phosphate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/10690" data-url="10690" class="tooltip-link link">Acrylian Phosphate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/10690" data-url="10690" class="tooltip-link link">Acrylian Phosphate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/10690" data-url="10690" class="tooltip-link link">Acrylian Phosphate</a>) then
 
 
 
@@ -49,29 +53,36 @@ if( **You turn in:** [Acrylian Phosphate](/item/10690), [Acrylian Phosphate](/it
 >**Triblix Tikbok says:** Thank you Soandso! This acrylian phosphate is such a wonderful mineral both for producing extremely long lasting lights and also for the aversion vampyres seem to have to the way it burns!
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-1)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Phosphorous Torch](/item/2596) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/2596" data-url="2596" class="tooltip-link link">Phosphorous Torch</a> (+500 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/10691" data-url="10691" class="tooltip-link link">Zelniak Oil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/10691" data-url="10691" class="tooltip-link link">Zelniak Oil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/10691" data-url="10691" class="tooltip-link link">Zelniak Oil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/10691" data-url="10691" class="tooltip-link link">Zelniak Oil</a>) then
 
 
 
@@ -80,24 +91,27 @@ elseif( **You turn in:** [Zelniak Oil](/item/10691), [Zelniak Oil](/item/10691),
 >**Triblix Tikbok says:** Thank you Soandso! It would be pretty hard to see around here if we didnt keep the fires burning, it never being daytime and all.
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-1)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Combine Fire Flasks](/item/10694) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/10694" data-url="10694" class="tooltip-link link">Combine Fire Flasks</a> (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

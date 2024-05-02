@@ -164,45 +164,53 @@ end
 
 
 
-if **Faction** >= Amiable +300 and  **You turn in:** [Head of the Huntsman](/item/25122)) then 
+if **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/25122" data-url="25122" class="tooltip-link link">Head of the Huntsman</a>) then 
 
 
 >**Yetarr says:** The death of this one must be causing great strife amoung the Coldain. Your work is greatly appreciated. I wish I could reward you with more, but these boots are among the few things I have to give.
 
 
-* __Faction:__ [Kromzek](/faction/448) (30)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (7)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (7)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-15)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Coldain Skin Boots](/item/25027) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/25027" data-url="25027" class="tooltip-link link">Coldain Skin Boots</a> (+75000 exp)
 
-elseif **Faction** >= Amiable +300 and  **You turn in:** [Head of the Royal Scribe](/item/25123)) then 
+ 
+
+elseif **Faction** >= Amiable +300 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/25123" data-url="25123" class="tooltip-link link">Head of the Royal Scribe</a>) then 
 
 
 >**Yetarr says:** Take these gloves and continue to strike fear into the heart of the Coldain.  A daring raid upon Icewell Keep itself deserves no less.
 
 
-* __Faction:__ [Kromzek](/faction/448) (30)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (7)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (7)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-15)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Coldain Skin Gloves](/item/25026) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/25026" data-url="25026" class="tooltip-link link">Coldain Skin Gloves</a> (+75000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

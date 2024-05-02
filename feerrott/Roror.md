@@ -56,13 +56,17 @@ end
 local text = "Yesss. But remember, Cazic-Thule demandsssss both the item and 66 gold piecessss assssss an offering.";
 
 
-if( **You turn in:** [Sack of Hay](/item/13990),gold = 66) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1145.png" alt="" /> <a
+                                href="/item/13990" data-url="13990" class="tooltip-link link">Sack of Hay</a>,gold = 66) then
 
 
 >**Roror says:** Whatsssss thisssss? You sssseek my blessssssssing? Heh heh heh... Very well... CAZIC-THULE! Take this fruit of Karana into horror'sss dark embrace. Fear and death made manifesssssst. A harvesssst of terror! Here, take your gift of blood and sssstraw. Use its dark powersssss in the name of the Fear Lord!
 
 
- **You receive:**  [Sack of Cursed Hay](/item/14320) (+300 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/14320" data-url="14320" class="tooltip-link link">Sack of Cursed Hay</a> (+300 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

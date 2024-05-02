@@ -15,7 +15,8 @@ end
 
 
 
-local mushroom =  **You turn in:**  { [Fungus Covered Mushroom](/item/31479)}
+local mushroom =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1206.png" alt="" /> <a
+                                href="/item/31479" data-url="31479" class="tooltip-link link">Fungus Covered Mushroom</a>}
 
 
 
@@ -30,7 +31,9 @@ repeat
 
 
 
- **You receive:** 0 (+15000 exp)
+ &#127873; **You receive:** 0 (+15000 exp)
+
+ 
 
 
 

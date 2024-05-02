@@ -114,7 +114,8 @@ end
 
 
 
-local Red_Wine =  **You turn in:**  { [Red Wine](/item/13030)}
+local Red_Wine =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/13030" data-url="13030" class="tooltip-link link">Red Wine</a>}
 
 
 
@@ -127,18 +128,21 @@ if **Faction** >= Indifferent and  **You turn in:** platinum = 7) then
 
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (10)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (1)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [A Note](/item/18200) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18200" data-url="18200" class="tooltip-link link">A Note</a> 
+
+ 
 
 elseif(Red_Wine > 0) then
 
@@ -155,22 +159,24 @@ repeat
 
 
 
-* __Faction:__ [Dark Bargainers](/faction/236) (10)
+Your faction standing with [Dark Bargainers](/faction/236) got better (<span class='text-success'>+10</span>)
 
 
 
 
 
 
-* __Faction:__ [Dreadguard Inner](/faction/370) (1)
+Your faction standing with [Dreadguard Inner](/faction/370) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (1)
+Your faction standing with [Dreadguard Outer](/faction/334) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
+
+ 
 
 
 

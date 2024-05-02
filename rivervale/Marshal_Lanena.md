@@ -85,51 +85,59 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Piranha Tooth](/item/13929)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/13929" data-url="13929" class="tooltip-link link">Piranha Tooth</a>) then
 
 
 >**Marshal Lanena says:** What was I thinking?!! Piranha are coming downstream and eating our supply of fish! We have never had a problem like this!!  Where are these little beasts coming from?  For now we must collect more. Take this bag. Collect enough teeth to fill the bag. Don't worry, if it takes a while I shall reward you with the [Rantho Rapier].  We will need to examine the teeth.
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (2)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (1)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-1)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Piranha Bag](/item/17968) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17968" data-url="17968" class="tooltip-link link">Piranha Bag</a> (+200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bag of Piranha Teeth](/item/12155)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/12155" data-url="12155" class="tooltip-link link">Bag of Piranha Teeth</a>) then
 
 
 >**Marshal Lanena says:** Fine work. We shall continue to study these and shall determine if we need to seek the source.
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (10)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (1)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dreadguard Outer](/faction/334) (-1)
+Your faction standing with [Dreadguard Outer](/faction/334) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Rantho Rapier](/item/5423) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/5423" data-url="5423" class="tooltip-link link">Rantho Rapier</a> (+200 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 elseif **Faction** >= Indifferent then
 

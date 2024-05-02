@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Rolfic Gohar](/item/19843)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19843" data-url="19843" class="tooltip-link link">Note to Rolfic Gohar</a>
 
 
 **You say:** `next orders`
@@ -42,38 +43,51 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if( **You turn in:** [A tattered note](/item/18857)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18857" data-url="18857" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Brutol Rhaksen says:** Hahaha.. I sure hope you prove more valuable than you look, little one.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (100)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-15)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (20)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Faded Crimson Tunic*](/item/13561) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13561" data-url="13561" class="tooltip-link link">Faded Crimson Tunic*</a> (+20 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Tarsa Yovar's Head](/item/19932)) then 
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_983.png" alt="" /> <a
+                                href="/item/19932" data-url="19932" class="tooltip-link link">Tarsa Yovar's Head</a>) then 
 
 
 >**Brutol Rhaksen says:** Take this and get it sharpened. Bring it back to me with a Giant Rattlesnake Skin and you will have proven yourself able to wield a Dismal Rage Battle Axe, to help teach the way of Innoruuk!
 
 
- **You receive:**  [Dull Dismal Battleaxe](/item/19921) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/19921" data-url="19921" class="tooltip-link link">Dull Dismal Battleaxe</a> (+100 exp)
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharpened Dismal Battleaxe](/item/19926), [Giant Rattlesnake Skin](/item/19852)) then 
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/19926" data-url="19926" class="tooltip-link link">Sharpened Dismal Battleaxe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/19852" data-url="19852" class="tooltip-link link">Giant Rattlesnake Skin</a>) then 
 
 
 >**Brutol Rhaksen says:** You have proven your faith Soandso. Take this to vanquish any and all whom question the absolute power of Innoruuk!
 
 
- **You receive:**  [Dismal Rage Battle Axe](/item/19938) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/19938" data-url="19938" class="tooltip-link link">Dismal Rage Battle Axe</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

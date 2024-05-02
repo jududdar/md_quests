@@ -104,24 +104,29 @@ end
 
 
 
-if( **You turn in:** [Bayle List II](/item/18809), [Mammoths Hide](/item/13912)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18809" data-url="18809" class="tooltip-link link">Bayle List II</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13912" data-url="13912" class="tooltip-link link">Mammoths Hide</a>) then
 
 
 >**Frenway Marthank says:** It is not right to feel satisfied at the sight of Mammoth's hide, but I do. Thank you, Soandso.
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Sabertooths of Blackburrow](/faction/306) (-1)
+Your faction standing with [Sabertooths of Blackburrow](/faction/306) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Bayle List II](/item/18809) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18809" data-url="18809" class="tooltip-link link">Bayle List II</a> (+500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 6 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

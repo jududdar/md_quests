@@ -16,7 +16,8 @@
 >**Derthix Gibblix says:** We have been blessed by Bertoxxulous with the vision of the Dark Reflection. We are the prophet and protectors of all who serve the Plague Bringer and have devoted our lives to spreading disease and decay for the glory of Bertoxxulous and the balances that must be maintained. Take this parchment to Glerbella Gibblix, she will assist you with the construction of a suit of armor to aid in protecting you from the weapons of those who would see us destroyed. When you have been properly outfitted return to me for your [next task].
 
 
-**You receive:**  [Parchment to Glerbella](/item/10989)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/10989" data-url="10989" class="tooltip-link link">Parchment to Glerbella</a>
 
 **You say:** `next task`
 
@@ -29,12 +30,16 @@ end
 
 
 
-if ( **You turn in:** [Vyntoks Mace](/item/10993)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/10993" data-url="10993" class="tooltip-link link">Vyntoks Mace</a>) then
 
 
 >**Derthix Gibblix says:** It is good you returned with this. I almost thought you had lost to Vyntok, or worse become merciful to his cause. I suppose a reward is in order. A mace for a mace, now go forth and spread the word of Bertoxxulous.
 
 
- **You receive:**  [Plague Raiser Mace](/item/11080) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/11080" data-url="11080" class="tooltip-link link">Plague Raiser Mace</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

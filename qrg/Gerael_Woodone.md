@@ -19,7 +19,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Flask of Nitrates](/item/13945)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13945" data-url="13945" class="tooltip-link link">Flask of Nitrates</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -125,7 +126,8 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [A Tattered Cloth Note](/item/18911)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18911" data-url="18911" class="tooltip-link link">A Tattered Cloth Note</a>) then
 
 
 >**Gerael Woodone says:** Oh my!! Our Qeynos Ambassador, Gash, is in danger. Please take the note over to Captain Tillin of the Qeynos Guard then find Gash and inform him [they are trying to kill him]. Go!!
@@ -134,44 +136,62 @@ if **Faction** >= Dubious and  **You turn in:** [A Tattered Cloth Note](/item/18
  
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (15)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (3)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (2)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-3)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [A Tattered Cloth Note](/item/18912) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18912" data-url="18912" class="tooltip-link link">A Tattered Cloth Note</a> (+10 exp)
 
-elseif **Faction** >= Dubious and  **You turn in:** [Black Wood Chip](/item/12141)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/12141" data-url="12141" class="tooltip-link link">Black Wood Chip</a>) then 
 
 
 >**Gerael Woodone says:** So the Unkempt Druids are alive and well.  We shall keep a watchful eye out as should you.  Take this for your bravery and defense of the Jaggedpine.
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (20)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (3)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-5)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rusty Short Sword](/item/5013), [Rusty Axe](/item/5014), [Rusty Scythe](/item/5015), [Rusty Broad Sword](/item/5016), [Minotaur Battle Axe](/item/5017), [Pick](/item/5018), [Rusty Long Sword](/item/5019), [Rusty Battle Axe](/item/5020), [Rusty Scimitar](/item/5021), [Rusty Bastard Sword](/item/5022), [Rusty Two Handed Sword](/item/5023), [Rusty Halberd](/item/5024)) (+10 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_579.png" alt="" /> <a
+                                href="/item/5015" data-url="5015" class="tooltip-link link">Rusty Scythe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_605.png" alt="" /> <a
+                                href="/item/5016" data-url="5016" class="tooltip-link link">Rusty Broad Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5017" data-url="5017" class="tooltip-link link">Minotaur Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/5018" data-url="5018" class="tooltip-link link">Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5019" data-url="5019" class="tooltip-link link">Rusty Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5020" data-url="5020" class="tooltip-link link">Rusty Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5021" data-url="5021" class="tooltip-link link">Rusty Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/5022" data-url="5022" class="tooltip-link link">Rusty Bastard Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5024" data-url="5024" class="tooltip-link link">Rusty Halberd</a>) (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

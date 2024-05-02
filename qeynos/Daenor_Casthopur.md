@@ -21,7 +21,8 @@ if(fac < 6) then
 
 
 
-**You receive:**  [Note to Neclo](/item/18823)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18823" data-url="18823" class="tooltip-link link">Note to Neclo</a>
 
 
 else

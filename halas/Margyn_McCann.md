@@ -73,7 +73,8 @@ else
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/13729" data-url="13729" class="tooltip-link link">Barbarian Head</a>) then 
 
 
 
@@ -84,7 +85,7 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) t
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (20)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+20</span>)
 
 
 
@@ -101,7 +102,7 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) t
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (3)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+3</span>)
 
 
 
@@ -118,7 +119,7 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) t
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-3)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-3</span>)
 
 
 
@@ -135,7 +136,7 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) t
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-3)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-3</span>)
 
 
 
@@ -152,7 +153,7 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) t
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-4)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-4</span>)
 
 
 
@@ -169,15 +170,19 @@ if **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13729)) t
 
 
 
- **You receive:**  [Spell: Spirit of Bear](/item/15279) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15279" data-url="15279" class="tooltip-link link">Spell: Spirit of Bear</a> (+1000 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18761)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18761" data-url="18761" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Margyn McCann says:** Welcome t' the Church o' the Tribunal. Here, we practice the will o' the Six Hammers. This is our guild tunic - wear it with pride and represent us well.
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (100)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+100</span>)
 
 
 
@@ -194,7 +199,7 @@ elseif( **You turn in:** [A tattered note](/item/18761)) then
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (15)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+15</span>)
 
 
 
@@ -211,7 +216,7 @@ elseif( **You turn in:** [A tattered note](/item/18761)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-15)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-15</span>)
 
 
 
@@ -228,7 +233,7 @@ elseif( **You turn in:** [A tattered note](/item/18761)) then
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-15)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-15</span>)
 
 
 
@@ -245,7 +250,7 @@ elseif( **You turn in:** [A tattered note](/item/18761)) then
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-20)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-20</span>)
 
 
 
@@ -262,7 +267,10 @@ elseif( **You turn in:** [A tattered note](/item/18761)) then
 
 
 
- **You receive:**  [Faded Blue Tunic*](/item/13512) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13512" data-url="13512" class="tooltip-link link">Faded Blue Tunic*</a> (+20 exp)
+
+ 
 
 
 

@@ -74,42 +74,65 @@ end
 
 
 
-if( **You turn in:** [Tattered Note](/item/18884) or  **You turn in:** [A Sealed Letter](/item/18886)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18884" data-url="18884" class="tooltip-link link">Tattered Note</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18886" data-url="18886" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 >**Marda says:** I see you finally decided to return. Hmmm. What is this? Those little hoppers have done well. What!! So the troll scum have been aiding our foes, the lizards!! The lizard mystics are trained by this troll shaman called Zimbittle. Find him!! Kill him. Bring me his shaman pouch!! Now!!
 
 
-* __Faction:__ [Shamen of War](/faction/394) (10)
+Your faction standing with [Shamen of War](/faction/394) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Endure Disease](/item/15226), [Spell: Spirit of Bear](/item/15279), [Spell: Summon Drink](/item/15211)) (+50 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15270" data-url="15270" class="tooltip-link link">Spell: Drowsy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15226" data-url="15226" class="tooltip-link link">Spell: Endure Disease</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15279" data-url="15279" class="tooltip-link link">Spell: Spirit of Bear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15211" data-url="15211" class="tooltip-link link">Spell: Summon Drink</a>) (+50 exp)
 
-elseif( **You turn in:** [A Sealed Letter](/item/18886)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18886" data-url="18886" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 >**Marda says:** I see you finally decided to return. Hmmm. What is this? This troll called Zimbittle. Find her! Kill her. Bring me proof she dead!
 
-elseif( **You turn in:** [A Tattered Cloth Note](/item/18885)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18885" data-url="18885" class="tooltip-link link">A Tattered Cloth Note</a>) then
 
 
 >**Marda says:** What is this? More information? There seems to be a larger plan in the making. B'Dynn sounds like a Dark Elf name. I do no like the sound of this.  You must go quickly to North Ro.  Find this Dark Elf.  Find out what he knows.  any way you can.
 
 
-* __Faction:__ [Shamen of War](/faction/394) (20)
+Your faction standing with [Shamen of War](/faction/394) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Endure Disease](/item/15226), [Spell: Spirit of Bear](/item/15279), [Spell: Summon Drink](/item/15211)) (+100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15270" data-url="15270" class="tooltip-link link">Spell: Drowsy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15226" data-url="15226" class="tooltip-link link">Spell: Endure Disease</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15279" data-url="15279" class="tooltip-link link">Spell: Spirit of Bear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15211" data-url="15211" class="tooltip-link link">Spell: Summon Drink</a>) (+100 exp)
 
-elseif( **You turn in:** [Zimbittles Pouch](/item/17929)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/17929" data-url="17929" class="tooltip-link link">Zimbittles Pouch</a>) then
 
 
 >**Marda says:** Ahhh!! Good work. You are a bright one. Now let us see if you can master this spell. Learn it well and may it bring you much glory.
 
 
-* __Faction:__ [Shamen of War](/faction/394) (25)
+Your faction standing with [Shamen of War](/faction/394) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Drowsy](/item/15270), [Spell: Endure Disease](/item/15226), [Spell: Spirit of Bear](/item/15279), [Spell: Summon Drink](/item/15211)) (+150 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15270" data-url="15270" class="tooltip-link link">Spell: Drowsy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15226" data-url="15226" class="tooltip-link link">Spell: Endure Disease</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15279" data-url="15279" class="tooltip-link link">Spell: Spirit of Bear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15211" data-url="15211" class="tooltip-link link">Spell: Summon Drink</a>) (+150 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -26,7 +26,8 @@
 >**Serra says:** I hope it will help you out. Please find him so I can leave this place?
 
 
-**You receive:**  [Ripped Qeynos Bards Guild Flyer](/item/20374)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20374" data-url="20374" class="tooltip-link link">Ripped Qeynos Bards Guild Flyer</a>
 end
 
 ## Turn-Ins
@@ -35,13 +36,17 @@ end
 
 
 
-if( **You turn in:** [Mechanical Doll](/item/20370)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/20370" data-url="20370" class="tooltip-link link">Mechanical Doll</a>) then
 
 
 >**Serra says:** Oh! You have the dolly! Thank you! Thank you! Thank you! I can go home now. Please give this to my father, Baenar. He will understand when he gets it.' Serra begins to fade away. 'Bye bye!
 
 
- **You receive:**  [Note for Baenar](/item/20371) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/20371" data-url="20371" class="tooltip-link link">Note for Baenar</a> 
+
+ 
 
 
 **Serra despawns.**

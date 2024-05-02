@@ -83,24 +83,31 @@ end
 
 
 
-if( **You turn in:** [Head of Elishia Blackguard](/item/9270), [Head of Reynold Blackguard](/item/9271), [Head of Zed Sticklebush](/item/9272), [Head of Vaurien Sticklebush](/item/9273)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_983.png" alt="" /> <a
+                                href="/item/9270" data-url="9270" class="tooltip-link link">Head of Elishia Blackguard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/9271" data-url="9271" class="tooltip-link link">Head of Reynold Blackguard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/9272" data-url="9272" class="tooltip-link link">Head of Zed Sticklebush</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_983.png" alt="" /> <a
+                                href="/item/9273" data-url="9273" class="tooltip-link link">Head of Vaurien Sticklebush</a>) then
 
 
 >**Randel Stormwind says:** Great Karana's blessing!! I see justice by your hand is both swift and eternal. I would never have had the skill nor the heart to carry out these miscreant's punishment the way you have. I'm glad to call you a friend and not an enemy. Well, I did promise just compensation for your efforts and I'm true to my word. Please take this ring as a token of my gratitude.
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (50)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (25)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (25)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Sigil Ring of Jaggedpine](/item/9226) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_614.png" alt="" /> <a
+                                href="/item/9226" data-url="9226" class="tooltip-link link">Sigil Ring of Jaggedpine</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

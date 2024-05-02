@@ -11,13 +11,14 @@
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 >**Tasya Huntlan says:** Taxes? Oh, that time again huh? Here you are. Give Vicus our best. I hear he is under the weather.
 
 
-**You receive:**  [Huntlans Tax Payment](/item/13176)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13176" data-url="13176" class="tooltip-link link">Huntlans Tax Payment</a>
 end
 
 ## Signals

@@ -28,7 +28,8 @@ end
 if( **Faction is** >= Indifferent) then
 
 
-if( **You turn in:** [Blessed Silver Wand](/item/6339),gold = 50) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6339" data-url="6339" class="tooltip-link link">Blessed Silver Wand</a>,gold = 50) then
 
 
 
@@ -36,10 +37,14 @@ if( **You turn in:** [Blessed Silver Wand](/item/6339),gold = 50) then
 
 
 
- **You receive:**  [Glowing Silver Wand](/item/6340) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/6340" data-url="6340" class="tooltip-link link">Glowing Silver Wand</a> (+1000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Gleaming Coin of Tash](/item/10792)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/10792" data-url="10792" class="tooltip-link link">Gleaming Coin of Tash</a>) then
 
 
 
@@ -47,7 +52,10 @@ elseif( **You turn in:** [Gleaming Coin of Tash](/item/10792)) then
 
 
 
- **You receive:**  [Radiant Coin of Tash](/item/10793) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/10793" data-url="10793" class="tooltip-link link">Radiant Coin of Tash</a> (+1000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

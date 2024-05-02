@@ -131,7 +131,8 @@ if **Faction** >= Amiable +50 then
 
 
 
-**You receive:**  [Empty Shark Bag](/item/17938)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17938" data-url="17938" class="tooltip-link link">Empty Shark Bag</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -163,7 +164,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Empty Bag](/item/17939)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17939" data-url="17939" class="tooltip-link link">Empty Bag</a>
 
 
 
@@ -238,7 +240,8 @@ end
 local text1 = "I called for the list of engineers and all three of their heads!";
 
 
-if **Faction** >= Amiable +50 and  **You turn in:** [Bag of Shark Remains](/item/13876)) then 
+if **Faction** >= Amiable +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13876" data-url="13876" class="tooltip-link link">Bag of Shark Remains</a>) then 
 
 
 >**Weligon Steelherder says:** Very good, my dear young follower of Prexus. You will learn that swimming is a strong skill among the Deepwater Knights. Keep this up and you may wield a Deepwater harpoon soon enough. For now, you shall wear this barnacle breastplate. It is strong enough to aid a young knight in his quest for perfection.
@@ -247,19 +250,23 @@ if **Faction** >= Amiable +50 and  **You turn in:** [Bag of Shark Remains](/item
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (20)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-3)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Barnacle Breastplate](/item/12194) (+2500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/12194" data-url="12194" class="tooltip-link link">Barnacle Breastplate</a> (+2500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full Bag of Pearls](/item/13879)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/13879" data-url="13879" class="tooltip-link link">Full Bag of Pearls</a>) then 
 
 
 >**Weligon Steelherder says:** Fine work, Deepwater Knight. You have proven yourself an excellent addition to our ranks. These shall be used to create more Peacekeeper staffs. Oh yes, I almost forgot your reward. Here you are. Now, go, and serve Prexus.
@@ -268,19 +275,30 @@ elseif **Faction** >= Amiable and  **You turn in:** [Full Bag of Pearls](/item/1
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (5)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Patchwork Tunic](/item/2104), [Patchwork Cloak](/item/2106), [Patchwork Sleeves](/item/2108), [Patchwork Pants](/item/2111), [Patchwork Boots](/item/2112)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2104" data-url="2104" class="tooltip-link link">Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2106" data-url="2106" class="tooltip-link link">Patchwork Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2108" data-url="2108" class="tooltip-link link">Patchwork Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2111" data-url="2111" class="tooltip-link link">Patchwork Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2112" data-url="2112" class="tooltip-link link">Patchwork Boots</a>) (+1000 exp)
 
-elseif **Faction** >= Amiable +250 and  **You turn in:** [A Sealed List](/item/18835), [Human Decapitated Head](/item/13838), [Dwarf Decapitated Head](/item/13839), [Gnome Decapitated Head](/item/13840)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1 <img src='/static/icons/item_645.png' width='14' height='14'/> 3 <img src='/static/icons/item_646.png' width='14' height='14'/> 9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable +250 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18835" data-url="18835" class="tooltip-link link">A Sealed List</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/13838" data-url="13838" class="tooltip-link link">Human Decapitated Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/13839" data-url="13839" class="tooltip-link link">Dwarf Decapitated Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_994.png" alt="" /> <a
+                                href="/item/13840" data-url="13840" class="tooltip-link link">Gnome Decapitated Head</a>) then 
 
 
 >**Weligon Steelherder says:** It is done!! I pray to Prexus that the knowledge of the bridge's design has departed from this world with the passing of these intelligent men. A pity they had to die. As for you, the other states may not tolerate your presence any longer, but you have proven that allegiance to Erudin is paramount among all Erudites. I am afraid the [harpoon is no more]!! I bestow upon you Deep Six, my personal cutlass!! May you wield it in the name of Erudin.
@@ -289,35 +307,42 @@ elseif **Faction** >= Amiable +250 and  **You turn in:** [A Sealed List](/item/1
 
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (25)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (3)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-3)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Deep Six Cutlass](/item/5377) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5377" data-url="5377" class="tooltip-link link">Deep Six Cutlass</a> (+100 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18725)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18725" data-url="18725" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Weligon Steelherder says:** Greetings and welcome to the Deepwater Knights. Here is your guild tunic. Wear it with pride, and Prexus will keep a watchful eye on you. Go find sister Laoni, she will help you get started with your studies.
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (100)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (15)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Heretics](/faction/265) (-15)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-15</span>)
 
 
- **You receive:**  [Old Blue Tunic*](/item/13544) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13544" data-url="13544" class="tooltip-link link">Old Blue Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

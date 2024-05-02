@@ -59,23 +59,36 @@ end
 local text = "We had an agreement. The proof of a skilled monk, the purple headband, and the Code of the Whistling Fist.";
 
 
-if( **You turn in:** [Code of Zan Fi](/item/12316), [Purple Headband](/item/10114)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/12316" data-url="12316" class="tooltip-link link">Code of Zan Fi</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_936.png" alt="" /> <a
+                                href="/item/10114" data-url="10114" class="tooltip-link link">Purple Headband</a>) then 
 
 
 >**Brother Qwinn says:** We thank you for the return of the Code of the Whistling Fist. Take this sewing needle. You shall find it useful should you aid [Brother Zephyl] in his quest. His item, the needle, a swatch of shadow silk and a scroll containing Jonathan's Whistling Warsong. Into a sewing kit they will be going. And into the brotherhood will you. I hope you do not wish me to [return the headband]..
 
 
- **You receive:**  [Needle of the Void](/item/12314) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/12314" data-url="12314" class="tooltip-link link">Needle of the Void</a> (+2000 exp)
 
-elseif( **You turn in:** [Needle of the Void](/item/12314)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/12314" data-url="12314" class="tooltip-link link">Needle of the Void</a>) then 
 
 
- **You receive:**  [Purple Headband](/item/10114) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_936.png" alt="" /> <a
+                                href="/item/10114" data-url="10114" class="tooltip-link link">Purple Headband</a> 
 
-elseif( **You turn in:** [Robe of the Lost Circle](/item/12256)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/12256" data-url="12256" class="tooltip-link link">Robe of the Lost Circle</a>) then 
 
 
- **You receive:**  [Purple Headband](/item/10114) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_936.png" alt="" /> <a
+                                href="/item/10114" data-url="10114" class="tooltip-link link">Purple Headband</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -19,12 +19,19 @@ end
 
 
 
-if( **You turn in:** [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618), [A Stinking Pile of Refuse](/item/30618)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/30618" data-url="30618" class="tooltip-link link">A Stinking Pile of Refuse</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/30618" data-url="30618" class="tooltip-link link">A Stinking Pile of Refuse</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/30618" data-url="30618" class="tooltip-link link">A Stinking Pile of Refuse</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_797.png" alt="" /> <a
+                                href="/item/30618" data-url="30618" class="tooltip-link link">A Stinking Pile of Refuse</a>) then
 
 
 >**Faer Shahar says:** Thank you friend, you have done an excellent service for our city. Take this and may it help you on your endeavors.
 
 
- **You receive:**  [Scavengers Satchel](/item/17890) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17890" data-url="17890" class="tooltip-link link">Scavengers Satchel</a> (+10000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 7 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

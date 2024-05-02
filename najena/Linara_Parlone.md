@@ -28,25 +28,29 @@ end
 
 
 
-if( **You turn in:** [A Tarnished Bronze Key](/item/12269)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1077.png" alt="" /> <a
+                                href="/item/12269" data-url="12269" class="tooltip-link link">A Tarnished Bronze Key</a>) then 
 
 
 >**Linara Parlone says:** Oh my! Thank you so very much! here, take this note to my father. I am sure he will reward you well for my safety.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (10)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (2)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-2)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:**  [A Folded Note](/item/5573) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/5573" data-url="5573" class="tooltip-link link">A Folded Note</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

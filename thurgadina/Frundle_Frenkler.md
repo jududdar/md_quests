@@ -15,7 +15,8 @@ if ( **Faction is** > Apprehensive) then
 
 
 
-**You receive:**  [Velium Purifier](/item/17513)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1239.png" alt="" /> <a
+                                href="/item/17513" data-url="17513" class="tooltip-link link">Velium Purifier</a>
 
 
 **You say:** `velium vial`

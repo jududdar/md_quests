@@ -26,7 +26,8 @@
 >**Euzan Jurek says:** Good, you must do something for us. One of our members, who needs not be named, is due to be called for the Question. We need you to go into the Heart [Consillium] and replace their records with this one. This false record shows that they have completed their Question and still have time until their next one. Changing the records will make the question pass over us so that we avoid being discovered. Go in stealth, when you have completed this task bring me back the original records and your Insignia Earring.
 
 
-**You receive:**  [Replacement Records](/item/29855)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29855" data-url="29855" class="tooltip-link link">Replacement Records</a>
 
 **You say:** `Consillium`
 
@@ -41,42 +42,48 @@ end
 
 
 
-if( **You turn in:** [Original Records](/item/29856), [Insignia Earring of Veracity](/item/29857)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29856" data-url="29856" class="tooltip-link link">Original Records</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1048.png" alt="" /> <a
+                                href="/item/29857" data-url="29857" class="tooltip-link link">Insignia Earring of Veracity</a>) then
 
 
 >**Euzan Jurek says:** By now you must realize that we need to avoid the question because of whom we are. Seru is not the Noble Paladin this city would have you believe. You see they teach that Katta feared Seru and that he had faked his own poisoning so they could pin the blame on Seru. The next thing that I ask of you, I ask because you can travel without question from one city to another. Go to Katta and give this report to Tilbok Furrunner. Tell him we are successfully rooted within Sanctus Seru and await any commands.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (15)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-7)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
 
- **You receive:** GiveAll( [Report to Tilbok](/item/29891), [Etched Earring of Veracity](/item/29858)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/29891" data-url="29891" class="tooltip-link link">Report to Tilbok</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/29858" data-url="29858" class="tooltip-link link">Etched Earring of Veracity</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

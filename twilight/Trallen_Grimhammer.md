@@ -70,61 +70,106 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Sun Jewel](/item/4488), [Mark of Destiny](/item/5904), [Fleshy Vine](/item/5905)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5904" data-url="5904" class="tooltip-link link">Mark of Destiny</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_583.png" alt="" /> <a
+                                href="/item/5905" data-url="5905" class="tooltip-link link">Fleshy Vine</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Boots](/item/3978) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3978" data-url="3978" class="tooltip-link link">Blessed Knight's Boots</a> (+25000 exp)
 
-elseif( **You turn in:** [Star Jewel](/item/4490), [Mark of the Steadfast](/item/5908), [Lexicon of the Sun](/item/5909), [Glade Dew](/item/5910)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Blessed Knight's Cloak](/item/3980) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Honor](/item/5911), [Naturally Formed Quartz](/item/5912)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Blessed Knight's Gauntlets](/item/3981) (+25000 exp)
-
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Heart](/item/5915), [Lexicon of the Moon](/item/5916), [Dread Leech Eye](/item/5917)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5908" data-url="5908" class="tooltip-link link">Mark of the Steadfast</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/5909" data-url="5909" class="tooltip-link link">Lexicon of the Sun</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/5910" data-url="5910" class="tooltip-link link">Glade Dew</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Girdle](/item/3983) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_663.png" alt="" /> <a
+                                href="/item/3980" data-url="3980" class="tooltip-link link">Blessed Knight's Cloak</a> (+25000 exp)
 
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Gallantry](/item/5913), [Lunar Marked Stone](/item/5914)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Blessed Knight's Gorget](/item/3982) (+25000 exp)
-
-elseif( **You turn in:** [Moon Jewel](/item/4489), [Mark of Blessings](/item/5906), [Crystallized Dew](/item/5907)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5911" data-url="5911" class="tooltip-link link">Mark of Honor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/5912" data-url="5912" class="tooltip-link link">Naturally Formed Quartz</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Mask](/item/3979) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/3981" data-url="3981" class="tooltip-link link">Blessed Knight's Gauntlets</a> (+25000 exp)
 
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of the Noble](/item/5918), [Hardened Clay Sculpture](/item/5919), [Runic Ear Plug](/item/5920)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5915" data-url="5915" class="tooltip-link link">Mark of Heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/5916" data-url="5916" class="tooltip-link link">Lexicon of the Moon</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/5917" data-url="5917" class="tooltip-link link">Dread Leech Eye</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Blessed Knight's Defender](/item/3984) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_549.png" alt="" /> <a
+                                href="/item/3983" data-url="3983" class="tooltip-link link">Blessed Knight's Girdle</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5913" data-url="5913" class="tooltip-link link">Mark of Gallantry</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/5914" data-url="5914" class="tooltip-link link">Lunar Marked Stone</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_626.png" alt="" /> <a
+                                href="/item/3982" data-url="3982" class="tooltip-link link">Blessed Knight's Gorget</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5906" data-url="5906" class="tooltip-link link">Mark of Blessings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/5907" data-url="5907" class="tooltip-link link">Crystallized Dew</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_772.png" alt="" /> <a
+                                href="/item/3979" data-url="3979" class="tooltip-link link">Blessed Knight's Mask</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5918" data-url="5918" class="tooltip-link link">Mark of the Noble</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5919" data-url="5919" class="tooltip-link link">Hardened Clay Sculpture</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_756.png" alt="" /> <a
+                                href="/item/5920" data-url="5920" class="tooltip-link link">Runic Ear Plug</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1171.png" alt="" /> <a
+                                href="/item/3984" data-url="3984" class="tooltip-link link">Blessed Knight's Defender</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -132,14 +177,14 @@ function FactionReward(e)
 
 >**Trallen Grimhammer says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)

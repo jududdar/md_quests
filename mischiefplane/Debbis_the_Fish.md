@@ -14,15 +14,19 @@ end
 
 
 
-if( **You turn in:** [a rabbit foot](/item/6883)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/6883" data-url="6883" class="tooltip-link link">a rabbit foot</a>) then 
 
 
 >**Debbis the Fish says:** Oh wow! A rabbits foot!! Thank you so much. Here take this, I won't need this smelly thing any more.
 
 
-* __Faction:__ [Denizens of Mischief](/faction/437) (1)
+Your faction standing with [Denizens of Mischief](/faction/437) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [a lucky skunk foot](/item/6876) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/6876" data-url="6876" class="tooltip-link link">a lucky skunk foot</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

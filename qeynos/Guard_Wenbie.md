@@ -39,7 +39,7 @@ if **Faction** >= Dubious then
 
 
 
-eq.move_to(-[Corrupt Qeynos Guards](/faction/230),-183,2,90,false);
+eq.move_to(-230,-183,2,90,false);
 
 
 else
@@ -170,25 +170,35 @@ local muffin = 0;
 
 
 
-if( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 
 muffin = 4;
 
-elseif( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 
 muffin = 3;
 
-elseif( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 
 muffin = 2;
 
-elseif( **You turn in:** [Muffin](/item/13014)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 
@@ -205,27 +215,29 @@ repeat
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+75 exp)
+ &#127873; **You receive:** 0 (+75 exp)
+
+ 
 
 
 

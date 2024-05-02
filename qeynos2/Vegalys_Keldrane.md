@@ -136,67 +136,84 @@ end
 
 
 
-if( **You turn in:** [Cracked Corrupt Guard Helm](/item/2173)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_506.png" alt="" /> <a
+                                href="/item/2173" data-url="2173" class="tooltip-link link">Cracked Corrupt Guard Helm</a>) then 
 
 
 >**Vegalys Keldrane says:** Thank you for bringing this person to justice. Please read this manual very, VERY carefully. Commit it to memory. We do everything strictly by the book. We are a people of law and order and I simply won't tolerate a breach of protocol. Investigators are expected to accurately report findings, are authorized to issue warrants and to notarize official documents for all lands under the jurisdiction of Antonius Bayle and the council. I sincerely hope you can earn your Investigator's Badge.
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (-1)
+Your faction standing with [Kane Bayle](/faction/273) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Investigators Briefing](/item/18289) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18289" data-url="18289" class="tooltip-link link">Investigators Briefing</a> (+2000 exp)
 
-elseif( **You turn in:** [Investigator's Badge](/item/2386)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/2386" data-url="2386" class="tooltip-link link">Investigator's Badge</a>) then 
 
 
 >**Vegalys Keldrane says:** Very well, here is the briefing document. Please read it very carefully. I wish you luck friend, this mission could prove to be dangerous.
 
 
- **You receive:**  [Interrogators Briefing](/item/18292) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18292" data-url="18292" class="tooltip-link link">Interrogators Briefing</a> (+2000 exp)
 
-elseif( **You turn in:** [Researcher's Badge](/item/2583)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/2583" data-url="2583" class="tooltip-link link">Researcher's Badge</a>) then 
 
 
 >**Vegalys Keldrane says:** Here is my personal seal. Go to the sewers and locate my investigator and show him this seal if he yet lives. Find out what happened to he and guard Helminth. Then if at all possible, complete this operation by finding Azibelle Spavin and execute her. Bring me her head and return me my seal and you shall be rewarded.
 
 
- **You receive:**  [Seal of Vegalys](/item/2694) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/2694" data-url="2694" class="tooltip-link link">Seal of Vegalys</a> (+2000 exp)
 
-elseif( **You turn in:** [Seal of Vegalys](/item/2694), [Head of Azibelle Spavin](/item/2392)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/2694" data-url="2694" class="tooltip-link link">Seal of Vegalys</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/2392" data-url="2392" class="tooltip-link link">Head of Azibelle Spavin</a>) then 
 
 
 >**Vegalys Keldrane says:** Good work Soandso! So Guard Helminth was corrupt? So crafty are these black hearted souls that they can fool even the righteous Kane Bayle himself! I'm sure he will be saddened to hear of this. I too am saddenned by the loss of one of my best investigators. At least we've served justice this day by sending Azibelle Spavin to her dark master. May she rot with her god. Take this Badge of Honor and wear it with pride and distinction.
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (5)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-5)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (-5)
+Your faction standing with [Kane Bayle](/faction/273) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (5)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Qeynos Badge of Honor](/item/2388) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/2388" data-url="2388" class="tooltip-link link">Qeynos Badge of Honor</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

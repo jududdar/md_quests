@@ -16,7 +16,8 @@
 >*a mortician moves with a mixture of creaks and clicks and produces a grotesque looking mortar and pestle set. He places the items in your hands and motions indicating you dismissal. You can feel the vile power of your god moving throughout the material that makes up the two items.*
 
 
-**You receive:**  [Grotesque Mortar and Pestle](/item/17092)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_857.png" alt="" /> <a
+                                href="/item/17092" data-url="17092" class="tooltip-link link">Grotesque Mortar and Pestle</a>
 
 **You say:** `who.* king`
 

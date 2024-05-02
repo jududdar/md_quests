@@ -18,12 +18,16 @@ end
 
 
 
-if( **You turn in:** [Legion Order](/item/18240)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18240" data-url="18240" class="tooltip-link link">Legion Order</a>) then 
 
 
 >*Trooper Frogzin grabs the order from your hand and mumbles something unpleasant and vaguely threatening. He then hands the signed order back to you.*
 
 
- **You receive:**  [Legion Order](/item/18241) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18241" data-url="18241" class="tooltip-link link">Legion Order</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

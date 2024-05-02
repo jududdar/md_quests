@@ -102,27 +102,36 @@ end
 
 
 
-if( **You turn in:** [Shard of Hsagra's Talisman](/item/9296) or
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1067.png" alt="" /> <a
+                                href="/item/9296" data-url="9296" class="tooltip-link link">Shard of Hsagra's Talisman</a> or
 
 
- **You turn in:** [Klandicar's Talisman](/item/27255) or
+ **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/27255" data-url="27255" class="tooltip-link link">Klandicar's Talisman</a> or
 
 
- **You turn in:** [Sontalak's Talisman](/item/27256) or
+ **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/27256" data-url="27256" class="tooltip-link link">Sontalak's Talisman</a> or
 
 
- **You turn in:** [Zlandicar's Talisman](/item/27258) or
+ **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/27258" data-url="27258" class="tooltip-link link">Zlandicar's Talisman</a> or
 
 
- **You turn in:** [Lendiniara's Talisman](/item/27259) or
+ **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/27259" data-url="27259" class="tooltip-link link">Lendiniara's Talisman</a> or
 
 
- **You turn in:** [Yelinak's Talisman](/item/27266)) then
+ **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/27266" data-url="27266" class="tooltip-link link">Yelinak's Talisman</a>) then
 
 
 >**Jaled Dar-s shade says:** Very well done. Here is how you unlock the entry. Seek out a great dragon statue in the Eastern Wastes, and use this key there. Not very different from how you entered my old domain, Veeshan's Peak, now, is it? Haha, yes, I know many things, even dead.
 
 
- **You receive:**  [Sleeper's Key](/item/27265) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1080.png" alt="" /> <a
+                                href="/item/27265" data-url="27265" class="tooltip-link link">Sleeper's Key</a> (+50000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

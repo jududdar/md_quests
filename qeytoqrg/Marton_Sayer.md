@@ -85,7 +85,8 @@ end
 
 
 
-if( **You turn in:** [Baby Joseph Sayer](/item/12204)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
+                                href="/item/12204" data-url="12204" class="tooltip-link link">Baby Joseph Sayer</a>) then
 
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -103,44 +104,53 @@ else
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (20)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-4)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-4</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (2)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (4)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:**  [Gnoll Slayer](/item/5416) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5416" data-url="5416" class="tooltip-link link">Gnoll Slayer</a> (+500 exp)
 
-elseif(eq.get_current_expansion() >= 6.0 and  **You turn in:** [Gnolls Eye](/item/8357), [Journal of Greater Enchantment](/item/8356), [Gnoll Slayer](/item/5416)) then
+ 
+
+elseif(eq.get_current_expansion() >= 6.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_886.png" alt="" /> <a
+                                href="/item/8357" data-url="8357" class="tooltip-link link">Gnolls Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/8356" data-url="8356" class="tooltip-link link">Journal of Greater Enchantment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5416" data-url="5416" class="tooltip-link link">Gnoll Slayer</a>) then
 
 
 >**Marton Sayer says:** The eye and the journal! What a great day! The Gnoll Slayer shall be returned to full strength because of you. Your service to Qeynos will not soon be forgotten.
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (200)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+200</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-40)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-40</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (30)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (20)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (40)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+40</span>)
 
 
- **You receive:**  [Gnoll Slayer](/item/5417) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5417" data-url="5417" class="tooltip-link link">Gnoll Slayer</a> (+1500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

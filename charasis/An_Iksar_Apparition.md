@@ -5,7 +5,8 @@
 
 
 
-if( **You turn in:** [Iksar Relics](/item/30994)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/30994" data-url="30994" class="tooltip-link link">Iksar Relics</a>) then 
 
 
 **Spawn NPC:**  [Vauris Sathir](/npc/105007) at this location.

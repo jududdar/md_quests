@@ -40,24 +40,33 @@ end
 
 
 
-if( **Faction is** >= Ally and  **You turn in:** [Spirit Wracked Urn](/item/6477), [Undead Dragon Sinew](/item/6478), [Regal band of Bathezid](/item/5727)) then
+if( **Faction is** >= Ally and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/6477" data-url="6477" class="tooltip-link link">Spirit Wracked Urn</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1118.png" alt="" /> <a
+                                href="/item/6478" data-url="6478" class="tooltip-link link">Undead Dragon Sinew</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/5727" data-url="5727" class="tooltip-link link">Regal band of Bathezid</a>) then
 
 
 >**Queen Velazul Di-zok says:** Amazing! You have returned the trophies I asked for, against impossible odds. Here is your reward, worthy minion, may it serve you well.
 
 
-* __Faction:__ [Brood of Di`Zok](/faction/451) (3)
+Your faction standing with [Brood of Di`Zok](/faction/451) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Sarnak Collective](/faction/307) (3)
+Your faction standing with [Sarnak Collective](/faction/307) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Goblins of Mountain Death](/faction/259) (-1)
+Your faction standing with [Goblins of Mountain Death](/faction/259) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Spirit Wracked Cord](/item/5723) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1118.png" alt="" /> <a
+                                href="/item/5723" data-url="5723" class="tooltip-link link">Spirit Wracked Cord</a> (+100000 exp)
+
+ 
 
 
- **You receive:**  [Regal band of Bathezid](/item/5727) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1148.png" alt="" /> <a
+                                href="/item/5727" data-url="5727" class="tooltip-link link">Regal band of Bathezid</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

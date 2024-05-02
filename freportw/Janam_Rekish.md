@@ -13,13 +13,17 @@ end
 
 
 
-if( **You turn in:** [Note to Janam](/item/18015)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18015" data-url="18015" class="tooltip-link link">Note to Janam</a>) then 
 
 
 >*Janam Rekish scribbles out a note and says, 'Please make sure that Harkin gets this right away. If you lose it, it could mean both of our heads.'*
 
 
- **You receive:**  [Note to Harkin](/item/18016) (+375 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18016" data-url="18016" class="tooltip-link link">Note to Harkin</a> (+375 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -18,13 +18,20 @@ end
 
 
 
-if( **You turn in:** [Power of the Orb](/item/18958), [Torch of the Elements](/item/28007), [Blazing Wand](/item/10376), [Burning Embers](/item/28008)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18958" data-url="18958" class="tooltip-link link">Power of the Orb</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
+                                href="/item/28007" data-url="28007" class="tooltip-link link">Torch of the Elements</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/10376" data-url="10376" class="tooltip-link link">Blazing Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1084.png" alt="" /> <a
+                                href="/item/28008" data-url="28008" class="tooltip-link link">Burning Embers</a>) then
 
 
 >**Jennus Lyklobar says:** I see that you are well versed in the ways of Fire. Indeed, if you are as adept in the other, lesser elements, you may just seize the Orb of Mastery after all, and avoid Magi'kot's fate. Take this element, and guard it well, for more trials are to come, I assure you. Succeed and you shall be remembered always! Oh, and Soandso? Watch out for the puddles! HAHAHAHAHAHA!
 
 
- **You receive:**  [Element of Fire](/item/28009) (+3000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/28009" data-url="28009" class="tooltip-link link">Element of Fire</a> (+3000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

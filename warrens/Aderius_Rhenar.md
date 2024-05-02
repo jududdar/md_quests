@@ -14,6 +14,7 @@
 >**Aderius Rhenar says:** I have managed to prepare a message on this scrap of cloth for the priestess Laraena. It is a matter of great importance to the High Council of Erudin. Please deliver this message to her promptly. I must stay here for a while longer and converse further with my Kejekan friends.
 
 
-**You receive:**  [rolled up strip of cloth](/item/2049)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/2049" data-url="2049" class="tooltip-link link">rolled up strip of cloth</a>
 end
 

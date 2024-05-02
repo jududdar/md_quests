@@ -33,7 +33,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Welnos Assembly Kit](/item/17254)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17254" data-url="17254" class="tooltip-link link">Welnos Assembly Kit</a>
 
 
 
@@ -46,7 +47,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 
@@ -59,7 +61,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 
@@ -72,7 +75,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 
@@ -98,7 +103,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 
@@ -111,7 +117,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 
 
@@ -124,7 +131,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 
@@ -162,38 +170,49 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if( **You turn in:** [A note](/item/18776)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18776" data-url="18776" class="tooltip-link link">A note</a>) then 
 
 
 >**Welno Tanlonikan says:** Yes, I just knew you'd see it my way, Soandso. Anyway, welcome to our little part of Ak'Anon's underworld. We have to pay a high price to keep our small orgainzation hidden, which keeps us all busy around here. Now throw this on, and let's put you to work.
 
 
-* __Faction:__ [Deepmuses](/faction/240) (100)
+Your faction standing with [Deepmuses](/faction/240) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (15)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (15)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+15</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-15)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-15</span>)
 
 
 
- **You receive:**  [Scuffed Tunic*](/item/13519) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13519" data-url="13519" class="tooltip-link link">Scuffed Tunic*</a> (+20 exp)
+
+ 
 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Minotaur Scalp](/item/9108), [Minotaur Scalp](/item/9108), [Mountain Lion Jawbone](/item/9109), [Mountain Lion Jawbone](/item/9109)) then 
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/9108" data-url="9108" class="tooltip-link link">Minotaur Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_555.png" alt="" /> <a
+                                href="/item/9108" data-url="9108" class="tooltip-link link">Minotaur Scalp</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/9109" data-url="9109" class="tooltip-link link">Mountain Lion Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/9109" data-url="9109" class="tooltip-link link">Mountain Lion Jawbone</a>) then 
 
 
 >**Welno Tanlonikan says:** Here is that dagger I promised you Soandso!
 
 
- **You receive:**  [Gemmed Shadowwalkers Dagger](/item/9110) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_763.png" alt="" /> <a
+                                href="/item/9110" data-url="9110" class="tooltip-link link">Gemmed Shadowwalkers Dagger</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

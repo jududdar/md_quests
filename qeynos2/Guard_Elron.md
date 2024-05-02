@@ -124,7 +124,8 @@ end
 
 
 
-if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1149.png" alt="" /> <a
+                                href="/item/13713" data-url="13713" class="tooltip-link link">A Small Tattered Dress</a>) then
 
 
 >**Guard Elron says:** Oh dear.. no.. no.. I warned her about the aqueducts.. I warned her.. I coudn't watch her every minute of the day, could I? Oh Lucie.. Why didn't you listen to me? Here, take this. It belonged to her mother. She always said that in times of need, it gave her courage to go on.. Thank you so much for your efforts.
@@ -133,21 +134,24 @@ if( **You turn in:** [A Small Tattered Dress](/item/13713)) then
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Golden Locket](/item/13188) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/13188" data-url="13188" class="tooltip-link link">Golden Locket</a> (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

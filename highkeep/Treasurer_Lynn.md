@@ -42,21 +42,10 @@ end
 
 
 
-if( **You turn in:** [Lottery Ticket \# 15600](/item/12261)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1077.png" alt="" /> <a
+                                href="/item/12267" data-url="12267" class="tooltip-link link">Highkeep Royal Suite</a> (+500 exp)
 
-
->**Treasurer Lynn says:** You have the runner up ticket from last season!! Here is your reward. Remember, a copper gambled is a plat earned!!
-
-
- **You receive:** 0 (+500 exp)
-
-elseif( **You turn in:** [Lottery Ticket \# 16568](/item/12266)) then
-
-
->**Treasurer Lynn says:** Congratulations!! You are the winner of last season's Highkeep lottery. Here is the key to the royal suite. You should find this room on the third floor.
-
-
- **You receive:**  [Highkeep Royal Suite](/item/12267) (+500 exp)
+ 
 
 **This NPC *should* return incorrect items given.**
 

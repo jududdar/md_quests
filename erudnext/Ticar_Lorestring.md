@@ -28,5 +28,6 @@
 >**Ticar Lorestring says:** Take this letter to Tralyn Marsinger in Qeynos.  You can find him at the bard guild hall.  I am sure he will compensate you for your troubles.
 
 
-**You receive:**  [A Bardic Letter (Qeynos)](/item/18151)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18151" data-url="18151" class="tooltip-link link">A Bardic Letter (Qeynos)</a>
 end

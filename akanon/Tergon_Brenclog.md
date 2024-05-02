@@ -80,7 +80,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Sealed Letter](/item/1717)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/1717" data-url="1717" class="tooltip-link link">Sealed Letter</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -176,73 +177,68 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Iron Pellet](/item/13333)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/13333" data-url="13333" class="tooltip-link link">Iron Pellet</a>) then
 
 
 >**Tergon Brenclog says:** So, you have survived. There is no doubt in my mind that you achieved this solely with your own powers. Only a dim one requires the assistance of others. Take this. May it help you in your pursuit of greatness. [Further tasks] may bring you to that point.
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (15)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-2)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (2)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (2)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Elementaling: Air](/item/15400), [Spell: Elementaling: Earth](/item/15397), [Spell: Elementaling: Fire](/item/15399), [Spell: Elementaling: Water](/item/15398), [Spell: Elementalkin: Air](/item/15317), [Spell: Elementalkin: Earth](/item/15058)) (+150 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15400" data-url="15400" class="tooltip-link link">Spell: Elementaling: Air</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15397" data-url="15397" class="tooltip-link link">Spell: Elementaling: Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15399" data-url="15399" class="tooltip-link link">Spell: Elementaling: Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15398" data-url="15398" class="tooltip-link link">Spell: Elementaling: Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15317" data-url="15317" class="tooltip-link link">Spell: Elementalkin: Air</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15058" data-url="15058" class="tooltip-link link">Spell: Elementalkin: Earth</a>) (+150 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Tergon's Spellbook](/item/13387)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/13387" data-url="13387" class="tooltip-link link">Tergon's Spellbook</a>) then
 
 
 >**Tergon Brenclog says:** You have done well. I did not expect you for weeks. It is good to have my spellbook returned. It was a simple task. Now I have news of a larger matter. It has to do with a [defector].
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (10)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Elementaling: Fire](/item/15399) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15399" data-url="15399" class="tooltip-link link">Spell: Elementaling: Fire</a> (+150 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Teir\`Dal Head](/item/13388)) then
+ 
 
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/17502" data-url="17502" class="tooltip-link link">Elemental Grimoire</a> (+300 exp)
 
->**Tergon Brenclog says:** The Elemental Grimoire contains the knowledge which will advance your techniques in research. With it you shall learn to research spells and scribe them for your own spellbook.
-
-
-* __Faction:__ [Eldritch Collective](/faction/245) (20)
-
-
-* __Faction:__ [Dark Reflection](/faction/238) (-3)
-
-
-* __Faction:__ [The Dead](/faction/239) (-1)
-
-
-* __Faction:__ [Gem Choppers](/faction/255) (3)
-
-
-* __Faction:__ [King Ak`Anon](/faction/333) (3)
-
-
- **You receive:**  [Elemental Grimoire](/item/17502) (+300 exp)
+ 
 
 **This NPC *should* return incorrect items given.**

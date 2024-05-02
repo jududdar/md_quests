@@ -32,13 +32,17 @@ end
 
 
 
-if( **You turn in:** [Grimy Lance](/item/2100)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/2100" data-url="2100" class="tooltip-link link">Grimy Lance</a>) then 
 
 
 >**a spirit says:** Yes, the lance!' and begins to glow as it draws power from the lance, which now floats in mid air next to the spirit. The form of the spirit expands and takes on a humanoid shape. The air itself then seems to condense about the spirit as bits of matter appear within the glowing form. The bits soon take the shape of bones and ropes of muscle. Within minutes, an emaciated Erudite male stands before you. Despite his frail appearance, he stands upright and strong, a fierce red light burning in his eyes.
 
 
- **You receive:**  [Idol of Fear](/item/2297) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/2297" data-url="2297" class="tooltip-link link">Idol of Fear</a> (+1000 exp)
+
+ 
 
 
 **Spawn NPC:**  [Ridossan the Unliving](/npc/100017) at (**y:** 474, **x:** -70)

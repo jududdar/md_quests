@@ -42,22 +42,32 @@ local muffin = 0;
 
 
 
-if( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 muffin = 4;
 
-elseif( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014), [Muffin](/item/13014)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 muffin = 3;
 
-elseif( **You turn in:** [Muffin](/item/13014), [Muffin](/item/13014)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 muffin = 2;
 
-elseif( **You turn in:** [Muffin](/item/13014)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_784.png" alt="" /> <a
+                                href="/item/13014" data-url="13014" class="tooltip-link link">Muffin</a>) then
 
 
 muffin = 1;
@@ -75,27 +85,29 @@ repeat
 
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (1)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (1)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-1)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+5 exp)
+ &#127873; **You receive:** 0 (+5 exp)
+
+ 
 
 
 
@@ -113,7 +125,7 @@ local xloc = e.self:GetX();
 local yloc = e.self:GetY();
 
 
-if(xloc == -693 and yloc == -[King Tearis Thex](/faction/279) and Bakery == 1) then
+if(xloc == -693 and yloc == -279 and Bakery == 1) then
 
 
 Bakery = 2;

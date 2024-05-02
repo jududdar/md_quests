@@ -60,44 +60,55 @@ local text = "I require two damaged custodus helms as proof of your deeds.";
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Legionnaire Helm](/item/31748), [Damaged Custodus Legionnaire Helm](/item/31748)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/31748" data-url="31748" class="tooltip-link link">Damaged Custodus Legionnaire Helm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/31748" data-url="31748" class="tooltip-link link">Damaged Custodus Legionnaire Helm</a>) then
 
 
 >**Tymoz says:** Excellent! Two less of those self righteous Validus Custodus goons to worry about!
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-1)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Valdanov Zevfeer](/faction/1507) (1)
+Your faction standing with [Valdanov Zevfeer](/faction/1507) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** GiveAll( [Blood Dipped Dart](/item/31750),eq.ChooseRandom(0, [Blood Dipped Dart](/item/31750)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/31750" data-url="31750" class="tooltip-link link">Blood Dipped Dart</a>,eq.ChooseRandom(0, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/31750" data-url="31750" class="tooltip-link link">Blood Dipped Dart</a>) 
 
-elseif **Faction** >= Dubious and  **You turn in:** [Damaged Custodus Centurion Helm](/item/31749), [Damaged Custodus Centurion Helm](/item/31749)) then
+ 
+
+elseif **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/31749" data-url="31749" class="tooltip-link link">Damaged Custodus Centurion Helm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/31749" data-url="31749" class="tooltip-link link">Damaged Custodus Centurion Helm</a>) then
 
 
 >**Tymoz says:** Excellent! Two less of those self righteous Validus Custodus goons to worry about!
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-1)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Valdanov Zevfeer](/faction/1507) (1)
+Your faction standing with [Valdanov Zevfeer](/faction/1507) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Potent Vitae](/item/31833) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/31833" data-url="31833" class="tooltip-link link">Potent Vitae</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

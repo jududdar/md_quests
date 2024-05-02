@@ -64,61 +64,107 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Great Gem](/item/5194), [Mark of Peace](/item/5192), [Oblong Clay Bowl](/item/5193), [Sun Jewel](/item/4488)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/5194" data-url="5194" class="tooltip-link link">Great Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5192" data-url="5192" class="tooltip-link link">Mark of Peace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_858.png" alt="" /> <a
+                                href="/item/5193" data-url="5193" class="tooltip-link link">Oblong Clay Bowl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Steel Threaded Headband](/item/3775) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_932.png" alt="" /> <a
+                                href="/item/3775" data-url="3775" class="tooltip-link link">Steel Threaded Headband</a> (+25000 exp)
 
-elseif( **You turn in:** [Etched Steel Shavings](/item/5197), [Mark of Tranquility](/item/5195), [Moon Jewel](/item/4489), [Sharpened Rockhopper Claws](/item/5196)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Steel Threaded Gi](/item/3776) (+25000 exp)
-
-elseif( **You turn in:** [Fresh Spring Water](/item/5244), [Mark of Harmony](/item/5198), [Star Jewel](/item/4490), [Triple Beaded Circlet](/item/5199)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Steel Threaded Arm Wraps](/item/3777) (+25000 exp)
-
-elseif( **You turn in:** [Cloud Jewel](/item/4491), [Jar of Ointment](/item/5247), [Mark of Meditation](/item/5245), [Ralcom's Writ](/item/5246)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/5197" data-url="5197" class="tooltip-link link">Etched Steel Shavings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5195" data-url="5195" class="tooltip-link link">Mark of Tranquility</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4489" data-url="4489" class="tooltip-link link">Moon Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1179.png" alt="" /> <a
+                                href="/item/5196" data-url="5196" class="tooltip-link link">Sharpened Rockhopper Claws</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Steel Threaded Pants](/item/3778) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/3776" data-url="3776" class="tooltip-link link">Steel Threaded Gi</a> (+25000 exp)
 
-elseif( **You turn in:** [Mark of Unity](/item/5248), [Pewter Figurine](/item/5249), [Sky Jewel](/item/4492)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Steel Threaded Shawl](/item/3779) (+25000 exp)
-
-elseif( **You turn in:** [Coiled Steel Wire](/item/5251), [Mark of True Self](/item/5250), [Meteor Jewel](/item/4493)) then 
-
-
-FactionReward(e)
-
-
- **You receive:**  [Steel Threaded Wrist Wraps](/item/3780) (+25000 exp)
-
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Form](/item/5252), [Spire Spirit Dust](/item/5253)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1155.png" alt="" /> <a
+                                href="/item/5244" data-url="5244" class="tooltip-link link">Fresh Spring Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5198" data-url="5198" class="tooltip-link link">Mark of Harmony</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4490" data-url="4490" class="tooltip-link link">Star Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/5199" data-url="5199" class="tooltip-link link">Triple Beaded Circlet</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Steel Threaded Sandals](/item/3781) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/3777" data-url="3777" class="tooltip-link link">Steel Threaded Arm Wraps</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/5247" data-url="5247" class="tooltip-link link">Jar of Ointment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5245" data-url="5245" class="tooltip-link link">Mark of Meditation</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/5246" data-url="5246" class="tooltip-link link">Ralcom's Writ</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/3778" data-url="3778" class="tooltip-link link">Steel Threaded Pants</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5248" data-url="5248" class="tooltip-link link">Mark of Unity</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5249" data-url="5249" class="tooltip-link link">Pewter Figurine</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/3779" data-url="3779" class="tooltip-link link">Steel Threaded Shawl</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1140.png" alt="" /> <a
+                                href="/item/5251" data-url="5251" class="tooltip-link link">Coiled Steel Wire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5250" data-url="5250" class="tooltip-link link">Mark of True Self</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/3780" data-url="3780" class="tooltip-link link">Steel Threaded Wrist Wraps</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5252" data-url="5252" class="tooltip-link link">Mark of Form</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/5253" data-url="5253" class="tooltip-link link">Spire Spirit Dust</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_558.png" alt="" /> <a
+                                href="/item/3781" data-url="3781" class="tooltip-link link">Steel Threaded Sandals</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -126,4 +172,4 @@ function FactionReward(e)
 
 >**Valana Broms says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Vornol Transon](/faction/1547) (5)
+Your faction standing with [Vornol Transon](/faction/1547) got better (<span class='text-success'>+5</span>)

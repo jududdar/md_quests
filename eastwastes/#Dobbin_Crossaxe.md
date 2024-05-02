@@ -5,25 +5,29 @@
 
 
 
-if( **You turn in:** [Mithril Coldain Insignia Ring](/item/30162)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_880.png" alt="" /> <a
+                                href="/item/30162" data-url="30162" class="tooltip-link link">Mithril Coldain Insignia Ring</a>) then
 
 
 >**Dobbin Crossaxe says:** Thank you, Soandso. Your deeds will be mentioned to  the Dain. Please take this note from Corbin to Garadain. It may help him to achieve victory over the enemy.
 
 
-* __Faction:__ [Coldain](/faction/406) (15)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (3)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-7)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-7</span>)
 
 
- **You receive:**  [Note from Corbin](/item/1047) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/1047" data-url="1047" class="tooltip-link link">Note from Corbin</a> (+5000 exp)
+
+ 
 
 
 **Spawn NPC:**  [Dobbin Crossaxe](/npc/116036) at (**y:** -574, **x:** -3188)

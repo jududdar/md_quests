@@ -28,5 +28,6 @@
 >**Kilam Oresinger says:** Take this letter to Jakum Webdancer in Kelethin.  You can find him at the bard guild hall.  I am sure he will compensate you for your troubles.
 
 
-**You receive:**  [A Bardic Letter (Kelethin)](/item/18162)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18162" data-url="18162" class="tooltip-link link">A Bardic Letter (Kelethin)</a>
 end

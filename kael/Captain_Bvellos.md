@@ -167,11 +167,16 @@ end
 
 
 
-local head =  **You turn in:**  { [Coldain Head](/item/30081)}
+local head =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/30081" data-url="30081" class="tooltip-link link">Coldain Head</a>}
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301), [Icepaw Kobold's Paw](/item/25301)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25301" data-url="25301" class="tooltip-link link">Icepaw Kobold's Paw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25301" data-url="25301" class="tooltip-link link">Icepaw Kobold's Paw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25301" data-url="25301" class="tooltip-link link">Icepaw Kobold's Paw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25301" data-url="25301" class="tooltip-link link">Icepaw Kobold's Paw</a>) then
 
 
 >**Captain Bvellos says:** You have done well to hunt down these foul dogs.
@@ -180,39 +185,48 @@ if **Faction** >= Amiable and  **You turn in:** [Icepaw Kobold's Paw](/item/2530
 >*Captain Bvellos reaches into a large bag and pulls something shiny from within its depths 'Take this as a reward.*
 
 
-* __Faction:__ [Kromzek](/faction/448) (40)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+40</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (10)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (10)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-20)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-20</span>)
 
 
- **You receive:** eq.ChooseRandom( [Silvery Mask](/item/25077), [Antlered Mask](/item/25084), [Giant Scalemail Tunic](/item/25018)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_772.png" alt="" /> <a
+                                href="/item/25077" data-url="25077" class="tooltip-link link">Silvery Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/25084" data-url="25084" class="tooltip-link link">Antlered Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_527.png" alt="" /> <a
+                                href="/item/25018" data-url="25018" class="tooltip-link link">Giant Scalemail Tunic</a>) 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Wurmscale Scroll](/item/1718)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/1718" data-url="1718" class="tooltip-link link">Wurmscale Scroll</a>) then 
 
 
 >**Captain Bvellos says:** This indeed points to Wenglawks being a traitor. If only there were more proof I could take this to the king. Thank you, Soandso, you have done a great service for Kael. Take this mask as a reward for your service to this city.
 
 
-* __Faction:__ [Kromzek](/faction/448) (50)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (12)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+12</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (12)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+12</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-25)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Mask of War](/item/25024) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/25024" data-url="25024" class="tooltip-link link">Mask of War</a> (+1000 exp)
+
+ 
 
 
 if(head > 0) then
@@ -227,23 +241,25 @@ repeat
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (40)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+40</span>)
 
 
 
-* __Faction:__ [Kromrif](/faction/419) (10)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (10)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-20)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-20</span>)
 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+**You receive coin:** 5-8 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

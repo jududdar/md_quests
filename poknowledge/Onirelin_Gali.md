@@ -19,7 +19,8 @@ end
 
 
 
-if( **You turn in:** [Onirelins Jewel](/item/28088)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/28088" data-url="28088" class="tooltip-link link">Onirelins Jewel</a>) then
 
 
 >**Onirelin Gali says:** How did you get this away from Narik? Oh never mind, I'm just happy to have it back. I shall give you what Cador desires now, keep it secure and deliver it to him.
@@ -28,6 +29,9 @@ if( **You turn in:** [Onirelins Jewel](/item/28088)) then
 
 
 
- **You receive:**  [Cadors Artifact](/item/28089) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/28089" data-url="28089" class="tooltip-link link">Cadors Artifact</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

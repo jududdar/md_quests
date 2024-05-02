@@ -107,64 +107,76 @@ local text = "Oh.. I see.. But um.. I still need the other thing before I can ma
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/item/13752), gold = 21) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13752" data-url="13752" class="tooltip-link link">High Quality Bear Skin</a>, gold = 21) then
 
 
 >**Chanda Miller says:** Oh, good! I can make you a nice new cloak now. Here. Here. Oh, this.. it is a good one. Nice bear fur. Here you go!
 
 
-* __Faction:__ [Karana Residents](/faction/345) (2)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Bear-hide Cape](/item/2902) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/2902" data-url="2902" class="tooltip-link link">Bear-hide Cape</a> (+50 exp)
 
-elseif( **You turn in:** [Medium Quality Bear Skin](/item/13751), gold = 15) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13751" data-url="13751" class="tooltip-link link">Medium Quality Bear Skin</a>, gold = 15) then
 
 
 >**Chanda Miller says:** Ohh good.. good! I.. um.. can make.. Oh great. Here you go. I hope you like it. I always um.. try my best. Tell your um.. friends where you got your bear things!
 
 
-* __Faction:__ [Karana Residents](/faction/345) (2)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Bear-hide Boots](/item/2903) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_525.png" alt="" /> <a
+                                href="/item/2903" data-url="2903" class="tooltip-link link">Bear-hide Boots</a> (+50 exp)
 
-elseif( **You turn in:** [Low Quality Bear Skin](/item/13750), gold = 5) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13750" data-url="13750" class="tooltip-link link">Low Quality Bear Skin</a>, gold = 5) then
 
 
 >**Chanda Miller says:** Great. Oh, here, now I can make the.. um.. ok.. here. Yes.. good. I love making bear skin belts. Here you go. I hope you like it.
 
 
-* __Faction:__ [Karana Residents](/faction/345) (2)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Bear-hide Belt](/item/2904) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2904" data-url="2904" class="tooltip-link link">Bear-hide Belt</a> (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

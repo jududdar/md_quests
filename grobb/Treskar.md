@@ -79,52 +79,67 @@ local text = "Me change mind! Me want total of THREE ogre black shadow tunics. H
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Huge Mushroom Head](/item/12190)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_854.png" alt="" /> <a
+                                href="/item/12190" data-url="12190" class="tooltip-link link">Huge Mushroom Head</a>) then
 
 
 >**Treskar says:** You do it! You am great knight. Me give you special froglok skin mask. Shaman make for Nightkeep. It am make you smarter like Treskar... Me tink so!
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (20)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-3)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-3</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-5)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (1)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Froglok Skin Mask](/item/2308) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2308" data-url="2308" class="tooltip-link link">Froglok Skin Mask</a> (+10000 exp)
 
-elseif  **Faction** >= Amiable and  **You turn in:** [Black Shadow Tunic](/item/12199), [Black Shadow Tunic](/item/12199), [Black Shadow Tunic](/item/12199), gold = 2) then 
+ 
+
+elseif  **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/12199" data-url="12199" class="tooltip-link link">Black Shadow Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/12199" data-url="12199" class="tooltip-link link">Black Shadow Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/12199" data-url="12199" class="tooltip-link link">Black Shadow Tunic</a>, gold = 2) then 
 
 
 >**Treskar says:** Hmm... You do good job. You surprise Treskar. Maybe you good after all. Maybe Treskar give you [secret mission]. Maybe not
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (20)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got better (<span class='text-success'>+20</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-3)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-3</span>)
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-5)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (1)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Rusty Warhammer](/item/6014), 5023, 6013, 7009, 5013, 5021) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6014" data-url="6014" class="tooltip-link link">Rusty Warhammer</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/5023" data-url="5023" class="tooltip-link link">Rusty Two Handed Sword</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/6013" data-url="6013" class="tooltip-link link">Rusty Two Handed Hammer</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/7009" data-url="7009" class="tooltip-link link">Rusty Spear</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5021" data-url="5021" class="tooltip-link link">Rusty Scimitar</a>) (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -19,7 +19,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Empty Jar](/item/17946)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/17946" data-url="17946" class="tooltip-link link">Empty Jar</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -94,7 +95,8 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Jar of Fungus](/item/13966)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/13966" data-url="13966" class="tooltip-link link">Jar of Fungus</a>) then 
 
 
 
@@ -109,27 +111,37 @@ if( **Faction is** > Indifferent and  **You turn in:** [Jar of Fungus](/item/139
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (10)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (-1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-2)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Cure Poison](/item/15203), [Spell: Drowsy](/item/15270), [Spell: Fleeting Fury](/item/15271), [Spell: Frost Rift](/item/15275), [Spell: Gate](/item/15036), [Spell: Sicken](/item/15075), [Spell: Endure Fire](/item/15224), [Spell: Feet like Cat](/item/15269)) (+3000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15203" data-url="15203" class="tooltip-link link">Spell: Cure Poison</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15270" data-url="15270" class="tooltip-link link">Spell: Drowsy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15271" data-url="15271" class="tooltip-link link">Spell: Fleeting Fury</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15275" data-url="15275" class="tooltip-link link">Spell: Frost Rift</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15036" data-url="15036" class="tooltip-link link">Spell: Gate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15075" data-url="15075" class="tooltip-link link">Spell: Sicken</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15224" data-url="15224" class="tooltip-link link">Spell: Endure Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15269" data-url="15269" class="tooltip-link link">Spell: Feet like Cat</a>) (+3000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 elseif( **You turn in:** gold = 10) then
 
@@ -139,7 +151,8 @@ elseif( **You turn in:** gold = 10) then
 
 **Waltor Felligan casts:** [Light Healing](/spell/17) on target.
 
-elseif( **You turn in:** [Mammoth Steaks](/item/13445)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_816.png" alt="" /> <a
+                                href="/item/13445" data-url="13445" class="tooltip-link link">Mammoth Steaks</a>) then
 
 
 **Waltor Felligan casts:** [Cure Poison](/spell/203) on target.
@@ -147,7 +160,9 @@ elseif( **You turn in:** [Mammoth Steaks](/item/13445)) then
 
 >**Waltor Felligan says:** The scales have been balanced and the Tribunal has spoken. Yer body shall be saved.
 
-elseif( **You turn in:** [Wooly Fungus](/item/13967), [Wooly Fungus](/item/13967)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_855.png" alt="" /> <a
+                                href="/item/13967" data-url="13967" class="tooltip-link link">Wooly Fungus</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_855.png" alt="" /> <a
+                                href="/item/13967" data-url="13967" class="tooltip-link link">Wooly Fungus</a>) then
 
 
 **Waltor Felligan casts:** [Cure Disease](/spell/213) on target.

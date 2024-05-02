@@ -93,73 +93,104 @@ local text = "What good is one?! I called for the heads of both Corflunk and Zar
 
 
 
-if( **You turn in:** [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931), [RunnyEye Warbeads](/item/13931)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_848.png" alt="" /> <a
+                                href="/item/13931" data-url="13931" class="tooltip-link link">RunnyEye Warbeads</a>) then
 
 
 >**Byzar Bloodforge says:** You finally have proven yourself a warrior, a slow one!!  Take this reward and ask for nothing else.  You should be proud to defend Kaladim and expect no reward.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (5)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Small Tattered Skullcap](/item/2113), [Small Tattered Mask](/item/2114), [Small Tattered Gorget](/item/2115), [Small Patchwork Tunic](/item/2116), [Small Tattered Shoulderpads](/item/2117), [Small Patchwork Cloak](/item/2118), [Small Tattered Belt](/item/2119), [Small Patchwork Sleeves](/item/2120), [Small Tattered Wristbands](/item/2121), [Small Tattered Gloves](/item/2122)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2113" data-url="2113" class="tooltip-link link">Small Tattered Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2114" data-url="2114" class="tooltip-link link">Small Tattered Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2115" data-url="2115" class="tooltip-link link">Small Tattered Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2116" data-url="2116" class="tooltip-link link">Small Patchwork Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2117" data-url="2117" class="tooltip-link link">Small Tattered Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2118" data-url="2118" class="tooltip-link link">Small Patchwork Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2119" data-url="2119" class="tooltip-link link">Small Tattered Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2120" data-url="2120" class="tooltip-link link">Small Patchwork Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2121" data-url="2121" class="tooltip-link link">Small Tattered Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2122" data-url="2122" class="tooltip-link link">Small Tattered Gloves</a>) (+1000 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Ogre Head](/item/13741), [Ogre Head](/item/13740)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/13741" data-url="13741" class="tooltip-link link">Ogre Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/13740" data-url="13740" class="tooltip-link link">Ogre Head</a>) then
 
 
 >**Byzar Bloodforge says:** I underestimated you.  You are truly a great warrior.  I reward you with a piece of my own Bloodforge armor.  You would be fine Bloodforge Brigade material!  How would you like to [take a little trip] in the name of the Bloodforge Brigade?
 
 
-* __Faction:__ [Storm Guard](/faction/312) (20)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (3)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (3)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (5)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-5)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** eq.ChooseRandom( [Bloodforge Helm](/item/3090), [Bloodforge Mail](/item/3091), [Bloodforge Armplates](/item/3092), [Bloodforge Bracers](/item/3093), [Bloodforge Gauntlets](/item/3094), [Bloodforge Legplates](/item/3095), [Bloodforge Boots](/item/3096)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3090" data-url="3090" class="tooltip-link link">Bloodforge Helm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3091" data-url="3091" class="tooltip-link link">Bloodforge Mail</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3092" data-url="3092" class="tooltip-link link">Bloodforge Armplates</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3093" data-url="3093" class="tooltip-link link">Bloodforge Bracers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/3094" data-url="3094" class="tooltip-link link">Bloodforge Gauntlets</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_845.png" alt="" /> <a
+                                href="/item/3095" data-url="3095" class="tooltip-link link">Bloodforge Legplates</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_844.png" alt="" /> <a
+                                href="/item/3096" data-url="3096" class="tooltip-link link">Bloodforge Boots</a>) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Dwarf Head](/item/12136)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_990.png" alt="" /> <a
+                                href="/item/12136" data-url="12136" class="tooltip-link link">Dwarf Head</a>) then
 
 
 >**Byzar Bloodforge says:** Ha!! His death brings me great happiness.  I owe you much.  Take this hammer.  It is the hammer of the Bloodforge Brigade.  May it serve you well.  Now go, so I can enjoy this moment of happiness alone.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (5)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Bloodforge Hammer](/item/13314) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/13314" data-url="13314" class="tooltip-link link">Bloodforge Hammer</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

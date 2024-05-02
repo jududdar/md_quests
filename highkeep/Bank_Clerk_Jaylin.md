@@ -13,20 +13,14 @@ end
 
 
 
-if( **You turn in:** [H. K.  102](/item/12143)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18936" data-url="18936" class="tooltip-link link">A Sealed Note</a> 
 
+ 
 
->**Bank Clerk Jaylin says:** I am sorry to see you check out. Here is all you had in your box. We hope to serve you again. Have a nice day!! Next!
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/13323" data-url="13323" class="tooltip-link link">Emerald Shard</a> (+500 exp)
 
-
- **You receive:**  [A Sealed Note](/item/18936) 
-
-elseif( **You turn in:** [H.K. 106](/item/12193)) then
-
-
->**Bank Clerk Jaylin says:** I am sorry to see you check out. Here is all you had in your box. We hope to serve you again. Have a nice day!! Next!
-
-
- **You receive:**  [Emerald Shard](/item/13323) (+500 exp)
+**You receive coin:** 0-1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

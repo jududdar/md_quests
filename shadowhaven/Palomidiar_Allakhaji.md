@@ -40,18 +40,21 @@ end
 
 
 
-if( **You turn in:** [A Pulsating Rock](/item/4768)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_946.png" alt="" /> <a
+                                href="/item/4768" data-url="4768" class="tooltip-link link">A Pulsating Rock</a>) then
 
 
 >**Palomidiar Allakhaji says:** This is it, this is what I am looking for to continue my studies. It is generating the same if not more energy then the rock before it! Excellent work, Soandso. You have my sincere thanks. Should you collect further samples in the future please bring them to me directly.
 
 
-* __Faction:__ [House of Midst](/faction/1511) (25)
+Your faction standing with [House of Midst](/faction/1511) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (2)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+2500 exp)
+ &#127873; **You receive:** 0 (+2500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

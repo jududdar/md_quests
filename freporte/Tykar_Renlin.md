@@ -28,13 +28,20 @@ local text = "Oooh!! That is the taste. My lips are almost loose. Maybe another 
 
 
 
-if( **You turn in:** [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829), [Drom's Champagne](/item/13829)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13829" data-url="13829" class="tooltip-link link">Drom's Champagne</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13829" data-url="13829" class="tooltip-link link">Drom's Champagne</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13829" data-url="13829" class="tooltip-link link">Drom's Champagne</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13829" data-url="13829" class="tooltip-link link">Drom's Champagne</a>) then 
 
 
 >**Tykar Renlin says:** Ahh!! That was good. Now where were we?. Oh yes. My friend Zimel is a fellow beggar. He was locked up in the arena. They were going to let him go when the Freeport Militia came for him. Ha!! He is crazy as a troll now. I took this blanket from his cell before I was released. I no longer need it and my guilt has reached its peak. I do not want crazy old Zimel to freeze. Perhaps you can return it to him.
 
 
- **You receive:**  [Bunker Cell \#1](/item/12196) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_790.png" alt="" /> <a
+                                href="/item/12196" data-url="12196" class="tooltip-link link">Bunker Cell \#1</a> (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

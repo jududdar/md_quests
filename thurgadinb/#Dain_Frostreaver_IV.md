@@ -70,7 +70,8 @@ if( **Faction is** > Kindly) then
 >**Dain Frostreaver IV says:** Several of our greatest officers, including a few veterans from the war on Yesterwinter are assembling just outside our city. Gather your army at once and give this parchment and the ninth ring to Sentry Badian. I will remain inside the city with a few of my troops to defend it against any who might penetrate your defense. May Brell be with you, Soandso.
 
 
-**You receive:**  [Declaration of War](/item/1567)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/1567" data-url="1567" class="tooltip-link link">Declaration of War</a>
 end
 
 ## Turn-Ins
@@ -79,31 +80,47 @@ end
 
 
 
-if( **You turn in:** [Coldain Standard Issue Kit](/item/8886)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/8886" data-url="8886" class="tooltip-link link">Coldain Standard Issue Kit</a>) then 
 
 
 >**Dain Frostreaver IV says:** Excellent work Soandso. If I didn't know I would assume this was made by our most skilled artisans.  You must hurry, General Bragmur has formed camp in Iceclad. Take the kit to the General, he had to drudge forward without any armor. His [mission] must be a success if we hope to successfully defend Thurgadin against the Giants.
 
 
- **You receive:** GiveAll( [Approved Issue Kit](/item/8898), [Expedition Orders](/item/8897)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/8898" data-url="8898" class="tooltip-link link">Approved Issue Kit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/8897" data-url="8897" class="tooltip-link link">Expedition Orders</a>) 
 
-elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199) or  **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/1199" data-url="1199" class="tooltip-link link">Runed Coldain Prayer Shawl</a> or  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a>) then
 
 
 >**Dain Frostreaver IV says:** Ah Soandso. I was hoping to see you. We require your skilled hand. The Armory is overtaxed preparing armor for the war we are preparing to wage on the Kromzek. We need you to help by creating some Field Plate for a mission that is near to execution. Go see Loremaster Solstrin in the Hall of Ancestors, give him these orders. He holds the lore recorded on how to make the field plate. Return to me when you have completed a Standard Issue Kit.
 
 
- **You receive:** GiveAll( [Runed Coldain Prayer Shawl](/item/8895), [Royal Coldain Orders](/item/8896)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/8896" data-url="8896" class="tooltip-link link">Royal Coldain Orders</a>) 
 
-elseif( **You turn in:** [Dirk of the Dain](/item/1465)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/1465" data-url="1465" class="tooltip-link link">Dirk of the Dain</a>) then
 
 
 >**Dain Frostreaver IV says:** My good Soandso, you have served me well. You have flushed out all who sought to oppose me and my people. I am afraid I need to call upon you and your friends one final time. The dissention and treason ran deeper than I had anticipated. Our population has been cleansed, but we lost a full third of our army to the poisonous words of those rebels. In retaliation for your deeds, the Kromrif have made plans to attack us in this, our weakest hour. Can I count on your help outlander?
 
 
- **You receive:**  [Dirk of the Dain](/item/1465) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/1465" data-url="1465" class="tooltip-link link">Dirk of the Dain</a> 
 
-elseif( **You turn in:** [King Tormax's Head](/item/30516)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/30516" data-url="30516" class="tooltip-link link">King Tormax's Head</a>) then
 
 
 if( **Faction is** >= Warmly) then 
@@ -118,22 +135,26 @@ if( **Faction is** >= Warmly) then
 
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (100)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Coldain](/faction/406) (100)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [King Tormax](/faction/429) (-50)
+Your faction standing with [King Tormax](/faction/429) got worse (<span class='text-danger'>-50</span>)
 
 
 
- **You receive:**  [Tri-Plated Golden Hackle Hammer](/item/30502) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/30502" data-url="30502" class="tooltip-link link">Tri-Plated Golden Hackle Hammer</a> 
+
+ 
 
 
-elseif( **You turn in:** [Ring of Dain Frostreaver IV](/item/30385)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/30385" data-url="30385" class="tooltip-link link">Ring of Dain Frostreaver IV</a>) then 
 
 
 if( **Faction is** >= Ally) then
@@ -144,15 +165,25 @@ if( **Faction is** >= Ally) then
 
 
 
- **You receive:** GiveAll( [Protection of the Dain](/item/1747), [Ring of Dain Frostreaver IV](/item/30385)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/1747" data-url="1747" class="tooltip-link link">Protection of the Dain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_515.png" alt="" /> <a
+                                href="/item/30385" data-url="30385" class="tooltip-link link">Ring of Dain Frostreaver IV</a>) 
+
+ 
 
 
-elseif( **You turn in:** [Box of the Guilty](/item/1500), [Velium Coldain Insignia Ring](/item/30164)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/1500" data-url="1500" class="tooltip-link link">Box of the Guilty</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_616.png" alt="" /> <a
+                                href="/item/30164" data-url="30164" class="tooltip-link link">Velium Coldain Insignia Ring</a>) then
 
 
 >**Dain Frostreaver IV says:** The people of Thurgadin are in your debt, Soandso. Please accept the Coldain Hero's Ring as a token of our gratitude. The curse has been removed from the blade as well. I hope you find it useful against our common foes. When you are interested in assisting me further please show me the blade. Until that day, may Brell bless and protect you.
 
 
- **You receive:** GiveAll( [Dirk of the Dain](/item/1465), [Coldain Hero's Insignia Ring](/item/30369)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/1465" data-url="1465" class="tooltip-link link">Dirk of the Dain</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_617.png" alt="" /> <a
+                                href="/item/30369" data-url="30369" class="tooltip-link link">Coldain Hero's Insignia Ring</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

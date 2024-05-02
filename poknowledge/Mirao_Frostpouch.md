@@ -22,7 +22,8 @@ end
 
 
 
-if( **You turn in:** [Black Lava Powder](/item/28090)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/28090" data-url="28090" class="tooltip-link link">Black Lava Powder</a>) then
 
 
 >*Mirao Frostpouch takes the powder and quickly dashes it into a boiling cauldron. He then stirs it and pours the concoction into a small bottle. 'Here you go, this should make poor Bolcen feel much better. Hurry now, he's waiting.*
@@ -31,6 +32,9 @@ if( **You turn in:** [Black Lava Powder](/item/28090)) then
 
 
 
- **You receive:**  [Curative Potion](/item/28091) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_692.png" alt="" /> <a
+                                href="/item/28091" data-url="28091" class="tooltip-link link">Curative Potion</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

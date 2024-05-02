@@ -38,7 +38,8 @@
 >**General Staginar says:** If you are less experienced than I am, performing this task will gain you nothing. With that in mind, take this box and venture through the mines and into the caverns. Combine in it Gooplart's tooth, Gizgargank's scalp, Grikplag's skull, Gnildaria's eye, Gnerpokkel's heart, Gilgaplank's toes, the husk of the summoned burrower, and the shackles of a Vah Shir captive. Return to me with the Box of the Hero of Shar Vahl and I will send a team of our veterans to escort you into battle.
 
 
-**You receive:**  [Box of the General's challenge](/item/17867)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17867" data-url="17867" class="tooltip-link link">Box of the General's challenge</a>
 end
 
 ## Turn-Ins
@@ -47,16 +48,21 @@ end
 
 
 
-if (  **You turn in:** [Box of the Hero of Shar Vahl](/item/6190)  ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/6190" data-url="6190" class="tooltip-link link">Box of the Hero of Shar Vahl</a>  ) then 
 
 
 >**General Staginar says:** Soldier, that's some fine work! The horde will not easily recover from the destruction you have inflicted upon their kind. You have earned an opportunity to wrestle the key from the grimling high commander. Take these orders to Veteran Cullin. If you can take possession of the grimling bases to the north and defeat the grimling high commander, return to me with his half of the obelisk and the battle orders. Show the grunts no mercy, Soandso! Good luck!
 
 
- **You receive:**  [Staginar's Battle Orders](/item/6191) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/6191" data-url="6191" class="tooltip-link link">Staginar's Battle Orders</a> 
+
+ 
 
 
-elseif (  **You turn in:** [Golden Medal of the Shar Vahl](/item/5989)  ) then 
+elseif (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/5989" data-url="5989" class="tooltip-link link">Golden Medal of the Shar Vahl</a>  ) then 
 
 
 
@@ -67,19 +73,29 @@ elseif (  **You turn in:** [Golden Medal of the Shar Vahl](/item/5989)  ) then
 >**General Staginar says:** Soldier, that's some fine work! The horde will not easily recover from the destruction you have inflicted upon their kind. You have earned an opportunity to wrestle the key from the grimling high commander. Take these orders to Veteran Cullin. If you can take possession of the grimling bases to the north and defeat the grimling high commander, return to me with his half of the obelisk and the battle orders. Show the grunts no mercy, Soandso! Good luck!
 
 
- **You receive:**  [Staginar's Battle Orders](/item/6191) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/6191" data-url="6191" class="tooltip-link link">Staginar's Battle Orders</a> 
+
+ 
 
 
-elseif (  **You turn in:** [Acrylia Obelisk Half](/item/6192)  ) then 
+elseif (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/6192" data-url="6192" class="tooltip-link link">Acrylia Obelisk Half</a>  ) then 
 
 
 e.self:Say(e.other:GetCleanName()..", your actions have earned you the respect of all Vah Shir. Upon your shoulders now rests the hope of our people. This hollow acrylia obelisk is the key that will gain you entry to the stronghold of the master of the grimling horde. Once there, you will need to collect enchanted pieces of acrylia from the enemy's vile minions. Once you have collected all five of them, you must place the obelisk into this smelting pot with the acrylia pieces. A special key will form inside that will grant you access to the deepest chamber of the stronghold.");
 
 
- **You receive:**  [Hollow Acrylia Obelisk](/item/5972) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/5972" data-url="5972" class="tooltip-link link">Hollow Acrylia Obelisk</a> 
+
+ 
 
 
- **You receive:**  [Enchanted Acrylia Smelting Pot](/item/17868) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1016.png" alt="" /> <a
+                                href="/item/17868" data-url="17868" class="tooltip-link link">Enchanted Acrylia Smelting Pot</a> 
+
+ 
 
 
 

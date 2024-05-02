@@ -20,13 +20,16 @@ end
 
 
 
-if( **You turn in:** [Fish Wine](/item/13040)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_707.png" alt="" /> <a
+                                href="/item/13040" data-url="13040" class="tooltip-link link">Fish Wine</a>) then
 
 
 >*Clifus accepts the drink and gulps it down. 'Thanks, lad! Ye know, I guess ye're all right*
 
 
- **You receive:** 0 (+50 exp)
+ &#127873; **You receive:** 0 (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

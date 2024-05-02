@@ -26,7 +26,8 @@
 >**Ziglark Whisperwing says:** You must first prove this to me before I allow you through our home.  Wenglawks of Kael is an acquaintance of ours who has been feeding us information on the storm giants' movements through Velious.  Lately our couriers to him have disappeared.  What you must do is take this request to him along with 200 platinum as payment for the storm giants' locations and return the information to me.  After you complete this task for me, we will discuss passage through the Skyshrine.
 
 
-**You receive:**  [Message to Wenglawks](/item/28600)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/28600" data-url="28600" class="tooltip-link link">Message to Wenglawks</a>
 end
 
 ## Turn-Ins
@@ -35,12 +36,16 @@ end
 
 
 
-if( **You turn in:** [Message to Herald](/item/28601)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28601" data-url="28601" class="tooltip-link link">Message to Herald</a>) then
 
 
 >**Ziglark Whisperwing says:** Excellent, you have gotten the information back and you are still in one piece!  Perhaps you could be useful to our cause.  Here is the key to leave the Skyshrine.  Just place it on the flaming pot of the dragon statue, near the center of the pool in the courtyard.
 
 
- **You receive:**  [Shrine Key](/item/28602) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1080.png" alt="" /> <a
+                                href="/item/28602" data-url="28602" class="tooltip-link link">Shrine Key</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -127,45 +127,56 @@ local text = "Fool! There shall be no reward until I have four skullcaps in my h
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Goblin Supply Pouch](/item/13886)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13886" data-url="13886" class="tooltip-link link">Goblin Supply Pouch</a>) then 
 
 
 >**Narex T-Vem says:** Fine work. I trust the denizens of Lavastorm were not unkind. Please take this featherweight pouch as a reward. May it keep you fleet of foot.
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (25)
+Your faction standing with [Indigo Brotherhood](/faction/270) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (-3)
+Your faction standing with [Emerald Warriors](/faction/326) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (-1)
+Your faction standing with [Steel Warriors](/faction/311) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-50)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-50</span>)
 
 
- **You receive:**  [Featherweight Pouch](/item/17972) (+17150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/17972" data-url="17972" class="tooltip-link link">Featherweight Pouch</a> (+17150 exp)
 
-elseif( **You turn in:** [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113), [Leatherfoot Raider Skullcap](/item/13113)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/13113" data-url="13113" class="tooltip-link link">Leatherfoot Raider Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/13113" data-url="13113" class="tooltip-link link">Leatherfoot Raider Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/13113" data-url="13113" class="tooltip-link link">Leatherfoot Raider Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/13113" data-url="13113" class="tooltip-link link">Leatherfoot Raider Skullcap</a>) then 
 
 
 >**Narex T-Vem says:** I had my doubts, but you have proven them false. You are a fine warrior. You must continue to refine you talents. I reward you with the footman's voulge! Welcome into our house of warriors. Let us share skills as we share foes.
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (50)
+Your faction standing with [Indigo Brotherhood](/faction/270) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (-7)
+Your faction standing with [Emerald Warriors](/faction/326) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (-2)
+Your faction standing with [Steel Warriors](/faction/311) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-100)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-100</span>)
 
 
- **You receive:**  [Footmans Voulge](/item/12257) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/12257" data-url="12257" class="tooltip-link link">Footmans Voulge</a> (+25000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 7 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

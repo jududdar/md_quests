@@ -180,51 +180,59 @@ end
 local text = "Look what you have found! It is tragic to know that for every broken crook that is recovered, one of the Treefolk has lost his life. Those gnolls will pay some day. If you have the other half of the crook I will repair it for you.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Gnoll Paw](/item/13700)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/13700" data-url="13700" class="tooltip-link link">Gnoll Paw</a>) then
 
 
 >**Corun Finisc says:** Thank you for tracking down the filthy little poacher. Take this as your reward.
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (10)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (1)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-2)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+1500 exp)
+ &#127873; **You receive:** 0 (+1500 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Bottom of Broken Staff](/item/13231), [Top of Broken Staff](/item/13232)) then
+**You receive coin:** 0-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/13231" data-url="13231" class="tooltip-link link">Bottom of Broken Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/13232" data-url="13232" class="tooltip-link link">Top of Broken Staff</a>) then
 
 
 >**Corun Finisc says:** Excellent! Here is a Jaggedpine Crook of your own. Please use it only to defend yourself and never to attack one of Tunare's creatures. You will find that while wielding the crook, Tunare grants you a boon of strength and the power to smite enemies who would otherwise be impervious to physical attacks.
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (10)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (1)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-2)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Jaggedpine Crook](/item/13230) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/13230" data-url="13230" class="tooltip-link link">Jaggedpine Crook</a> (+1500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

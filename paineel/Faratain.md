@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Mail Assembly Kit](/item/17124)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/17124" data-url="17124" class="tooltip-link link">Mail Assembly Kit</a>
 
 
 **You say:** `task`
@@ -41,7 +42,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Greaves Mold](/item/19636)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 
 **You say:** `helm`
@@ -53,7 +55,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Helm Mold](/item/19631)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 
 **You say:** `boot`
@@ -65,7 +68,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Boot Mold](/item/19634)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 
 **You say:** `bracer`
@@ -77,7 +81,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Bracer Mold](/item/19632)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19632" data-url="19632" class="tooltip-link link">Crude Bracer Mold</a>
 
 
 **You say:** `breastplate`
@@ -89,7 +94,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Breastplate Mold](/item/19637)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 
 **You say:** `gauntlet`
@@ -101,7 +107,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Gauntlets Mold](/item/19633)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19633" data-url="19633" class="tooltip-link link">Crude Gauntlets Mold</a>
 
 
 **You say:** `vambrace`
@@ -113,7 +120,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Crude Vambrace Mold](/item/19635)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 end
 
@@ -124,36 +132,46 @@ end
 local expansion_flag = eq.get_current_expansion();
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Clan Kolbok Blacksmith Traditions](/item/20421)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/20421" data-url="20421" class="tooltip-link link">Clan Kolbok Blacksmith Traditions</a>) then
 
 
 >**Faratain says:** Well done Soandso. I will have this translated immediately so that it may be studied. Take this Dull Fell Blade Cutlass and sharpen it in a forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is done bring me the Sharp Fell Blade Cutlass, a Large Briar Snake Skin, and a Petrified Eyeball and I will put the finishing touches on the weapon.
 
 
-* __Faction:__ [Heretics](/faction/265) (5)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-5)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-5)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-5)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-5)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Dull Fell Blade Cutlass](/item/20403) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/20403" data-url="20403" class="tooltip-link link">Dull Fell Blade Cutlass</a> 
 
-elseif(expansion_flag >= 4.0 and  **You turn in:** [Sharp Fell Blade Cutlass](/item/20404), [Large Briar Snake Skin](/item/20355), [Petrified Eyeball](/item/20402)) then
+ 
+
+elseif(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/20404" data-url="20404" class="tooltip-link link">Sharp Fell Blade Cutlass</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/20355" data-url="20355" class="tooltip-link link">Large Briar Snake Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_917.png" alt="" /> <a
+                                href="/item/20402" data-url="20402" class="tooltip-link link">Petrified Eyeball</a>) then
 
 
 >*Faratain Faratain fashions a grip from the large briar snake skin, fastens the petrified eyeball to the pommel of the hilt, and polishes the blade with a shimmering black substance. I present you with your Fell Blade Cutlass. May it serve you well in the name of Cazic Thule.*
 
 
- **You receive:**  [Fell Blade Cutlass](/item/20416) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/20416" data-url="20416" class="tooltip-link link">Fell Blade Cutlass</a> 
+
+ 
 end
 
 

@@ -35,7 +35,8 @@ end
 
 
 
-if( **You turn in:** [Trunt's Head](/item/1686)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_920.png" alt="" /> <a
+                                href="/item/1686" data-url="1686" class="tooltip-link link">Trunt's Head</a>) then 
 
 
 >*Astral Projection looks up and down.*
@@ -44,6 +45,9 @@ if( **You turn in:** [Trunt's Head](/item/1686)) then
 >**Astral Projection says:** Hmmm, I was hoping for something more impressive. This is just a small token of the last person who tried to interfere with my plans. He failed as shall you. But tell me truly, are you the one who has so rudely removed my students?
 
 
- **You receive:**  [Eye of Kaiaren](/item/1687) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_917.png" alt="" /> <a
+                                href="/item/1687" data-url="1687" class="tooltip-link link">Eye of Kaiaren</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

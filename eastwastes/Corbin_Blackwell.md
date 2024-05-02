@@ -14,13 +14,18 @@ end
 
 
 
-if( **You turn in:** [Shackle key](/item/1046), [Mithril Coldain Insignia Ring](/item/30162)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1077.png" alt="" /> <a
+                                href="/item/1046" data-url="1046" class="tooltip-link link">Shackle key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_880.png" alt="" /> <a
+                                href="/item/30162" data-url="30162" class="tooltip-link link">Mithril Coldain Insignia Ring</a>) then
 
 
 >**Corbin Blackwell says:** I thought I was a dwarfskin rug there for a minute! Thank Brell for your help stranger! Now cover me while I make good my escape. I am weakened and cannot endure much more.
 
 
- **You receive:**  [Mithril Coldain Insignia Ring](/item/30162) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_880.png" alt="" /> <a
+                                href="/item/30162" data-url="30162" class="tooltip-link link">Mithril Coldain Insignia Ring</a> 
+
+ 
 
 
 **Spawn NPC:**  [\#Corbin Blackwell](/npc/116034) at this location.

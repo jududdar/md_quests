@@ -43,13 +43,20 @@ local text = "I want FOUR lizardman scout fifes.";
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198), [Lizardman Scout Fife](/item/12198)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/12198" data-url="12198" class="tooltip-link link">Lizardman Scout Fife</a>) then 
 
 
 >**a skeleton says:** All right! I was kinda hoping the lizards would finish you off and I could stay free, but a deal is a deal. Let's go.
 
 
- **You receive:**  [The Minstrel](/item/12216) (+25 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12216" data-url="12216" class="tooltip-link link">The Minstrel</a> (+25 exp)
+
+ 
 
 
 **a skeleton despawns.**

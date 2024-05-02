@@ -79,25 +79,26 @@ end
 
 
 
-if( **You turn in:** [Bloody Shank](/item/13110)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/13110" data-url="13110" class="tooltip-link link">Bloody Shank</a>) then 
 
 
 >**Bronin Higginsbot says:** AHH!! You have been sent by the Highkeep Guards!! You will never take Bronin Higginsbot alive!!
 
 
-* __Faction:__ [Deeppockets](/faction/241) (-50)
+Your faction standing with [Deeppockets](/faction/241) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-2)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (2)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-2)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (-2)
+Your faction standing with [Carson McCabe](/faction/329) got worse (<span class='text-danger'>-2</span>)
 
 
 e.self:AddItem(13111,0);
@@ -105,28 +106,32 @@ e.self:AddItem(13111,0);
 
 **Bronin Higginsbot attacks you.**
 
-elseif(( **Faction is** > Indifferent) and ( **You turn in:** [A Froglok Leg](/item/12192))) then 
+elseif(( **Faction is** > Indifferent) and ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1068.png" alt="" /> <a
+                                href="/item/12192" data-url="12192" class="tooltip-link link">A Froglok Leg</a>)) then 
 
 
 >**Bronin Higginsbot says:** So I see you have defeated Slaythe. I shall sleep much better now that he is gone. I placed the emerald shard in one of the Highkeep strongboxes in Highpass. Give the Bank Clerk this key. There is a [second piece of the gem] which I hid near Kelethin. You will need it to complete the gem. I hope it brings you better luck than I.
 
 
-* __Faction:__ [Deeppockets](/faction/241) (10)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [H.K. 106](/item/12193) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/12193" data-url="12193" class="tooltip-link link">H.K. 106</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -33,24 +33,32 @@ end
 local text = "Whoooops! I'll need the two ruined wolf pelts along with the berries and black wolf skin before I can reward you, Soandso. Don't dawdle now.";
 
 
-if( **You turn in:** [A tattered note](/item/18731)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18731" data-url="18731" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Beek Guinders says:** Aye. Welcome. my fur-footed friend. My name is Beek Guinders. and I am guildmaster here at the Chapel of Mischief. Here is our guild tunic. Wear it with pride, as it will set you apart from the crowd.
 
 
-* __Faction:__ [Priests of Mischief](/faction/300) (100)
+Your faction standing with [Priests of Mischief](/faction/300) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (15)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (15)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Faded Gold Felt Tunic*](/item/13538) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13538" data-url="13538" class="tooltip-link link">Faded Gold Felt Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Berries](/item/13045), [Ruined Wolf Pelt](/item/13782), [Ruined Wolf Pelt](/item/13782), [Black Wolf Skin](/item/13758)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1037.png" alt="" /> <a
+                                href="/item/13045" data-url="13045" class="tooltip-link link">Berries</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13782" data-url="13782" class="tooltip-link link">Ruined Wolf Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13782" data-url="13782" class="tooltip-link link">Ruined Wolf Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/13758" data-url="13758" class="tooltip-link link">Black Wolf Skin</a>) then 
 
 
 >**Beek Guinders says:** Hey, great! You found the materials! We'll get to work right away. If you find any more, please come by again. Here's a little something for your troubles, friend.
@@ -59,16 +67,23 @@ elseif( **You turn in:** [Berries](/item/13045), [Ruined Wolf Pelt](/item/13782)
 
 
 
-* __Faction:__ [Priests of Mischief](/faction/300) (3)
+Your faction standing with [Priests of Mischief](/faction/300) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guardians of the Vale](/faction/263) (1)
+Your faction standing with [Guardians of the Vale](/faction/263) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Strike](/item/15014), [Spell: Flash of Light](/item/15201), [Spell: Divine Aura](/item/15207), [Spell: Lull](/item/15208), [Spell: Gate](/item/16303)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15014" data-url="15014" class="tooltip-link link">Spell: Strike</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15201" data-url="15201" class="tooltip-link link">Spell: Flash of Light</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15207" data-url="15207" class="tooltip-link link">Spell: Divine Aura</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15208" data-url="15208" class="tooltip-link link">Spell: Lull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/16303" data-url="16303" class="tooltip-link link">Spell: Gate</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

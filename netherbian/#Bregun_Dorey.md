@@ -56,26 +56,38 @@ end
 
 
 
-if( **You turn in:** [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464), [Bixie Crunchies](/item/13464)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_785.png" alt="" /> <a
+                                href="/item/13464" data-url="13464" class="tooltip-link link">Bixie Crunchies</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_785.png" alt="" /> <a
+                                href="/item/13464" data-url="13464" class="tooltip-link link">Bixie Crunchies</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_785.png" alt="" /> <a
+                                href="/item/13464" data-url="13464" class="tooltip-link link">Bixie Crunchies</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_785.png" alt="" /> <a
+                                href="/item/13464" data-url="13464" class="tooltip-link link">Bixie Crunchies</a>) then 
 
 
 >**Bregun Dorey says:** Ah hum!
 
 
-e.self:RemoveItem( [Bixie Charm](/item/29852));
+e.self:RemoveItem( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/29852" data-url="29852" class="tooltip-link link">Bixie Charm</a>);
 
 
- **You receive:**  [Bixie Charm](/item/29852) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/29852" data-url="29852" class="tooltip-link link">Bixie Charm</a> 
+
+ 
 
 
 >**Bregun Dorey says:** Give this charm to Torsten as a present from his old friend.
 
-elseif( **You turn in:** [Sealed Note to Bregun](/item/29853)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/29853" data-url="29853" class="tooltip-link link">Sealed Note to Bregun</a>) then 
 
 
 >**Bregun Dorey says:** Hahaha! Silly Torsten. Always snooping over my shoulder. Well I have nothing to lose... Take this to him, it's directions on how to find the Journal I kept. I hid it where no one would look! Haha! Trog trog trog!
 
 
- **You receive:**  [Breguns Directions](/item/29854) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29854" data-url="29854" class="tooltip-link link">Breguns Directions</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

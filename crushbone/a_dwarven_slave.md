@@ -37,7 +37,8 @@ if( **You turn in:** copper = 1) then
 >**a dwarven slave says:** No, no!! I do not need this!! Get me key number 16!!
 
 
-elseif( **You turn in:** [Shackle Key 16](/item/20016)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/20016" data-url="20016" class="tooltip-link link">Shackle Key 16</a>) then
 
 
 
@@ -45,26 +46,29 @@ elseif( **You turn in:** [Shackle Key 16](/item/20016)) then
 
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (2)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (2)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+800 exp)
+ &#127873; **You receive:** 0 (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 **a dwarven slave despawns.**
 
 
-elseif( **You turn in:** [Brass Earring](/item/10351)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/10351" data-url="10351" class="tooltip-link link">Brass Earring</a>) then
 
 
 
@@ -72,7 +76,10 @@ elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
- **You receive:**  [A Worn Rune](/item/18905) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18905" data-url="18905" class="tooltip-link link">A Worn Rune</a> (+5000 exp)
+
+ 
 
 
 
@@ -91,7 +98,8 @@ if( **You turn in:** copper = 1) then
 >**a dwarven slave says:** What is this!!? Get me key number 17!!
 
 
-elseif( **You turn in:** [Shackle Key 17](/item/20017)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1077.png" alt="" /> <a
+                                href="/item/20017" data-url="20017" class="tooltip-link link">Shackle Key 17</a>) then
 
 
 
@@ -99,34 +107,37 @@ elseif( **You turn in:** [Shackle Key 17](/item/20017)) then
 
 
 
-* __Faction:__ [Storm Guard](/faction/312) (2)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+800 exp)
+ &#127873; **You receive:** 0 (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 **a dwarven slave despawns.**
 
 
-elseif( **You turn in:** [Brass Earring](/item/10351)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/10351" data-url="10351" class="tooltip-link link">Brass Earring</a>) then
 
 
 
@@ -134,7 +145,10 @@ elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
- **You receive:**  [A Small Wood Carving](/item/18906) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18906" data-url="18906" class="tooltip-link link">A Small Wood Carving</a> (+5000 exp)
+
+ 
 
 
 

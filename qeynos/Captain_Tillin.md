@@ -59,54 +59,69 @@ local fang = 0;
 
 
 
-if( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>) then 
 
 
 fang = 4;
 
-elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>) then
 
 
 
 fang = 3;
 
-elseif( **You turn in:** [Gnoll Fang](/item/13915), [Gnoll Fang](/item/13915)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>) then
 
 
 fang = 2;
 
-elseif( **You turn in:** [Gnoll Fang](/item/13915)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>) then
 
 
 fang = 1;
 
-elseif( **You turn in:** [A tattered note](/item/18815)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18815" data-url="18815" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Captain Tillin says:** I heard you were on your way. I have called for the state [executioner]. She should be on her way now. She will deal with our friend, McNeal Jocub. Thank you for your help, citizen.
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (40)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+40</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (6)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-6)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-6</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-10)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (4)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:**  [Medal of Merit](/item/13305) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/13305" data-url="13305" class="tooltip-link link">Medal of Merit</a> (+10 exp)
+
+ 
 
 
 **Spawn NPC:**  [Executioner](/npc/1202) at (**y:** 75, **x:** -412)
 
-elseif( **You turn in:** [A Tattered Cloth Note](/item/18912)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18912" data-url="18912" class="tooltip-link link">A Tattered Cloth Note</a>) then
 
 
 >**Captain Tillin says:** So, an assassin has been sent to Qeynos! I shall have my guards keep an eye out for any suspicious looking visitors. As for you... you should speak with the Surefall Glade ambassador. Ambassador Gash is staying at the Lion's Mane Inn here in South Qeynos. Inform him that [an assassin has been sent to kill] him. Do not let the assassin near him!
@@ -115,30 +130,36 @@ elseif( **You turn in:** [A Tattered Cloth Note](/item/18912)) then
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
 
-elseif( **You turn in:** [Compiled Report](/item/8280)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/8280" data-url="8280" class="tooltip-link link">Compiled Report</a>) then
 
 
 >*Captain Tillin scans the report with a furrowed brow. 'So the threat is worse then we had anticipated. The intelligence we have gathere is true. We have little time, return to Sergeant Caelin and give him these orders. Time is of the essence. Hurry now, these people are in grave danger and something must be done to stop this!*
 
 
- **You receive:**  [Orders for Sergeant Caelin](/item/8287) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/8287" data-url="8287" class="tooltip-link link">Orders for Sergeant Caelin</a> 
+
+ 
 
 
 
@@ -157,27 +178,30 @@ repeat
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Moonstone](/item/10070) (+8500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10070" data-url="10070" class="tooltip-link link">Moonstone</a> (+8500 exp)
+
+ 
 
 
 

@@ -22,33 +22,37 @@ end
 
 
 
-if( **You turn in:** [Confidential Report](/item/29892)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/29892" data-url="29892" class="tooltip-link link">Confidential Report</a>) then
 
 
 >**Aderyn Goldleaf says:** You actually did it? You have done an invaluable service ridding us of that wretched little halfing. You deserve to be a soldier in Seru's army. Take this Quiver with my regard, Soandso.
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (30)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-3)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-3)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (1)
+Your faction standing with [Seru](/faction/1483) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Haven Smugglers](/faction/1542) (-3)
+Your faction standing with [Haven Smugglers](/faction/1542) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-3)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (-7)
+Your faction standing with [Magus Conlegium](/faction/1504) got worse (<span class='text-danger'>-7</span>)
  
 
- **You receive:**  [Jeweled Quiver of the Hand](/item/17120) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_725.png" alt="" /> <a
+                                href="/item/17120" data-url="17120" class="tooltip-link link">Jeweled Quiver of the Hand</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

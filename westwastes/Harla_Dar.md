@@ -58,24 +58,28 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Frakadar's Talisman](/item/27260)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/27260" data-url="27260" class="tooltip-link link">Frakadar's Talisman</a>) then
 
 
 >**Harla Dar says:** This...this is not what I had hoped for. My whelp is lost, but I take some comfort in knowing that you helped destroy his killer. Zlandicar has been a blight upon our race since the beginning. Here is your reward, as I promised. It will protect you in more ways than are obvious. Leave me now, it is time to mourn.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (10)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (2)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-5)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-5</span>)
 
 
 
- **You receive:**  [Shroud of the Dar Brood](/item/27261) (+150000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_662.png" alt="" /> <a
+                                href="/item/27261" data-url="27261" class="tooltip-link link">Shroud of the Dar Brood</a> (+150000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

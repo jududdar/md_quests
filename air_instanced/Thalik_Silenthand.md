@@ -20,7 +20,8 @@
 >**Thalik Silenthand says:** Rayne it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the mighty rogue Rayne to test you.
 
 
-**You receive:**  [Tome of Shadows](/item/18522)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18522" data-url="18522" class="tooltip-link link">Tome of Shadows</a>
 
 **You say:** `Kendrick`
 
@@ -29,7 +30,8 @@
 >**Thalik Silenthand says:** Kendrick it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon the mighty rogue Kendrick to test you.
 
 
-**You receive:**  [Silent Strider](/item/18523)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18523" data-url="18523" class="tooltip-link link">Silent Strider</a>
 end
 
 
@@ -37,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [Tome of Shadows](/item/18522)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18522" data-url="18522" class="tooltip-link link">Tome of Shadows</a>) then 
 
 
 
@@ -49,7 +52,8 @@ if( **You turn in:** [Tome of Shadows](/item/18522)) then
 
 **Thalik Silenthand despawns.**
 
-elseif( **You turn in:** [Silent Strider](/item/18523)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18523" data-url="18523" class="tooltip-link link">Silent Strider</a>) then 
 
 
 >**Thalik Silenthand says:** Farewell.

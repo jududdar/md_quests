@@ -28,7 +28,8 @@ local randrew = 0;
 
 
 
-if( **You turn in:** [Kobold Molar](/item/1761)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_802.png" alt="" /> <a
+                                href="/item/1761" data-url="1761" class="tooltip-link link">Kobold Molar</a>) then
 
 
 >**Royal Guard Lilkus says:** Not bad, Soandso. Here is your reward. If you slay enough of these dogs, Sheltuin may have a more important task for you to perform.
@@ -45,21 +46,23 @@ randrew = eq.ChooseRandom(3120,3123,3115,3117,3122,3113,3116,3118,3121,3124,3119
 
 
 
-* __Faction:__ [Heretics](/faction/265) (7)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-7)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-7)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-7)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-7)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-7</span>)
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 6 <img src='/static/icons/item_645.png' width='14' height='14'/> 5 <img src='/static/icons/item_646.png' width='14' height='14'/> 6 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

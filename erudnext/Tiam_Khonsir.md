@@ -37,7 +37,8 @@ end
 
 
 
-if( **You turn in:** [Kobold Molar](/item/1761)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_802.png" alt="" /> <a
+                                href="/item/1761" data-url="1761" class="tooltip-link link">Kobold Molar</a>) then 
 
 
 >**Tiam Khonsir says:** Wonderful work, friend Soandso. One less land dwelling, flea ridden, primitive for our wondrous lord to sweep aside when the apocalypse is upon us. Here is your reward. Perhaps if you gather enough molars, we can offer you a [quest of greater importance].
@@ -47,23 +48,60 @@ if(math.random(1,4) == 1) then
 
 
 
- **You receive:** eq.ChooseRandom( [Small Ringmail Sleeves](/item/3120), [Small Ringmail Pants](/item/3123), [Small Ringmail Neckguard](/item/3115), [Small Ringmail Mantle](/item/3117), [Small Ringmail Gloves](/item/3122), [Small Ringmail Coif](/item/3113), [Small Ringmail Coat](/item/3116), [Small Ringmail Cape](/item/3118), [Small Ringmail Bracelet](/item/3121), [Small Ringmail Boots](/item/3124), [Small Ringmail Belt](/item/3119), [Ringmail Sleeves](/item/3108), [Ringmail Skirt](/item/3107), [Ringmail Pants](/item/3111), [Ringmail Neckguard](/item/3103), [Ringmail Mantle](/item/3105), [Ringmail Gloves](/item/3110), [Ringmail Coif](/item/3101), [Ringmail Coat](/item/3104), [Ringmail Cape](/item/3106), [Ringmail Bracelet](/item/3109), [Ringmail Boots](/item/3112), [Large Ringmail Sleeves](/item/3132), [Large Ringmail Pants](/item/3135), [Large Ringmail Neckguard](/item/3127), [Large Ringmail Mantle](/item/3129), [Large Ringmail Gloves](/item/3134), [Large Ringmail Coif](/item/3125), [Large Ringmail Coat](/item/3128), [Large Ringmail Cape](/item/3130), [Large Ringmail Bracelet](/item/3133), [Large Ringmail Boots](/item/3136), [Large Ringmail Belt](/item/3131)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3120" data-url="3120" class="tooltip-link link">Small Ringmail Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3123" data-url="3123" class="tooltip-link link">Small Ringmail Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_627.png" alt="" /> <a
+                                href="/item/3115" data-url="3115" class="tooltip-link link">Small Ringmail Neckguard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/3117" data-url="3117" class="tooltip-link link">Small Ringmail Mantle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3122" data-url="3122" class="tooltip-link link">Small Ringmail Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3113" data-url="3113" class="tooltip-link link">Small Ringmail Coif</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3116" data-url="3116" class="tooltip-link link">Small Ringmail Coat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/3118" data-url="3118" class="tooltip-link link">Small Ringmail Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3121" data-url="3121" class="tooltip-link link">Small Ringmail Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3124" data-url="3124" class="tooltip-link link">Small Ringmail Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/3119" data-url="3119" class="tooltip-link link">Small Ringmail Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3108" data-url="3108" class="tooltip-link link">Ringmail Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/3107" data-url="3107" class="tooltip-link link">Ringmail Skirt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3111" data-url="3111" class="tooltip-link link">Ringmail Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_627.png" alt="" /> <a
+                                href="/item/3103" data-url="3103" class="tooltip-link link">Ringmail Neckguard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/3105" data-url="3105" class="tooltip-link link">Ringmail Mantle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3110" data-url="3110" class="tooltip-link link">Ringmail Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3101" data-url="3101" class="tooltip-link link">Ringmail Coif</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3104" data-url="3104" class="tooltip-link link">Ringmail Coat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/3106" data-url="3106" class="tooltip-link link">Ringmail Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3109" data-url="3109" class="tooltip-link link">Ringmail Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3112" data-url="3112" class="tooltip-link link">Ringmail Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3132" data-url="3132" class="tooltip-link link">Large Ringmail Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/3135" data-url="3135" class="tooltip-link link">Large Ringmail Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_627.png" alt="" /> <a
+                                href="/item/3127" data-url="3127" class="tooltip-link link">Large Ringmail Neckguard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/3129" data-url="3129" class="tooltip-link link">Large Ringmail Mantle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3134" data-url="3134" class="tooltip-link link">Large Ringmail Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3125" data-url="3125" class="tooltip-link link">Large Ringmail Coif</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_527.png" alt="" /> <a
+                                href="/item/3128" data-url="3128" class="tooltip-link link">Large Ringmail Coat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/3130" data-url="3130" class="tooltip-link link">Large Ringmail Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
+                                href="/item/3133" data-url="3133" class="tooltip-link link">Large Ringmail Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3136" data-url="3136" class="tooltip-link link">Large Ringmail Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_562.png" alt="" /> <a
+                                href="/item/3131" data-url="3131" class="tooltip-link link">Large Ringmail Belt</a>) 
+
+ 
 
 
 
 note = "You always receive the exp and coin, but only get the item if the statement above succeeds"
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (7)
+Your faction standing with [Deepwater Knights](/faction/242) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+3800 exp)
+ &#127873; **You receive:** 0 (+3800 exp)
+
+ 
 
 
 e.other:GiveCash(12,14,5,0); 

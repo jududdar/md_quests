@@ -20,12 +20,19 @@ end
 
 
 
-if( **You turn in:** [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262), [Shardwurm Claw](/item/30262)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/30262" data-url="30262" class="tooltip-link link">Shardwurm Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/30262" data-url="30262" class="tooltip-link link">Shardwurm Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/30262" data-url="30262" class="tooltip-link link">Shardwurm Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
+                                href="/item/30262" data-url="30262" class="tooltip-link link">Shardwurm Claw</a>) then
 
 
 >**Relik says:** Oh, yeah. That's strong, very strong. With these, we can make our shipment for this month. I gotta be thankin' ya properly. This be one of our best tools. Here, ya can swing a pick with us anytime, Soandso.
 
 
- **You receive:**  [Coldain Velium-Pick](/item/30263) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/30263" data-url="30263" class="tooltip-link link">Coldain Velium-Pick</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

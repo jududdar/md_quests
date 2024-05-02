@@ -58,82 +58,131 @@ end
 
 
 
-if( **You turn in:** [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476), [Broken Brigand Skull](/item/2476)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/2476" data-url="2476" class="tooltip-link link">Broken Brigand Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/2476" data-url="2476" class="tooltip-link link">Broken Brigand Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/2476" data-url="2476" class="tooltip-link link">Broken Brigand Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/2476" data-url="2476" class="tooltip-link link">Broken Brigand Skull</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Bracer! Would you like to get some [Boots]?
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (15)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Ghulam Bracer](/item/2453) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2453" data-url="2453" class="tooltip-link link">Ghulam Bracer</a> 
 
-elseif( **You turn in:** [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460), [Sharp Bloodling Mandible](/item/2460)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1240.png" alt="" /> <a
+                                href="/item/2460" data-url="2460" class="tooltip-link link">Sharp Bloodling Mandible</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1240.png" alt="" /> <a
+                                href="/item/2460" data-url="2460" class="tooltip-link link">Sharp Bloodling Mandible</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1240.png" alt="" /> <a
+                                href="/item/2460" data-url="2460" class="tooltip-link link">Sharp Bloodling Mandible</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1240.png" alt="" /> <a
+                                href="/item/2460" data-url="2460" class="tooltip-link link">Sharp Bloodling Mandible</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Gloves! Would you like to get a [Bracer]?
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (15)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Ghulam Gloves](/item/2452) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2452" data-url="2452" class="tooltip-link link">Ghulam Gloves</a> 
 
-elseif( **You turn in:** [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477), [Shadowed Claw](/item/2477)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1226.png" alt="" /> <a
+                                href="/item/2477" data-url="2477" class="tooltip-link link">Shadowed Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1226.png" alt="" /> <a
+                                href="/item/2477" data-url="2477" class="tooltip-link link">Shadowed Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1226.png" alt="" /> <a
+                                href="/item/2477" data-url="2477" class="tooltip-link link">Shadowed Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1226.png" alt="" /> <a
+                                href="/item/2477" data-url="2477" class="tooltip-link link">Shadowed Claw</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Boots! Would you like to get some [Sleeves]?
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (20)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Ghulam Boots](/item/2454) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2454" data-url="2454" class="tooltip-link link">Ghulam Boots</a> 
 
-elseif( **You turn in:** [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478), [Loda Kai Earring](/item/2478)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/2478" data-url="2478" class="tooltip-link link">Loda Kai Earring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/2478" data-url="2478" class="tooltip-link link">Loda Kai Earring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/2478" data-url="2478" class="tooltip-link link">Loda Kai Earring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/2478" data-url="2478" class="tooltip-link link">Loda Kai Earring</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Sleeves! Would you like to get a [Cap]?
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (25)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Ghulam Armguards](/item/2455) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2455" data-url="2455" class="tooltip-link link">Ghulam Armguards</a> 
 
-elseif( **You turn in:** [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479), [Loda Kai Insignia](/item/2479)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/2479" data-url="2479" class="tooltip-link link">Loda Kai Insignia</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/2479" data-url="2479" class="tooltip-link link">Loda Kai Insignia</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/2479" data-url="2479" class="tooltip-link link">Loda Kai Insignia</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/2479" data-url="2479" class="tooltip-link link">Loda Kai Insignia</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here is your Cap! Would you like to get some [Pants]?
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (25)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Ghulam Cap](/item/2456) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2456" data-url="2456" class="tooltip-link link">Ghulam Cap</a> 
 
-elseif( **You turn in:** [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [Saurek Fang](/item/2480), [Saurek Fang](/item/2480)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/2480" data-url="2480" class="tooltip-link link">Saurek Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/2480" data-url="2480" class="tooltip-link link">Saurek Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/2480" data-url="2480" class="tooltip-link link">Saurek Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/2480" data-url="2480" class="tooltip-link link">Saurek Fang</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here are your Pants! Would you like to get a [Tunic]?
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (20)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Ghulam Legplates](/item/2457) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2457" data-url="2457" class="tooltip-link link">Ghulam Legplates</a> 
 
-elseif( **You turn in:** [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481), [Bloodbulk Carapace](/item/2481)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/2481" data-url="2481" class="tooltip-link link">Bloodbulk Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/2481" data-url="2481" class="tooltip-link link">Bloodbulk Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/2481" data-url="2481" class="tooltip-link link">Bloodbulk Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/2481" data-url="2481" class="tooltip-link link">Bloodbulk Carapace</a>) then
 
 
 >**Kaza Raj says:** Excellent! Here is your Tunic!
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (25)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Ghulam Tunic](/item/2459) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2459" data-url="2459" class="tooltip-link link">Ghulam Tunic</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

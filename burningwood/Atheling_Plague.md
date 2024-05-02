@@ -28,7 +28,8 @@ end
 
 
 
-if( **You turn in:** [Iksar Skull](/item/12764)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12764" data-url="12764" class="tooltip-link link">Iksar Skull</a>) then
 
 
 **Atheling Plague shouts:** <span class="text-danger">Excellent. You show signs of a true Iksar slayer. Too, bad I have already given the skull of the Sister of Scale to another. Perhaps you would like to meet him before he departs. Say hello, Doval.</span>

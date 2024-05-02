@@ -3,7 +3,8 @@
 
 
 
-if( **You turn in:** [Charred Scale](/item/1684)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/1684" data-url="1684" class="tooltip-link link">Charred Scale</a>) then
 
 
 >**a presence says:** Hahaha! That dolt Eejag fell to the likes of you? Im not surprised. So, I guess this means you are here to challenge me. Normally, I wouldnt waste my time, but since you have defeated my younger brother, I suppose Im obligated.

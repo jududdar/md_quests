@@ -53,7 +53,8 @@ if( **Faction is** > Apprehensive) then
 
 
 
-**You receive:**  [Tiny Gem](/item/1665)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/1665" data-url="1665" class="tooltip-link link">Tiny Gem</a>
 
 
 elseif(randomize > 50) then

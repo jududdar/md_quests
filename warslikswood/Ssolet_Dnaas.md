@@ -19,13 +19,17 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Burnished Wooden Stave](/item/6353)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6353" data-url="6353" class="tooltip-link link">Burnished Wooden Stave</a>) then
 
 
 >**Ssolet Dnaas says:** Sssss. Thisss is what I need. You have my thanksss. Please, take thiss. I know not what it iss for but maybe you will find a ussse for it.
 
 
- **You receive:**  [Piece of a medallion](/item/19958) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19958" data-url="19958" class="tooltip-link link">Piece of a medallion</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

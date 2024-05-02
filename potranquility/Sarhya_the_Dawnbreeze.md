@@ -38,12 +38,14 @@ if ( qglobals.zebuxoruk and qglobals.zebuxoruk == "2" ) then
 
 
 
-if ( not **You possess item:**  [Pouch of Swirling Winds](/item/17888) x 1
+if ( not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/17888" data-url="17888" class="tooltip-link link">Pouch of Swirling Winds</a> x 1
 
 
 
 
-**You receive:**  [Pouch of Swirling Winds](/item/17888)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/17888" data-url="17888" class="tooltip-link link">Pouch of Swirling Winds</a>
 
 
 

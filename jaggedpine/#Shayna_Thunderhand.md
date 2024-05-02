@@ -231,24 +231,29 @@ end
 
 
 
-if( **Faction is** > Warmly and  **You turn in:** [Ancient Ashwood Tome](/item/9232), [Gleaming Crystal Scepter](/item/9231)) then 
+if( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/9232" data-url="9232" class="tooltip-link link">Ancient Ashwood Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/9231" data-url="9231" class="tooltip-link link">Gleaming Crystal Scepter</a>) then 
 
 
 e.self:Emote("Aaah. . . yes. Well done. Well done, indeed, my friend. The tome still contains the Toliara's ancient notes and we shall be able to restore the lost magic to the scepter.'' Shayna holds the scepter firmly in one hand and the opened tome in the other. In a powerful voice, she recites several arcane words. As she speaks in the magical rhythm of the spell, the scepter in her hand begins to faintly glow and seems almost to haze as if enshrouded in a blanket of dense fog for but a moment. Shayna reaches the last word of her spell and extends the misted scepter to you, ''This is the Scepter of Storms. It is not yet complete and requires its original pieces to be whole once again. If you wish to continue to [aid the Order of the Storm Caller], I shall be more than willing to complete the scepter for you 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Scepter of Storms](/item/9233) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/9233" data-url="9233" class="tooltip-link link">Scepter of Storms</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

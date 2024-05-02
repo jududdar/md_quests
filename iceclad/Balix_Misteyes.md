@@ -38,12 +38,17 @@ end
 
 
 
-if( **You turn in:** [Skin of the Garou](/item/30055), [Bloody Cougar Bone](/item/30032)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/30055" data-url="30055" class="tooltip-link link">Skin of the Garou</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/30032" data-url="30032" class="tooltip-link link">Bloody Cougar Bone</a>) then
 
 
 >*Balix Misteyes pulls its lips back as it scratches and cuts the skin, working it around the bloody puma bone. 'Good for hitting or for talisman. Powerful thing to hold. All Snowfang thank you. Now, all of us are safer.' *
 
 
- **You receive:**  [Garou Bone Club](/item/30056) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_737.png" alt="" /> <a
+                                href="/item/30056" data-url="30056" class="tooltip-link link">Garou Bone Club</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

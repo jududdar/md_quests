@@ -46,19 +46,23 @@ end
 
 
 
-if( **You turn in:** [Section of Lodizal's Shell](/item/22815),platinum = 1000) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/22815" data-url="22815" class="tooltip-link link">Section of Lodizal's Shell</a>,platinum = 1000) then
 
 
 >*Bungre Crawcrusher skillfully crafts the section of Lodizal's shell into the shape of a shield. He then attaches sturdy cured walrus hide leather straps to the inner side of the shield and inscribes intricate glowing runes on the shield's face. When he is finished, he hands you the shield and claps loudly.*
 
 
-* __Faction:__ [Othmir](/faction/432) (5)
+Your faction standing with [Othmir](/faction/432) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Ulthork](/faction/431) (-1)
+Your faction standing with [Ulthork](/faction/431) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lodizal Shell Shield](/item/22816) (+150000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1244.png" alt="" /> <a
+                                href="/item/22816" data-url="22816" class="tooltip-link link">Lodizal Shell Shield</a> (+150000 exp)
+
+ 
 
 local returned = item_lib.return_items(e.self, e.other, e.trade, false);
 

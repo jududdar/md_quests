@@ -41,28 +41,34 @@ local text2 = "Like this is going to get you anything.  I can't work with this! 
 
 
 
-if( **You turn in:** [Trooper Shield](/item/12883), [Trooper Shield](/item/12883), [scribbled note](/item/12971)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/12883" data-url="12883" class="tooltip-link link">Trooper Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/12883" data-url="12883" class="tooltip-link link">Trooper Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12971" data-url="12971" class="tooltip-link link">scribbled note</a>) then
 
 
 >*Gearin Gaxx places the formula in a box which appears to have similar copies in it. Thank you! I can now reward you with this Guard of Ik shield I had lying around.*
 
 
-* __Faction:__ [Inhabitants of Firiona Vie](/faction/248) (5)
+Your faction standing with [Inhabitants of Firiona Vie](/faction/248) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (3)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Storm Guard](/faction/312) (3)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (-1)
+Your faction standing with [Legion of Cabilis](/faction/441) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Pirates of Gunthak](/faction/313) (-1)
+Your faction standing with [Pirates of Gunthak](/faction/313) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Guard of Ik](/item/12972) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_676.png" alt="" /> <a
+                                href="/item/12972" data-url="12972" class="tooltip-link link">Guard of Ik</a> (+1500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -33,13 +33,17 @@ end
 
 
 
-if( **You turn in:** [Tainted Darksteel Shield](/item/29002)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_758.png" alt="" /> <a
+                                href="/item/29002" data-url="29002" class="tooltip-link link">Tainted Darksteel Shield</a>) then 
 
 
 >*Elia the Pure squints and turns her head. 'By the gods, such a twisted aura this has! To see it hurts my eyes. I will help you if for no other reason than to remove such a twisted thing from existence.' She unrolls a scroll from her pack and softly chants over the dark metal shield. She hands it back to you with an exhausted smile on her face. 'Your heart seems pure. If I was able to help at all, I am honored. May the light shine warmly upon you.'*
 
 
- **You receive:**  [Gleaming Crested Shield](/item/29005) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_758.png" alt="" /> <a
+                                href="/item/29005" data-url="29005" class="tooltip-link link">Gleaming Crested Shield</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

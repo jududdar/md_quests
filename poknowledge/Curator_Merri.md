@@ -28,7 +28,8 @@
 >**Curator Merri says:** Here you go, good luck on your hunt.
 
 
-**You receive:**  [Collector's Box](/item/17769)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/17769" data-url="17769" class="tooltip-link link">Collector's Box</a>
 end
 
 ## Turn-Ins
@@ -37,12 +38,16 @@ end
 
 
 
-if( **You turn in:** [Collection of Idols](/item/28082)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/28082" data-url="28082" class="tooltip-link link">Collection of Idols</a>) then
 
 
 >**Curator Merri says:** Thank you very much Soandso!  Here, please accept this as a reward for the fine work you've done.
 
 
- **You receive:**  [Fine Antique Velvet Rose](/item/28241) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1133.png" alt="" /> <a
+                                href="/item/28241" data-url="28241" class="tooltip-link link">Fine Antique Velvet Rose</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

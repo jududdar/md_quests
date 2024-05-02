@@ -44,37 +44,60 @@ end
 
 
 
-if( **You turn in:** [Note to Forpar Fizfla](/item/20378)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/20378" data-url="20378" class="tooltip-link link">Note to Forpar Fizfla</a>) then 
 
 
 >**Forpar Fizfla says:** So you know Vedico! How is the lass? If Vedico would give you the time of day, you must be something special. What can I do for you? I hope you have not come to have me make another [mystical instrument].
 
 
- **You receive:**  [Forpars Note to Himself](/item/20380) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/20380" data-url="20380" class="tooltip-link link">Forpars Note to Himself</a> 
 
-elseif( **You turn in:** [Forpars Note to Himself](/item/20380), [Kedge Backbone](/item/20524), [Petrified Werewolf Skull](/item/20525), [Amygdalan Tendril](/item/5520)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/20380" data-url="20380" class="tooltip-link link">Forpars Note to Himself</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/20524" data-url="20524" class="tooltip-link link">Kedge Backbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/20525" data-url="20525" class="tooltip-link link">Petrified Werewolf Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/5520" data-url="5520" class="tooltip-link link">Amygdalan Tendril</a>) then 
 
 
 >**Forpar Fizfla says:** Wow! I didn't think a " .. e.other:Race() .. " like you would be able to gather all of those things. Forpar rambles around and works with small tools for a good ten minutes before handing you a very fine looking lute head. 'Now, do you want to gather the next pieces for me?
 
 
- **You receive:**  [Mystical Lute Head](/item/20535) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/20535" data-url="20535" class="tooltip-link link">Mystical Lute Head</a> 
 
-elseif( **You turn in:** [White Dragon Scales](/item/11602), [Red Dragon Scales](/item/11622), [Metal Bits](/item/16905)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/11602" data-url="11602" class="tooltip-link link">White Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/11622" data-url="11622" class="tooltip-link link">Red Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/16905" data-url="16905" class="tooltip-link link">Metal Bits</a>) then 
 
 
 >**Forpar Fizfla says:** Wooooooo! You are doing a wonderful job, Soandso. I wish I could go out and gather these things myself.' Forpar sits back down at his desk and pulls several very strange looking tools out. Eventually he looks up at you and says, 'The body is done! Only one more piece to go!
 
 
- **You receive:**  [Mystical Lute Body](/item/20536) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/20536" data-url="20536" class="tooltip-link link">Mystical Lute Body</a> 
 
-elseif( **You turn in:** [Mystical Lute Head](/item/20535), [Mystical Lute Body](/item/20536), [Undead Dragongut Strings](/item/20526)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/20535" data-url="20535" class="tooltip-link link">Mystical Lute Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/20536" data-url="20536" class="tooltip-link link">Mystical Lute Body</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/20526" data-url="20526" class="tooltip-link link">Undead Dragongut Strings</a>) then 
 
 
 >**Forpar Fizfla says:**  'Goodness! I can hardly contain myself! This will be my greatest creation ever!' Forpar sits down, slides the lute head into place and screws it together. After a few minutes, he begins to string the lute with the gut strings of the poison dragon. A wonderful sound fills the air as he strums the lute once and hands it to you.'I hope you find a good use for that! I bet you could play it from the mountaintops and the people below would hear you. Thank you, Soandso, for making my lifelong dream come true!'
 
 
- **You receive:**  [Mystical Lute](/item/20538) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/20538" data-url="20538" class="tooltip-link link">Mystical Lute</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

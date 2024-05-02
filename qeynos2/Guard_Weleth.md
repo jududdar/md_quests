@@ -25,7 +25,8 @@ if **Faction** >= Indifferent +50 then
 
 
 
-**You receive:**  [Crate of Defective Arrows](/item/13925)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13925" data-url="13925" class="tooltip-link link">Crate of Defective Arrows</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -196,7 +197,8 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Slip of Parchment](/item/18824)) then 
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/18824" data-url="18824" class="tooltip-link link">A Slip of Parchment</a>) then 
 
 
 >**Guard Weleth says:** Thank you so much for the favor. Please be careful here in Qeynos. I have come to suspect that even some of my fellow guards are not to be trusted - Lieutenant Dagarok, for one.
@@ -205,22 +207,24 @@ if **Faction** >= Indifferent +50 and  **You turn in:** [A Slip of Parchment](/i
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (25)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-3)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-6)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-6</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (2)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+250 exp)
+ &#127873; **You receive:** 0 (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

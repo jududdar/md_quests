@@ -20,7 +20,8 @@
 >**Eysa Florawhisper says:** I seek the following fruits and seeds. A misty acorn, emerald orange, bag of caynar nuts, vineclinger berries, ripened heartfruit, rathe berries, marr cherries, and flarefire seeds.
 
 
-**You receive:**  [Empty Seed Collection Bag](/item/17864)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/17864" data-url="17864" class="tooltip-link link">Empty Seed Collection Bag</a>
 end
 
 ## Turn-Ins
@@ -29,29 +30,37 @@ end
 
 
 
-if( **You turn in:** [Note to Tunares Court](/item/29067)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1134.png" alt="" /> <a
+                                href="/item/29067" data-url="29067" class="tooltip-link link">Note to Tunares Court</a>) then
 
 
 >**Eysa Florawhisper says:** Ahh, why thank you, friend! We are greatful. I believe if we work together, those children of Zek can be driven back in time. Otherwise, survival hangs in the balance, for both of us. Take this token back to the sentry as a symbol of our acceptance.
 
 
-* __Faction:__ [Tunarean Court](/faction/449) (10)
+Your faction standing with [Tunarean Court](/faction/449) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Eysas Token](/item/29623) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/29623" data-url="29623" class="tooltip-link link">Eysas Token</a> 
+
+ 
 
 
 **Eysa Florawhisper despawns.**
 
-elseif( **You turn in:** [Bag of Seeds](/item/24863)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/24863" data-url="24863" class="tooltip-link link">Bag of Seeds</a>) then
 
 
 >**Eysa Florawhisper says:** Ohhhh! You're the sweetest, Soandso. The nymphs of the Tunarean Court recognize you as a friend of our kind and our botanical brethren.
 
 
-* __Faction:__ [Tunarean Court](/faction/449) (20)
+Your faction standing with [Tunarean Court](/faction/449) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Crest of the Wood Nymphs](/item/24864) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/24864" data-url="24864" class="tooltip-link link">Crest of the Wood Nymphs</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

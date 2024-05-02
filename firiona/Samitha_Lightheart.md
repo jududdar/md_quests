@@ -24,7 +24,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Spirit of Scale](/item/19238),  [Spell: Form of the Howler](/item/19244),  [Spell: Circle of Winter](/item/19232),  [Spell: Circle of Summer](/item/19234)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19238" data-url="19238" class="tooltip-link link">Spell: Spirit of Scale</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19244" data-url="19244" class="tooltip-link link">Spell: Form of the Howler</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19232" data-url="19232" class="tooltip-link link">Spell: Circle of Winter</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19234" data-url="19234" class="tooltip-link link">Spell: Circle of Summer</a>}
 
 if(count > 0) then
 
@@ -37,7 +41,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Call of Karana](/item/19235), [Spell: Upheaval](/item/19233), [Spell: Egress](/item/19236), [Spell: Glamour of Tunare](/item/19240)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19235" data-url="19235" class="tooltip-link link">Spell: Call of Karana</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19233" data-url="19233" class="tooltip-link link">Spell: Upheaval</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19236" data-url="19236" class="tooltip-link link">Spell: Egress</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19240" data-url="19240" class="tooltip-link link">Spell: Glamour of Tunare</a>) (+1000 exp)
+
+ 
 
 
 

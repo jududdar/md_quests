@@ -186,31 +186,36 @@ end
 
 
 
-if( **You turn in:** [A Vial of Thick Liquid](/item/3880), [Official Seal of the Hand](/item/3879)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1156.png" alt="" /> <a
+                                href="/item/3880" data-url="3880" class="tooltip-link link">A Vial of Thick Liquid</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/3879" data-url="3879" class="tooltip-link link">Official Seal of the Hand</a>) then
 
 
 >*Ornis Tranum gasps suddenly then falls still.*
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (1)
+Your faction standing with [Seru](/faction/1483) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (-1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [An Empty Poison Vial](/item/3882) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1155.png" alt="" /> <a
+                                href="/item/3882" data-url="3882" class="tooltip-link link">An Empty Poison Vial</a> 
+
+ 
 
 
 **Ornis Tranum despawns.**

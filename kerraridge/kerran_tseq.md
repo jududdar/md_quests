@@ -40,16 +40,20 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Gnome Tinkered Toy](/item/6344)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/6344" data-url="6344" class="tooltip-link link">Gnome Tinkered Toy</a>) then
 
 
 >**kerran tseq says:** Rreeee! Great toy. Shiny. We not need this old toy anymore. You take. Now go way, this our toy, we play.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (4)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:**  [Kerran Toy](/item/13748) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1007.png" alt="" /> <a
+                                href="/item/13748" data-url="13748" class="tooltip-link link">Kerran Toy</a> 
+
+ 
 end
 
 

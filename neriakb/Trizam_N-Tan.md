@@ -70,25 +70,33 @@ local text = "I instructed you to return with no fewer than four pawn picks!";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885), [Orc Pawn Pick](/item/13885)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_768.png" alt="" /> <a
+                                href="/item/13885" data-url="13885" class="tooltip-link link">Orc Pawn Pick</a>) then
 
 
 >**Trizam N-Tan says:** So you have done your part to serve the King. As instructed, I shall reward your good deed. But I choose to reward you with provisions from the pantries of Neriak. They shall keep you strong.
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (10)
+Your faction standing with [Indigo Brotherhood](/faction/270) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (-1)
+Your faction standing with [Emerald Warriors](/faction/326) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (-1)
+Your faction standing with [Steel Warriors](/faction/311) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
 
 
- **You receive:** eq.ChooseRandom( [Rotgrub Rye](/item/13022), [Neriak Nectar](/item/13021)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_832.png" alt="" /> <a
+                                href="/item/13022" data-url="13022" class="tooltip-link link">Rotgrub Rye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_825.png" alt="" /> <a
+                                href="/item/13021" data-url="13021" class="tooltip-link link">Neriak Nectar</a>) (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 2 <img src='/static/icons/item_645.png' width='14' height='14'/> 5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

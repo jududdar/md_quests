@@ -16,7 +16,11 @@ local text = "For storage reasons I'm afraid I can only accept four of these at 
 
 
 
-if( **You turn in:** [Giant Warrior Helmet](/item/29062), [Giant Warrior Helmet](/item/29062), [Giant Warrior Helmet](/item/29062), [Giant Warrior Helmet](/item/29062)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_747.png" alt="" /> <a
+                                href="/item/29062" data-url="29062" class="tooltip-link link">Giant Warrior Helmet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_747.png" alt="" /> <a
+                                href="/item/29062" data-url="29062" class="tooltip-link link">Giant Warrior Helmet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_747.png" alt="" /> <a
+                                href="/item/29062" data-url="29062" class="tooltip-link link">Giant Warrior Helmet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_747.png" alt="" /> <a
+                                href="/item/29062" data-url="29062" class="tooltip-link link">Giant Warrior Helmet</a>) then
 
 
 >**Chamberlain Krystorf says:** Well done, Soandso, the Dain is pleased with your efforts. With a few more brave allies like you, we'll soon be tearing down the halls of Kael Drakkel.
@@ -25,31 +29,45 @@ if( **You turn in:** [Giant Warrior Helmet](/item/29062), [Giant Warrior Helmet]
 
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (50)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Coldain](/faction/406) (50)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (-25)
+Your faction standing with [King Tormax](/faction/429) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:** eq.ChooseRandom( [Coldain Velium Morning Star](/item/30215), [Coldain Velium Rapier](/item/30219), [Coldain Velium Short Sword](/item/30212), [Coldain Velium-Pick](/item/30263)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/30215" data-url="30215" class="tooltip-link link">Coldain Velium Morning Star</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/30219" data-url="30219" class="tooltip-link link">Coldain Velium Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/30212" data-url="30212" class="tooltip-link link">Coldain Velium Short Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_888.png" alt="" /> <a
+                                href="/item/30263" data-url="30263" class="tooltip-link link">Coldain Velium-Pick</a>) (+5000 exp)
 
-elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/1199)) then
+**You receive coin:** 1-20 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/1199" data-url="1199" class="tooltip-link link">Runed Coldain Prayer Shawl</a>) then
 
 
 >**Chamberlain Krystorf says:** One moment the Dain has been waiting for you. I will call for him.. oh here he is now, show your shawl to him.
 
 
- **You receive:**  [Runed Coldain Prayer Shawl](/item/8895) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a> 
+
+ 
 
 
-if(not **You possess item:**  [Empty Coldain Issue Kit](/item/17651) x 1
+if(not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_837.png" alt="" /> <a
+                                href="/item/17651" data-url="17651" class="tooltip-link link">Empty Coldain Issue Kit</a> x 1
 
 
 
- **You receive:**  [Empty Coldain Issue Kit](/item/17651) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_837.png" alt="" /> <a
+                                href="/item/17651" data-url="17651" class="tooltip-link link">Empty Coldain Issue Kit</a> 
+
+ 
 
 
 
@@ -64,12 +82,16 @@ eq.spawn_condition("thurgadinb",3,0);
 eq.spawn_condition("thurgadinb",3,1);
 
 
-elseif( **You turn in:** [Runed Coldain Prayer Shawl](/item/8895)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a>) then
 
 
 >**Chamberlain Krystorf says:** As I stated previously, you should show this to the Dain.
 
 
- **You receive:**  [Runed Coldain Prayer Shawl](/item/8895) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_642.png" alt="" /> <a
+                                href="/item/8895" data-url="8895" class="tooltip-link link">Runed Coldain Prayer Shawl</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

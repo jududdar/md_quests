@@ -43,13 +43,20 @@ end
 
 
 
-if( **You turn in:** [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601), [A Needle Thin Claw](/item/30601)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/30601" data-url="30601" class="tooltip-link link">A Needle Thin Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/30601" data-url="30601" class="tooltip-link link">A Needle Thin Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/30601" data-url="30601" class="tooltip-link link">A Needle Thin Claw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/30601" data-url="30601" class="tooltip-link link">A Needle Thin Claw</a>) then
 
 
 >**Tiamon Aroo says:** Well done! You have brought me plenty of claws. I have enough now to make a needle for you. May it serve you well.
 
 
- **You receive:**  [A Claw Needle](/item/30617) (+750 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_907.png" alt="" /> <a
+                                href="/item/30617" data-url="30617" class="tooltip-link link">A Claw Needle</a> (+750 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

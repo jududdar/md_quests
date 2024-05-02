@@ -51,13 +51,20 @@ end
 
 
 
-if( **You turn in:** [Scroll of Enlightenment](/item/31440), [Scroll of Insight](/item/31442), [Scroll of Knowledge](/item/31441), [Scroll of Power](/item/31439) and **Your level** >= 55) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/31440" data-url="31440" class="tooltip-link link">Scroll of Enlightenment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/31442" data-url="31442" class="tooltip-link link">Scroll of Insight</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/31441" data-url="31441" class="tooltip-link link">Scroll of Knowledge</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/31439" data-url="31439" class="tooltip-link link">Scroll of Power</a> and **Your level** >= 55) then
 
 
 >**Ancient Totem says:** Thank you, friend.  These scrolls will serve us well in the future.  Please take this as a sign of my gratitude.
 
 
- **You receive:**  [Visage of Life](/item/1324) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1062.png" alt="" /> <a
+                                href="/item/1324" data-url="1324" class="tooltip-link link">Visage of Life</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

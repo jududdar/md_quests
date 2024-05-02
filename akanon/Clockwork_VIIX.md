@@ -51,26 +51,37 @@ end
 
 
 
-if ( **You turn in:** [Jeb's Seal](/item/10604)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a>) then
 
 
 >**Clockwork VIIX says:** It is time then, are you ready to get the required components?
 
 
- **You receive:**  [Jeb's Seal](/item/10604) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a> 
+
+ 
 
 
- **You receive:**  [An Enchanters Sack](/item/17861) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17861" data-url="17861" class="tooltip-link link">An Enchanters Sack</a> 
 
-elseif ( **You turn in:** [A Sack For Mizzle](/item/10636)) then
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/10636" data-url="10636" class="tooltip-link link">A Sack For Mizzle</a>) then
 
 
 >**Clockwork VIIX says:** Oh excellent, you have done what is required. Here take this part, and seek the third master, you are well on your way.
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [2nd Piece of Staff](/item/10611) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/10611" data-url="10611" class="tooltip-link link">2nd Piece of Staff</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

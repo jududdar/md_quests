@@ -20,7 +20,8 @@
 >**Enchanter Jolas says:** Enderbite it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon Enchantress Enderbite to test you.
 
 
-**You receive:**  [Practical Uses](/item/18535)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18535" data-url="18535" class="tooltip-link link">Practical Uses</a>
 
 **You say:** `lelulean`
 
@@ -29,14 +30,16 @@
 >**Enchanter Jolas says:** Lelulean it shall be.  Take this book and read it.  When you are finished, hand it back to me and I shall summon Enchantress Lelulean to test you.
 
 
-**You receive:**  [Tempt and Suggestion](/item/18534)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18534" data-url="18534" class="tooltip-link link">Tempt and Suggestion</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Practical Uses](/item/18535)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18535" data-url="18535" class="tooltip-link link">Practical Uses</a>) then 
 
 
 >**Enchanter Jolas says:** Till next time!  Farewell!
@@ -47,7 +50,8 @@ if( **You turn in:** [Practical Uses](/item/18535)) then
 
 **Enchanter Jolas despawns.**
 
-elseif( **You turn in:** [Tempt and Suggestion](/item/18534)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18534" data-url="18534" class="tooltip-link link">Tempt and Suggestion</a>) then 
 
 
 >**Enchanter Jolas says:** Till next time!  Farewell!

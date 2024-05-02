@@ -31,7 +31,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Parchment to Mimtia](/item/10987)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/10987" data-url="10987" class="tooltip-link link">Parchment to Mimtia</a>
 
 
 **You say:** `next task`
@@ -65,36 +66,44 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if (expansion_flag >= 4.0 and  **You turn in:** [Donlixs Short Sword](/item/10991)) then
+if (expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/10991" data-url="10991" class="tooltip-link link">Donlixs Short Sword</a>) then
 
 
 >**Garret Zethkog says:** Ah! Donlix's sword! You have done well to bring this to me... but oh! Look at your corruption seep into it. I think now this sword belongs to you. Use it well.
 
 
- **You receive:**  [Plague Knight Short Sword](/item/11078) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/11078" data-url="11078" class="tooltip-link link">Plague Knight Short Sword</a> 
 
-elseif ( **You turn in:** [Gnome Shadowknight Note](/item/18434)) then 
+ 
+
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/18434" data-url="18434" class="tooltip-link link">Gnome Shadowknight Note</a>) then 
 
 
 >**Garret Zethkog says:** Welcome to the Dark Reflection, Soandso ! Take this tunic as a gift for your desire to serve the will of Bertoxxulous, The Plague Lord. Beware of the followers of Brell Serilis, they would see us members of the Dark Reflection exiled from Ak'Anon.
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (100)
+Your faction standing with [Dark Reflection](/faction/238) got better (<span class='text-success'>+100</span>)
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-10)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-10</span>)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-10)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Deepmuses](/faction/240) (-10)
+Your faction standing with [Deepmuses](/faction/240) got worse (<span class='text-danger'>-10</span>)
 
 
 
- **You receive:**  [Tin Patched Tunic*](/item/13518) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13518" data-url="13518" class="tooltip-link link">Tin Patched Tunic*</a> (+20 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

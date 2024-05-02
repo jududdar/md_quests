@@ -4,16 +4,19 @@
 
 
 
-if **Faction** >= Warmly +50 and  **You turn in:** [Engraved Ring](/item/1681)) then
+if **Faction** >= Warmly +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_617.png" alt="" /> <a
+                                href="/item/1681" data-url="1681" class="tooltip-link link">Engraved Ring</a>) then
 
 
 >**Neh-Ashiir says:** Nothing is left to hide now. You shall have the truth. But truth is not won easily and if you cannot defeat me, you have not the ability to see that vengeance is served. Brace yourself!
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 
 **Spawn NPC:**  [\#Neh\`Ashiir ](/npc/90012) at this location.

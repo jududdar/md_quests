@@ -20,44 +20,54 @@ end
 
 
 
-if( **You turn in:** [Scepter of Storms](/item/9233), [Scroll of the Tempest Eye](/item/9234)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/9233" data-url="9233" class="tooltip-link link">Scepter of Storms</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/9234" data-url="9234" class="tooltip-link link">Scroll of the Tempest Eye</a>) then 
 
 
 >**D-mitrious Irska says:** The Scepter of Storms. . . but how could this be? You have spoken with Shayna, yes? I see that she has found one to retrieve the stolen tome. But what is even more intriguing is the acquisition of the scepter itself. I am impressed and these items represent your deeds better than any arrogant boasting that I hear day in and day out from the other youths of the order. Aaaah and yes, you have the scroll! Well then, we cannot let an opportunity like this slip through our fingers, now can we?'' The mage quickly eyes the scroll before closing his eyes and beginning an arcane chant. The scroll in his hand begins to smolder, although the page is not damaged. A glowing silver image of a swirling storm seems to reflect off the surface of the parchment. Then, the scepter begins to slightly chime and runes begin to magically imbed themselves into the scepter's base. The mage opens his eyes and extends the scepter to you, ''Now then, [shall we continue]?
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (5)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (2)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Scepter of Storms ](/item/17170) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/17170" data-url="17170" class="tooltip-link link">Scepter of Storms </a> (+2000 exp)
 
-elseif( **You turn in:** [Cloudy Azure Sphere](/item/9236), [Essence of the Storm](/item/9235)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/9236" data-url="9236" class="tooltip-link link">Cloudy Azure Sphere</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/9235" data-url="9235" class="tooltip-link link">Essence of the Storm</a>) then 
 
 
 e.self:Emote("studies both items intently, muttering softly to himself at an inaudible tone. Eventually, the mage closes his eyes and begins to chant, the melodic weave of arcane words causing the essence to shimmer with the brilliance of an electrical storm. Slowly, he brings both hands together, sealing the ethereal essence within the magical sphere 
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Orb of Storms](/item/9237) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/9237" data-url="9237" class="tooltip-link link">Orb of Storms</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

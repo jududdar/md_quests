@@ -192,21 +192,30 @@ end
 
 
 
-if( **You turn in:** [Friazs Shopping List](/item/18321)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18321" data-url="18321" class="tooltip-link link">Friazs Shopping List</a>) then
 
 
 >**Friaz Ompir says:** Ahhh... I see that Noril is trying to get out of work. That lad is a lazy one. Not a problem though... you'll do all the same. Here, let me add a few more things to that list, since you look nice and strong. Take this list and my grocery bag and I'll see about scrounging up the beetle horns that Noril's been bugging me about.
 
 
- **You receive:** GiveAll( [Woven Grocery Bag](/item/17606), [Friazs New Shopping List](/item/18322)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/17606" data-url="17606" class="tooltip-link link">Woven Grocery Bag</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18322" data-url="18322" class="tooltip-link link">Friazs New Shopping List</a>) 
 
-if( **You turn in:** [Full Grocery Bag](/item/5548)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/5548" data-url="5548" class="tooltip-link link">Full Grocery Bag</a>) then
 
 
 >**Friaz Ompir says:** I thank you, Soandso. I should make Noril come get these horns himself, but I guess that I can understand what it feels like to be too busy to get everything done. You've been a great help to me today. Give these horns to Noril and tell him that I thank him for your assistance. Take care, young one.
 
 
- **You receive:**  [Bag of Beetle Horns](/item/5549) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/5549" data-url="5549" class="tooltip-link link">Bag of Beetle Horns</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -64,13 +64,17 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Iron Cudgel of the Channeler](/item/5145), [An Iksar Skull](/item/12748), [An Iksar Skull](/item/12750), [An Iksar Skull](/item/12749)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5145" data-url="5145" class="tooltip-link link">Iron Cudgel of the Channeler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12748" data-url="12748" class="tooltip-link link">An Iksar Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12750" data-url="12750" class="tooltip-link link">An Iksar Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12749" data-url="12749" class="tooltip-link link">An Iksar Skull</a>) then
 
 
 >*Hierophant Dexl goes into a trance and speaks with the voice of an ancient. 'You have returned the skulls of the Sisters of Scale. For this you shall be rewarded. Take this hierophant's weapon. May you use it to smite the foes of our people.' Dexl comes out of the trance. 'What?!! Whew. Hey!! Where is my cudgel?*
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
 
@@ -78,7 +82,7 @@ if **Faction** >= Amiable and  **You turn in:** [Iron Cudgel of the Channeler](/
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
 
@@ -86,7 +90,10 @@ if **Faction** >= Amiable and  **You turn in:** [Iron Cudgel of the Channeler](/
 
 
 
- **You receive:**  [Iron Cudgel of the Hierophant](/item/5146) (+140000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5146" data-url="5146" class="tooltip-link link">Iron Cudgel of the Hierophant</a> (+140000 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

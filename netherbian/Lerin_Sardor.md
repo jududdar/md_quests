@@ -20,7 +20,8 @@
 >**Lerin Sardor says:** Great!  If I can get safely to the other side I will give you a small trinket that I was going to sell.  Getting safe passage for the rest of my goods is worth more than the item in itself.  Surely you know a good deal when you hear one.  Take this note, if you agree to the conditions that I get across safely before you get payment return it to me and we will be on our way.
 
 
-**You receive:**  [Unsigned Agreement](/item/5982)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/5982" data-url="5982" class="tooltip-link link">Unsigned Agreement</a>
 end
 
 ## Turn-Ins
@@ -29,13 +30,17 @@ end
 
 
 
-if( **You turn in:** [Unsigned Agreement](/item/5982)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/5982" data-url="5982" class="tooltip-link link">Unsigned Agreement</a>) then
 
 
 >**Lerin Sardor says:** Let us go then, please be alert throughout the cavern.  Once we get to the other side safely give me the signed agreement and you will have your payment.
 
 
- **You receive:**  [Signed Agreement](/item/5983) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/5983" data-url="5983" class="tooltip-link link">Signed Agreement</a> 
+
+ 
 
 
 **Spawn NPC:**  [\#Lerin Sardor](/npc/161008) at this location.

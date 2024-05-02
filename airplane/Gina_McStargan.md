@@ -33,30 +33,49 @@ end
 
 
 
-if( **You turn in:** [Auburn Tessera](/item/20934), [Drake Fang](/item/20834), [Leather Cord](/item/20835)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20934" data-url="20934" class="tooltip-link link">Auburn Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/20834" data-url="20834" class="tooltip-link link">Drake Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_596.png" alt="" /> <a
+                                href="/item/20835" data-url="20835" class="tooltip-link link">Leather Cord</a>) then
 
 
 
 >**Gina McStargan says:** Take this amulet.  You deserve it.
 
 
- **You receive:**  [Amulet of the Fang](/item/27726) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/27726" data-url="27726" class="tooltip-link link">Amulet of the Fang</a> (+100000 exp)
 
-elseif( **You turn in:** [Platinum Disc](/item/20940), [Ethereal Amber](/item/20836), [Shimmering Amber](/item/20837), [Ceremonial Belt](/item/20838)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/20940" data-url="20940" class="tooltip-link link">Platinum Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_951.png" alt="" /> <a
+                                href="/item/20836" data-url="20836" class="tooltip-link link">Ethereal Amber</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_951.png" alt="" /> <a
+                                href="/item/20837" data-url="20837" class="tooltip-link link">Shimmering Amber</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_548.png" alt="" /> <a
+                                href="/item/20838" data-url="20838" class="tooltip-link link">Ceremonial Belt</a>) then 
 
 
 >**Gina McStargan says:** The bracelet of the spirits will fit you well, Soandso.
 
 
- **You receive:**  [Bracelet of the Spirits](/item/27727) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_560.png" alt="" /> <a
+                                href="/item/27727" data-url="27727" class="tooltip-link link">Bracelet of the Spirits</a> (+100000 exp)
 
-elseif( **You turn in:** [Phosphoric Globe](/item/20947), [Sphinx Hide](/item/20839), [Light Damask Mantle](/item/20840)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20947" data-url="20947" class="tooltip-link link">Phosphoric Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/20839" data-url="20839" class="tooltip-link link">Sphinx Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/20840" data-url="20840" class="tooltip-link link">Light Damask Mantle</a>) then 
 
 
 >**Gina McStargan says:** Great work, Soandso! Take this mantle as a token of my respect for you.
 
 
- **You receive:**  [Fairy-Hide Mantle](/item/27728) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/27728" data-url="27728" class="tooltip-link link">Fairy-Hide Mantle</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

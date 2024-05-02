@@ -25,13 +25,17 @@ end
 
 
 
-if( **You turn in:** [Note to Fimli](/item/15980)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/15980" data-url="15980" class="tooltip-link link">Note to Fimli</a>) then 
 
 
 >**Aid Fimli says:** Great! I see you got the items to uncle; perhaps he will stop badgering me now and let me be in my work. Hmmmmm, Uncle mentions in his letter that he worked out a way for a gnome to make a giant set of crab crackers. He states it is useless in Norrath but I may be able to make some use of it out here. I guess it wouldn't hurt to share it with you and file it away in the library. To create the cracker combine two metal rods, firewater and a knuckle joint in a toolbox. Interesting indeed, anyways here if your reward; I hope you can put it to good use.
 
 
- **You receive:**  [Cloak of Lesser Pernicity](/item/15807) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_659.png" alt="" /> <a
+                                href="/item/15807" data-url="15807" class="tooltip-link link">Cloak of Lesser Pernicity</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

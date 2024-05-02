@@ -82,13 +82,17 @@ end
 
 
 
-if (  **You turn in:** [Phobonomicon of Thul Tae Ew](/item/8720) ) then
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/8720" data-url="8720" class="tooltip-link link">Phobonomicon of Thul Tae Ew</a> ) then
 
 
 >**Aqaar Aluram says:** Thank you for returning this to us. I'll secure it until it can be returned for analysis. Please take this as a sign of my appreciation.
 
 
- **You receive:**  [Medallion of the Arcane Scientists](/item/8732) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/8732" data-url="8732" class="tooltip-link link">Medallion of the Arcane Scientists</a> 
+
+ 
 
 
 e.other:GiveCash(0, 0, 0, 1);

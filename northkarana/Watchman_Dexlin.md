@@ -68,11 +68,12 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [empty Tin Box](/item/17986)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17986" data-url="17986" class="tooltip-link link">empty Tin Box</a>
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (-10)
+Your faction standing with [Gem Choppers](/faction/255) got worse (<span class='text-danger'>-10</span>)
 
 
 
@@ -101,28 +102,32 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Box Full of Tiny Bones](/item/12376)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12376" data-url="12376" class="tooltip-link link">Box Full of Tiny Bones</a>) then 
 
 
 >**Watchman Dexlin says:** Good Work. Unfortunately, I must investigate other matters in the name of Ak'anon.  Here.  You deliver the tin box to Lord Jenork of the Gem Choppers.  He shall reward you. Be safe my friend.  I must go now. Farewell.
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (10)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (2)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (2)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-2)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Box of Undead Brownie Bones](/item/12378) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12378" data-url="12378" class="tooltip-link link">Box of Undead Brownie Bones</a> (+10000 exp)
+
+ 
 
 
 **Watchman Dexlin despawns.**

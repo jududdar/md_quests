@@ -141,27 +141,34 @@ local text = "Oh! That's tasty. I guess I could handle a few more.";
 
 
 
-if( **You turn in:** [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799), [Crows Special Brew](/item/13799)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13799" data-url="13799" class="tooltip-link link">Crows Special Brew</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13799" data-url="13799" class="tooltip-link link">Crows Special Brew</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13799" data-url="13799" class="tooltip-link link">Crows Special Brew</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/13799" data-url="13799" class="tooltip-link link">Crows Special Brew</a>) then
 
 
 >**Gharin says:** Oohhh! My head. Stop the pub from spinning. I cannot make it to the Jaggedpine feeling like this. Please take this note to Te'Anara of the Treefolk. Here is a little silver for the favor. Thanks. Ooohhhh..
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (50)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (7)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-7)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-12)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (5)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [A Sealed Letter](/item/18807) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18807" data-url="18807" class="tooltip-link link">A Sealed Letter</a> (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

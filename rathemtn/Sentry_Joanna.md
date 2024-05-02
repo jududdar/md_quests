@@ -41,22 +41,26 @@ end
 
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [A Locket](/item/12312)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1147.png" alt="" /> <a
+                                href="/item/12312" data-url="12312" class="tooltip-link link">A Locket</a>) then
 
 
 >**Sentry Joanna says:** Thank you my friend.  It is good to see him free at last.  I shall miss him.  Here now is the mold of gauntlets as promised. Go and speak with Thomas for information about [Lord Searfire].
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-2)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (20)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Mold of Ro Gauntlets](/item/12302) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12302" data-url="12302" class="tooltip-link link">Mold of Ro Gauntlets</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

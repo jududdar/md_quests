@@ -38,22 +38,26 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Testament of Vanear](/item/13991)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/13991" data-url="13991" class="tooltip-link link">Testament of Vanear</a>) then
 
 
 >**Rarnan Lapice says:** I sent you after that book ages ago! What took you so long? I have already completed my studies. Luckily I found the original manuscript under my bedroll. I forgot I had kept it there. Take this as a token of my apology. Maybe it will aid you in your next book hunt. I know how cunning those books can be.
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (50)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (12)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+12</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (-12)
+Your faction standing with [High Council of Erudin](/faction/266) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:**  [Spell: Languid Pace](/item/15302) (+12500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15302" data-url="15302" class="tooltip-link link">Spell: Languid Pace</a> (+12500 exp)
+
+**You receive coin:** 3 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

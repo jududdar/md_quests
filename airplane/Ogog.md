@@ -39,26 +39,46 @@ end
 
 
 
-if( **You turn in:** [Efreeti Battle Axe](/item/20983), [Honeyed Nectar](/item/20963), [Bottled Djinni](/item/20981), [Ethereal Emerald](/item/20982)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1164.png" alt="" /> <a
+                                href="/item/20983" data-url="20983" class="tooltip-link link">Efreeti Battle Axe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20963" data-url="20963" class="tooltip-link link">Honeyed Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20981" data-url="20981" class="tooltip-link link">Bottled Djinni</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/20982" data-url="20982" class="tooltip-link link">Ethereal Emerald</a>) then 
 
 
 >**Ogog says:** Good job! Ogog give you Fangol for being good smasher!
 
 
- **You receive:**  [Fangol](/item/11675) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1167.png" alt="" /> <a
+                                href="/item/11675" data-url="11675" class="tooltip-link link">Fangol</a> (+100000 exp)
 
-elseif( **You turn in:** [Djinni War Blade](/item/20980), [Virulent Poison](/item/20979), [Mottled Spiroc Feather](/item/20956)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_603.png" alt="" /> <a
+                                href="/item/20980" data-url="20980" class="tooltip-link link">Djinni War Blade</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/20979" data-url="20979" class="tooltip-link link">Virulent Poison</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20956" data-url="20956" class="tooltip-link link">Mottled Spiroc Feather</a>) then 
 
 
 >**Ogog says:** This Dagas, blade of stinging wind. You bash good with this.
 
 
- **You receive:**  [Dagas](/item/11674) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_576.png" alt="" /> <a
+                                href="/item/11674" data-url="11674" class="tooltip-link link">Dagas</a> (+100000 exp)
 
-elseif( **You turn in:** [Efreeti Belt](/item/20976), [Spiroc Wind Totem](/item/20977), [Wind Tablet](/item/20978), [Pegasus Statuette](/item/20949)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/20976" data-url="20976" class="tooltip-link link">Efreeti Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20977" data-url="20977" class="tooltip-link link">Spiroc Wind Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1095.png" alt="" /> <a
+                                href="/item/20978" data-url="20978" class="tooltip-link link">Wind Tablet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/20949" data-url="20949" class="tooltip-link link">Pegasus Statuette</a>) then 
 
 
- **You receive:**  [Belt of the Four Winds](/item/11673) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_503.png" alt="" /> <a
+                                href="/item/11673" data-url="11673" class="tooltip-link link">Belt of the Four Winds</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

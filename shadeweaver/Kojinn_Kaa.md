@@ -19,12 +19,17 @@ end
 
 
 
-if( **You turn in:** [A Heros Shroud](/item/30854)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/30854" data-url="30854" class="tooltip-link link">A Heros Shroud</a>) then
 
 
 >**Kojinn Kaa says:** You have proven yourself a hero of our cause, and so I entrust you with this information: the poachers have set up an outpost in the caves on the outskirts of the thicket. Go and wreak havoc upon this deplorable filth that has mistreated our friends. As a badge of the honor you have earned, construct a champion's robe and have the High Priestess Bast bless it for you. The ceremony will require three drops of the blood of those who would bring harm to the felidae. It will be the High Priestess's honor to receive you.
 
 
- **You receive:** GiveAll( [Champion Cape Pattern](/item/30855), [A Heros Shroud](/item/30854)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/30855" data-url="30855" class="tooltip-link link">Champion Cape Pattern</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/30854" data-url="30854" class="tooltip-link link">A Heros Shroud</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

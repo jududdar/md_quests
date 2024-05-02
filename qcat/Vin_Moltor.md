@@ -34,13 +34,20 @@ local text = "What are you trying to do, cheat me?!  I need three bottles of Kal
 
 
 
-if( **You turn in:** [Bottle of Kalish](/item/13016), [Bottle of Kalish](/item/13016), [Bottle of Kalish](/item/13016), [Rat Ear Pie](/item/13192)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13016" data-url="13016" class="tooltip-link link">Bottle of Kalish</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13016" data-url="13016" class="tooltip-link link">Bottle of Kalish</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_831.png" alt="" /> <a
+                                href="/item/13016" data-url="13016" class="tooltip-link link">Bottle of Kalish</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_783.png" alt="" /> <a
+                                href="/item/13192" data-url="13192" class="tooltip-link link">Rat Ear Pie</a>) then
 
 
 >**Vin Moltor says:** Ah. Come to ol'Vin my dear sweet Kalish.. Mmmm.. And Rat Ear Pie.. I am going to eat and drink like a KING! Huh? Oh.. The Paw.. Here you go.. Hope it brings you more luck then it did me..
 
 
- **You receive:**  [Severed Paw](/item/17014) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/17014" data-url="17014" class="tooltip-link link">Severed Paw</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

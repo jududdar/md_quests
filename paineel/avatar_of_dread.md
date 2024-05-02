@@ -28,28 +28,32 @@ end
 
 
 
-if( **You turn in:** [Mundane Shield](/item/14105)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_805.png" alt="" /> <a
+                                href="/item/14105" data-url="14105" class="tooltip-link link">Mundane Shield</a>) then
 
 
 >**avatar of dread says:** Wear this shield imbued with my very essence. Wear it in honor of your great services to our Lord Cazic-Thule!
 
 
-* __Faction:__ [Heretics](/faction/265) (50)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-50)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-50)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-50)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-50)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-50</span>)
 
 
- **You receive:**  [Dread Forged Shield](/item/14107) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_976.png" alt="" /> <a
+                                href="/item/14107" data-url="14107" class="tooltip-link link">Dread Forged Shield</a> (+1000 exp)
+
+ 
 
 
 **avatar of dread despawns.**

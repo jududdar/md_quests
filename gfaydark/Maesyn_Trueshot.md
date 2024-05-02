@@ -37,7 +37,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Material Pack](/item/17951)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17951" data-url="17951" class="tooltip-link link">Material Pack</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -61,51 +62,59 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Pack of Materials](/item/12112)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12112" data-url="12112" class="tooltip-link link">Pack of Materials</a>) then 
 
 
 >**Maesyn Trueshot says:** I shall see that my father gets the materials. I hope this can be of use to you. It will serve as your starting point toward fletching a Trueshot longbow. It is unfortunate that we are unable to enchant the bow to its [next incarnation], but it is still a fine weapon. You do know the [correct components] needed for fletching such a bow, do you not?
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (5)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (1)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (1)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-1)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Treant Bow Staff](/item/8091) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/8091" data-url="8091" class="tooltip-link link">Treant Bow Staff</a> (+500 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18785)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18785" data-url="18785" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Maesyn Trueshot says:** Hail, Soandso, and welcome.. I am Maesyn Trueshot, leader of Faydark's Champions. I will teach and train you, as I have done for many others. Let's get started.. Here, put this on.. it'll help protect you from the elements. You look pretty bright. Train hard, and I'm sure you'll do well.
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (100)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (25)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (25)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-25)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Dirty Green Tunic*](/item/13536) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13536" data-url="13536" class="tooltip-link link">Dirty Green Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -124,24 +124,29 @@ quest_helper:silk_helmet(THURG_ARMOR.Silk_Turban, 31077),
 local item_lib = require('items');
 
 
-if ( **You turn in:** [Ulthork Meat Pie](/item/1427), [Britas Napkin](/item/1417)) then
+if ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1019.png" alt="" /> <a
+                                href="/item/1427" data-url="1427" class="tooltip-link link">Ulthork Meat Pie</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/1417" data-url="1417" class="tooltip-link link">Britas Napkin</a>) then
 
 
 >**Lorekeeper Brita says:** Ohh, that's better. I get so touchy when I'm hungry. I should probably go apologize to Derrin for being snappy. Please return this to Mordin for me.
 
 
-* __Faction:__ [Coldain](/faction/406) (3)
+Your faction standing with [Coldain](/faction/406) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Dain Frostreaver IV](/faction/405) (1)
+Your faction standing with [Dain Frostreaver IV](/faction/405) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (-1)
+Your faction standing with [Kromrif](/faction/419) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-1)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Used Pie Tin](/item/1424) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1013.png" alt="" /> <a
+                                href="/item/1424" data-url="1424" class="tooltip-link link">Used Pie Tin</a> 
+
+ 
 
 quest_helper:quest_turn_in(e, 3, QUEST_ITEMS, quest_helper.thurg_armor_success)

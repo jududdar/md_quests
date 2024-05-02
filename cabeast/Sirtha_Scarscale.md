@@ -52,42 +52,70 @@ end
 
 
 
-if( **You turn in:** [Sarnak Berserker Head](/item/14822), [Sarnak Knights Sword](/item/14826), [Banded Helm](/item/3053), [Ruby](/item/10035)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/14822" data-url="14822" class="tooltip-link link">Sarnak Berserker Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/14826" data-url="14826" class="tooltip-link link">Sarnak Knights Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3053" data-url="3053" class="tooltip-link link">Banded Helm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
 
 
- **You receive:**  [Dreadscale Helm](/item/4968) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/4968" data-url="4968" class="tooltip-link link">Dreadscale Helm</a> (+10000 exp)
+
+ 
 
 
 
-if( **You turn in:** [Cactus Quills](/item/14828), [Skeletal Feet](/item/14823), [Banded Boots](/item/3064), [Fire Emerald](/item/10033)) then
-
-
->**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
-
-
- **You receive:**  [Dreadscale Boots](/item/4974) (+10000 exp)
-
-
-
-if( **You turn in:** [Skeletal Hand](/item/14825), [Banded Gauntlets](/item/3062), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1033.png" alt="" /> <a
+                                href="/item/14828" data-url="14828" class="tooltip-link link">Cactus Quills</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_794.png" alt="" /> <a
+                                href="/item/14823" data-url="14823" class="tooltip-link link">Skeletal Feet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_545.png" alt="" /> <a
+                                href="/item/3064" data-url="3064" class="tooltip-link link">Banded Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
 
 
- **You receive:**  [Dreadscale Gauntlets](/item/4972) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_779.png" alt="" /> <a
+                                href="/item/4974" data-url="4974" class="tooltip-link link">Dreadscale Boots</a> (+10000 exp)
+
+ 
 
 
 
-if( **You turn in:** [Golra Skin](/item/14830), [Banded Sleeves](/item/3060), [Sapphire](/item/10034), [Sapphire](/item/10034)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/14825" data-url="14825" class="tooltip-link link">Skeletal Hand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_526.png" alt="" /> <a
+                                href="/item/3062" data-url="3062" class="tooltip-link link">Banded Gauntlets</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
 
 
- **You receive:**  [Dreadscale Vambraces](/item/4970) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/4972" data-url="4972" class="tooltip-link link">Dreadscale Gauntlets</a> (+10000 exp)
+
+ 
+
+
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_835.png" alt="" /> <a
+                                href="/item/14830" data-url="14830" class="tooltip-link link">Golra Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3060" data-url="3060" class="tooltip-link link">Banded Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>) then
+
+
+>**Sirtha Scarscale says:** Well done! Here is the item we agreed upon. May Cazic's glorious curses flow through you!
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/4970" data-url="4970" class="tooltip-link link">Dreadscale Vambraces</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

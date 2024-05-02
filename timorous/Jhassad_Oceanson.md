@@ -4,7 +4,10 @@
 
 
 
-if( **You turn in:** [Orb of Clear Water](/item/28048), [Orb of Frozen Water](/item/28049), [Orb of Vapor](/item/28050)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/28048" data-url="28048" class="tooltip-link link">Orb of Clear Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/28049" data-url="28049" class="tooltip-link link">Orb of Frozen Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/28050" data-url="28050" class="tooltip-link link">Orb of Vapor</a>) then 
 
 
 >*Jhassad Oceanson kneels in the sand and places the three orbs into a large abalone shell bowl. A blue glow surrounds his hands as he waves them over the orbs resting in the bowl. The orbs crack and fall apart, releasing their contents, then reform into a single glowing orb. Jhassad Oceanson gently removes the Orb of the Triumvirate and places it in your hands.*
@@ -13,7 +16,10 @@ if( **You turn in:** [Orb of Clear Water](/item/28048), [Orb of Frozen Water](/i
 >**Jhassad Oceanson says:** The Avatar of Water approaches. You must hand him the Orb of the Triumvirate and it will be decided if it is your destiny to wield the Nem Ankh Sprinkler.
 
 
- **You receive:**  [Orb of the Triumvirate](/item/28023) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/28023" data-url="28023" class="tooltip-link link">Orb of the Triumvirate</a> 
+
+ 
 
 
 **Spawn NPC:**  [Avatar of Water](/npc/96086) at (**y:** -11661, **x:** -1886)

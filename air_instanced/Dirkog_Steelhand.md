@@ -78,10 +78,16 @@ if( **You turn in:** platinum = 500) then
 
 **Dirkog Steelhand despawns.**
 
-if( **You turn in:** [Diaphanous Globe](/item/20943), [Ivory Sky Diamond](/item/20869), [Silvery Girdle](/item/20868)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20943" data-url="20943" class="tooltip-link link">Diaphanous Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20869" data-url="20869" class="tooltip-link link">Ivory Sky Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_563.png" alt="" /> <a
+                                href="/item/20868" data-url="20868" class="tooltip-link link">Silvery Girdle</a>) then 
 
 
- **You receive:**  [Girdle of Faith](/item/2716) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_560.png" alt="" /> <a
+                                href="/item/2716" data-url="2716" class="tooltip-link link">Girdle of Faith</a> (+100000 exp)
+
+ 
 
 
 >**Dirkog Steelhand says:** Ye surprised me, Soandso. Wear me girdle with pride!

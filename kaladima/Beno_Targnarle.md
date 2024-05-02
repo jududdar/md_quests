@@ -94,7 +94,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Sealed Note](/item/18935)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18935" data-url="18935" class="tooltip-link link">A Sealed Note</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -193,53 +194,70 @@ local temphandins = 0;
 local text = "Good work, but I require four giant rat pelts.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054), [Giant Rat Pelt](/item/13054)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>) then 
 
 
 >**Beno Targnarle says:** Great work, young one! We shall soon rid our mines of these pests. Keep a lookout for that [metal rat]. Here is a small reward for such fine work. Soon, you shall be know as Kaladim's resident exterminator.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (10)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (2)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-2)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Dwarven Ale](/item/13036), [Rat Pelt Cape](/item/1051), [Small Lantern](/item/13003), [Torch](/item/13002), [Malachite](/item/10015), [Bandages](/item/13009)) (+4200 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_703.png" alt="" /> <a
+                                href="/item/13036" data-url="13036" class="tooltip-link link">Dwarven Ale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/1051" data-url="1051" class="tooltip-link link">Rat Pelt Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_684.png" alt="" /> <a
+                                href="/item/13003" data-url="13003" class="tooltip-link link">Small Lantern</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/13009" data-url="13009" class="tooltip-link link">Bandages</a>) (+4200 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Scrap Metal](/item/13282)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1031.png" alt="" /> <a
+                                href="/item/13282" data-url="13282" class="tooltip-link link">Scrap Metal</a>) then 
 
 
 >**Beno Targnarle says:** I thank you, my friend. I was to destroy this metal monster months ago. I could never find him. Please accept this reward for such good service. Oh yes.. And take this card to a man named [Doran Vargnus]. He is a fine blacksmith. I am sure he will reward you with one of his finest suits of armor. Perhaps you may now assist in an [important Stormguard matter].
 
 
-* __Faction:__ [Storm Guard](/faction/312) (20)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (3)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (5)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-5)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Knight](/item/13995) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_654.png" alt="" /> <a
+                                href="/item/13995" data-url="13995" class="tooltip-link link">Knight</a> (+5000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Eye of Stormhammer](/item/13321)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/13321" data-url="13321" class="tooltip-link link">Eye of Stormhammer</a>) then 
 
 
 
@@ -248,21 +266,24 @@ elseif **Faction** >= Amiable and  **You turn in:** [Eye of Stormhammer](/item/1
 >**Beno Targnarle says:** You've found it! I'm glad you managed to hunt down and return the stolen eye for us, Soandso. Such effort requires a similar reward so take this and use it well.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (20)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (3)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (5)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-5)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Avenger Battle Axe](/item/5415) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_568.png" alt="" /> <a
+                                href="/item/5415" data-url="5415" class="tooltip-link link">Avenger Battle Axe</a> (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

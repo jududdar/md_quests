@@ -703,12 +703,14 @@ eq.set_global("seventh", "1", 5, "F");
 
 
 
-if ( not **You possess item:**  [The Mark of Justice](/item/31599) x 1
+if ( not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/31599" data-url="31599" class="tooltip-link link">The Mark of Justice</a> x 1
 
 
 
 
-e.other:SummonItem( [The Mark of Justice](/item/31599)); 
+e.other:SummonItem( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/31599" data-url="31599" class="tooltip-link link">The Mark of Justice</a>); 
 
 
 

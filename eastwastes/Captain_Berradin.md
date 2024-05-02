@@ -5,7 +5,8 @@
 
 
 
-if( **You turn in:** [Tainted Avalanche Ale](/item/1459)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_585.png" alt="" /> <a
+                                href="/item/1459" data-url="1459" class="tooltip-link link">Tainted Avalanche Ale</a>) then 
 
 
 >**Captain Berradin says:** You gotta be kiddin me, Avalanche Ale? Haven't had a bottle a this stuff in ages. Brell bless you, Soandso! Glug, glug, glug...

@@ -17,7 +17,8 @@ end
 
 
 
-if( **You turn in:** [Spell: Resurrection](/item/15392)) then
+if( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15392" data-url="15392" class="tooltip-link link">Spell: Resurrection</a>) then
 
 
 >**Spirit of Venril Sathir says:** I am alive! My thanks to you, Soandso. And now I will aid you in your quest for preserving the forests of norrath. Your carcass will help nurture the soils of the wilderness.

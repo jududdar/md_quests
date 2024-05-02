@@ -49,7 +49,9 @@ end
 local text = "The deal was - an article of Klunga's and his blood along with my fee of 100 gold coins and you will have his resurrection."
 
 
-if( **You turn in:** [Klunga's Bracelet](/item/12280), [Blood Stained Note](/item/18946),gold = 100) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/12280" data-url="12280" class="tooltip-link link">Klunga's Bracelet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18946" data-url="18946" class="tooltip-link link">Blood Stained Note</a>,gold = 100) then
 
 
 >**Ghilanbiddle Nylwadil says:** Biggily boo, biggily borc.. Raise that stinky orc!! Bamm!! Okay!! It's done. Now all you have to do is find him in the spot where his soul left him and give him an orc shovel. Oh!! I didn't mention that? Oh, well. I'm sure you can find one.. somewhere. Now, get lost before I turn you into a toad!
@@ -58,22 +60,24 @@ if( **You turn in:** [Klunga's Bracelet](/item/12280), [Blood Stained Note](/ite
 
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (5)
+Your faction standing with [Eldritch Collective](/faction/245) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+18000 exp)
+ &#127873; **You receive:** 0 (+18000 exp)
+
+ 
 
 
 **Spawn NPC:**  [Captain Klunga](/npc/70072) at (**y:** -726, **x:** -2133)

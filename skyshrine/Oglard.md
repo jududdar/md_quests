@@ -29,7 +29,7 @@ if( **Faction is** > Warmly) then
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-200)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-200</span>)
 
 
 **You say:** `yes I have`
@@ -100,32 +100,40 @@ end
 
 
 
-if( **You turn in:** [Onyxbrand](/item/1837)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/1837" data-url="1837" class="tooltip-link link">Onyxbrand</a>) then 
 
 
 >*Oglard examines the axe closely. The Wurm's eyes widen as he makes out the name of Garzicor and immediately raises his head to the ceiling, letting out a howl of emotional pain. Your bones shake with the screach, an image of a man in the midst of a rain of his own child's blood comes to mind, the agony is so great. Out of breath, Oglard drops his head and focuses his attention back to you, barely able to hold himself up. He places an urn before you and says, 'You must find his corpse. Find his burial site and summon Garzicor's spirit by speaking your remembrance of him. Speak to him and find out all you can. Return to me with 2 pieces of his corpse combined in that urn. Help us Soandso, you MUST!'*
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
 
- **You receive:**  [Dragon Crafted Urn](/item/17050) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/17050" data-url="17050" class="tooltip-link link">Dragon Crafted Urn</a> (+5000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Dragon Crafted Urn](/item/1887)) then 
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/1887" data-url="1887" class="tooltip-link link">Dragon Crafted Urn</a>) then 
 
 
 >**Oglard says:** Thank you, Soandso. With this urn, our fears are confirmed. His spirit is split, each striving for its own desire. We've decided what must be done. Your help is key in the success of our plans. If you wish to continue what you have started, please take this urn to Eldriaks Fe\`Dhar. He will make known to you our plan.
 
 
- **You receive:**  [Dragon Crafted Urn](/item/2053) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/2053" data-url="2053" class="tooltip-link link">Dragon Crafted Urn</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

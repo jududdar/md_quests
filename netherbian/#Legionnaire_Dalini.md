@@ -40,7 +40,8 @@ end
 
 
 
-if( **You turn in:** [Dawnshroud Cider](/item/29851)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_711.png" alt="" /> <a
+                                href="/item/29851" data-url="29851" class="tooltip-link link">Dawnshroud Cider</a>) then 
 
 
 >**Legionnaire Dalini says:** Dorey usually roams in the troglodyte caves, you might find him there.

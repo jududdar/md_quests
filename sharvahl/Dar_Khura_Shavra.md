@@ -18,15 +18,19 @@ end
 
 
 
-if( **You turn in:** [A Frosted Claw](/item/30961)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/30961" data-url="30961" class="tooltip-link link">A Frosted Claw</a>) then
 
 
 >**Dar Khura Shavra says:** Oh Soandso! This is a whisperling. and she is beautiful! You must find a way to free her of this anchor. Take her to Ragnar. he may know what to do. Let me put her in this bag to keep her safe for now.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [A Frosted Bag](/item/30962) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/30962" data-url="30962" class="tooltip-link link">A Frosted Bag</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

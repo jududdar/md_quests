@@ -59,13 +59,16 @@ end
 
 
 
-if( **You turn in:** [Darkforge Breastplate](/item/3141), [Darkforge Greaves](/item/3145), [Darkforge Helm](/item/3140), platinum = 900) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3141" data-url="3141" class="tooltip-link link">Darkforge Breastplate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_845.png" alt="" /> <a
+                                href="/item/3145" data-url="3145" class="tooltip-link link">Darkforge Greaves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3140" data-url="3140" class="tooltip-link link">Darkforge Helm</a>, platinum = 900) then 
 
 
 >**Kurron Ni says:** Well done, Soandso, I honestly didn't expect to see you again. Yes, yes, this is perfect! My mission is nearly complete!
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
 **Spawn NPC:**  [\#Kurron Ni](/npc/93006) at this location.

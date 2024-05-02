@@ -5,7 +5,8 @@
 
 
 
-if( **You turn in:** [Marching Orders](/item/1093)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/1093" data-url="1093" class="tooltip-link link">Marching Orders</a>) then
 
 
 >**Gloradin Coldheart says:** Thank you. I will return to the Dain and inform him that the battle is underway. Please escort Garadain to the battlefield and see that he returns safely. May Brell bless you and bring you victory over these beasts.

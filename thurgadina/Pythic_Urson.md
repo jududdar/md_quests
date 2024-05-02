@@ -44,12 +44,17 @@ end
 
 
 
-if( **You turn in:** [Fresh Tree Sap](/item/30058), [Bladder of Acidic Ooze](/item/30060)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_693.png" alt="" /> <a
+                                href="/item/30058" data-url="30058" class="tooltip-link link">Fresh Tree Sap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1236.png" alt="" /> <a
+                                href="/item/30060" data-url="30060" class="tooltip-link link">Bladder of Acidic Ooze</a>) then 
 
 
 >*Pythic Urson laughs at you and then takes the sap and bladder.  He mixes the two together and then adds something from a small pouch he carries.  With a quick sizzle he pours some on his boots and the crud melts away.  'See that?  Didnt do anythin but get rid of the crud.   This stuff is great.  It doesnt burn yer skin or valuables.  Here ya go, ya can have the rest.'*
 
 
- **You receive:**  [Dissolving Liquid](/item/30061) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_699.png" alt="" /> <a
+                                href="/item/30061" data-url="30061" class="tooltip-link link">Dissolving Liquid</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

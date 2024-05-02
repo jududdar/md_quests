@@ -350,132 +350,158 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Charred Pearl](/item/10083), [Ruby](/item/10035), [Wand](/item/14160), [Bloodstone](/item/10019)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/10083" data-url="10083" class="tooltip-link link">Charred Pearl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_809.png" alt="" /> <a
+                                href="/item/14160" data-url="14160" class="tooltip-link link">Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/10019" data-url="10019" class="tooltip-link link">Bloodstone</a>) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
 
 
-* __Faction:__ [The Dead](/faction/239) (10)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-1)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-1)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
-
-
-
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
-
-
- **You receive:**  [Words of Allure](/item/11829) (+62000 exp)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
 
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Sphere of Unrest](/item/10520), [Eye of Urd](/item/10523), [Star Rose Quartz](/item/10021)) then
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/11829" data-url="11829" class="tooltip-link link">Words of Allure</a> (+62000 exp)
 
-
->**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
-
-
-* __Faction:__ [The Dead](/faction/239) (10)
-
-
-
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
-
-
-
-* __Faction:__ [King Naythox Thex](/faction/278) (-1)
-
-
-* __Faction:__ [Keepers of the Art](/faction/275) (-1)
-
-
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
-
-
-
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
-
-
- **You receive:**  [Words of Dark Paths](/item/11850) (+62000 exp)
+ 
 
 
 
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Fetid Skin](/item/13150), [Scare Straw](/item/13152), [Turmoil Warts](/item/8331), [Pearl](/item/10024)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10520" data-url="10520" class="tooltip-link link">Sphere of Unrest</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/10523" data-url="10523" class="tooltip-link link">Eye of Urd</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_950.png" alt="" /> <a
+                                href="/item/10021" data-url="10021" class="tooltip-link link">Star Rose Quartz</a>) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
 
 
-* __Faction:__ [The Dead](/faction/239) (10)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-1)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-1)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
-
-
-
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
-
-
- **You receive:**  [Words of Acquisition (Beza)](/item/11866) (+62000 exp)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
 
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Globe of Fear](/item/10521), [Eye of Jin](/item/10525), [Jade](/item/10023)) then
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/11850" data-url="11850" class="tooltip-link link">Words of Dark Paths</a> (+62000 exp)
+
+ 
+
+
+
+
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13150" data-url="13150" class="tooltip-link link">Fetid Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_796.png" alt="" /> <a
+                                href="/item/13152" data-url="13152" class="tooltip-link link">Scare Straw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1106.png" alt="" /> <a
+                                href="/item/8331" data-url="8331" class="tooltip-link link">Turmoil Warts</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_953.png" alt="" /> <a
+                                href="/item/10024" data-url="10024" class="tooltip-link link">Pearl</a>) then
 
 
 >**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
 
 
-* __Faction:__ [The Dead](/faction/239) (10)
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Queen Cristanos Thex](/faction/303) (1)
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [King Naythox Thex](/faction/278) (-1)
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (-1)
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eldritch Collective](/faction/245) (-1)
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Primordial Malice](/faction/1522) (-20)
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
 
 
- **You receive:**  [Words of Obligation](/item/11863) (+62000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/11866" data-url="11866" class="tooltip-link link">Words of Acquisition (Beza)</a> (+62000 exp)
+
+ 
+
+
+
+
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10521" data-url="10521" class="tooltip-link link">Globe of Fear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/10525" data-url="10525" class="tooltip-link link">Eye of Jin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_952.png" alt="" /> <a
+                                href="/item/10023" data-url="10023" class="tooltip-link link">Jade</a>) then
+
+
+>**X-Ta Tompi says:** You have quested well - With spell and sword - Accept our thanks - And this reward.
+
+
+Your faction standing with [The Dead](/faction/239) got better (<span class='text-success'>+10</span>)
+
+
+
+Your faction standing with [Queen Cristanos Thex](/faction/303) got better (<span class='text-success'>+1</span>)
+
+
+
+Your faction standing with [King Naythox Thex](/faction/278) got worse (<span class='text-danger'>-1</span>)
+
+
+Your faction standing with [Keepers of the Art](/faction/275) got worse (<span class='text-danger'>-1</span>)
+
+
+Your faction standing with [Eldritch Collective](/faction/245) got worse (<span class='text-danger'>-1</span>)
+
+
+
+Your faction standing with [Primordial Malice](/faction/1522) got worse (<span class='text-danger'>-20</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/11863" data-url="11863" class="tooltip-link link">Words of Obligation</a> (+62000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

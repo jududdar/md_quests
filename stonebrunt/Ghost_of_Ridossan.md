@@ -18,28 +18,32 @@
 
 
 
-if( **You turn in:** [Idol of Fear](/item/2297)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_893.png" alt="" /> <a
+                                href="/item/2297" data-url="2297" class="tooltip-link link">Idol of Fear</a>) then 
 
 
 >*Ghost of Ridossan takes the idol into his spectral hand and shoves the lance into your arms. After letting go of the lance, the ghost immediately begins to fade away. Before it is gone completely, it looks into your eyes and says, 'Suffer.'*
 
 
-* __Faction:__ [Heretics](/faction/265) (10)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-10)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-10)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-10)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-10)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-10</span>)
 
 
- **You receive:**  [Soulfiend Lance](/item/2099) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/2099" data-url="2099" class="tooltip-link link">Soulfiend Lance</a> 
+
+ 
 
 
 **Stop timer** named *depop*

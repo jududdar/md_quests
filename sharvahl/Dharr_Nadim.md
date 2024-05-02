@@ -280,13 +280,20 @@ end
 
 
 
-if( **You turn in:** [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648), [Shell of a Scorpion](/item/3648)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3648" data-url="3648" class="tooltip-link link">Shell of a Scorpion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3648" data-url="3648" class="tooltip-link link">Shell of a Scorpion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3648" data-url="3648" class="tooltip-link link">Shell of a Scorpion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1246.png" alt="" /> <a
+                                href="/item/3648" data-url="3648" class="tooltip-link link">Shell of a Scorpion</a>) then
 
 
 >**Dharr Nadim says:** Excellent, hopefully my fishing business can start to thrive once again! As I said before you can have this old lure. You won't be able to catch anything with it but maybe you can pawn it off to a jewelry merchant.
 
 
- **You receive:**  [Dharrs Lure](/item/30694) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_534.png" alt="" /> <a
+                                href="/item/30694" data-url="30694" class="tooltip-link link">Dharrs Lure</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

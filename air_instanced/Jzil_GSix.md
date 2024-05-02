@@ -42,36 +42,54 @@ end
 
 
 
-if( **You turn in:** [Verdant Tessera](/item/20932), [Ebon Shard](/item/20780), [Griffons Beak](/item/20781)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20932" data-url="20932" class="tooltip-link link">Verdant Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/20780" data-url="20780" class="tooltip-link link">Ebon Shard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1098.png" alt="" /> <a
+                                href="/item/20781" data-url="20781" class="tooltip-link link">Griffons Beak</a>) then 
 
 
 
 >**Jzil GSix says:** Very good. Now take this and leave me.
 
 
- **You receive:**  [Bloody Griffon-Hide Wrist Guard](/item/27712) (+1000000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_560.png" alt="" /> <a
+                                href="/item/27712" data-url="27712" class="tooltip-link link">Bloody Griffon-Hide Wrist Guard</a> (+1000000 exp)
+
+ 
 
 
 **Jzil GSix despawns.**
 
-elseif( **You turn in:** [Silver Disc](/item/20938), [Spiroc Feathers](/item/20782), [Black Silk Cape](/item/20783)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/20938" data-url="20938" class="tooltip-link link">Silver Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20782" data-url="20782" class="tooltip-link link">Spiroc Feathers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_842.png" alt="" /> <a
+                                href="/item/20783" data-url="20783" class="tooltip-link link">Black Silk Cape</a>) then 
 
 
 >**Jzil GSix says:** This feathered cape should be more than enough payment, now be gone from my sight!
 
 
- **You receive:**  [Cloak of Spiroc Feathers](/item/1278) (+1000000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/1278" data-url="1278" class="tooltip-link link">Cloak of Spiroc Feathers</a> (+1000000 exp)
+
+ 
 
 
 **Jzil GSix despawns.**
 
-elseif( **You turn in:** [Rugous Globe](/item/20945), [Djinni Blood](/item/20784), [Fine Cloth Raiment](/item/20785)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20945" data-url="20945" class="tooltip-link link">Rugous Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20784" data-url="20784" class="tooltip-link link">Djinni Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_842.png" alt="" /> <a
+                                href="/item/20785" data-url="20785" class="tooltip-link link">Fine Cloth Raiment</a>) then 
 
 
 >**Jzil GSix says:** Very good. Now take this and leave me.
 
 
- **You receive:**  [Bloodsoaked Raiment](/item/1279) (+1000000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1279" data-url="1279" class="tooltip-link link">Bloodsoaked Raiment</a> (+1000000 exp)
+
+ 
 
 
 **Jzil GSix despawns.**

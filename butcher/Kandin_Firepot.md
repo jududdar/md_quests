@@ -19,7 +19,8 @@ if **Faction** >= Apprehensive +40 then
 
 
 
-**You receive:**  [Golem Sprocket](/item/14319)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_731.png" alt="" /> <a
+                                href="/item/14319" data-url="14319" class="tooltip-link link">Golem Sprocket</a>
 
 
 else
@@ -44,15 +45,17 @@ end
 
 
 
-if( **You turn in:** [Note from Arantir](/item/18169)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18169" data-url="18169" class="tooltip-link link">Note from Arantir</a>) then
 
 
 >**Kandin Firepot says:** Brother! I have one of those. He's great, but he's dead. His name was Gabstik and he was a really powerful wizard. I still have one of his greatest possesions! You look like you could use it. I've added another thing to my shopping list. I require a dry brittle skin that I can mold or a rare oil found in the planes that I can soak the fuse in. Get me one of these things and I'll trade it for my bother's stick.
 
 
-* __Faction:__ [Truespirit](/faction/404) (10)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+10</span>)
 
-elseif( **You turn in:** [Green Oil](/item/14349)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_697.png" alt="" /> <a
+                                href="/item/14349" data-url="14349" class="tooltip-link link">Green Oil</a>) then
 
 
 if **Faction** >= Apprehensive +40 then
@@ -63,15 +66,21 @@ if **Faction** >= Apprehensive +40 then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (10)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+10</span>)
 
 
 
- **You receive:**  [Staff of Gabstik](/item/14339) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_887.png" alt="" /> <a
+                                href="/item/14339" data-url="14339" class="tooltip-link link">Staff of Gabstik</a> 
+
+ 
 
 
 
- **You receive:**  [Note to Arantir](/item/18168) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18168" data-url="18168" class="tooltip-link link">Note to Arantir</a> 
+
+ 
 
 
 else
@@ -82,7 +91,10 @@ else
 
 
 
- **You receive:**  [Green Oil](/item/14349) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_697.png" alt="" /> <a
+                                href="/item/14349" data-url="14349" class="tooltip-link link">Green Oil</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

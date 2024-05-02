@@ -130,11 +130,13 @@ end
 
 
 
-if ( not **You possess item:**  [Amorphous Cloud of Air](/item/29164) x 1
+if ( not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_948.png" alt="" /> <a
+                                href="/item/29164" data-url="29164" class="tooltip-link link">Amorphous Cloud of Air</a> x 1
 
 
 
-**You receive:**  [Amorphous Cloud of Air](/item/29164)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_948.png" alt="" /> <a
+                                href="/item/29164" data-url="29164" class="tooltip-link link">Amorphous Cloud of Air</a>
 
 
 

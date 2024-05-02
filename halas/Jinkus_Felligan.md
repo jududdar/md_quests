@@ -42,7 +42,9 @@ end
 
 
 
-if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink](/item/12619)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/12621" data-url="12621" class="tooltip-link link">Mammoth Hide Parchment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12619" data-url="12619" class="tooltip-link link">Vial of Datura Ink</a>) then 
 
 
 
@@ -53,7 +55,7 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
 
@@ -70,7 +72,7 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
 
@@ -87,7 +89,7 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -104,7 +106,7 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -121,7 +123,7 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -138,8 +140,10 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
- **You receive:**  [Wanted Poster](/item/12620) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/12620" data-url="12620" class="tooltip-link link">Wanted Poster</a> (+100 exp)
 
+ 
 
 
 
@@ -149,7 +153,9 @@ if( **You turn in:** [Mammoth Hide Parchment](/item/12621), [Vial of Datura Ink]
 
 
 
-elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/12622" data-url="12622" class="tooltip-link link">List of Qeynos Most Wanted</a>) then
 
 
 
@@ -159,7 +165,7 @@ elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (25)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+25</span>)
 
 
 
@@ -175,7 +181,7 @@ elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (3)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+3</span>)
 
 
 
@@ -192,7 +198,7 @@ elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-3)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-3</span>)
 
 
 
@@ -209,7 +215,7 @@ elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-3)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-3</span>)
 
 
 
@@ -226,7 +232,7 @@ elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-5)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-5</span>)
 
 
 
@@ -243,7 +249,10 @@ elseif( **You turn in:** [List of Qeynos Most Wanted](/item/12622)) then
 
 
 
- **You receive:**  [Initiate Symbol of the Tribunal](/item/1376) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/1376" data-url="1376" class="tooltip-link link">Initiate Symbol of the Tribunal</a> (+1000 exp)
+
+ 
 
 
 

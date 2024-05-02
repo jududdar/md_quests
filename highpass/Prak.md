@@ -38,53 +38,60 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Letter for Prak](/item/18795)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18795" data-url="18795" class="tooltip-link link">Letter for Prak</a>) then
 
 
 >**Prak says:** Hmm, I see. We think we've found out who the mole is in Carson's guards, some guy named Stald. We need to get rid of this guy as quickly, and as quietly, as possible. Carson doesn't want to cause a stink by eliminating one of his own men, so he asked us to do it. What about you? Do you think [you could get rid of Stald] for us?
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (50)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (37)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-12)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (50)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (50)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+50</span>)
 
 
 **Spawn NPC:**  [Guard Stald](/npc/5119) at (**y:** 127, **x:** 464)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif **Faction** >= Amiable +100 and  **You turn in:** [Stald's Badge](/item/13793)) then
+ 
+
+elseif **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/13793" data-url="13793" class="tooltip-link link">Stald's Badge</a>) then
 
 
 >**Prak says:** Ah, boy! Looks like I owe Kaden two plat... I thought you'd fumble it up for sure. Well, you've impressed me friend. Here, take this back to Zan... I'll make sure note your fine works to Carson, too, next time we speak.
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (50)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (37)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+37</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-12)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (50)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (50)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+50</span>)
 
 
- **You receive:**  [Message to Zannsin](/item/18028) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18028" data-url="18028" class="tooltip-link link">Message to Zannsin</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

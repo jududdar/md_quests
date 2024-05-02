@@ -90,7 +90,8 @@ if( **Faction is** > Amiable) then
 
 
 
-**You receive:**  [Letter for Prak](/item/18795)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18795" data-url="18795" class="tooltip-link link">Letter for Prak</a>
 
 
 else
@@ -106,28 +107,32 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Message to Zannsin](/item/18028)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18028" data-url="18028" class="tooltip-link link">Message to Zannsin</a>) then
 
 
 >**Zannsin Resdinet says:** Great work, Soandso... The Circle is very pleased with your performance of late, and as a small reward for our more trusted members, I give you this... the cloak of the Unseen Hands. It's good to know that we can count on you to get the job done... here, Soandso, go relax and have some wine, on me.
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (125)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+125</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-18)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-18</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (18)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+18</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-18)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-18</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (12)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+12</span>)
 
 
- **You receive:**  [Black Leather Cloak](/item/1048) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/1048" data-url="1048" class="tooltip-link link">Black Leather Cloak</a> (+0 exp)
+
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 3 <img src='/static/icons/item_645.png' width='14' height='14'/> 6 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

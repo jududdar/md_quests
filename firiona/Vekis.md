@@ -8,7 +8,8 @@
 
 
 
-if( **You turn in:** [Daeliones Implant](/item/14815)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_951.png" alt="" /> <a
+                                href="/item/14815" data-url="14815" class="tooltip-link link">Daeliones Implant</a>) then
 
 
 >**Vekis says:** I believe Streaven and his buddy Frode is waiting on the bridge,  Please get his head and return to Grik and 3 rubies for your reference.

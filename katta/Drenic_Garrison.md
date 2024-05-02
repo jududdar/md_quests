@@ -59,7 +59,11 @@ local text = "I require three organs from the snake people.";
 
 
 
-if( **You turn in:** [Muck Beetle Mandible](/item/10412), [Black Fungal Fiend Spores](/item/10413), [Green Fungal Fiend Spores](/item/10414), [Grimfang Poison Sac](/item/10415)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/10412" data-url="10412" class="tooltip-link link">Muck Beetle Mandible</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1234.png" alt="" /> <a
+                                href="/item/10413" data-url="10413" class="tooltip-link link">Black Fungal Fiend Spores</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1233.png" alt="" /> <a
+                                href="/item/10414" data-url="10414" class="tooltip-link link">Green Fungal Fiend Spores</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/10415" data-url="10415" class="tooltip-link link">Grimfang Poison Sac</a>) then
 
 
 
@@ -68,32 +72,38 @@ if( **You turn in:** [Muck Beetle Mandible](/item/10412), [Black Fungal Fiend Sp
 >**Drenic Garrison says:** Excellent work, the Loyalist Empire is grateful for your assistance. Governor Maralicis and I will have our researchers resume their work on curing Luclin of its diseases.
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (5)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Mug of Purifying Tonic](/item/31743) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/31743" data-url="31743" class="tooltip-link link">Mug of Purifying Tonic</a> (+5000 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [Shissar Organs](/item/10416), [Shissar Organs](/item/10416), [Shissar Organs](/item/10416)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/10416" data-url="10416" class="tooltip-link link">Shissar Organs</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/10416" data-url="10416" class="tooltip-link link">Shissar Organs</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/10416" data-url="10416" class="tooltip-link link">Shissar Organs</a>) then
 
 
 
@@ -102,27 +112,30 @@ elseif( **You turn in:** [Shissar Organs](/item/10416), [Shissar Organs](/item/1
 >**Drenic Garrison says:** Excellent work Soandso! The acquisition of these organs is a fantastic accomplishment!
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (10)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-2)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Amulet of the Grey Wastes](/item/31744) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/31744" data-url="31744" class="tooltip-link link">Amulet of the Grey Wastes</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -52,13 +52,14 @@ end
 
 
 
-if( **You turn in:** [Shainais Bag](/item/4460)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
+                                href="/item/4460" data-url="4460" class="tooltip-link link">Shainais Bag</a>) then
 
 
 >*Delival looks at what you handed him as his face turns to rage, 'What is... this... this is the box I sent Shainai out with!  Where is she?  What have you done?  You stole from my little girl!!  Maybe worst!!!!!'*
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (-1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got worse (<span class='text-danger'>-1</span>)
 
 **This NPC *should* return incorrect items given.**
 

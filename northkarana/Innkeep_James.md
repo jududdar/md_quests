@@ -14,50 +14,56 @@ end
 
 
 
-if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/1839" data-url="1839" class="tooltip-link link">Full Muffin Crate</a>) then  
 
 
 >**Innkeep James says:** Ah, praise Karana! These muffins look good enough to eat, har har har! Here is your payment and you have my deepest gratitude. We have to stick together in these times of turmoil you know.
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (2)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/1838" data-url="1838" class="tooltip-link link">Bag of Bread Loaves</a>) then  
 
 
 >**Innkeep James says:** Ah finally, fresh bread! All right let me get this on the shelves right away. Here is your payment.
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (4)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+**You receive coin:** 1-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

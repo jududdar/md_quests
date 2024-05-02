@@ -101,45 +101,80 @@ end
 
 
 
-if **Faction** >= Kindly and  **You turn in:** [Black Tear](/item/31262), [White Tear](/item/31261), [Runed Tear](/item/31263), [Glowing Drake Orb](/item/31260)) then 
+if **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31262" data-url="31262" class="tooltip-link link">Black Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31261" data-url="31261" class="tooltip-link link">White Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31263" data-url="31263" class="tooltip-link link">Runed Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/31260" data-url="31260" class="tooltip-link link">Glowing Drake Orb</a>) then 
 
 
 FactionHits(e);
 
 
- **You receive:**  [Mask of the Silver Eyes](/item/31463) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_772.png" alt="" /> <a
+                                href="/item/31463" data-url="31463" class="tooltip-link link">Mask of the Silver Eyes</a> (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Flame Kissed Tear](/item/31267), [Poison Tear](/item/31266), [Serrated Tear](/item/31265), [Silver Tear](/item/31264)) then 
+ 
 
-
-FactionHits(e);
-
-
- **You receive:**  [Silver Mask of the Slayer](/item/31464) (+20000 exp)
-
-elseif **Faction** >= Kindly and  **You turn in:** [Ruby Symbol](/item/31259), [Ruby Tear](/item/31270), [Silver Symbol](/item/31253), [White Symbol](/item/31250)) then 
-
-
-FactionHits(e);
-
-
- **You receive:**  [Silver Charm of Tranquility](/item/31460) (+20000 exp)
-
-elseif **Faction** >= Kindly and  **You turn in:** [Black Symbol](/item/31251), [Platinum Tear](/item/31269), [Runed Symbol](/item/31252), [Serrated Symbol](/item/31254)) then 
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31267" data-url="31267" class="tooltip-link link">Flame Kissed Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31266" data-url="31266" class="tooltip-link link">Poison Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31265" data-url="31265" class="tooltip-link link">Serrated Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31264" data-url="31264" class="tooltip-link link">Silver Tear</a>) then 
 
 
 FactionHits(e);
 
 
- **You receive:**  [Silver Bracelet of Speed](/item/31461) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_772.png" alt="" /> <a
+                                href="/item/31464" data-url="31464" class="tooltip-link link">Silver Mask of the Slayer</a> (+20000 exp)
 
-elseif **Faction** >= Kindly and  **You turn in:** [Emerald Symbol](/item/31257), [Emerald Tear](/item/31268), [Flame Kissed Symbol](/item/31256), [Poison Symbol](/item/31255)) then 
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31259" data-url="31259" class="tooltip-link link">Ruby Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31270" data-url="31270" class="tooltip-link link">Ruby Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31253" data-url="31253" class="tooltip-link link">Silver Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31250" data-url="31250" class="tooltip-link link">White Symbol</a>) then 
 
 
 FactionHits(e);
 
 
- **You receive:**  [Buckler of Insight](/item/31462) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/31460" data-url="31460" class="tooltip-link link">Silver Charm of Tranquility</a> (+20000 exp)
+
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31251" data-url="31251" class="tooltip-link link">Black Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31269" data-url="31269" class="tooltip-link link">Platinum Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31252" data-url="31252" class="tooltip-link link">Runed Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31254" data-url="31254" class="tooltip-link link">Serrated Symbol</a>) then 
+
+
+FactionHits(e);
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_521.png" alt="" /> <a
+                                href="/item/31461" data-url="31461" class="tooltip-link link">Silver Bracelet of Speed</a> (+20000 exp)
+
+ 
+
+elseif **Faction** >= Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31257" data-url="31257" class="tooltip-link link">Emerald Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/31268" data-url="31268" class="tooltip-link link">Emerald Tear</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31256" data-url="31256" class="tooltip-link link">Flame Kissed Symbol</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/31255" data-url="31255" class="tooltip-link link">Poison Symbol</a>) then 
+
+
+FactionHits(e);
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/31462" data-url="31462" class="tooltip-link link">Buckler of Insight</a> (+20000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -147,8 +182,8 @@ function FactionHits(e)
 
 >**Lendiniara the Keeper says:** You have done well, ".. e.other:Race() .. ". You have proven that you are strong, but do you dare enter those halls again?
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (75)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+75</span>)
 
-* __Faction:__ [Yelinak](/faction/436) (18)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+18</span>)
 
-* __Faction:__ [Kromzek](/faction/448) (-37)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-37</span>)

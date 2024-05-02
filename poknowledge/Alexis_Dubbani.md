@@ -28,12 +28,16 @@ end
 
 
 
-if( **You turn in:** [Collection of Books](/item/28081)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/28081" data-url="28081" class="tooltip-link link">Collection of Books</a>) then
 
 
 >**Alexis Dubbani says:** These volumes will add to my collection greatly! You are too kind to have done this task for me, please accept this gift with my thanks.
 
 
- **You receive:**  [Fine Antique Locket](/item/28240) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1147.png" alt="" /> <a
+                                href="/item/28240" data-url="28240" class="tooltip-link link">Fine Antique Locket</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

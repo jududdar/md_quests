@@ -21,13 +21,20 @@ end
 
 
 
-if( **You turn in:** [Element of Earth](/item/28032), [Element of Fire](/item/28009), [Element of Water](/item/28006), [Element of Wind](/item/28033)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/28032" data-url="28032" class="tooltip-link link">Element of Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/28009" data-url="28009" class="tooltip-link link">Element of Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/28006" data-url="28006" class="tooltip-link link">Element of Water</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/28033" data-url="28033" class="tooltip-link link">Element of Wind</a>) then
 
 
 >**Master of Elements says:** You... are.. balanced... and.. powerful.. for.. a.. mortal... Soandso ..... Soandso. More.. so.. than.... Magi'kot. But.... you.. are.. not.. yet.. ready.. to.. transcend.. transcend... this.. mortal.. coil. Take.. take.. seize.. this.. Orb... for.. you.. are.. worthy.. of.. reward.. and.. with... the.. aid.. of... the... balance.. balance.. contained.. within.. the.. Orb.. you.. may.. yet.. reach.. the... ultimate... Mastery.
 
 
- **You receive:**  [Spell: Summon Orb](/item/19436) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19436" data-url="19436" class="tooltip-link link">Spell: Summon Orb</a> 
+
+ 
 
 
 **Master of Elements despawns.**

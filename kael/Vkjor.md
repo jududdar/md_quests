@@ -61,7 +61,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Large Note](/item/25102)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/25102" data-url="25102" class="tooltip-link link">Large Note</a>
 
 
 elseif( **Faction is** > Dubious) then
@@ -87,24 +88,30 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Bloody Claw of Jerigozia](/item/25128), [Bloody Claw of Draazak](/item/25129), [Bloody Claw of Veredenia](/item/25127)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25128" data-url="25128" class="tooltip-link link">Bloody Claw of Jerigozia</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25129" data-url="25129" class="tooltip-link link">Bloody Claw of Draazak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/25127" data-url="25127" class="tooltip-link link">Bloody Claw of Veredenia</a>) then 
 
 
 >*Vkjor looks down at you, shocked. 'I honestly did not expect you to be able to destroy her children, Soandso. Vkjrog must have guided your hand as you slew those beasts. Nevederia will now know sorrow the like of which she has never felt.' Vkjor drops a shiny pair of gauntlets on the ground before you as he turns his attention to the bloody claws he now holds.'*
 
 
-* __Faction:__ [Kromzek](/faction/448) (75)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (18)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+18</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (18)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+18</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-37)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-37</span>)
 
 
- **You receive:**  [Silver Steel Gauntlets](/item/25078) (+75000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_530.png" alt="" /> <a
+                                href="/item/25078" data-url="25078" class="tooltip-link link">Silver Steel Gauntlets</a> (+75000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

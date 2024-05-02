@@ -44,19 +44,25 @@ end
 
 
 
-if( **You turn in:** [Mark of Agility](/item/7879), [Mark of Patience](/item/7880), [Mark of Clarity](/item/7881)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7879" data-url="7879" class="tooltip-link link">Mark of Agility</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7880" data-url="7880" class="tooltip-link link">Mark of Patience</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a>) then
 
 
 >**Veltar says:** So you are finally ready for the final rung. Here it is, you shall receive mine for I quest for the fists of Cazic Thule no longer.
 
 
- **You receive:**  [Shackle of Tynnonium](/item/4199) (+60000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_671.png" alt="" /> <a
+                                href="/item/4199" data-url="4199" class="tooltip-link link">Shackle of Tynnonium</a> (+60000 exp)
+
+ 
 
 
-* __Faction:__ [Swift Tails](/faction/444) (100)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (25)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+25</span>)
 
 **This NPC *should* return incorrect items given.**
 

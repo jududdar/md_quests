@@ -35,7 +35,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [Dark Blessed Box](/item/17245)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17245" data-url="17245" class="tooltip-link link">Dark Blessed Box</a>
 
 
 **You say:** `important item`
@@ -63,7 +64,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Armguard Mold](/item/22613)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22613" data-url="22613" class="tooltip-link link">An Enchanted Armguard Mold</a>
 
 
 **You say:** `boot`
@@ -75,7 +77,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Boot Mold](/item/22612)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22612" data-url="22612" class="tooltip-link link">An Enchanted Boot Mold</a>
 
 
 **You say:** `bracer`
@@ -87,7 +90,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Bracer Mold](/item/22611)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22611" data-url="22611" class="tooltip-link link">An Enchanted Bracer Mold</a>
 
 
 **You say:** `breastplate`
@@ -99,7 +103,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Breastplate Mold](/item/22616)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22616" data-url="22616" class="tooltip-link link">An Enchanted Breastplate Mold</a>
 
 
 **You say:** `gauntlet`
@@ -111,7 +116,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Gauntlet Mold](/item/22615)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22615" data-url="22615" class="tooltip-link link">An Enchanted Gauntlet Mold</a>
 
 
 **You say:** `greave`
@@ -123,7 +129,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Greaves Mold](/item/22614)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22614" data-url="22614" class="tooltip-link link">An Enchanted Greaves Mold</a>
 
 
 **You say:** `helm`
@@ -135,7 +142,8 @@ elseif(e.other:GetClass() == 2 and e.other:GetRace() == 6 and eq.get_current_exp
 
 
 
-**You receive:**  [An Enchanted Helm Mold](/item/22610)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/22610" data-url="22610" class="tooltip-link link">An Enchanted Helm Mold</a>
 
 
 **You say:** `final test`
@@ -160,13 +168,19 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [A Tattered Journal pg 1](/item/22617), [A Tattered Journal pg 2](/item/22618), [A Tattered Journal pg 3](/item/22619)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22617" data-url="22617" class="tooltip-link link">A Tattered Journal pg 1</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22618" data-url="22618" class="tooltip-link link">A Tattered Journal pg 2</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/22619" data-url="22619" class="tooltip-link link">A Tattered Journal pg 3</a>) then
 
 
 >**High Priestess Alexandria says:** Your prowess both in the classroom and on the battlefield has certainly amazed me. Please take this relic that is only presented to the most dedicated initiates and carry it with pride. You have made your house very proud on this day.
 
 
- **You receive:**  [Mace of the Darkpriest](/item/22698) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/22698" data-url="22698" class="tooltip-link link">Mace of the Darkpriest</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

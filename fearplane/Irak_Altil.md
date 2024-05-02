@@ -60,13 +60,18 @@ end
 
 
 
-if( **You turn in:** [Mark of Atonement](/item/29010), [Fiery Avenger](/item/11050)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/29010" data-url="29010" class="tooltip-link link">Mark of Atonement</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/11050" data-url="11050" class="tooltip-link link">Fiery Avenger</a>) then
 
 
 >*Irak Altil screams so loudly it echoes across the valley as the mark and flames of your holy sword touch his rotted bones. As his body twists he quiets and then speaks. 'Your selflessness has made it possible to redeem my honor. With the cleansing of my corruption your own soul has been strengthened. Your power comes from your devotion to your god and with this you have been rewarded. Remember always your purity, devotion, and why you have sacrificed. I must go now to sacrifice myself upon the spear of pain.'*
 
 
- **You receive:**  [Fiery Defender](/item/10099) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/10099" data-url="10099" class="tooltip-link link">Fiery Defender</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

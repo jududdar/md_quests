@@ -28,7 +28,8 @@
 >**Jeremy Leafrunner says:** Thanks a bunch, I really appreciate it! Here take this to her. Her name is Elishia.
 
 
-**You receive:**  [Letter to Elishia](/item/8969)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/8969" data-url="8969" class="tooltip-link link">Letter to Elishia</a>
 end
 
 ## Turn-Ins
@@ -37,21 +38,22 @@ end
 
 
 
-if( **You turn in:** [Letter to Jeremy](/item/8970)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/8970" data-url="8970" class="tooltip-link link">Letter to Jeremy</a>) then 
 
 
 >**Jeremy Leafrunner says:** Thank you very much!
 
 
-* __Faction:__ [Residents of Jaggedpine](/faction/1597) (10)
+Your faction standing with [Residents of Jaggedpine](/faction/1597) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (5)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 **This NPC *should* return incorrect items given.**

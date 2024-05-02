@@ -62,7 +62,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Worn Note](/item/20472)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/20472" data-url="20472" class="tooltip-link link">Worn Note</a>
 
 
 else
@@ -78,7 +79,8 @@ end
 if( **Faction is** > Indifferent) then
 
 
-if( **You turn in:** [Dark Metal Coin](/item/20447)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/20447" data-url="20447" class="tooltip-link link">Dark Metal Coin</a>) then
 
 
 
@@ -86,10 +88,14 @@ if( **You turn in:** [Dark Metal Coin](/item/20447)) then
 
 
 
- **You receive:**  [Worn Dark Metal Coin](/item/20448) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_647.png" alt="" /> <a
+                                href="/item/20448" data-url="20448" class="tooltip-link link">Worn Dark Metal Coin</a> 
+
+ 
 
 
-elseif( **You turn in:** [Warmly Glowing Stone](/item/20468)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/20468" data-url="20468" class="tooltip-link link">Warmly Glowing Stone</a>) then
 
 
 
@@ -97,10 +103,14 @@ elseif( **You turn in:** [Warmly Glowing Stone](/item/20468)) then
 
 
 
- **You receive:**  [Ancient Longsword](/item/20477) (+1000000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20477" data-url="20477" class="tooltip-link link">Ancient Longsword</a> (+1000000 exp)
+
+ 
 
 
-elseif( **You turn in:** [Refined Ancient Sword](/item/20481)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20481" data-url="20481" class="tooltip-link link">Refined Ancient Sword</a>) then
 
 
 
@@ -108,7 +118,10 @@ elseif( **You turn in:** [Refined Ancient Sword](/item/20481)) then
 
 
 
- **You receive:**  [Refined Ancient Sword](/item/20481) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/20481" data-url="20481" class="tooltip-link link">Refined Ancient Sword</a> 
+
+ 
 
 
 

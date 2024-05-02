@@ -40,14 +40,18 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Sharp Tooth](/item/6347)) then
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_803.png" alt="" /> <a
+                                href="/item/6347" data-url="6347" class="tooltip-link link">Sharp Tooth</a>) then
 
 
 >**Thalith Mamluk says:** You.. You kill the rats? Errr. Thalith thanks you. Here. Take this. It's good luck charm I've had for years.
 
 
-* __Faction:__ [Kerra Isle](/faction/382) (2)
+Your faction standing with [Kerra Isle](/faction/382) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Fishbone Necklace](/item/1061) (+18000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1054.png" alt="" /> <a
+                                href="/item/1061" data-url="1061" class="tooltip-link link">Fishbone Necklace</a> (+18000 exp)
+
+ 
 end

@@ -26,12 +26,16 @@ end
 
 
 
-if( **You turn in:** [Locked Tome of Dark Power](/item/28741)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28741" data-url="28741" class="tooltip-link link">Locked Tome of Dark Power</a>) then 
 
 
 >*Elder Tal Almad looks the book over carefully, 'This is a most interesting find indeed. You seek to break the seal that surrounds this tome? This may take some time, please be patient.' As he waves his hand over the lock and mumbles a few syllables, the clasp instantly falls open. With a surprised look he says, 'That was odd, the seal was easier to break then I thought it would be. It's almost. . . Well, it's almost as if the book had a will to be opened. I sense much power inside this tome, you best be careful with it.' He hands the book back to you.*
 
 
- **You receive:**  [Unlocked Tome of Dark Power](/item/28742) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28742" data-url="28742" class="tooltip-link link">Unlocked Tome of Dark Power</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

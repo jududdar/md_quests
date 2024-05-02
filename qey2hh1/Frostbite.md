@@ -14,7 +14,8 @@ end
 
 
 
-if( **You turn in:** [Regurgitonic](/item/12139)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/12139" data-url="12139" class="tooltip-link link">Regurgitonic</a>) then
 
 
 >*Frostbite spits something into your hand.*
@@ -24,23 +25,27 @@ if( **You turn in:** [Regurgitonic](/item/12139)) then
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (2)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Koalindl Fish](/item/13383) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_786.png" alt="" /> <a
+                                href="/item/13383" data-url="13383" class="tooltip-link link">Koalindl Fish</a> 
 
-elseif( **You turn in:** [Sweaty Shirt](/item/12226)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/12226" data-url="12226" class="tooltip-link link">Sweaty Shirt</a>) then
 
 
 >*Frostbite takes a whiff of the sweaty shirt and barks.*

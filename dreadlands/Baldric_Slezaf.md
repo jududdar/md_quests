@@ -50,13 +50,20 @@ end
 
 
 
-if( **You turn in:** [Maestro's Symphony Page 24 Top](/item/20376), [Maestro's Symphony Page 24 Bottom](/item/20383), [Maestros Symphony Page 25](/item/20377), [Mystical Lute](/item/20538)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/20376" data-url="20376" class="tooltip-link link">Maestro's Symphony Page 24 Top</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
+                                href="/item/20383" data-url="20383" class="tooltip-link link">Maestro's Symphony Page 24 Bottom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/20377" data-url="20377" class="tooltip-link link">Maestros Symphony Page 25</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/20538" data-url="20538" class="tooltip-link link">Mystical Lute</a>) then
 
 
 >*Baldric Slezaf looks shocked as you hand him the pages and the mystical lute. 'I will put on a symphony the likes of which the gods have never seen. Thank you so much, Soandso. Please take this sword as a token of my gratitude.*
 
 
- **You receive:**  [Singing Short Sword](/item/20542) (+350000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_882.png" alt="" /> <a
+                                href="/item/20542" data-url="20542" class="tooltip-link link">Singing Short Sword</a> (+350000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

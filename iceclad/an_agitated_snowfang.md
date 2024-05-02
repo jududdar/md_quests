@@ -14,7 +14,10 @@
 
 
 
- **You receive:**  [Chapter P](/item/30042) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/30042" data-url="30042" class="tooltip-link link">Chapter P</a> 
+
+ 
 
 
 **Stop timer** named *depop*

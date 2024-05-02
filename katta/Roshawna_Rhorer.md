@@ -34,7 +34,8 @@
 >**Roshawna Rhorer says:** The only way for a tormented undead Vah Shir to be put to rest is to destroy its body and take its skull to Shar Vahl where our spiritualists can perform a ritual to cleanse and free the imprisoned spirit. Fill this chest with skulls and return it to me and I will make the preparations for it to be sent to Shar Vahl.  The spiritualists there have just recently received word of the situation and will be prepared to perform the proper rituals when the time comes.
 
 
-**You receive:**  [Runed Iron Bound Chest](/item/17079)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17079" data-url="17079" class="tooltip-link link">Runed Iron Bound Chest</a>
 end
 
 ## Turn-Ins
@@ -43,29 +44,39 @@ end
 
 
 
-if( **You turn in:** [Sealed Runed Iron Bound Chest](/item/31836)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/31836" data-url="31836" class="tooltip-link link">Sealed Runed Iron Bound Chest</a>) then
 
 
 >*Roshawna Rhorer purrs an incantation and waves her claws back and forth over the chest. The runes inscribed on the chest and iron bands begin to softly glow with a golden light. 'You have done a great service for these poor souls. I have sent for a courier to come for the chest of skulls but he is quite late in his arrival. I will keep it safe until the courier arrives.*
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (5)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a> exp)
+
+**You receive coin:** 7 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Spawn NPC:**  [a vah shir courier](/npc/160171) at (**y:** 665, **x:** -544)
 
-elseif( **You turn in:** [Resealed Runed Iron Bound Chest](/item/31839)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/31839" data-url="31839" class="tooltip-link link">Resealed Runed Iron Bound Chest</a>) then 
 
 
 >**Roshawna Rhorer says:** It appears this situation is much more dire than we had first presumed. It would be unsafe to send this crate within the walls of Shar Vahl should another innocent be possessed and the tormented vah shir be resurrected once more. I shall scribe a note explaining the occurrences for you to deliver along with the crate to Spiritist Roleko at the vah shir outpost in Grimling Forest.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (2)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** GiveAll( [Resealed Warded Iron Bound Chest](/item/31840), [Roshawna's Report of Occurrences](/item/31841)) (+10000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/31840" data-url="31840" class="tooltip-link link">Resealed Warded Iron Bound Chest</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/31841" data-url="31841" class="tooltip-link link">Roshawna's Report of Occurrences</a>) (+ <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
+                                href="/item/10000" data-url="10000" class="tooltip-link link">Lambent Stone</a> exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -125,7 +125,8 @@ end
 
 
 
-if( **You turn in:** [Water Flask](/item/13006)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>) then
 
 
 >**Guard Lasen says:** Oh, thank you so much!' Lasen brings the drink to his lips and ravenously drinks the bottle's entire contents, ' Aaaaah. Here, please take this reward for your kindness.  Also take my advice, do not go exploring beneath Qeynos unless you bring friends.  I have seen too many like you enter the aqueducts alone, never to return.
@@ -134,19 +135,19 @@ if( **You turn in:** [Water Flask](/item/13006)) then
 e.other:SendSound(141);
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
 e.other:GiveCash(math.random(5),0,0,0);

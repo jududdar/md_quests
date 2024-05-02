@@ -14,7 +14,8 @@
 >**Master Niska says:** You dare disgrace us?' She hisses at you. 'If you have truely lost the marking of our caste, you will need to take this note and speak to the Toilmaster immediately. Read it on the way and praise the will of Cazic Thule.
 
 
-**You receive:**  [A Ragged Book](/item/18271)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18271" data-url="18271" class="tooltip-link link">A Ragged Book</a>
 
 **You say:** `yes`
 
@@ -109,7 +110,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Tin Box](/item/12829)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12829" data-url="12829" class="tooltip-link link">A Tin Box</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -136,78 +138,84 @@ local text1 = "Tsk, tsk, tsk. There were more of Talon's Fists than this. Only b
 local text2 = "This is not all. Bring me the item this caste seeks and the shackles of stone and rock.";
 
 
-if **Faction** >= Amiable and  **You turn in:** [Iksar Right Hand =|-](/item/12797), [Iksar Left Hand =|-](/item/12798), [Iksar Left Hand =|-](/item/12799)) then
-
-
->*Master Niska removes a crudley hewn shackle. 'This is yours. It is one of the keys to the third rung. I see that you are truely a great monk and have studied your disciplines well. I have need of one as you. I have heard of [troubles with an outlander].'*
-
-
-* __Faction:__ [Swift Tails](/faction/444) (10)
-
-
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
-
-
- **You receive:**  [Shackle of Rock](/item/4193) (+20000 exp)
-
-
-elseif **Faction** >= Amiable and  **You turn in:** [An Outlander's Head](/item/12821), [Shackle of Stone](/item/4192), [Shackle of Rock](/item/4193)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/12821" data-url="12821" class="tooltip-link link">An Outlander's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1235.png" alt="" /> <a
+                                href="/item/4192" data-url="4192" class="tooltip-link link">Shackle of Stone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1235.png" alt="" /> <a
+                                href="/item/4193" data-url="4193" class="tooltip-link link">Shackle of Rock</a>) then
 
 
 >**Master Niska says:** Very good!! Here is your Shackle of Copper. The Emperor shall be pleased that I, Mistress Niska, have slain the outlander. Do you have some time? I need someone to be my [personal courier]. Will you?
 
 
-* __Faction:__ [Swift Tails](/faction/444) (10)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Shackle of Copper](/item/4194) (+40000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/4194" data-url="4194" class="tooltip-link link">Shackle of Copper</a> (+40000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
-elseif( **You turn in:** [Light Grey Tome](/item/18466), [Kromdul Bracelet](/item/22921)) then
-
-
->*Master Niska smiles at your dedication to Cazic Thule and hands you a small gem.*
-
-
-* __Faction:__ [Swift Tails](/faction/444) (5)
-
-
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
-
-
- **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
-
-
-elseif( **You turn in:** [Greyed Tome](/item/18465), [Ring of the Construct](/item/22920)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18466" data-url="18466" class="tooltip-link link">Light Grey Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1055.png" alt="" /> <a
+                                href="/item/22921" data-url="22921" class="tooltip-link link">Kromdul Bracelet</a>) then
 
 
 >*Master Niska smiles at your dedication to Cazic Thule and hands you a small gem.*
 
 
-* __Faction:__ [Swift Tails](/faction/444) (5)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Mark of Clarity](/item/7881) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a> (+20000 exp)
 
-elseif( **You turn in:** [Rites of Exoneration](/item/18272), [Filled Penance Bag](/item/24770)) then
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
+                                href="/item/18465" data-url="18465" class="tooltip-link link">Greyed Tome</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_875.png" alt="" /> <a
+                                href="/item/22920" data-url="22920" class="tooltip-link link">Ring of the Construct</a>) then
+
+
+>*Master Niska smiles at your dedication to Cazic Thule and hands you a small gem.*
+
+
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+5</span>)
+
+
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/7881" data-url="7881" class="tooltip-link link">Mark of Clarity</a> (+20000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18272" data-url="18272" class="tooltip-link link">Rites of Exoneration</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/24770" data-url="24770" class="tooltip-link link">Filled Penance Bag</a>) then
 
 
 >**Master Niska says:** You dare disgrace us?' She hisses at you. 'If you have truly lost the marking of our caste, you will need to take this note and speak to the Toilmaster immediately. Read it on the way and praise the will of Cazic-Thule.
 
 
-* __Faction:__ [Swift Tails](/faction/444) (100)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (25)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Shackle of Dust](/item/4190) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/4190" data-url="4190" class="tooltip-link link">Shackle of Dust</a> (+500 exp)
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

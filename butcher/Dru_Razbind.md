@@ -55,7 +55,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Chalice Case - empty](/item/17976)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/17976" data-url="17976" class="tooltip-link link">Chalice Case - empty</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -77,7 +78,8 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Cape of Underfoot](/item/12281)) then
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_658.png" alt="" /> <a
+                                href="/item/12281" data-url="12281" class="tooltip-link link">Cape of Underfoot</a>) then
 
 
 >**Dru Razbind says:** I thank you, my friend. You are truly a great paladin and noble addition to our ranks. I now can walk in Kaladim. Take this as a reward. It is the Holy Partisan of Underfoot. It is now yours. I believe it still has a couple of charges. Use it wisely as the only cleric able to recharge it was lost amid the lava filled lands of Antonica.
@@ -86,18 +88,21 @@ if( **Faction is** > Indifferent and  **You turn in:** [Cape of Underfoot](/item
 
 
 
-* __Faction:__ [Paladins of Underfoot](/faction/297) (10)
+Your faction standing with [Paladins of Underfoot](/faction/297) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (7)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Clerics of Underfoot](/faction/227) (10)
+Your faction standing with [Clerics of Underfoot](/faction/227) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Veeshan](/faction/216) (1)
+Your faction standing with [Veeshan](/faction/216) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Holy Partisan of Underfoot](/item/5376) (+7500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5376" data-url="5376" class="tooltip-link link">Holy Partisan of Underfoot</a> (+7500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

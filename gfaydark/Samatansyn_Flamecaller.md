@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Trueshot Assembly Kit](/item/17367)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17367" data-url="17367" class="tooltip-link link">Trueshot Assembly Kit</a>
 
 
 **You say:** `coif`
@@ -41,7 +42,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Coif Pattern](/item/22671)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22671" data-url="22671" class="tooltip-link link">An Enchanted Coif Pattern</a>
 
 
 **You say:** `bracer`
@@ -53,7 +55,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22672)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22672" data-url="22672" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `sleeve`
@@ -65,7 +68,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22673)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22673" data-url="22673" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `boot`
@@ -77,7 +81,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Boots Pattern](/item/22674)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22674" data-url="22674" class="tooltip-link link">An Enchanted Boots Pattern</a>
 
 
 **You say:** `legplates`
@@ -89,7 +94,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Legplates Pattern](/item/22675)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22675" data-url="22675" class="tooltip-link link">An Enchanted Legplates Pattern</a>
 
 
 **You say:** `gauntlet`
@@ -101,7 +107,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gauntlets Pattern](/item/22676)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22676" data-url="22676" class="tooltip-link link">An Enchanted Gauntlets Pattern</a>
 
 
 **You say:** `tunic`
@@ -113,7 +120,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Tunic Pattern](/item/22677)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22677" data-url="22677" class="tooltip-link link">An Enchanted Tunic Pattern</a>
 
 
 **You say:** `favor`
@@ -141,13 +149,19 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Master Crushbone Cell Key](/item/27539), [Orc Eye](/item/13266), [Orc Eye](/item/13266)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/27539" data-url="27539" class="tooltip-link link">Master Crushbone Cell Key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/13266" data-url="13266" class="tooltip-link link">Orc Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_859.png" alt="" /> <a
+                                href="/item/13266" data-url="13266" class="tooltip-link link">Orc Eye</a>) then 
 
 
 >**Samatansyn Flamecaller says:** Well done, Soandso! Now we will be able to free more of our brothers and sisters from the orcs! Take this, as promised, a fine weapon with which to slay more orcs!!
 
 
- **You receive:**  [Faydark Champions Long Sword](/item/27532) (+7000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/27532" data-url="27532" class="tooltip-link link">Faydark Champions Long Sword</a> (+7000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

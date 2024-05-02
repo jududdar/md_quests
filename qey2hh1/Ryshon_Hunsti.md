@@ -34,7 +34,8 @@ e.self:Say(string.format("Hello, %s. What brings you to the Karanas? Do you seek
 >**Ryshon Hunsti says:** I see.  Then take this note to Kanthuk Ogrebane. I've been told he can be found fishing not far from the dwarven city.
 
 
-**You receive:**  [Note to Kanthuk](/item/2416)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/2416" data-url="2416" class="tooltip-link link">Note to Kanthuk</a>
 end
 
 

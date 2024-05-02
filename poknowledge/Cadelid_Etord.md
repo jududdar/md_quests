@@ -9,7 +9,8 @@
 e.self:DoAnim(70);
 
 
-if(**You possess item:**  [Beginner Magic Manual](/item/28795) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28795" data-url="28795" class="tooltip-link link">Beginner Magic Manual</a> x 1
 
 
 
@@ -30,7 +31,9 @@ end
 
 
 
-if( **You turn in:** [Beginner Magic Manual](/item/28795), [Heart of Vhaksiz](/item/28801)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28795" data-url="28795" class="tooltip-link link">Beginner Magic Manual</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/28801" data-url="28801" class="tooltip-link link">Heart of Vhaksiz</a>) then
 
 
 >**Cadelid Etord says:** I say, Soandso, you have certainly proven yourself, and I am quite proud of you. I believe your time has come, take this and when you are ready, speak to Zalil Nyvin. And remember, difficult tasks are put in our way not to stop us, but to call out our strength and resolve.
@@ -39,6 +42,9 @@ if( **You turn in:** [Beginner Magic Manual](/item/28795), [Heart of Vhaksiz](/i
 
 
 
- **You receive:**  [Intermediate Magic Manual](/item/28796) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28796" data-url="28796" class="tooltip-link link">Intermediate Magic Manual</a> (+500000 exp)
+
+**You receive coin:** 0-10 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

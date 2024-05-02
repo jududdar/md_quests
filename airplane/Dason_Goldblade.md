@@ -20,7 +20,8 @@
 >**Dason Goldblade says:** Gregori is a true and faithful warrior of Tunare.  Read this book and, when you feel confident, hand it back to me.  I will summon Gregori to test you after you have done so.
 
 
-**You receive:**  [Virtuous Knight](/item/18526)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18526" data-url="18526" class="tooltip-link link">Virtuous Knight</a>
 
 **You say:** `Dirkog`
 
@@ -29,14 +30,16 @@
 >**Dason Goldblade says:** Dirkog is a gruff one, but his faith is what all paladins should strive to equal.  Read this book and return it to me.  After you have done so, I shall summon Dirkog to test you.
 
 
-**You receive:**  [Walk with Evil](/item/18527)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18527" data-url="18527" class="tooltip-link link">Walk with Evil</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Virtuous Knight](/item/18526)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18526" data-url="18526" class="tooltip-link link">Virtuous Knight</a>) then 
 
 
 >**Dason Goldblade says:** Farewell.
@@ -47,7 +50,8 @@ if( **You turn in:** [Virtuous Knight](/item/18526)) then
 
 **Dason Goldblade despawns.**
 
-elseif( **You turn in:** [Walk with Evil](/item/18527)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18527" data-url="18527" class="tooltip-link link">Walk with Evil</a>) then 
 
 
 >**Dason Goldblade says:** Farewell.

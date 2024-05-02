@@ -123,20 +123,30 @@ end
 
 
 
-if( **You turn in:** [Wolf Fang Necklace](/item/8258), [Bear Fang Necklace](/item/8261), [Panther Fang Necklace](/item/8257)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/8258" data-url="8258" class="tooltip-link link">Wolf Fang Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/8261" data-url="8261" class="tooltip-link link">Bear Fang Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1237.png" alt="" /> <a
+                                href="/item/8257" data-url="8257" class="tooltip-link link">Panther Fang Necklace</a>) then
 
 
 >*Oracle Jaarl puts the necklaces around his neck as his body shakes, causing the various bits and pieces of bone and tooth to clatter loudly. 'Ah yes! I feel the power flowing through me, I am ever closer to the spirit world! I thank you for your devotion to the temple!'*
 
 
-* __Faction:__ [Anchorites of Brell Serilis](/faction/1598) (100)
+Your faction standing with [Anchorites of Brell Serilis](/faction/1598) got better (<span class='text-success'>+100</span>)
 
-elseif **Faction** >= Amiable +250 and  **You turn in:** [Treant Finger](/item/8268), [Griffon Skull](/item/8267), [Griffon Down](/item/8266), [Diseased Bear Liver](/item/8265)) then
+elseif **Faction** >= Amiable +250 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_601.png" alt="" /> <a
+                                href="/item/8268" data-url="8268" class="tooltip-link link">Treant Finger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/8267" data-url="8267" class="tooltip-link link">Griffon Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_755.png" alt="" /> <a
+                                href="/item/8266" data-url="8266" class="tooltip-link link">Griffon Down</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_820.png" alt="" /> <a
+                                href="/item/8265" data-url="8265" class="tooltip-link link">Diseased Bear Liver</a>) then
 
 
 >**Oracle Jaarl says:** Very well. These will do just fine. Here, it is finished. Take this and smite your enemies with terrible disease.
 
 
- **You receive:**  [Rod of Ulceration](/item/8071) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/8071" data-url="8071" class="tooltip-link link">Rod of Ulceration</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

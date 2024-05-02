@@ -36,7 +36,8 @@ wait = 1;
 >**Ennixy Frennor says:** Wormwood? Why do you want that? OH nevermind. Here! Take it and leave me alone! You're wasting my valuable time!
 
 
-**You receive:**  [Sprig of Wormwood](/item/10265)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_583.png" alt="" /> <a
+                                href="/item/10265" data-url="10265" class="tooltip-link link">Sprig of Wormwood</a>
 end
 
 ## Timer(s)

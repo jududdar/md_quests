@@ -65,7 +65,8 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Diseased Wolf Pelt](/item/13949)) then
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13949" data-url="13949" class="tooltip-link link">Diseased Wolf Pelt</a>) then
 
 
 >**Priestess Caulria says:** I see you have rid our land of a beast tainted with the blood of Bertoxxulous. The Prime Healer shall look favorably upon your soul. Here is our thanks and just in case the beast may have bitten you...
@@ -77,25 +78,28 @@ if **Faction** >= Apprehensive and  **You turn in:** [Diseased Wolf Pelt](/item/
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (5)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-1)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+7250 exp)
+ &#127873; **You receive:** 0 (+7250 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Putrid Bear Hide](/item/13298)) then
+ 
+
+elseif **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13298" data-url="13298" class="tooltip-link link">Putrid Bear Hide</a>) then
 
 
 >**Priestess Caulria says:** Oh dear. The disease has spread to the realm of the Treefolk. It must have been difficult to kill such a large and rabid beast. Here. Take one of my personal scrolls as thanks for such a brave act of devotion. I pray you can use it. If not, then perhaps one of your fellow adventurers can.
@@ -107,25 +111,29 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Putrid Bear Hide](/ite
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (20)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (6)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (10)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-5)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
 
- **You receive:**  [Spell: Endure Disease](/item/15226) (+35350 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15226" data-url="15226" class="tooltip-link link">Spell: Endure Disease</a> (+35350 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [Fleshy Orb](/item/13950)) then
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/13950" data-url="13950" class="tooltip-link link">Fleshy Orb</a>) then
 
 
 >**Priestess Caulria says:** This is odd. This could explain the increase in the number of beasts within the lands surrounding Qeynos. You must take this to Freeport. Here. You must speak with Lorme Tredore. Show him this pellet. You had best gear up for the trip. Freeport is very far away. Here is some gold. Outfit yourself at our expense.
@@ -134,22 +142,25 @@ elseif **Faction** >= Apprehensive and  **You turn in:** [Fleshy Orb](/item/1395
 
 
 
-* __Faction:__ [Priests of Life](/faction/341) (10)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (3)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-2)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (1)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Fleshy Orb](/item/13951) (+9350 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_767.png" alt="" /> <a
+                                href="/item/13951" data-url="13951" class="tooltip-link link">Fleshy Orb</a> (+9350 exp)
+
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

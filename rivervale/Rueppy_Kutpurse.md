@@ -59,37 +59,43 @@ end
 
 
 
-if( **You turn in:** [Short Beer](/item/13032)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_828.png" alt="" /> <a
+                                href="/item/13032" data-url="13032" class="tooltip-link link">Short Beer</a>) then 
 
 
 >**Rueppy Kutpurse says:** Oh, thank you.  AH! That sure is good. Not as good as a [Blackburrow stout], but what is?
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable +200 and  **You turn in:** [Case of Blackburrow Stout](/item/13131)) then 
+elseif **Faction** >= Amiable +200 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/13131" data-url="13131" class="tooltip-link link">Case of Blackburrow Stout</a>) then 
 
 
 >**Rueppy Kutpurse says:** Heh heh! You did it! I thought the deputies would get you for sure! I mean... You did it! Heh! Here buy yourself a drink on me.
 
 
-* __Faction:__ [Deeppockets](/faction/241) (10)
+Your faction standing with [Deeppockets](/faction/241) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (-1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (1)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

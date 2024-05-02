@@ -60,33 +60,71 @@ if( **You turn in:** gold = 30) then
 >**Rathmana Allin says:** Good luck, my friend. May Solusek Ro guide your hand.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Force Shock](/item/15022), [Spell: Bind Affinity](/item/15035), [Spell: Lightning Bolt](/item/15038), [Spell: Quickness](/item/15039), [Spell: Whirl till you hurl](/item/15303), [Spell: Column of Fire](/item/15328), [Spell: Engulfing Darkness](/item/15355), [Spell: Banshee Aura](/item/15364), [Spell: Lifedraw](/item/15445), [Spell: Charm](/item/15300), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360), [Rotted Illegible Scroll](/item/13360)) (+100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15022" data-url="15022" class="tooltip-link link">Spell: Force Shock</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15035" data-url="15035" class="tooltip-link link">Spell: Bind Affinity</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15038" data-url="15038" class="tooltip-link link">Spell: Lightning Bolt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15039" data-url="15039" class="tooltip-link link">Spell: Quickness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15303" data-url="15303" class="tooltip-link link">Spell: Whirl till you hurl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15328" data-url="15328" class="tooltip-link link">Spell: Column of Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15355" data-url="15355" class="tooltip-link link">Spell: Engulfing Darkness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15364" data-url="15364" class="tooltip-link link">Spell: Banshee Aura</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15445" data-url="15445" class="tooltip-link link">Spell: Lifedraw</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15300" data-url="15300" class="tooltip-link link">Spell: Charm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>) (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-20 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-100 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-100 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 
 
 
-elseif ( **You turn in:** [Bayle List I](/item/18808), [Bayle List II](/item/18809), [Bayle List III](/item/18810), gold = 20) then 
+elseif ( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18808" data-url="18808" class="tooltip-link link">Bayle List I</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18809" data-url="18809" class="tooltip-link link">Bayle List II</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18810" data-url="18810" class="tooltip-link link">Bayle List III</a>, gold = 20) then 
 
 
 >**Rathmana Allin says:** A simple code. Why do you even bother Rathmana with such child's play? Here is your translation. That was the easiest twenty gold coins I ever earned.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (5)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
- **You receive:**  [Bayle List](/item/18825) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18825" data-url="18825" class="tooltip-link link">Bayle List</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

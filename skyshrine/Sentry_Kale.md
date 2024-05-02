@@ -20,21 +20,25 @@ end
 
 
 
-if( **You turn in:** [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080), [Velium Spider Leg](/item/29080)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/29080" data-url="29080" class="tooltip-link link">Velium Spider Leg</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/29080" data-url="29080" class="tooltip-link link">Velium Spider Leg</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/29080" data-url="29080" class="tooltip-link link">Velium Spider Leg</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/29080" data-url="29080" class="tooltip-link link">Velium Spider Leg</a>) then
 
 
 >**Sentry Kale says:** Excellent work, Soandso. Here is your payment. I will also reward you for any more you bring.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
 
@@ -42,7 +46,10 @@ if(math.random(1,5) == 1) then
 
 
 
- **You receive:**  [Ring of the Chameleon](/item/29063) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_607.png" alt="" /> <a
+                                href="/item/29063" data-url="29063" class="tooltip-link link">Ring of the Chameleon</a> 
+
+ 
 
 
 
@@ -50,6 +57,8 @@ note = Item not always given.
 
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 0-10 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

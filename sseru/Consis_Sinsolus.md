@@ -186,33 +186,37 @@ end
 
 
 
-if( **You turn in:** [A Heavy Coin](/item/3878)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/3878" data-url="3878" class="tooltip-link link">A Heavy Coin</a>) then
 
 
 >*Consis Sinsolus turns to look at you for a moment, but does not appear to notice that you made the swap.*
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (5)
+Your faction standing with [Hand of Seru](/faction/1484) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (1)
+Your faction standing with [Seru](/faction/1483) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (6)
+Your faction standing with [Hand Legionnaries](/faction/1541) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-2)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (-1)
+Your faction standing with [Magus Conlegium](/faction/1504) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Official Seal of the Hand](/item/3879) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/3879" data-url="3879" class="tooltip-link link">Official Seal of the Hand</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

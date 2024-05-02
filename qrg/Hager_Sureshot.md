@@ -107,45 +107,56 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18709)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18709" data-url="18709" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Hager Sureshot says:** Welcome, we are the Protectors of the Pine. Wear this tunic of our guild, and help us defend our great and beautiful woods. Go to Larsk Juton, he will help train you and teach you the power of the woods.
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (100)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (25)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Sabertooths of Blackburrow](/faction/306) (-15)
+Your faction standing with [Sabertooths of Blackburrow](/faction/306) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (25)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+25</span>)
 
 
- **You receive:**  [Mud Stained Tunic*](/item/13509) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13509" data-url="13509" class="tooltip-link link">Mud Stained Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Barbarian Head](/item/13913)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/13913" data-url="13913" class="tooltip-link link">Barbarian Head</a>) then
 
 
 >**Hager Sureshot says:** His days of hunting are over. In the name of the Protectors of the Pine, I offer you this reward. If you are unable to make use of it, you may sell it. I suggest you hold onto it. If you are a ranger it will come in handy.
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (20)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Sabertooths of Blackburrow](/faction/306) (-3)
+Your faction standing with [Sabertooths of Blackburrow](/faction/306) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:** eq.ChooseRandom( [Tailored Quiver](/item/17804), [Wooden Shield](/item/9006), [Buckler](/item/9001), [Hunting Bow](/item/8011)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_725.png" alt="" /> <a
+                                href="/item/17804" data-url="17804" class="tooltip-link link">Tailored Quiver</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9006" data-url="9006" class="tooltip-link link">Wooden Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/9001" data-url="9001" class="tooltip-link link">Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/8011" data-url="8011" class="tooltip-link link">Hunting Bow</a>) (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

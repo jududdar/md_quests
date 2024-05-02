@@ -51,34 +51,46 @@ end
 local text = "OK! Now, where is the rest?";
 
 
-if( **You turn in:** [Polar Bear Skin](/item/13761),platinum = 5) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_835.png" alt="" /> <a
+                                href="/item/13761" data-url="13761" class="tooltip-link link">Polar Bear Skin</a>,platinum = 5) then 
 
 
 >**Karg IceBear says:** Here is your polar bear cloak! It will serve you well and keep you warm even in the coldest conditions. Farewell, friend
 
 
 
- **You receive:**  [Polar Bear Cloak](/item/2912) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_839.png" alt="" /> <a
+                                href="/item/2912" data-url="2912" class="tooltip-link link">Polar Bear Cloak</a> 
 
-elseif( **You turn in:** [Werewolf Pelt](/item/13714),platinum = 100) then 
+ 
 
-
->**Karg IceBear says:** It has been a long time since I crafted items from werewolves. I hope this aids you in your journeys. Farewell, friend, until we meet again.
-
-
-
- **You receive:**  [Werewolf Skin Cloak](/item/2401) 
-
-
-
-
-elseif( **You turn in:** [Werewolf Claws](/item/13715),platinum = 75) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/13714" data-url="13714" class="tooltip-link link">Werewolf Pelt</a>,platinum = 100) then 
 
 
 >**Karg IceBear says:** It has been a long time since I crafted items from werewolves. I hope this aids you in your journeys. Farewell, friend, until we meet again.
 
 
- **You receive:**  [Lupine Claw Gauntlets](/item/2402) 
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_842.png" alt="" /> <a
+                                href="/item/2401" data-url="2401" class="tooltip-link link">Werewolf Skin Cloak</a> 
+
+ 
+
+
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_743.png" alt="" /> <a
+                                href="/item/13715" data-url="13715" class="tooltip-link link">Werewolf Claws</a>,platinum = 75) then 
+
+
+>**Karg IceBear says:** It has been a long time since I crafted items from werewolves. I hope this aids you in your journeys. Farewell, friend, until we meet again.
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_518.png" alt="" /> <a
+                                href="/item/2402" data-url="2402" class="tooltip-link link">Lupine Claw Gauntlets</a> 
+
+ 
 
 
 

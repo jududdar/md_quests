@@ -37,7 +37,8 @@ local text2 = "Hey! I said FOUR gold and the illegible scroll! Sheesh.";
 local scroll = 0;
 
 
-if( **You turn in:** [Illegible Scroll](/item/13225),gold = 4) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13225" data-url="13225" class="tooltip-link link">Illegible Scroll</a>,gold = 4) then 
 
 
 >**Lozani says:** Hmmm... Aha! Well, I think this is it. A fine spell. I hope you need it because you are not getting your gold back.
@@ -45,7 +46,9 @@ if( **You turn in:** [Illegible Scroll](/item/13225),gold = 4) then
 
 scroll = 1;
 
-elseif( **You turn in:** [Illegible Cantrip](/item/13845), [Illegible Cantrip](/item/13845)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13845" data-url="13845" class="tooltip-link link">Illegible Cantrip</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13845" data-url="13845" class="tooltip-link link">Illegible Cantrip</a>) then 
 
 
 >**Lozani says:** And the winning spell is... Here, you do the honors.
@@ -56,7 +59,18 @@ scroll = 1;
 if(scroll == 1) then
 
 
- **You receive:** eq.ChooseRandom( [Spell: Minor Healing](/item/15200), 15042, 15226, 13360, 15246, 15276, 15211, 15203, 15054) (+100 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15200" data-url="15200" class="tooltip-link link">Spell: Minor Healing</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15042" data-url="15042" class="tooltip-link link">Spell: Invisibility</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15226" data-url="15226" class="tooltip-link link">Spell: Endure Disease</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/13360" data-url="13360" class="tooltip-link link">Rotted Illegible Scroll</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15246" data-url="15246" class="tooltip-link link">Spell: Lesser Shielding</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15276" data-url="15276" class="tooltip-link link">Spell: Serpent Sight</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15211" data-url="15211" class="tooltip-link link">Spell: Summon Drink</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15203" data-url="15203" class="tooltip-link link">Spell: Cure Poison</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15054" data-url="15054" class="tooltip-link link">Spell: Frost Bolt</a>) (+100 exp)
+
+ 
 
 
 scroll = 0;

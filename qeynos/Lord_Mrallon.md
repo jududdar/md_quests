@@ -43,24 +43,29 @@ end
 
   
 
-if( **Faction is** > Kindly and  **You turn in:** [Nyrein's Prayer](/item/8919), [Tempest Rune](/item/8951)) then
+if( **Faction is** > Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/8919" data-url="8919" class="tooltip-link link">Nyrein's Prayer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/8951" data-url="8951" class="tooltip-link link">Tempest Rune</a>) then
 
 
 e.self:Say("Aaaah, yet another warrior brave enough to face their own faults and honorable enough to strive for a proof of their worth and devotion to The Rainkeeper. Your kind is too few and far too rare, but do not think that your trials are at their I have forged the necessary Hollowed Tempest Stone 
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (10)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-10)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (7)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (7)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Hollow Tempest Stone](/item/17089) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/17089" data-url="17089" class="tooltip-link link">Hollow Tempest Stone</a> (+1000 exp)
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+ 
+
+**This NPC *should* return incorrect items given.**

@@ -5,7 +5,8 @@
 
 
 
-if (  **You turn in:** [Phobonomicon of Thul Tae Ew](/item/8720) ) then 
+if (  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/8720" data-url="8720" class="tooltip-link link">Phobonomicon of Thul Tae Ew</a> ) then 
 
 
 **Zone Wide Emote:** <span class="text-warning">*A loud explosion sends ripples of energy through the air! Matter seems to lose its substance, but quickly solidifies. A shriek fills your ears, followed by the pounding sound of drums!*</span>

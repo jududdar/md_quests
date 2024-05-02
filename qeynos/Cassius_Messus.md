@@ -25,7 +25,8 @@ if( **Faction is** >= Amiable) then
 
 
 
-**You receive:**  [Lisera Lute](/item/13114)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/13114" data-url="13114" class="tooltip-link link">Lisera Lute</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -66,28 +67,32 @@ end
 
 
 
-if( **You turn in:** [Note To Cassius](/item/18803)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18803" data-url="18803" class="tooltip-link link">Note To Cassius</a>) then
 
 
 >**Cassius Messus says:** Thank you! I am in your debt. Here is the songsheet as I promised. I shall sing of you one day.
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (10)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Song: Hymn of Restoration](/item/15007) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15007" data-url="15007" class="tooltip-link link">Song: Hymn of Restoration</a> (+100 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
  
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+**This NPC *should* return incorrect items given.**

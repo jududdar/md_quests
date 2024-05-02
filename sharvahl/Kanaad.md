@@ -113,20 +113,27 @@ end
 
 
 
-if( **You turn in:** [Kanaad's Supplies](/item/5990)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_730.png" alt="" /> <a
+                                href="/item/5990" data-url="5990" class="tooltip-link link">Kanaad's Supplies</a>) then
 
 
 >*Kanaad rummages through the box, 'let's see, some lucerne, the leaves I had needed and... What is this? A note form Ragnar...' He mumbles a bit to himself, 'I see, you are looking for this boy and Ragnar thinks I can help. Good lad that Ragnar. I am not much for story telling these days, but I suppose you want to know about Hoober.'*
 
 
-* __Faction:__ [Kanaad](/faction/1560) (900)
+Your faction standing with [Kanaad](/faction/1560) got better (<span class='text-success'>+900</span>)
 
-elseif( **Faction is** > Kindly and  **You turn in:** [Essence of Sonnet](/item/5991), [Drop of Moonlight](/item/5992), [Luclin Clover](/item/5993)) then
+elseif( **Faction is** > Kindly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/5991" data-url="5991" class="tooltip-link link">Essence of Sonnet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_694.png" alt="" /> <a
+                                href="/item/5992" data-url="5992" class="tooltip-link link">Drop of Moonlight</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1073.png" alt="" /> <a
+                                href="/item/5993" data-url="5993" class="tooltip-link link">Luclin Clover</a>) then
 
 
 >*Kanaad looks through your ingredients, inspecting them closely, 'Well done, that was fast. I must say that I am surprised that you managed to get them at all. I have my part prepared so... here goes.' He places the ingredients in a medicine bag, brow furrowed in concentration and slowly extracts a foul gray liquid into a vial. 'Yes, that's the stuff. Now take it please and go,' he says with a shudder and turns to leave.*
 
 
- **You receive:**  [Elixir of Obsession](/item/5994) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1153.png" alt="" /> <a
+                                href="/item/5994" data-url="5994" class="tooltip-link link">Elixir of Obsession</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

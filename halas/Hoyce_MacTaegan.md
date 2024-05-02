@@ -114,14 +114,15 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_552.png" alt="" /> <a
+                                href="/item/13768" data-url="13768" class="tooltip-link link">White Wolf Skin</a>) then
 
 
 
 >**Hoyce MacTaegan says:** Very good! I am sure by now you are learning much about your local surroundings. It is now time for you to learn to [live off the land].
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (3)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+3</span>)
   
 
 
@@ -132,7 +133,7 @@ if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) 
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
   
 
 
@@ -143,7 +144,7 @@ if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) 
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
   
 
 
@@ -154,7 +155,7 @@ if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) 
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
    
 
 
@@ -165,7 +166,7 @@ if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) 
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
  
 
 
@@ -176,9 +177,16 @@ if **Faction** >= Amiable and  **You turn in:** [White Wolf Skin](/item/13768)) 
 
 
 
- **You receive:**  [Field Priests Bracer](/item/7365) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/7365" data-url="7365" class="tooltip-link link">Field Priests Bracer</a> (+250 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), [Silk Thread](/item/16486), [Silk Thread](/item/16486), [Large Tattered Skullcap](/item/2125)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/16486" data-url="16486" class="tooltip-link link">Silk Thread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/16486" data-url="16486" class="tooltip-link link">Silk Thread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/16486" data-url="16486" class="tooltip-link link">Silk Thread</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2125" data-url="2125" class="tooltip-link link">Large Tattered Skullcap</a>) then 
 
 
 
@@ -189,7 +197,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 >**Hoyce MacTaegan says:** I see your wisdom grows, as does your skill. Wear this cap I have made for you. I believe you are now skilled enough to begin to pursue justice and to fight against our enemies. Are you [willing to fight]?
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
   
 
 
@@ -200,7 +208,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
   
 
 
@@ -211,7 +219,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
   
 
 
@@ -222,7 +230,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
    
 
 
@@ -233,7 +241,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
  
 
 
@@ -244,16 +252,23 @@ elseif **Faction** >= Amiable and  **You turn in:** [Silk Thread](/item/16486), 
 
 
 
- **You receive:**  [Field Priests Cap](/item/7366) (+400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/7366" data-url="7366" class="tooltip-link link">Field Priests Cap</a> (+400 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897), [Goblin Ice Necklace](/item/13897)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13897" data-url="13897" class="tooltip-link link">Goblin Ice Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13897" data-url="13897" class="tooltip-link link">Goblin Ice Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13897" data-url="13897" class="tooltip-link link">Goblin Ice Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_851.png" alt="" /> <a
+                                href="/item/13897" data-url="13897" class="tooltip-link link">Goblin Ice Necklace</a>) then
 
 
 
 >**Hoyce MacTaegan says:** I see you have brought many of our enemies to justice. You have done an excellent job and should be proud. No doubt your efforts saved lives. It is now time for you to venture out and fight stronger foes. Are you [up to the challenge]?
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (5)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+5</span>)
   
 
 
@@ -264,7 +279,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
   
 
 
@@ -275,7 +290,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
   
 
 
@@ -286,7 +301,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
    
 
 
@@ -297,7 +312,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-1)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-1</span>)
  
 
 
@@ -308,9 +323,15 @@ elseif **Faction** >= Amiable and  **You turn in:** [Goblin Ice Necklace](/item/
 
 
 
- **You receive:**  [Field Priests Kilt](/item/7367) (+600 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_843.png" alt="" /> <a
+                                href="/item/7367" data-url="7367" class="tooltip-link link">Field Priests Kilt</a> (+600 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [Giant Snake Fang](/item/7005), [Hunting Bow](/item/8011)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/13915" data-url="13915" class="tooltip-link link">Gnoll Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/7005" data-url="7005" class="tooltip-link link">Giant Snake Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/8011" data-url="8011" class="tooltip-link link">Hunting Bow</a>) then 
 
 
 
@@ -325,7 +346,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 >**Hoyce MacTaegan says:** You truly have justice in your heart. The spirits know this too. No doubt you are now beginning to hear their faint whispers. Soon you shall hear them clearly and you shall no longer need my guidance. I have one more [favor] to ask of you if you are [willing].
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (10)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+10</span>)
   
 
 
@@ -336,7 +357,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
   
 
 
@@ -347,7 +368,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-1</span>)
   
 
 
@@ -358,7 +379,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-1</span>)
    
 
 
@@ -369,7 +390,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-2)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-2</span>)
  
 
 
@@ -380,9 +401,13 @@ elseif **Faction** >= Amiable and  **You turn in:** [Gnoll Fang](/item/13915), [
 
 
 
- **You receive:**  [Field Priests Claw](/item/7368) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_975.png" alt="" /> <a
+                                href="/item/7368" data-url="7368" class="tooltip-link link">Field Priests Claw</a> (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item/12223)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/12223" data-url="12223" class="tooltip-link link">Wrath Orc Wristbands</a>) then 
 
 
 
@@ -397,7 +422,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item
 >**Hoyce MacTaegan says:** Thank you very much, you have our thanks. Perhaps you will find some use for this. I have shown you all that I can young one. Now it is up to you. Listen to the spirits and work with them and they will work with you. Now go forth and continue to spread justice throughout the world.
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (50)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+50</span>)
   
 
 
@@ -408,7 +433,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item
 
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (7)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+7</span>)
   
 
 
@@ -419,7 +444,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-7)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-7</span>)
   
 
 
@@ -430,7 +455,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (-7)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got worse (<span class='text-danger'>-7</span>)
    
 
 
@@ -441,7 +466,7 @@ elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item
 
 
 
-* __Faction:__ [Ebon Mask](/faction/244) (-10)
+Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='text-danger'>-10</span>)
  
 
 
@@ -452,6 +477,9 @@ elseif **Faction** >= Amiable and  **You turn in:** [Wrath Orc Wristbands](/item
 
 
 
- **You receive:**  [Field Priests Leather](/item/7369) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/7369" data-url="7369" class="tooltip-link link">Field Priests Leather</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

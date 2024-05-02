@@ -282,41 +282,54 @@ local text2 = "Good work, Soandso, your task is almost completed.";
 
 
 
-if **Faction** >= Amiable +175 and  **You turn in:** [Orange Headband](/item/10112), [Head of Ghanex Drah](/item/13165), [Dareb's Skull](/item/13166), [Head of Shen](/item/13167)) then
+if **Faction** >= Amiable +175 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_934.png" alt="" /> <a
+                                href="/item/10112" data-url="10112" class="tooltip-link link">Orange Headband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/13165" data-url="13165" class="tooltip-link link">Head of Ghanex Drah</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/13166" data-url="13166" class="tooltip-link link">Dareb's Skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/13167" data-url="13167" class="tooltip-link link">Head of Shen</a>) then
 
 
 >**Togahn Sorast says:** We are deeply honored to have such great warrior as part of our Clan. With a proper burial, Shen and Dareb's souls will finally be at peace, and with the death of that vile Ghanex, the plains will be much safer for travelers. It is a great honor to present you, Soandso, with the red headband of the Silent Fist Clan.
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (75)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (11)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+11</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (5)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Red Headband](/item/10113) (+1600 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10113" data-url="10113" class="tooltip-link link">Red Headband</a> (+1600 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable +250 and  **You turn in:** [Red Headband](/item/10113), [Skull of Jhen\`Tra](/item/13168), [Dagger of Marnek](/item/13169), [Zaharns Coronet](/item/3000)) then
+elseif **Faction** >= Amiable +250 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/10113" data-url="10113" class="tooltip-link link">Red Headband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/13169" data-url="13169" class="tooltip-link link">Dagger of Marnek</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3000" data-url="3000" class="tooltip-link link">Zaharns Coronet</a>) then
 
 
 >**Togahn Sorast says:** In honor of your recent acts of courage and dedication, I reward you, Soandso, with the purple headband of the Silent Fist Clan.
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (100)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (5)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Purple Headband](/item/10114) (+3200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_936.png" alt="" /> <a
+                                href="/item/10114" data-url="10114" class="tooltip-link link">Purple Headband</a> (+3200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

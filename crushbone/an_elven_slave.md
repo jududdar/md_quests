@@ -37,7 +37,8 @@ if( **You turn in:** copper = 1) then
 >**an elven slave says:** Not that!! I need key number 20!!
 
 
-elseif( **You turn in:** [Shackle Key 20](/item/20020)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/20020" data-url="20020" class="tooltip-link link">Shackle Key 20</a>) then
 
 
 
@@ -45,30 +46,33 @@ elseif( **You turn in:** [Shackle Key 20](/item/20020)) then
 
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (2)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+800 exp)
+ &#127873; **You receive:** 0 (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 **an elven slave despawns.**
 
 
-elseif( **You turn in:** [Brass Earring](/item/10351)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/10351" data-url="10351" class="tooltip-link link">Brass Earring</a>) then
 
 
 
@@ -76,7 +80,10 @@ elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
- **You receive:**  [A Ragged Cloth Note](/item/18901) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18901" data-url="18901" class="tooltip-link link">A Ragged Cloth Note</a> (+5000 exp)
+
+ 
 
 
 
@@ -95,7 +102,8 @@ if( **You turn in:** copper = 1) then
 >**an elven slave says:** Please!! I need a key with a number 21!!
 
 
-elseif( **You turn in:** [Shackle Key 21](/item/20021)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/20021" data-url="20021" class="tooltip-link link">Shackle Key 21</a>) then
 
 
 
@@ -103,30 +111,33 @@ elseif( **You turn in:** [Shackle Key 21](/item/20021)) then
 
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (2)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** 0 (+800 exp)
+ &#127873; **You receive:** 0 (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 **an elven slave despawns.**
 
 
-elseif( **You turn in:** [Brass Earring](/item/10351)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/10351" data-url="10351" class="tooltip-link link">Brass Earring</a>) then
 
 
 
@@ -134,7 +145,10 @@ elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
- **You receive:**  [A Torn Drawing](/item/18902) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18902" data-url="18902" class="tooltip-link link">A Torn Drawing</a> (+5000 exp)
+
+ 
 
 
 
@@ -153,7 +167,8 @@ if( **You turn in:** copper = 1) then
 >**an elven slave says:** Not that!! I need key number 18!!
 
 
-elseif( **You turn in:** [Shackle Key 18](/item/20018)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/20018" data-url="20018" class="tooltip-link link">Shackle Key 18</a>) then
 
 
 
@@ -161,23 +176,25 @@ elseif( **You turn in:** [Shackle Key 18](/item/20018)) then
 
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (2)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (-1)
+Your faction standing with [Indigo Brotherhood](/faction/270) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Merchants of Felwithe](/faction/325) (1)
+Your faction standing with [Merchants of Felwithe](/faction/325) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Kelethin Merchants](/faction/276) (1)
+Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+800 exp)
+ &#127873; **You receive:** 0 (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
@@ -188,7 +205,8 @@ e.other:GiveCash(0,7,3,0);
 **an elven slave despawns.**
 
 
-elseif( **You turn in:** [Brass Earring](/item/10351)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/10351" data-url="10351" class="tooltip-link link">Brass Earring</a>) then
 
 
 
@@ -196,7 +214,10 @@ elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
- **You receive:**  [A Tattered Cloth Note](/item/18903) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18903" data-url="18903" class="tooltip-link link">A Tattered Cloth Note</a> (+5000 exp)
+
+ 
 
 
 
@@ -215,7 +236,8 @@ if( **You turn in:** copper = 1) then
 >**an elven slave says:** Please!! I need a key with a number 19!!
 
 
-elseif( **You turn in:** [Shackle Key 19](/item/20019)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/20019" data-url="20019" class="tooltip-link link">Shackle Key 19</a>) then
 
 
 
@@ -223,30 +245,33 @@ elseif( **You turn in:** [Shackle Key 19](/item/20019)) then
 
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (2)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Indigo Brotherhood](/faction/270) (-1)
+Your faction standing with [Indigo Brotherhood](/faction/270) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Merchants of Felwithe](/faction/325) (1)
+Your faction standing with [Merchants of Felwithe](/faction/325) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Kelethin Merchants](/faction/276) (1)
+Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:** 0 (+800 exp)
+ &#127873; **You receive:** 0 (+800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-2 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
 **an elven slave despawns.**
 
 
-elseif( **You turn in:** [Brass Earring](/item/10351)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/10351" data-url="10351" class="tooltip-link link">Brass Earring</a>) then
 
 
 
@@ -254,7 +279,10 @@ elseif( **You turn in:** [Brass Earring](/item/10351)) then
 
 
 
- **You receive:**  [A Faded Wedding Cloth](/item/18904) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18904" data-url="18904" class="tooltip-link link">A Faded Wedding Cloth</a> (+5000 exp)
+
+ 
 
 
 

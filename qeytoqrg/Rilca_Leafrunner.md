@@ -36,12 +36,19 @@ end
 
 
 
-if( **You turn in:** [Marching Orders](/item/15931), [Invasion Plans](/item/15932), [Area Maps of Qeynos Hills](/item/15933), [Encryption Key](/item/15934)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/15931" data-url="15931" class="tooltip-link link">Marching Orders</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/15932" data-url="15932" class="tooltip-link link">Invasion Plans</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/15933" data-url="15933" class="tooltip-link link">Area Maps of Qeynos Hills</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/15934" data-url="15934" class="tooltip-link link">Encryption Key</a>) then
 
 
 >*Rilca Leafrunner takes a look at the documents you handed her and smiles, 'This is exactly what we needed. We'll be better prepared if the gnolls are foolish enough to actually attack. I hope you are willing to assist us in the defense of Surefall. Should you choose to aid us, this club will serve you well.'*
 
 
- **You receive:**  [Club of Gnoll Bashing](/item/15935) (+15000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_738.png" alt="" /> <a
+                                href="/item/15935" data-url="15935" class="tooltip-link link">Club of Gnoll Bashing</a> (+15000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

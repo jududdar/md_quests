@@ -22,7 +22,8 @@
 >**Daesorak Steelknuckle says:** Excellent, Soandso. Please go see Terasol in Katta to retrieve my mining supplies. Bring him this note to show that you were sent by me. And dunt stray off track with these supplies, we needs em bad!
 
 
-**You receive:**  [A Jarbled Note](/item/4754)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/4754" data-url="4754" class="tooltip-link link">A Jarbled Note</a>
 
 **You say:** `return a letter`
 
@@ -31,7 +32,8 @@
 >**Daesorak Steelknuckle says:** I thank you, Soandso. Without your help I doubt we would have been able to finish this project on time! Please take this to my wife Aliane back home. You can surely count on me telling the Patriarch of how much help you have been when I return home. I wish you good journeys as for me its back to work I go!
 
 
-**You receive:**  [Letter to Aliane](/item/4756)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/4756" data-url="4756" class="tooltip-link link">Letter to Aliane</a>
 end
 
 ## Turn-Ins
@@ -40,33 +42,39 @@ end
 
 
 
-if( **You turn in:** [Bag of Rations](/item/4747)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/4747" data-url="4747" class="tooltip-link link">Bag of Rations</a>) then
 
 
 >**Daesorak Steelknuckle says:** Ah these must be from ol Coggo! Ye see I had sent out a few men to gather some new picks an such for the mining operation ere but they haven't returned yet. I'm really in need of some picks that are being held in Katta by a friend of mine. Will you [retrieve the mining picks] for me?
 
 
-* __Faction:__ [House of Stout](/faction/1512) (5)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (1)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
 
-elseif( **You turn in:** [A Bundle of Mining Picks](/item/4755)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/4755" data-url="4755" class="tooltip-link link">A Bundle of Mining Picks</a>) then
 
 
 >**Daesorak Steelknuckle says:** Ye did it, Soandso! Ye hear dat, boys? Dis outlander ere jess delivered us our new minin picks! You have no idea how much these supplies will aid our operation! As a final task would you be able to [return a letter] to me wife back home?
 
 
-* __Faction:__ [House of Stout](/faction/1512) (5)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (1)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 
 yippee(e);

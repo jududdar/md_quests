@@ -5,7 +5,8 @@
 
 
 
-if( **You turn in:** [The Talisman Schematic](/item/28291)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28291" data-url="28291" class="tooltip-link link">The Talisman Schematic</a>) then
 
 
 >**Elder Clinka says:** It is a pleasure to meet you. I've heard a great deal about you from the other elders. Please give me a moment to scan over this for you.
@@ -17,9 +18,13 @@ if( **You turn in:** [The Talisman Schematic](/item/28291)) then
 >**Elder Clinka says:** If you bring me a fragment or shard of some living creature from each of the elemental planes, I will see if we can make this device work. Place them in this box with your talisman and combine them together before returning the box to me. In the meantime, I will continue to translate this document from its original language.
 
 
- **You receive:**  [Small Lined Case](/item/17279) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/17279" data-url="17279" class="tooltip-link link">Small Lined Case</a> 
 
-elseif( **You turn in:** [Sealed Lined Case](/item/28297)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/28297" data-url="28297" class="tooltip-link link">Sealed Lined Case</a>) then
 
 
 >*Elder Clinka carefully opens the small box and takes several small tools from the pocket in her robe. Her nimble fingers place the glowing elemental pieces into the appropriate sockets and covers them with several small caps that she must have made while you were away.*
@@ -31,6 +36,9 @@ elseif( **You turn in:** [Sealed Lined Case](/item/28297)) then
 >**Elder Clinka says:** Take care of it and keep it with you at all times. I feel that your journey from this point will only become more dangerous. Perhaps this device will play a role in all of that. Move forward along the path of enlightenment. May the Balance guide your fate.
 
 
- **You receive:**  [The Binden Concerrentia](/item/28296) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_752.png" alt="" /> <a
+                                href="/item/28296" data-url="28296" class="tooltip-link link">The Binden Concerrentia</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

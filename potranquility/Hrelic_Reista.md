@@ -20,12 +20,16 @@ end
 
 
 
-if( **You turn in:** [Spell: Draught of Thunder](/item/28445), [Lightning Sphere](/item/9430)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_954.png" alt="" /> <a
+                                href="/item/9430" data-url="9430" class="tooltip-link link">Lightning Sphere</a>) then 
 
 
 >*Hrelic Reista takes the sphere and the scroll from you and begins to scrawl some rune on the bottom of the parchment. He begins to utter some strange syllables over the parchment and the sphere begins to glow, then it dissolves into floating strands of ethereal energy and begins to scrawl itself across the page. Hrelic hands you the scroll, 'The power of lightning rests in your hands Soandso. Use this new power wisely.' *
 
 
- **You receive:**  [Spell: Draught of Lightning](/item/1119) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/1119" data-url="1119" class="tooltip-link link">Spell: Draught of Lightning</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

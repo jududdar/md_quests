@@ -69,30 +69,35 @@ end
 
 
 
-if( **You turn in:** [Napkin From Crows](/item/18708)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18708" data-url="18708" class="tooltip-link link">Napkin From Crows</a>) then 
 
 
 >**Hanns Krieghor says:** Lucky thing you weren't followed. or you'd be breathing through holes in your back right now. Go find Knargon, maybe you can help run the next [shipment]. Remember, we keep our business quiet, so watch yourself, sewer crawler.
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (100)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-15)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (15)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-15)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (10)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Second Hand Tunic*](/item/13501) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13501" data-url="13501" class="tooltip-link link">Second Hand Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Head of Stanos](/item/28058)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/28058" data-url="28058" class="tooltip-link link">Head of Stanos</a>) then
 
 
 >**Hanns Krieghor says:** YES! The bastard is dead, finally. I would have loved to do the work myself, but this will suffice. Here, take this, you have proven yourself a true friend of the Circle!
@@ -101,22 +106,25 @@ elseif( **You turn in:** [Head of Stanos](/item/28058)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (200)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+200</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-30)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-30</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (30)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-30)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-30</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (20)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:**  [Fanged Skull Stiletto](/item/7501) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/7501" data-url="7501" class="tooltip-link link">Fanged Skull Stiletto</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

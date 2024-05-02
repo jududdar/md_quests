@@ -129,84 +129,100 @@ local text3 = "Excellent choice!  My lionskin gloves are known throughout Norrat
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [Giant Rat Pelt](/item/13054)) then 
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13054" data-url="13054" class="tooltip-link link">Giant Rat Pelt</a>) then 
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (2)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Ratskin Gloves](/item/2312) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2312" data-url="2312" class="tooltip-link link">Ratskin Gloves</a> (+500 exp)
 
-elseif **Faction** >= Apprehensive and  **You turn in:** [High Quality Wolf Skin](/item/13755),gold = 13) then
+ 
 
-
->**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
-
-
-* __Faction:__ [Kithicor Residents](/faction/269) (2)
-
-
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
-
-
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
-
-
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
-
-
- **You receive:**  [Wolfskin Gloves](/item/2313) (+1000 exp)
-
-elseif **Faction** >= Indifferent and  **You turn in:** [High Quality Bear Skin](/item/13752),gold = 25) then
+elseif **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13755" data-url="13755" class="tooltip-link link">High Quality Wolf Skin</a>,gold = 13) then
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (2)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Bearskin Gloves](/item/2314) (+1500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2313" data-url="2313" class="tooltip-link link">Wolfskin Gloves</a> (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [High Quality Lion Skin](/item/13766),gold = 96) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13752" data-url="13752" class="tooltip-link link">High Quality Bear Skin</a>,gold = 25) then
 
 
 >**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
 
 
-* __Faction:__ [Kithicor Residents](/faction/269) (5)
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (1)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Lionskin Gloves](/item/2315) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2314" data-url="2314" class="tooltip-link link">Bearskin Gloves</a> (+1500 exp)
+
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/13766" data-url="13766" class="tooltip-link link">High Quality Lion Skin</a>,gold = 96) then
+
+
+>**Ged Twigborn says:** Ok! Let me see here.. Hmmm.. Oh, excellent.. Here you go. Some of my finest work, if I must say so myself.
+
+
+Your faction standing with [Kithicor Residents](/faction/269) got better (<span class='text-success'>+5</span>)
+
+
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
+
+
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+1</span>)
+
+
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2315" data-url="2315" class="tooltip-link link">Lionskin Gloves</a> (+2000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

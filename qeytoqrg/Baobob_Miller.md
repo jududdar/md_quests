@@ -100,66 +100,78 @@ local text = "Good work! Now have you the rest of what I require?";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [High Quality Wolf Skin](/item/13755), gold = 21) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13755" data-url="13755" class="tooltip-link link">High Quality Wolf Skin</a>, gold = 21) then
 
 
 >**Baobob Miller says:** Here ya go! That should keep ya nice and warm! Be sure to tell all the friends you're going to impress where you got this fine cloak. Although I am sure they probably have heard of me already.
 
 
-* __Faction:__ [Karana Residents](/faction/345) (2)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Wolf-hide Cape](/item/2905) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_840.png" alt="" /> <a
+                                href="/item/2905" data-url="2905" class="tooltip-link link">Wolf-hide Cape</a> (+50 exp)
+
+ 
 
 
 
-elseif( **You turn in:** [Medium Quality Wolf Skin](/item/13754), gold = 15) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13754" data-url="13754" class="tooltip-link link">Medium Quality Wolf Skin</a>, gold = 15) then
 
 
 >**Baobob Miller says:** They are exquisite, if I do say so myself. Hope they fit.
 
 
-* __Faction:__ [Karana Residents](/faction/345) (2)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Wolf-hide Boots](/item/2906) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_525.png" alt="" /> <a
+                                href="/item/2906" data-url="2906" class="tooltip-link link">Wolf-hide Boots</a> (+50 exp)
 
-elseif( **You turn in:** [Low Quality Wolf Skin](/item/13753), gold = 5) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
+                                href="/item/13753" data-url="13753" class="tooltip-link link">Low Quality Wolf Skin</a>, gold = 5) then
 
 
 >**Baobob Miller says:** I hate working with such low quality hides. They lack the sheen that makes a high quality pelt look so fine! Anyhow, here's your belt.
 
 
-* __Faction:__ [Karana Residents](/faction/345) (2)
+Your faction standing with [Karana Residents](/faction/345) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (1)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (1)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Wolf-hide Belt](/item/2907) (+50 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2907" data-url="2907" class="tooltip-link link">Wolf-hide Belt</a> (+50 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

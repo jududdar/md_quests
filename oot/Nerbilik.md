@@ -26,7 +26,8 @@ end
 
 
 
-if( **You turn in:** [Grub Locker](/item/12203)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/12203" data-url="12203" class="tooltip-link link">Grub Locker</a>) then 
 
 
 >**Nerbilik says:** Oooh!! Grub locker! There is a loud click. He opens the locker and unwraps dwarf pickles. What this dumb wrapper? R, E, C, I, P, E.. Ahh!! It say pickles!! Me read good. Here your plat. Me give you little more. Me was very hungry for pickles.
@@ -35,13 +36,15 @@ if( **You turn in:** [Grub Locker](/item/12203)) then
 
 
 
-* __Faction:__ [Da Bashers](/faction/235) (10)
+Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (-1)
+Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+1500 exp)
+ &#127873; **You receive:** 0 (+1500 exp)
+
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

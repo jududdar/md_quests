@@ -128,13 +128,14 @@ else
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 >**Captain Rohand says:** Argh! You curvy sea goblin! Taxes, you say?! Peh! I got your taxes right here! I sure don't get the services those taxes are supposed to provide! You can tell them ol' Captain Rohand said so!
 
 
-**You receive:**  [Rohands Tax Payment](/item/13177)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13177" data-url="13177" class="tooltip-link link">Rohands Tax Payment</a>
 end
 
 ## Turn-Ins
@@ -145,23 +146,33 @@ local brandy = 0;
 
 
 
-if( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>) then
 
 
 brandy = 4;
 
-elseif( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034), [Brandy](/item/13034)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>) then
 
 
 
 brandy = 3;
 
-elseif( **You turn in:** [Brandy](/item/13034), [Brandy](/item/13034)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>) then
 
 
 brandy = 2;
 
-elseif( **You turn in:** [Brandy](/item/13034)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/13034" data-url="13034" class="tooltip-link link">Brandy</a>) then
 
 
 brandy = 1;
@@ -178,23 +189,23 @@ repeat
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (25)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (3)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (2)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
 
@@ -202,7 +213,9 @@ repeat
 
 
 
- **You receive:** 0 (+10 exp)
+ &#127873; **You receive:** 0 (+10 exp)
+
+ 
 
 
 
@@ -213,5 +226,6 @@ until brandy == 0
 
  
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+**This NPC *should* return incorrect items given.**
+
  

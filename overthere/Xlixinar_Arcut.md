@@ -43,7 +43,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Breastplate](/item/14789)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14789" data-url="14789" class="tooltip-link link">Illegible Note: Breastplate</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -80,7 +81,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Helm](/item/14788)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14788" data-url="14788" class="tooltip-link link">Illegible Note: Helm</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -117,7 +119,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Vambraces](/item/14790)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14790" data-url="14790" class="tooltip-link link">Illegible Note: Vambraces</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -154,7 +157,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Illegible Note: Pauldron](/item/14795)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/14795" data-url="14795" class="tooltip-link link">Illegible Note: Pauldron</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -184,37 +188,55 @@ end
 
 
 
-if( **You turn in:** [Glox Reference](/item/14783), [Banded Helm](/item/3053)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/14783" data-url="14783" class="tooltip-link link">Glox Reference</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/3053" data-url="3053" class="tooltip-link link">Banded Helm</a>) then
 
 
 >**Xlixinar Arcut says:** Well done
 
 
- **You receive:**  [Trooper Scale Helm](/item/4976) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/4976" data-url="4976" class="tooltip-link link">Trooper Scale Helm</a> (+1000 exp)
 
-if( **You turn in:** [Vek's Reference: Vambraces](/item/14786), [Banded Sleeves](/item/3060)) then
+ 
 
-
->**Xlixinar Arcut says:** Well done
-
-
- **You receive:**  [Trooper Scale Vambraces](/item/4979) (+1000 exp)
-
-if( **You turn in:** [Grik's Reference](/item/14816), [Banded Mail](/item/3056)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_543.png" alt="" /> <a
+                                href="/item/3060" data-url="3060" class="tooltip-link link">Banded Sleeves</a>) then
 
 
 >**Xlixinar Arcut says:** Well done
 
 
- **You receive:**  [Trooper Scale Breastplate](/item/4977) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4979" data-url="4979" class="tooltip-link link">Trooper Scale Vambraces</a> (+1000 exp)
 
-if( **You turn in:** [Vek's Reference: Pauldrons](/item/14787), [Banded Mantle](/item/3057)) then
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/14816" data-url="14816" class="tooltip-link link">Grik's Reference</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/3056" data-url="3056" class="tooltip-link link">Banded Mail</a>) then
 
 
 >**Xlixinar Arcut says:** Well done
 
 
- **You receive:**  [Trooper Scale Pauldron](/item/4978) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/4977" data-url="4977" class="tooltip-link link">Trooper Scale Breastplate</a> (+1000 exp)
+
+ 
+
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_769.png" alt="" /> <a
+                                href="/item/3057" data-url="3057" class="tooltip-link link">Banded Mantle</a>) then
+
+
+>**Xlixinar Arcut says:** Well done
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_798.png" alt="" /> <a
+                                href="/item/4978" data-url="4978" class="tooltip-link link">Trooper Scale Pauldron</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

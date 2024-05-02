@@ -112,59 +112,71 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18737)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18737" data-url="18737" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Valeron Dushire says:** Welcome to the Guild, here's your guild tunic. Now, let's get to work.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (100)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-15)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-15)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (20)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Faded Purple Tunic*](/item/13554) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13554" data-url="13554" class="tooltip-link link">Faded Purple Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [A Dusty Old Leg Bone](/item/6701)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/6701" data-url="6701" class="tooltip-link link">A Dusty Old Leg Bone</a>) then 
 
 
 >**Valeron Dushire says:** Hail, adventurer! I... what's this? Where did you get this? Never mind.. I.. I never thought we would find [him]!
 
 
- **You receive:**  [A Dusty Old Leg Bone](/item/6701) (+1 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
+                                href="/item/6701" data-url="6701" class="tooltip-link link">A Dusty Old Leg Bone</a> (+1 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Testimony of Truth](/item/18827)) then 
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18827" data-url="18827" class="tooltip-link link">A Testimony of Truth</a>) then 
 
 
 >**Valeron Dushire says:** Praise be to Marr!! You have done the impossible!! Sir Lucan is finally sent to the higher courts of the Tribunal. The city now has a chance to prosper. The Hall of Truth has been redeemed and gives you thanks. Take this, it is the Sword of Faith. May you wield it with righteousness. Beware of the remainder of the militia. They will be hunting for your head.
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (100)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (-15)
+Your faction standing with [Dismal Rage](/faction/271) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-15)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (20)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Brilliant Sword of Faith](/item/13947) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/13947" data-url="13947" class="tooltip-link link">Brilliant Sword of Faith</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -148,7 +148,8 @@ end
 
 
 
-if **Faction** >= Warmly +250 and  **You turn in:** [Glanitar's Imbued Talisman](/item/1866)) then 
+if **Faction** >= Warmly +250 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_510.png" alt="" /> <a
+                                href="/item/1866" data-url="1866" class="tooltip-link link">Glanitar's Imbued Talisman</a>) then 
 
 
 >**Ralgyn says:** It is with great sorrow that I receive this talisman which clearly symbolizes the death of my son for he would first suffer a hundred deaths then rather then to willingly give up his only bind to his Mother. However your assistance and dedication to me is unquestioned. For your efforts I would like you to carry something very special to me. Please take this Circlet and treasure it always as it belonged to my Faliana. I feel as much as you assisted me in obtaining the whereabouts of my son I know that she would want you to have it as much as I do. Sadly, now I must mourn my lost son however I shall never forget your kindness, Soandso, Thank you.
@@ -157,16 +158,19 @@ if **Faction** >= Warmly +250 and  **You turn in:** [Glanitar's Imbued Talisman]
 
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (75)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (18)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+18</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-37)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-37</span>)
 
 
- **You receive:**  [Circlet of the Falinkan](/item/1867) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_511.png" alt="" /> <a
+                                href="/item/1867" data-url="1867" class="tooltip-link link">Circlet of the Falinkan</a> (+10000 exp)
+
+ 
 
 
 **Ralgyn despawns.**

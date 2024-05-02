@@ -25,7 +25,8 @@ local is_special_flag_response = false;
 e.other:SetPVP(false);
 
 
-**You receive:**  [Tome of Order and Discord](/item/18700)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/18700" data-url="18700" class="tooltip-link link">Tome of Order and Discord</a>
 
 **You say:** `rites`
 
@@ -195,7 +196,8 @@ end
 
 
 
-if( **You turn in:** [Tome of Order and Discord](/item/18700)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/18700" data-url="18700" class="tooltip-link link">Tome of Order and Discord</a>) then
 
 
 >**Priest of Discord says:** I see you wish to join us in Discord! Welcome! By turning your back on the protection of Order you are now open to many more opportunities for glory and power. Remember that you can now be harmed by those who have also heard the call of Discord.

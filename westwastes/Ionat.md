@@ -85,22 +85,27 @@ end
 
 
 
-if(**You possess item:**  [Rune of Revenge](/item/1894) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1894" data-url="1894" class="tooltip-link link">Rune of Revenge</a> x 1
 
 
 >**Ionat says:** Take this Rune of Revenge, Soandso. You will need it to extract retribution in remembrance of our dear Hsagra. I thank you for your contributions to our cause. It is good to have you amongst our ranks.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (5)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Yelinak](/faction/436) (1)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Kromzek](/faction/448) (-2)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** GiveAll( [Jualicns Token](/item/1908), [Rune of Revenge](/item/1894)) (+1000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/1908" data-url="1908" class="tooltip-link link">Jualicns Token</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1894" data-url="1894" class="tooltip-link link">Rune of Revenge</a>) (+1000 exp)
+
+ 
 
 
 **Ionat despawns.**

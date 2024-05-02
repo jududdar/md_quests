@@ -35,7 +35,8 @@ end
 
 
 
-if( **You turn in:** [New Sewing Needles](/item/28092)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_716.png" alt="" /> <a
+                                href="/item/28092" data-url="28092" class="tooltip-link link">New Sewing Needles</a>) then 
 
 
 
@@ -47,7 +48,10 @@ if( **You turn in:** [New Sewing Needles](/item/28092)) then
 
 
 
- **You receive:**  [Planar Traveler's Manual](/item/28745) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1357.png" alt="" /> <a
+                                href="/item/28745" data-url="28745" class="tooltip-link link">Planar Traveler's Manual</a> (+100 exp)
+
+ 
 
 
 

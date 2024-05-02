@@ -22,7 +22,8 @@ end
 
 
 
-if( **You turn in:** [A Note](/item/18822)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18822" data-url="18822" class="tooltip-link link">A Note</a>) then
 
 
 >**Sir Lucan D-Lere says:** So I see you decided to bring me the message. Good. I would hate to have to hunt you down. It could have gotten really messy and I hate reading bloodstained messages. Well it seems Antonius Bayle and the Knights of Truth have begun an alliance. And it sounds as though I may have a traitor among my guards. If you wish to switch your allegiance to Freeport, then find me this traitor. Bring me his militia tunic. Try to keep the blood from staining it.
@@ -31,23 +32,26 @@ if( **You turn in:** [A Note](/item/18822)) then
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (25)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (3)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-2)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-2)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 
-elseif( **You turn in:** [Slashed Militia Tunic](/item/13926)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1149.png" alt="" /> <a
+                                href="/item/13926" data-url="13926" class="tooltip-link link">Slashed Militia Tunic</a>) then
 
 
 >**Sir Lucan D-Lere says:** So, it was Alayle! He was of no importance to us. He knew nothing. I thank you for assisting the Freeport Militia. My men shall keep an eye out for you. Unfortunately, so will the Knights of Truth. Might I suggest you spend less time in North Freeport?
@@ -56,19 +60,21 @@ elseif( **You turn in:** [Slashed Militia Tunic](/item/13926)) then
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (25)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (3)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-2)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-2)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** 0 (+7500 exp)
+ &#127873; **You receive:** 0 (+7500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

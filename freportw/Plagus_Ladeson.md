@@ -29,7 +29,8 @@ local fac = e.other:GetFaction(e.self);
 >**Plagus Ladeson says:** You have seen Milea Clothspinner!! This is great news. I wish I could travel to see her, but Cain will not allow me to do so at this time. You must take her a note for me. Here, take this to her. As a master in this order, I command you to do so immediately. Go!!
 
 
-**You receive:**  [Sealed Note](/item/18934)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18934" data-url="18934" class="tooltip-link link">Sealed Note</a>
 
 elseif(fac < 5) then
 
@@ -98,7 +99,8 @@ end
 local fac = e.other:GetFaction(e.self);
 
 
-if(fac < 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then 
+if(fac < 5 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 
@@ -106,15 +108,20 @@ if(fac < 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then
 
 
 
- **You receive:**  [A Sealed Letter](/item/18814) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a> 
 
-elseif(fac == 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then
+ 
+
+elseif(fac == 5 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 
 >**Plagus Ladeson says:** The Steel Warriors have no cause to dislike you, but you have yet to prove your worth to this guild.
 
-elseif(fac > 5 and  **You turn in:** [A Sealed Letter](/item/18814)) then
+elseif(fac > 5 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a>) then
 
 
 

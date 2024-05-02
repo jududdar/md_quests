@@ -14,7 +14,8 @@ end
 
 
 
-if( **You turn in:** [Official Seal of the Khati Sha](/item/9031)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/9031" data-url="9031" class="tooltip-link link">Official Seal of the Khati Sha</a>) then
 
 
 >**Scout Vyrak says:** Well met, Soandso, well met indeed I find comfort in the fact that the jungle permitted your passage to me! Maybe there is still hope we can stop this disturbance before any more damage can be done to the balance of the spirit realm I have spent several weeks tracking the corrupted spirit. It seems to have made a home of the ruins just south of here. The spirit no longer resembles he entity that it once was. It is quickly becoming something foul and savage. Let us hope that you are not too late.

@@ -169,21 +169,32 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Platinum Diamond Wedding Ring](/item/14707), [Black Sapphire Platinum Necklace](/item/14703), [White Dragon Hide](/item/9240)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1064.png" alt="" /> <a
+                                href="/item/14707" data-url="14707" class="tooltip-link link">Platinum Diamond Wedding Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/14703" data-url="14703" class="tooltip-link link">Black Sapphire Platinum Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_552.png" alt="" /> <a
+                                href="/item/9240" data-url="9240" class="tooltip-link link">White Dragon Hide</a>) then
 
 
 >**Karam Dragonforge says:** My fiancee will be so excited! An exquisite ring for the wedding and a gorgeous necklace as my wedding gift to her. Well, as promised, here is your white dragonscale cloak.
 
 
- **You receive:**  [White Dragonscale Cloak](/item/11603) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_657.png" alt="" /> <a
+                                href="/item/11603" data-url="11603" class="tooltip-link link">White Dragonscale Cloak</a> 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Red Dragon Scales](/item/11622), [Vial of Swirling Smoke](/item/14402), platinum = 1000) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/11622" data-url="11622" class="tooltip-link link">Red Dragon Scales</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_695.png" alt="" /> <a
+                                href="/item/14402" data-url="14402" class="tooltip-link link">Vial of Swirling Smoke</a>, platinum = 1000) then
 
 
 >**Karam Dragonforge says:** Wonderful! Now I can get back to my fiancee instantly! Isn't Love grand? As for your Red Dragonscale Armor, it is all done. Farewell!
 
 
- **You receive:**  [Red Dragonscale Armor](/item/11623) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_621.png" alt="" /> <a
+                                href="/item/11623" data-url="11623" class="tooltip-link link">Red Dragonscale Armor</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

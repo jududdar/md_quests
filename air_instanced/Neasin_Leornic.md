@@ -39,36 +39,54 @@ end
 
 
 
-if( **You turn in:** [Azure Tessera](/item/20930), [Augmentors Gem](/item/20741), [Grey Damask Cloak](/item/20742)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20930" data-url="20930" class="tooltip-link link">Azure Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/20741" data-url="20741" class="tooltip-link link">Augmentors Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_840.png" alt="" /> <a
+                                href="/item/20742" data-url="20742" class="tooltip-link link">Grey Damask Cloak</a>) then 
 
 
 
 >**Neasin Leornic says:** Ah good. Take this as your reward.
 
 
- **You receive:**  [Augmentor's Mask](/item/1272) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_528.png" alt="" /> <a
+                                href="/item/1272" data-url="1272" class="tooltip-link link">Augmentor's Mask</a> (+100000 exp)
+
+ 
 
 
 **Neasin Leornic despawns.**
 
-elseif( **You turn in:** [Iron Disc](/item/20937), [Ethereal Opal](/item/20743), [Woven Skull Cap](/item/20744)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/20937" data-url="20937" class="tooltip-link link">Iron Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_959.png" alt="" /> <a
+                                href="/item/20743" data-url="20743" class="tooltip-link link">Ethereal Opal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/20744" data-url="20744" class="tooltip-link link">Woven Skull Cap</a>) then 
 
 
 >**Neasin Leornic says:** Ah good. Take this as your reward.
 
 
- **You receive:**  [Al\`Kabor's Cap of Binding](/item/1271) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_641.png" alt="" /> <a
+                                href="/item/1271" data-url="1271" class="tooltip-link link">Al\`Kabor's Cap of Binding</a> (+100000 exp)
+
+ 
 
 
 **Neasin Leornic despawns.**
 
-elseif( **You turn in:** [Hyaline Globe](/item/20944), [Sky Topaz](/item/20745), [High Quality Raiment](/item/20746)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20944" data-url="20944" class="tooltip-link link">Hyaline Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_954.png" alt="" /> <a
+                                href="/item/20745" data-url="20745" class="tooltip-link link">Sky Topaz</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_842.png" alt="" /> <a
+                                href="/item/20746" data-url="20746" class="tooltip-link link">High Quality Raiment</a>) then 
 
 
 >**Neasin Leornic says:** Ah good. Take this as your reward.
 
 
- **You receive:**  [Raiment of Thunder](/item/1273) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1273" data-url="1273" class="tooltip-link link">Raiment of Thunder</a> (+100000 exp)
+
+ 
 
 
 **Neasin Leornic despawns.**

@@ -51,24 +51,33 @@ end
 
 
 
-if( **You turn in:** [Jeb's Seal](/item/10604)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a>) then 
 
 
 >**Modani Qu-Loni says:** Ah yes, Jeb's seal. The time to craft a Serpent must have come. I will need components collected to craft the first of the pieces. I will also provide you with a sack in which you must combine the items. Are you ready to collect them?
 
 
- **You receive:** GiveAll( [An Enchanters Sack](/item/17861), [Jeb's Seal](/item/10604)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17861" data-url="17861" class="tooltip-link link">An Enchanters Sack</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a>) 
 
-elseif( **You turn in:** [A Sack For Modani](/item/10635)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/10635" data-url="10635" class="tooltip-link link">A Sack For Modani</a>) then
 
 
 >**Modani Qu-Loni says:** Excellent, you have done well. Here is the first piece of the staff. Now you must go seek out the second master; he will clear the path for you.
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [1st Piece of Staff](/item/10610) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/10610" data-url="10610" class="tooltip-link link">1st Piece of Staff</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

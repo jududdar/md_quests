@@ -47,13 +47,19 @@ local text = "Yes yes, now where is the rest of the medallion?";
 
 
 
-if( **You turn in:** [Piece of a medallion](/item/19959), [Piece of a medallion](/item/19960), [Piece of a medallion](/item/19961)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19959" data-url="19959" class="tooltip-link link">Piece of a medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19960" data-url="19960" class="tooltip-link link">Piece of a medallion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19961" data-url="19961" class="tooltip-link link">Piece of a medallion</a>) then
 
 
 >*Xiblin Fizzlebik tinkers with the three pieces and snaps the pieces together. 'Wow.. You've done it.. but I suddenly feel very.. strange.. This medallion is cursed! Here, you take it!'*
 
 
- **You receive:**  [Medallion of the Jarsath](/item/19954) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/19954" data-url="19954" class="tooltip-link link">Medallion of the Jarsath</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

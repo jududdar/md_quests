@@ -34,7 +34,8 @@
 >**Hardam Stonegrinder says:** I thank ya for your willingness to help, Soandso. Here is the box of the different things I need taken to Faeroi. When I spoke to him before he left for the bazaar this morning he told me that the helm that I had been having customized was ready. I have enclosed a note for him to give that to you to return to me. I look forward to seeing you soon.
 
 
-**You receive:**  [Hardams Box of Goods](/item/4757)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/4757" data-url="4757" class="tooltip-link link">Hardams Box of Goods</a>
 end
 
 ## Turn-Ins
@@ -43,18 +44,21 @@ end
 
 
 
-if( **You turn in:** [Hardams Custom Helm](/item/5986)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_628.png" alt="" /> <a
+                                href="/item/5986" data-url="5986" class="tooltip-link link">Hardams Custom Helm</a>) then 
  
 
 >**Hardam Stonegrinder says:** Ah, what a pleasant surprise indeed it seems my Helm is done! Many thanks for all your help once again Soandso, and safe travels to you.
 
 
-* __Faction:__ [House of Stout](/faction/1512) (5)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (1)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

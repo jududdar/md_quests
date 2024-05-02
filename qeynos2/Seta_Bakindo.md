@@ -100,7 +100,8 @@ else
 
 
 
-**You receive:**  [Silent Fist Assembly Kit](/item/17270)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17270" data-url="17270" class="tooltip-link link">Silent Fist Assembly Kit</a>
 
 
 **You say:** `cap`
@@ -112,7 +113,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22583)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22583" data-url="22583" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 **You say:** `bracer`
@@ -124,7 +126,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22584)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22584" data-url="22584" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `sleeve`
@@ -136,7 +139,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22586)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22586" data-url="22586" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `sandal`
@@ -148,7 +152,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Sandals Pattern](/item/22585)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22585" data-url="22585" class="tooltip-link link">An Enchanted Sandals Pattern</a>
 
 
 **You say:** `trouser`
@@ -160,7 +165,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Trousers Pattern](/item/22587)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22587" data-url="22587" class="tooltip-link link">An Enchanted Trousers Pattern</a>
 
 
 **You say:** `glove`
@@ -172,7 +178,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22588)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22588" data-url="22588" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 **You say:** `robe`
@@ -184,7 +191,8 @@ else
 
 
 
-**You receive:**  [An Enchanted Robe Pattern](/item/22589)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22589" data-url="22589" class="tooltip-link link">An Enchanted Robe Pattern</a>
 
 
 
@@ -258,7 +266,10 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Sironan's Head](/item/27425), [Yalroen's Head](/item/27426), [High Quality Gnoll Fur](/item/27427)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/27425" data-url="27425" class="tooltip-link link">Sironan's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/27426" data-url="27426" class="tooltip-link link">Yalroen's Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_556.png" alt="" /> <a
+                                href="/item/27427" data-url="27427" class="tooltip-link link">High Quality Gnoll Fur</a>) then
 
 
 >**Seta Bakindo says:** There are many more corrupt guards. I am sure this is just the beginning. You have helped Konem and for that I thank you . You are well on your way to enlightenment and tranquility. I bid you farewell and wish you well where ever your travels may take you.
@@ -267,15 +278,18 @@ if(expansion_flag >= 4.0 and  **You turn in:** [Sironan's Head](/item/27425), [Y
 
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (10)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (1)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Silent Fist Clansman Hand Wraps](/item/27494) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/27494" data-url="27494" class="tooltip-link link">Silent Fist Clansman Hand Wraps</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

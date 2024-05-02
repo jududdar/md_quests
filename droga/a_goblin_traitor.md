@@ -33,7 +33,10 @@ if( **Faction is** > Kindly) then
 
 
 
- **You receive:**  [Traitors note](/item/6472) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/6472" data-url="6472" class="tooltip-link link">Traitors note</a> 
+
+ 
 
 end
 
@@ -44,7 +47,8 @@ end
 if( **Faction is** > Kindly) then  
 
 
-if( **You turn in:** [Di'zok Signet of Service](/item/5728)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a>) then 
 
 
 
@@ -52,7 +56,10 @@ if( **You turn in:** [Di'zok Signet of Service](/item/5728)) then
 
 
 
- **You receive:**  [Di'zok Signet of Service](/item/5728) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
+                                href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

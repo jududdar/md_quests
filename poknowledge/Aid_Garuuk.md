@@ -31,7 +31,8 @@ end
 
 
 
-if( **You turn in:** [Troll Receipt](/item/28740)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28740" data-url="28740" class="tooltip-link link">Troll Receipt</a>) then 
 
 
 if(e.other:Race() == "Troll") then
@@ -42,7 +43,10 @@ if(e.other:Race() == "Troll") then
 
 
 
- **You receive:**  [Hoop of the Traveler](/item/2418) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_535.png" alt="" /> <a
+                                href="/item/2418" data-url="2418" class="tooltip-link link">Hoop of the Traveler</a> (+1000 exp)
+
+ 
 
 
 else

@@ -29,7 +29,8 @@ if( **Faction is** > Warmly) then
 
 
 
-**You receive:**  [The Blade](/item/18282)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/18282" data-url="18282" class="tooltip-link link">The Blade</a>
 
 
 **You say:** `make the shaft`
@@ -111,64 +112,91 @@ end
 
 
 
-if( **You turn in:** [Dragon Crafted Urn](/item/2053)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_688.png" alt="" /> <a
+                                href="/item/2053" data-url="2053" class="tooltip-link link">Dragon Crafted Urn</a>) then 
 
 
 >**Eldriaks Fe-Dhar says:** Hmm? What's this? Oh! You are the " .. e.other:Race() .. " who has been helping us with the nameless one. Well, not so nameless anymore. A part of Garzicor clings to this world, eager to wreak vengeance upon the giants who murdered him. We've decided that a weapon must be constructed, and the restless spirit of Garzicor must be bound to it. You must be the one to construct this weapon. This dust must be used in the forging of the weapon's blade. Are you a master smith, Soandso?
 
 
- **You receive:**  [Sanctified bone dust](/item/2054) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/2054" data-url="2054" class="tooltip-link link">Sanctified bone dust</a> (+1000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Finished Tsuba](/item/2055), [Bronzewood Staff](/item/1868), [Finished Naginata Blade](/item/2056)) then 
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/2055" data-url="2055" class="tooltip-link link">Finished Tsuba</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/1868" data-url="1868" class="tooltip-link link">Bronzewood Staff</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/2056" data-url="2056" class="tooltip-link link">Finished Naginata Blade</a>) then 
 
 
 >*Eldriaks Fe-Dhar takes the staff, blade, and tsuba and looks them over. He says, 'Excellent craftsmanship. These will make a fine weapon. But one part remains to join all the pieces together. That is the fitings.' The Wyvern then hands you the items back along with a vial of blood and says, 'This vial of blood will allow you to awaken Garzicor's spirit.'*
 
 
- **You receive:** GiveAll( [Assembled Naginata](/item/2426), [Vial of Kromzek blood](/item/2063)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/2426" data-url="2426" class="tooltip-link link">Assembled Naginata</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/2063" data-url="2063" class="tooltip-link link">Vial of Kromzek blood</a>) 
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata](/item/1728)) then 
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/1728" data-url="1728" class="tooltip-link link">Ethereal Bladed Naginata</a>) then 
 
 
 >**Eldriaks Fe-Dhar says:** You have succeeded Soandso. Garzicor's spirit no longer calls to us from beyond. Now we ask that you do one more thing. You must wield this weapon against all giant kind to satiate Garzicor's thirst for vengeance. The Naginata has a special power against the Kromzek, they will fall easily before it. However, if you do not wish to, hand the weapon back to me and I'll give you an earring more worthy of a being of faith. If you are one of sorcerous powers, hand me the earring and I'll hand you a ring more suited to you.
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (10)
+Your faction standing with [Claws of Veeshan](/faction/430) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Yelinak](/faction/436) (2)
+Your faction standing with [Yelinak](/faction/436) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Kromzek](/faction/448) (-5)
+Your faction standing with [Kromzek](/faction/448) got worse (<span class='text-danger'>-5</span>)
 
 
 
- **You receive:**  [Ethereal Bladed Naginata](/item/2097) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/2097" data-url="2097" class="tooltip-link link">Ethereal Bladed Naginata</a> (+10000 exp)
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Ethereal Bladed Naginata](/item/2097)) then 
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/2097" data-url="2097" class="tooltip-link link">Ethereal Bladed Naginata</a>) then 
 
 
 >**Eldriaks Fe-Dhar says:** Tis sad to see that the weapon will not be wielded by its maker, but here is your earring. Wear it well.
 
 
- **You receive:**  [Sanctum Guardian's Earring](/item/2065) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_756.png" alt="" /> <a
+                                href="/item/2065" data-url="2065" class="tooltip-link link">Sanctum Guardian's Earring</a> 
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Sanctum Guardian's Earring](/item/2065)) then 
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_756.png" alt="" /> <a
+                                href="/item/2065" data-url="2065" class="tooltip-link link">Sanctum Guardian's Earring</a>) then 
 
 
 >**Eldriaks Fe-Dhar says:** So you prefer the ring? Very well. May it serve you well, Soandso.
 
 
- **You receive:**  [Pitted Iron Ring](/item/2064) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_875.png" alt="" /> <a
+                                href="/item/2064" data-url="2064" class="tooltip-link link">Pitted Iron Ring</a> 
 
-elseif( **Faction is** > Warmly and  **You turn in:** [Pitted Iron Ring](/item/2064)) then 
+ 
+
+elseif( **Faction is** > Warmly and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_875.png" alt="" /> <a
+                                href="/item/2064" data-url="2064" class="tooltip-link link">Pitted Iron Ring</a>) then 
 
 
 >**Eldriaks Fe-Dhar says:** You have decided to wield the Naginata after all?
 
 
- **You receive:**  [Ethereal Bladed Naginata](/item/2097) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/2097" data-url="2097" class="tooltip-link link">Ethereal Bladed Naginata</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

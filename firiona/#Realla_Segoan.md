@@ -44,7 +44,8 @@
 >**Realla Segoan says:** Excellent! Take this Research Binder and fill it with the research notes when you find them. Once it is filled, seal it and take it to Noilgin Mindtune here at the outpost, so that he may deliver it to Erudin. Be forewarned though, it will be a dangerous path to follow. Most likely, the research notes have fallen into possession of some very dangerous beings.
 
 
-**You receive:**  [Research Binder](/item/17088)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/17088" data-url="17088" class="tooltip-link link">Research Binder</a>
 end
 
 ## Turn-Ins

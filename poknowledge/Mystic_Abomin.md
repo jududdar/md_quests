@@ -15,11 +15,14 @@ end
 
 
 
-local ethereal =  **You turn in:**  { [Ethereal Parchment](/item/29112)}
+local ethereal =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
+                                href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a>}
 
-local spectral =  **You turn in:**  { [Spectral Parchment](/item/29131)}
+local spectral =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a>}
 
-local glyphed =  **You turn in:**  { [Glyphed Rune Word](/item/29132)}
+local glyphed =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a>}
 
 if(ethereal > 0) then
 
@@ -32,7 +35,21 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: True Spirit](/item/28487), 28488, 28489, 28490, 26945, 26946,21660, 21661, 28491, 28492, 28493, 28494) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28487" data-url="28487" class="tooltip-link link">Spell: True Spirit</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28488" data-url="28488" class="tooltip-link link">Spell: Agility of the Wrulan</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28489" data-url="28489" class="tooltip-link link">Spell: Spear of Torment</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28490" data-url="28490" class="tooltip-link link">Spell: Cloud of Grummus</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26945" data-url="26945" class="tooltip-link link">Spell: Greater Immobilize</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26946" data-url="26946" class="tooltip-link link">Spell: Petrifying Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21660" data-url="21660" class="tooltip-link link">Spell: Tnarg's Mending</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/21661" data-url="21661" class="tooltip-link link">Spell: Focus of Soul</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28491" data-url="28491" class="tooltip-link link">Spell: Ancestral Guard</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28492" data-url="28492" class="tooltip-link link">Spell: Endurance of the Boar</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28493" data-url="28493" class="tooltip-link link">Spell: Talisman of the Wrulan</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28494" data-url="28494" class="tooltip-link link">Spell: Talisman of the Tribunal</a>) 
+
+ 
 
 
 
@@ -52,7 +69,20 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Tears of Saryrn](/item/28495), 28496, 28497, 28498, 28499, 28531, 26910, 26912, 26913, 26914, 26911) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28495" data-url="28495" class="tooltip-link link">Spell: Tears of Saryrn</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28496" data-url="28496" class="tooltip-link link">Spell: Malicious Decay</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28497" data-url="28497" class="tooltip-link link">Spell: Malosinia</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28498" data-url="28498" class="tooltip-link link">Spell: Strength of the Diaku</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28499" data-url="28499" class="tooltip-link link">Spell: Talisman of the Boar</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28531" data-url="28531" class="tooltip-link link">Spell: Blessing of Replenishment</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26910" data-url="26910" class="tooltip-link link">Spell: Velium Strike</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26912" data-url="26912" class="tooltip-link link">Spell: Talisman of the Diaku</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26913" data-url="26913" class="tooltip-link link">Spell: Tiny Terror</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26914" data-url="26914" class="tooltip-link link">Spell: Breath of Ultor</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26911" data-url="26911" class="tooltip-link link">Spell: Talisman of Celerity</a>) 
+
+ 
 
 
 
@@ -72,7 +102,14 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Malos](/item/26915), 26916, 26917, 26918, 26919) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26915" data-url="26915" class="tooltip-link link">Spell: Malos</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26916" data-url="26916" class="tooltip-link link">Spell: Blood of Saryrn</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26917" data-url="26917" class="tooltip-link link">Spell: Focus of the Seventh</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26918" data-url="26918" class="tooltip-link link">Spell: Quiescence</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/26919" data-url="26919" class="tooltip-link link">Spell: Ferine Avatar</a>) 
+
+ 
 
 
 

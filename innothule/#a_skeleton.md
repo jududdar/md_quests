@@ -41,13 +41,17 @@ end
 
 
 
-if **Faction** >= Amiable +100 and  **You turn in:** [Ship in a Bottle](/item/12218)) then 
+if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_704.png" alt="" /> <a
+                                href="/item/12218" data-url="12218" class="tooltip-link link">Ship in a Bottle</a>) then 
 
 
 >**a skeleton says:** Aye, matey! Ye found me another vessel with which to sail the seven seas? Let's be shoving off then! Come on, hop aboard, swabby! Be sure to pick up the minstrel. His hide was last seen by Basher Avisk. Only he be knowin' [where the minstrel ] be.
 
 
- **You receive:**  [The Captain](/item/12215) (+25 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12215" data-url="12215" class="tooltip-link link">The Captain</a> (+25 exp)
+
+ 
 
 
 **a skeleton despawns.**

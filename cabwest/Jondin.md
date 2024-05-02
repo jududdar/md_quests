@@ -27,7 +27,8 @@
 >**Jondin says:** I have run low on fern flowers and must have more of them.  Take this [flower pouch].  Outside the city can be found carnivorous plants and a strain of them buds the flower in question.  Collect enough of these flowers to fill and combine the pouch and I shall reward you.
 
 
-**You receive:**  [Fern Flower Pouch](/item/17025)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17025" data-url="17025" class="tooltip-link link">Fern Flower Pouch</a>
 
 **You say:** `bone chips`
 
@@ -40,22 +41,26 @@ end
 
 
 
-if( **You turn in:** [Bone Granite Powder](/item/12442)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1074.png" alt="" /> <a
+                                href="/item/12442" data-url="12442" class="tooltip-link link">Bone Granite Powder</a>) then
 
 
 >**Jondin says:** You have done well. Here is your reward.
 
 
-* __Faction:__ [Brood of Kotiz](/faction/443) (1)
+Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
 if(math.random(100) < 35) then
 
 
 
- **You receive:**  [Kromdul Toothpick](/item/12443) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/12443" data-url="12443" class="tooltip-link link">Kromdul Toothpick</a> 
+
+ 
 
 end

@@ -49,27 +49,38 @@ end
 
 
 
-if( **You turn in:** [Jeb's Seal](/item/10604)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a>) then 
 
 
 >**Polzin Mrid says:** Jeb has spoken with you already, excellent. Tell me are you ready for the test of the phantasm?
 
 
- **You receive:**  [An Enchanters Sack](/item/17861) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_689.png" alt="" /> <a
+                                href="/item/17861" data-url="17861" class="tooltip-link link">An Enchanters Sack</a> 
+
+ 
 
 
- **You receive:**  [Jeb's Seal](/item/10604) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a> 
 
-elseif( **You turn in:** [A Sack For Polzin](/item/10638)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/10638" data-url="10638" class="tooltip-link link">A Sack For Polzin</a>) then
 
 
 >**Polzin Mrid says:** You have done well, take this last piece and return them to Jeb. He will be able to complete the final crafting.
 
 
-* __Faction:__ [Truespirit](/faction/404) (100)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+100</span>)
 
 
- **You receive:**  [4th Piece of Staff](/item/10613) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/10613" data-url="10613" class="tooltip-link link">4th Piece of Staff</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

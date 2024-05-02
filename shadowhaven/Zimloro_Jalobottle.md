@@ -14,7 +14,8 @@
 >**Zimloro Jalobottle says:** Fantastic, Soandso! Elefan, my apprentice, is currently studying under my wing. He had been collecting samples in Shadeweaver lately and he probably has the items that I need. If you could go and speak with him and present him with this ingredient list, hopefully he will have what I need. Please bring the components back to me as soon as possible!
 
 
-**You receive:**  [Zimloro Ingredient List](/item/4758)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/4758" data-url="4758" class="tooltip-link link">Zimloro Ingredient List</a>
 
 **You say:** `components`
 
@@ -35,21 +36,25 @@ end
 
 
 
-if( **You turn in:** [Antidote Ingredients](/item/4759)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/4759" data-url="4759" class="tooltip-link link">Antidote Ingredients</a>) then
 
 
 >**Zimloro Jalobottle says:** You did it, Soandso! Finally I can finish these potions that I have been working on for such a long time. I will surely tell all of my friends of your willingness to help me!
 
 
-* __Faction:__ [House of Stout](/faction/1512) (5)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (1)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
 
-elseif( **You turn in:** [Antidote Supplies](/item/4765)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/4765" data-url="4765" class="tooltip-link link">Antidote Supplies</a>) then
 
 
 >**Zimloro Jalobottle says:** Ah, of course, the antidote supplies I have been waiting for from Daksins. I hope he is ok, we all told him it was not wise to go out to the cursed mountains alone. I thank you for bringing me these supplies because Daksins was unable too. There have been many reports lately of people receiving the disease carried by the beasts you encountered. Should you come across these extracts in the future bring them to me if you like. Thank you again, your actions will not go unnoticed.
@@ -58,12 +63,14 @@ elseif( **You turn in:** [Antidote Supplies](/item/4765)) then
 
 
 
-* __Faction:__ [House of Stout](/faction/1512) (25)
+Your faction standing with [House of Stout](/faction/1512) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Traders of the Haven](/faction/1508) (2)
+Your faction standing with [Traders of the Haven](/faction/1508) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

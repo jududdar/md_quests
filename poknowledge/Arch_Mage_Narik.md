@@ -40,9 +40,17 @@ end
 
 
 
-local count =  **You turn in:**  { [Apothic Crown](/item/1239),  [Apothic Robe](/item/1240),  [Apothic Sleeves](/item/1241),  [Apothic Warband](/item/1242),  [Apothic Gloves](/item/1243),  [Apothic Kilt](/item/1244),  [Apothic Boots](/item/1245)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/1239" data-url="1239" class="tooltip-link link">Apothic Crown</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_930.png" alt="" /> <a
+                                href="/item/1240" data-url="1240" class="tooltip-link link">Apothic Robe</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/1241" data-url="1241" class="tooltip-link link">Apothic Sleeves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/1242" data-url="1242" class="tooltip-link link">Apothic Warband</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/1243" data-url="1243" class="tooltip-link link">Apothic Gloves</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_843.png" alt="" /> <a
+                                href="/item/1244" data-url="1244" class="tooltip-link link">Apothic Kilt</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/1245" data-url="1245" class="tooltip-link link">Apothic Boots</a>}
 
-if( **You turn in:** [Nariks Ring](/item/28087)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1064.png" alt="" /> <a
+                                href="/item/28087" data-url="28087" class="tooltip-link link">Nariks Ring</a>) then 
 
 
 >**Arch Mage Narik says:** This is truly excellent. You have done well recovering this for me. You may take Onirelin's jewel and also tell him never to set foot near me again. Leave me now, I have much work to do.
@@ -51,7 +59,10 @@ if( **You turn in:** [Nariks Ring](/item/28087)) then
 
 
 
- **You receive:**  [Onirelins Jewel](/item/28088) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/28088" data-url="28088" class="tooltip-link link">Onirelins Jewel</a> (+100 exp)
+
+ 
 
 
 
@@ -66,7 +77,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Peridot](/item/10028), 10037, 22503, 15981) (+300000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
+                                href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
+
+ 
 
 
 

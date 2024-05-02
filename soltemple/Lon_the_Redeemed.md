@@ -14,7 +14,8 @@
 >**Lon the Redeemed says:** Then so be it. Ro commands you to aid the saved one. Ortallius of the hot sands. He is in need of two gems: the gem of stamina, also known as the gem of passion, and the gem of righteousness. I once owned these gems in my former life. They rest with my old friend, [Conium Darkblade]. Take this note to him and he shall give you the gems which you will then take to Ortallius.  Be off.
 
 
-**You receive:**  [a sealed note](/item/18955)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18955" data-url="18955" class="tooltip-link link">a sealed note</a>
 
 **You say:** `conium darkblade`
 

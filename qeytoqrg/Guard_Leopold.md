@@ -16,7 +16,8 @@
 >**Guard Leopold says:** Why, yes! I would love to donate to the Temple of Thunder. My father was a brave and noble member of that order. Here you are. You should ask Guard Cheslin also. His father and mine are both members of Thunder. Now, move along!
 
 
-**You receive:**  [A Donation](/item/13294)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/13294" data-url="13294" class="tooltip-link link">A Donation</a>
 
 **You say:** `blackburrow`
 

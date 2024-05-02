@@ -24,7 +24,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Atol\`s Spectral Shackles](/item/19315),  [Spell: Inferno of Al\`Kabor](/item/19322),  [Spell: Pillar of Frost](/item/19318),  [Spell: Tears of Druzzil](/item/19319)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19315" data-url="19315" class="tooltip-link link">Spell: Atol\`s Spectral Shackles</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19322" data-url="19322" class="tooltip-link link">Spell: Inferno of Al\`Kabor</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19318" data-url="19318" class="tooltip-link link">Spell: Pillar of Frost</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19319" data-url="19319" class="tooltip-link link">Spell: Tears of Druzzil</a>}
 
 if(count > 0) then
 
@@ -37,7 +41,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Tears of Solusek](/item/19329), [Spell: Abscond](/item/19320), [Spell: Thunderbold](/item/19324), [Spell: Tishan\`s Discord](/item/19317)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19329" data-url="19329" class="tooltip-link link">Spell: Tears of Solusek</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19320" data-url="19320" class="tooltip-link link">Spell: Abscond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19324" data-url="19324" class="tooltip-link link">Spell: Thunderbold</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19317" data-url="19317" class="tooltip-link link">Spell: Tishan\`s Discord</a>) (+1000 exp)
+
+ 
 
 
 

@@ -130,11 +130,13 @@ end
 
 
 
-if ( not **You possess item:**  [Globe of Dancing Flame](/item/29147) x 1
+if ( not **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/29147" data-url="29147" class="tooltip-link link">Globe of Dancing Flame</a> x 1
 
 
 
-**You receive:**  [Globe of Dancing Flame](/item/29147)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/29147" data-url="29147" class="tooltip-link link">Globe of Dancing Flame</a>
 
 
 

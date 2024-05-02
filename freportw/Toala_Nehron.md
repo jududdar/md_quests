@@ -70,7 +70,8 @@ end
 if( **Faction is** > Indifferent) then
 
 
-if( **You turn in:** [A Sealed Letter](/item/18814)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 
@@ -78,10 +79,14 @@ if( **You turn in:** [A Sealed Letter](/item/18814)) then
 
 
 
- **You receive:**  [Toalas Box for heads](/item/17971) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17971" data-url="17971" class="tooltip-link link">Toalas Box for heads</a> (+500 exp)
+
+ 
 
 
-elseif( **You turn in:** [Box with Two Heads](/item/12246)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/12246" data-url="12246" class="tooltip-link link">Box with Two Heads</a>) then 
 
 
 
@@ -89,33 +94,49 @@ elseif( **You turn in:** [Box with Two Heads](/item/12246)) then
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (10)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (2)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (2)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:** eq.ChooseRandom( [Leather Skullcap](/item/2001), [Leather Mask](/item/2002), [Leather Gorget](/item/2003), [Leather Tunic](/item/2004), [Leather Shoulderpads](/item/2005), [Leather Cloak](/item/2006), [Leather Belt](/item/2007), [Leather Sleeves](/item/2008), [Leather Wristbands](/item/2009), [Leather Gloves](/item/2010), [Leather Leggings](/item/2011), [Leather Boots](/item/2012), [Round Shield](/item/9002)) (+2000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2001" data-url="2001" class="tooltip-link link">Leather Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2002" data-url="2002" class="tooltip-link link">Leather Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2003" data-url="2003" class="tooltip-link link">Leather Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2004" data-url="2004" class="tooltip-link link">Leather Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2005" data-url="2005" class="tooltip-link link">Leather Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2006" data-url="2006" class="tooltip-link link">Leather Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2007" data-url="2007" class="tooltip-link link">Leather Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2008" data-url="2008" class="tooltip-link link">Leather Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2009" data-url="2009" class="tooltip-link link">Leather Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2010" data-url="2010" class="tooltip-link link">Leather Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2011" data-url="2011" class="tooltip-link link">Leather Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2012" data-url="2012" class="tooltip-link link">Leather Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9002" data-url="9002" class="tooltip-link link">Round Shield</a>) (+2000 exp)
+
+**You receive coin:** 0-1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 elseif( **Faction is** == Indifferent) then
 
 
-if( **You turn in:** [A Sealed Letter](/item/18814)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 
@@ -125,7 +146,8 @@ if( **You turn in:** [A Sealed Letter](/item/18814)) then
 elseif( **Faction is** < Indifferent) then
 
 
-if( **You turn in:** [A Sealed Letter](/item/18814)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18814" data-url="18814" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 

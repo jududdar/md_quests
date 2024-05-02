@@ -144,7 +144,8 @@ end
 local text = "I believe I stated that I need four kobold hides to make a rug.";
 
 
-if( **Faction is** >= Amiable and  **You turn in:** [A Blurred Map](/item/13423)) then 
+if( **Faction is** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/13423" data-url="13423" class="tooltip-link link">A Blurred Map</a>) then 
 
 
 >**Tabure Ahendle says:** The map!! It is all blurred. The ink has run. I shall never be able to decipher it now. Still, I owe you for completion of your mission. May these be of assistance. It is always good for a warrior to be well supplied.
@@ -153,24 +154,33 @@ if( **Faction is** >= Amiable and  **You turn in:** [A Blurred Map](/item/13423)
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (5)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Cast-Iron Long Sword](/item/5082), [Buckler](/item/9001), [Rusty Halberd](/item/5024)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/5082" data-url="5082" class="tooltip-link link">Cast-Iron Long Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/9001" data-url="9001" class="tooltip-link link">Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5024" data-url="5024" class="tooltip-link link">Rusty Halberd</a>) (+5000 exp)
 
-elseif( **Faction is** >= Amiable and  **You turn in:** [Kobold Hide](/item/13424), [Kobold Hide](/item/13424), [Kobold Hide](/item/13424), [Kobold Hide](/item/13424)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **Faction is** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/13424" data-url="13424" class="tooltip-link link">Kobold Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/13424" data-url="13424" class="tooltip-link link">Kobold Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/13424" data-url="13424" class="tooltip-link link">Kobold Hide</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_834.png" alt="" /> <a
+                                href="/item/13424" data-url="13424" class="tooltip-link link">Kobold Hide</a>) then
 
 
 >**Tabure Ahendle says:** Incredible!! Such grand tones. It shall make a fine rug. You have shown me that you cannot always judge a book by its cover. You are quite skilled. Would you like to perform a [dangerous task] for me?
@@ -179,22 +189,27 @@ elseif( **Faction is** >= Amiable and  **You turn in:** [Kobold Hide](/item/1342
 
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (20)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (4)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-3)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-3)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (4)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:** eq.ChooseRandom( [Raw-hide Tunic](/item/2140), [Raw-hide Leggings](/item/2147), [Round Shield](/item/9002)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2140" data-url="2140" class="tooltip-link link">Raw-hide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2147" data-url="2147" class="tooltip-link link">Raw-hide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9002" data-url="9002" class="tooltip-link link">Round Shield</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

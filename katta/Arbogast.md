@@ -46,7 +46,8 @@ miller:Say("Yeah, splash it right in his unliving face!");
 
 
 
-**You receive:**  [Arbogasts Holy Water](/item/29899)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/29899" data-url="29899" class="tooltip-link link">Arbogasts Holy Water</a>
 
 **You say:** `tsaph`
 
@@ -103,38 +104,50 @@ miller = eq.get_entity_list():GetMobByNpcTypeID( [\#Miller](/npc/160376));
 
 
 
-if( **You turn in:** [Phenics Water](/item/29898)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/29898" data-url="29898" class="tooltip-link link">Phenics Water</a>) then
 
 
 >**Arbogast says:** He simply gave this to you?  Cunning indeed for him to cover his weakness so thoroughly- he must have powerful protective enchantments in place, no doubt put in place by his good friend and associate, Tsaph Katta!
 
 
-* __Faction:__ [The Truth](/faction/1577) (10)
+Your faction standing with [The Truth](/faction/1577) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Silver Wrapping Paper](/item/17516) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/17516" data-url="17516" class="tooltip-link link">Silver Wrapping Paper</a> (+100000 exp)
 
-elseif( **You turn in:** [A Silver Wrapped Book](/item/29692)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/29692" data-url="29692" class="tooltip-link link">A Silver Wrapped Book</a>) then
 
 
 >**Arbogast says:** Ahh, you have retrieved the memoirs, let me see.' Arbogast opens the book and starts flipping through pages, 'Yes here, you... no, wait it must be back... hrmmm, maybe he... but it must... Well, that was pretty clever of old Tsaph Katta, removing any record of who he truly is- probably did it to cover up the fact that Norrath does not really exist.
 
 
-* __Faction:__ [The Truth](/faction/1577) (10)
+Your faction standing with [The Truth](/faction/1577) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Gold Wrapping Paper](/item/17517) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/17517" data-url="17517" class="tooltip-link link">Gold Wrapping Paper</a> (+100000 exp)
 
-elseif( **You turn in:** [A Gold Wrapped Book](/item/29694)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/29694" data-url="29694" class="tooltip-link link">A Gold Wrapped Book</a>) then
 
 
 >**Arbogast says:** Ahhh, excellent... I am glad to see your interest piqued. It is the truth that will liberate the masses when the masses fail to liberate the truth. To continue to divine and demystify the truth from the mistruth, I employ a powerful component known to the Akheva as 'Akuel xi ans Vius' which translated means 'Thing that tells Truth.
 
 
-* __Faction:__ [The Truth](/faction/1577) (10)
+Your faction standing with [The Truth](/faction/1577) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Black Wrapping Paper](/item/17518) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/17518" data-url="17518" class="tooltip-link link">Black Wrapping Paper</a> (+100000 exp)
+
+ 
 
 
 if(**spawned NPC:**  [Yavik Teralin](/npc/160226)) then
@@ -148,16 +161,19 @@ eq.get_entity_list():GetMobByNpcTypeID( [Yavik Teralin](/npc/160226)):Say("It tr
 >**Arbogast says:** Oh, the foolish and naive, they are the salt of the land... anyhow, bring me two of these wrapped in the black paper you have and I shall reward you, my new ally of truth, with a cherished robe that was given us by Seru himself. Isn't that right Miller? Miller...
 
 
-elseif( **You turn in:** [A Black Wrapped Item](/item/29695)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_739.png" alt="" /> <a
+                                href="/item/29695" data-url="29695" class="tooltip-link link">A Black Wrapped Item</a>) then 
 
 
 >**Arbogast says:** Oh, would you look at that?
 
 
-* __Faction:__ [The Truth](/faction/1577) (10)
+Your faction standing with [The Truth](/faction/1577) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** 0 (+100000 exp)
+ &#127873; **You receive:** 0 (+100000 exp)
+
+ 
 
 
 if(miller.valid) then

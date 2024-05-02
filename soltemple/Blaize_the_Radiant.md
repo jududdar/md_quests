@@ -47,37 +47,61 @@ end
 local text = "Impressive, do you have the rest?";
 
 
-if( **You turn in:** [Ingot of the Reliant](/item/19001), [Icon of the Reliant](/item/19002), [Enchanted Platinum Bar](/item/16507)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19001" data-url="19001" class="tooltip-link link">Ingot of the Reliant</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19002" data-url="19002" class="tooltip-link link">Icon of the Reliant</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/16507" data-url="16507" class="tooltip-link link">Enchanted Platinum Bar</a>) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!
 
 
- **You receive:**  [Boots of the Reliant](/item/4921) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4921" data-url="4921" class="tooltip-link link">Boots of the Reliant</a> (+1000 exp)
 
-elseif( **You turn in:** [Ingot of the Penitent](/item/19007), [Icon of the Penitent](/item/19008), [Magnetized Platinum Bar](/item/19049)) then
+ 
 
-
->**Blaize the Radiant says:** Wear this with pride!
-
-
- **You receive:**  [Greaves of the Penitent](/item/4924) (+1000 exp)
-
-elseif( **You turn in:** [Ingot of the Ardent](/item/19003), [Icon of the Ardent](/item/19004), [Galvanized Platinum Bar](/item/19047)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19007" data-url="19007" class="tooltip-link link">Ingot of the Penitent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19008" data-url="19008" class="tooltip-link link">Icon of the Penitent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1091.png" alt="" /> <a
+                                href="/item/19049" data-url="19049" class="tooltip-link link">Magnetized Platinum Bar</a>) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!
 
 
- **You receive:**  [Gauntlets of the Ardent](/item/4922) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4924" data-url="4924" class="tooltip-link link">Greaves of the Penitent</a> (+1000 exp)
 
-elseif( **You turn in:** [Ingot of the Fervent](/item/19005), [Icon of the Fervent](/item/19006), [Vulcanized Platinum Bar](/item/19048)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19003" data-url="19003" class="tooltip-link link">Ingot of the Ardent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19004" data-url="19004" class="tooltip-link link">Icon of the Ardent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1138.png" alt="" /> <a
+                                href="/item/19047" data-url="19047" class="tooltip-link link">Galvanized Platinum Bar</a>) then
 
 
 >**Blaize the Radiant says:** Wear this with pride!
 
 
- **You receive:**  [Vambraces of the Fervent](/item/4923) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4922" data-url="4922" class="tooltip-link link">Gauntlets of the Ardent</a> (+1000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1092.png" alt="" /> <a
+                                href="/item/19005" data-url="19005" class="tooltip-link link">Ingot of the Fervent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19006" data-url="19006" class="tooltip-link link">Icon of the Fervent</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1135.png" alt="" /> <a
+                                href="/item/19048" data-url="19048" class="tooltip-link link">Vulcanized Platinum Bar</a>) then
+
+
+>**Blaize the Radiant says:** Wear this with pride!
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4923" data-url="4923" class="tooltip-link link">Vambraces of the Fervent</a> (+1000 exp)
+
+ 
 end
 
 

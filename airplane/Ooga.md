@@ -33,7 +33,11 @@ end
 
 
 
-if( **You turn in:** [Efreeti War Club](/item/20845), [Djinni Statuette](/item/20955), [Corrosive Venom](/item/20842), [Wooden Bands](/item/20841)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_738.png" alt="" /> <a
+                                href="/item/20845" data-url="20845" class="tooltip-link link">Efreeti War Club</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20955" data-url="20955" class="tooltip-link link">Djinni Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20842" data-url="20842" class="tooltip-link link">Corrosive Venom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_509.png" alt="" /> <a
+                                href="/item/20841" data-url="20841" class="tooltip-link link">Wooden Bands</a>) then 
 
 
 
@@ -41,25 +45,28 @@ if( **You turn in:** [Efreeti War Club](/item/20845), [Djinni Statuette](/item/2
 >**Ooga says:** Take this warhammer of the wind as your reward, Soandso.
 
 
- **You receive:**  [Warhammer of the Wind](/item/27729) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/27729" data-url="27729" class="tooltip-link link">Warhammer of the Wind</a> (+100000 exp)
 
-elseif( **You turn in:** [Emerald Spiroc Feather](/item/20962), [Bixie Essence](/item/20843), [Spiritualist\`s Ring](/item/20844)) then 
+ 
 
-
-
->**Ooga says:** This ring should aid you greatly, Soandso. Use it wisely.
-
-
- **You receive:**  [Vermilion Sky Ring](/item/27730) (+100000 exp)
-
-elseif( **You turn in:** [Efreeti War Maul](/item/20846), [Thickened Nectar](/item/20969), [Fire Sky Ruby](/item/20848), [Symbol of Veeshan](/item/20847)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20962" data-url="20962" class="tooltip-link link">Emerald Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/20843" data-url="20843" class="tooltip-link link">Bixie Essence</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_903.png" alt="" /> <a
+                                href="/item/20846" data-url="20846" class="tooltip-link link">Efreeti War Maul</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20969" data-url="20969" class="tooltip-link link">Thickened Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/20848" data-url="20848" class="tooltip-link link">Fire Sky Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/20847" data-url="20847" class="tooltip-link link">Symbol of Veeshan</a>) then 
 
 
 
 >**Ooga says:** Your deeds are beyond compare, Soandso. Use Garduk with care though, for it is more powerful than any other weapon you have wielded.
 
 
- **You receive:**  [Garduk](/item/11694) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_740.png" alt="" /> <a
+                                href="/item/11694" data-url="11694" class="tooltip-link link">Garduk</a> (+100000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

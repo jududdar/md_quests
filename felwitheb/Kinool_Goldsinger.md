@@ -41,7 +41,8 @@
 
   
 
->**Kinool Goldsinger says:** The remaining components are the Trueshot longbow and a treant heart. There will also be the guild donation in the amount of  [Zaharns Coronet](/item/3000) gold coins. These and the [fairie gold dust] will merit a ranger the Rain Caller enchanted bow.
+>**Kinool Goldsinger says:** The remaining components are the Trueshot longbow and a treant heart. There will also be the guild donation in the amount of  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3000" data-url="3000" class="tooltip-link link">Zaharns Coronet</a> gold coins. These and the [fairie gold dust] will merit a ranger the Rain Caller enchanted bow.
 
 
 local enchant_bars_lib = require("self_found_enchant_bars");
@@ -54,45 +55,56 @@ enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
 local text = "There will be no Rain Caller until I have the fairie gold dust and the [remaining components].";
 
 
-if( **You turn in:** [An Enrollment Letter](/item/18778)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18778" data-url="18778" class="tooltip-link link">An Enrollment Letter</a>) then 
 
 
 >**Kinool Goldsinger says:** Greetings and welcome aboard!  My name's Kinool. Master Enchanter of the Keepers of the Art.  Here is your guild tunic. Make us proud, young pupil!
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (100)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (15)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-25)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Torn Training Robe*](/item/13593) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_940.png" alt="" /> <a
+                                href="/item/13593" data-url="13593" class="tooltip-link link">Torn Training Robe*</a> (+20 exp)
 
-elseif( **You turn in:** [Pouch of Gold Dust](/item/12333), [a wooden heart](/item/12334), [Trueshot Longbow](/item/8401), gold =  [Zaharns Coronet](/item/3000)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/12333" data-url="12333" class="tooltip-link link">Pouch of Gold Dust</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1003.png" alt="" /> <a
+                                href="/item/12334" data-url="12334" class="tooltip-link link">a wooden heart</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1024.png" alt="" /> <a
+                                href="/item/8401" data-url="8401" class="tooltip-link link">Trueshot Longbow</a>, gold =  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/3000" data-url="3000" class="tooltip-link link">Zaharns Coronet</a>) then
   
 
 >**Kinool Goldsinger says:** Fine work!! I now reward you with The Rain Caller.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (25)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (6)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (3)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-6)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-6</span>)
   
 
- **You receive:**  [Rain Caller](/item/8402) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1024.png" alt="" /> <a
+                                href="/item/8402" data-url="8402" class="tooltip-link link">Rain Caller</a> (+5000 exp)
+
+ 
 
 
 local enchant_bars_lib = require("self_found_enchant_bars");

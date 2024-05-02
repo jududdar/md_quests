@@ -19,7 +19,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Note](/item/18013)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18013" data-url="18013" class="tooltip-link link">A Note</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -52,7 +53,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Deputy Tagils Payment](/item/13240)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13240" data-url="13240" class="tooltip-link link">Deputy Tagils Payment</a>) then
 
 
 >**Uner Gnarltrunk says:** I knew that Deputy Tagil had simply forgotten. He really is a good young halfling. Here, take this as a small payment for your time.
@@ -61,19 +63,24 @@ if **Faction** >= Amiable and  **You turn in:** [Deputy Tagils Payment](/item/13
 
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (5)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Carrot](/item/13977), [Fishing Pole](/item/13100), [Pine Needles](/item/13083)) (+10 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_921.png" alt="" /> <a
+                                href="/item/13977" data-url="13977" class="tooltip-link link">Carrot</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_749.png" alt="" /> <a
+                                href="/item/13100" data-url="13100" class="tooltip-link link">Fishing Pole</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_796.png" alt="" /> <a
+                                href="/item/13083" data-url="13083" class="tooltip-link link">Pine Needles</a>) (+10 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-6 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

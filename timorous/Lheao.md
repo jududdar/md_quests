@@ -41,7 +41,9 @@ end
 
 
 
-if( **You turn in:** [Robe of the Whistling Fists](/item/12970), [Danl's Reference](/item/1682)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_931.png" alt="" /> <a
+                                href="/item/12970" data-url="12970" class="tooltip-link link">Robe of the Whistling Fists</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1004.png" alt="" /> <a
+                                href="/item/1682" data-url="1682" class="tooltip-link link">Danl's Reference</a>) then
 
 
 
@@ -53,7 +55,10 @@ if( **You turn in:** [Robe of the Whistling Fists](/item/12970), [Danl's Referen
 
 
 
- **You receive:**  [Celestial Fists](/item/1683) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/1683" data-url="1683" class="tooltip-link link">Celestial Fists</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

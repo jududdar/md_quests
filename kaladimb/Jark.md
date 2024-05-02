@@ -35,13 +35,17 @@ end
 
 
 
-if( **You turn in:** [cold plate of beef and bread](/item/29007)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1019.png" alt="" /> <a
+                                href="/item/29007" data-url="29007" class="tooltip-link link">cold plate of beef and bread</a>) then 
 
 
 >**Jark says:** Har, har! No time fer eatin' now! While you were gone I struck me a rich vein. Lookie here! Ya ever seen a gem so pure? It's tiny but clear as glass. Ya take it, Soandso. Ya showed me some kindness, least I can do. Besides, still a share here for me.
 
 
- **You receive:**  [Pure Crystal](/item/29006) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/29006" data-url="29006" class="tooltip-link link">Pure Crystal</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

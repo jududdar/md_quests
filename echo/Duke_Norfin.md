@@ -39,7 +39,8 @@ if **Faction** >= Apprehensive then
 
 
 
-**You receive:**  [Note to Jarin](/item/19841)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_863.png" alt="" /> <a
+                                href="/item/19841" data-url="19841" class="tooltip-link link">Note to Jarin</a>
 
 
 else
@@ -54,27 +55,30 @@ end
 
 
 
-if **Faction** >= Apprehensive and  **You turn in:** [Smuggled Goods](/item/19840)) then
+if **Faction** >= Apprehensive and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/19840" data-url="19840" class="tooltip-link link">Smuggled Goods</a>) then
 
 
 >**Duke Norfin says:** Excellent work. I'm glad you were able to collect this shipment. The buyers were getting anxious to have it delivered. Come back later and I may have another job for you.
 
 
-* __Faction:__ [Haven Smugglers](/faction/1542) (25)
+Your faction standing with [Haven Smugglers](/faction/1542) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Lake Recondite Bandits](/faction/1559) (2)
+Your faction standing with [Lake Recondite Bandits](/faction/1559) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [House of Fordel](/faction/1510) (-12)
+Your faction standing with [House of Fordel](/faction/1510) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [House of Midst](/faction/1511) (-12)
+Your faction standing with [House of Midst](/faction/1511) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [House of Stout](/faction/1512) (-12)
+Your faction standing with [House of Stout](/faction/1512) got worse (<span class='text-danger'>-12</span>)
 
 
- **You receive:** 0 (+25000 exp)
+ &#127873; **You receive:** 0 (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

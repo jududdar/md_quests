@@ -62,7 +62,8 @@
 >**Hansl Bigroon says:** I would be pleased to help out such a noble organization. Here you are, my good friend. See you at weekly services!
 
 
-**You receive:**  [A Donation](/item/13290)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/13290" data-url="13290" class="tooltip-link link">A Donation</a>
 end
 
 ## Depart from Waypoint Script
@@ -100,7 +101,8 @@ function event_enter(e)
 
 **Message:** <span class="text-warning">*A note on the ground catches your eye.*</span>
 
-**You receive:**  [A Sealed List](/item/18835)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18835" data-url="18835" class="tooltip-link link">A Sealed List</a>
 
 eq.clear_proximity();
 ## Timer(s)

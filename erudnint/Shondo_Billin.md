@@ -27,7 +27,8 @@ end
 
 
 
-if( **You turn in:** [Vasty Deep Ale](/item/13126)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_827.png" alt="" /> <a
+                                href="/item/13126" data-url="13126" class="tooltip-link link">Vasty Deep Ale</a>) then
 
 
 >**Shondo Billin says:** Gulp.. Gulp.. Aaahhh!!! That hits the spot. All I can tell you is that the heretic's name was E'lial B'rook. He mumbled something about a rendezvous and he would be floating down a river, smooth sailing back to something called Paineel. That's all I know.
@@ -36,22 +37,24 @@ if( **You turn in:** [Vasty Deep Ale](/item/13126)) then
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (10)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (2)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (2)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-2)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+100 exp)
+ &#127873; **You receive:** 0 (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

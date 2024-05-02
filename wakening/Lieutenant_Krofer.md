@@ -28,7 +28,8 @@ elseif( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Krofers Requisition](/item/1706)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/1706" data-url="1706" class="tooltip-link link">Krofers Requisition</a>
 
 
 **You say:** `reinforcement`
@@ -70,73 +71,90 @@ local text = "Where is the rest, manling?";
 
 
 
-if( **Faction is** >= Indifferent and  **You turn in:** [Mercenary Assignment](/item/1702)) then 
+if( **Faction is** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/1702" data-url="1702" class="tooltip-link link">Mercenary Assignment</a>) then 
 
 
 >**Lieutenant Krofer says:** Drioc sent you? I suppose one can't expect much from a mercenary. Well then, Soandso, your first assignment will be to clear out some of this forest's annoying populace. Bring me the meat of one of the raptors, the meat of two panthers, and the remains of one of those living puddles of black sludge found in the caves. You will then have your payment.
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (2)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (2)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
 
-elseif( **Faction is** >= Indifferent and  **You turn in:** [Panther Meat](/item/22851), [Panther Meat](/item/22851), [Raptor Meat](/item/22852), [Tar goo strands](/item/1703)) then 
+ 
+
+elseif( **Faction is** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/22851" data-url="22851" class="tooltip-link link">Panther Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/22851" data-url="22851" class="tooltip-link link">Panther Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/22852" data-url="22852" class="tooltip-link link">Raptor Meat</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1222.png" alt="" /> <a
+                                href="/item/1703" data-url="1703" class="tooltip-link link">Tar goo strands</a>) then 
 
 
 >**Lieutenant Krofer says:** Well, I suppose you may be worth something more than fodder after all. Here is your payment. Speak to me again when you are ready for your next assignment. For now, get some rest, you will need it.
 
 
-* __Faction:__ [Kromzek](/faction/448) (10)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (2)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (2)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-5)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [Sifaye messengers report](/item/1704)) then 
+**You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 7 <img src='/static/icons/item_646.png' width='14' height='14'/> 1 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/1704" data-url="1704" class="tooltip-link link">Sifaye messengers report</a>) then 
 
 
 >**Lieutenant Krofer says:** Excellent, Soandso. With this we can plan an attack that might actually accomplish something. Here is your payment. You have also earned this cloak, it should help protect you from the clawing undergrowth of this savage land. Your next mission will be more complex and dangerous, however we may be able to spare a laborer or two to assist you. Rest now, and tell me when you are prepared.
 
 
-* __Faction:__ [Kromzek](/faction/448) (13)
+Your faction standing with [Kromzek](/faction/448) got better (<span class='text-success'>+13</span>)
 
 
-* __Faction:__ [Kromrif](/faction/419) (3)
+Your faction standing with [Kromrif](/faction/419) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [King Tormax](/faction/429) (3)
+Your faction standing with [King Tormax](/faction/429) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Claws of Veeshan](/faction/430) (-6)
+Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span class='text-danger'>-6</span>)
 
 
- **You receive:**  [Velium Studded Cloak](/item/1705) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_661.png" alt="" /> <a
+                                href="/item/1705" data-url="1705" class="tooltip-link link">Velium Studded Cloak</a> (+1000 exp)
 
-elseif( **You turn in:** [Signed Requisition](/item/1707)) then 
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 4 <img src='/static/icons/item_645.png' width='14' height='14'/> 5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/1707" data-url="1707" class="tooltip-link link">Signed Requisition</a>) then 
 
 
 >*Lieutenant Krofer takes the note and looks it over, then sighs and says, 'This will have to be enough. The squad should be here shortly. When they arrive you will march with them to the staging area near the village of those insect Sifaye. When you are satisfied with the formation, give the corporal the order to attack and observe the battle. After the village is destroyed return this report to me and we'll plan our next move.'*
 
 
- **You receive:**  [Mission Report](/item/1708) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/1708" data-url="1708" class="tooltip-link link">Mission Report</a> (+1000 exp)
+
+ 
 
 
 **Spawn NPC:**  [Corporal Hlash](/npc/119022) at (**y:** -699, **x:** -4975)

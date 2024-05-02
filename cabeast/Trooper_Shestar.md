@@ -24,13 +24,19 @@ local text = "I asked for three loose wolf scales and my fee of five gold.";
 
 
 
-if( **You turn in:** [Loose Scale](/item/12466), [Loose Scale](/item/12466), [Loose Scale](/item/12466), gold = 5) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12466" data-url="12466" class="tooltip-link link">Loose Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12466" data-url="12466" class="tooltip-link link">Loose Scale</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1088.png" alt="" /> <a
+                                href="/item/12466" data-url="12466" class="tooltip-link link">Loose Scale</a>, gold = 5) then
 
 
 >*Trooper Shestar quickly inserts the scales into a half finished coif and hands you the coif. 'I am afraid that is not enough and I cannot possibly complete the task while on duty. You must go and find an additional three Scaled Wolf Scales and take them, along with the Unfinished Coif, to the nearest forge and complete the smithing yourself. I hope you are a blacksmith.'*
 
 
- **You receive:**  [Shestar's Unfinished Coif](/item/12468) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/12468" data-url="12468" class="tooltip-link link">Shestar's Unfinished Coif</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -45,7 +45,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Empty Box](/item/17945)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17945" data-url="17945" class="tooltip-link link">Empty Box</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -70,7 +71,8 @@ end
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [One Quarter of Elixir](/item/13244)) then 
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/13244" data-url="13244" class="tooltip-link link">One Quarter of Elixir</a>) then 
 
 
 >**Megan OReilly says:** Oh thank you. Sorry, but the bottle is empty now. I hope you did't need any. Take the empty bottle back to Dargon. He may refill it for you.
@@ -79,19 +81,22 @@ if( **Faction is** > Indifferent and  **You turn in:** [One Quarter of Elixir](/
 
 
 
-* __Faction:__ [Wolves of the North](/faction/320) (5)
+Your faction standing with [Wolves of the North](/faction/320) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shamen of Justice](/faction/327) (1)
+Your faction standing with [Shamen of Justice](/faction/327) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Halas](/faction/328) (1)
+Your faction standing with [Merchants of Halas](/faction/328) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Steel Warriors](/faction/311) (1)
+Your faction standing with [Steel Warriors](/faction/311) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Empty Bottle of Elixir](/item/13245) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/13245" data-url="13245" class="tooltip-link link">Empty Bottle of Elixir</a> (+150 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

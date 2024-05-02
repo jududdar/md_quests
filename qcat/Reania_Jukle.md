@@ -20,7 +20,8 @@
 >**Reania Jukle says:** The ink is the blood of a dark scribe. Tempt him and give him this vial. He should cooperate.
 
 
-**You receive:**  [Empty Ink Vial](/item/10626)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_585.png" alt="" /> <a
+                                href="/item/10626" data-url="10626" class="tooltip-link link">Empty Ink Vial</a>
 
 
 local enchant_bars_lib = require("self_found_enchant_bars");
@@ -32,25 +33,29 @@ enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
 
 
 
-if( **You turn in:** [Blood Stained Note](/item/18851)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18851" data-url="18851" class="tooltip-link link">Blood Stained Note</a>) then 
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (100)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-15)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-15</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (10)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-25)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (5)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Dirty Purple Robe*](/item/13596) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_928.png" alt="" /> <a
+                                href="/item/13596" data-url="13596" class="tooltip-link link">Dirty Purple Robe*</a> (+20 exp)
+
+ 
 
 
 local enchant_bars_lib = require("self_found_enchant_bars");

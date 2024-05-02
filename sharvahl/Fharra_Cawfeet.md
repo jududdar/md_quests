@@ -24,20 +24,29 @@ end
 
 
 
-if( **You turn in:** [Treated Hopperhide Buckler](/item/3495)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/3495" data-url="3495" class="tooltip-link link">Treated Hopperhide Buckler</a>) then
 
 
 >*Fharra Cawfeet looks like she has been awake for many hours. She looks up and says 'Are you here to assist me with these sick citizens? I was told that a few of our newest Dar Khura recruits might be coming to aid me. I could definitly use the help. Here, take the jar while I explain. Were you told about the [tasks] that I need help with?' The room is filled with the smell of aromatic herbs and the sweat of the feverish.*
 
 
- **You receive:** GiveAll( [Treated Hopperhide Buckler](/item/3495), [Blackened Clay Jar](/item/17077)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_760.png" alt="" /> <a
+                                href="/item/3495" data-url="3495" class="tooltip-link link">Treated Hopperhide Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_705.png" alt="" /> <a
+                                href="/item/17077" data-url="17077" class="tooltip-link link">Blackened Clay Jar</a>) 
 
-elseif( **You turn in:** [Jar of Tonic](/item/5536)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_705.png" alt="" /> <a
+                                href="/item/5536" data-url="5536" class="tooltip-link link">Jar of Tonic</a>) then
 
 
 >*Fharra Cawfeet perks up when you hand her the jar. 'Many thanks,' she exclaims, as she digs in her medicine bag. 'Your assistance is greatly appreciated. Please take this tincture. It will help to strength your buckler. Mydi Darjik can help you apply it. She is a friend and a wonderful alchemist. Tell her that you need her to treat your buckler. Take care, friend!'*
 
 
- **You receive:**  [Strong Smelling Tincture](/item/5537) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/5537" data-url="5537" class="tooltip-link link">Strong Smelling Tincture</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

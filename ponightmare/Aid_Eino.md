@@ -187,13 +187,17 @@ end
 
 
 
-if ( escortDone and  **You turn in:** [Strand of Nightmare](/item/16261) ) then 
+if ( escortDone and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/16261" data-url="16261" class="tooltip-link link">Strand of Nightmare</a> ) then 
 
 
 >**Aid Eino says:** Excellent!  You and your companions have served me well, take my mark as a symbol of trust.  The Council may smile more favorably upon you now.  May Quellious watch over you!
 
 
- **You receive:**  [Tiny Gold Fist](/item/16260) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a
+                                href="/item/16260" data-url="16260" class="tooltip-link link">Tiny Gold Fist</a> 
+
+ 
 
 
 **Aid Eino despawns.**

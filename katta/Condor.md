@@ -19,40 +19,44 @@ end
 
 
 
-if( **You turn in:** [Recording Stone](/item/29846)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/29846" data-url="29846" class="tooltip-link link">Recording Stone</a>) then 
 
 
 >**Condor says:** Pefect, this should give us some idea of what they may or may not know. 'as he puts the stone in his belt pouch.' Very well done, my friend. Have you ever considered a career in espoinage? Take this.  I have little need for it these days - Tilbok will know how to recharge it, 'he says with a wry grin before disappearing back into the shadaows.
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (5)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (1)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Nathyn Illuminious](/faction/1505) (-1)
+Your faction standing with [Nathyn Illuminious](/faction/1505) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coterie of the Eternal Night](/faction/1506) (-1)
+Your faction standing with [Coterie of the Eternal Night](/faction/1506) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-2)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (-1)
+Your faction standing with [Eye of Seru](/faction/1485) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Hand Legionnaries](/faction/1541) (-1)
+Your faction standing with [Hand Legionnaries](/faction/1541) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Mask of Espionage](/item/5105) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_770.png" alt="" /> <a
+                                href="/item/5105" data-url="5105" class="tooltip-link link">Mask of Espionage</a> (+5000 exp)
+
+ 
 
 
 **Condor despawns.**

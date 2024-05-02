@@ -6,13 +6,17 @@
 
 
 
-if( **Faction is** > Indifferent and  **You turn in:** [Dull Emerald](/item/10634)) then
+if( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/10634" data-url="10634" class="tooltip-link link">Dull Emerald</a>) then
 
 
 >**Impaler Tzilug says:** Your bidding has been done, now leave this land and never return.
 
 
- **You receive:**  [Enchanted Emerald](/item/10621) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/10621" data-url="10621" class="tooltip-link link">Enchanted Emerald</a> (+10000 exp)
+
+ 
 
 if( **Faction is** < Amiable) then
 

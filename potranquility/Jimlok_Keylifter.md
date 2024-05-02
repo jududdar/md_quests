@@ -38,7 +38,8 @@ end
 
 
 
-if( **You turn in:** [Tiny Bottle and Note](/item/28277)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1134.png" alt="" /> <a
+                                href="/item/28277" data-url="28277" class="tooltip-link link">Tiny Bottle and Note</a>) then
 
 
 >*Jimlok Keylifter sighs deeply as he hands you an intricate schematic of some device. The notation on the document is written in a strange language that is completely foreign to you. 'This doesn't bode well for Gilor. He says he's found a secret tunnel and he's going to go in deeper. I guess I'll go in and find him if he doesn't return soon. Well, a deal is a deal. Here is the document that I mentioned.*
@@ -47,6 +48,9 @@ if( **You turn in:** [Tiny Bottle and Note](/item/28277)) then
 >**Jimlok Keylifter says:** The person that I was supposed to lift it for was a jeweler of sorts, but he mainly dealt in mechanical devices. I wasn't able to track him down to get my coin, so I don't know what you'll do with it. Maybe my cousin Tabben will give you something for it. He's got himself a little tinker's shop in the Jeral section of New Tanaan. Show him the map thingy and see what he says.
 
 
- **You receive:**  [Strange Jeweler's Schematic](/item/28278) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28278" data-url="28278" class="tooltip-link link">Strange Jeweler's Schematic</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

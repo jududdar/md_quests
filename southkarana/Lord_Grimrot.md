@@ -88,31 +88,48 @@ end
 
 
 
-if( **You turn in:** [Dwarf Skull](/item/12137)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12137" data-url="12137" class="tooltip-link link">Dwarf Skull</a>) then
 
 
 >**Lord Grimrot says:** The head for my commander. Let us see. I have a body ready for it. There. Hahahaha!! As for your fine work, take this. Also, I believe you can help me find my beloved [Arlena].
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (15)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-2)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (1)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-3)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+0 exp)
+ &#127873; **You receive:** 0 (+0 exp)
+
+ 
 
 
- **You receive:** eq.ChooseRandom( [Raw-hide Skullcap](/item/2137), [Raw-hide Mask](/item/2138), [Raw-hide Gorget](/item/2139), [Raw-hide Tunic](/item/2140), [Raw-hide Shoulderpads](/item/2141), [Raw-hide Cloak](/item/2142), [Raw-hide Belt](/item/2143), [Raw-hide Sleeves](/item/2144), [Raw-hide Wristbands](/item/2145), [Raw-hide Gloves](/item/2146), [Raw-hide Leggings](/item/2147), [Raw-hide Boots](/item/2148)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2137" data-url="2137" class="tooltip-link link">Raw-hide Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2138" data-url="2138" class="tooltip-link link">Raw-hide Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
+                                href="/item/2139" data-url="2139" class="tooltip-link link">Raw-hide Gorget</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2140" data-url="2140" class="tooltip-link link">Raw-hide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/2141" data-url="2141" class="tooltip-link link">Raw-hide Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2142" data-url="2142" class="tooltip-link link">Raw-hide Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/2143" data-url="2143" class="tooltip-link link">Raw-hide Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2144" data-url="2144" class="tooltip-link link">Raw-hide Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/2145" data-url="2145" class="tooltip-link link">Raw-hide Wristbands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2146" data-url="2146" class="tooltip-link link">Raw-hide Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2147" data-url="2147" class="tooltip-link link">Raw-hide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2148" data-url="2148" class="tooltip-link link">Raw-hide Boots</a>) (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

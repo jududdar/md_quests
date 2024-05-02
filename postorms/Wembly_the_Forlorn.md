@@ -73,7 +73,11 @@ end
 
 
 
-if( **You turn in:** [Quarter of a Diaku Emblem](/item/29216), [Quarter of a Diaku Emblem](/item/29217), [Quarter of a Diaku Emblem](/item/29218), [Quarter of a Diaku Emblem](/item/29219)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/29216" data-url="29216" class="tooltip-link link">Quarter of a Diaku Emblem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/29217" data-url="29217" class="tooltip-link link">Quarter of a Diaku Emblem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/29218" data-url="29218" class="tooltip-link link">Quarter of a Diaku Emblem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/29219" data-url="29219" class="tooltip-link link">Quarter of a Diaku Emblem</a>) then
 
 
 
@@ -87,15 +91,18 @@ if (  **Faction is** >= Amiable ) then
 
 
 
-* __Faction:__ [Askr the Lost](/faction/1609) (5)
+Your faction standing with [Askr the Lost](/faction/1609) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Storm Guardians](/faction/1618) (5)
+Your faction standing with [Storm Guardians](/faction/1618) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Completed Diaku Emblem](/item/29215) (+150000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/29215" data-url="29215" class="tooltip-link link">Completed Diaku Emblem</a> (+150000 exp)
+
+ 
 
 
 

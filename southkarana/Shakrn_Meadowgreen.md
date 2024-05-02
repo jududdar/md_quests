@@ -85,37 +85,60 @@ end
 local text = "Wait, Soandso, are you not forgetting something?";
 
 
-if( **You turn in:** [Goblin Fire Totem](/item/13743), [Ruby](/item/10035)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/13743" data-url="13743" class="tooltip-link link">Goblin Fire Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then
 
 
 >**Shakrn Meadowgreen says:** By the gods, a fire goblin totem! Well done, warrior! Here is your crafted helm. Wear it with pride, for it is a true warrior's helmet.
 
 
- **You receive:**  [Crafted Helm](/item/4173) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/4173" data-url="4173" class="tooltip-link link">Crafted Helm</a> (+25000 exp)
 
-elseif( **You turn in:** [Aviak Charm](/item/13737), [Star Ruby](/item/10032), [Star Ruby](/item/10032)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1056.png" alt="" /> <a
+                                href="/item/13737" data-url="13737" class="tooltip-link link">Aviak Charm</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10032" data-url="10032" class="tooltip-link link">Star Ruby</a>) then
 
 
 >**Shakrn Meadowgreen says:** Ho ho! An aviak charm. These are not easy to come by. You have proven yourself a mighty warrior, and therefore deserve to wear these crafted warrior gauntlets.
 
 
- **You receive:**  [Crafted Gauntlets](/item/4178) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4178" data-url="4178" class="tooltip-link link">Crafted Gauntlets</a> (+25000 exp)
 
-elseif( **You turn in:** [Goblin Frost Totem](/item/13744), [Sapphire](/item/10034), [Sapphire](/item/10034)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/13744" data-url="13744" class="tooltip-link link">Goblin Frost Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10034" data-url="10034" class="tooltip-link link">Sapphire</a>) then
 
 
 >**Shakrn Meadowgreen says:** What strength you must have to return with a frost goblin totem. You have surprised me - I did not think you up to the task. Take these crafted boots - you have indeed earned them.
 
 
- **You receive:**  [Crafted Plate Boots](/item/4180) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4180" data-url="4180" class="tooltip-link link">Crafted Plate Boots</a> (+25000 exp)
 
-elseif( **You turn in:** [Griffon Eye](/item/13739), [Fire Emerald](/item/10033), [Fire Emerald](/item/10033)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/13739" data-url="13739" class="tooltip-link link">Griffon Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_962.png" alt="" /> <a
+                                href="/item/10033" data-url="10033" class="tooltip-link link">Fire Emerald</a>) then
 
 
 >**Shakrn Meadowgreen says:** A griffon eye - I shall eat well tonight, and toast you in the manner of my ancestors. Take these crafted vambraces - they will serve you well.
 
 
- **You receive:**  [Crafted Vambraces](/item/4176) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4176" data-url="4176" class="tooltip-link link">Crafted Vambraces</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

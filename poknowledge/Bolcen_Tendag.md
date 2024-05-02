@@ -19,7 +19,8 @@ end
 
 
 
-if( **You turn in:** [Curative Potion](/item/28091)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_692.png" alt="" /> <a
+                                href="/item/28091" data-url="28091" class="tooltip-link link">Curative Potion</a>) then
 
 
 >**Bolcen Tendag says:** Oh thank you so much.' He drinks from the bottle, then reaches in his pocket and produces a set of needles. 'I believe this is what Willamina is in need of. Please take these to her and give her my best.
@@ -28,6 +29,9 @@ if( **You turn in:** [Curative Potion](/item/28091)) then
 
 
 
- **You receive:**  [New Sewing Needles](/item/28092) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_716.png" alt="" /> <a
+                                href="/item/28092" data-url="28092" class="tooltip-link link">New Sewing Needles</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

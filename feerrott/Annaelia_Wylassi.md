@@ -21,13 +21,20 @@ end
 
 
 
-if( **You turn in:** [Human Blood](/item/22514), [Jade Inlaid Coffin](/item/17355), [Vial of Clear Mana](/item/10252), [Essence Emerald](/item/9963)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/22514" data-url="22514" class="tooltip-link link">Human Blood</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1142.png" alt="" /> <a
+                                href="/item/17355" data-url="17355" class="tooltip-link link">Jade Inlaid Coffin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1134.png" alt="" /> <a
+                                href="/item/10252" data-url="10252" class="tooltip-link link">Vial of Clear Mana</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_958.png" alt="" /> <a
+                                href="/item/9963" data-url="9963" class="tooltip-link link">Essence Emerald</a>) then
 
 
 >**Annaelia Wylassi says:** I will now try the reanimation.' Streams of mana surround the bones but nothing happens. Annaelia looks annoyed. 'Worthless bones! Why do they hum like this? Grah, I don't care I have too much to study. You want them? Take them!
 
 
- **You receive:**  [Resonant Bone Chips](/item/7984) (+60000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/7984" data-url="7984" class="tooltip-link link">Resonant Bone Chips</a> (+60000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

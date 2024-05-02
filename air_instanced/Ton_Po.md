@@ -33,36 +33,54 @@ end
 
 
 
-if( **You turn in:** [Finely Woven Gold Mesh](/item/20793), [Silken Strands](/item/20794), [Verdant Tessera](/item/20932)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1062.png" alt="" /> <a
+                                href="/item/20793" data-url="20793" class="tooltip-link link">Finely Woven Gold Mesh</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_853.png" alt="" /> <a
+                                href="/item/20794" data-url="20794" class="tooltip-link link">Silken Strands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20932" data-url="20932" class="tooltip-link link">Verdant Tessera</a>) then 
 
 
 
 >**Ton Po says:** You have done well, Soandso.
 
 
- **You receive:**  [Back Straps of Mastery](/item/27714) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/27714" data-url="27714" class="tooltip-link link">Back Straps of Mastery</a> (+100000 exp)
+
+ 
 
 
 **Ton Po despawns.**
 
-elseif( **You turn in:** [Cracked Leather Eyepatch](/item/20796), [Gold Disc](/item/20939), [Tiny Ruby](/item/20795)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_595.png" alt="" /> <a
+                                href="/item/20796" data-url="20796" class="tooltip-link link">Cracked Leather Eyepatch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/20939" data-url="20939" class="tooltip-link link">Gold Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/20795" data-url="20795" class="tooltip-link link">Tiny Ruby</a>) then 
 
 
 >**Ton Po says:** You have done well, Soandso.
 
 
- **You receive:**  [Ton Po's Eye Patch](/item/1281) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_595.png" alt="" /> <a
+                                href="/item/1281" data-url="1281" class="tooltip-link link">Ton Po's Eye Patch</a> (+100000 exp)
+
+ 
 
 
 **Ton Po despawns.**
 
-elseif( **You turn in:** [Adumbrate Globe](/item/20946), [Dove Slippers](/item/20798), [Shimmering Opal](/item/20797)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20946" data-url="20946" class="tooltip-link link">Adumbrate Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_761.png" alt="" /> <a
+                                href="/item/20798" data-url="20798" class="tooltip-link link">Dove Slippers</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_959.png" alt="" /> <a
+                                href="/item/20797" data-url="20797" class="tooltip-link link">Shimmering Opal</a>) then 
 
 
 >**Ton Po says:** You have done well, Soandso.
 
 
- **You receive:**  [Sandals of Alacrity](/item/1280) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_558.png" alt="" /> <a
+                                href="/item/1280" data-url="1280" class="tooltip-link link">Sandals of Alacrity</a> (+100000 exp)
+
+ 
 
 
 **Ton Po despawns.**

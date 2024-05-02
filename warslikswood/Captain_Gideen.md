@@ -23,7 +23,10 @@ end
 if( **Faction is** > Apprehensive) then
 
 
-if( **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>) then
 
 
 
@@ -31,27 +34,30 @@ if( **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch]
 
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (3)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Aloe Swatch](/item/12357) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/12357" data-url="12357" class="tooltip-link link">Aloe Swatch</a> (+10 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **This NPC *should* return incorrect items given.**

@@ -161,45 +161,54 @@ end
 local text = "I thank you, but before I reward you I must have both the Bayle List II and your Thunder Staff.";
 
 
-if( **You turn in:** [A tattered note](/item/18710)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18710" data-url="18710" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Runethar Hamest says:** Greetings, fellow knight of Karana, and welcome to the Temple of Thunder! Here, wear this tunic and help our crusade. Wolten Grafe is my assistant, he will get you started and teach you the ways of the Rainkeeper.
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (100)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-100)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-100</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (75)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (75)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Old Gray Tunic*](/item/13505) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13505" data-url="13505" class="tooltip-link link">Old Gray Tunic*</a> (+100 exp)
 
-elseif **Faction** >= Warmly +150 and  **You turn in:** [Bayle List II](/item/18809), [Thunder Staff](/item/6357)) then
+ 
+
+elseif **Faction** >= Warmly +150 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18809" data-url="18809" class="tooltip-link link">Bayle List II</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6357" data-url="6357" class="tooltip-link link">Thunder Staff</a>) then
 
 
 >**Runethar Hamest says:** Antonius Bayle will be pleased. The Temple is also pleased. Here is the enchanted staff we call Bonethunder. Should you find the enchantment gone, just ask Kasine to [enchant Bonethunder]. We need more disciples like you! Go forth to tell the world of the Rainkeeper.
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (-50)
+Your faction standing with [Knights of Thunder](/faction/280) got worse (<span class='text-danger'>-50</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (50)
+Your faction standing with [Bloodsabers](/faction/221) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (-37)
+Your faction standing with [Priests of Life](/faction/341) got worse (<span class='text-danger'>-37</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-37)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-37</span>)
 
 
- **You receive:**  [Bonethunder Staff](/item/6358) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_602.png" alt="" /> <a
+                                href="/item/6358" data-url="6358" class="tooltip-link link">Bonethunder Staff</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

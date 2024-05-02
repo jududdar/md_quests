@@ -23,13 +23,18 @@ local text = "That's one of the fiend's daggers. Quickly, where is the other one
 
 
 
-if( **You turn in:** [Woe](/item/1676), [Envy](/item/1677)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
+                                href="/item/1676" data-url="1676" class="tooltip-link link">Woe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1214.png" alt="" /> <a
+                                href="/item/1677" data-url="1677" class="tooltip-link link">Envy</a>) then 
 
 
 >**Tabien the Goodly says:** Ahh, thank Mithaniel you have put Glaron and his terrible reign to an You have done the world a great service by carrying out my instructions. Take this gem and give it to the one who sent you. He will reward you as befits such an accomplished mercenary such as yourself. Oh, and Marr be with you!
 
 
- **You receive:**  [Marble Pebble](/item/1670) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/1670" data-url="1670" class="tooltip-link link">Marble Pebble</a> 
+
+ 
 
 
 **Tabien the Goodly despawns.**

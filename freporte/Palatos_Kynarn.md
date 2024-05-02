@@ -33,35 +33,8 @@ end
 local text = "Mmmm...  more...  must... drown... sorrow...";
 
 
-if( **You turn in:** [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817), [Capt. Orlin's Spiced Ale](/item/13817)) then 
-
-
->**Palatos Kynarn says:** Ahh... I... <Hic!> Need help... <Hic!>  You... take this... Go build... boat beacon. <Hic!>  Ask gnomes about... <Hic!> boat beacon. They know how... Then bring back... <Hic!> Unnnhh! Prexus help me! I will never drink again.
-
-
-
-
-
-
-
-* __Faction:__ [Craftkeepers](/faction/231) (2)
-
-
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
-
-
-* __Faction:__ [Heretics](/faction/265) (-1)
-
-
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
-
-
-
-
- **You receive:**  [Beacon Mount](/item/12145) (+100 exp)
-
-
-elseif( **You turn in:** [Boat Beacon](/item/13818)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_728.png" alt="" /> <a
+                                href="/item/13818" data-url="13818" class="tooltip-link link">Boat Beacon</a>) then
 
 
 >**Palatos Kynarn says:** Thanks.. That saved me a lot of money. Now I can spend more time with the captain before I give this back to Lenka Stoutheart. Here is a little so...mething.
@@ -70,21 +43,24 @@ elseif( **You turn in:** [Boat Beacon](/item/13818)) then
 
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (10)
+Your faction standing with [Craftkeepers](/faction/231) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+20000 exp)
+ &#127873; **You receive:** 0 (+20000 exp)
 
-elseif( **You turn in:** [AkAnons Portrait](/item/12146)) then
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/12146" data-url="12146" class="tooltip-link link">AkAnons Portrait</a>) then
 
 
 >**Palatos Kynarn says:** Wise decision!! Little reward for a large deed. Bye.
@@ -93,19 +69,21 @@ elseif( **You turn in:** [AkAnons Portrait](/item/12146)) then
 
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (5)
+Your faction standing with [Craftkeepers](/faction/231) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [High Guard of Erudin](/faction/267) (1)
+Your faction standing with [High Guard of Erudin](/faction/267) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+200 exp)
+ &#127873; **You receive:** 0 (+200 exp)
+
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

@@ -186,15 +186,21 @@ end
 
 
 
-if( **You turn in:** [Jharin Hilt Piece](/item/6144)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/6144" data-url="6144" class="tooltip-link link">Jharin Hilt Piece</a>) then
 
 
 >**Hana Sulm says:** Well, you're going to need to practice for a while to make these things. Take these sketches and read up on the lore concerning sonic wolves. You'll learn how to use the sketches. Practice all you can. I'm sure that you're going to have a lot of people coming to you with requests.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (10)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:** GiveAll( [Claw Lining Sketches](/item/6139), [Jharin Hilt Piece](/item/6144), [Blade Lining Sketches](/item/6137)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/6139" data-url="6139" class="tooltip-link link">Claw Lining Sketches</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/6144" data-url="6144" class="tooltip-link link">Jharin Hilt Piece</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_861.png" alt="" /> <a
+                                href="/item/6137" data-url="6137" class="tooltip-link link">Blade Lining Sketches</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

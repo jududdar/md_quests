@@ -20,7 +20,8 @@
 >**Sarkis Ebonblade says:** Gragrot it is!  Take this book and read it.  When you are finished, hand it back to me and I shall summon Gragrot to test you.
 
 
-**You receive:**  [Shadowy Virtues](/item/18524)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18524" data-url="18524" class="tooltip-link link">Shadowy Virtues</a>
 
 **You say:** `Tynicon`
 
@@ -29,7 +30,8 @@
 >**Sarkis Ebonblade says:** Tynicon it is!  Take this book and read it.  When you are finished, hand it back to me and I shall summon Tynicon to test you.
 
 
-**You receive:**  [Knights of the Malign](/item/18525)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18525" data-url="18525" class="tooltip-link link">Knights of the Malign</a>
 end
 
 
@@ -37,7 +39,8 @@ end
 
 
 
-if( **You turn in:** [Shadowy Virtues](/item/18524)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18524" data-url="18524" class="tooltip-link link">Shadowy Virtues</a>) then 
 
 
 >**Sarkis Ebonblade says:** Farewell.
@@ -48,7 +51,8 @@ if( **You turn in:** [Shadowy Virtues](/item/18524)) then
 
 **Sarkis Ebonblade despawns.**
 
-elseif( **You turn in:** [Knights of the Malign](/item/18525)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18525" data-url="18525" class="tooltip-link link">Knights of the Malign</a>) then 
 
 
 >**Sarkis Ebonblade says:** Till next time!  Farewell!

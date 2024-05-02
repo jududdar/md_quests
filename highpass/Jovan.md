@@ -19,13 +19,17 @@ end
 
 
 
-if( **You turn in:** [Tumpy Tonic](/item/12114)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a>) then
 
 
 >**Jovan says:** <SLURP!!>  Ahh thhhhat'thh betterr. Take thithhh. <BURP!>
 
 
- **You receive:**  [Icon of the Fervent](/item/19006) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/19006" data-url="19006" class="tooltip-link link">Icon of the Fervent</a> (+1000 exp)
+
+ 
 
 
 **Jovan despawns.**

@@ -19,12 +19,16 @@ end
 
 
 
-if( **You turn in:** [Rose of Firiona](/item/12774)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_721.png" alt="" /> <a
+                                href="/item/12774" data-url="12774" class="tooltip-link link">Rose of Firiona</a>) then
 
 
 >*Merdan Fleetfoot blinks and looks at the flower. 'This is perfect. Thank you! I'm going to go over to her now. Erm, well, maybe I'll wait a week to let the uh.. beauty of the flower.. uhm.. blossom. Yes, that sounds good. Here, you take this painting. I don't need it now. I made it myself, she wouldn't like it anyways.'*
 
 
- **You receive:**  [Wood Painting](/item/20475) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_652.png" alt="" /> <a
+                                href="/item/20475" data-url="20475" class="tooltip-link link">Wood Painting</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

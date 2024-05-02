@@ -10,7 +10,8 @@
 e.self:DoAnim(70);
 
 
-if(**You possess item:**  [Intermediate Magic Manual](/item/28796) x 1
+if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28796" data-url="28796" class="tooltip-link link">Intermediate Magic Manual</a> x 1
 
 
 
@@ -31,7 +32,11 @@ end
 
 
 
-if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Battle Worn Trinket](/item/26710), [Tornado Gem](/item/9424), [Intermediate Magic Manual](/item/28796)) then
+if(**Your level** > 19 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/22503" data-url="22503" class="tooltip-link link">Blue Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1038.png" alt="" /> <a
+                                href="/item/26710" data-url="26710" class="tooltip-link link">Battle Worn Trinket</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/9424" data-url="9424" class="tooltip-link link">Tornado Gem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28796" data-url="28796" class="tooltip-link link">Intermediate Magic Manual</a>) then
 
 
 >**Zalil Nyvin says:** 'When I saw you walk in the room with these, I nearly fainted. Bravo to you on a job well done. Take this book, may it light your path to day's Say, want to know something else? I hear Tenada Jeried is looking for some more students of your caliber. You may wish to seek him out and see what he has to offer. Just tell him you are interested in learning from him. Bye, Soandso!
@@ -40,6 +45,9 @@ if(**Your level** > 19 and  **You turn in:** [Blue Diamond](/item/22503), [Battl
 
 
 
- **You receive:**  [Advanced Magic Manual](/item/28797) (+500000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/28797" data-url="28797" class="tooltip-link link">Advanced Magic Manual</a> (+500000 exp)
+
+**You receive coin:** 0-5 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

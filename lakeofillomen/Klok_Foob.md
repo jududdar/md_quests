@@ -49,7 +49,9 @@ local text = "No. Foob needs two sandwiches to makes it through da day.";
 
 
 
-if( **You turn in:** [Catfish Croak Sandwich](/item/12451), [Catfish Croak Sandwich](/item/12451)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1020.png" alt="" /> <a
+                                href="/item/12451" data-url="12451" class="tooltip-link link">Catfish Croak Sandwich</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1020.png" alt="" /> <a
+                                href="/item/12451" data-url="12451" class="tooltip-link link">Catfish Croak Sandwich</a>) then
 
 
 
@@ -61,14 +63,17 @@ if( **You turn in:** [Catfish Croak Sandwich](/item/12451), [Catfish Croak Sandw
 
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (15)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (3)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+3</span>)
 
 
 
- **You receive:**  [Foobscale Coif](/item/12448) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/12448" data-url="12448" class="tooltip-link link">Foobscale Coif</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

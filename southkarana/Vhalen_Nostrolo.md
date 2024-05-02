@@ -72,51 +72,63 @@ end
 
 
 
-if( **You turn in:** [Lisera Lute](/item/13114)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_551.png" alt="" /> <a
+                                href="/item/13114" data-url="13114" class="tooltip-link link">Lisera Lute</a>) then 
 
 
 >**Vhalen Nostrolo says:** Oh, dear! I forgot to repair Cassius' lute. I shall fix and return it to him myself. Thank you for bringing this to me. Here, please return this note to Cassius. He shall be most happy. Thank you again, good citizen!
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (20)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Note To Cassius](/item/18803) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18803" data-url="18803" class="tooltip-link link">Note To Cassius</a> (+5000 exp)
 
-elseif( **You turn in:** [Winds of Karana sheet 1](/item/13116), [Winds of Karana sheet 2](/item/13119)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/13116" data-url="13116" class="tooltip-link link">Winds of Karana sheet 1</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/13119" data-url="13119" class="tooltip-link link">Winds of Karana sheet 2</a>) then 
 
 
 >**Vhalen Nostrolo says:** Thank you, my friend. I have just completed the composition. It is a work of art. Here. Have a copy. I hope you have the musical talent required to play it. If not.. Practice, practice, practice!
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (30)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (4)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (4)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (-1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Song: Jaxan\`s Jig o\` Vigor](/item/15722), [Song: Selo\`s Accelerando](/item/15717), [Song: Chords of Dissonance](/item/15703), [Song: Chant of Battle](/item/15700)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15722" data-url="15722" class="tooltip-link link">Song: Jaxan\`s Jig o\` Vigor</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15717" data-url="15717" class="tooltip-link link">Song: Selo\`s Accelerando</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15703" data-url="15703" class="tooltip-link link">Song: Chords of Dissonance</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15700" data-url="15700" class="tooltip-link link">Song: Chant of Battle</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

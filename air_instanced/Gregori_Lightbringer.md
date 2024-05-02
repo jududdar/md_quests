@@ -43,7 +43,11 @@ end
 
 
 
-if( **You turn in:** [Efreeti Zweihander](/item/20725), [Dulcet Nectar](/item/20964), [Golden Hilt](/item/20726), [Large Sky Diamond](/item/20727)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/20725" data-url="20725" class="tooltip-link link">Efreeti Zweihander</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20964" data-url="20964" class="tooltip-link link">Dulcet Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_973.png" alt="" /> <a
+                                href="/item/20726" data-url="20726" class="tooltip-link link">Golden Hilt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20727" data-url="20727" class="tooltip-link link">Large Sky Diamond</a>) then 
 
 
 
@@ -51,31 +55,46 @@ if( **You turn in:** [Efreeti Zweihander](/item/20725), [Dulcet Nectar](/item/20
 >**Gregori Lightbringer says:** Truvinan is now yours, Soandso. I pray that you use the Divine Wind wisely.
 
 
- **You receive:**  [Truvinan](/item/11682) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_519.png" alt="" /> <a
+                                href="/item/11682" data-url="11682" class="tooltip-link link">Truvinan</a> (+100000 exp)
+
+ 
 
 
 **Gregori Lightbringer despawns.**
 
-elseif( **You turn in:** [Griffon Statuette](/item/20950), [Spiroc Peace Totem](/item/20721), [Bixie Sword Blade](/item/20722)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20950" data-url="20950" class="tooltip-link link">Griffon Statuette</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20721" data-url="20721" class="tooltip-link link">Spiroc Peace Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_591.png" alt="" /> <a
+                                href="/item/20722" data-url="20722" class="tooltip-link link">Bixie Sword Blade</a>) then 
 
 
 
 >**Gregori Lightbringer says:** Rare is it to see one such as yourself go so far. Wield Aldryn with pride, Soandso, and know that you are perhaps unique among your peers.
 
 
- **You receive:**  [Aldryn, Blade of the Ocean](/item/27708) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/27708" data-url="27708" class="tooltip-link link">Aldryn, Blade of the Ocean</a> (+100000 exp)
+
+ 
 
 
 **Gregori Lightbringer despawns.**
 
-elseif( **You turn in:** [Dark Spiroc Feather](/item/20957), [Ethereal Topaz](/item/20723), [Sphinx Claw](/item/20724)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20957" data-url="20957" class="tooltip-link link">Dark Spiroc Feather</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_954.png" alt="" /> <a
+                                href="/item/20723" data-url="20723" class="tooltip-link link">Ethereal Topaz</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
+                                href="/item/20724" data-url="20724" class="tooltip-link link">Sphinx Claw</a>) then 
 
 
 
 >**Gregori Lightbringer says:** You are indeed worthy of this divine sword, Soandso. As long as you wield Thelvorn, you will follow the true path.
 
 
- **You receive:**  [Thelvorn, Blade of Light](/item/27709) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_575.png" alt="" /> <a
+                                href="/item/27709" data-url="27709" class="tooltip-link link">Thelvorn, Blade of Light</a> (+100000 exp)
+
+ 
 
 
 **Gregori Lightbringer despawns.**

@@ -12,7 +12,8 @@ end
 
 
 
-if( **You turn in:** [Ro's Breath](/item/14331)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_701.png" alt="" /> <a
+                                href="/item/14331" data-url="14331" class="tooltip-link link">Ro's Breath</a>) then 
 
 
 >**Dargon says:** So, I've been discovered! You must know Camin - he is one of the only people who could have recognized my work. I have worked very hard to mask my presence here.
@@ -25,7 +26,8 @@ if( **You turn in:** [Ro's Breath](/item/14331)) then
 
 
 
-elseif( **You turn in:** [Arantir's Ring](/item/14335)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1064.png" alt="" /> <a
+                                href="/item/14335" data-url="14335" class="tooltip-link link">Arantir's Ring</a>) then
 
 
 >**Dargon says:** Ah, but it pains my heart to see this. How I could love a women like that is beyond me. And yet, I still do love her. It was on the day I was to ask her to marry me that I lost my powers. When I was about to cast my greatest spell to prove my love to her, my magic failed. She ran out on me that day. But enough of me, do you wish to hear my story?
@@ -41,7 +43,8 @@ eq.set_global("wizepicA","1",1,"F");
 
 
 
-elseif( **You turn in:** [Note to Arantir](/item/18168)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18168" data-url="18168" class="tooltip-link link">Note to Arantir</a>) then
 
 
 **Spawn NPC:**  [Arantir Karondor](/npc/29089) at this location.

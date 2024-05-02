@@ -21,7 +21,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Note to Quan Nektogo](/item/19845)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/19845" data-url="19845" class="tooltip-link link">Note to Quan Nektogo</a>
 
 
 **You say:** `important task`
@@ -41,22 +42,26 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Raenna Griff's Head](/item/19934)) then 
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_983.png" alt="" /> <a
+                                href="/item/19934" data-url="19934" class="tooltip-link link">Raenna Griff's Head</a>) then 
 
 
 >**Gunex Eklar says:** It took you long enough. I wonder if the Militia will be able to identify the body minus its head. Take this Dull Dismal Long Sword and sharpen it in a forge with a sharpening stone. It may take you several attempts if you are unfamiliar with the process. Once that is accomplished deliver the Sharpened Dismal Long Sword and a Giant Rattlesnake Skin to Quan Nektogo. He will make the final preparations on your weapon.
 
 
-* __Faction:__ [Dismal Rage](/faction/271) (10)
+Your faction standing with [Dismal Rage](/faction/271) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Opal Darkbriar](/faction/296) (2)
+Your faction standing with [Opal Darkbriar](/faction/296) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Dull Dismal Long Sword](/item/19923) (+200 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_590.png" alt="" /> <a
+                                href="/item/19923" data-url="19923" class="tooltip-link link">Dull Dismal Long Sword</a> (+200 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -5,7 +5,8 @@
 
 
 
-if( **You turn in:** [Golem Sprocket](/item/14319)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_731.png" alt="" /> <a
+                                href="/item/14319" data-url="14319" class="tooltip-link link">Golem Sprocket</a>) then
 
 
 >**a broken golem says:** Error! Malfunction! Destroy!

@@ -50,13 +50,19 @@ local text1 = "Oh no!! The bargain was, you bring me the keys to the main gates 
 
 
 
-if( **You turn in:** [A Stone Key](/item/12708), [A Bone Key](/item/12712), [A Bone Necklace](/item/12713)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1079.png" alt="" /> <a
+                                href="/item/12708" data-url="12708" class="tooltip-link link">A Stone Key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1078.png" alt="" /> <a
+                                href="/item/12712" data-url="12712" class="tooltip-link link">A Bone Key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_502.png" alt="" /> <a
+                                href="/item/12713" data-url="12713" class="tooltip-link link">A Bone Necklace</a>) then 
 
 
 >*an enslaved iksar escapes with a flash, but before he goes, he speaks, 'At last!! The keys which shall bring me freedom! I thank you and here is the contraption needle. Good luck.'*
 
 
- **You receive:**  [A Coarse Iron Needle](/item/12714) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/12714" data-url="12714" class="tooltip-link link">A Coarse Iron Needle</a> (+2000 exp)
+
+ 
 
 
 **an enslaved iksar despawns.**

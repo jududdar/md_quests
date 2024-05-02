@@ -112,7 +112,8 @@ if **Faction** >= Amiable +100 then
 
 
 
-**You receive:**  [Note to Niclaus](/item/18970)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/18970" data-url="18970" class="tooltip-link link">Note to Niclaus</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -134,28 +135,32 @@ end
 
 
 
-if **Faction** >= Dubious and  **You turn in:** [A Sealed Letter](/item/18802)) then 
+if **Faction** >= Dubious and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18802" data-url="18802" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Roesager Thusten says:** Rodcet be praised!! This is what we have been searching for! On behalf of the Temple of Life, let me thank you and offer you this small reward for your aid in our war against the Plaguebringer.
 
 
-* __Faction:__ [Priests of Life](/faction/341) (50)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+50</span>)
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (15)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (25)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-12)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-12</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (7)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+7</span>)
 
 
- **You receive:**  [Potion of Light Healing](/item/14007) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_600.png" alt="" /> <a
+                                href="/item/14007" data-url="14007" class="tooltip-link link">Potion of Light Healing</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

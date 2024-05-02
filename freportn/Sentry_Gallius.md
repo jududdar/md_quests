@@ -13,21 +13,25 @@ end
 
 
 
-if( **You turn in:** [Part of Potion of Marr](/item/12129)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12129" data-url="12129" class="tooltip-link link">Part of Potion of Marr</a>) then
 
 
 >**Sentry Gallius says:** Excellent!! I feel quite refreshed with but a sip. You may take this to the next sentry.
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (1)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-1)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Part of Potion of Marr](/item/12130) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_788.png" alt="" /> <a
+                                href="/item/12130" data-url="12130" class="tooltip-link link">Part of Potion of Marr</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

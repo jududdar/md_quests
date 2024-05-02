@@ -19,7 +19,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Claim Check](/item/18012)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18012" data-url="18012" class="tooltip-link link">Claim Check</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -46,27 +47,30 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Wooden Statue](/item/13864)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/13864" data-url="13864" class="tooltip-link link">Wooden Statue</a>) then
 
 
 >**Vesteri Nomanoi says:** Oh thank you so much! Here. Take this reward for your time. I will also tell Te'Anara of you.
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (5)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (1)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (1)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** 0 (+250 exp)
+ &#127873; **You receive:** 0 (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

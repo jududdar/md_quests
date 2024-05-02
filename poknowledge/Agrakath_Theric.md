@@ -19,15 +19,9 @@ end
 
 
 
-if( **You turn in:** [History of Evils: The Age of Scale](/item/28188)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/28084" data-url="28084" class="tooltip-link link">Note to Caden</a> (+100 exp)
 
-
->*Agrakath Theric eyes go wide with surprise as you hand over the book. 'Very impressive for one of your abilities. Here, take this note to Caden. He is absolved of his debt to me at this time.'*
-
-
-
-
-
- **You receive:**  [Note to Caden](/item/28084) (+100 exp)
+ 
 
 **This NPC *should* return incorrect items given.**

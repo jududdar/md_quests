@@ -100,28 +100,35 @@ local text = "I require all four reagents, anything less is useless. Incompetenc
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Ice Giant Toes](/item/16540), [Griffon Eye](/item/13739), [Brain of the Ishva Mal](/item/14111), [Powder of Reanimation](/item/14112)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/16540" data-url="16540" class="tooltip-link link">Ice Giant Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
+                                href="/item/13739" data-url="13739" class="tooltip-link link">Griffon Eye</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/14111" data-url="14111" class="tooltip-link link">Brain of the Ishva Mal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/14112" data-url="14112" class="tooltip-link link">Powder of Reanimation</a>) then
 
 
 >**Nivold Predd says:** Commendable work, you have proven yourself a valuable member of our order. Our chanters have summoned the avatar of Dread. Hurry and take him this mundane shield so that he may forge it into a truly valuable symbol of your devotion to the lord of Fear!
 
 
-* __Faction:__ [Heretics](/faction/265) (400)
+Your faction standing with [Heretics](/faction/265) got better (<span class='text-success'>+400</span>)
 
 
-* __Faction:__ [Deepwater Knights](/faction/242) (-400)
+Your faction standing with [Deepwater Knights](/faction/242) got worse (<span class='text-danger'>-400</span>)
 
 
-* __Faction:__ [Gate Callers](/faction/254) (-400)
+Your faction standing with [Gate Callers](/faction/254) got worse (<span class='text-danger'>-400</span>)
 
 
-* __Faction:__ [Craftkeepers](/faction/231) (-400)
+Your faction standing with [Craftkeepers](/faction/231) got worse (<span class='text-danger'>-400</span>)
 
 
-* __Faction:__ [Crimson Hands](/faction/233) (-400)
+Your faction standing with [Crimson Hands](/faction/233) got worse (<span class='text-danger'>-400</span>)
 
 
- **You receive:**  [Mundane Shield](/item/14105) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_805.png" alt="" /> <a
+                                href="/item/14105" data-url="14105" class="tooltip-link link">Mundane Shield</a> (+5000 exp)
+
+**You receive coin:** 1-9 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **Spawn NPC:**  [avatar of dread](/npc/75194) at (**y:** 1230, **x:** 474)

@@ -34,12 +34,17 @@ local text = "Okay. Where are the other ingredients?";
 
 
 
-if( **You turn in:** [Kiola Nut](/item/13340), [Water Flask](/item/13006)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1000.png" alt="" /> <a
+                                href="/item/13340" data-url="13340" class="tooltip-link link">Kiola Nut</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13006" data-url="13006" class="tooltip-link link">Water Flask</a>) then 
 
 
 >**Tumpy Irontoe says:** Here you go. One Tumpy Tonic. Don't drink that too fast now.
 
 
- **You receive:**  [Tumpy Tonic](/item/12114) (+10 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1029.png" alt="" /> <a
+                                href="/item/12114" data-url="12114" class="tooltip-link link">Tumpy Tonic</a> (+10 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

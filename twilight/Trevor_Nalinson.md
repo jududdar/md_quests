@@ -58,45 +58,78 @@ local text = "You have done well to bring me this, but there is more needed befo
 
 
 
-if( **You turn in:** [Cloud Jewel](/item/4491), [Mark of Twisted Souls](/item/5875), [Chilled Brazier](/item/5876), [Gem of Blue Skies](/item/5877)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4491" data-url="4491" class="tooltip-link link">Cloud Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5875" data-url="5875" class="tooltip-link link">Mark of Twisted Souls</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1082.png" alt="" /> <a
+                                href="/item/5876" data-url="5876" class="tooltip-link link">Chilled Brazier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/5877" data-url="5877" class="tooltip-link link">Gem of Blue Skies</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Darkened Knight's Cloak](/item/3967) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_663.png" alt="" /> <a
+                                href="/item/3967" data-url="3967" class="tooltip-link link">Darkened Knight's Cloak</a> (+25000 exp)
 
-elseif( **You turn in:** [Meteor Jewel](/item/4493), [Mark of Darkness](/item/5880), [Rune Stone Brazier](/item/5881)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Darkened Knight's Gorget](/item/3969) (+25000 exp)
-
-elseif( **You turn in:** [Sky Jewel](/item/4492), [Mark of Fright](/item/5878), [True Silver Idol](/item/5879)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4493" data-url="4493" class="tooltip-link link">Meteor Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5880" data-url="5880" class="tooltip-link link">Mark of Darkness</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1082.png" alt="" /> <a
+                                href="/item/5881" data-url="5881" class="tooltip-link link">Rune Stone Brazier</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Darkened Knight's Gauntlets](/item/3968) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_626.png" alt="" /> <a
+                                href="/item/3969" data-url="3969" class="tooltip-link link">Darkened Knight's Gorget</a> (+25000 exp)
 
-elseif( **You turn in:** [Astral Jewel](/item/4494), [Mark of Gloom](/item/5882), [Gilded Beads](/item/5883), [Etched Tablet](/item/5884)) then 
+ 
 
-
-FactionReward(e)
-
-
- **You receive:**  [Darkened Knight's Girdle](/item/3970) (+25000 exp)
-
-elseif( **You turn in:** [Sun Jewel](/item/4488), [Mark of Night](/item/5885), [Beaded Circlet](/item/5886), [Heating Stone](/item/5887)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4492" data-url="4492" class="tooltip-link link">Sky Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5878" data-url="5878" class="tooltip-link link">Mark of Fright</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/5879" data-url="5879" class="tooltip-link link">True Silver Idol</a>) then 
 
 
 FactionReward(e)
 
 
- **You receive:**  [Darkened Knight's Mace](/item/3971) (+25000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/3968" data-url="3968" class="tooltip-link link">Darkened Knight's Gauntlets</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4494" data-url="4494" class="tooltip-link link">Astral Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5882" data-url="5882" class="tooltip-link link">Mark of Gloom</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/5883" data-url="5883" class="tooltip-link link">Gilded Beads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/5884" data-url="5884" class="tooltip-link link">Etched Tablet</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_549.png" alt="" /> <a
+                                href="/item/3970" data-url="3970" class="tooltip-link link">Darkened Knight's Girdle</a> (+25000 exp)
+
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
+                                href="/item/4488" data-url="4488" class="tooltip-link link">Sun Jewel</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/5885" data-url="5885" class="tooltip-link link">Mark of Night</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_511.png" alt="" /> <a
+                                href="/item/5886" data-url="5886" class="tooltip-link link">Beaded Circlet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/5887" data-url="5887" class="tooltip-link link">Heating Stone</a>) then 
+
+
+FactionReward(e)
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/3971" data-url="3971" class="tooltip-link link">Darkened Knight's Mace</a> (+25000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
@@ -104,15 +137,15 @@ function FactionReward(e)
 
 >**Trevor Nalinson says:** Soandso take this and use it with pride.
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (5)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+5</span>)
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-2)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-2</span>)
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)
 

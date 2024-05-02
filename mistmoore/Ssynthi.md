@@ -28,18 +28,22 @@ end
 
 
 
-if( **You turn in:** [A Flower](/item/14362)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_721.png" alt="" /> <a
+                                href="/item/14362" data-url="14362" class="tooltip-link link">A Flower</a>) then 
 
 
 >**Ssynthi says:** Thank you. Since you have done me a service with no thought of reward, I offer you this small token of my favor.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (1)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [A Scepter](/item/14364) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_821.png" alt="" /> <a
+                                href="/item/14364" data-url="14364" class="tooltip-link link">A Scepter</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

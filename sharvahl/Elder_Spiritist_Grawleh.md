@@ -10,7 +10,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Spiritist Grawleh says:** Luckily for you someone found it.
 
 
-**You receive:**  [Application for Citizenship](/item/2873)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2873" data-url="2873" class="tooltip-link link">Application for Citizenship</a>
 
 **You say:** `cloak`
 
@@ -19,7 +20,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Spiritist Grawleh says:** Someone found a grimling wearing this in the pit. Try not to lose it this time.
 
 
-**You receive:**  [Initiate's Cloak of Shar Vahl](/item/2878)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>
 
 **You say:** `love potion`
 
@@ -44,12 +46,17 @@ local text = "This item, by itself, means nothing to me.";
 
 
 
-if( **You turn in:** [A Frosted Bag](/item/30962)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1136.png" alt="" /> <a
+                                href="/item/30962" data-url="30962" class="tooltip-link link">A Frosted Bag</a>) then
 
 
- **You receive:**  [Spell: Endure Cold](/item/15225) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15225" data-url="15225" class="tooltip-link link">Spell: Endure Cold</a> 
 
-elseif( **You turn in:** [A Dar Khura Guild Summons](/item/18551)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18551" data-url="18551" class="tooltip-link link">A Dar Khura Guild Summons</a>) then 
 
 
 >**Elder Spiritist Grawleh says:** Good Soandso, I am honored to meet you. You have come of age and it is time for you to register for citzenship of Shar Vahl. The Dar Khura, spiritual guides of our people, have sensed your spirit and deem you to be worthy of our training. First things first, take this application to Registrar Bindarah and return to me with proof of citzenship.
@@ -61,9 +68,14 @@ elseif( **You turn in:** [A Dar Khura Guild Summons](/item/18551)) then
 eq.set_global("Shar_Vahl_Cit","1",5,"F");
 
 
- **You receive:**  [Application for Citizenship](/item/2873) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2873" data-url="2873" class="tooltip-link link">Application for Citizenship</a> (+20 exp)
 
-elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of Shar Vahl](/item/2877)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_869.png" alt="" /> <a
+                                href="/item/2897" data-url="2897" class="tooltip-link link">Notarized Application</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>) then 
 
 
 >**Elder Spiritist Grawleh says:** Welcome back, Soandso! I see that your documents are in order and you are an official citizen of Shar Vahl, which is great news! Let me be the first to welcome you to the ranks of the Dar Khura! Here, take this cloak and wear it with pride.
@@ -75,14 +87,23 @@ elseif( **You turn in:** [Notarized Application](/item/2897), [Acrylia Slate of 
 eq.set_global("Shar_Vahl_Cit","7",5,"F");
 
 
- **You receive:** GiveAll( [Acrylia Slate of Shar Vahl](/item/2877), [Initiate's Cloak of Shar Vahl](/item/2878)) (+450 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>) (+450 exp)
 
-elseif( **You turn in:** [Claw of Frost](/item/30963)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/30963" data-url="30963" class="tooltip-link link">Claw of Frost</a>) then
 
 
 >*Elder Spiritist Grawleh examines the contents of the bag carefully. This is no ordinary spirit Soandso. It is a whisperling, a bringer of dreams. You are quite lucky, I think she will go with you. She will be able to protect you from cold magic. If you need more protection you can call on her to help you endure the cold. This is how the Dar Khura weave their spells, we ask the spirits for their aid. This scroll will show you how to call on her for her protection. You will also need to construct her a more suitable spirit anchor. This claw will not contain her much longer. Please hurry to Ragnar with the claw and a fresh [bloodling carapace]. It may buy us some time before she fades away.*
 
 
- **You receive:** GiveAll( [Spell: Endure Cold](/item/15225), [Siver's Claw](/item/30964)) (+1000 exp)
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15225" data-url="15225" class="tooltip-link link">Spell: Endure Cold</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1137.png" alt="" /> <a
+                                href="/item/30964" data-url="30964" class="tooltip-link link">Siver's Claw</a>) (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

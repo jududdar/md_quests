@@ -36,36 +36,54 @@ end
 
 
 
-if( **You turn in:** [Phosphoric Globe](/item/20947), [Shimmering Diamond](/item/20824), [Crude Wooden Flute](/item/20825)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_947.png" alt="" /> <a
+                                href="/item/20947" data-url="20947" class="tooltip-link link">Phosphoric Globe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
+                                href="/item/20824" data-url="20824" class="tooltip-link link">Shimmering Diamond</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/20825" data-url="20825" class="tooltip-link link">Crude Wooden Flute</a>) then 
 
 
 
 >**Clarisa Spiritsong says:** The songsmith Ervaj crafted this flute. It is now yours, Soandso.
 
 
- **You receive:**  [Ervaj's Flute of Flight](/item/27722) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_751.png" alt="" /> <a
+                                href="/item/27722" data-url="27722" class="tooltip-link link">Ervaj's Flute of Flight</a> (+100000 exp)
+
+ 
 
 
 **Clarisa Spiritsong despawns.**
 
-elseif( **You turn in:** [Platinum Disc](/item/20940), [Music Box](/item/20822), [Light Woolen Mantle](/item/20823)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/20940" data-url="20940" class="tooltip-link link">Platinum Disc</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/20822" data-url="20822" class="tooltip-link link">Music Box</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/20823" data-url="20823" class="tooltip-link link">Light Woolen Mantle</a>) then 
 
 
 >**Clarisa Spiritsong says:** You are truly a master of songs, Soandso.
 
 
- **You receive:**  [Mantle of the Songweaver](/item/27721) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/27721" data-url="27721" class="tooltip-link link">Mantle of the Songweaver</a> (+100000 exp)
+
+ 
 
 
 **Clarisa Spiritsong despawns.**
 
-elseif( **You turn in:** [Ochre Tessera](/item/20933), [Light Woolen Mask](/item/20821), [Songbird Statuette](/item/20820)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/20933" data-url="20933" class="tooltip-link link">Ochre Tessera</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/20821" data-url="20821" class="tooltip-link link">Light Woolen Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/20820" data-url="20820" class="tooltip-link link">Songbird Statuette</a>) then 
 
 
 >**Clarisa Spiritsong says:** Take this mask. You have earned it.
 
 
- **You receive:**  [Mask of Song](/item/27720) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/27720" data-url="27720" class="tooltip-link link">Mask of Song</a> (+100000 exp)
+
+ 
 
 
 **Clarisa Spiritsong despawns.**

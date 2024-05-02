@@ -133,48 +133,76 @@ local text = "Thank you for your aid Soandso. I will place this spirit to peacef
 
 
 
-if( **You turn in:** [A Darkened Jawbone](/item/30872), [A Darkened Jawbone](/item/30872), [A Darkened Jawbone](/item/30872), [A Darkened Jawbone](/item/30872)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30872" data-url="30872" class="tooltip-link link">A Darkened Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30872" data-url="30872" class="tooltip-link link">A Darkened Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30872" data-url="30872" class="tooltip-link link">A Darkened Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30872" data-url="30872" class="tooltip-link link">A Darkened Jawbone</a>) then
 
 
 >**Spiritist Karina says:** I can see that you have a brave heart. You have rescued many of the fallen spirits with little regard to your own welfare. Such selfless acts should not go unrewarded. Please take these gloves and wear them with pride. It is a symbol of [rebirth].
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rebirth Leather Gloves](/item/30879) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/30879" data-url="30879" class="tooltip-link link">Rebirth Leather Gloves</a> (+1000 exp)
 
-elseif(**Your level** > 4 and  **You turn in:** [A Sharp Toothed Jawbone](/item/30873), [A Sharp Toothed Jawbone](/item/30873), [A Sharp Toothed Jawbone](/item/30873), [A Sharp Toothed Jawbone](/item/30873)) then
+ 
+
+elseif(**Your level** > 4 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30873" data-url="30873" class="tooltip-link link">A Sharp Toothed Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30873" data-url="30873" class="tooltip-link link">A Sharp Toothed Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30873" data-url="30873" class="tooltip-link link">A Sharp Toothed Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30873" data-url="30873" class="tooltip-link link">A Sharp Toothed Jawbone</a>) then
 
 
 >**Spiritist Karina says:** Thank you for bringing these to me Soandso.' Karina closes her eyes and meditates over the jawbones for a moment. 'I can sense the mark of Loda Kai within these bones. This is a horror, for [Loda Kai] was once member of my people. I do not know how he came about these strange magical forces, but it cannot be good news. Please, wear these sleeves for protection. This new discovery worries me deeply.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rebirth Leather Sleeves](/item/30877) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/30877" data-url="30877" class="tooltip-link link">Rebirth Leather Sleeves</a> (+1000 exp)
 
-elseif(**Your level** > 5 and  **You turn in:** [A Rotting Jawbone](/item/30874), [A Rotting Jawbone](/item/30874), [A Rotting Jawbone](/item/30874), [A Rotting Jawbone](/item/30874)) then
+ 
+
+elseif(**Your level** > 5 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30874" data-url="30874" class="tooltip-link link">A Rotting Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30874" data-url="30874" class="tooltip-link link">A Rotting Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30874" data-url="30874" class="tooltip-link link">A Rotting Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30874" data-url="30874" class="tooltip-link link">A Rotting Jawbone</a>) then
 
 
 >**Spiritist Karina says:** These are the right ones, thank you Soandso' Karina calls to the spirits as she meditates over the jawbones of the brigands. After a brief pause, she opens her eyes once more and begins to speak, 'The magic in these bones are elusive. Their rotted state has corroded the spiritual essences within them. I have noticed much larger skeletal thugs roaming the hills beyond the road. If you can retrieve their jaws for me, perhaps I will have better luck with them. Please wear these leggings for protection.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rebirth Leather Leggings](/item/30880) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/30880" data-url="30880" class="tooltip-link link">Rebirth Leather Leggings</a> (+1000 exp)
 
-elseif(**Your level** > 6 and  **You turn in:** [A Thick Jawbone](/item/30875), [A Thick Jawbone](/item/30875), [A Thick Jawbone](/item/30875), [A Thick Jawbone](/item/30875)) then
+ 
+
+elseif(**Your level** > 6 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30875" data-url="30875" class="tooltip-link link">A Thick Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30875" data-url="30875" class="tooltip-link link">A Thick Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30875" data-url="30875" class="tooltip-link link">A Thick Jawbone</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_906.png" alt="" /> <a
+                                href="/item/30875" data-url="30875" class="tooltip-link link">A Thick Jawbone</a>) then
 
 
 >**Spiritist Karina says:** I was worried about your safety Soandso. I am glad you have returned in one piece. While you were away I have made arrangements to supply you with these boots. Now then, let us see what we can learn from these remains.' Karina cups her hands over the thick jawbones and calls to the spirits for guidance. As her meditation ends, she looks drained and short of breath. 'It is as I have feared. There is a [vampire] within this thicket.
 
 
-* __Faction:__ [Guardians of Shar Vahl](/faction/1513) (1)
+Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Rebirth Leather Boots](/item/30881) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/30881" data-url="30881" class="tooltip-link link">Rebirth Leather Boots</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

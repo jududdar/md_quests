@@ -61,7 +61,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Poacher's Head](/item/13825)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/13825" data-url="13825" class="tooltip-link link">Poacher's Head</a>) then 
 
 
 >**Jras Solsier says:** You have served us well. The harmony of the forest shall be preserved. I have word that theses infidels were all working for one man. Find me evidence pertaining to this man. Surely one of these poachers has something which could aid in finding this man. We must stop him to stop the poachers. Go in peace.
@@ -70,18 +71,25 @@ if **Faction** >= Amiable and  **You turn in:** [Poacher's Head](/item/13825)) t
 
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (5)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Copper Band](/item/10004), [Small Lantern](/item/13003), [Malachite](/item/10015), [Rusty Spear](/item/7009)) (+3000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_748.png" alt="" /> <a
+                                href="/item/10004" data-url="10004" class="tooltip-link link">Copper Band</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_684.png" alt="" /> <a
+                                href="/item/13003" data-url="13003" class="tooltip-link link">Small Lantern</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_944.png" alt="" /> <a
+                                href="/item/10015" data-url="10015" class="tooltip-link link">Malachite</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/7009" data-url="7009" class="tooltip-link link">Rusty Spear</a>) (+3000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13913)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_980.png" alt="" /> <a
+                                href="/item/13913" data-url="13913" class="tooltip-link link">Barbarian Head</a>) then 
 
 
 >**Jras Solsier says:** It is done! Quellious will look favorably upon our church and we will look favorably upon you. Go in peace.
@@ -90,16 +98,20 @@ elseif **Faction** >= Amiable and  **You turn in:** [Barbarian Head](/item/13913
 
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (10)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (2)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-2)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Spell: Courage](/item/15202), [Spell: Holy Armor](/item/15011)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15202" data-url="15202" class="tooltip-link link">Spell: Courage</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15011" data-url="15011" class="tooltip-link link">Spell: Holy Armor</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -25,13 +25,17 @@ end
 
 
 
-if( **You turn in:** [Collection of Taxidermy](/item/28076)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/28076" data-url="28076" class="tooltip-link link">Collection of Taxidermy</a>) then
 
 
 >*Holly Longtail opens the box and carefully inspects its contents. 'These will do. Please accept this as a show of my appreciation. Now if you'll excuse me I have much work left to do.*
 
 
- **You receive:**  [Fine Antique Ring](/item/28237) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/28237" data-url="28237" class="tooltip-link link">Fine Antique Ring</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

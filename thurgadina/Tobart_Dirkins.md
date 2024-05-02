@@ -20,7 +20,10 @@ if( **You turn in:** platinum = 1) then
 >*Tobart Dirkins Thank ye and enjoy it. All the bars here in Thurgadin have their own mugs, just ask the barkeep if'n yer interested.*
 
 
- **You receive:**  [The Broken Glacier Souvenir Mug](/item/30146) (+5 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_709.png" alt="" /> <a
+                                href="/item/30146" data-url="30146" class="tooltip-link link">The Broken Glacier Souvenir Mug</a> (+5 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -62,7 +62,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [A Tattered Note](/item/18801)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18801" data-url="18801" class="tooltip-link link">A Tattered Note</a>
 
 
 else
@@ -141,27 +142,31 @@ end
 
 
 
-if( **You turn in:** [Monogrammed Cloth](/item/13302)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/13302" data-url="13302" class="tooltip-link link">Monogrammed Cloth</a>) then 
 
 
 >**Nerissa Clothspinner says:** Thank you my friend. I understand that Astaed Wemor of the Temple of Life has been concerned for my well being. Take him this note. I am sure he will reward you for easing my troubled mind.. If you are a respected member.
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (15)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (-3)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (2)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:**  [A tattered note](/item/18862) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18862" data-url="18862" class="tooltip-link link">A tattered note</a> (+1000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -22,7 +22,8 @@
 >**Yiz Pon says:** Here... No time left... Take this please... My brother [Hyrill] is staying in [Freeport]. Please... Ugh... Must keep moving...
 
 
-**You receive:**  [Torn Parchment](/item/18010)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18010" data-url="18010" class="tooltip-link link">Torn Parchment</a>
 
 
 **Spawn NPC:**  [a Splitpaw assassin](/npc/12005) at (**y:** 1118, **x:** -15467)

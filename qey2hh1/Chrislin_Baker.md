@@ -27,7 +27,9 @@ end
 
 
 
-if( **You turn in:** [A Piece of Parchment](/item/13063), [A Quill](/item/13051)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
+                                href="/item/13063" data-url="13063" class="tooltip-link link">A Piece of Parchment</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_755.png" alt="" /> <a
+                                href="/item/13051" data-url="13051" class="tooltip-link link">A Quill</a>) then
 
 
 >*Chrislin Baker gives you a hug. 'Thank you so much. I did some cleaning after you left and found this behind a barrel. It may have been left behind by the person who took my materials. You can have it.'*
@@ -36,7 +38,10 @@ if( **You turn in:** [A Piece of Parchment](/item/13063), [A Quill](/item/13051)
 >**Chrislin Baker says:** I must go now, I will return later.
 
 
- **You receive:**  [Bandit Sash](/item/12100) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_935.png" alt="" /> <a
+                                href="/item/12100" data-url="12100" class="tooltip-link link">Bandit Sash</a> 
+
+ 
 
 
 **Spawn NPC:**  [Thrackin Griften](/npc/12001) at (**y:** 763, **x:** -11512)

@@ -31,7 +31,11 @@ local text4 = "I requested four of the Froglok Tuk Bucklers.";
 
 
 
-if( **You turn in:** [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leech Husk](/item/12686)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/12686" data-url="12686" class="tooltip-link link">Leech Husk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/12686" data-url="12686" class="tooltip-link link">Leech Husk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/12686" data-url="12686" class="tooltip-link link">Leech Husk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_814.png" alt="" /> <a
+                                href="/item/12686" data-url="12686" class="tooltip-link link">Leech Husk</a>) then
 
 
 
@@ -41,15 +45,22 @@ if( **You turn in:** [Leech Husk](/item/12686), [Leech Husk](/item/12686), [Leec
 
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (5)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Patriarch's Bracer](/item/7827) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/7827" data-url="7827" class="tooltip-link link">Patriarch's Bracer</a> (+250 exp)
 
-elseif( **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Spiderling Silk](/item/13099), [Scarab Carapace](/item/13849)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_782.png" alt="" /> <a
+                                href="/item/13099" data-url="13099" class="tooltip-link link">Spiderling Silk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/13849" data-url="13849" class="tooltip-link link">Scarab Carapace</a>) then
 
 
 
@@ -59,15 +70,22 @@ elseif( **You turn in:** [Spiderling Silk](/item/13099), [Spiderling Silk](/item
 
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (5)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Patriarch's Cap](/item/7828) (+400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/7828" data-url="7828" class="tooltip-link link">Patriarch's Cap</a> (+400 exp)
 
-elseif( **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441), [Watcher Signal Torch](/item/12441)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12441" data-url="12441" class="tooltip-link link">Watcher Signal Torch</a>) then
 
 
 
@@ -77,15 +95,22 @@ elseif( **You turn in:** [Watcher Signal Torch](/item/12441), [Watcher Signal To
 
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (8)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+8</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Patriarch's Leggings](/item/7829) (+600 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_655.png" alt="" /> <a
+                                href="/item/7829" data-url="7829" class="tooltip-link link">Patriarch's Leggings</a> (+600 exp)
 
-elseif( **You turn in:** [Sarnak Broodling Fang](/item/14599), [Sarnak Broodling Fang](/item/14599), [Goblin Hunter Javelin](/item/12432), [Goblin Hunter Javelin](/item/12432)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/14599" data-url="14599" class="tooltip-link link">Sarnak Broodling Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/14599" data-url="14599" class="tooltip-link link">Sarnak Broodling Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/12432" data-url="12432" class="tooltip-link link">Goblin Hunter Javelin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_776.png" alt="" /> <a
+                                href="/item/12432" data-url="12432" class="tooltip-link link">Goblin Hunter Javelin</a>) then
 
 
 
@@ -95,15 +120,22 @@ elseif( **You turn in:** [Sarnak Broodling Fang](/item/14599), [Sarnak Broodling
 
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Patriarch's Claw](/item/7830) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_975.png" alt="" /> <a
+                                href="/item/7830" data-url="7830" class="tooltip-link link">Patriarch's Claw</a> (+1000 exp)
 
-elseif( **You turn in:** [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler](/item/8999)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/8999" data-url="8999" class="tooltip-link link">Froglok Tuk Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/8999" data-url="8999" class="tooltip-link link">Froglok Tuk Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/8999" data-url="8999" class="tooltip-link link">Froglok Tuk Buckler</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/8999" data-url="8999" class="tooltip-link link">Froglok Tuk Buckler</a>) then
 
 
 
@@ -114,31 +146,38 @@ elseif( **You turn in:** [Froglok Tuk Buckler](/item/8999), [Froglok Tuk Buckler
 
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (2)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+2</span>)
 
 
- **You receive:**  [Patriarch's Leather](/item/7831) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/7831" data-url="7831" class="tooltip-link link">Patriarch's Leather</a> (+1000 exp)
 
-elseif( **You turn in:** [A tattered note](/item/18848)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18848" data-url="18848" class="tooltip-link link">A tattered note</a>) then
 
 
 
 >**Prime Patriarch Vuzx says:** The Hierophants have sensed that your spirit is strong with obedience inspiring fear! You must learn to harness your [powers] over the scaled wolves! Wear this tunic so that the Legion of Cabilis will recognize you as a Scaled Spiritist.
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (15)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (3)
-
-
-
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+3</span>)
 
 
 
- **You receive:**  [Dusty Green Tunic*](/item/13577) (+100 exp)
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13577" data-url="13577" class="tooltip-link link">Dusty Green Tunic*</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

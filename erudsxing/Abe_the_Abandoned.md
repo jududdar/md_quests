@@ -45,7 +45,8 @@ counting = 0;
 >*Abe the Abandoned removes a quiver slung across his shoulder and solemnly hands it to you without a word.*
 
 
-**You receive:**  [A Broken Arrow](/item/1680)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1039.png" alt="" /> <a
+                                href="/item/1680" data-url="1680" class="tooltip-link link">A Broken Arrow</a>
 end
 
 ## Timer(s)

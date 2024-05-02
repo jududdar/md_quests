@@ -20,19 +20,23 @@
 >**Elefan says:** Here you are, Soandso. Please bring them to him at once so they do not spoil and thank you for your help.
 
 
-**You receive:**  [Antidote Ingredients](/item/4759)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
+                                href="/item/4759" data-url="4759" class="tooltip-link link">Antidote Ingredients</a>
 end
 
 ## Turn-Ins
 
 
 
-if( **You turn in:** [Zimloro Ingredient List](/item/4758)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/4758" data-url="4758" class="tooltip-link link">Zimloro Ingredient List</a>) then
 
 
 >**Elefan says:** Ah I see you are sent from master Zimloro eh, Soandso. This note reads that he needs some specific items at once. Perhaps he could find some use out of all of this research I have recently collected.
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -29,7 +29,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [Fistfighters Sewing Kit](/item/17261)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/17261" data-url="17261" class="tooltip-link link">Fistfighters Sewing Kit</a>
 
 
 **You say:** `various components`
@@ -49,7 +50,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Cap Pattern](/item/22583)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22583" data-url="22583" class="tooltip-link link">An Enchanted Cap Pattern</a>
 
 
 **You say:** `bracer`
@@ -61,7 +63,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Bracer Pattern](/item/22584)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22584" data-url="22584" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 
 **You say:** `sleeve`
@@ -73,7 +76,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sleeves Pattern](/item/22586)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22586" data-url="22586" class="tooltip-link link">An Enchanted Sleeves Pattern</a>
 
 
 **You say:** `sandal`
@@ -85,7 +89,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Sandals Pattern](/item/22585)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22585" data-url="22585" class="tooltip-link link">An Enchanted Sandals Pattern</a>
 
 
 **You say:** `trouser`
@@ -97,7 +102,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Trousers Pattern](/item/22587)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22587" data-url="22587" class="tooltip-link link">An Enchanted Trousers Pattern</a>
 
 
 **You say:** `glove`
@@ -109,7 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Gloves Pattern](/item/22588)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22588" data-url="22588" class="tooltip-link link">An Enchanted Gloves Pattern</a>
 
 
 **You say:** `robe`
@@ -121,7 +128,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 
-**You receive:**  [An Enchanted Robe Pattern](/item/22589)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/22589" data-url="22589" class="tooltip-link link">An Enchanted Robe Pattern</a>
 
 
 **You say:** `favor`
@@ -141,22 +149,28 @@ local expansion_flag = eq.get_current_expansion();
 
 
 
-if(expansion_flag >= 4.0 and  **You turn in:** [Kloms Blessed Headband](/item/9934), [Orc Toes](/item/9920), [Orc Toes](/item/9920)) then
+if(expansion_flag >= 4.0 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_933.png" alt="" /> <a
+                                href="/item/9934" data-url="9934" class="tooltip-link link">Kloms Blessed Headband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/9920" data-url="9920" class="tooltip-link link">Orc Toes</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1094.png" alt="" /> <a
+                                href="/item/9920" data-url="9920" class="tooltip-link link">Orc Toes</a>) then
 
 
 >**Klom Jysun says:** Your dedication to the Ashen Fist is unquestioned. I can see this by your willingness to assist me in whatever task I assigned you. I would like you to take this as a symbol of my gratitude.
 
 
-* __Faction:__ [Ashen Order](/faction/361) (25)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (1)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Kloms Brass Knuckles](/item/9939) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1180.png" alt="" /> <a
+                                href="/item/9939" data-url="9939" class="tooltip-link link">Kloms Brass Knuckles</a> (+100 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

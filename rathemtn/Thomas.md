@@ -61,25 +61,30 @@ end
 local text = "I called for two cyclops skulls.";
 
 
-if **Faction** >= Indifferent +50 and  **You turn in:** [Cyclops skull](/item/12308), [Cyclops skull](/item/12308)) then
+if **Faction** >= Indifferent +50 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12308" data-url="12308" class="tooltip-link link">Cyclops skull</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
+                                href="/item/12308" data-url="12308" class="tooltip-link link">Cyclops skull</a>) then
 
 
 >**Thomas says:** You have proven yourself to Karana.  I grant you the mold of the Ro Helm.  May the winds of Karana blow in your favor.  Now you must seek out [Lord Searfire] and  ask him for [ronium] to complete the second and only other component needed to be fashioned by a master blacksmith.
 
 
-* __Faction:__ [Knights of Thunder](/faction/280) (20)
+Your faction standing with [Knights of Thunder](/faction/280) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Bloodsabers](/faction/221) (-20)
+Your faction standing with [Bloodsabers](/faction/221) got worse (<span class='text-danger'>-20</span>)
 
 
-* __Faction:__ [Priests of Life](/faction/341) (15)
+Your faction standing with [Priests of Life](/faction/341) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Mold of Ro Helm](/item/12298) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
+                                href="/item/12298" data-url="12298" class="tooltip-link link">Mold of Ro Helm</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

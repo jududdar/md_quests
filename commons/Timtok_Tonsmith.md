@@ -40,7 +40,8 @@ end
 if **Faction** >= Indifferent then
 
 
-if( **You turn in:** [Crafted Gauntlets](/item/4178)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4178" data-url="4178" class="tooltip-link link">Crafted Gauntlets</a>) then
 
 
 
@@ -48,53 +49,30 @@ if( **You turn in:** [Crafted Gauntlets](/item/4178)) then
 
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Small Crafted Gauntlets](/item/4186) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4186" data-url="4186" class="tooltip-link link">Small Crafted Gauntlets</a> 
+
+ 
 
 
-elseif( **You turn in:** [Crafted Vambraces](/item/4176)) then
-
-
-
->**Timtok Tonsmith says:** Here is your armor. I hope it fits better now.
-
-
-
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
-
-
-
-* __Faction:__ [Knights of Truth](/faction/281) (1)
-
-
-
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
-
-
-
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
-
-
-
- **You receive:**  [Small Crafted Vambraces](/item/4184) 
-
-
-elseif( **You turn in:** [Crafted Helm](/item/4173)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4176" data-url="4176" class="tooltip-link link">Crafted Vambraces</a>) then
 
 
 
@@ -102,26 +80,30 @@ elseif( **You turn in:** [Crafted Helm](/item/4173)) then
 
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Small Crafted Helm](/item/4181) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_622.png" alt="" /> <a
+                                href="/item/4184" data-url="4184" class="tooltip-link link">Small Crafted Vambraces</a> 
+
+ 
 
 
-elseif( **You turn in:** [Crafted Plate Boots](/item/4180)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/4173" data-url="4173" class="tooltip-link link">Crafted Helm</a>) then
 
 
 
@@ -129,23 +111,57 @@ elseif( **You turn in:** [Crafted Plate Boots](/item/4180)) then
 
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Small Crafted Plate Boots](/item/4188) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_550.png" alt="" /> <a
+                                href="/item/4181" data-url="4181" class="tooltip-link link">Small Crafted Helm</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4180" data-url="4180" class="tooltip-link link">Crafted Plate Boots</a>) then
+
+
+
+>**Timtok Tonsmith says:** Here is your armor. I hope it fits better now.
+
+
+
+Your faction standing with [Coalition of Tradefolk](/faction/229) got better (<span class='text-success'>+1</span>)
+
+
+
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
+
+
+
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+1</span>)
+
+
+
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4188" data-url="4188" class="tooltip-link link">Small Crafted Plate Boots</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

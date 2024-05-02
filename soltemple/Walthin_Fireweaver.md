@@ -76,55 +76,73 @@ local text = "Wait, Soandso, are you not forgetting something?";
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Firewalker Boots](/item/2318), [Lambent Sapphire](/item/10119), [Rune of the One Eye](/item/10561)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2318" data-url="2318" class="tooltip-link link">Firewalker Boots</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/10119" data-url="10119" class="tooltip-link link">Lambent Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/10561" data-url="10561" class="tooltip-link link">Rune of the One Eye</a>) then
 
 
 >**Walthin Fireweaver says:** Quality boots for a quality bard. Well done, Soandso.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
    
 
 
- **You receive:**  [Lambent Boots](/item/4159) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_524.png" alt="" /> <a
+                                href="/item/4159" data-url="4159" class="tooltip-link link">Lambent Boots</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Black Silk Gloves](/item/2319), [Lambent Star Ruby](/item/10117), [Shin Gauntlets](/item/4114)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2319" data-url="2319" class="tooltip-link link">Black Silk Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_961.png" alt="" /> <a
+                                href="/item/10117" data-url="10117" class="tooltip-link link">Lambent Star Ruby</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_846.png" alt="" /> <a
+                                href="/item/4114" data-url="4114" class="tooltip-link link">Shin Gauntlets</a>) then
 
 
 >**Walthin Fireweaver says:** Well done, Soandso, you have justly earned your pair of lambent gauntlets.
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
    
 
 
- **You receive:**  [Lambent Gauntlets](/item/4157) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_531.png" alt="" /> <a
+                                href="/item/4157" data-url="4157" class="tooltip-link link">Lambent Gauntlets</a> (+1000 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Icy Greaves](/item/4115), [Lambent Fire Opal](/item/10128), [Shin Greaves](/item/4116)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_541.png" alt="" /> <a
+                                href="/item/4115" data-url="4115" class="tooltip-link link">Icy Greaves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_960.png" alt="" /> <a
+                                href="/item/10128" data-url="10128" class="tooltip-link link">Lambent Fire Opal</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_845.png" alt="" /> <a
+                                href="/item/4116" data-url="4116" class="tooltip-link link">Shin Greaves</a>) then
 
 
 >**Walthin Fireweaver says:** I always knew that you would earn these lambent greaves, Soandso, you just had that look about you. Well done!
 
 
-* __Faction:__ [Temple of Solusek Ro](/faction/415) (10)
+Your faction standing with [Temple of Solusek Ro](/faction/415) got better (<span class='text-success'>+10</span>)
 
 
 
 
-* __Faction:__ [Shadowed Men](/faction/416) (-1)
+Your faction standing with [Shadowed Men](/faction/416) got worse (<span class='text-danger'>-1</span>)
    
 
 
- **You receive:**  [Lambent Greaves](/item/4158) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_540.png" alt="" /> <a
+                                href="/item/4158" data-url="4158" class="tooltip-link link">Lambent Greaves</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -39,7 +39,8 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Fishy Cat Tail](/item/13884)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_813.png" alt="" /> <a
+                                href="/item/13884" data-url="13884" class="tooltip-link link">Fishy Cat Tail</a>) then 
 
 
 >**Vynon Estaliun says:** Good work. I knew you could do it. Take this as reward.
@@ -48,16 +49,20 @@ if **Faction** >= Amiable and  **You turn in:** [Fishy Cat Tail](/item/13884)) t
 
 
 
-* __Faction:__ [Peace Keepers](/faction/298) (5)
+Your faction standing with [Peace Keepers](/faction/298) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [High Council of Erudin](/faction/266) (1)
+Your faction standing with [High Council of Erudin](/faction/266) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Heretics](/faction/265) (-1)
+Your faction standing with [Heretics](/faction/265) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Torch](/item/13002), [Brass Ring](/item/13053)) (+2000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/13002" data-url="13002" class="tooltip-link link">Torch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_615.png" alt="" /> <a
+                                href="/item/13053" data-url="13053" class="tooltip-link link">Brass Ring</a>) (+2000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

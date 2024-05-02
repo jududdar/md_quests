@@ -29,7 +29,10 @@ if( **You turn in:** gold = 3) then
 
 
 
- **You receive:**  [Flaming Pungla](/item/13382) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_710.png" alt="" /> <a
+                                href="/item/13382" data-url="13382" class="tooltip-link link">Flaming Pungla</a> 
+
+ 
 
 
 

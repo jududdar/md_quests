@@ -25,25 +25,29 @@ end
 
 
 
-if( **You turn in:** [A Folded Note](/item/5573)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/5573" data-url="5573" class="tooltip-link link">A Folded Note</a>) then 
 
 
 >**Tolkar Parlone says:** Oh, my, she did get herself into some trouble! I thank you for rescuing her, my friend. Here, take this old cloak. I am afraid its power has faded, but if you bring it to my wife, she might be able to do something for you. She is currently studying in Erudin.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (15)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (3)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (2)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-3)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-3</span>)
 
 
- **You receive:**  [Faded Cloak](/item/1056) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_840.png" alt="" /> <a
+                                href="/item/1056" data-url="1056" class="tooltip-link link">Faded Cloak</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

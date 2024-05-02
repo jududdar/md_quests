@@ -63,7 +63,8 @@ end
 if( **Faction is** >= Kindly) then 
 
 
-if( **You turn in:** [Champion's Crown](/item/31084)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31084" data-url="31084" class="tooltip-link link">Champion's Crown</a>) then
 
 
 
@@ -71,21 +72,14 @@ if( **You turn in:** [Champion's Crown](/item/31084)) then
 
 
 
- **You receive:**  [Custom Champion's Crown](/item/31519) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31519" data-url="31519" class="tooltip-link link">Custom Champion's Crown</a> 
+
+ 
 
 
-elseif( **You turn in:** [Cowl of Mortality](/item/26025)) then
-
-
-
->**Royal Armorer Slade says:** Here you are Soandso. Ah, a perfect fit! May it serve you well.
-
-
-
- **You receive:**  [Custom Cowl of Mortality](/item/2612) 
-
-
-elseif( **You turn in:** [Crown of Forbidden Rites](/item/31042)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/26025" data-url="26025" class="tooltip-link link">Cowl of Mortality</a>) then
 
 
 
@@ -93,21 +87,14 @@ elseif( **You turn in:** [Crown of Forbidden Rites](/item/31042)) then
 
 
 
- **You receive:**  [Custom Crown of Forbidden Rites](/item/31518) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_625.png" alt="" /> <a
+                                href="/item/2612" data-url="2612" class="tooltip-link link">Custom Cowl of Mortality</a> 
+
+ 
 
 
-elseif( **You turn in:** [Crown of the Kromzek Kings](/item/25194)) then
-
-
-
->**Royal Armorer Slade says:** Here you are Soandso. Ah, a perfect fit! May it serve you well.
-
-
-
- **You receive:**  [Custom Crown of the Kromzek Kings](/item/2611) 
-
-
-elseif( **You turn in:** [Dark Runed Crown](/item/31000)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31042" data-url="31042" class="tooltip-link link">Crown of Forbidden Rites</a>) then
 
 
 
@@ -115,21 +102,14 @@ elseif( **You turn in:** [Dark Runed Crown](/item/31000)) then
 
 
 
- **You receive:**  [Custom Dark Runed Crown](/item/31515) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31518" data-url="31518" class="tooltip-link link">Custom Crown of Forbidden Rites</a> 
+
+ 
 
 
-elseif( **You turn in:** [Frostreaver's Velium Crown](/item/30507)) then
-
-
-
->**Royal Armorer Slade says:** Here you are Soandso. Ah, a perfect fit! May it serve you well.
-
-
-
- **You receive:**  [Custom Frostreavers Velium Crown](/item/2610) 
-
-
-elseif( **You turn in:** [Resonant Helm](/item/31035)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/25194" data-url="25194" class="tooltip-link link">Crown of the Kromzek Kings</a>) then
 
 
 
@@ -137,10 +117,14 @@ elseif( **You turn in:** [Resonant Helm](/item/31035)) then
 
 
 
- **You receive:**  [Custom Resonant Helm](/item/31517) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/2611" data-url="2611" class="tooltip-link link">Custom Crown of the Kromzek Kings</a> 
+
+ 
 
 
-elseif( **You turn in:** [Runed Protector's Helm](/item/31021)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31000" data-url="31000" class="tooltip-link link">Dark Runed Crown</a>) then
 
 
 
@@ -148,7 +132,55 @@ elseif( **You turn in:** [Runed Protector's Helm](/item/31021)) then
 
 
 
- **You receive:**  [Custom Runed Protector's Helm](/item/31516) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/31515" data-url="31515" class="tooltip-link link">Custom Dark Runed Crown</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/30507" data-url="30507" class="tooltip-link link">Frostreaver's Velium Crown</a>) then
+
+
+
+>**Royal Armorer Slade says:** Here you are Soandso. Ah, a perfect fit! May it serve you well.
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/2610" data-url="2610" class="tooltip-link link">Custom Frostreavers Velium Crown</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31035" data-url="31035" class="tooltip-link link">Resonant Helm</a>) then
+
+
+
+>**Royal Armorer Slade says:** Here you are Soandso. Ah, a perfect fit! May it serve you well.
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31517" data-url="31517" class="tooltip-link link">Custom Resonant Helm</a> 
+
+ 
+
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31021" data-url="31021" class="tooltip-link link">Runed Protector's Helm</a>) then
+
+
+
+>**Royal Armorer Slade says:** Here you are Soandso. Ah, a perfect fit! May it serve you well.
+
+
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
+                                href="/item/31516" data-url="31516" class="tooltip-link link">Custom Runed Protector's Helm</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

@@ -81,7 +81,8 @@ else
 
 
 
-**You receive:**  [Ruined Backpack](/item/13769)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/13769" data-url="13769" class="tooltip-link link">Ruined Backpack</a>
 
 
 **You say:** `lead.* seta`
@@ -132,7 +133,8 @@ end
 
 
 
-if(closeby == 1 and  **You turn in:** [Ruined Backpack](/item/13769)) then 
+if(closeby == 1 and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/13769" data-url="13769" class="tooltip-link link">Ruined Backpack</a>) then 
 
 
 >**Tomer Instogle says:** Oh, you have the makings of a true hero.. The Silent Fist Clan is proud to have you as ally. May your soul guide and protect you through these chaotic times.
@@ -141,21 +143,23 @@ if(closeby == 1 and  **You turn in:** [Ruined Backpack](/item/13769)) then
 
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (35)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+35</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
-
-
-
-
-* __Faction:__ [Ashen Order](/faction/361) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
 
 
- **You receive:** 0 (+100 exp)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+1</span>)
+
+
+
+
+ &#127873; **You receive:** 0 (+100 exp)
+
+ 
 
 
 closeby = 2;

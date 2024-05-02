@@ -222,15 +222,21 @@ end
 
 
 
-if( **You turn in:** [Cloak of the Taruun Apprentice](/item/5558)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5558" data-url="5558" class="tooltip-link link">Cloak of the Taruun Apprentice</a>) then
 
 
 >**Elam Arruk says:** see that you have experienced some training from Elder Ternq. He is an amazing scout and very exciting to watch in combat. Years prior to being commissioned to act in this role, I served with the young Scout Ternq. Of course we were both much younger and more agile back in those days. Much like you are now. Ah well, enough with this chatter. Take this bag and stow it somewhere safe. I have a [task] for you.
 
 
- **You receive:** GiveAll( [Cloak of the Taruun Apprentice](/item/5558), [Black Cloth Bag](/item/17117)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_841.png" alt="" /> <a
+                                href="/item/5558" data-url="5558" class="tooltip-link link">Cloak of the Taruun Apprentice</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/17117" data-url="17117" class="tooltip-link link">Black Cloth Bag</a>) 
 
-elseif( **You turn in:** [Bag for Elam](/item/6274)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_582.png" alt="" /> <a
+                                href="/item/6274" data-url="6274" class="tooltip-link link">Bag for Elam</a>) then
 
 
 >**Elam Arruk says:** Very good Soandso, not only have you had a chance to see the creatures, you have also provided me with lunch. I hope that you learned something from your encounter. Those wolves, or sonic wolves as the Dar Khura call them, have destroyed more than a few scouting expeditions. Over the years, our research into the origins of these beasts has proven fruitful. We have found a means of making a weapon that reacts to their flesh. These items will assist you in making that item.
@@ -242,6 +248,10 @@ elseif( **You turn in:** [Bag for Elam](/item/6274)) then
 >**Elam Arruk says:** You will need to visit the Library of War History and purchase a book on the construction of this weapon. Read it and construct the weapon. I recall that the scholar that sells the book was also working on a construction kit for the weapons. Please take your finished weapon and your apprentice cloak to Elder Taruun Ternq. I am sure that he will be curious about your progress.
 
 
- **You receive:** GiveAll( [Taruun Hilt Piece](/item/6146), [Acrylia Mortar and Pestle](/item/17110)) 
+ &#127873; **You receive:** GiveAll( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/6146" data-url="6146" class="tooltip-link link">Taruun Hilt Piece</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_857.png" alt="" /> <a
+                                href="/item/17110" data-url="17110" class="tooltip-link link">Acrylia Mortar and Pestle</a>) 
+
+ 
 
 **This NPC *should* return incorrect items given.**

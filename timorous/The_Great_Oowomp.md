@@ -54,13 +54,20 @@ if( **You turn in:** gold = 5) then
 
 **Set a timer** named *dance* for 3 seconds
 
-elseif( **You turn in:** [Strange Ochre Clay](/item/12942), [Crushed Diamonds](/item/12945), [Yun Shaman Powder](/item/12944), [Greyish Bone Chips](/item/12943)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1095.png" alt="" /> <a
+                                href="/item/12942" data-url="12942" class="tooltip-link link">Strange Ochre Clay</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1075.png" alt="" /> <a
+                                href="/item/12945" data-url="12945" class="tooltip-link link">Crushed Diamonds</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
+                                href="/item/12944" data-url="12944" class="tooltip-link link">Yun Shaman Powder</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
+                                href="/item/12943" data-url="12943" class="tooltip-link link">Greyish Bone Chips</a>) then
 
 
 >*The Great Oowomp begins to jump for joy. The ground trembles. 'Grand! Here is the secret of McMerin's Feast. Scribe it and you shall learn more of its power.*
 
 
- **You receive:**  [Spell: Cannibalize II](/item/12941) (+45000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12941" data-url="12941" class="tooltip-link link">Spell: Cannibalize II</a> (+45000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

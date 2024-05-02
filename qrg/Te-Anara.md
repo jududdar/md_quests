@@ -38,7 +38,8 @@ if( **Faction is** > Indifferent) then
 
 
 
-**You receive:**  [Flask of Nitrates](/item/13945)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_584.png" alt="" /> <a
+                                href="/item/13945" data-url="13945" class="tooltip-link link">Flask of Nitrates</a>
 
 
 elseif( **Faction is** == Indifferent) then 
@@ -134,53 +135,62 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18713)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18713" data-url="18713" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Te-Anara says:** Well met, friend of the forest. You will find power and enlightenment amidst these woods. Here, wear this tunic and represent the Jaggedpine with pride. Gerael Woodone will help train you and teach you the duties of Jaggedpine Treefolk. The forests, being the soul and heart of Norrath, depend on you and your actions from this day forth.
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (100)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (25)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (15)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-25)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Dried Grass Tunic*](/item/13510) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13510" data-url="13510" class="tooltip-link link">Dried Grass Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Bayle List II](/item/18809)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18809" data-url="18809" class="tooltip-link link">Bayle List II</a>) then
 
 
 >**Te-Anara says:** Oh my, this must belong to Antonius Bayle! I shall see that he receives it. You have done a great service to Qeynos and Surefall Glade. I rewards you with this. May it be of good use in your future deeds.
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (10)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (2)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (1)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-2)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Spell: Invigor](/item/15222) (+100 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15222" data-url="15222" class="tooltip-link link">Spell: Invigor</a> (+100 exp)
 
-elseif( **You turn in:** [A Sealed Letter](/item/18807)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18807" data-url="18807" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Te-Anara says:** Aye! This is good news. We shall try to supply Qeynos with a limited number of acres to begin their lumberyard. Here, my good messenger. A token to share in the good news.
@@ -191,24 +201,27 @@ elseif( **You turn in:** [A Sealed Letter](/item/18807)) then
 
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (30)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (7)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (4)
+Your faction standing with [QRG Protected Animals](/faction/343) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-7)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (4)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+4</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
 
-elseif( **You turn in:** [A Sealed Letter](/item/18806)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18806" data-url="18806" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Te-Anara says:** This is dreadful news. We have been nothing but kind neighbors to Qeynos. Now Antonius Bayle wishes to abuse our friendship. This will not sit well with the others. Begone, messenger!
@@ -219,21 +232,23 @@ elseif( **You turn in:** [A Sealed Letter](/item/18806)) then
 
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (-30)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got worse (<span class='text-danger'>-30</span>)
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (-7)
+Your faction standing with [Protectors of Pine](/faction/302) got worse (<span class='text-danger'>-7</span>)
 
 
-* __Faction:__ [QRG Protected Animals](/faction/343) (-4)
+Your faction standing with [QRG Protected Animals](/faction/343) got worse (<span class='text-danger'>-4</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (7)
+Your faction standing with [Unkempt Druids](/faction/324) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-4)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-4</span>)
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

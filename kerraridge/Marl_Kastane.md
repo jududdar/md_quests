@@ -38,7 +38,8 @@ elseif **Faction** >= Apprehensive +17 then
 
 
 
-**You receive:**  [Seal of Kastane](/item/14375)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/14375" data-url="14375" class="tooltip-link link">Seal of Kastane</a>
 
 
 **You say:** `Lhranc`
@@ -113,27 +114,32 @@ end
 
 
 
-if( **You turn in:** [Note to Marl](/item/14376)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/14376" data-url="14376" class="tooltip-link link">Note to Marl</a>) then
 
 
 >*Marl Kastane reads the note, eyes widening in panic. He raises his eyes to you and says, 'This is grave news, friend. If the prophecy is allowed to be fulfilled, our strength will vanish into obscurity. Goodness and purity will spread like a plague across the land and the servants of Hate will be powerless to stop it!'*
 
 
-* __Faction:__ [Truespirit](/faction/404) (3)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+3</span>)
 
 
 eq.set_global("Marl","1",1,"F");
 
-elseif( **You turn in:** [Blood of Kyrenna](/item/14381)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1157.png" alt="" /> <a
+                                href="/item/14381" data-url="14381" class="tooltip-link link">Blood of Kyrenna</a>) then
 
 
 >**Marl Kastane says:** Here, you take this shroud. You must now find the spirit of glohnor and place this item on him. This should force him back into his mummified body and then you must destroy this newly raised form and return to me its wrappings.
 
 
-* __Faction:__ [Truespirit](/faction/404) (5)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Dark Shroud](/item/14377) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/14377" data-url="14377" class="tooltip-link link">Dark Shroud</a> 
+
+ 
 
 
 eq.delete_global("Marl");
@@ -144,7 +150,8 @@ eq.delete_global("Marl");
 elseif **Faction** >= Apprehensive +28 then
 
 
-if( **You turn in:** [Glohnor wrappings](/item/14379)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_812.png" alt="" /> <a
+                                href="/item/14379" data-url="14379" class="tooltip-link link">Glohnor wrappings</a>) then
 
 
 
@@ -152,11 +159,14 @@ if( **You turn in:** [Glohnor wrappings](/item/14379)) then
 
 
 
-* __Faction:__ [Truespirit](/faction/404) (5)
+Your faction standing with [Truespirit](/faction/404) got better (<span class='text-success'>+5</span>)
 
 
 
- **You receive:**  [Will of Innoruuk](/item/14370) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_621.png" alt="" /> <a
+                                href="/item/14370" data-url="14370" class="tooltip-link link">Will of Innoruuk</a> 
+
+ 
 
 
 **This NPC *should* return incorrect items given.**

@@ -14,28 +14,32 @@ end
 
 
 
-if( **You turn in:** [A Scrap of Parchment](/item/18821)) then  
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18821" data-url="18821" class="tooltip-link link">A Scrap of Parchment</a>) then  
 
 
 >**Nug Rellash says:** Let's see here... That is good for one free ale. Here you go. Enjoy it!
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-5)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (1)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (-1)
+Your faction standing with [Antonius Bayle](/faction/219) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk](/faction/229) (-1)
+Your faction standing with [Coalition of Tradefolk](/faction/229) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (-1)
+Your faction standing with [Guards of Qeynos](/faction/262) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Free Ale](/item/13049) (+0 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_827.png" alt="" /> <a
+                                href="/item/13049" data-url="13049" class="tooltip-link link">Free Ale</a> (+0 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

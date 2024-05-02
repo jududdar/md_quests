@@ -87,13 +87,16 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Kevlins Debt](/item/13182)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
+                                href="/item/13182" data-url="13182" class="tooltip-link link">Kevlins Debt</a>) then 
 
 
 >**Ace Slighthand says:** Heh heh! You got a career ahead of ya kid! Good work. Here is your cut.
 
 
- **You receive:** 0 (+30 exp)
+ &#127873; **You receive:** 0 (+30 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 else
 

@@ -22,13 +22,17 @@ end
 
 
 
-if( **You turn in:** [Poisoned Wine](/item/29862)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_826.png" alt="" /> <a
+                                href="/item/29862" data-url="29862" class="tooltip-link link">Poisoned Wine</a>) then
  
 
 >*Brendar Mynden opens the bottle and takes a large drink right from it. Immediately his eyes roll back into their sockets and he falls to the ground. You look around to make sure no one has seen and then take the ring from his finger.*
 
 
- **You receive:**  [Unadorned Ring](/item/29863) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_875.png" alt="" /> <a
+                                href="/item/29863" data-url="29863" class="tooltip-link link">Unadorned Ring</a> 
+
+ 
 
 
 e.self:DoAnim(15);

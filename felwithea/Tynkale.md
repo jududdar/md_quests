@@ -117,36 +117,43 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18781)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18781" data-url="18781" class="tooltip-link link">A tattered note</a>) then 
 
 
 >**Tynkale says:** Greetings. young paladin!  I am Master Tynkale of the Clerics of Tunare.  Here. we shall teach and train you in the skills needed to defeat our evil and diseased enemies.  Take this, our guild tunic - it will help protect you. Wear it with pride, for you are now one of us.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (100)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (100)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (75)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Used Gold Training Tunic*](/item/13591) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13591" data-url="13591" class="tooltip-link link">Used Gold Training Tunic*</a> (+20 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [A Very Large Pelt](/item/13351)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_554.png" alt="" /> <a
+                                href="/item/13351" data-url="13351" class="tooltip-link link">A Very Large Pelt</a>) then
 
 
 >**Tynkale says:** So you have proven yourself to be a great slayer of beasts.Now it is time to prove yourself to be an asset to the Crown. You are to meet a man named Tolon Nurbyte. He will be at the local inn. Go to him and repeat the phrase, 'The glory of the Mother shines bright.' I can say no more. Oh.. and here. This may help you on your upcoming adventure.
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (20)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (20)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+20</span>)
 
 
- **You receive:** 0 (+250 exp)
+ &#127873; **You receive:** 0 (+250 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

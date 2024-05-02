@@ -32,6 +32,9 @@ if( **You turn in:** platinum = 1000) then
 >*Taralani Rahnta beams the brightest smile you've ever seen in this dark place at you when you tell him you accept his offer. He quickly hands you the satchel and takes the platinum eagerly. As you leave, you swear you hear chuckle at something.*
 
 
- **You receive:**  [Kejekan Tool Kit](/item/17062) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_716.png" alt="" /> <a
+                                href="/item/17062" data-url="17062" class="tooltip-link link">Kejekan Tool Kit</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

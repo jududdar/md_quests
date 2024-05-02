@@ -185,7 +185,8 @@ end
 
 
 
-if( **You turn in:** [A Heavy Coin](/item/3876)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/3876" data-url="3876" class="tooltip-link link">A Heavy Coin</a>) then
 
 
 >*Percontorius Ontu touches the coin to the back of her hand and then looks up with a smile. 'Please take this back to it's source,' she says and nods. You feel the coin return to your hand. Your palm tingles slightly and then the sensation fades.*
@@ -194,27 +195,30 @@ if( **You turn in:** [A Heavy Coin](/item/3876)) then
 
 
 
-* __Faction:__ [Eye of Seru](/faction/1485) (1)
+Your faction standing with [Eye of Seru](/faction/1485) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Hand of Seru](/faction/1484) (-1)
+Your faction standing with [Hand of Seru](/faction/1484) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Heart of Seru](/faction/1486) (-1)
+Your faction standing with [Heart of Seru](/faction/1486) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (1)
+Your faction standing with [Seru](/faction/1483) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Haven Smugglers](/faction/1542) (-1)
+Your faction standing with [Haven Smugglers](/faction/1542) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (-1)
+Your faction standing with [Validus Custodus](/faction/1503) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (-1)
+Your faction standing with [Magus Conlegium](/faction/1504) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [A Heavy Coin](/item/3877) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/3877" data-url="3877" class="tooltip-link link">A Heavy Coin</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**

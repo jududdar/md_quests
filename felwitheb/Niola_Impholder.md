@@ -61,56 +61,77 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:**  { [Bat Wing](/item/13068)}, 4) > 0
+if **Faction** >= Indifferent and  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_791.png" alt="" /> <a
+                                href="/item/13068" data-url="13068" class="tooltip-link link">Bat Wing</a>}, 4) > 0
 
 
 >**Niola Impholder says:** Ah yes.  These are exactly what I need.  Thank you very much.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (2)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (1)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-1)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-1</span>)
 
 
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Flare](/item/15310), [Spell: Shield of Fire](/item/15332)) (+10 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15310" data-url="15310" class="tooltip-link link">Spell: Flare</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/15332" data-url="15332" class="tooltip-link link">Spell: Shield of Fire</a>) (+10 exp)
 
-elseif( **You turn in:** [An Enrollment Letter](/item/18777)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18777" data-url="18777" class="tooltip-link link">An Enrollment Letter</a>) then 
 
 
 >**Niola Impholder says:** Welcome. I am Niola Impholder. Master Magician of the Keepers of the Art. Here is our guild tunic. You have much to learn, so let's get started.
 
 
-* __Faction:__ [Keepers of the Art](/faction/275) (100)
+Your faction standing with [Keepers of the Art](/faction/275) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (25)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (15)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [The Dead](/faction/239) (-25)
+Your faction standing with [The Dead](/faction/239) got worse (<span class='text-danger'>-25</span>)
 
 
- **You receive:**  [Faded Training Robe*](/item/13592) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_940.png" alt="" /> <a
+                                href="/item/13592" data-url="13592" class="tooltip-link link">Faded Training Robe*</a> (+20 exp)
 
-elseif( **You turn in:** [A Torn Drawing](/item/18902)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18902" data-url="18902" class="tooltip-link link">A Torn Drawing</a>) then
 
 
 >**Niola Impholder says:** What? Not as supposed? What can he... Well, that's all well and good. You, I assume, wish a reward for your 'valiant work'? Well, here you go, adventurer.
 
 
- **You receive:**  [Gossamer Robe](/item/1307) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_838.png" alt="" /> <a
+                                href="/item/1307" data-url="1307" class="tooltip-link link">Gossamer Robe</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 ;

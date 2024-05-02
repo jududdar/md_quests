@@ -24,7 +24,8 @@ if( **Faction is** > Kindly and e.other:GetSkill(56) > 250) then
 
 
 
-**You receive:**  [Unfilled Box](/item/17148)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17148" data-url="17148" class="tooltip-link link">Unfilled Box</a>
 
 
 else
@@ -41,7 +42,8 @@ end
 if( **Faction is** > Kindly) then
 
 
-if( **You turn in:** [Grandmasters Box](/item/24072)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/24072" data-url="24072" class="tooltip-link link">Grandmasters Box</a>) then
 
 
 
@@ -49,27 +51,30 @@ if( **You turn in:** [Grandmasters Box](/item/24072)) then
 
 
 
-* __Faction:__ [Circle of Unseen Hands](/faction/223) (5)
+Your faction standing with [Circle of Unseen Hands](/faction/223) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (-1)
+Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (1)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Citizens of Qeynos](/faction/5004) (-1)
+Your faction standing with [Citizens of Qeynos](/faction/5004) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (1)
+Your faction standing with [Kane Bayle](/faction/273) got better (<span class='text-success'>+1</span>)
 
 
 
- **You receive:**  [Grandmaster Assassin's Seal](/item/24073) (+200000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_901.png" alt="" /> <a
+                                href="/item/24073" data-url="24073" class="tooltip-link link">Grandmaster Assassin's Seal</a> (+200000 exp)
+
+ 
 
 
 

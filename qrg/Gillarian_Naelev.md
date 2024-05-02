@@ -101,45 +101,52 @@ end
 
 
 
-if( **You turn in:** [Gnoll Head](/item/13813)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_744.png" alt="" /> <a
+                                href="/item/13813" data-url="13813" class="tooltip-link link">Gnoll Head</a>) then 
 
 
 >**Gillarian Naelev says:** Fantastic work!! Hager will be pleased. Not only do we rid ourself of a poacher, but we rid the land of these destructive gnolls. Our fletchers crafted this for me... Please take it as thanks.
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (25)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (6)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+6</span>)
 
 
-* __Faction:__ [Sabertooths of Blackburrow](/faction/306) (-3)
+Your faction standing with [Sabertooths of Blackburrow](/faction/306) got worse (<span class='text-danger'>-3</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (6)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+6</span>)
 
 
- **You receive:**  [Rough Elm Recurve Bow](/item/8803) (+6000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/8803" data-url="8803" class="tooltip-link link">Rough Elm Recurve Bow</a> (+6000 exp)
 
-elseif( **You turn in:** [Poacher's Head](/item/13825)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 2 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/13825" data-url="13825" class="tooltip-link link">Poacher's Head</a>) then 
 
 
 >**Gillarian Naelev says:** Your deeds are great indeed. We shall cleanse our land of these poachers once and for all. A report has surfaced of a [master poacher].
 
 
-* __Faction:__ [Protectors of Pine](/faction/302) (15)
+Your faction standing with [Protectors of Pine](/faction/302) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Jaggedpine Treefolk](/faction/272) (3)
+Your faction standing with [Jaggedpine Treefolk](/faction/272) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Sabertooths of Blackburrow](/faction/306) (-2)
+Your faction standing with [Sabertooths of Blackburrow](/faction/306) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
- **You receive:** 0 (+6000 exp)
+ &#127873; **You receive:** 0 (+6000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 2 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 ;

@@ -75,30 +75,35 @@ end
 
 
 
-if( **You turn in:** [Recruitment Summons](/item/18770)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18770" data-url="18770" class="tooltip-link link">Recruitment Summons</a>) then 
 
 
 >**Baxok Curhunter says:** I, Baxok, guildmaster, welcome you to Gemchopper Hall, young warrior! You are expected to serve his majesty, King Ak'Anon, with pride. You have much to learn. You may report to any of the trainers for further guidance. Go forth and serve!
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (100)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (25)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (25)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+25</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-25)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-25</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-5)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:**  [Torn and Ripped Tunic*](/item/13520) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13520" data-url="13520" class="tooltip-link link">Torn and Ripped Tunic*</a> (+20 exp)
 
-elseif( **You turn in:** [Blackbox XIVD](/item/13344)) then 
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13344" data-url="13344" class="tooltip-link link">Blackbox XIVD</a>) then 
 
 
 >**Baxok Curhunter says:** I can hardly believe you destroyed the clockwork. The last ten men I sent became fairy fodder. Thank you. Here is a token of my appreciation. Serve Ak'Anon well and we shall treat you well.
@@ -107,21 +112,36 @@ elseif( **You turn in:** [Blackbox XIVD](/item/13344)) then
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (20)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (5)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (5)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-5)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Round Shield](/item/9002), [Cloth Cap](/item/1001), [Cloth Veil](/item/1002), [Cloth Choker](/item/1003), [Cloth Shirt](/item/1004), [Cloth Shawl](/item/1005), [Cloth Cape](/item/1006), [Cloth Cord](/item/1007), [Cloth Sleeves](/item/1008), [Cloth Wristband](/item/1009), [Cloth Gloves](/item/1010), [Cloth Gloves](/item/1010), [Cloth Pants](/item/1011)) (+5000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_542.png" alt="" /> <a
+                                href="/item/9002" data-url="9002" class="tooltip-link link">Round Shield</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/1001" data-url="1001" class="tooltip-link link">Cloth Cap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/1002" data-url="1002" class="tooltip-link link">Cloth Veil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/1003" data-url="1003" class="tooltip-link link">Cloth Choker</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/1004" data-url="1004" class="tooltip-link link">Cloth Shirt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1005" data-url="1005" class="tooltip-link link">Cloth Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/1006" data-url="1006" class="tooltip-link link">Cloth Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/1007" data-url="1007" class="tooltip-link link">Cloth Cord</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/1008" data-url="1008" class="tooltip-link link">Cloth Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/1009" data-url="1009" class="tooltip-link link">Cloth Wristband</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_517.png" alt="" /> <a
+                                href="/item/1010" data-url="1010" class="tooltip-link link">Cloth Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_517.png" alt="" /> <a
+                                href="/item/1010" data-url="1010" class="tooltip-link link">Cloth Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/1011" data-url="1011" class="tooltip-link link">Cloth Pants</a>) (+5000 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

@@ -31,7 +31,9 @@ end
 
 
 
-if( **You turn in:** [Zombie Skin](/item/13074), [Zombie Skin](/item/13074)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13074" data-url="13074" class="tooltip-link link">Zombie Skin</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/13074" data-url="13074" class="tooltip-link link">Zombie Skin</a>) then 
 
 
 >**Plur Etinu says:** May the unbridled passion of Erollisi Marr flow through your body.
@@ -39,7 +41,10 @@ if( **You turn in:** [Zombie Skin](/item/13074), [Zombie Skin](/item/13074)) the
 
 **Plur Etinu casts:** [Cure Disease](/spell/213) on target.
 
-elseif( **You turn in:** [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029), [Bixie Stinger](/item/14029)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1123.png" alt="" /> <a
+                                href="/item/14029" data-url="14029" class="tooltip-link link">Bixie Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1123.png" alt="" /> <a
+                                href="/item/14029" data-url="14029" class="tooltip-link link">Bixie Stinger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1123.png" alt="" /> <a
+                                href="/item/14029" data-url="14029" class="tooltip-link link">Bixie Stinger</a>) then 
 
 
 >**Plur Etinu says:** May the unbridled passion of Erollisi Marr flow through your body.

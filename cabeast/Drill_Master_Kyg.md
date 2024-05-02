@@ -25,7 +25,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Footmans Pack](/item/17027)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17027" data-url="17027" class="tooltip-link link">Footmans Pack</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -104,7 +105,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Sealed Note](/item/18234)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18234" data-url="18234" class="tooltip-link link">A Sealed Note</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -131,28 +133,33 @@ local text1 = "You were instructed to return with the full footmans pack and you
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Full Footmans Pack](/item/12430), [Militia's Pike](/item/5131)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12430" data-url="12430" class="tooltip-link link">Full Footmans Pack</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_736.png" alt="" /> <a
+                                href="/item/5131" data-url="5131" class="tooltip-link link">Militia's Pike</a>) then
 
 
 >**Drill Master Kyg says:** Kyg knew you could do it. You will make a fine legionnaire some day but, for now, you shall be a footman. Take the footman pike head plans. Forge the footman's pike. Do so, and then you may have an audience with the War Baron on the subject of his [Memory of Sebilis].
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Footman Head Plans](/item/12475) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12475" data-url="12475" class="tooltip-link link">Footman Head Plans</a> (+500 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

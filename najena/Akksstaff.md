@@ -26,13 +26,20 @@ end
 
 
 
-if( **You turn in:** [Torn Page of Mastery Fire](/item/28027), [Torn Page of Mastery Wind](/item/28028), [Torn Page of Mastery Earth](/item/28029), [Torn Page of Mastery Water](/item/28030)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28027" data-url="28027" class="tooltip-link link">Torn Page of Mastery Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28028" data-url="28028" class="tooltip-link link">Torn Page of Mastery Wind</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28029" data-url="28029" class="tooltip-link link">Torn Page of Mastery Earth</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28030" data-url="28030" class="tooltip-link link">Torn Page of Mastery Water</a>) then
 
 
 >**Akksstaff says:** Very well. Take these words back to that shriveled old gnome, Rykas, if you wish to complete this quest. Now leave me, Soandso, it sickens me to be this cordial for so long. And my pet needs exercise. Go!
 
 
- **You receive:**  [Words of Mastery](/item/28004) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
+                                href="/item/28004" data-url="28004" class="tooltip-link link">Words of Mastery</a> 
+
+ 
 
 
 **Akksstaff despawns.**

@@ -50,13 +50,18 @@ end
 
 
 
-if( **You turn in:** [Maid Issis Fang](/item/10179), [Butler Syncalls Fang](/item/10178)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/10179" data-url="10179" class="tooltip-link link">Maid Issis Fang</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_800.png" alt="" /> <a
+                                href="/item/10178" data-url="10178" class="tooltip-link link">Butler Syncalls Fang</a>) then
 
 
 >**an avenging caitiff says:** Mother? Father? May you find peace at last. I shall avenge your suffering! I will grow stronger and set free the souls of the others.
 
 
- **You receive:**  [Electrum-Bladed Wakizashi](/item/5408) (+50000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_890.png" alt="" /> <a
+                                href="/item/5408" data-url="5408" class="tooltip-link link">Electrum-Bladed Wakizashi</a> (+50000 exp)
+
+ 
 
 
 **an avenging caitiff despawns.**

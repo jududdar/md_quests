@@ -126,85 +126,120 @@ local text = "I expect to receive TWO orc hatchets.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Orc Hatchet](/item/12108), [Orc Hatchet](/item/12108)) then 
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/12108" data-url="12108" class="tooltip-link link">Orc Hatchet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/12108" data-url="12108" class="tooltip-link link">Orc Hatchet</a>) then 
 
 
 >**Dill Fireshine says:** Fantastic work!! Your actions shall earn you the respect of all Fier'Dal!  Take this as a small bounty for your deed.  We have heard of [Crushbone allies] who wish our demise.
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (10)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (2)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (2)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (2)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-2)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-2</span>)
 
 
- **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) (+2500 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5047" data-url="5047" class="tooltip-link link">Tarnished Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/5048" data-url="5048" class="tooltip-link link">Tarnished Bastard Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7032" data-url="7032" class="tooltip-link link">Cast-Iron Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5046" data-url="5046" class="tooltip-link link">Tarnished Battle Axe</a>) (+2500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
- **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5047" data-url="5047" class="tooltip-link link">Tarnished Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/5048" data-url="5048" class="tooltip-link link">Tarnished Bastard Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7032" data-url="7032" class="tooltip-link link">Cast-Iron Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5046" data-url="5046" class="tooltip-link link">Tarnished Battle Axe</a>) 
+
+ 
 
 
 if ( math.random() < 0.5 ) then
 
 
 
- **You receive:** eq.ChooseRandom( [Tarnished Scimitar](/item/5047), [Tarnished Bastard Sword](/item/5048), [Cast-Iron Rapier](/item/7032), [Tarnished Battle Axe](/item/5046)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_604.png" alt="" /> <a
+                                href="/item/5047" data-url="5047" class="tooltip-link link">Tarnished Scimitar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_577.png" alt="" /> <a
+                                href="/item/5048" data-url="5048" class="tooltip-link link">Tarnished Bastard Sword</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_762.png" alt="" /> <a
+                                href="/item/7032" data-url="7032" class="tooltip-link link">Cast-Iron Rapier</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
+                                href="/item/5046" data-url="5046" class="tooltip-link link">Tarnished Battle Axe</a>) 
+
+ 
 
 
-elseif( **You turn in:** [A Sealed Letter](/item/18840)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
+                                href="/item/18840" data-url="18840" class="tooltip-link link">A Sealed Letter</a>) then 
 
 
 >**Dill Fireshine says:** Yes. A recent report has proven this to be true. An evil alliance has been made. We shall soon need many more experienced adventurers such as yourself. For now, take this reward and strengthen your skills.
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (30)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+30</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (7)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (7)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (7)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+7</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-7)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-7</span>)
 
 
- **You receive:**  [Longbow](/item/8003) (+23400 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_597.png" alt="" /> <a
+                                href="/item/8003" data-url="8003" class="tooltip-link link">Longbow</a> (+23400 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Runner Pouch](/item/13226)) then 
+**You receive coin:** 1 <img src='/static/icons/item_644.png' width='14' height='14'/> 1 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
+                                href="/item/13226" data-url="13226" class="tooltip-link link">Runner Pouch</a>) then 
 
 
 >**Dill Fireshine says:** Good work. We shall cut off correspondence between these two. It is for the best. Remember, if you find any notes to Neriak from the ambassador in Crushbone, give them to me.
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (20)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+20</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (5)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (5)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Soldiers of Tunare](/faction/310) (5)
+Your faction standing with [Soldiers of Tunare](/faction/310) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Crushbone Orcs](/faction/234) (-5)
+Your faction standing with [Crushbone Orcs](/faction/234) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** eq.ChooseRandom( [Leather Skullcap](/item/2001), [Leather Mask](/item/2002), [Leather Sleeves](/item/2008), [Leather Gloves](/item/2010), [Raw-hide Tunic](/item/2140), [Raw-hide Cloak](/item/2142), [Raw-hide Leggings](/item/2147), [Raw-hide Boots](/item/2148)) (+21800 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
+                                href="/item/2001" data-url="2001" class="tooltip-link link">Leather Skullcap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
+                                href="/item/2002" data-url="2002" class="tooltip-link link">Leather Mask</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_634.png" alt="" /> <a
+                                href="/item/2008" data-url="2008" class="tooltip-link link">Leather Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/2010" data-url="2010" class="tooltip-link link">Leather Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/2140" data-url="2140" class="tooltip-link link">Raw-hide Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_660.png" alt="" /> <a
+                                href="/item/2142" data-url="2142" class="tooltip-link link">Raw-hide Cloak</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/2147" data-url="2147" class="tooltip-link link">Raw-hide Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/2148" data-url="2148" class="tooltip-link link">Raw-hide Boots</a>) (+21800 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

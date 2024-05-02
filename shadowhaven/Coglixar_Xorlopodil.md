@@ -28,5 +28,6 @@
 >**Coglixar Xorlopodil says:** In the Paludal caverns our workers are starting to get very low on rations and are working with very old and tarnished mining utensils. I need you to deliver these rations to Daesorak first and then see what supplies he thinks they need. He is the one overseeing the operation and will be able to tell you what supplies he needs and what quantity is necessary.
 
 
-**You receive:**  [Bag of Rations](/item/4747)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_539.png" alt="" /> <a
+                                href="/item/4747" data-url="4747" class="tooltip-link link">Bag of Rations</a>
 end

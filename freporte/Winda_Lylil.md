@@ -6,45 +6,51 @@
 
 
 
-if( **You turn in:** [Full Muffin Crate](/item/1839)) then  
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/1839" data-url="1839" class="tooltip-link link">Full Muffin Crate</a>) then  
 
 
 >**Winda Lylil says:** Ah yes! This is exactly what I am looking for, dear. Let me put these on the shelf right away. Here is some coin for your trouble. Perhaps we can do business again sometime.
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (2)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-1)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
 
-elseif( **You turn in:** [Bag of Bread Loaves](/item/1838)) then  
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_557.png" alt="" /> <a
+                                href="/item/1838" data-url="1838" class="tooltip-link link">Bag of Bread Loaves</a>) then  
 
 
 >**Winda Lylil says:** Oh, wonderful fresh bread! Thank you for making the trip, that is such a long way. Here, I hope this covers your travel expenses. You have my deepest thanks.
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (4)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+4</span>)
 
 
-* __Faction:__ [Coalition of Tradefolk Underground](/faction/336) (1)
+Your faction standing with [Coalition of Tradefolk Underground](/faction/336) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (-1)
+Your faction standing with [Knights of Truth](/faction/281) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (-1)
+Your faction standing with [Priests of Marr](/faction/362) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+**You receive coin:** 1-2 <img src='/static/icons/item_644.png' width='14' height='14'/> 5-8 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

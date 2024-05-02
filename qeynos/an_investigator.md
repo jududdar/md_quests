@@ -32,7 +32,8 @@ eq.follow(e.other:GetID());
 >**an investigator says:** Here you are.
 
 
-**You receive:**  [Confession Document](/item/2344)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/2344" data-url="2344" class="tooltip-link link">Confession Document</a>
 
 **You say:** `summon a guard`
 
@@ -75,7 +76,8 @@ end
 
 
 
-if( **You turn in:** [Investigators Briefing](/item/18289)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
+                                href="/item/18289" data-url="18289" class="tooltip-link link">Investigators Briefing</a>) then
 
 
 >**an investigator says:** Very well, let's get to work. I assume you have read the briefing and committed it to memory. This is how you will be tested. I shall play the part of student and you shall play the master who directs me. I promise I won't make it easy on you either, we want only the best. We'll see how you do and then I'll decide if you are worthy to wear the badge or not.
@@ -92,7 +94,10 @@ eq.follow(e.other:GetID());
 
 eq.set_global("invest_badge","first_suspect",3,"F");
 
-elseif( **You turn in:** [Rileys Confession](/item/2369), [Willies Confession](/item/2394), [Head of Donally Stultz](/item/2279)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/2369" data-url="2369" class="tooltip-link link">Rileys Confession</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
+                                href="/item/2394" data-url="2394" class="tooltip-link link">Willies Confession</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/2279" data-url="2279" class="tooltip-link link">Head of Donally Stultz</a>) then
 
 
 eq.stop_follow();
@@ -101,22 +106,25 @@ eq.stop_follow();
 >**an investigator says:** You have done our city a great service and helped to bring several criminals to justice this day! Wear this Investigator's Badge with pride! Speak again with Vegalys Keldrane, he may have information about [advancing further] in rank.
 
 
-* __Faction:__ [Antonius Bayle](/faction/219) (5)
+Your faction standing with [Antonius Bayle](/faction/219) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (5)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-2)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-2</span>)
 
 
-* __Faction:__ [Kane Bayle](/faction/273) (-5)
+Your faction standing with [Kane Bayle](/faction/273) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Merchants of Qeynos](/faction/291) (5)
+Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Investigator's Badge](/item/2386) (+2000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_754.png" alt="" /> <a
+                                href="/item/2386" data-url="2386" class="tooltip-link link">Investigator's Badge</a> (+2000 exp)
+
+ 
 
 
 eq.delete_global("invest_badge");
@@ -124,7 +132,8 @@ eq.delete_global("invest_badge");
 
 **an investigator despawns.**
 
-item_lib.return_items(e.self, e.other, e.trade, e.text)
+**This NPC *should* return incorrect items given.**
+
 ## Timer(s)
 
 if(e.timer == "depop") then

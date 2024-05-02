@@ -10,7 +10,8 @@
 >**Grimthor Brewbeard says:** Grab a pole and fish the waters in Iceclad until you catch yourself three Iceclad Cutlass fish. Place them in this oil extractor and you'll have whatcha need.
 
 
-**You receive:**  [Fish oil extractor](/item/17514)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1239.png" alt="" /> <a
+                                href="/item/17514" data-url="17514" class="tooltip-link link">Fish oil extractor</a>
 
 **You say:** `liquid velium`
 
@@ -25,13 +26,17 @@ end
 
 
 
-if( **You turn in:** [Etched Rune](/item/1856)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1856" data-url="1856" class="tooltip-link link">Etched Rune</a>) then
 
 
 >**Grimthor Brewbeard says:** That looks about right. You're moving along well outlander. Next you'll be needin to brew up a sacred ink to fill the grooves in your rune. Take Iceclad Cutlass fish oil, liquid velium, and some Royal Kromrif blood, brew them in the barrel here then take the product and the rune and combine them in a fletching kit. Show Talem Tucker the resulting item if yer successful.
 
 
- **You receive:**  [Etched Rune](/item/1856) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
+                                href="/item/1856" data-url="1856" class="tooltip-link link">Etched Rune</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

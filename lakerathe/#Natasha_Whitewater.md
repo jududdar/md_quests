@@ -17,13 +17,17 @@ end
 
 
 
-if( **You turn in:** [Damaged Goblin Crown](/item/28046)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_523.png" alt="" /> <a
+                                href="/item/28046" data-url="28046" class="tooltip-link link">Damaged Goblin Crown</a>) then 
 
 
 >**Natasha Whitewater says:** I will have this crown returned to the Riptide Goblins immediately! Should you ever come across an Erudite named Omat Vastsea, give him this sea shell. The waters of Norrath shimmer with awareness of your deeds here today!
 
 
- **You receive:**  [Ornate Sea Shell](/item/28047) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1223.png" alt="" /> <a
+                                href="/item/28047" data-url="28047" class="tooltip-link link">Ornate Sea Shell</a> 
+
+ 
 
 
 **Natasha Whitewater despawns.**

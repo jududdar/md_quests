@@ -93,28 +93,33 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Hector's Severed Head](/item/1270), [Jerald's Severed Head](/item/1319), [Renaldo's Severed Head](/item/1323)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/1270" data-url="1270" class="tooltip-link link">Hector's Severed Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/1319" data-url="1319" class="tooltip-link link">Jerald's Severed Head</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_982.png" alt="" /> <a
+                                href="/item/1323" data-url="1323" class="tooltip-link link">Renaldo's Severed Head</a>) then
 
 
 >**Jarah Reskan says:** I heard our shipment made it back safely. These heads will send a message to any other thief that plans on robbing our cargo shipments. Thank you Soandso, take this coin as your reward. I’m sorry to say we’re currently out of masks.
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (2)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (1)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** 0 (+1500 exp)
+ &#127873; **You receive:** 0 (+1500 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 **This NPC *should* return incorrect items given.**

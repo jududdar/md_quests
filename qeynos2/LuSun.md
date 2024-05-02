@@ -19,22 +19,26 @@ end
 
 
 
-if( **You turn in:** [Note with Fist Insignia](/item/18712)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/18712" data-url="18712" class="tooltip-link link">Note with Fist Insignia</a>) then 
 
 
 >**LuSun says:** Greetings, and welcome to the Silent Fist Clan. Don our guild tunic, purge your mind and soul, and begin your lifelong devotion to the Clan. Brother Esrinap will introduce you to our lifestyle and begin your training. Be sound, allow your spirit to open up and guide you.
 
 
-* __Faction:__ [Silent Fist Clan](/faction/309) (100)
+Your faction standing with [Silent Fist Clan](/faction/309) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (15)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Ashen Order](/faction/361) (15)
+Your faction standing with [Ashen Order](/faction/361) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [Torn Cloth Tunic*](/item/13507) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13507" data-url="13507" class="tooltip-link link">Torn Cloth Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

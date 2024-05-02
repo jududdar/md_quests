@@ -47,7 +47,8 @@ end
 
 
 
-if( **You turn in:** [Shining Star of Light](/item/6356), gold=20) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6356" data-url="6356" class="tooltip-link link">Shining Star of Light</a>, gold=20) then 
 
 
 >**Whysia Flock says:** Here you are, then.  May the power of the Prime Healer guide you through life and keep you healthy.
@@ -55,7 +56,10 @@ if( **You turn in:** [Shining Star of Light](/item/6356), gold=20) then
 
 
 
- **You receive:**  [Shining Star of Light](/item/6356) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_741.png" alt="" /> <a
+                                href="/item/6356" data-url="6356" class="tooltip-link link">Shining Star of Light</a> 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

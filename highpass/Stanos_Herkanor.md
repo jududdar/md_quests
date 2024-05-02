@@ -125,7 +125,7 @@ e.self:DoAnim(64);
 >**Stanos Herkanor says:** You killed Renux?  You stupid git of a dog!  Renux was my best work, a killer without peer, without remorse.  All I did to her, I did for a reason, and it made her matchless.  Ravens take your eyes!  All you needed to do was gather evidence.  When Hanns' believed me, Renux would follow.  A hollow victory, it seems.  I suppose you had to do it, but I imagine it cost you in the process.  When this is over, perhaps you and I shall have a reckoning.
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (-500)
+Your faction standing with [Highpass Guards](/faction/332) got worse (<span class='text-danger'>-500</span>)
 end
 
 function CallHelp()
@@ -155,7 +155,7 @@ CallHelp();
 eq.pause_timer("depop");
 
 
-**Set a timer** named *call_help* for [The Freeport Militia](/faction/330) seconds
+**Set a timer** named *call_help* for 330 seconds
 
 else
 
@@ -181,81 +181,96 @@ end
 local text = "Did you forget something?";
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Stained Parchment Top](/item/28010), [Stained Parchment Bottom](/item/28011)) then
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28010" data-url="28010" class="tooltip-link link">Stained Parchment Top</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/28011" data-url="28011" class="tooltip-link link">Stained Parchment Bottom</a>) then
 
 
 >**Stanos Herkanor says:** Excellent!  With this document I can..' <He pauses for a moment>. 'Damnation!  Curse my tired old mind, I forgot that I could not read the document.  It is written in some obscure code or language.  I can't decipher it, but I know someone who can.  Seek out one called Eldreth, an Erudite who used to do work for me.  I know not where he may be found these days, only that he will not be found in Erudin, as they want his head for some misdeed in the past.  Give him the complete parchment, and tell him I sent you.  He owes me.
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (100)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (15)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (15)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (5)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (5)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Combined Parchment](/item/28012) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/28012" data-url="28012" class="tooltip-link link">Combined Parchment</a> (+500 exp)
+
+ 
 
 
 **Stanos Herkanor despawns.**
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Generals Pouch](/item/28013), [Jagged Diamond Dagger](/item/7506), [Cazic Quill](/item/7505)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_722.png" alt="" /> <a
+                                href="/item/28013" data-url="28013" class="tooltip-link link">Generals Pouch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/7506" data-url="7506" class="tooltip-link link">Jagged Diamond Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_574.png" alt="" /> <a
+                                href="/item/7505" data-url="7505" class="tooltip-link link">Cazic Quill</a>) then
 
 
 e.self:Say("Very well done.  I leave now to confront Hanns with this evidence.  Even so, it will not be easy to regain his trust.  That is why I need those daggers, in case all else fails.<chuckle>   Bristlebane grant me luck - I can no longer live like a hunted dog.  In any case, I am grateful for your aid.  Take this wretched blade, I can bear it no longer.
 I must warn you, I feel it carries Innoruuk's curse; all who are near it learn the meaning of hate. <chuckle>  Ironic, isn't it?  You went to all that work to redeem yourself for a rapier, yet the true reward came when you redeemed another. <chuckle>.  Good luck, Soandso, for much as I, you will need it.");
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (100)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (15)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (15)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (5)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (5)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Ragebringer](/item/11057) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1183.png" alt="" /> <a
+                                href="/item/11057" data-url="11057" class="tooltip-link link">Ragebringer</a> (+10000 exp)
+
+ 
 
 
 **Stanos Herkanor despawns.**
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Translated Parchment](/item/18961)) then
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/18961" data-url="18961" class="tooltip-link link">Translated Parchment</a>) then
 
 
 >**Stanos Herkanor says:** Let me see what you have here. Aha, so that's who.. yes, yes! There is one more thing I need you to do. This document tells me who the originator of the plot really was. His name is General V'ghera, which is interesting, as Anson's men have spotted him in Kithicor recently. He will not be easy to get to, but if you give this box to one of his many aides, the General will HAVE to come to investigate. You see, this box used to contain the tools crafted for the assassination. When he arrives, kill him! I need any documents you find on him - with luck it will be enough evidence to convince Hanns that what I say is true. Bring any documents or dispatch cases you find, along with those blades Vilnius made you work so hard for, and we will make a trade.
 
 
-* __Faction:__ [Highpass Guards](/faction/332) (100)
+Your faction standing with [Highpass Guards](/faction/332) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [Carson McCabe](/faction/329) (15)
+Your faction standing with [Carson McCabe](/faction/329) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Merchants of Highpass](/faction/331) (15)
+Your faction standing with [Merchants of Highpass](/faction/331) got better (<span class='text-success'>+15</span>)
 
 
-* __Faction:__ [Corrupt Qeynos Guards](/faction/230) (5)
+Your faction standing with [Corrupt Qeynos Guards](/faction/230) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (5)
+Your faction standing with [The Freeport Militia](/faction/330) got better (<span class='text-success'>+5</span>)
 
 
- **You receive:**  [Sealed Box](/item/28057) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
+                                href="/item/28057" data-url="28057" class="tooltip-link link">Sealed Box</a> (+500 exp)
+
+ 
 
 
 **Stanos Herkanor despawns.**

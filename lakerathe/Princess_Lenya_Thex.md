@@ -51,22 +51,27 @@ local text = "I will require both the shackle key for the dark shackles and some
 
 
 
-if( **You turn in:** [Brass Key](/item/20008), [Tearons Bracer](/item/13108)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1081.png" alt="" /> <a
+                                href="/item/20008" data-url="20008" class="tooltip-link link">Brass Key</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_516.png" alt="" /> <a
+                                href="/item/13108" data-url="13108" class="tooltip-link link">Tearons Bracer</a>) then
 
 
 >**Princess Lenya Thex says:** You have saved me!!  Soandso, you are my hero!!  Take my amulet and the royal suite key to Tearon in Highkeep.  Help put his soul at ease and he shall reward you.  Now I must go.. I am sorry I cannot transport you as well, but my powers are weak from much swimming.  Farewell, brave soul!
 
 
-* __Faction:__ [Clerics of Tunare](/faction/226) (75)
+Your faction standing with [Clerics of Tunare](/faction/226) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [King Tearis Thex](/faction/279) (75)
+Your faction standing with [King Tearis Thex](/faction/279) got better (<span class='text-success'>+75</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (75)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+75</span>)
 
 
- **You receive:**  [Royal Amulet of Thex](/item/13109) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1058.png" alt="" /> <a
+                                href="/item/13109" data-url="13109" class="tooltip-link link">Royal Amulet of Thex</a> (+500 exp)
+
+ 
 
 
 **Princess Lenya Thex despawns.**

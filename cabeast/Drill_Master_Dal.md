@@ -69,7 +69,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Partisan Pack](/item/17997)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/17997" data-url="17997" class="tooltip-link link">Partisan Pack</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -92,50 +93,65 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915), [Marauder Snout Ring 'MM'](/item/12915)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/12915" data-url="12915" class="tooltip-link link">Marauder Snout Ring 'MM'</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/12915" data-url="12915" class="tooltip-link link">Marauder Snout Ring 'MM'</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/12915" data-url="12915" class="tooltip-link link">Marauder Snout Ring 'MM'</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_757.png" alt="" /> <a
+                                href="/item/12915" data-url="12915" class="tooltip-link link">Marauder Snout Ring 'MM'</a>) then
 
 
 >*Drill Master Dal hands you a shimmering black piece of armor which smells quite horrid. You find it hard to keep it from slithering out of your hand. 'Here is the armor the tailors have been working on for the legion. You may test it for us. Keep up your fine work and I may have other pieces available for you to test.'*
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Leech Husk Tunic](/item/12917), [Leech Husk Leggings](/item/12918), [Leech Husk Gloves](/item/12919), [Leech Husk Wrist Bands](/item/12920), [Leech Husk Boots](/item/12921)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/12917" data-url="12917" class="tooltip-link link">Leech Husk Tunic</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_635.png" alt="" /> <a
+                                href="/item/12918" data-url="12918" class="tooltip-link link">Leech Husk Leggings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_636.png" alt="" /> <a
+                                href="/item/12919" data-url="12919" class="tooltip-link link">Leech Husk Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_637.png" alt="" /> <a
+                                href="/item/12920" data-url="12920" class="tooltip-link link">Leech Husk Wrist Bands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_633.png" alt="" /> <a
+                                href="/item/12921" data-url="12921" class="tooltip-link link">Leech Husk Boots</a>) (+1000 exp)
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full Partisan Pack](/item/12673)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
+                                href="/item/12673" data-url="12673" class="tooltip-link link">Full Partisan Pack</a>) then
 
 
 >**Drill Master Dal says:** Fantastic work, Partisan Soandso. Here is your reward. You may continue to perform this task as the baron has found it aids in our defense. I shall always pay for a good day's work. Just let me know if you are still [ready for the task]. As for the curskin shield, you may only have one. Perhaps soon you will prove yourself a formidable fighter and you can earn a militia pike from Drill Master Vygan.
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (5)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Cabilis Residents](/faction/440) (1)
+Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (1)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (1)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Swift Tails](/faction/444) (1)
+Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Curscale Buckler](/item/12674) (+250 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_759.png" alt="" /> <a
+                                href="/item/12674" data-url="12674" class="tooltip-link link">Curscale Buckler</a> (+250 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

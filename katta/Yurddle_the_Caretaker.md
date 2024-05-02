@@ -44,7 +44,10 @@
 >**Yurddle the Caretaker says:** Here are some lists of items that have been stolen from the crypts of the mausoleum in the past. You may bring each crypts set of four missing items to me separately. It is not necessary to find all three sets of items before returning but any set you do return must be complete to please the spirits. Perhaps you should ask around the shops in the other cities of Luclin if the merchants there have seen the missing items.
 
 
- **You receive:**  [List of Stolen Items](/item/18353) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18353" data-url="18353" class="tooltip-link link">List of Stolen Items</a> 
+
+ 
 end
 
 ## Turn-Ins
@@ -53,7 +56,11 @@ end
 
 
 
-if( **You turn in:** [Aeridia Family Signet Ring](/item/10670), [Tarnished Copper Runed Wand](/item/10673), [Faded Silver Embroidered Robe](/item/10672), [Sealed Golden Scroll Tube](/item/10671)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_876.png" alt="" /> <a
+                                href="/item/10670" data-url="10670" class="tooltip-link link">Aeridia Family Signet Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/10673" data-url="10673" class="tooltip-link link">Tarnished Copper Runed Wand</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_838.png" alt="" /> <a
+                                href="/item/10672" data-url="10672" class="tooltip-link link">Faded Silver Embroidered Robe</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_682.png" alt="" /> <a
+                                href="/item/10671" data-url="10671" class="tooltip-link link">Sealed Golden Scroll Tube</a>) then
 
 
 >**Yurddle the Caretaker says:** I require the Aeridia Family Signet Ring, the Sealed Golden Scroll Tube, the Faded Silver Embroidered Robe, and the Tarnished Copper Runed Wand that were stolen from Holin Aeridias crypt.
@@ -65,27 +72,34 @@ if( **You turn in:** [Aeridia Family Signet Ring](/item/10670), [Tarnished Coppe
 **Spawn NPC:**  [Holin Aeridia](/npc/160168) at (**y:** -633, **x:** -1702)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-1)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Holin Aeridia's Belongings](/item/10682) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10682" data-url="10682" class="tooltip-link link">Holin Aeridia's Belongings</a> (+1000 exp)
 
-elseif( **You turn in:** [Ancient Ornate Combine Dagger](/item/10674), [Talikar Family Signet Ring](/item/10675), [Faded Portrait of a Lady](/item/10676), [Antique Platinum Medal](/item/10677)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
+                                href="/item/10674" data-url="10674" class="tooltip-link link">Ancient Ornate Combine Dagger</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_876.png" alt="" /> <a
+                                href="/item/10675" data-url="10675" class="tooltip-link link">Talikar Family Signet Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_653.png" alt="" /> <a
+                                href="/item/10676" data-url="10676" class="tooltip-link link">Faded Portrait of a Lady</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1002.png" alt="" /> <a
+                                href="/item/10677" data-url="10677" class="tooltip-link link">Antique Platinum Medal</a>) then
 
 
 >**Yurddle the Caretaker says:** I require the Ancient Ornate Combine Dagger, Talikar Family Signet Ring, Faded Portrait of a Lady, and the Antique Platinum Medal that were stolen from Raien Talikars crypt.
@@ -97,27 +111,34 @@ elseif( **You turn in:** [Ancient Ornate Combine Dagger](/item/10674), [Talikar 
 **Spawn NPC:**  [Raien Talikar](/npc/160169) at (**y:** -568, **x:** -1730)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-1)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Raien Talikars Belongings](/item/10683) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10683" data-url="10683" class="tooltip-link link">Raien Talikars Belongings</a> (+1000 exp)
 
-elseif( **You turn in:** [Gold Embroidered Kilt](/item/10678), [Silver Embroidered Tabard](/item/10679), [Ancient Ceremonial Warhammer](/item/10680), [Old Sealed Medicine Pouch](/item/10681)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_843.png" alt="" /> <a
+                                href="/item/10678" data-url="10678" class="tooltip-link link">Gold Embroidered Kilt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_932.png" alt="" /> <a
+                                href="/item/10679" data-url="10679" class="tooltip-link link">Silver Embroidered Tabard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/10680" data-url="10680" class="tooltip-link link">Ancient Ceremonial Warhammer</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_727.png" alt="" /> <a
+                                href="/item/10681" data-url="10681" class="tooltip-link link">Old Sealed Medicine Pouch</a>) then
 
 
 >**Yurddle the Caretaker says:** I require the Gold Embroidered Kilt, Silver Embroidered Tabard, Ancient Ceremonial Varhammer, and Old Sealed Medicine Pouch that were stolen from Shoeon Malicus' crypt.
@@ -129,24 +150,27 @@ elseif( **You turn in:** [Gold Embroidered Kilt](/item/10678), [Silver Embroider
 **Spawn NPC:**  [Shoeon Malicus](/npc/160170) at (**y:** -559, **x:** -1667)
 
 
-* __Faction:__ [Katta Castellum Citizens](/faction/1502) (2)
+Your faction standing with [Katta Castellum Citizens](/faction/1502) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Validus Custodus](/faction/1503) (1)
+Your faction standing with [Validus Custodus](/faction/1503) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Magus Conlegium](/faction/1504) (1)
+Your faction standing with [Magus Conlegium](/faction/1504) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Citizens of Seru](/faction/1499) (-1)
+Your faction standing with [Citizens of Seru](/faction/1499) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Seru](/faction/1483) (-1)
+Your faction standing with [Seru](/faction/1483) got worse (<span class='text-danger'>-1</span>)
 
 
-* __Faction:__ [Shoulders of Seru](/faction/1487) (-1)
+Your faction standing with [Shoulders of Seru](/faction/1487) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:**  [Shoeon Malicus' Belongings](/item/10684) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/10684" data-url="10684" class="tooltip-link link">Shoeon Malicus' Belongings</a> (+1000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

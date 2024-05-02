@@ -27,10 +27,13 @@ return;
 
 
 
-if( **You turn in:** [Glowing Acrylia Sphere](/item/4376)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_734.png" alt="" /> <a
+                                href="/item/4376" data-url="4376" class="tooltip-link link">Glowing Acrylia Sphere</a>) then 
 
 
- **You receive:** 0 (+1000 exp)
+ &#127873; **You receive:** 0 (+1000 exp)
+
+ 
 
 
 >**Scout Derrin says:** Draw your best weapons, memorize your most deadly spells and cast your best enhancements. Prepare yourselves for a fierce battle!

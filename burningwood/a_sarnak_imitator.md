@@ -57,7 +57,8 @@ end
 
 
 
-if( **You turn in:** [Copy of Notes](/item/10603)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/10603" data-url="10603" class="tooltip-link link">Copy of Notes</a>) then
 
 
 >**a sarnak imitator says:** I see that you have what I was waiting for. Stofo does do excellent work. It seems that you are to start on a long journey. Take this seal and it will guide you on your next step. Seek out the masters of enchantment. In time we will craft the Serpent for you. When you have collected the four parts of the staff, you must combine them in a bundle and return them to me.
@@ -66,14 +67,21 @@ if( **You turn in:** [Copy of Notes](/item/10603)) then
 >**a sarnak imitator says:** Take this seal. You will need to show my seal to the other masters so that they may grant you the tools to complete your next tasks. When you have collected the four parts of the staff, you must combine them in a bundle for me. The other masters can provide the means to bundle them. Good luck and safe travel.
 
 
- **You receive:**  [Jeb's Seal](/item/10604) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
+                                href="/item/10604" data-url="10604" class="tooltip-link link">Jeb's Seal</a> 
 
-elseif( **Faction is** > Indifferent and  **You turn in:** [A Bundle of Staves](/item/10639)) then
+ 
+
+elseif( **Faction is** > Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_978.png" alt="" /> <a
+                                href="/item/10639" data-url="10639" class="tooltip-link link">A Bundle of Staves</a>) then
 
 
 >**a sarnak imitator says:** The path you trod was long and hard. Now you are worthy to bear the Serpent. Use it well.
 
 
- **You receive:**  [Staff of the Serpent](/item/10650) (+15000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_686.png" alt="" /> <a
+                                href="/item/10650" data-url="10650" class="tooltip-link link">Staff of the Serpent</a> (+15000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

@@ -24,13 +24,16 @@ end
 
 
 
-if( **You turn in:** [Dwarven Ale](/item/13036)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_703.png" alt="" /> <a
+                                href="/item/13036" data-url="13036" class="tooltip-link link">Dwarven Ale</a>) then 
 
 
 >**Beur Tenlah says:** Well, well, well.. It's about time. Whatta ya got, boots fulla stones? Or maybe yer just part turtle? Bah, anyways, thanks for the ale. Maybe I'll buy you one sometime, eh? Bwahaha!
 
 
- **You receive:** 0 (+15 exp)
+ &#127873; **You receive:** 0 (+15 exp)
+
+ 
 
 
 **Signaled to:**  [Harkin Duskfoot](/npc/10107)

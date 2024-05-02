@@ -22,7 +22,8 @@ local rewarditem = 0;
 
 
 
-if( **You turn in:** [Ruby](/item/10035)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_964.png" alt="" /> <a
+                                href="/item/10035" data-url="10035" class="tooltip-link link">Ruby</a>) then 
 
 
 >**Lynuga says:** Mmm. Ruby!! Me thank's you! Here take this, me got it off dead someone who try take my collection. Me think's this valuable thing..
@@ -43,16 +44,18 @@ rewarditem = eq.ChooseRandom(10080, 10081);
 
 
 
-* __Faction:__ [Broken Skull Clan](/faction/222) (5)
+Your faction standing with [Broken Skull Clan](/faction/222) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Shadowknights of Night Keep](/faction/308) (-5)
+Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-5</span>)
 
 
-* __Faction:__ [Da Bashers](/faction/235) (-5)
+Your faction standing with [Da Bashers](/faction/235) got worse (<span class='text-danger'>-5</span>)
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

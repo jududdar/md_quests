@@ -51,7 +51,8 @@ if **Faction** >= Dubious +300 then
 
 
 
-**You receive:**  [Jusean's Report Request](/item/18021)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18021" data-url="18021" class="tooltip-link link">Jusean's Report Request</a>
 
 
 else
@@ -74,7 +75,8 @@ if **Faction** >= Dubious +300 then
 
 
 
-**You receive:**  [Jusean's Report Request](/item/18020)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18020" data-url="18020" class="tooltip-link link">Jusean's Report Request</a>
 
 
 else
@@ -146,7 +148,8 @@ end
 local item_check = 0;
 
 
-if( **You turn in:** [Behroe's Report](/item/18023)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18023" data-url="18023" class="tooltip-link link">Behroe's Report</a>) then
 
 
 >**Jusean Evanesque says:** Good job. I hope Behroe wasn't sleeping on the job again when you talked to him. Hmm, the docks seem to be a hotbed of activity after the sun goes down. Thanks for your quick work, Soandso, here's a little cash for your efforts.
@@ -154,7 +157,8 @@ if( **You turn in:** [Behroe's Report](/item/18023)) then
 
 item_check = 1;
 
-elseif( **You turn in:** [Leanon's Report](/item/18024)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18024" data-url="18024" class="tooltip-link link">Leanon's Report</a>) then
 
 
 >**Jusean Evanesque says:** Ah, very good. I'll make sure to note Leanon's report in our journals. Here's a little something for your troubles, Soandso.
@@ -162,7 +166,8 @@ elseif( **You turn in:** [Leanon's Report](/item/18024)) then
 
 item_check = 2;
 
-elseif( **You turn in:** [Anehan's Report](/item/18022)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18022" data-url="18022" class="tooltip-link link">Anehan's Report</a>) then
 
 
 >**Jusean Evanesque says:** Ok, good work, Soandso. I'll make sure to note the day's activities in our journal. Here's a little something for your efforts.
@@ -170,7 +175,8 @@ elseif( **You turn in:** [Anehan's Report](/item/18022)) then
 
 item_check = 1;
 
-elseif( **You turn in:** [Quinon's Report](/item/18025)) then
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18025" data-url="18025" class="tooltip-link link">Quinon's Report</a>) then
 
 
 >**Jusean Evanesque says:** Hmm... interesting...  good work, Soandso, thank you for your help.
@@ -192,45 +198,47 @@ if(item_check == 1) then
 
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (25)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+25</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (3)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+3</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (3)
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+3</span>)
 
 
 elseif(item_check == 2) then
 
 
 
-* __Faction:__ [League of Antonican Bards](/faction/284) (10)
+Your faction standing with [League of Antonican Bards](/faction/284) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (1)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Guards of Qeynos](/faction/262) (1)
-
-
-
-
+Your faction standing with [Guards of Qeynos](/faction/262) got better (<span class='text-success'>+1</span>)
 
 
 
 
 
-* __Faction:__ [Ring of Scale](/faction/304) (-1)
 
 
-* __Faction:__ [Mayong Mistmoore](/faction/285) (-1)
 
 
- **You receive:** 0 (+50 exp)
+Your faction standing with [Ring of Scale](/faction/304) got worse (<span class='text-danger'>-1</span>)
+
+
+Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span class='text-danger'>-1</span>)
+
+
+ &#127873; **You receive:** 0 (+50 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**

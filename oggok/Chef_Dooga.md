@@ -44,7 +44,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [Preserved Leg](/item/13384)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1068.png" alt="" /> <a
+                                href="/item/13384" data-url="13384" class="tooltip-link link">Preserved Leg</a>
 
 
 else
@@ -64,7 +65,8 @@ local text = "Chef Dooga asks for three pickled frogloks and ten gold pieces for
 
 
 
-if( **You turn in:** [Human Flesh](/item/13364)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13364" data-url="13364" class="tooltip-link link">Human Flesh</a>) then 
 
 
 >**Chef Dooga says:** MmmmMmm. Human make good meat pies. Here. A little coins for you.
@@ -73,32 +75,35 @@ if( **You turn in:** [Human Flesh](/item/13364)) then
 
 
 
-* __Faction:__ [Clurg](/faction/228) (2)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (-2)
+Your faction standing with [Kazon Stormhammer](/faction/274) got worse (<span class='text-danger'>-2</span>)
 
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (2)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (2)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Oggok Guards](/faction/337) (2)
+Your faction standing with [Oggok Guards](/faction/337) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
 
-elseif( **You turn in:** [High Elf Flesh](/item/13365)) then 
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_817.png" alt="" /> <a
+                                href="/item/13365" data-url="13365" class="tooltip-link link">High Elf Flesh</a>) then 
 
 
 >**Chef Dooga says:** High elf!! Now that is a good meat.  Goes good with Ogre Swill.
@@ -107,31 +112,36 @@ elseif( **You turn in:** [High Elf Flesh](/item/13365)) then
 
 
 
-* __Faction:__ [Clurg](/faction/228) (2)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (-2)
+Your faction standing with [Kazon Stormhammer](/faction/274) got worse (<span class='text-danger'>-2</span>)
 
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (2)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (2)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Oggok Guards](/faction/337) (2)
+Your faction standing with [Oggok Guards](/faction/337) got better (<span class='text-success'>+2</span>)
 
 
 
 
 
- **You receive:** 0 (+10000 exp)
+ &#127873; **You receive:** 0 (+10000 exp)
 
-elseif( **You turn in:** [Pickled Froglok](/item/13452), [Pickled Froglok](/item/13452), [Pickled Froglok](/item/13452), platinum = 1) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/13452" data-url="13452" class="tooltip-link link">Pickled Froglok</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/13452" data-url="13452" class="tooltip-link link">Pickled Froglok</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
+                                href="/item/13452" data-url="13452" class="tooltip-link link">Pickled Froglok</a>, platinum = 1) then
 
 
 >**Chef Dooga says:** Here is da ogre butcher apron. Gos and cook.
@@ -140,29 +150,32 @@ elseif( **You turn in:** [Pickled Froglok](/item/13452), [Pickled Froglok](/item
 
 
 
-* __Faction:__ [Clurg](/faction/228) (5)
+Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (-5)
+Your faction standing with [Kazon Stormhammer](/faction/274) got worse (<span class='text-danger'>-5</span>)
 
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (5)
+Your faction standing with [Craknek Warriors](/faction/232) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Green Blood Knights](/faction/261) (5)
+Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [Oggok Guards](/faction/337) (5)
+Your faction standing with [Oggok Guards](/faction/337) got better (<span class='text-success'>+5</span>)
 
 
 
 
 
- **You receive:**  [Ogre Butcher Apron](/item/12217) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_632.png" alt="" /> <a
+                                href="/item/12217" data-url="12217" class="tooltip-link link">Ogre Butcher Apron</a> (+10000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

@@ -39,7 +39,10 @@ end
 
 
 
-if( **You turn in:** [Silvered Spiroc Necklace](/item/20813), [Spiroc Healing Totem](/item/20812), [Spiroc Statuette](/item/20954)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/20813" data-url="20813" class="tooltip-link link">Silvered Spiroc Necklace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
+                                href="/item/20812" data-url="20812" class="tooltip-link link">Spiroc Healing Totem</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_895.png" alt="" /> <a
+                                href="/item/20954" data-url="20954" class="tooltip-link link">Spiroc Statuette</a>) then 
 
 
 
@@ -50,31 +53,48 @@ if( **You turn in:** [Silvered Spiroc Necklace](/item/20813), [Spiroc Healing To
 >**Deric Lennox says:** This necklace suits you well, Soandso.
 
 
- **You receive:**  [Necklace of Resolution](/item/14562) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/14562" data-url="14562" class="tooltip-link link">Necklace of Resolution</a> (+100000 exp)
+
+ 
 
 
 **Deric Lennox despawns.**
 
-elseif( **You turn in:** [Djinni Aura](/item/20815), [Efreeti Mace](/item/20816), [Glowing Sapphire](/item/20814), [Saffron Spiroc Feather](/item/20961)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/20815" data-url="20815" class="tooltip-link link">Djinni Aura</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/20816" data-url="20816" class="tooltip-link link">Efreeti Mace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_963.png" alt="" /> <a
+                                href="/item/20814" data-url="20814" class="tooltip-link link">Glowing Sapphire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/20961" data-url="20961" class="tooltip-link link">Saffron Spiroc Feather</a>) then 
 
 
 
 >**Deric Lennox says:** This weapon will aid you even as you fight. Use it wisely, Soandso.
 
 
- **You receive:**  [Theurgist's Star](/item/27718) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/27718" data-url="27718" class="tooltip-link link">Theurgist's Star</a> (+100000 exp)
+
+ 
 
 
 **Deric Lennox despawns.**
 
-elseif( **You turn in:** [Efreeti Standard](/item/20817), [Manna Nectar](/item/20968), [Mithril Bands](/item/20819), [Shimmering Topaz](/item/20818)) then 
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/20817" data-url="20817" class="tooltip-link link">Efreeti Standard</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/20968" data-url="20968" class="tooltip-link link">Manna Nectar</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_675.png" alt="" /> <a
+                                href="/item/20819" data-url="20819" class="tooltip-link link">Mithril Bands</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_954.png" alt="" /> <a
+                                href="/item/20818" data-url="20818" class="tooltip-link link">Shimmering Topaz</a>) then 
 
 
 
 >**Deric Lennox says:** Good on ya!
 
 
- **You receive:**  [Baton of the Sky](/item/27719) (+100000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_822.png" alt="" /> <a
+                                href="/item/27719" data-url="27719" class="tooltip-link link">Baton of the Sky</a> (+100000 exp)
+
+ 
 
 
 **Deric Lennox despawns.**

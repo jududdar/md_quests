@@ -18,13 +18,17 @@ end
 
 
 
-if( **You turn in:** [Scribblings](/item/12990), [Stoneleer Emerald Plume](/item/12755)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12990" data-url="12990" class="tooltip-link link">Scribblings</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1146.png" alt="" /> <a
+                                href="/item/12755" data-url="12755" class="tooltip-link link">Stoneleer Emerald Plume</a>) then 
 
 
 >**Entalon says:** Ha ha ha!! Fool! I have what I need. Now you are granted an audience with a noble sarnak lord, not my master. I am quite sure he shall do away with you. Ha ha ha!!
 
 
- **You receive:** 0 (+5000 exp)
+ &#127873; **You receive:** 0 (+5000 exp)
+
+ 
 
 
 e.other:MovePC(87,-4039,6280,-53); 

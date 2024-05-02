@@ -19,7 +19,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Shiny Card](/item/13844)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/13844" data-url="13844" class="tooltip-link link">Shiny Card</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -48,7 +49,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [Shiny Card](/item/13844)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_648.png" alt="" /> <a
+                                href="/item/13844" data-url="13844" class="tooltip-link link">Shiny Card</a>
 
 
 elseif( **Faction is** == Indifferent) then
@@ -137,7 +139,9 @@ local text1 = "There are a total of four C series clockworks.";
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13208), [Rusted Blackbox](/item/13208)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13208" data-url="13208" class="tooltip-link link">Rusted Blackbox</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13208" data-url="13208" class="tooltip-link link">Rusted Blackbox</a>) then
 
 
 >**Manik Compolten says:** Excellent work! You were born to be a warrior. Here is a little bonus for the good job.
@@ -146,32 +150,38 @@ if **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13208), 
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (5)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+5</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (1)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
 
 **Experience:** Awards 15% experience at level 1.
 
 
- **You receive:** None 
+ &#127873; **You receive:** None 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Blackbox XIIC](/item/13212), [Blackbox XXVIC](/item/13211), [Blackbox XVIIC](/item/13213), [Blackbox XXVIIC](/item/13214)) then
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13212" data-url="13212" class="tooltip-link link">Blackbox XIIC</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13211" data-url="13211" class="tooltip-link link">Blackbox XXVIC</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13213" data-url="13213" class="tooltip-link link">Blackbox XVIIC</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13214" data-url="13214" class="tooltip-link link">Blackbox XXVIIC</a>) then
 
 
 >**Manik Compolten says:** Ah!! I see you had no problem finding all of the C series clockworks. Good work. Here. Take this blackbox. We received it from Clockwork 27C. Take it to Jogl Doobraugh. He is the operator of the only blackbox definer in Ak'Anon. He is out at the windmills checking on their operation.
@@ -180,32 +190,36 @@ elseif **Faction** >= Amiable and  **You turn in:** [Blackbox XIIC](/item/13212)
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (1)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (1)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (1)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+1</span>)
 
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-1)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-1</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
 
 **Experience:** Awards 12% experience at level 1.
 
 
- **You receive:**  [Blackbox XXVIIC](/item/13209) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13209" data-url="13209" class="tooltip-link link">Blackbox XXVIIC</a> 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/13215)) then
+ 
+
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
+                                href="/item/13215" data-url="13215" class="tooltip-link link">Rusted Blackbox</a>) then
 
 
 >**Manik Compolten says:** This is fabulous news!! You have done well, young one. Once you are ready for [further instruction] please let me know, I will guide you through your early most dangerous days. When you have become more experienced in our art, I wil be able to further instruct you on how to progress through your early ranks, as well as in some various [trades] you will have available to you.
@@ -214,23 +228,23 @@ elseif **Faction** >= Amiable and  **You turn in:** [Rusted Blackbox](/item/1321
 
 
 
-* __Faction:__ [Gem Choppers](/faction/255) (10)
+Your faction standing with [Gem Choppers](/faction/255) got better (<span class='text-success'>+10</span>)
 
 
 
-* __Faction:__ [King Ak`Anon](/faction/333) (2)
+Your faction standing with [King Ak`Anon](/faction/333) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Merchants of Ak`Anon](/faction/288) (2)
+Your faction standing with [Merchants of Ak`Anon](/faction/288) got better (<span class='text-success'>+2</span>)
 
 
 
-* __Faction:__ [Clan Grikbar](/faction/1604) (-2)
+Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class='text-danger'>-2</span>)
 
 
 
-* __Faction:__ [Dark Reflection](/faction/238) (-1)
+Your faction standing with [Dark Reflection](/faction/238) got worse (<span class='text-danger'>-1</span>)
 
 
 
@@ -241,14 +255,32 @@ if(math.random(100) < 20) then
 
 
 
- **You receive:** eq.ChooseRandom( [Bull Smasher](/item/13219), [Iony's Absorber](/item/13220)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_567.png" alt="" /> <a
+                                href="/item/13219" data-url="13219" class="tooltip-link link">Bull Smasher</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/13220" data-url="13220" class="tooltip-link link">Iony's Absorber</a>) 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 else
 
 
 
- **You receive:** eq.ChooseRandom( [Small Cloth Cap](/item/1013), [Small Cloth Cape](/item/1018), [Small Cloth Choker](/item/1015), [Small Cloth Cord](/item/1019), [Small Cloth Gloves](/item/1022), [Small Cloth Pants](/item/1023), [Small Cloth Sandals](/item/1024), [Small Cloth Shawl](/item/1017), [Small Cloth Shirt](/item/1016), [Small Cloth Sleeves](/item/1020), [Small Cloth Veil](/item/1014), [Small Cloth Wristband](/item/1021)) 
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
+                                href="/item/1013" data-url="1013" class="tooltip-link link">Small Cloth Cap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
+                                href="/item/1018" data-url="1018" class="tooltip-link link">Small Cloth Cape</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
+                                href="/item/1015" data-url="1015" class="tooltip-link link">Small Cloth Choker</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_572.png" alt="" /> <a
+                                href="/item/1019" data-url="1019" class="tooltip-link link">Small Cloth Cord</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_517.png" alt="" /> <a
+                                href="/item/1022" data-url="1022" class="tooltip-link link">Small Cloth Gloves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_631.png" alt="" /> <a
+                                href="/item/1023" data-url="1023" class="tooltip-link link">Small Cloth Pants</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_666.png" alt="" /> <a
+                                href="/item/1024" data-url="1024" class="tooltip-link link">Small Cloth Sandals</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_665.png" alt="" /> <a
+                                href="/item/1017" data-url="1017" class="tooltip-link link">Small Cloth Shawl</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/1016" data-url="1016" class="tooltip-link link">Small Cloth Shirt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_670.png" alt="" /> <a
+                                href="/item/1020" data-url="1020" class="tooltip-link link">Small Cloth Sleeves</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
+                                href="/item/1014" data-url="1014" class="tooltip-link link">Small Cloth Veil</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_638.png" alt="" /> <a
+                                href="/item/1021" data-url="1021" class="tooltip-link link">Small Cloth Wristband</a>) 
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-5 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 
 

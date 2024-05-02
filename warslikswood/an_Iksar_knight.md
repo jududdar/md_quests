@@ -38,19 +38,26 @@ local text = "spits flarefire seeds on your chest. 'Is this all? Listen up!! I a
 
 
 
-if( **You turn in:** [Misscribed Lifetap](/item/12492), [Misscribed Gate](/item/12493), [Scroll in a Bottle](/item/12494), [Shovel](/item/6026)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12492" data-url="12492" class="tooltip-link link">Misscribed Lifetap</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
+                                href="/item/12493" data-url="12493" class="tooltip-link link">Misscribed Gate</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1006.png" alt="" /> <a
+                                href="/item/12494" data-url="12494" class="tooltip-link link">Scroll in a Bottle</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_891.png" alt="" /> <a
+                                href="/item/6026" data-url="6026" class="tooltip-link link">Shovel</a>) then 
 
 
 >*an Iksar knight accidently swallows a mouthful of flarefire seeds. 'ACCCKK!!  I can't believe you did it!! Here is the Chalp diagram.'*
 
 
-* __Faction:__ [Crusaders of Greenmist](/faction/442) (5)
+Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (1)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Chalp Diagram](/item/12496) (+1000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/12496" data-url="12496" class="tooltip-link link">Chalp Diagram</a> (+1000 exp)
+
+ 
 
 
 **an Iksar knight despawns.**

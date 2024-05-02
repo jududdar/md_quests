@@ -20,7 +20,8 @@
 >**Jualicn says:** I do have an ancient token that I have carried with me for quite some time. It is very special to me, but if you have been sent here by Lawyla then you must be worthy, for she is quick to see through the lies that some believe will gain them admittance to our halls. Please take this and present it to each of the descendants so that they will know you are truthful when you say that you were sent by me
 
 
-**You receive:**  [Jualicns Token](/item/1908)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/1908" data-url="1908" class="tooltip-link link">Jualicns Token</a>
 
 **You say:** `descendants of Relinar`
 
@@ -35,5 +36,6 @@
 >**Jualicn says:** Combine the four runes in this lexicon and you will then have the teachings of Relinar. After you have done this, you are required to speak again with Lawyla about the [problems] we are having [with Kromzek spies].
 
 
-**You receive:**  [Lexicon of Relinar](/item/17061)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/17061" data-url="17061" class="tooltip-link link">Lexicon of Relinar</a>
 end

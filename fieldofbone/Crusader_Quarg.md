@@ -22,7 +22,8 @@ if **Faction** >= Amiable then
 
 
 
-**You receive:**  [A Skull Chest](/item/17035)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17035" data-url="17035" class="tooltip-link link">A Skull Chest</a>
 
 
 elseif **Faction** >= Indifferent then
@@ -46,35 +47,43 @@ end
 
 
 
-if **Faction** >= Amiable and  **You turn in:** [The Bone Garrison](/item/18054)) then
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_868.png" alt="" /> <a
+                                href="/item/18054" data-url="18054" class="tooltip-link link">The Bone Garrison</a>) then
 
 
 >**Crusader Quarg says:** Ah, i see you have proven yourself to Zand and he wishes to see more of your prowess.  go to the Tower of Kurn and bring him the Skulls of the Caste of Bone Brethren, a caste of powerful shamans who perished fighting undead in the Field of Bone several decades ago.
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [A Skull Chest](/item/17034) (+10000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
+                                href="/item/17034" data-url="17034" class="tooltip-link link">A Skull Chest</a> (+10000 exp)
+
+ 
 
 
 
-elseif **Faction** >= Amiable and  **You turn in:** [Full C.O.B.B. Chest](/item/12735), [Iron Cudgel of the Seer](/item/5142)) then
+elseif **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5142" data-url="5142" class="tooltip-link link">Iron Cudgel of the Seer</a>) then
 
 
 >**Crusader Quarg says:** The temple shall be pleased. As instructed by the Hierophants, here is your Iron Cudgel of the Mystic. You have done well that I must ask you to [collect the Crusaders of Rok Nilok].
 
 
-* __Faction:__ [Scaled Mystics](/faction/445) (10)
+Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Legion of Cabilis](/faction/441) (10)
+Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+10</span>)
 
 
- **You receive:**  [Iron Cudgel of the Mystic](/item/5143) (+20000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_578.png" alt="" /> <a
+                                href="/item/5143" data-url="5143" class="tooltip-link link">Iron Cudgel of the Mystic</a> (+20000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
  

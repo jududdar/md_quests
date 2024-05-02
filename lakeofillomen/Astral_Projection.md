@@ -13,7 +13,8 @@ end
 
 
 
-if( **You turn in:** [Eye of Kaiaren](/item/1687)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_917.png" alt="" /> <a
+                                href="/item/1687" data-url="1687" class="tooltip-link link">Eye of Kaiaren</a>) then
 
 
 

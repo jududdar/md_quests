@@ -58,7 +58,8 @@ if(qglobals["Llara"] ~= nil) then
 
 
 
-**You receive:**  [Note to Ruathey](/item/2417)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/2417" data-url="2417" class="tooltip-link link">Note to Ruathey</a>
 
 
 
@@ -71,13 +72,16 @@ end
 
 
 
-if( **You turn in:** [A Pendant](/item/2414)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1043.png" alt="" /> <a
+                                href="/item/2414" data-url="2414" class="tooltip-link link">A Pendant</a>) then
 
 
 >**Llara says:** Oh my, this belongs to Amstaf! Where did you get it?
 
 
- **You receive:** 0 (+500 exp)
+ &#127873; **You receive:** 0 (+500 exp)
+
+ 
 
 
 eq.set_global("Llara","ghoul",0,"D30");

@@ -142,77 +142,92 @@ local text3 = "Remember, for the scarab helm I require you give me two scarab ca
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Scarab Carapace](/item/13849), [Scarab Carapace](/item/13849), gold = 4) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/13849" data-url="13849" class="tooltip-link link">Scarab Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/13849" data-url="13849" class="tooltip-link link">Scarab Carapace</a>, gold = 4) then 
 
 
 >**Vacto Molunel says:** Excellent. Here is your helm. Wear it with pride! And be sure to occasionally wipe out the insulating mucus that tends to build up on its underside. It will make your hair fall out. One more thing, would you be interested in [scarab boots] to match your helm?
 
 
-* __Faction:__ [Storm Guard](/faction/312) (2)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+2</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Small Scarab Helm](/item/2175) (+500 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_629.png" alt="" /> <a
+                                href="/item/2175" data-url="2175" class="tooltip-link link">Small Scarab Helm</a> (+500 exp)
 
-if **Faction** >= Amiable and  **You turn in:** [Pristine Giant Scarab Carapace](/item/13133), gold = 22) then 
+ 
+
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/13133" data-url="13133" class="tooltip-link link">Pristine Giant Scarab Carapace</a>, gold = 22) then 
 
 
 >**Vacto Molunel says:** If I do say so myself, this is one of the finest breastplates in all of Norrath. I am truly a master at my craft. You might want to wipe out some of the excess scarab goo before wearing it, though.
 
 
-* __Faction:__ [Storm Guard](/faction/312) (5)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Small Scarab Breastplate](/item/2176) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_624.png" alt="" /> <a
+                                href="/item/2176" data-url="2176" class="tooltip-link link">Small Scarab Breastplate</a> (+5000 exp)
 
-if **Faction** >= Amiable and  **You turn in:** [Cracked Giant Scarab Carapace](/item/13132), [Scarab Legs](/item/13848), [Scarab Legs](/item/13848), gold = 16) then 
+ 
+
+if **Faction** >= Amiable and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_927.png" alt="" /> <a
+                                href="/item/13132" data-url="13132" class="tooltip-link link">Cracked Giant Scarab Carapace</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/13848" data-url="13848" class="tooltip-link link">Scarab Legs</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1089.png" alt="" /> <a
+                                href="/item/13848" data-url="13848" class="tooltip-link link">Scarab Legs</a>, gold = 16) then 
 
 
 >**Vacto Molunel says:** Very good! Let me see here. Thread the legs around like this and... There you go. Wear them with pride!
 
 
-* __Faction:__ [Storm Guard](/faction/312) (3)
+Your faction standing with [Storm Guard](/faction/312) got better (<span class='text-success'>+3</span>)
 
 
-* __Faction:__ [Kazon Stormhammer](/faction/274) (1)
+Your faction standing with [Kazon Stormhammer](/faction/274) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Miners Guild 249](/faction/293) (1)
+Your faction standing with [Miners Guild 249](/faction/293) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Kaladim](/faction/290) (1)
+Your faction standing with [Merchants of Kaladim](/faction/290) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Craknek Warriors](/faction/232) (-1)
+Your faction standing with [Craknek Warriors](/faction/232) got worse (<span class='text-danger'>-1</span>)
 
 
 
- **You receive:**  [Small Scarab Boots](/item/2177) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_779.png" alt="" /> <a
+                                href="/item/2177" data-url="2177" class="tooltip-link link">Small Scarab Boots</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

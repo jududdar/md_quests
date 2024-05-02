@@ -86,7 +86,8 @@ if **Faction** >= Indifferent then
 
 
 
-**You receive:**  [Crate of Rotten Carrots](/item/13971)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13971" data-url="13971" class="tooltip-link link">Crate of Rotten Carrots</a>
 
 
 else
@@ -170,41 +171,71 @@ end
 local text = "Oh good! I see you have taught that nasty Nillipuss a thing or two! Good. But it seems to me that he has stolen more jumjum than this. Perhaps he needs another lesson?";
 
 
-if( **You turn in:** [Crate of Rotten Carrots](/item/13971)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13971" data-url="13971" class="tooltip-link link">Crate of Rotten Carrots</a>) then
 
 
 >**Reebo Leafsway says:** Very good. Very good indeed. Karana does not need the blind obedience that so many deities require. Trust your instincts, they are more often right than not. Here, take this to Blinza. Hurry, she is expecting them. You may keep the donation she gives you in return.
 
 
- **You receive:**  [Crate of Fine Carrots](/item/13957) (+5 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13957" data-url="13957" class="tooltip-link link">Crate of Fine Carrots</a> (+5 exp)
 
-elseif( **You turn in:** [Crate of Rotten Carrots](/item/13972)) then
+ 
+
+elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13972" data-url="13972" class="tooltip-link link">Crate of Rotten Carrots</a>) then
 
 
 >**Reebo Leafsway says:** These carrots are rotten. They were rotten when I gave them to you. Why would you waste time and energy on such a fool's errand? Because I asked you to? Many, even those you trust will ask you to do things which you should not. Use the common sense that Karana has blessed you with to know which tasks can benefit our people and which could harm them. Learn this lesson well. You will need it if you plan to adventure beyond the vale. Now take these fresh carrots to Blinza and apologize for your error. You may keep the donation she gives you as payment.
 
 
- **You receive:**  [Crate of Carrots](/item/13958) 
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_723.png" alt="" /> <a
+                                href="/item/13958" data-url="13958" class="tooltip-link link">Crate of Carrots</a> 
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974), [Jumjum Stalk](/item/13974)) then
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1085.png" alt="" /> <a
+                                href="/item/13974" data-url="13974" class="tooltip-link link">Jumjum Stalk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1085.png" alt="" /> <a
+                                href="/item/13974" data-url="13974" class="tooltip-link link">Jumjum Stalk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1085.png" alt="" /> <a
+                                href="/item/13974" data-url="13974" class="tooltip-link link">Jumjum Stalk</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1085.png" alt="" /> <a
+                                href="/item/13974" data-url="13974" class="tooltip-link link">Jumjum Stalk</a>) then
 
 
 >**Reebo Leafsway says:** Excellent!!  You must have taught ol' Nillipuss a great deal!  But he never seems to learn..  Oh well.  The Stormreapers and all of Rivervale owe you a debt of gratitude.  Please accept this token of our appreciation.
 
 
-* __Faction:__ [Storm Reapers](/faction/355) (10)
+Your faction standing with [Storm Reapers](/faction/355) got better (<span class='text-success'>+10</span>)
 
 
-* __Faction:__ [Mayor Gubbin](/faction/286) (1)
+Your faction standing with [Mayor Gubbin](/faction/286) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Merchants of Rivervale](/faction/292) (1)
+Your faction standing with [Merchants of Rivervale](/faction/292) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Unkempt Druids](/faction/324) (-1)
+Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class='text-danger'>-1</span>)
 
 
- **You receive:** eq.ChooseRandom( [Anti-Poison Amulet](/item/10308), [Arrow of Contagion](/item/8303), [Arrow of Frost](/item/8304), [Earring of Disease Reflection](/item/10302), [Earring of Fire Reflection](/item/10303), [Earring of Frost Reflection](/item/10304), [Earring of Magic Reflection](/item/10305), [Earring of Poison Reflection](/item/10306), [Eye of Disvan](/item/10309), [Pierces Pouch of Storing](/item/17302), [Rod of Identification](/item/12001), [Runners Ring](/item/10301), [Travelers Pack](/item/17301), [Travelers Pouch](/item/17300), [Wand of Frost Bolts](/item/12002), [Compass](/item/12000)) (+27440 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_566.png" alt="" /> <a
+                                href="/item/10308" data-url="10308" class="tooltip-link link">Anti-Poison Amulet</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_598.png" alt="" /> <a
+                                href="/item/8303" data-url="8303" class="tooltip-link link">Arrow of Contagion</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_598.png" alt="" /> <a
+                                href="/item/8304" data-url="8304" class="tooltip-link link">Arrow of Frost</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1050.png" alt="" /> <a
+                                href="/item/10302" data-url="10302" class="tooltip-link link">Earring of Disease Reflection</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1048.png" alt="" /> <a
+                                href="/item/10303" data-url="10303" class="tooltip-link link">Earring of Fire Reflection</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1042.png" alt="" /> <a
+                                href="/item/10304" data-url="10304" class="tooltip-link link">Earring of Frost Reflection</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_618.png" alt="" /> <a
+                                href="/item/10305" data-url="10305" class="tooltip-link link">Earring of Magic Reflection</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_522.png" alt="" /> <a
+                                href="/item/10306" data-url="10306" class="tooltip-link link">Earring of Poison Reflection</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_507.png" alt="" /> <a
+                                href="/item/10309" data-url="10309" class="tooltip-link link">Eye of Disvan</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_884.png" alt="" /> <a
+                                href="/item/17302" data-url="17302" class="tooltip-link link">Pierces Pouch of Storing</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_547.png" alt="" /> <a
+                                href="/item/12001" data-url="12001" class="tooltip-link link">Rod of Identification</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_765.png" alt="" /> <a
+                                href="/item/10301" data-url="10301" class="tooltip-link link">Runners Ring</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_884.png" alt="" /> <a
+                                href="/item/17301" data-url="17301" class="tooltip-link link">Travelers Pack</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_884.png" alt="" /> <a
+                                href="/item/17300" data-url="17300" class="tooltip-link link">Travelers Pouch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_810.png" alt="" /> <a
+                                href="/item/12002" data-url="12002" class="tooltip-link link">Wand of Frost Bolts</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_750.png" alt="" /> <a
+                                href="/item/12000" data-url="12000" class="tooltip-link link">Compass</a>) (+27440 exp)
+
+**You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0-10 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-15 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
 

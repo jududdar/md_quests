@@ -24,7 +24,11 @@ end
 
 
 
-local count =  **You turn in:**  { [Spell: Bristlebane\`s Bundle](/item/19351),  [Spell: Gift of Xev](/item/19347),  [Spell: Quiver of Marr](/item/19354),  [Spell: Scars of Sigil](/item/19358)}
+local count =  **You turn in:**  { <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19351" data-url="19351" class="tooltip-link link">Spell: Bristlebane\`s Bundle</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19347" data-url="19347" class="tooltip-link link">Spell: Gift of Xev</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19354" data-url="19354" class="tooltip-link link">Spell: Quiver of Marr</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19358" data-url="19358" class="tooltip-link link">Spell: Scars of Sigil</a>}
 
 if(count > 0) then
 
@@ -37,7 +41,13 @@ repeat
 
 
 
- **You receive:** eq.ChooseRandom( [Spell: Boon of Immolation](/item/19368), [Spell: Scintillation](/item/19346), [Spell: Vocarate: Fire](/item/19355), [Spell: Vocarate: Air](/item/19357)) (+1000 exp)
+ &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19368" data-url="19368" class="tooltip-link link">Spell: Boon of Immolation</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19346" data-url="19346" class="tooltip-link link">Spell: Scintillation</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19355" data-url="19355" class="tooltip-link link">Spell: Vocarate: Fire</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/19357" data-url="19357" class="tooltip-link link">Spell: Vocarate: Air</a>) (+1000 exp)
+
+ 
 
 
 

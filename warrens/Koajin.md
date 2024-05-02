@@ -20,13 +20,19 @@ end
 
 
 
-if( **You turn in:** [Kejekan Tool Kit](/item/17062), [Mandala sketch](/item/2057), [Chronium Plate](/item/2059)) then 
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_716.png" alt="" /> <a
+                                href="/item/17062" data-url="17062" class="tooltip-link link">Kejekan Tool Kit</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_896.png" alt="" /> <a
+                                href="/item/2057" data-url="2057" class="tooltip-link link">Mandala sketch</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
+                                href="/item/2059" data-url="2059" class="tooltip-link link">Chronium Plate</a>) then 
 
 
 >*Koajin takes the tools, plate, and sketch wearily and begins carving the tsuba. It takes him many hours to finish it but the wait is worth it. The tsuba is beautifully crafted, matching the complicated sketch perfectly. Koajin says, 'There you go, Soandso. It's a wonderful piece. I have no idea what the diagram is for, but it was a pleasure to craft it. Now if I can get myself out of here.*
 
 
- **You receive:**  [Finished Tsuba](/item/2055) (+5000 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_646.png" alt="" /> <a
+                                href="/item/2055" data-url="2055" class="tooltip-link link">Finished Tsuba</a> (+5000 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 

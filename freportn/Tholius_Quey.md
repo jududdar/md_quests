@@ -25,21 +25,25 @@ end
 
 
 
-if( **You turn in:** [A tattered note](/item/18736)) then
+if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
+                                href="/item/18736" data-url="18736" class="tooltip-link link">A tattered note</a>) then
 
 
 >**Tholius Quey says:** Welcome to the Priests of Marr. Here, you will be taught how powerful passion truly is. The passion of Erollisi Marr, the Queen of Love, shall flow through you and into all those you meet. Wear this tunic in the name of Love.
 
 
-* __Faction:__ [Priests of Marr](/faction/362) (100)
+Your faction standing with [Priests of Marr](/faction/362) got better (<span class='text-success'>+100</span>)
 
 
-* __Faction:__ [The Freeport Militia](/faction/330) (-10)
+Your faction standing with [The Freeport Militia](/faction/330) got worse (<span class='text-danger'>-10</span>)
 
 
-* __Faction:__ [Knights of Truth](/faction/281) (15)
+Your faction standing with [Knights of Truth](/faction/281) got better (<span class='text-success'>+15</span>)
 
 
- **You receive:**  [White and Blue Tunic*](/item/13556) (+20 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
+                                href="/item/13556" data-url="13556" class="tooltip-link link">White and Blue Tunic*</a> (+20 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**

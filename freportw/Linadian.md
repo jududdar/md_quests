@@ -31,45 +31,58 @@ end
 
 
 
-if **Faction** >= Indifferent and  **You turn in:** [Deathfist Shoulderpads](/item/13917), [Deathfist Shoulderpads](/item/13917), [Deathfist Slashed Belt](/item/13916),gold = 10) then 
+if **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/13917" data-url="13917" class="tooltip-link link">Deathfist Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/13917" data-url="13917" class="tooltip-link link">Deathfist Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13916" data-url="13916" class="tooltip-link link">Deathfist Slashed Belt</a>,gold = 10) then 
 
 
 >**Linadian says:** Grand doing business with you. Hold your nose. I can never get rid of the Orc stench of the vests. That is why the other merchants do not pay me much for them.
 
 
-* __Faction:__ [Kelethin Merchants](/faction/276) (5)
+Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (1)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (1)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Banded Orc Vest](/item/12187) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/12187" data-url="12187" class="tooltip-link link">Banded Orc Vest</a> (+150 exp)
 
-elseif **Faction** >= Indifferent and  **You turn in:** [Crushbone Shoulderpads](/item/13319), [Crushbone Shoulderpads](/item/13319), [Crushbone Belt](/item/13318), [Silk Swatch](/item/16482)) then 
+ 
+
+elseif **Faction** >= Indifferent and  **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/13319" data-url="13319" class="tooltip-link link">Crushbone Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_668.png" alt="" /> <a
+                                href="/item/13319" data-url="13319" class="tooltip-link link">Crushbone Shoulderpads</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_564.png" alt="" /> <a
+                                href="/item/13318" data-url="13318" class="tooltip-link link">Crushbone Belt</a>, <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_823.png" alt="" /> <a
+                                href="/item/16482" data-url="16482" class="tooltip-link link">Silk Swatch</a>) then 
 
 
 >**Linadian says:** Grand doing business with you. Hold your nose. I can never get rid of the Orc stench of the vests. That is why the other merchants do not pay me much for them.
 
 
-* __Faction:__ [Kelethin Merchants](/faction/276) (5)
+Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+5</span>)
 
 
-* __Faction:__ [Faydarks Champions](/faction/246) (1)
+Your faction standing with [Faydarks Champions](/faction/246) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Emerald Warriors](/faction/326) (1)
+Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+1</span>)
 
 
-* __Faction:__ [Anti-mage](/faction/5002) (1)
+Your faction standing with [Anti-mage](/faction/5002) got better (<span class='text-success'>+1</span>)
 
 
- **You receive:**  [Banded Orc Vest](/item/12187) (+150 exp)
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_538.png" alt="" /> <a
+                                href="/item/12187" data-url="12187" class="tooltip-link link">Banded Orc Vest</a> (+150 exp)
+
+ 
 
 **This NPC *should* return incorrect items given.**
 
