@@ -1,4 +1,6 @@
 # Guard Tantan
+
+
 ## Dialog
 
 **You say:** `armor`

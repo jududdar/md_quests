@@ -1,5 +1,7 @@
 # Broker Fahaar
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@
 
 >**Broker Fahaar says:** Owlbear hide tunics are notoriously difficult to make; you'll need to use your acrylia needle to sew two owlbear hides together. You'll need two lengths of Shade Silk thread for the stitching, as well as a tunic pattern.
 end
+
+
 
 ## Turn-Ins
 

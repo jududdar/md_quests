@@ -1,4 +1,6 @@
 # Defender Oram
+
+
 ## Dialog
 
 **You say:** `hail`

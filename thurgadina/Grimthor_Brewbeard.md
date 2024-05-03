@@ -1,6 +1,8 @@
 # Grimthor Brewbeard
 
 
+
+
 ## Dialog
 
 **You say:** `cutlass fish oil`
@@ -19,6 +21,8 @@
 
 >**Grimthor Brewbeard says:** Collect a small piece of velium and a bottle of rubbing alcohol and brew them together in a barrel. It aint easy, but it should prove to be a minor task for the likes of you.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Veteran Vadrel
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Veteran Vadrel says:** Good day, Soandso. If you're interested in serving the war effort you can begin by speaking with one of the scouts here in the outpost. If you'll excuse me, I must return to making plans.
 end
+
+
 
 ## Turn-Ins
 

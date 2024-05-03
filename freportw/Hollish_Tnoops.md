@@ -1,9 +1,13 @@
 # Hollish Tnoops
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
 
 e.self:SetRunning(true);
+
+
 ## Combat
 
 if Hollish Tnoops enters combat  then
@@ -21,6 +25,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

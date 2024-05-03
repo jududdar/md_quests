@@ -1,4 +1,6 @@
 # Neclo Rheslar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Neclo Rheslar says:** A Hello, citizen... Watch your step, there have been many vicious beasts about today.
 end
+
+
 
 ## Turn-Ins
 

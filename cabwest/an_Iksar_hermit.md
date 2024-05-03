@@ -1,4 +1,6 @@
 # an Iksar hermit
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -30,6 +32,8 @@ else
 >**an Iksar hermit says:** Greatness comes from many deeds.  You have more work to do.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # Abroan Drian
 local s1, s2, s3;
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then 
@@ -13,6 +15,8 @@ if ( e.signal == 3 ) then
 
 s3 = true;
 end
+
+
 
 ## On NPC Death
 
@@ -36,14 +40,20 @@ else
 **Signaled to:**  [\#Fran Prisoal](/npc/200230)
 end
 
+
+
 ## On NPC Spawn
 
 s1, s2, s3 = false, false, false;
 
 **Set a timer** named *depop* for 800 seconds
+
+
 ## Timer(s)
 
 **Abroan Drian despawns.**
+
+
 ## Combat
 
 if  Abroan Drian enters combat  then

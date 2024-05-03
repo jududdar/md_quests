@@ -1,5 +1,7 @@
 # Professor Akabao
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@
 
 >**Professor Akabao says:** I have been attempting to learn of the destinations of the three Kylong leaders that held the fragments of the medallion. I know only that they sought shelters to hide and continue the practice of their mystical arts In order to one day return their tribe to it's former glory. Their remains may exist beneath some of the fortresses that are centers of Iksar and Sarnak necromancy. I have seen indications that some of the tomes within those fortresses are in fact the very tomes once cherished by the Kylong. Should you manage to recover the broken pieces of the Medallion of Kylong bring them to me so that I may restore the ancient artifact.
 end
+
+
 
 ## Turn-Ins
 

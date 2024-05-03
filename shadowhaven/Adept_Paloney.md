@@ -1,4 +1,6 @@
 # Adept Paloney
+
+
 ## Dialog
 
 **You say:** `hail`

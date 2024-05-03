@@ -1,6 +1,8 @@
 # Ranvigoz Tonsmith
 
 
+
+
 ## Dialog
 
 if( **Faction is** > Apprehensive) then
@@ -30,6 +32,8 @@ if( **Faction is** > Apprehensive) then
 >**Ranvigoz Tonsmith says:** Crafted Armor is made by the Meadowgreen smiths. They can be found in the southern part of the Karanas.
 
 end
+
+
 
 ## Turn-Ins
 

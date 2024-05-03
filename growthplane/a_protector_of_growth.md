@@ -1,4 +1,6 @@
 # a protector of growth
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [\#a protector of growth](/npc/127005) == false) then
@@ -6,6 +8,8 @@ if(**spawned NPC:**  [\#a protector of growth](/npc/127005) == false) then
 
 **Set a timer** named *chance* for 1 seconds
 end
+
+
 
 ## Timer(s)
 

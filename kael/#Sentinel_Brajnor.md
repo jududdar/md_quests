@@ -1,4 +1,6 @@
 # Sentinel Brajnor
+
+
 ## Dialog
 
 **You say:** `hail`

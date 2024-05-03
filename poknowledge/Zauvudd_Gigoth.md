@@ -1,6 +1,8 @@
 # Zauvudd Gigoth
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@ e.self:DoAnim(64);
 
 >**Zauvudd Gigoth says:** I am glad to see you are willing to learn, however I'm afraid you are not ready for my teachings. Come back when you have acquired the proper tools of learning.
 end
+
+
 
 ## Turn-Ins
 

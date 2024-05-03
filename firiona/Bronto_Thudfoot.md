@@ -1,4 +1,6 @@
 # Bronto Thudfoot
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -10,6 +12,8 @@
 
 e.self:DoAnim(69);
 end
+
+
 
 ## Signals
 
@@ -46,6 +50,8 @@ elseif(e.signal == 3) then
 
 >**Bronto Thudfoot says:** Just like it sounds. A town full of those lizardmen called Iksar. I thought they were extinct along with raptors, the Combine Empire, and cheap booze.
 end
+
+
 
 ## Turn-Ins
 

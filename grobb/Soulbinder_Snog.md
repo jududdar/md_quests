@@ -1,6 +1,8 @@
 # Soulbinder Snog
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -18,6 +20,8 @@
 
 **Soulbinder Snog casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

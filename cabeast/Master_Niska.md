@@ -1,4 +1,6 @@
 # Master Niska
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -129,6 +131,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -219,6 +223,8 @@ Your faction standing with [Legion of Cabilis](/faction/441) got better (<span c
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

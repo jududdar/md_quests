@@ -1,4 +1,6 @@
 # Chef Dooga
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@ else
 >**Chef Dooga says:** Come closer. Bouncer smash your head!
 
 end
+
+
 
 ## Turn-Ins
 

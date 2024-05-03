@@ -1,4 +1,6 @@
 # Lanhern Firepride
+
+
 ## Dialog
 
 **You say:** `hail`

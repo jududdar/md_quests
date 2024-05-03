@@ -1,4 +1,6 @@
 # Sindl Talonstrike
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Sindl Talonstrike says:** Just as our young warriors are employed as hunters to supply all the meat for Kelethin. the druids have their young scour the grounds of the forest for all the vegetation we need to survive.
 end
+
+
 
 ## Turn-Ins
 

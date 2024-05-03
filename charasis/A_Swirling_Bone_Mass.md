@@ -1,7 +1,11 @@
 # A Swirling Bone Mass
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 150 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then

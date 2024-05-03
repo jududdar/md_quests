@@ -1,4 +1,6 @@
 # Bowmaster Staniel
+
+
 ## Dialog
 
 **You say:** `hail`

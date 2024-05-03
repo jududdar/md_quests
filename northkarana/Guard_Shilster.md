@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then
@@ -15,6 +17,8 @@ elseif(e.wp == 3) then
 
 >*Guard Shilster burps loudly and says, 'Your loss.  Back to the bridge I go to keep us safe from the enemy or whatever it is I'm supposed to be doing out there.'*
 end
+
+
 
 ## Dialog
 
@@ -36,6 +40,8 @@ end
 
 >**Guard Shilster says:** That man is as clueless as a froglok tad swimming in a keg of dwarven ale! He has no idea what is going on around him. He won't be around for much longer I wager.
 end
+
+
 
 ## Turn-Ins
 

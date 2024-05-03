@@ -1,4 +1,6 @@
 # Sentinel Thurdiel
+
+
 ## Dialog
 
 **You say:** `hail`

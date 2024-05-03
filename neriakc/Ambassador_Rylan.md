@@ -1,4 +1,6 @@
 # Ambassador Rylan
+
+
 ## On NPC Spawn
 
 local sp = e.self:GetSpawnPointID();

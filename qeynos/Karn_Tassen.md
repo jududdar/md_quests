@@ -1,9 +1,13 @@
 # Karn Tassen
+
+
 ## Signals
 
 >**Karn Tassen says:** Ooh yeah! So would I, honey.
 
 **Signaled to:**  [Danaria Hollin](/npc/1066)
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +30,8 @@
 
 >**Karn Tassen says:** The Circle of the Unseen Hand?  I have heard nothing of them.  Are they some sort of performing magic troupe?
 end
+
+
 
 ## Turn-Ins
 

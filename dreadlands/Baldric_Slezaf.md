@@ -1,5 +1,7 @@
 # Baldric Slezaf
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -44,6 +46,8 @@
 
 >*Baldric Slezaf pulls a fantastic looking sword from its scabbard and says, 'I might be willing to part with this wonderful sword if I were able to perform this symphony. You would also gain recognition at the opening of the symphony.' Baldric sheathes his sword and begins to hum a haunting melody.*
 end
+
+
 
 ## Turn-Ins
 

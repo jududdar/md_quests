@@ -1,6 +1,8 @@
 # Gerot Kastane
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Gerot Kastane says:** Soandso! My hero! I am at your service. I have been told to tell you all I know of the Head of the Valiant. Its construction is a mockery to the gods of Light, an abomination above all others. The method of creation of the Head of the Valiant was passed down through my family for centuries. All I require of you is the physical head of a valiant warrior. I have the rest of the materials right here to fashion this item for you.
 end
+
+
 
 ## Turn-Ins
 

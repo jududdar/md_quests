@@ -1,4 +1,6 @@
 # Chanter Windlasher
+
+
 ## Dialog
 
 **You say:** `hail`

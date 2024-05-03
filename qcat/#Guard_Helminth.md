@@ -1,4 +1,6 @@
 # Guard Helminth
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@
 
 **Guard Helminth despawns.**
 end
+
+
 
 ## Turn-Ins
 

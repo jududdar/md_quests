@@ -1,7 +1,11 @@
 # The Avatar of War
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **The Avatar of War despawns.**
 end
+
+
 
 ## Combat
 
@@ -27,6 +33,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

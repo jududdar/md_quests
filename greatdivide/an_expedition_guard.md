@@ -1,4 +1,6 @@
 # an expedition guard
+
+
 ## Dialog
 
 **You say:** `hail`

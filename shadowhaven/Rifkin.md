@@ -1,4 +1,6 @@
 # Rifkin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >*Rifkin 's head snaps in your direction, 'Do you have my ring?  No?  Then quit your yammering!*
 end
+
+
 
 ## Turn-Ins
 

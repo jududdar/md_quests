@@ -1,7 +1,11 @@
 # Lookout Reloen
+
+
 ## Signals
 
 >**Lookout Reloen says:** Aye sir.
+
+
 ## Dialog
 
 **You say:** `hail`

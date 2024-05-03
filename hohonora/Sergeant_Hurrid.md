@@ -1,7 +1,11 @@
 # Sergeant Hurrid
+
+
 ## On NPC Spawn
 
 **Set a timer** named *formation* for 55 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "formation" ) then

@@ -1,4 +1,6 @@
 # a dancing skeleton
+
+
 ## Dialog
 
 **You say:** `gomoz`
@@ -51,6 +53,8 @@ eq.set_timer(100,30000);
 eq.set_timer(100,4000);
 end
 
+
+
 ## Signals
 
 if(e.signal == 5) then
@@ -61,6 +65,8 @@ eq.set_timer(10,2000);
 
 >*a dancing skeleton shambles to its feet and begins to jig somewhat grudingly.*
 end
+
+
 
 ## Timer(s)
 
@@ -131,6 +137,8 @@ eq.stop_timer(100);
 
 **a dancing skeleton despawns.**
 end
+
+
 
 ## Turn-Ins
 

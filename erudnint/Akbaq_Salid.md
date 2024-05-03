@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Indifferent) then 
@@ -51,6 +53,8 @@ else
 >**Akbaq Salid says:** I do not know you well enough to entrust you with such a quest, yet.
 
 end
+
+
 
 ## Turn-Ins
 

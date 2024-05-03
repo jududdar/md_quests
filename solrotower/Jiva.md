@@ -40,6 +40,8 @@ local SAYS = {
 local add = 0;
 
 
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212412) at (**y:** 105, **x:** -2126)
@@ -51,6 +53,8 @@ local add = 0;
 **Spawn NPC:**  [a warder of Jiva](/npc/212417) at (**y:** -790, **x:** -2255)
 
 **Spawn NPC:**  [a warder of Jiva](/npc/212417) at (**y:** -790, **x:** -2301)
+
+
 ## Combat
 
 if  Jiva enters combat  then
@@ -66,6 +70,8 @@ else
 
 **Stop timer** named *adds*
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Warder Keeper Jyk
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -49,6 +51,8 @@ if(e.wp == 78) then
 e.self:SetAppearance(1);
 end
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -57,6 +61,8 @@ end
 
 >**Warder Keeper Jyk says:** Well met. friend.  May I be of assistance?
 end
+
+
 
 ## Turn-Ins
 

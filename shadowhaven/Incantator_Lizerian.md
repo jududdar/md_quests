@@ -1,4 +1,6 @@
 # Incantator Lizerian
+
+
 ## Dialog
 
 **You say:** `hail`

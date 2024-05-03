@@ -1,4 +1,6 @@
 # Kazlo Naedra
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -34,6 +36,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -66,6 +70,8 @@ Your faction standing with [Opal Darkbriar](/faction/296) got worse (<span class
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

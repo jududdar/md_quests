@@ -1,4 +1,6 @@
 # Tolkar Parlone
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Tolkar Parlone says:** I do not know where she went, but I thought she mentioned something about lava. It still sends shivers down my spine just thinking about it.
 end
+
+
 
 ## Turn-Ins
 

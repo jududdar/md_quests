@@ -2,11 +2,15 @@
 local followtarget;
 local skip;
 
+
+
 ## On NPC Spawn
 
 followtarget = nil;
 
 skip = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +35,8 @@ e.self:SetAppearance(0);
 **Set a timer** named *follow* for 3 seconds
 
 end
+
+
 
 ## Timer(s)
 
@@ -76,6 +82,8 @@ followtarget = nil;
 e.self:MoveTo(2407,1482,0,168,true);
 
 end
+
+
 
 ## Turn-Ins 
 

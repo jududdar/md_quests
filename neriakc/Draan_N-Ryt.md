@@ -1,4 +1,6 @@
 # Draan N-Ryt
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Draan N-Ryt says:** Enchanted adamantite chainmail requires an appropriate chain pattern for the piece desired, a Teir'Dal smithy hammer, a silk swatch, and shadow temper. Like standard adamantite chain it may only be crafted in our Teir'Dal Forge but requires that the rings be crafted from enchanted adamanatite.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Bren Treeclimber
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Bren Treeclimber says:** Talym Shoontar is a wanted man.  He is a very infamous poacher.  Hager Sureshot has placed a bounty upon his head.
 end
+
+
 
 ## Arrive at Waypoint Script
 

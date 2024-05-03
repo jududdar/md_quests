@@ -1,4 +1,6 @@
 # Crow
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -51,6 +53,8 @@ else
 
 >**Crow says:** Yeah, I need someone to run over to Kane's for me. I need to find out how many cases of [Crow's special brew] he needs for next week.
 
+
+
 ## Turn-Ins
 
 
@@ -91,6 +95,8 @@ Your faction standing with [Kane Bayle](/faction/273) got better (<span class='t
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 
 

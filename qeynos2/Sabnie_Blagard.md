@@ -1,4 +1,6 @@
 # Sabnie Blagard
+
+
 ## Dialog
 
 
@@ -7,6 +9,8 @@
 
 
 >**Sabnie Blagard says:** Greetings. thirsty traveler!  I recommend trying Crow's special brew.  It's the brew that put Qeynos on the map!
+
+
 
 ## Arrive at Waypoint Script
 
@@ -26,6 +30,8 @@ elseif(e.wp == 18) then
 
 
 **Signaled to:**  [Crow](/npc/2063)
+
+
 
 
 ## Signals

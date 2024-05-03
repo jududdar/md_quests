@@ -1,4 +1,6 @@
 # Guardian Laigyr
+
+
 ## Dialog
 
 **You say:** `hail`

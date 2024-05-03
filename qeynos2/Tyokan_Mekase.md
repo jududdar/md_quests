@@ -1,4 +1,6 @@
 # Tyokan Mekase
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@ else
 
 >**Tyokan Mekase says:** The prayer beads are the blessed necklaces of the Priests of Life.  The beads have a few charges of minor healing.  I recharge them for all members in  good standing.  All I need are the beads and a donation of 100 gold pieces.
 end
+
+
 
 ## Turn-Ins
 

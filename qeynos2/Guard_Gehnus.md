@@ -1,4 +1,6 @@
 # Guard Gehnus
+
+
 ## Dialog
 
 **You say:** `hail`

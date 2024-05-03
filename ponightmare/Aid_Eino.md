@@ -11,6 +11,8 @@ local INVIS_MAN_SPAWNPOINTID = 345856;
 
 local escortDone = false;
 
+
+
 ## On NPC Spawn
 
 >*Aid Eino steps from the shadows 'I am glad you were able to come help me, this is quite a dangerous realm!  We must tread carefully if we are to find the item Kerasha desires from this vile place.  Sometimes I worry her research with the magic of the land puts her in much danger.  Let us be off and find that which she desires.'*
@@ -18,6 +20,8 @@ local escortDone = false;
 **Set a timer** named *setrespawn* for 1 seconds
 
 escortDone = false;
+
+
 ## Timer(s)
 
 if ( e.timer == "setrespawn" ) then
@@ -33,6 +37,8 @@ elseif ( e.timer == "depop" ) then
 
 **Aid Eino despawns.**
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -153,6 +159,8 @@ elseif ( e.wp == 10 ) then
 escortDone = true;
 end
 
+
+
 ## Depart from Waypoint Script
 
 if ( e.wp == 2 ) then
@@ -180,6 +188,8 @@ elseif ( e.wp == 9 ) then
 
 >*Aid Eino gathers his strength and limps forward. 'Follow my steps to the portal!'*
 end
+
+
 
 ## Turn-Ins
 

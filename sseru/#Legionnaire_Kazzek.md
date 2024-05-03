@@ -1,4 +1,6 @@
 # Legionnaire Kazzek
+
+
 ## Dialog
 
 **You say:** `hail`

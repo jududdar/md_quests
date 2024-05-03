@@ -1,6 +1,8 @@
 # Salinsa Delfdosan
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -150,6 +152,8 @@ e.self:Say(string.format("Pleasure to meet you %s. I am Lady Salinsa Deifdosan o
 >**Salinsa Delfdosan says:** Deisnak is a high ranking officer in the Freeport Militia, some would even call him untouchable. I need you to retrieve my newsletter for me by all means necessary. It had some very important messages from Qeynos and I must have it. Return to me with my newsletter and two Pristine Scarab Eyes and I will reward you greatly for your efforts.
 
 end
+
+
 
 ## Turn-Ins
 

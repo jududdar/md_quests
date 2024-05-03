@@ -1,4 +1,6 @@
 # Bryndin McMill
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Bryndin McMill says:** H-ha.. H-hai.. Hail!! It is v-v-very.. C-cold out here. You sh-sh-should light a c-c-campfire.
 end
+
+
 
 ## Turn-Ins
 

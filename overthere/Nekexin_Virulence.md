@@ -1,10 +1,16 @@
 # Nekexin Virulence
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 1800 seconds
+
+
 ## Timer(s)
 
 >*Nekexin Virulence chuckles to himself as he notices blades of grass disintegrate beneath his feet. He stares out over the water as if watching for some sign.*
+
+
 ## Dialog
 
 **You say:** `corruption`
@@ -13,6 +19,8 @@
 
 >*Nekexin Virulence grins wide at you. 'Corruption? I know nothing of corruption.' He goes back to staring out over the water.*
 end
+
+
 
 ## Turn-Ins
 

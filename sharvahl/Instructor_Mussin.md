@@ -1,10 +1,14 @@
 # Instructor Mussin
 local count;
+
+
 ## On NPC Spawn
 
 count = 0;
 
 **Set a timer** named *training* for 10 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -243,6 +247,8 @@ count = 0;
 
 **Set a timer** named *training* for 10 seconds
 end
+
+
 
 ## Turn-Ins
 

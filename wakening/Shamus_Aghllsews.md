@@ -1,4 +1,6 @@
 # Shamus Aghllsews
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Shamus Aghllsews says:** The Tunarean Court is the name of the hierarchy of Tunares children that inhabit this region of Norrath. We adhere to the old ways of governing our peoples. The Koada'Dal and Feir'Dal have strayed from the old ways since the fall of Takish Hiz and the burning of their once great forest kingdom that has since become the deserts of Ro. As Duke of this court I am the highest ranking Tunarean outside the Plane of Growth.
 end
+
+
 
 
 

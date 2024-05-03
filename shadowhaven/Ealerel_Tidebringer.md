@@ -1,4 +1,6 @@
 # Ealerel Tidebringer
+
+
 ## Dialog
 
 **You say:** `hail`

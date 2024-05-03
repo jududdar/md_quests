@@ -1,4 +1,6 @@
 # Captain Dunstan Coldheart
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -30,6 +32,8 @@ elseif(e.message:findi()) then
 
 >**Captain Dunstan Coldheart says:** He went on many adventures. The last was on an expedition deeper into our own mines, which had been gradually overgrown with monsters and the like. He was never seen again, nor his famous axe, Onyxbrand. Most of us believe that his ghost still haunts the lower halls. If yer brave enough, the Historian may be able to help ya meet him. But ye gotta give him some sorta record of Burdael's deeds. I ye do, he'll know what ye wish and tell ye what must be done.
 end
+
+
 
 ## Turn-Ins
 

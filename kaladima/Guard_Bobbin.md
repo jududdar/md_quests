@@ -1,4 +1,6 @@
 # Guard Bobbin
+
+
 ## Dialog
 
 **You say:** `armor`

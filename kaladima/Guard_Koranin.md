@@ -1,4 +1,6 @@
 # Guard Koranin
+
+
 ## Dialog
 
 **You say:** `armor`

@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -40,6 +42,8 @@ else
 >*Crusader Quarg eye's glare red and gnashes his teeth.  'You had best avoid all members of the Temple of Terror.*
 
 end
+
+
 
 ## Turn-Ins
 

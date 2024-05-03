@@ -1,4 +1,6 @@
 # Arx Guardian Brightway
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,7 +1,11 @@
 # Faelin Bloodbriar
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1200 seconds
+
+
 ## Timer(s)
 
 if (e.timer == "depop") then
@@ -12,6 +16,8 @@ if (e.timer == "depop") then
 
 **Faelin Bloodbriar despawns.**
 end
+
+
 
 ## Turn-Ins
 

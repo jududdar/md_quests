@@ -1,4 +1,6 @@
 # Rodgar the Tall
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@
 
 
 end
+
+
 
 ## Turn-Ins
 

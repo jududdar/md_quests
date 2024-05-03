@@ -1,6 +1,8 @@
 # Hierophant Oxyn
 
 
+
+
 ## Dialog
 
 
@@ -197,6 +199,8 @@ else
 
 >**Hierophant Oxyn says:** The bottle contains deklium in a liquid solution. The metal of prophecy has been determined to rest in a mass of living earth. Our scholars have written of a mass of ore that fell from the heavens. This ore was used in the creation of a blade of our father, Rile. We have been filled with visions of this blade. I have seen it in the hands of our Crusaders as they march towards the new age of Greenmist! Seek out the corrupted earth that guards the interlopers. We have an alchemist near there. He will be able to use the deklium to determine which golem contains the metal. Take care to go in force. I sense that there will be a battle.
 end
+
+
 
 ## Turn-Ins
 

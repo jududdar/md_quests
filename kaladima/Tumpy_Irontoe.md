@@ -1,4 +1,6 @@
 # Tumpy Irontoe
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Tumpy Irontoe says:** Sounds like you ran into one of my old pals from the Irontoe Brigade. I hope he is doing okay. Ah, those were the days...
 end
+
+
 
 ## Turn-Ins
 

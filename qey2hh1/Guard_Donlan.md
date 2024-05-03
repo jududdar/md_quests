@@ -1,4 +1,6 @@
 # Guard Donlan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,11 +16,15 @@
 >**Guard Donlan says:** The travel tax is a fee of one gold for the privilege of using the highways of Karana. Oh! You know what? You must've used the roads to get here! I guess you owe me 1 gold!
 end
 
+
+
 ## Turn-Ins
 
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 
@@ -30,6 +36,8 @@ if(e.signal == 1) then
 
 eq.start(19)
 end
+
+
 
 ## Arrive at Waypoint Script
 

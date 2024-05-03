@@ -1,4 +1,6 @@
 # Gorilla Scholar
+
+
 ## Dialog
 
 **You say:** `hail`

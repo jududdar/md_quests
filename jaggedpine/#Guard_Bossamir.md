@@ -1,4 +1,6 @@
 # Guard Bossamir
+
+
 ## Dialog
 
 **You say:** `hail`

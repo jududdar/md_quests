@@ -1,11 +1,15 @@
 # Venril Sathir
 local counting;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *combat* for 20 seconds
 
 counting = 0;
+
+
 ## Timer(s)
 
 if (e.timer == "combat") then

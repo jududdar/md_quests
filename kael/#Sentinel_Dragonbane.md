@@ -1,4 +1,6 @@
 # Sentinel Dragonbane
+
+
 ## Dialog
 
 **You say:** `hail`

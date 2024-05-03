@@ -1,6 +1,8 @@
 # Talem Tucter
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@
 
 >**Talem Tucter says:** Combine two platinum bars, a small piece of velium and the casing pattern in a Jeweler's kit. Take the completed casing and the rune and combine them in the same kit. When this is done all that's left is to tailor the rune to the shawl with the pattern. Take the finished product to Borannin, I'm sure he's eager to speak with you.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Nightmaster Kelador
+
+
 ## Dialog
 
 **You say:** `hail`

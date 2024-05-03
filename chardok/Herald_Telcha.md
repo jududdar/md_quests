@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -65,6 +67,8 @@ elseif(( **Faction is** > Kindly) and (**Your level**> 49)) then
                                 href="/item/5728" data-url="5728" class="tooltip-link link">Di'zok Signet of Service</a>
 
 end
+
+
 
 ## Turn-Ins
 

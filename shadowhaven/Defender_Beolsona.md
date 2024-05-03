@@ -1,4 +1,6 @@
 # Defender Beolsona
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Defender Beolsona says:** Hey there, stranger.  Stay behind the window if you could, this area back here is only for employees.
 end
+
+
 
 ## Combat
 
@@ -21,9 +25,13 @@ else
 **Stop timer** named *combatsay*
 end
 
+
+
 ## Timer(s)
 
 >**Defender Beolsona says:** A fool you are indeed to test your fighting skills to mine!  You shall now die by my blade!
+
+
 ## On NPC Death
 
 **Stop timer** named *combatsay*

@@ -1,4 +1,6 @@
 # Fyking Baer
+
+
 ## Dialog
 
 
@@ -29,6 +31,8 @@
 
 **Signaled to:**  [Sergeant Gerrin Bakeside](/npc/208014)
 end
+
+
 
 ## Signals
 

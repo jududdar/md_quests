@@ -1,4 +1,6 @@
 # Legionnaire Loricut
+
+
 ## Dialog
 
 **You say:** `hail`

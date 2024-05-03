@@ -1,4 +1,6 @@
 # Megan OReilly
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -66,6 +68,8 @@ elseif( **Faction is** < Indifferent) then
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -100,6 +104,8 @@ Your faction standing with [Steel Warriors](/faction/311) got better (<span clas
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 3) then

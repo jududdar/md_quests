@@ -1,4 +1,6 @@
 # Guide III
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -118,6 +120,8 @@ eq.move_to(-541,1420,-6,0,false);
 
 eq.move_to(21,236,-26,64,false);
 end
+
+
 
 ## Turn-Ins
 

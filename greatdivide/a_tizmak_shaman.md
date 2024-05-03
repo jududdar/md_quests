@@ -1,4 +1,6 @@
 # a tizmak shaman
+
+
 ## Dialog
 
 **You say:** `hail`

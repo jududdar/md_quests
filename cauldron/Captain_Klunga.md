@@ -1,7 +1,11 @@
 # Captain Klunga
+
+
 ## On NPC Spawn
 
 **Set a timer** named *playdead* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "playdead") then
@@ -24,6 +28,8 @@ elseif(e.timer == "depop") then
 **Captain Klunga despawns.**
 end
 
+
+
 ## Turn-Ins
 
 
@@ -40,6 +46,8 @@ eq.start(2);
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

@@ -1,6 +1,8 @@
 # Erdarf Restil
 
 
+
+
 ## Dialog
 
 if( **Faction is** >= Kindly) then
@@ -38,6 +40,8 @@ if( **Faction is** >= Kindly) then
 >*Erdarf Restil chuckles at you. 'If you want to impress me, and let me make certain you understand I doubt you can, then you can do what I never was able. For years I adventured and attempted to venture to the bottom of the Crystal Caverns in search of ancient artifacts from my people. Do that, show me that you have, and I will be impressed.'*
 
 end
+
+
 
 ## Turn-Ins
 

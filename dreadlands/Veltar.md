@@ -1,6 +1,8 @@
 # Veltar
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -39,6 +41,8 @@
 
 >**Veltar says:** To show peace of mind you must decipher a tome found in the library of Kaesora. An undead tome keeper will wait for you to come, ask him of the trial of peace of mind. The tome will tell you what you shall seek. Do with the tome the same as you would with the item you seek. Show you have clarity of mind in solving this.
 end
+
+
 
 ## Turn-Ins
 

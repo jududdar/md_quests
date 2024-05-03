@@ -1,4 +1,6 @@
 # Tiblner Milnik
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Tiblner Milnik says:** Combining the following items can bring the Element of Earth together. Obtain the Staff of Elemental Mastery: Earth, held by the minions of the Prince of Hate, The Dirt of Underfoot found on Slix something or the other, and of course, I shall need the Broom of Trilon and the Shovel of Ponz. Bring all these things, and I shall show you what a true Master of Earth can do, and gift you with the Element of Earth.
 end
+
+
 
 ## Turn-Ins
 

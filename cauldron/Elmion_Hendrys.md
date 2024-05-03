@@ -1,4 +1,6 @@
 # Elmion Hendrys
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then
@@ -33,6 +35,8 @@ else
 
 >**Elmion Hendrys says:** Your ways are considered vile to Faydark's Champions. Leave before my rage overcomes my restraint.
 end
+
+
 
 ## Signals
 

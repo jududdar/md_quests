@@ -1,4 +1,6 @@
 # Mark Blotter
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Mark Blotter says:** Ah hah! You are in luck. I just received a sealed golden scroll tube the other day that I think you will find quite acceptable. It seems to be quite old and the craftsmanship is superb! I will part with it for no less than one-thousand gold pieces.
 end
+
+
 
 ## Turn-Ins
 

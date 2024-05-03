@@ -1,4 +1,6 @@
 # Merchant Hamarr
+
+
 ## Dialog
 
 **You say:** `hail`

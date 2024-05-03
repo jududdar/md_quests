@@ -1,4 +1,6 @@
 # Brutol Rhaksen
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -33,6 +35,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Brutol Rhaksen says:** Ready to make yourself useful Soandso ? Beneath West Freeport are sewer tunnels leading to North Freeport being used by the Knights of Truth and the Sentries and Passion that have gained too much notoriety with the Freeport Militia and the Dismal Rage to pass safely through the eastern and western quarters of Freeport. We believe a sympathizer of the Sentries of Passion, Tarsa Yovar, is hiding somewhere in the western tunnel system. The sympathizer is a Steel Warrior faithful to Erollisi and although she is only a minor nuisance must be dealt with. Find her and bring me her head.
 
 end
+
+
 
 
 ## Turn-Ins

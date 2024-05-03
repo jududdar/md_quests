@@ -1,4 +1,6 @@
 # Kojik
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -194,12 +196,18 @@
 >**Kojik says:** Shadow Haven is the great city that lies beneath the ground. We have many trading relationships with the houses that form the groundwork of Shadow Haven politics. Use caution when traveling there, although the haven houses many honest merchants, it is also a home to smugglers, bandits, and thieves.
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 75 seconds
+
+
 ## Timer(s)
 
 >**Kojik says:** Bags! Chests! You'll need to carry your treasures, come see what I have for sale.
+
+
 ## Turn-Ins
 
 

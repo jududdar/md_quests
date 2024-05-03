@@ -1,4 +1,6 @@
 # Faeroi
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Faeroi says:** I'm waiting to have a rhino beetle horn delivered to me to finish off Hardam's helm. I do not want to present it to him with one horn, you know. If you wanted to be a big help, any rhino beetles horn would do fine. Bring one to me and I can then finish Hardam's helm and send it back to his shop in your hands.
 end
+
+
 
 ## Turn-Ins
 

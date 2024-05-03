@@ -1,6 +1,8 @@
 # Spiritist Roleko
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Spiritist Roleko says:** Greetings Traveler. If it is rest you seek then I'm sure you may rest safely within the walls of this outpost. As the sentries keep watch for physical danger I commune with the spirits of this territory to watch for less noticeable threats.
 end
+
+
 
 ## Turn-Ins
 

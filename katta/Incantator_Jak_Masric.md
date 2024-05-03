@@ -1,4 +1,6 @@
 # Incantator Jak Masric
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Incantator Jak Masric says:** Greetings. I am in the middle of some important research so regrettably do not have the time to converse.
 end
+
+
 
 
 ## Turn-Ins

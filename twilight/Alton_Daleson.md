@@ -1,4 +1,6 @@
 # Alton Daleson
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Alton Daleson says:** If you want the Woodsman's Vambraces you will have to acquire these items: a meteor jewel, a mark of mountains, a tro jeg eye, and a solstice rune.
 end
+
+
 
 ## Turn-Ins
 

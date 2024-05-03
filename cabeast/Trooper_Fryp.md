@@ -1,4 +1,6 @@
 # Trooper Fryp
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Fryp says:** Alas. The masters have learned of my long evenings in the tavern. Ok... Long mornings and afternoons too. Heh heh. Can't fight authority! Hand me the... Wait. I do not have my quill with me. Go and fetch me a writing quill and hand it to me along with the legion order and then I shall sign it.
 end
+
+
 
 ## Turn-Ins
 

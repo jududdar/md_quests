@@ -1,4 +1,6 @@
 # a coterie legionnaire
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Guardian Salgor
+
+
 ## Dialog
 
 **You say:** `hail`

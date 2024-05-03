@@ -1,4 +1,6 @@
 # Defender Narthem
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Defender Narthem says:** Like I said before, I really don't like to talk about it. If Serisn is back there, he might be able to tell you more.
 end
+
+
 
 ## Turn-Ins
 

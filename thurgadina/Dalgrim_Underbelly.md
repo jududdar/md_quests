@@ -21,6 +21,8 @@ quest_helper:melee_legs(THURG_ARMOR.Plate_Greaves, 31005),
 quest_helper:melee_boots(THURG_ARMOR.Plate_Boots, 31006), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** >= Kindly) then
@@ -112,6 +114,8 @@ else
 
 >**Dalgrim Underbelly says:** I do not know you well enough to entrust you with such a quest, yet.
 end
+
+
 
 ## Turn-Ins
 

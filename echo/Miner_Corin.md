@@ -1,4 +1,6 @@
 # Miner Corin
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Legionnaire Remigius
+
+
 ## Dialog
 
 **You say:** `hail`

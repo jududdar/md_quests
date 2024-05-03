@@ -1,6 +1,8 @@
 # Lyra Lyrestringer
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -31,6 +33,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
                                 href="/item/18163" data-url="18163" class="tooltip-link link">A Bardic Letter (Kelethin)</a>
 end
+
+
 
 ## Turn-Ins
 

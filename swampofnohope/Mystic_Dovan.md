@@ -1,6 +1,8 @@
 # Mystic Dovan
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -39,6 +41,8 @@
 
 >**Mystic Dovan says:** He is a merchant hiding in The Overthere. He is greedy and will not give the skull up easily. Seek him out and ask him what he would [trade] for the skull.
 end
+
+
 
 ## Turn-Ins
 

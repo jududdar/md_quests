@@ -1,7 +1,11 @@
 # Chamberlain Escalardian
+
+
 ## On NPC Death
 
 **Despawn NPC:**  [armor guy](/npc/215418)
+
+
 ## Signals
 
 local client = eq.get_entity_list():GetClientByID(e.signal);
@@ -11,6 +15,8 @@ if ( client and client.valid ) then
 
 e.self:AddToHateList(client, 1);
 end
+
+
 
 ## Combat
 
@@ -54,6 +60,8 @@ e.self:GMMove(e.self:GetGuardPointX(), e.self:GetGuardPointY(), e.self:GetGuardP
 e.self:SetHP(e.self:GetHP() + math.floor(e.self:GetMaxHP() * 0.3));
 
 end
+
+
 
 ## Timer(s)
 

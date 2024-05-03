@@ -1,4 +1,6 @@
 # Scout Malityn
+
+
 ## Turn-Ins
 
 local expansion_flag = eq.get_current_expansion();

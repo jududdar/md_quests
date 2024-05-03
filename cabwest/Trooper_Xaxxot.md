@@ -1,4 +1,6 @@
 # Trooper Xaxxot
+
+
 ## Dialog
 
 **You say:** `Hail`

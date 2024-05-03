@@ -1,7 +1,11 @@
 # Madan Eflik
+
+
 ## On NPC Spawn
 
 **Set a timer** named *rub* for 3000 seconds
+
+
 ## Timer(s)
 
 e.self:Emote(eq.ChooseRandom("rubs her arms to warm herself up. 'Did you find me something other than biscuits yet? What? No? Stay on your side of the igloo, then, Sojan!","shivers violently.  'I hate this place.  My sister always told me I shouldn't be a pirate and that you were nothing but a clockwork grease pouring imbecile!'"));

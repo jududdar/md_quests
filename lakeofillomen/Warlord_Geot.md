@@ -1,4 +1,6 @@
 # Warlord Geot
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -17,6 +19,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
                                 href="/item/17044" data-url="17044" class="tooltip-link link">Lake Garrison Pack</a>
 end
+
+
 
 ## Turn-Ins
 

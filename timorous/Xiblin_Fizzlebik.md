@@ -1,8 +1,12 @@
 # Xiblin Fizzlebik
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 10 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "sit") then
@@ -10,6 +14,8 @@ if(e.timer == "sit") then
 
 e.self:SetAppearance(1);
 end
+
+
 
 ## Dialog
 
@@ -38,6 +44,8 @@ end
 >**Xiblin Fizzlebik says:** All I know is that the pieces were most likely hidden in water regions. If you manage to find them, bring them to me and I will be able to put the medallion of the Jarsath back together. I am sure there is much to be learned from it.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -62,6 +70,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

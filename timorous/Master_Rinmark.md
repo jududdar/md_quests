@@ -1,8 +1,12 @@
 # Master Rinmark
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Depop2* for 90 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "Depop2") then
@@ -19,6 +23,8 @@ if(e.timer == "Depop2") then
 
 **Master Rinmark despawns.**
 end
+
+
 
 ## Turn-Ins
 

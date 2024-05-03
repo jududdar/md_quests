@@ -1,5 +1,7 @@
 # a focus of Sol
 
+
+
 ## Combat
 
 if ( e.self:GetZ() > 240 and e.self:Charmed() ) then

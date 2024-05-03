@@ -1,4 +1,6 @@
 # Raz The Rat Misk
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -36,6 +38,8 @@ else
 
 
 >**Raz The Rat Misk says:** Beat it. You ain't part of the Circle.
+
+
 
 
 

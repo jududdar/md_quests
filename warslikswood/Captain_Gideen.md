@@ -1,4 +1,6 @@
 # Captain Gideen
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Captain Gideen says:** Goblin Watchers are rumored to be the communication link between goblin outposts and patrols. We have found Goblin Watcher Signal Torches on a few of them. You bring me back no less than three and I will reward you.
 end
+
+
 
 ## Turn-Ins
 

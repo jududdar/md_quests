@@ -258,6 +258,8 @@ return;
 
 
 
+
+
 ## Combat
 
 if  Thall Va Xakra enters combat  then
@@ -300,6 +302,8 @@ if ( e.self:GetX() < -150 ) then
 e.self:GMMove(e.self:GetSpawnPointX(), e.self:GetSpawnPointY(), e.self:GetSpawnPointZ(), e.self:GetSpawnPointH());
 
 end
+
+
 
 ## Timer(s)
 

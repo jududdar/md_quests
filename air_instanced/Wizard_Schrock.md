@@ -1,4 +1,6 @@
 # Wizard Schrock
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
                                 href="/item/18531" data-url="18531" class="tooltip-link link">Knowledge and Power</a>
 end
+
+
 
 
 ## Turn-Ins

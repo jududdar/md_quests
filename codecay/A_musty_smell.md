@@ -1,4 +1,6 @@
 # A musty smell
+
+
 ## Combat
 
 if A musty smell enters combat  then

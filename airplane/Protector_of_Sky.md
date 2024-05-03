@@ -1,4 +1,6 @@
 # Protector of Sky
+
+
 ## On NPC Death
 
 local sirranName = "sirran";

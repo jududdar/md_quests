@@ -1,6 +1,8 @@
 # Vaean the Night
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -15,6 +17,8 @@
 
 >**Vaean the Night says:** I see it as a win-win situation for me. If you succeed, I'll gain more power from the knowledge you bring back to me. If you fail, you become another addition to my undead minions. Thus, you cannot fail me in returning a scroll of Splurt, Defoliation, Covergence, or Thrall of Bones. In return, I will part with a scroll of mine.
 end
+
+
 
 ## Turn-Ins
 

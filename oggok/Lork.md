@@ -1,4 +1,6 @@
 # Lork
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -73,6 +75,8 @@ else
 
 >**Lork says:** You help self to leave Oggok before me bash you. We no need cowards.
 end
+
+
 
 ## Turn-Ins
 

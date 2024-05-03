@@ -1,4 +1,6 @@
 # Captain Ryglot Cupperhide
+
+
 ## Dialog
 
 
@@ -89,6 +91,8 @@ else
 >**Captain Ryglot Cupperhide says:** Please leave. I am extremely busy at the moment.
 
 end
+
+
 
 ## Turn-Ins
 

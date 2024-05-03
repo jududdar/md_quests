@@ -1,6 +1,8 @@
 # Vhaksiz the Shade
 local x, y, z;
 
+
+
 ## On NPC Spawn
 
 x = e.self:GetX();
@@ -8,6 +10,8 @@ x = e.self:GetX();
 y = e.self:GetY();
 
 z = e.self:GetZ();
+
+
 ## Combat
 
 if  Vhaksiz the Shade enters combat  then
@@ -20,6 +24,8 @@ else
 
 **Stop timer** named *leashcheck*
 end
+
+
 
 ## Timer(s)
 

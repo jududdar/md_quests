@@ -1,4 +1,6 @@
 # Grandmaster Haloriki
+
+
 ## Dialog
 
 **You say:** `hail`

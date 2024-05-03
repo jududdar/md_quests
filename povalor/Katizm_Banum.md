@@ -1,4 +1,6 @@
 # Katizm Banum
+
+
 ## Dialog
 
 **You say:** `hail`

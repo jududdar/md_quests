@@ -1,4 +1,6 @@
 # Elder Jal-Amra
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Talym Shoontar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Talym Shoontar says:** Too bad. I heard there is a new market for skins of your kind.
 end
+
+
 
 ## Turn-Ins
 

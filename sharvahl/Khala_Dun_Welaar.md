@@ -1,4 +1,6 @@
 # Khala Dun Welaar
+
+
 ## Dialog
 
 **You say:** `training camp`
@@ -187,6 +189,8 @@
 
 >**Khala Dun Welaar says:** Shadow Haven is the great city that lies beneath the ground. We have many trading relationships with the houses that form the groundwork of Shadow Haven politics. Use caution when traveling there, although the haven houses many honest merchants, it is also a home to smugglers, bandits, and thieves.
 end
+
+
 
 ## Turn-Ins
 

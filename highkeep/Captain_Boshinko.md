@@ -1,4 +1,6 @@
 # Captain Boshinko
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -50,6 +52,8 @@ local fac = e.other:GetFaction(e.self);
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_592.png" alt="" /> <a
                                 href="/item/13110" data-url="13110" class="tooltip-link link">Bloody Shank</a>
 end
+
+
 
 ## Turn-Ins
 

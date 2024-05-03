@@ -1,4 +1,6 @@
 # Tynkale
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -111,6 +113,8 @@ else
 >**Tynkale says:** You have some nerve to approach a loyal member of the Paladins of Tunare! Run, while you can!
 
 end
+
+
 
 ## Turn-Ins
 

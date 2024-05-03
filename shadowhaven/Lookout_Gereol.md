@@ -1,7 +1,11 @@
 # Lookout Gereol
+
+
 ## Signals
 
 >**Lookout Gereol says:** All is going great sir, I will be sure to report any disturbances shall they present themselves.
+
+
 ## Dialog
 
 **You say:** `hail`

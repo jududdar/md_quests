@@ -1,5 +1,7 @@
 # Assassin Rysarieul
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 e.self:Emote("performs a deep, sweeping bow in a graceful and almost flamboyant display of greetings. 'Welcome, welcome to the district of Selia, my friend. I am Assassin Rysarieul 
 end
+
+
 
 ## Turn-Ins
 

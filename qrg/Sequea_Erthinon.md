@@ -1,4 +1,6 @@
 # Sequea Erthinon
+
+
 ## Dialog
 
 **You say:** `leader`

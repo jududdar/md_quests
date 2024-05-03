@@ -1,4 +1,6 @@
 # Trooper Tygar
+
+
 ## Dialog
 
 **You say:** `Hail`

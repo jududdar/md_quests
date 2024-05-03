@@ -1,4 +1,6 @@
 # Bjoron Axefall
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Bjoron Axefall says:** I am not the beginning.
 end
+
+
 
 ## Signals
 

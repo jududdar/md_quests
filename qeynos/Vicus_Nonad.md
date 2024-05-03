@@ -1,7 +1,11 @@
 # Vicus Nonad
+
+
 ## On NPC Spawn
 
 **Set a timer** named *cough* for 350 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "cough") then
@@ -9,6 +13,8 @@ if(e.timer == "cough") then
 
 >*Vicus Nonad coughs and wheezes.*
 end
+
+
 
 ## Dialog
 
@@ -82,6 +88,8 @@ else
 >I wonder how much I could get for the tongue of a blithering fool? Leave before I decide to find out for myself.
 
 end
+
+
 
 ## Turn-Ins
 

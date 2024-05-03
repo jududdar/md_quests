@@ -1,4 +1,6 @@
 # Miltiades Tal-Azroth
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -148,6 +150,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Miltiades Tal-Azroth says:** I have reason to believe that Tovax Vmar is behind this, a dreaded necromancer that has been known to prowl the hills. Having Tovax dead will surely send a message to the Bloodsabers to tread lightly for their days are numbered. If you are able to find Tovax return to me his necklace along with 2 Enchanted Wisp Globes and I will reward you with a weapon suitable for a true knight of Karana.
 
 end
+
+
 
 ## Turn-Ins
 

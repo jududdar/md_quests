@@ -1,4 +1,6 @@
 # A Hand Centurion
+
+
 ## Dialog
 
 **You say:** `hail`

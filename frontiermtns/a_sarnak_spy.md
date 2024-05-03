@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 
@@ -23,6 +25,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
                                 href="/item/6471" data-url="6471" class="tooltip-link link">Forged Note to Courier</a>
 end
+
+
 
 ## Turn-Ins
 

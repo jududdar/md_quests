@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@
 
 >**Yendar Starpyre says:** Eldreth, Eldreth, hmm, was that a rather shabby Erudite? I have dealt with him in the past, I am sure. What does he want of me?
 end
+
+
 
 
 ## Turn-Ins

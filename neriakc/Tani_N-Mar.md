@@ -1,9 +1,13 @@
 # Tani N-Mar
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -16,6 +20,8 @@ while ( e.self:CheckGround() ) do
 
 
 >*Tani N-Mar picks up something from the ground.*
+
+
 
 
 ## Dialog
@@ -104,6 +110,8 @@ else
 
 >**Tani N-Mar says:** Stanos? Hahahaha! That old fool crossed my path a few times in the past, but he is not able to trouble me now. If you see him, tell him Tani sends his..love. Hahahaha!
 end
+
+
 
 ## Turn-Ins
 

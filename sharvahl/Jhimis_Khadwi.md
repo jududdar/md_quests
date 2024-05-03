@@ -1,4 +1,6 @@
 # Jhimis Khadwi
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Jhimis Khadwi says:** Aye, I have a few left, but they are a big seller right now and I don't know when I'm going to get more in stock. Perhaps we can barter for a set. If you can gather two small owlbear claws and show me your apprentice's cloak, I'll guess that I can justify given you a set of dowels. I'll also be able to make some earrings for my girlfriend. I'm sure she'll love that!
 end
+
+
 
 ## Turn-Ins
 

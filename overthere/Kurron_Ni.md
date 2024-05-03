@@ -1,5 +1,7 @@
 # Kurron Ni
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -52,6 +54,8 @@ else
 **Kurron Ni attacks you.**
 
 end
+
+
 
 ## Turn-Ins
 

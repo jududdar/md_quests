@@ -1,5 +1,7 @@
 # Noilgin Mindtune
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 >**Noilgin Mindtune says:** Hello there, Soandso! I hope you are enjoying your visit to the outpost. I know I sure am.
 end
+
+
 
 ## Turn-Ins
 

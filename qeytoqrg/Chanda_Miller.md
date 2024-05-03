@@ -1,4 +1,6 @@
 # Chanda Miller
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -22,11 +24,15 @@ elseif(e.wp == 12) then
 eq.set_anim(4052,1);
 end
 
+
+
 ## Signals
 
 >**Chanda Miller says:** I am f.. fff.. fff.. fine, brother. You um.. don't need to worry about me so much. I am a big girl now.
 
 **Signaled to:**  [Baobob Miller](/npc/4055)
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -96,6 +102,8 @@ else
 
 >**Chanda Miller says:** Ooh! Umm. Mammoth! He is a big bear. Bigger than others...  He is living in Surefall Glade. Um...  Bring me his hide.  It would be worth a lot.
 end
+
+
 
 ## Turn-Ins
 

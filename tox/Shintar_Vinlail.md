@@ -1,10 +1,16 @@
 # Shintar Vinlail
+
+
 ## On NPC Spawn
 
 **Set a timer** named *where* for 3100 seconds
+
+
 ## Timer(s)
 
 >**Shintar Vinlail says:** Where are they?! I can't wait forever!
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -54,6 +60,8 @@
 
 >**Shintar Vinlail says:** I am waiting for some old friends who are headed down the stream this way. I am sure you don't want to be here when they get here. They are a temperamental lot and hate new faces. Go home!
 end
+
+
 
 ## Turn-Ins
 

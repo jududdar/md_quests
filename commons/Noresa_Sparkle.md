@@ -1,4 +1,6 @@
 # Noresa Sparkle
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -24,6 +26,8 @@ if(e.other:IsSelfFound() == 1 or e.other:IsSoloOnly() == 1) then
 >**Noresa Sparkle says:** You might also call to Glyssa Sonshaw in Freeport if you seek enchantments of silver and gold.
 
 end
+
+
 
 ## Turn-Ins
 

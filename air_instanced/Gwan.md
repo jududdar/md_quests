@@ -1,4 +1,6 @@
 # Gwan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@
 **Gwan attacks you.**
 end
 
+
+
 ## On NPC Spawn
 
 
@@ -22,6 +26,8 @@ end
 
 
 >**Gwan says:** Im ready when you are. Tell me when you are [prepared].
+
+
 ## On NPC Death
 
 

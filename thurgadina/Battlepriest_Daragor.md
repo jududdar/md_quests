@@ -44,9 +44,13 @@ quest_helper:melee_chest(THURG_ARMOR.Breastplate, 31022),
 quest_helper:melee_helmet(THURG_ARMOR.Plate_Helmet, 31021)
 }
 
+
+
 ## Dialog
 
 quest_helper.quest_text(e, QUEST_TEXT, 3);
+
+
 
 ## Turn-Ins
 

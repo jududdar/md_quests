@@ -1,4 +1,6 @@
 # Legionnaire Tulen
+
+
 ## Dialog
 
 **You say:** `hail`

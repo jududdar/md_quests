@@ -1,4 +1,6 @@
 # Lendiniara the Keeper
+
+
 ## Dialog
 
 if **Faction** >= Kindly then 
@@ -94,6 +96,8 @@ else
 
 >Oh look..a talking lump of refuse..how novel!
 end
+
+
 
 ## Turn-Ins
 

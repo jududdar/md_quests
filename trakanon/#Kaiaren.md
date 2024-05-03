@@ -1,8 +1,12 @@
 # Kaiaren
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 3600 seconds
+
+
 ## Dialog
 
 if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
@@ -33,6 +37,8 @@ if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gi
 >**Kaiaren says:** My guess is that the weakest of the Fists will be the easiest to draw out. He is egotistical and arrogant. How he came to master the Discipline of Fire, I do not know. He will most likely be in another form, one of his element. When you find the one you believe to be the Fist, you must challenge him. If you use his true name, Eejag, in your formal challenge, he will respond. A flame can burn intensely but it cannot last for long. Know this when you battle him.
 
 end
+
+
 
 ## Turn-Ins
 
@@ -78,6 +84,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

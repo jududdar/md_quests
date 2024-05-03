@@ -1,6 +1,8 @@
 # Aderyn Goldleaf
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@
 
 >**Aderyn Goldleaf says:** Katta Castellium is a dreary place. To show how vile it is, they have vampyres living within the city! My point though, is that they would easily spot one of us entering their city. You are just right. They would not question one from Norrath. If you with to prove your worth and earn your own Quiver go to Katta. Galren Fuzzytoes is know to us to be a spy, but we can never catch him. Surely it will be easier to find him within his own city. Defeat him, and retrieve any report that he is taking back to their Governors.
 end
+
+
 
 ## Turn-Ins
 

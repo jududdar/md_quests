@@ -1,4 +1,6 @@
 # Legatarius Banael
+
+
 ## Dialog
 
 **You say:** `hail`

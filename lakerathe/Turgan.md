@@ -1,6 +1,8 @@
 # Turgan
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -15,6 +17,8 @@
 
 >**Turgan says:** Where did you hear... I don't know what you are talking about.  Begone!  Back to Kithicor with you!
 end
+
+
 
 ## Turn-Ins
 

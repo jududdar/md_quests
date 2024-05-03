@@ -1,4 +1,6 @@
 # Triblix Tikbok
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Triblix Tikbok says:** Zelniaks are strange creatures that live on the light side of Luclin. Their fat can be boiled in a brew barrel with a flask of water and poured into an empty bottle to produce an oil that is an excellent fuel for lanterns. I will trade for every four bottles of zelniak oil you produce for me.
 end
+
+
 
 ## Turn-Ins
 

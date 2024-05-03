@@ -1,6 +1,8 @@
 # an enthralled outcast
 rand = 0;
 
+
+
 ## Arrive at Waypoint Script
 
 rand = math.random(1,2);
@@ -22,6 +24,8 @@ else
 >*an enthralled outcast peers around the cavern.  You get the distinct impression it knows you're here.*
 
 end
+
+
 
 ## Depart from Waypoint Script
 

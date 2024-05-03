@@ -1,4 +1,6 @@
 # Guard Dagur
+
+
 ## Dialog
 
 **You say:** `hail`

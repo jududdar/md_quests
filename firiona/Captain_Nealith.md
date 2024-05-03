@@ -1,4 +1,6 @@
 # Captain Nealith
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -29,6 +31,8 @@ e.self:DoAnim(67);
 
 e.self:DoAnim(28);
 end
+
+
 
 ## Turn-Ins
 

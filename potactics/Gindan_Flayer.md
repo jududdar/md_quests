@@ -1,4 +1,6 @@
 # Gindan Flayer
+
+
 ## On NPC Spawn
 
 if ( e.self:GetSpawnPointID() == 0 ) then 
@@ -10,6 +12,8 @@ if ( e.self:GetSpawnPointID() == 0 ) then
 e.self:SetSpecialAbility(49, 1);
 
 end
+
+
 
 ## Timer(s)
 
@@ -61,6 +65,8 @@ elseif ( e.timer == "depop" ) then
 
 **Gindan Flayer despawns.**
 end
+
+
 
 ## Combat
 
@@ -182,6 +188,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Signals
 

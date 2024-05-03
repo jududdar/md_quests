@@ -1,6 +1,8 @@
 # a dread corpse
 local despawntime;
 
+
+
 ## On NPC Spawn
 
 if(e.self:GetSpawnPointID() == 365105 or e.self:GetSpawnPointID() == 365106) then
@@ -12,6 +14,8 @@ despawntime = 0;
 **Set a timer** named *depop* for 8640 seconds
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -22,6 +26,8 @@ if(e.timer == "depop") then
 
 despawntime = 1;
 end
+
+
 
 ## Arrive at Waypoint Script
 

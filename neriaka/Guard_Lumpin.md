@@ -1,4 +1,6 @@
 # Guard Lumpin
+
+
 ## Dialog
 
 **You say:** `Hail`

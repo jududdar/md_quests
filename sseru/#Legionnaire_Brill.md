@@ -1,4 +1,6 @@
 # Legionnaire Brill
+
+
 ## Dialog
 
 **You say:** `hail`

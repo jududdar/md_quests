@@ -1,4 +1,6 @@
 # Vedico Windwisper
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Vedico Windwisper says:** He was a huge cyclops! He came rushing up out of the water and stared at me with his big eye and said, 'Me like horn me take and play pretty music!' before he snatched my horn and disappeared back under the waves.
 end
+
+
 
 ## Turn-Ins
 

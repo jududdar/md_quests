@@ -1,4 +1,6 @@
 # Centurion Queniton
+
+
 ## Dialog
 
 **You say:** `hail`

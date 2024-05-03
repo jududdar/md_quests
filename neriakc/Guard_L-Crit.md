@@ -1,4 +1,6 @@
 # Guard L-Crit
+
+
 ## Dialog
 
 **You say:** `supplies`

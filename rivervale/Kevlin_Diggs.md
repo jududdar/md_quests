@@ -1,4 +1,6 @@
 # Kevlin Diggs
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Kevlin Diggs says:** I used to be wed to Sonsa Fromp. She shamed the Diggs name by cheating my customers. She would charge my customers double! I am sure she is still doing the same, but it is done without the Diggs name. Good riddance!
 end
+
+
 
 ## Signals
 

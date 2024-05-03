@@ -1,4 +1,6 @@
 # Fergul Frostsky
+
+
 ## Arrive at Waypoint Script
 
 
@@ -11,6 +13,8 @@ if(e.wp == 6) then
 
 **Despawn NPC:**  [shardwurm broodmother](/npc/118040)
 end
+
+
 
 ## On NPC Death
 

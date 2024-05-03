@@ -1,4 +1,6 @@
 # Lendel Deeppockets
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -149,6 +151,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -208,6 +212,8 @@ Your faction standing with [Carson McCabe](/faction/329) got better (<span class
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

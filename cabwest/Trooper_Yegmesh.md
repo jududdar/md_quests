@@ -1,4 +1,6 @@
 # Trooper Yegmesh
+
+
 ## Dialog
 
 **You say:** `Hail`

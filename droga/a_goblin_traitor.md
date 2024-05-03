@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 if( **Faction is** > Kindly) then 
@@ -39,6 +41,8 @@ if( **Faction is** > Kindly) then
  
 
 end
+
+
 
 ## Turn-Ins
 

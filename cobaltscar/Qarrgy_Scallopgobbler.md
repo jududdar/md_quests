@@ -1,4 +1,6 @@
 # Qarrgy Scallopgobbler
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Qarrgy Scallopgobbler says:** Should you slay Kelorek'Dar, the sea dragon, I would craft you a sea dragon bracer from his scales. All I ask for are the scales of the dragon, an ornately runed shell necklace, and an unstained bracer crafted of the metal you strange ones call fine steel.
 end
+
+
 
 ## Turn-Ins
 

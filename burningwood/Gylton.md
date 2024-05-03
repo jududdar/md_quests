@@ -1,4 +1,6 @@
 # Gylton
+
+
 ## Combat
 
 local random_result = math.random(60);
@@ -32,9 +34,13 @@ else
 
 end
 
+
+
 ## On NPC Death
 
 >*Gylton slams to the ground with a loud THUD!!  The ground around you still trembles.  'Now.. I shall never slay my blasphemous.. brother..  Xyl..'*
+
+
 ## Turn-Ins
 
 

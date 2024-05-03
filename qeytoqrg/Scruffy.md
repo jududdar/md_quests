@@ -1,7 +1,11 @@
 # Scruffy
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Arrive at Waypoint Script
 
 local zoneTime = eq.get_zone_time()["zone_hour"];

@@ -1,4 +1,6 @@
 # Trooper Shyzin
+
+
 ## Dialog
 
 **You say:** `Hail`

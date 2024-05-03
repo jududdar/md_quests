@@ -1,4 +1,6 @@
 # Palace Guard Niromak
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 15) then
@@ -14,6 +16,8 @@ if(e.wp == 32) then
 
 e.self:SetAppearance(4);
 end
+
+
 
 ## Turn-Ins
 

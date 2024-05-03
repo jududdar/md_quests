@@ -1,4 +1,6 @@
 # Lieutenant Broansas
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Lieutenant Broansas says:** Well, Soandso. I'm monitoring a possible smugglers ring down there ahead of us in the distance. That group down there sure has a large shipment of goods and I intend to find out why.
 end
+
+
 
 ## Turn-Ins
 

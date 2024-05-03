@@ -1,4 +1,6 @@
 # Giz Dinree
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ else
 >**Giz Dinree says:** You are quite bold to approach a member of the Ebon Mask. Now be smart and run away.
 
 end
+
+
 
 ## Turn-Ins
 

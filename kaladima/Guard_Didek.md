@@ -1,4 +1,6 @@
 # Guard Didek
+
+
 ## Dialog
 
 **You say:** `armor`

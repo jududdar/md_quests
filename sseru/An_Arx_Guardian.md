@@ -1,4 +1,6 @@
 # An Arx Guardian
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -53,6 +55,8 @@
 
 >**Irak Altil says:** The sword must be dipped in water pure. Light of clean spirit to cleanse the shield. A gem of clarity unlike any other for the breastplate. All must be cleansed and returned to the temple for my soul to be freed. Only the temple can cleanse, only they can touch the artifacts. Take the sets of two to the temple. When they are all three cleansed separately take them to him who will grant me atonement.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Guard Treitan
+
+
 ## Dialog
 
 **You say:** `hail`

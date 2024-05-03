@@ -1,4 +1,6 @@
 # Deputy Eigon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Deputy Eigon says:** Hail, Soandso. Excuse me. I must get back to my patrol.
 end
+
+
 ## Turn-Ins
 
 

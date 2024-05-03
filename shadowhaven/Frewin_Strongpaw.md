@@ -1,4 +1,6 @@
 # Frewin Strongpaw
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Guard Briarstorm
+
+
 ## Dialog
 
 **You say:** `soldiers`

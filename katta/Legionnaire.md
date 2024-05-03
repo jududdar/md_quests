@@ -1,7 +1,11 @@
 # Legionnaire
+
+
 ## On NPC Spawn
 
 **Set a timer** named *attack* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "attack") then

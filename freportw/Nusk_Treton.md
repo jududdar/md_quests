@@ -1,4 +1,6 @@
 # Nusk Treton
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -60,6 +62,8 @@ elseif(fac > 5) then
 >**Nusk Treton says:** You had best leave my sight.  I am a faithful member of the Academy of Arcane Science and you are no ally of ours.
 
 end
+
+
 
 ## Turn-Ins
 

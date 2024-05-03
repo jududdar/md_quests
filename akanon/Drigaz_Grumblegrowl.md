@@ -1,6 +1,8 @@
 # Drigaz Grumblegrowl
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Drigaz Grumblegrowl says:** Grrreetings, Soandso, would you like to share a roasted rat steak or perhaps a tall glass of gnomish spirits? Have no fear of my appearance. My bark is meaner than my bite! Grraw haw haw!
 end
+
+
 
 ## Turn-Ins
 

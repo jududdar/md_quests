@@ -84,9 +84,13 @@ spawns[3] = nil;
 
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *castellan_repop* for 1080 seconds
+
+
 ## Timer(s)
 
 
@@ -95,6 +99,8 @@ if ( e.timer == "castellan_repop" ) then
 
 RepopIsland();
 end
+
+
 
 ## Signals
 

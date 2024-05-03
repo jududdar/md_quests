@@ -1,4 +1,6 @@
 # Den Magason
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 16 or e.wp == 43 or e.wp == 70) then
@@ -6,6 +8,8 @@ if(e.wp == 16 or e.wp == 43 or e.wp == 70) then
 
 >**Den Magason says:** Psst.. Hey, you there.. Yeah, you.. You need some [blank scroll sheets].. I just got a special shipment of things in.. Come on, it's just what you're looking for.. I know you.
 end
+
+
 
 ## Dialog
 
@@ -102,6 +106,8 @@ else
 >**Den Magason says:** Wha'?  Another talking rat? Your reputation with the merchants in this town has put a price on your head...  begone, before I decide to collect!
 
 end
+
+
 
 ## Turn-Ins
 

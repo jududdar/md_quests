@@ -1,4 +1,6 @@
 # Drill Master Vygan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -162,6 +164,8 @@ else
 >**Drill Master Vygan says:** Hiss!  Fool!  Fear the Legion of Cabilis for you are no ally to us.  Leave while you can.
 
 end
+
+
 
 ## Turn-Ins
 

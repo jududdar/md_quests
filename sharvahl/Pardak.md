@@ -1,4 +1,6 @@
 # Pardak
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -194,15 +196,21 @@
 >**Pardak says:** Shadow Haven is the great city that lies beneath the ground. We have many trading relationships with the houses that form the groundwork of Shadow Haven politics. Use caution when traveling there, although the haven houses many honest merchants, it is also a home to smugglers, bandits, and thieves.
 end
 
+
+
 ## Turn-Ins
 
 
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 82 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then

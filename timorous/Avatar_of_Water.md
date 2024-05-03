@@ -1,8 +1,12 @@
 # Avatar of Water
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
+
+
 ## Turn-Ins
 
 
@@ -27,6 +31,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 
 **This NPC *should* return incorrect items given.**
  
+
+
 ## Timer(s)
 
 **Avatar of Water despawns.**

@@ -1,4 +1,6 @@
 # Knargon Lanenda
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then
@@ -23,6 +25,8 @@ elseif(e.wp == 18) then
 **Signaled to:**  [Zannsin Resdinet](/npc/2085)
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -33,6 +37,8 @@ if(e.signal == 1) then
 
 **Signaled to:**  [Pelshia Thuxpire](/npc/2073)
 end
+
+
 
 ## Dialog
 
@@ -151,6 +157,8 @@ else
 >**Knargon Lanenda says:** Heh...  With all you've done, I'm surprised you're still alive.
 
 end
+
+
 
 ## Turn-Ins
 

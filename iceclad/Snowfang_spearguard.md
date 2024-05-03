@@ -1,4 +1,6 @@
 # Snowfang spearguard
+
+
 ## Dialog
 
 **You say:** `hail`

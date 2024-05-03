@@ -1,4 +1,6 @@
 # Lumi Stergnon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -105,6 +107,8 @@ else
 
 >**Lumi Stergnon says:** Then respect our temple and keep your prayers silent.
 end
+
+
 
 
 

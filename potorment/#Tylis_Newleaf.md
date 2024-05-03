@@ -1,11 +1,15 @@
 # Tylis Newleaf
 local FLAG_LIMIT = 72;
 
+
+
 ## On NPC Spawn
 
 flags = 0;
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "depop" ) then
@@ -13,6 +17,8 @@ if ( e.timer == "depop" ) then
 
 **Tylis Newleaf despawns.**
 end
+
+
 
 ## Dialog
 

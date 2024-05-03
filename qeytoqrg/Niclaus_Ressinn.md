@@ -1,4 +1,6 @@
 # Niclaus Ressinn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@ if( **Faction is** > Indifferent) then
                                 href="/item/13718" data-url="13718" class="tooltip-link link">Torn Parchment</a>
 
 end
+
+
 
 ## Turn-Ins
 
@@ -85,6 +89,8 @@ if(returned) then
 
 >**Niclaus Ressinn says:** I'm... erm, not quite sure what to do with this, but... thanks, I guess.
 end
+
+
 
 ## Arrive at Waypoint Script
 

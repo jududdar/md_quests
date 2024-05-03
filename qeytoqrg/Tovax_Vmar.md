@@ -1,4 +1,6 @@
 # Tovax Vmar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,9 +31,13 @@ else
 
 end
 
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Arrive at Waypoint Script
 
 local ZoneTime = eq.get_zone_time()["zone_hour"];
@@ -127,6 +133,8 @@ e.self:AssignWaypoints(13);
 e.self:SetRunning(false);
 
 end
+
+
 
 ## Depart from Waypoint Script
 

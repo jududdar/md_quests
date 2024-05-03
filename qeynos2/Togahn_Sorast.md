@@ -1,4 +1,6 @@
 # Togahn Sorast
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 16) then
@@ -6,6 +8,8 @@ if(e.wp == 16) then
 
 eq.set_anim(2087,1);
 end
+
+
 
 ## Dialog
 
@@ -270,6 +274,8 @@ else
 
 >**Togahn Sorast says:** Ahhh, Lu'Sun is a master of many skills. He has traveled all of Norrath, studying various techniques and disciplines. Now, he runs this small guild and passes on his knowledge to those willing to devote their lives to our cause.
 end
+
+
 
 ## Turn-Ins
 

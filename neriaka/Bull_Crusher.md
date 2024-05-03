@@ -1,4 +1,6 @@
 # Bull Crusher
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Bull Crusher says:** Huh? Oh hi Soandso. Youse want to buy sumthin?
 end
+
+
 
 ## Turn-Ins
 

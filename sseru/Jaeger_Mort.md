@@ -1,4 +1,6 @@
 # Jaeger Mort
+
+
 ## Dialog
 
 **You say:** `hail`

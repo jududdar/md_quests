@@ -1,4 +1,6 @@
 # Sentinel Maldevor
+
+
 ## Dialog
 
 **You say:** `hail`

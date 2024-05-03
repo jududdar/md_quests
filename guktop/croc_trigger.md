@@ -1,6 +1,8 @@
 # croc trigger
 local CrocUp = 0;
 
+
+
 ## On NPC Spawn
 
 croc_spawns();
@@ -93,6 +95,8 @@ eq.spawn2(RandomCroc,0,0,480,1667,-70,66);
 CrocUp = 5;
 end
 
+
+
 ## Signals
 
 CrocUp = CrocUp - 1;
@@ -102,6 +106,8 @@ if(CrocUp == 0) then
 
 **Set a timer** named *spawn timer* for 487 seconds
 end
+
+
 
 ## Timer(s)
 

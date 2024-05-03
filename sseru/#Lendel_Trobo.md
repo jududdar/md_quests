@@ -1,4 +1,6 @@
 # Lendel Trobo
+
+
 ## Dialog
 
 **You say:** `hail`

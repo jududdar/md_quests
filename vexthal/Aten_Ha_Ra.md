@@ -25,6 +25,8 @@ mob:BuffFadeAll();
 mob:WipeHateList();
 
 checks = 0;
+
+
 ## Timer(s)
 
 
@@ -93,6 +95,8 @@ else
 checks = 0;
 
 end
+
+
 
 ## On NPC Spawn
 

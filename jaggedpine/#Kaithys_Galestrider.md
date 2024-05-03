@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -217,6 +219,8 @@ else
 >*Kaithys Galestrider curls his lip and gives a gruff noise from his throat in disapproval, 'Begone from me, traveler! The incipid stench of corruption stinks all about you. Perhaps in time, you may find a lather pure enough to wash the stench from your very essence, but only through much effort and strife may you achieve such a feat.*
 
 end
+
+
 
 ## Turn-Ins
 

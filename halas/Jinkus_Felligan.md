@@ -1,4 +1,6 @@
 # Jinkus Felligan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Jinkus Felligan says:** The scales o' the Shamans o' Justice dinnae tip in yer favor. Ye'd best flee while ye still have the chance.
 end
+
+
 
 ## Turn-Ins
 

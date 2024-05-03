@@ -1,4 +1,6 @@
 # General Bragmur
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**General Bragmur says:** Please keep yer voice down I am busy here. If you do not mind I would ask that ya kindly leave.
 end
+
+
 
 ## Turn-Ins
 

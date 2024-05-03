@@ -1,7 +1,11 @@
 # The Spirit of Akelha-Ra
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **The Spirit of Akelha-Ra despawns.**
 end
+
+
 
 ## Dialog
 
@@ -48,6 +54,8 @@ end
 
 >*The Spirit of Akelha-Ra  opens her mouth to speak, but the voice in your head is no longer audible. You reach forward to touch the fading shadow of a creature and draw back in horror as your hand disrupts the spirit before you. She evaporates into the shadows once more.*
 end
+
+
 
 ## Turn-Ins
 

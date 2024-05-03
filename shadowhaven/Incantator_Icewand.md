@@ -1,4 +1,6 @@
 # Incantator Icewand
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Sentry Kale
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Sentry Kale says:** Very well, it is a minor task, but I am sure you are quite capable. Lately the food supply in the guards' galley has been dwindling. I fear that there are spiders amongst us who are pilfering our food when we do not see. I would ask of you to please seek out and eliminate these vermin for us. Bring their legs back to me and I shall reward you for your effort.
 end
+
+
 
 ## Turn-Ins
 

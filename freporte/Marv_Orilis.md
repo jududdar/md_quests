@@ -1,4 +1,6 @@
 # Marv Orilis
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -132,6 +134,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Marv Orilis says:** The Dismal Rage has many enemies still here in Freeport that would uncover us and see us destroyed. Lately a wizard of the Arcane Scientists, Yovik Splegle, has been asking questions about Opal Darkbriar. Find this inquisitive wizard and silence him for good. When you have completed the task return to me with the wizards head.
 
 end
+
+
 
 ## Turn-Ins
 

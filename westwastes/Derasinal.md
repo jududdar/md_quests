@@ -1,4 +1,6 @@
 # Derasinal
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -78,6 +80,8 @@ else
 >**Derasinal says:** We do have many living enemies.  Let me correct this oversight.
 
 end
+
+
 
 ## Turn-Ins
 

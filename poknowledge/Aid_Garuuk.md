@@ -1,5 +1,7 @@
 # Aid Garuuk
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@ else
 >**Aid Garuuk says:** Umm, on secund thought, maybe you shudn't help me after all. Da trolls where I come frum aren't as kind an' undurstandin' as I am.
 
 end
+
+
 
 ## Turn-Ins
 

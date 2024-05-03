@@ -1,4 +1,6 @@
 # Kenta Renlas
+
+
 ## Dialog
 
 **You say:** `hail`

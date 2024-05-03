@@ -1,15 +1,23 @@
 # Sentry Xyrin
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *overwhelming* for 1200 seconds
+
+
 ## Timer(s)
 
 >**Sentry Xyrin says:** Heeelp!  The evil undead on this isle are overwhelming!
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -42,6 +50,8 @@ else
 >**Sentry Xyrin says:** The passion of the Queen of Love does not favor you. Begone from my sight!
 
 end
+
+
 
 ## Turn-Ins
 
@@ -77,6 +87,8 @@ Your faction standing with [Knights of Truth](/faction/281) got better (<span cl
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 4) then
@@ -97,6 +109,8 @@ elseif(e.wp == 5) then
 
 **Sentry Xyrin despawns.**
 end
+
+
 
 ## Timer(s)
 

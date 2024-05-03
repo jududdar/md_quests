@@ -1,7 +1,11 @@
 # Legionnaire Marais
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -15,6 +19,8 @@ elseif(e.timer == "die") then
 **Legionnaire Marais despawns.**
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -23,6 +29,8 @@ end
 
 >*Legionnaire Marais looks up at you wearily, 'Corporal Donfeld?'*
 end
+
+
 
 ## Turn-Ins
 

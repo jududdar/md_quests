@@ -1,4 +1,6 @@
 # Nindle Hogster
+
+
 ## Dialog
 
 **You say:** `hail`

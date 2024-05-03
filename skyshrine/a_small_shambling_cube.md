@@ -1,4 +1,6 @@
 # a small shambling cube
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*a small shambling cube emits a low hum.*
 end
+
+
 
 ## On NPC Death
 

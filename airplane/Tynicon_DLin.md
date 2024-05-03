@@ -1,7 +1,11 @@
 # Tynicon DLin
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -41,6 +45,8 @@
 
 >**Tynicon DLin says:** Only the most powerful and vile of shadow knights manage to complete this test. Return to me an Efreeti War Axe, some Dulcet Nectar, a Bloodstained Hilt, and a Blood Sky Ruby. Doing so will earn you the right to wield the Drinker of Blood.
 end
+
+
 
 ## Turn-Ins
 
@@ -120,6 +126,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Lookout Girols
+
+
 ## Dialog
 
 **You say:** `hail`

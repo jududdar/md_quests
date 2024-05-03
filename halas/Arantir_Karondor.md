@@ -1,7 +1,11 @@
 # Arantir Karondor
+
+
 ## On NPC Spawn
 
 **Set a timer** named *ArantirDepop* for 640 seconds
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -81,6 +85,8 @@ Your faction standing with [Truespirit](/faction/404) got better (<span class='t
 **Arantir Karondor despawns.**
 end
 
+
+
 ## Turn-Ins
 
 
@@ -144,6 +150,8 @@ eq.set_global("wizepicB","1",1,"F");
 **Set a timer** named *ArantirDepop* for 640 seconds
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

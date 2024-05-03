@@ -1,4 +1,6 @@
 # a dwarven smith
+
+
 ## Dialog
 
 **You say:** `ringmail`
@@ -13,6 +15,8 @@
 
 >**a dwarven smith says:** Okay, then! The first item you can get back for me is my brass shield. Up on that hill, over where the trainees practice, there is usually an instructor. Last time I saw my shield, it was in the hands of one of those blasted lackeys. Bring it back to me!
 end
+
+
 
 ## Turn-Ins
 

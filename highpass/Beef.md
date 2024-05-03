@@ -1,4 +1,6 @@
 # Beef
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -27,6 +29,8 @@ elseif(e.signal == 3) then
 
 >**Beef says:** BWAHAHA HA!! Yoo werk fer Mister Axe now. Hehehe!!
 end
+
+
 
 ## Dialog
 

@@ -1,4 +1,6 @@
 # Brugga
+
+
 ## Dialog
 
 if(e.language == 19 and e.other:GetLanguageSkill(19) >= 100) then
@@ -41,6 +43,8 @@ else
 
  >*Brugga 'does not appear to understand you.'*
 end
+
+
 
 ## Turn-Ins
 

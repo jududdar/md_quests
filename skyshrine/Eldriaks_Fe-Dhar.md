@@ -1,4 +1,6 @@
 # Eldriaks Fe-Dhar
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then
@@ -105,6 +107,8 @@ if( **Faction is** > Warmly) then
 >**Eldriaks Fe-Dhar says:** First you must awaken his spirit by speaking where you found his corpse. You must say exactly this: 'You are one but two. Your vengeance shall find a home.'  Hopefully this will bring him to you. You must then hurry and splash the vial of Kromzek blood upon his ghostly form. The taste of the blood with bring him fully into existence. You must then do battle with him. If you defeat him, you will have split his being which will be represented by two more shades. Give them each a flawless diamond. He will comply and choose these gems as a phylactery. Once you have the dual phylactery, you need only combine them with the assembled naginata in a forge to create the Ethereal Bladed Naginata. Bring me the the weapon.
 
 end
+
+
 
 ## Turn-Ins
 

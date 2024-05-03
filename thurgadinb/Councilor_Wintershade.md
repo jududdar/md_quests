@@ -1,4 +1,6 @@
 # Councilor Wintershade
+
+
 ## Dialog
 
 **You say:** `hail`

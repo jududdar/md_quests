@@ -7,6 +7,8 @@
 
 
 
+
+
 ## Arrive at Waypoint Script
 
 if((e.wp == 2) or (e.wp == 9) or (e.wp == 14) or (e.wp == 21) or (e.wp == 24)) then
@@ -18,12 +20,18 @@ if((e.wp == 2) or (e.wp == 9) or (e.wp == 14) or (e.wp == 21) or (e.wp == 24)) t
 **Signaled to:**  [Ember](/npc/33065)
 end
 
+
+
 ## Signals
 
 >**Blixkin Entopop says:** There you are!  Stay close to me, girl.
+
+
 ## Combat
 
 >**Blixkin Entopop says:** What do you think you are doing?!?
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -114,6 +122,8 @@ else
 >I wonder how much I could get for the tongue of a blithering fool? Leave before I decide to find out for myself.
 
 end
+
+
 
 ## Turn-Ins
 

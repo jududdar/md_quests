@@ -1,4 +1,6 @@
 # Lerin Sardor
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 2) then

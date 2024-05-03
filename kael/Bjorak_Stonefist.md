@@ -1,4 +1,6 @@
 # Bjorak Stonefist
+
+
 ## Dialog
 
 **You say:** `hail`

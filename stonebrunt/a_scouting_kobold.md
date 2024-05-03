@@ -1,4 +1,6 @@
 # a scouting kobold
+
+
 ## Dialog
 
 **You say:** `hail`

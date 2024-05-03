@@ -1,4 +1,6 @@
 # Salic Whispersong
+
+
 ## Dialog
 
 **You say:** `hail`

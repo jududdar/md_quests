@@ -1,4 +1,6 @@
 # Loreseeker Maelin
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);
@@ -32,9 +34,13 @@ if ( qglobals.zebuxoruk == "2" and **You possess item:**  <img style="background
 
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 900 seconds
+
+
 ## Timer(s)
 
 **Loreseeker Maelin despawns.**

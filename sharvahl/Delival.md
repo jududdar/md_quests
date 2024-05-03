@@ -1,7 +1,11 @@
 # Delival
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Signals
 
 if(e.signal==1) then
@@ -18,6 +22,8 @@ elseif(e.signal==2) then
 **Delival despawns.**
 end
 
+
+
 ## Dialog
 
 **You say:** `tuck`
@@ -32,6 +38,8 @@ end
 
  
 end
+
+
 
 ## Turn-Ins
 
@@ -56,6 +64,8 @@ Your faction standing with [Guardians of Shar Vahl](/faction/1513) got better (<
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 9 <img src='/static/icons/item_646.png' width='14' height='14'/> 2 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

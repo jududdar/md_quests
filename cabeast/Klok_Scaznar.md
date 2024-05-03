@@ -1,4 +1,6 @@
 # Klok Scaznar
+
+
 ## Dialog
 
 **You say:** `Hail`

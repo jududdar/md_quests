@@ -1,4 +1,6 @@
 # Watcher Quen
+
+
 ## Dialog
 
 **You say:** `hail`

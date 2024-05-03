@@ -1,4 +1,6 @@
 # Guard F-Lok
+
+
 ## Dialog
 
 **You say:** `supplies`
@@ -92,6 +94,8 @@
 >**Guard F-Lok says:** Speak not of those vile paladins within Neriak!
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -107,6 +111,8 @@ elseif(e.signal == 2) then
 
 eq.start(36);
 end
+
+
 
 ## Arrive at Waypoint Script
 

@@ -1,4 +1,6 @@
 # Legionnaire Loxscog
+
+
 ## Dialog
 
 **You say:** `hail`

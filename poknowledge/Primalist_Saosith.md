@@ -1,5 +1,7 @@
 # Primalist Saosith
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 e.self:Say("Welcome, traveler, to New Tanaan. All citizens of New Tanaan have come together in welcoming Norrath's curious travelers who crave knowledge and a path to better themselves individually. What little help I alone can offer is extended to the Beastlords of Norrath, for as I was once one of them in a time long since past. If you are a Beastlord, then perhaps what spells that I have penned, though neither unique nor rare to your world, would be of use. If through your endeavors upon the planes you happen to come across fledgling manuscripts 
 end
+
+
 
 ## Turn-Ins
 

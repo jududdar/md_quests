@@ -1,10 +1,14 @@
 # Instructor Anom
 local count;
+
+
 ## On NPC Spawn
 
 count = 0;
 
 **Set a timer** named *train* for 7 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -60,6 +64,8 @@ count = 0;
 **Set a timer** named *train* for 7 seconds
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -72,6 +78,8 @@ if(e.signal == 2) then
 
 >**Instructor Anom says:** Good good! Ease up on him, Mogol. Both of you, take a break for a moment.
 end
+
+
 
 ## Turn-Ins
 

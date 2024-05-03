@@ -50,6 +50,8 @@ return true;
 
 
 return false;
+
+
 ## Signals
 
 rid, gid, cid = nil, nil, nil;
@@ -98,11 +100,15 @@ cid = client:GetID();
 eq.debug("Flagger NPC will acknowledge "..client:GetName().."'s raid/group; Raid ID == "..(rid or "(nil)")..";  Group ID == "..(gid or "(nil)"), 1);
 end
 
+
+
 ## On NPC Spawn
 
 flags = 0;
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "depop" ) then
@@ -110,6 +116,8 @@ if ( e.timer == "depop" ) then
 
 **A Planar Projection despawns.**
 end
+
+
 
 ## Dialog
 

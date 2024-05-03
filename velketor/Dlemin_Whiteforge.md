@@ -1,4 +1,6 @@
 # Dlemin Whiteforge
+
+
 ## Dialog
 
 **You say:** `hail`

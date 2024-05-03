@@ -1,7 +1,11 @@
 # Blinza Toepopal
+
+
 ## On NPC Spawn
 
 **Set a timer** named *jillin* for 550 seconds
+
+
 ## Timer(s)
 
 if(timer == "jillin") then
@@ -9,6 +13,8 @@ if(timer == "jillin") then
 
 >**Blinza Toepopal says:** [Jillin]? Jillin? Where did he go? Hrumph!
 end
+
+
 
 ## Dialog
 
@@ -34,6 +40,8 @@ end
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_858.png" alt="" /> <a
                                 href="/item/13959" data-url="13959" class="tooltip-link link">Carrot Stew</a>
 end
+
+
 
 ## Turn-Ins
 

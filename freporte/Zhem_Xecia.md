@@ -1,4 +1,6 @@
 # Zhem Xecia
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -33,6 +35,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Zhem Xecia says:** So you think you are ready to face the enemies of the Dismal Rage? Be careful to not be blinded by your arrogance or anger. You must focus the rage in your soul and refine it into patient and insidious hatred. A cleric of the Sentries of Passion. Ulia Yovar. has been attempting to uncover our allies among the citizens of Freeport and is believed to be in hiding in the sewer tunnels under the western quarter of Freeport. Seek this enemy of the Dismal Rage and bring me her head.
 
 end
+
+
 
 ## Turn-Ins
 

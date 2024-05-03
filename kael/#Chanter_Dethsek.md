@@ -1,4 +1,6 @@
 # Chanter Dethsek
+
+
 ## Dialog
 
 **You say:** `hail`

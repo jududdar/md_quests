@@ -1,4 +1,6 @@
 # Incantator Verloir
+
+
 ## Dialog
 
 **You say:** `hail`

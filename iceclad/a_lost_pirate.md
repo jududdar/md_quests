@@ -1,4 +1,6 @@
 # a lost pirate
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@
 
 >*a lost pirate stares at the water. 'I'm rememberin' that. Yah. Ami's book. Thats what I drew, erm, the fifth part o'n. It got lost in the ocean too.' He looks at you. 'Yer wantin' ta go out and find all o' these pieces?'*
 end
+
+
 
 ## Turn-Ins
 

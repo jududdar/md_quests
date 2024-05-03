@@ -1,4 +1,6 @@
 # Grizlin Bloodfang
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,7 +33,9 @@
 
 >**Grizlin Bloodfang says:** Not know where find strong rope. For mighty harpoon, need very strong bone or harpoon break rope too much. Maybe furless ones with steel canoe have mighty rope.
 
- ## Turn-Ins
+ 
+
+## Turn-Ins
 
 
 

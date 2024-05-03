@@ -1,4 +1,6 @@
 # Riggin Vix
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,5 +1,7 @@
 # Kaiaren
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,6 +16,8 @@
 
 >**Kaiaren says:** Eh? What's that? Bah! That was destroyed long ago. Don't waste my time with fairy taAAAAAGGHHH GET IT AWAY!!!! HELP!!! They're all over MEHEHEHEHEEEEEEee!!
 end
+
+
 
 ## Turn-Ins
 
@@ -64,6 +68,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

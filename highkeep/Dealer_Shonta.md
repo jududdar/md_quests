@@ -1,4 +1,6 @@
 # Dealer Shonta
+
+
 ## Dialog
 
 **You say:** `hail`

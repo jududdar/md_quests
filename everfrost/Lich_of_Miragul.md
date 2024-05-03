@@ -1,4 +1,6 @@
 # Lich of Miragul
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Lich of Miragul says:** Areeeeewwwww
 end
+
+
 
 ## Turn-Ins
 

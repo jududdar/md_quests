@@ -1,4 +1,6 @@
 # Guard Baldvin
+
+
 ## Dialog
 
 **You say:** `hail`

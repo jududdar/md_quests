@@ -1,6 +1,8 @@
 # Taldrik Stumpystout
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_979.png" alt="" /> <a
                                 href="/item/17070" data-url="17070" class="tooltip-link link">Holy Cask</a>
 end
+
+
 
 ## Turn-Ins
 

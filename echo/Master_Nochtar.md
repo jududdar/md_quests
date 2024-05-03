@@ -1,4 +1,6 @@
 # Master Nochtar
+
+
 ## Dialog
 
 **You say:** `hail`

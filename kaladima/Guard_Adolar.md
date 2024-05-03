@@ -1,4 +1,6 @@
 # Guard Adolar
+
+
 ## Dialog
 
 **You say:** `armor`

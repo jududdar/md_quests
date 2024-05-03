@@ -1,4 +1,6 @@
 # The Dragon Sage
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
                                 href="/item/1782" data-url="1782" class="tooltip-link link">Giant Loyalist Token</a>
 end
+
+
 
 ## Turn-Ins
 

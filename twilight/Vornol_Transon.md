@@ -1,4 +1,6 @@
 # Vornol Transon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@
 
 >**Vornol Transon says:** For the bracer you will have to bring back to me a meteor jewel, talisman of moisture, and a vial of aqua waters.
 end
+
+
 
 ## Turn-Ins
 

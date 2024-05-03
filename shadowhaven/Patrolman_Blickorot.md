@@ -1,4 +1,6 @@
 # Patrolman Blickorot
+
+
 ## Dialog
 
 **You say:** `hail`

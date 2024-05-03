@@ -6,6 +6,8 @@
 
 
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -31,6 +33,8 @@ elseif(e.wp == 10) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Dialog
 
@@ -94,6 +98,8 @@ else
 
 
 end
+
+
 
 ## Turn-Ins
 

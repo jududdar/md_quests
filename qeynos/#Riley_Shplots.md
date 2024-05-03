@@ -1,7 +1,11 @@
 # Riley Shplots
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Dialog
 
 **You say:** `bloodsaber`
@@ -10,6 +14,8 @@
 
 >*Riley Shplots shakes visibly and says, 'Oh, no. I knew this would happen one day. Please don't hurt me! I had very little to do with this plague, though it is quite a nice one, you must admit. I was just a courier. I'll come quietly. I don't want any trouble. My small contribution to the glory of Bertoxxulous has already been given but I certainly don't want to go to meet him just yet!'*
 end
+
+
 
 ## Turn-Ins
 
@@ -32,6 +38,8 @@ eq.set_global("invest_badge","second_suspect",3,"F");
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -39,6 +47,8 @@ if(e.signal == 1) then
 
 eq.start(65);
 end
+
+
 
 ## Timer(s)
 

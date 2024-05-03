@@ -1,5 +1,7 @@
 # Spiritist Ragnar
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -61,6 +63,8 @@ else
 >**Spiritist Ragnar says:** I am sorry, but I am right in the middle or something.
 
 end
+
+
 
 ## Turn-Ins
 

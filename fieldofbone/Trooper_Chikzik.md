@@ -1,4 +1,6 @@
 # Trooper Chikzik
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,11 +1,15 @@
 # Tanik Greskil
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *faint* for 1 seconds
 
 **Set a timer** named *moveloc* for 120 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +30,8 @@
 
 >**Tanik Greskil says:** Drat! Are you telling me you don't have one with you? Run back to Thurgadin at once and speak with Frundle, she can make you one. I will do what I can to stay alive. I may need to move about a bit to keep from being discovered. Hurry now outlander, you're my only hope.
 end
+
+
 
 ## Turn-Ins
 
@@ -53,6 +59,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Timer(s)
 
 if(e.timer == "faint") then
@@ -71,6 +79,8 @@ elseif(e.timer == "moveloc") then
 
 **Tanik Greskil despawns.**
 end
+
+
 
 ## On NPC Death
 

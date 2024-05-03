@@ -1,4 +1,6 @@
 # Lord Prismwing
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Lord Prismwing says:** I am in need of some help. One of my heralds was sent to deliver a message to the Othmir in the Cobalt Scar some time ago and has not returned. I fear for his safety, if your travels should lead you in that direction please attempt to find news of my missing herald.
 end
+
+
 
 ## Turn-Ins
 

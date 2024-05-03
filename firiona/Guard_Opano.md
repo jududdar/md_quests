@@ -1,4 +1,6 @@
 # Guard Opano
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Guard Opano says:** Within that tomb laid a pitfall to doom.  We found ourselves trapped.  We had to creep through dark halls, fearing death.  Every time hope sprang forth, we would find ourselves trapped again.  Be it by pitfall, hidden passage or locked door...  hope mocked us at every turn.
 end
+
+
 
 ## Turn-Ins
 

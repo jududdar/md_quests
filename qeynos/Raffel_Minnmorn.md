@@ -1,7 +1,11 @@
 # Raffel Minnmorn
+
+
 ## On NPC Spawn
 
 **Set a timer** named *talk* for 600 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +29,8 @@
 
 **Raffel Minnmorn attacks you.**
 end
+
+
 
 ## Timer(s)
 

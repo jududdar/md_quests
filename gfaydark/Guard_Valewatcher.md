@@ -1,4 +1,6 @@
 # Guard Valewatcher
+
+
 ## Dialog
 
 **You say:** `soldiers`

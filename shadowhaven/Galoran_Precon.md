@@ -1,4 +1,6 @@
 # Galoran Precon
+
+
 ## Dialog
 
 **You say:** `hail`

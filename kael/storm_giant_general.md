@@ -1,4 +1,6 @@
 # storm giant general
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Salczek the Fleshgrinder
+
+
 ## On NPC Spawn
 
 eq.set_next_hp_event(50);

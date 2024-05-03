@@ -1,6 +1,8 @@
 # a spiroc vanquisher
 local arrive = {};
 
+
+
 ## On NPC Spawn
 
 local spawnID = e.self:GetSpawnPointID();
@@ -29,6 +31,8 @@ elseif ( spawnID == 364322 ) then
 **Set a timer** named *arbiter* for 1 seconds
 end
 
+
+
 ## Signals
 
 
@@ -53,6 +57,8 @@ elseif ( e.signal == 3 ) then
 
 **Set a timer** named *expulser* for 1 seconds
 end
+
+
 
 ## Timer(s)
 
@@ -101,6 +107,8 @@ if ( not **spawned NPC:**  [a spiroc expulser](/npc/71011) ) then
 
 
 eq.stop_timer(e.timer);
+
+
 ## Combat
 
 if  a spiroc vanquisher enters combat  then
@@ -108,6 +116,8 @@ if  a spiroc vanquisher enters combat  then
 
 arrive[e.self:GetSpawnPointID()] = false;
 end
+
+
 
 ## Arrive at Waypoint Script
 

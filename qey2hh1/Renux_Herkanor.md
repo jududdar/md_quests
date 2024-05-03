@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 if( **Faction is** > Kindly and e.other:GetSkill(56) > 250) then
@@ -33,6 +35,8 @@ else
 
 >**Renux Herkanor says:** Go away! We don't have time for the likes of you.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Chadasl Dalsoeam
+
+
 ## Dialog
 
 **You say:** `hail`

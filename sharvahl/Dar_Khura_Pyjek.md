@@ -1,5 +1,7 @@
 # Dar Khura Pyjek
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@
 
 >**Dar Khura Pyjek says:** Tailfang has been responsible for many attacks. He is quite sly, and as yet our Taruun have been unable to find him. I saw him once, long ago. I was searching for bluecapped mushrooms among the stones when I saw something shiny underneath one of the rocks. As I got closer to look, Tailfang sprung at me with a dagger in hand no less!  I swear this on my honor, although I still cannot believe it myself. I tried to slay the little bugger, but he ran off. I did get his dagger though, it's yours if you bring me proof of his death.
 end
+
+
 ## Turn-Ins
 
 

@@ -1,4 +1,6 @@
 # Abigail
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -33,6 +35,8 @@ else
 >**Abigail says:** You have some nerve to approach a loyal member of the Paladins of Tunare! Run, while you can!
 
 end
+
+
 
 ## Turn-Ins
 

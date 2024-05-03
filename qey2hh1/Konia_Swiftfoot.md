@@ -8,6 +8,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ e.self:Say(string.format("Hello there, %s.  I am hosting a relay running contest
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_559.png" alt="" /> <a
                                 href="/item/20532" data-url="20532" class="tooltip-link link">Torch of Misty</a>
 end
+
+
 
 ## Turn-Ins
 

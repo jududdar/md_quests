@@ -2,9 +2,13 @@
 
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## On NPC Death
 
 free_spawn = math.random(2,6)
@@ -80,6 +84,8 @@ elseif(free_spawn > 5) then
 **Spawn NPC:**  [a freed soul](/npc/88093) at this location.
 end
 
+
+
 ## Combat
 
 if enraged spectral librarian enters combat  then
@@ -93,11 +99,15 @@ else
 **Set a timer** named *depop* for 300 seconds
 end
 
+
+
 ## Turn-Ins
 
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

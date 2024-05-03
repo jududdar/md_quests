@@ -1,6 +1,8 @@
 # Yaeorat
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Yaeorat says:** Ah, hello there stranger. I do not often receive visitors in my workshop, what brings you here today?
 end
+
+
 
 ## Turn-Ins
 

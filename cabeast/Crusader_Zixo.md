@@ -1,6 +1,8 @@
 # Crusader Zixo
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
                                 href="/item/18271" data-url="18271" class="tooltip-link link">A Ragged Book</a>
 end
+
+
 
 ## Turn-Ins
 

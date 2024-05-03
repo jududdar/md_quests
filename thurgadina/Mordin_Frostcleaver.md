@@ -4,6 +4,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -42,6 +44,8 @@
 
 >**Mordin Frostcleaver says:** This one's a bit tricky, ya toss four snow griffin eggs and a pack of spices in de oven. Ye must bake it just right or it's all gunna be wasted. When yer done bring it to Thoridain and if ye did it right he'll give ye his special seal. Just show Borannin that seal and yer shawl and he'll know that yer finished in the kitchen.
 end
+
+
 
 ## Turn-Ins
 

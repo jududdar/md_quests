@@ -1,6 +1,8 @@
 # Imxil Tbrow
 local factionId = 0;
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@ local factionId = 0;
 
 >**Imxil Tbrow says:** I have no desire to speak with anyone. That includes you!
 end
+
+
 
 ## Combat
 
@@ -19,6 +23,8 @@ e.self:CastToNPC():SetNPCFactionID(factionId);
 
 
 end
+
+
 
 
 ## Signals
@@ -135,6 +141,8 @@ if ( bard.valid ) then
 e.self:FaceTarget(bard);
 
 end
+
+
 
 ## Turn-Ins
 

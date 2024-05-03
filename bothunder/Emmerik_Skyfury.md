@@ -1,4 +1,6 @@
 # Emmerik Skyfury
+
+
 ## Combat
 
 if  Emmerik Skyfury enters combat  then
@@ -15,11 +17,15 @@ else
 **Stop timer** named *portals*
 end
 
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [\#\#Askr the Lost](/npc/209157) at (**y:** -1733, **x:** -1065)
 
 **Despawn all instances of:**  [\#Askr the Lost](/npc/209156)
+
+
 ## Timer(s)
 
 if ( e.timer == "portals" ) then

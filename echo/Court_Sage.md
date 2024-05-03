@@ -1,4 +1,6 @@
 # Court Sage
+
+
 ## Dialog
 
 **You say:** `hail`

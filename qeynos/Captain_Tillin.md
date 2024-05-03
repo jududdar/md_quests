@@ -1,4 +1,6 @@
 # Captain Tillin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -46,11 +48,15 @@
 >**Captain Tillin says:** Corruption among my guards!  Are you mad?  Begone with your wild accusations!
 end
 
+
+
 ## Signals
 
 >**Captain Tillin says:** Ah.  Good.  You have arrived.  [Executioner], could you please visit McNeal Jocub at Fish's Tavern.  He has violated our laws and the sentence is death.
 
 **Signaled to:**  [Executioner](/npc/1202)
+
+
 ## Turn-Ins
 
 local fang = 0;

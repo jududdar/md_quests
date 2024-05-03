@@ -1,4 +1,6 @@
 # an Iksar prisoner
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**an Iksar prisoner says:** Well some of the brainwashed short ones seem to know much of mechanical devices and such. Perhaps they have a tool that can get me out of these chains. If they have anything that looks useful bring it to me. I'm sure your help will be rewarded once I reach Cabilis.
 end
+
+
 
 ## Turn-Ins
 

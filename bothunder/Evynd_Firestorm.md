@@ -1,4 +1,6 @@
 # Evynd Firestorm
+
+
 ## Combat
 
 if  Evynd Firestorm enters combat  then
@@ -15,9 +17,13 @@ else
 **Stop timer** named *portals*
 end
 
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [\#Askr the Lost](/npc/209156) at (**y:** -1732, **x:** -1123)
+
+
 ## Timer(s)
 
 if ( e.timer == "portals" ) then

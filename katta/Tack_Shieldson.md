@@ -1,6 +1,8 @@
 # Tack Shieldson
 
 
+
+
 ## Dialog
 
 local rowle = eq.get_entity_list():GetMobByNpcTypeID(160207);
@@ -41,6 +43,8 @@ rowle:Emote("clears his throat and flashes a broken-toothed grin your way, 'Ye k
 
 >**Tack Shieldson says:** Ahhh, worthy o' Brell hisself or so they say. Ye know when I was just a pup, back before the exodus, me uncle used te talk about stompin' trolls and then sitting back with a  Boot Beer te celebrate the day's victory. I, ummm, really would be able te get in touch with me heritage were I able to sample some o' that fine stout. Ye'd be a true friend to the Validus Custodus fer helpin' us out friend. My thanks to ye in advance.
 end
+
+
 
 
 ## Turn-Ins

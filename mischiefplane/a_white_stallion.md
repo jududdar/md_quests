@@ -1,4 +1,6 @@
 # a white stallion
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*a white stallion stares at Soandso unblinking with colorless eyes.*
 end
+
+
 
 ## Turn-Ins
 

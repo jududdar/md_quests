@@ -1,7 +1,11 @@
 # a confused castaway
+
+
 ## On NPC Spawn
 
 **Set a timer** named *lie* for 1 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "lie" ) then
@@ -12,6 +16,8 @@ eq.stop_timer(e.timer);
 
 e.self:SetAppearance(3);
 end
+
+
 
 ## Dialog
 

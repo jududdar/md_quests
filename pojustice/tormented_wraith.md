@@ -1,6 +1,8 @@
 # tormented wraith
 
 
+
+
 ## Dialog
 
 if ( e.self:GetNPCTypeID() == 201055 ) then
@@ -13,6 +15,8 @@ else
 
 >*tormented wraith wails, sending a chill throughout your bones.*
 end
+
+
 
 ## On NPC Death
 

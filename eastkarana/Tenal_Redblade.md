@@ -1,5 +1,7 @@
 # Tenal Redblade
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 >**Tenal Redblade says:** What brings you to my home, Soandso? Do you seek knowledge of Rallos Zek and the great wars to come?
 end
+
+
 
 ## Turn-Ins
 

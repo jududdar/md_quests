@@ -1,4 +1,6 @@
 # Koajin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Koajin says:** You need my help to build one? I can help you, but I'll need my tools first. Then maybe when I have my tools I can break out of this rusty cage and run. My tools were taken when they first captured me. They used to force me to use them, show them our craft. I showed them what I could, fearing death, but I haven't seen them since. If you can find them, bring them here along with a suitable plate of metal and a sketch of the tsuba's design. Then I'll see what I can do.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Gorgalosk
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +30,8 @@
 
 **Gorgalosk attacks you.**
 end
+
+
 
 ## On NPC Death
 

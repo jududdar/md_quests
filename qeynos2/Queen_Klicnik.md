@@ -1,4 +1,6 @@
 # Queen Klicnik
+
+
 ## On NPC Death
 
 local rand = math.random(4);

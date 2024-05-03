@@ -1,4 +1,6 @@
 # Mojax Hikspin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Mojax Hikspin says:** How can it be that you do not know of Antonius Bayle? Was it not he who named this great continent of Antonica? Is it not he who rules over the most powerful city on Norrath? Surely you jest!
 end
+
+
 
 ## Turn-Ins
 
@@ -96,6 +100,8 @@ eq.start(eq.ChooseRandom(9,10));
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

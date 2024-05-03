@@ -1,4 +1,6 @@
 # Barrith the Brave
+
+
 ## Dialog
 
 **You say:** `Hail`

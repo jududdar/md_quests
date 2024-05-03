@@ -1,4 +1,6 @@
 # gnomish deserter
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**gnomish deserter says:** Yup.  This isn't such a bad spot.  It's nice and peaceful.  I can see for miles and every once in a while someone like you drops by to talk.  There's no guard duty and I don't have to say 'Arrrr' anymore.  That really starts to hurt your throat, you know.  The only problem I have anymore is my hand frozen to this box.  If ya find a way to fix it let me know.
 end
+
+
 
 ## Turn-Ins
 

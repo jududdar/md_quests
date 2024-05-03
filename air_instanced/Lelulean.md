@@ -1,7 +1,11 @@
 # Lelulean
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@
 
 >**Lelulean says:** Deception it is.  Proceed upward through the sky and return to me a rugous globe, a sky pearl, and a silken mask.  This will prove your abilities to me and I will reward you with an ivory mask.
 end
+
+
 
 ## Turn-Ins
 
@@ -85,6 +91,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Lelulean despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

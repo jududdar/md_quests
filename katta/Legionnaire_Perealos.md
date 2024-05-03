@@ -1,4 +1,6 @@
 # Legionnaire Perealos
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,7 +1,11 @@
 # Henna Treghost
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sing* for 1040 seconds
+
+
 ## Timer(s)
 
 local song;

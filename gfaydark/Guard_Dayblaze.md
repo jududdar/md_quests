@@ -1,4 +1,6 @@
 # Guard Dayblaze
+
+
 ## Dialog
 
 **You say:** `soldiers`

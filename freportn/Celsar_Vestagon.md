@@ -1,4 +1,6 @@
 # Celsar Vestagon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@
 
 >**Celsar Vestagon says:** If you require the binding of wounds you should speak with Palious Jartan in the temple. He will be glad to help you.
 end
+
+
 
 ## Turn-Ins
 

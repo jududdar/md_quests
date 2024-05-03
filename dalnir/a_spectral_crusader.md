@@ -1,4 +1,6 @@
 # a spectral crusader
+
+
 ## Dialog
 
 **You say:** `greenmist`
@@ -25,6 +27,8 @@
 
 >*a spectral crusader points to the ground. 'Beyond the doors lies a forge unlike any other.'*
 end
+
+
 
 ## Turn-Ins
 

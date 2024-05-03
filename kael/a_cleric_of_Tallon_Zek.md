@@ -1,4 +1,6 @@
 # a cleric of Tallon Zek
+
+
 ## Dialog
 
 **You say:** `hail`

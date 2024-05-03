@@ -1,4 +1,6 @@
 # Sentinel Yeljom
+
+
 ## Dialog
 
 **You say:** `hail`

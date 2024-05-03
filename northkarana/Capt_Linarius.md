@@ -1,4 +1,6 @@
 # Capt Linarius
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Capt Linarius says:** My guards have heard rumors of this Lord Grimrot. It is said that he is a powerful shadowknight who is raising an army of undead. Such things should be reported to the Temple of Life. Journey to Qeynos and speak with Camlend Serbold. Tell him of Lord Grimrot.
 end
+
+
 
 ## Turn-Ins
 

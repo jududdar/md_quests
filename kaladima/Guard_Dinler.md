@@ -1,4 +1,6 @@
 # Guard Dinler
+
+
 ## Dialog
 
 **You say:** `armor`

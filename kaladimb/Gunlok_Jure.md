@@ -1,4 +1,6 @@
 # Gunlok Jure
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@ else
 >**Gunlok Jure says:** How dare you approach a member of the Clerics of Underfoot?!  Dogs such as you lie in the same bed as aviaks and ogres!
 
 end
+
+
 
 ## Turn-Ins
 

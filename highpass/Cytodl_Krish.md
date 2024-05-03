@@ -1,4 +1,6 @@
 # Cytodl Krish
+
+
 ## Dialog
 
 
@@ -42,9 +44,13 @@ else
 
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *timecheck* for 60 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "timecheck" and not e.self:IsEngaged() ) then
@@ -63,6 +69,8 @@ if ( zoneTime > 18 or zoneTime < 8 ) then
 **Cytodl Krish despawns.**
 
 end
+
+
 
 ## On NPC Death
 

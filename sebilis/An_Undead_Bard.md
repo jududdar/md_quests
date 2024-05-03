@@ -1,8 +1,12 @@
 # An Undead Bard
 local spawn;
+
+
 ## On NPC Spawn
 
 spawn = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -54,6 +58,8 @@ spawn = 0;
 >**An Undead Bard says:** Give me the Mystical Lute Body you have. I will return it, don't worry. I only wish to hold an instrument one last time before I leave.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -77,6 +83,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 spawn = 1;
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

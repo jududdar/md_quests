@@ -1,4 +1,6 @@
 # Nytal Lior
+
+
 ## Dialog
 
 **You say:** `hail`

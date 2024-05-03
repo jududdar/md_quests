@@ -1,6 +1,8 @@
 # Yuin Starchaser
 
 
+
+
 ## Dialog
 
 
@@ -104,6 +106,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 >**Yuin Starchaser says:** The entrance to the Citadel can be found on the northern edge of the Greater Faydark. Once within the citadel seek out the Orc Thaumaturgist and obtain his book of spells. Once you are in possession of the Orc Thaumaturgists Spell Book return it to me so that the masters of the Keepers of the Art may study its contents.
 end
+
+
 
 ## Turn-Ins
 

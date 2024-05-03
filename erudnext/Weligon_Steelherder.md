@@ -1,4 +1,6 @@
 # Weligon Steelherder
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -232,6 +234,8 @@ else
 
 >**Weligon Steelherder says:** We do not award the Deepwater harpoon to just any paladin. Nobility is all well and good, but you must still prove yourself.  We have heard rumors of a very distressing matter.  Perhaps it is your calling.  Are you ready to [prove allegiance to Erudin] and earn the Deepwater harpoon?
 end
+
+
 
 ## Turn-Ins
 

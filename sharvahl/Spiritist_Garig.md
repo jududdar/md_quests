@@ -1,5 +1,7 @@
 # Spiritist Garig
 local count = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -189,9 +191,13 @@ local count = 0;
 >**Spiritist Garig says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *spirit* for 8 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -242,6 +248,8 @@ count = 0;
 
 **Set a timer** named *spirit* for 8 seconds
 end
+
+
 
 ## Turn-Ins
 

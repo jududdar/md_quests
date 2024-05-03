@@ -1,4 +1,6 @@
 # Barn Bloodstone
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 6) then
@@ -11,6 +13,8 @@ elseif(e.wp == 4 or e.wp == 7) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Dialog
 

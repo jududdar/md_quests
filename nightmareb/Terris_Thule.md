@@ -9,11 +9,15 @@ local DEFILER_LARGE_TYPE = 221044;
 local GARG_TYPE = 221043;
 local GARG_SPAWN_IDS = { 365397, 366053, 366176, 367232 };
 
+
+
 ## On NPC Death
 
 eq.spawn2(PLANAR_PROJECTION_TYPE, 0, 0, e.self:GetX(), e.self:GetY(), e.self:GetZ(), 0);
 
 eq.signal(PLANAR_PROJECTION_TYPE, e.killer:GetID()); 
+
+
 ## On NPC Spawn
 
 eq.set_next_hp_event(95);
@@ -205,6 +209,8 @@ break;
 
 end
 
+
+
 ## Combat
 
 if  Terris Thule enters combat  then
@@ -220,6 +226,8 @@ else
 
 **Stop timer** named *boundscheck*
 end
+
+
 
 ## Timer(s)
 

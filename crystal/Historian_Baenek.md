@@ -1,4 +1,6 @@
 # Historian Baenek
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -79,6 +81,8 @@
 
 >**Historian Baenek says:** We call them crystal widows.  You will understand when you see them.  Then there are the stalagterrors.  You may not realize they are there until they open their great maw to devour you as they wrap their frosty tentacles around you.  A recent arrival have been the Ry'Gorr.  They had started mining the tunnels and have not yet discovered our presence here for we kill all who wander too close.  There may be others we have not seen before, so be wary.
 end
+
+
 
 ## Turn-Ins
 

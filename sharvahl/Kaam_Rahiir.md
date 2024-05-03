@@ -1,7 +1,11 @@
 # Kaam Rahiir
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 10 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then
@@ -13,6 +17,8 @@ e.self:SetAppearance(1);
 **Stop timer** named *1*
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +27,8 @@ end
 
 >**Kaam Rahiir says:** May I help you?
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Gracie F-Liler
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Gracie F-Liler says:** Do you like her? I found her injured one day just outside the outpost. She just seems to hang around now. I don't blame her though. It's much safer in here than out there.
 end
+
+
 
 ## Turn-Ins
 

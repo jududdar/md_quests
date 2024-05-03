@@ -1,7 +1,11 @@
 # a greater spirit
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +29,8 @@
 
 **a greater spirit despawns.**
 end
+
+
 
 ## Timer(s)
 

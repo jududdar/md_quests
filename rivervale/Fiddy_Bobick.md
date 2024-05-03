@@ -5,6 +5,8 @@
   
   
   
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 6) then
@@ -12,6 +14,8 @@ if(e.wp == 6) then
 
 >**Fiddy Bobick says:** When will Wickystick send help?!
 end
+
+
 
 ## Dialog 
 
@@ -28,6 +32,8 @@ end
 >**Fiddy Bobick says:** Well, it's about blasted time!  The ship was about to sink.  Wickystick finally managed to send the troops in!  The problem, mate, is piranha !!  What?!!  That's what I said.  Piranha!  The lake is infested with the little buggers.  More and more every sunrise.  They're chomping down all our food supply.  You have gotta get your can in the drink and kill them.  Take one of their teeth to old Wickystick and see what she has to say about Fiddy then!  I will also give you some booty for any teeth you pull out of this river.  Well, get going, Deputy Soandso!
 end
  
+
+
 ## Turn-Ins
 
 

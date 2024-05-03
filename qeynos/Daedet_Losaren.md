@@ -1,4 +1,6 @@
 # Daedet Losaren
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -170,6 +172,8 @@ elseif(fac > 5) then
 
 
  
+
+
 
 ## Turn-Ins
 

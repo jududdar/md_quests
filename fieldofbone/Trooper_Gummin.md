@@ -1,4 +1,6 @@
 # Trooper Gummin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Gummin says:** Blast! The masters have condemned me to a life of sobriety and bloodshed! At least I still have bloodshed. But I would like one last drink. I would like a bottle of Legion Lager from Cabilis. Bring me the lager and the legion order and then I shall sign it.
 end
+
+
 
 ## Turn-Ins
 

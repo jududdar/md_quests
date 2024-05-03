@@ -1,4 +1,6 @@
 # Princess Lenya Thex
+
+
 ## On NPC Spawn
 
 **Set a timer** named *yay* for 600 seconds
@@ -8,6 +10,8 @@
 **Princess Lenya Thex shouts:** <span class="text-danger">I am free..</span>
 
 >*Princess Lenya Thex <glug>'  She motions to you to follow her to shore.'*
+
+
 ## Timer(s)
 
 if(e.timer=="yay") then
@@ -15,6 +19,8 @@ if(e.timer=="yay") then
 
 **Princess Lenya Thex despawns.**
 end
+
+
 
 ## Dialog
 
@@ -42,6 +48,8 @@ end
 
 >**Princess Lenya Thex says:** The Silent Watch are the Royal Family's guardians. If you run into one, maybe he'll teach you a lesson or two!
 end
+
+
 
 ## Turn-Ins
 

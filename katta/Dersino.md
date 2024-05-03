@@ -1,6 +1,8 @@
 # Dersino
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Dersino says:** Hello stranger. Im very busy with my work, is there something specific you need to speak to me about?
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # Marl Kastane
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -108,6 +110,8 @@ if **Faction** >= Apprehensive +23 then
 >**Marl Kastane says:** It would seem we have no choice, and this is our only hope. I must first make a dark shroud. To do this I must stain it with the blood of an innocent. Go find me this rare blood so I can start the creating of the shroud.
 
 end
+
+
 
 ## Turn-Ins
 

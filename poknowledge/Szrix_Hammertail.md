@@ -47,6 +47,8 @@ local TRIGGERS = {
 "black insanity",
 };
 
+
+
 ## Dialog
 
 **You say:** `hail`

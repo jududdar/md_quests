@@ -1,4 +1,6 @@
 # Leraena Shelyrak
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -109,6 +111,8 @@ else
 
 >**Leraena Shelyrak says:** You are ready to strike at the body of the kobold shamans power. There is no reasoning with the Kobolds thus there shall be no peace in our beloved lands until their devotion to their wicked deity ceases. Return once again to the Warrens and bring me the unholy symbol worn by the High Shaman.
 end
+
+
 
 ## Turn-Ins
 

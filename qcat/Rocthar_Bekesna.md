@@ -1,4 +1,6 @@
 # Rocthar Bekesna
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -41,6 +43,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Rocthar Bekesna says:** The Priests of Life and Knights of Thunder often travel the roads from Qeynos carrying messages for the farmers of the Plains of Karana and the Knights of Truth in Freeport on the opposite coast of Antonica. We have recently been sending Bloodsabers to the Plains of Karana in search of a possible location for a new hidden temple should the need arise. One of the messengers of the Knights of Thunder has alerted the peasants of the plains the possibility of a Bloodsaber presence there and is using them to track our motions. Find the messenger, Lukas Hergo, and bring me his head.
 
 end
+
+
 
 ## Turn-Ins
 

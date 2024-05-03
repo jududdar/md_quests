@@ -4,6 +4,8 @@ local SpawnY = 0;
 local SpawnZ = 0;
 local SpawnH = 0;
 
+
+
 ## On NPC Spawn
 
 SpawnX = e.self:GetX();
@@ -17,6 +19,8 @@ SpawnH = e.self:GetHeading();
 
 
 e.self:SetSkill(11, 250);
+
+
 
 
 ## Combat
@@ -34,6 +38,8 @@ else
 
 e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
 end
+
+
 
 ## Timer(s)
 

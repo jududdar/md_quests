@@ -1,4 +1,6 @@
 # Palti McGar
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +12,8 @@
 
 >**Reiker Rikes says:** I be Reiker Rikes! The fastest gnome in the woods!
 end
+
+
 
 ## Turn-Ins
 

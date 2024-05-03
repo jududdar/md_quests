@@ -1,4 +1,6 @@
 # Mose Chewbeard
+
+
 ## Dialog
 
 **You say:** `hail`

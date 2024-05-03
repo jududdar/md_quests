@@ -1,4 +1,6 @@
 # Amat Iuziq
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -187,6 +189,8 @@
 
 >**Amat Iuziq says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
+
+
 
 ## Turn-Ins
 

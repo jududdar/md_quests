@@ -1,4 +1,6 @@
 # Edgar Lemoof
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Edgar Lemoof says:** For the earth blessed crook you need to bring me an astral jewel, mark of fauna, an etched fire emerald of nautre, and a vial of moon dew.
 end
+
+
 
 ## Turn-Ins
 

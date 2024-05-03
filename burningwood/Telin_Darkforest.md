@@ -1,5 +1,7 @@
 # Telin Darkforest
 
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then
@@ -71,6 +73,8 @@ else
 
 >**Telin Darkforest says:** I can not trust you with such important information, yet.
 end
+
+
 
 ## Turn-Ins
 

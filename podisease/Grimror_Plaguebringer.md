@@ -1,4 +1,6 @@
 # Grimror Plaguebringer
+
+
 ## On NPC Spawn
 
 local sp = e.self:GetSpawnPointID();
@@ -15,6 +17,8 @@ local sp = e.self:GetSpawnPointID();
 local spawn = eq.get_entity_list():GetSpawnByID(sp);
 
 spawn:SetRespawnTimer(3000);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -50,6 +54,8 @@ spawn:SetRespawnTimer(3000);
 
 >**Grimror Plaguebringer says:** Grimror need bile, dat stuff es strong here! But Grimror keent seem to git eet all. Bile comz from da leetle bugs. Keel little bugs, and geeve Grimror dere leetel bodiez and Grimror give yuuz anyting dat yuuz want. Dere on four leetel buggiez dat Grimror still neez, two uf dem come from da fliez, one comez from da wurmiez, and one comez from the moss-skeeterz. Yuuz bring Grimror dere lavas and Grimror geeve yuuz, and yuuz freends, anyting yuuz want
 end
+
+
 
 ## Turn-Ins
 

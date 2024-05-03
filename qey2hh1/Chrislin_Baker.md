@@ -1,6 +1,8 @@
 # Chrislin Baker
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Chrislin Baker says:** I don't know who might be selling those these days. Just ask around. I am sure someone will know.
 end
+
+
 
 ## Turn-Ins
 

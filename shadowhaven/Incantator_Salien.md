@@ -1,4 +1,6 @@
 # Incantator Salien
+
+
 ## Dialog
 
 **You say:** `hail`

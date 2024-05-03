@@ -1,4 +1,6 @@
 # Dirjadak Barbrawler
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -172,6 +174,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Dirjadak Barbrawler says:** Well ya see young one, I am a dwarf and I like me Ale. But there is one thing that I like more then my Ale and that's me mug! While out in the mountains late one evening not too long ago I had a few too many then I should have me wife says. Har har. Anyways, when me woke up da next morning me mug was gone so I had to have lost it out there somewhere. If you should find my mug and were able to return it to me intact or not I would be very grateful! Return my mug to me along with 2 Pristine Krag Claws and I will reward you with a blade worthy of Brells finest battlemaster. Now git going!
 
 end
+
+
 
 ## Turn-Ins
 

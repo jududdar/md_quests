@@ -1,4 +1,6 @@
 # Rebby Willend
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Rebby Willend says:** Hey friend, nice wallet ya got there.  Bet it's fulla money, huh?  Why don't ya let me take a quick look, huh?
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Trooper Nilzik
+
+
 ## Dialog
 
 **You say:** `hail`

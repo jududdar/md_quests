@@ -1,7 +1,11 @@
 # Captain Berradin
+
+
 ## On NPC Spawn
 
 **Set a timer** named *playdead* for 1 seconds
+
+
 ## Combat
 
 if Captain Berradin enters combat  then
@@ -17,6 +21,8 @@ else
 
 e.self:SetAppearance(3);
 end
+
+
 
 ## Timer(s)
 

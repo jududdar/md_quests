@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -140,6 +142,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -210,6 +214,8 @@ Your faction standing with [Dain Frostreaver IV](/faction/405) got worse (<span 
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Combat
 
 
@@ -225,6 +231,8 @@ else
 
 
 **Stop timer** named *help*
+
+
 
 ## Timer(s)
 

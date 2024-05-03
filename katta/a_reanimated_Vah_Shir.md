@@ -1,9 +1,13 @@
 # a reanimated Vah Shir
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -11,6 +15,8 @@ if(e.timer == "depop") then
 
 **a reanimated Vah Shir despawns.**
 end
+
+
 
 ## Combat
 

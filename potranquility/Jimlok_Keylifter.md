@@ -1,4 +1,6 @@
 # Jimlok Keylifter
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Jimlok Keylifter says:** Alright, friend, you need to be on the lookout for a gnome about my height, with one bad leg. He's got a bit of a limp, but he's still a hard one to chase down. If you can't find him, be on the lookout for anything that resembles a small bottle. He's got a way with rodents; so if you see some little pest carrying a bottle of some sort, grab him! It will most likely be a message for me. Bring it back immediately. It won't be of any use to you anyway, since you can't read our code. Be quick and good luck!
 end
+
+
 
 ## Turn-Ins
 

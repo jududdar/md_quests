@@ -1,4 +1,6 @@
 # Trooper Grouko
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # A Lesser Spire Spirit 
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

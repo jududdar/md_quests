@@ -1,4 +1,6 @@
 # Groo McManus
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -25,6 +27,8 @@
 
 >**Groo McManus says:** Near the south bridge of Shar Vahl city, a mysterious rock formation hangs precariously within the crater. When you have arrived, you stand beneath the rock and call to the wind, speak the word 'Lumanes', be sure to clear all thoughts from your mind when doing so. If we are not too late, a kindred spirit will speak with you. Take your discoveries to my friend Shavra in the crater, she will know what to do.
 end
+
+
 
 ## Turn-Ins
 

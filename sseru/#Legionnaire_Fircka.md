@@ -1,4 +1,6 @@
 # Legionnaire Fircka
+
+
 ## Dialog
 
 **You say:** `hail`

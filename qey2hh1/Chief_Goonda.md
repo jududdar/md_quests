@@ -1,4 +1,6 @@
 # Chief Goonda
+
+
 ## Dialog
 
 **You say:** `hail`

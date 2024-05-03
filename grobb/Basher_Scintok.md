@@ -1,4 +1,6 @@
 # Basher Scintok
+
+
 ## Dialog
 
 **You say:** `armor`

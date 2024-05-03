@@ -1,4 +1,6 @@
 # Muckskimmer
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();
@@ -8,6 +10,8 @@ local hour = zone_time["zone_hour"];
 local minute = zone_time["zone_minute"];
 
 eq.debug("Shuttle spawned! Name is: Muckskimmer Time is: " .. hour ..":" .. minute .. "", 1);
+
+
 ## Arrive at Waypoint Script
 
 local zone_time = eq.get_zone_time();

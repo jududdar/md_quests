@@ -1,9 +1,13 @@
 # Moran Smith
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
 
 e.self:SetRunning(true);
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -16,6 +20,8 @@ while ( e.self:CheckGround() ) do
 
 
 >*Moran Smith picks up a discarded item from the ground and says, 'Don't people have enough respect for our grand city to not throw things onto the streets?!*
+
+
 
 
 ## Signals
@@ -36,6 +42,8 @@ eq.start(60);
 
 e.self:MerchantOpenShop();
 end
+
+
 
 ## Dialog
 

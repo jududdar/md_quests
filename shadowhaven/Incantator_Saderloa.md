@@ -1,4 +1,6 @@
 # Incantator Saderloa
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Elefan
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -23,6 +25,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_702.png" alt="" /> <a
                                 href="/item/4759" data-url="4759" class="tooltip-link link">Antidote Ingredients</a>
 end
+
+
 
 ## Turn-Ins
 

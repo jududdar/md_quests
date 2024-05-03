@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -68,6 +70,8 @@ else
 
 **Renaldok Masric attacks you.**
 end
+
+
 
 ## Turn-Ins
 

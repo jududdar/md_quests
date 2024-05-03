@@ -1,4 +1,6 @@
 # Trooper Moggoz
+
+
 ## Dialog
 
 **You say:** `Hail`

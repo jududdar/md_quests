@@ -1,4 +1,6 @@
 # Legionnaire Celox
+
+
 ## Dialog
 
 **You say:** `hail`

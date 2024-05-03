@@ -1,7 +1,11 @@
 # Bizzznawa
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "follow") then

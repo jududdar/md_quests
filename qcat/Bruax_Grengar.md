@@ -1,4 +1,6 @@
 # Bruax Grengar
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -132,6 +134,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Bruax Grengar says:** A Staff of the Bloodsabers is a useful implement for young sorcerers dedicated to Bertoxxulous the Plague Lord. I will assist you in the creation of a staff but first you must complete a task for me. The sorcerers of The Order of Three are supporters of Antonius Bayle IV, the haughty ruler of Qeynos. They lend magical aid to the Knights of Thunder and Priests of Life to identify and capture members of the Bloodsabers. A rather troublesome member of The Order of Three, Larkin Tolman, has recently been spotted at a settlement in the Western Plains of Karana. Find this Larkin Tolman and bring me his head.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Hansl Bigroon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -66,6 +68,8 @@
                                 href="/item/13290" data-url="13290" class="tooltip-link link">A Donation</a>
 end
 
+
+
 ## Depart from Waypoint Script
 
 local xloc = e.self:GetX();
@@ -105,6 +109,8 @@ function event_enter(e)
                                 href="/item/18835" data-url="18835" class="tooltip-link link">A Sealed List</a>
 
 eq.clear_proximity();
+
+
 ## Timer(s)
 
 >*Hansl Bigroon picks up a discarded item from the ground and says 'Don't people have enough respect for our grand city to not throw things onto the streets?!'*

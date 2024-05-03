@@ -1,5 +1,7 @@
 # Councilman Taldarius
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Councilman Taldarius says:** Very well Soandso. I warn you I will not grant this without proof that you possess a valiant spirit. You may have the trust of my aid but I still require a noble deed. Through research done by the council they have discovered something called a Hope Stone that exists in the Elemental Planes. Bring me one of these stones and the signet of Grimel. Fear not I shall reward you well.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # Rasrok the Blotched
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -99,6 +101,8 @@
 
 >**Rasrok the Blotched says:** Yeah dat iz where meez from. Well. . . First meez wuz from here den meez wuz from dere and now meez back here agin. When peeples from here do sumthin heero-ick sumtimes day get a coin fer dair deeds. Youse give me one of dem coins and meez give you sumthin good dat wurthy for a hee-ro. Maybe youse get a trip to da Realm of Heroes yerself sum day.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Guard Buce
+
+
 ## Dialog
 
 **You say:** `hail`

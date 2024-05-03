@@ -1,4 +1,6 @@
 # Guard Crucorn
+
+
 ## Dialog
 
 **You say:** `supplies`

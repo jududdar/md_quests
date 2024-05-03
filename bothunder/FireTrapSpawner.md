@@ -1,4 +1,6 @@
 # FireTrapSpawner
+
+
 ## Combat
 
 
@@ -10,6 +12,8 @@ eq.get_entity_list():MessageClose(e.self, true, 75, 0, "Storm clouds begin to ga
 
 **Set a timer** named *cast* for 5 seconds
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Executioner
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Executioner says:** I have no time to talk, citizen. Please, step aside!
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -28,6 +32,8 @@ elseif(e.wp == 41) then
 
 **Signaled to:**  [McNeal Jocub](/npc/1099)
 end
+
+
 
 ## Signals
 

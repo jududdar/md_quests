@@ -1,4 +1,6 @@
 # Crazy Pete
+
+
 ## Dialog
 
 **You say:** `hail`

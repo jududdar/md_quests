@@ -1,4 +1,6 @@
 # Brittina
+
+
 ## Dialog
 
 Ashley = eq.get_entity_list():GetMobByNpcTypeID(126207);

@@ -1,4 +1,6 @@
 # Jolum
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Jolum says:** Its a very sturdy bag, but I'm afraid that it's only temporary. If you'd like to get a more permanent bag, just hand me your summoned one and I'll trade it out you.
 end
+
+
 
 ## Turn-Ins
 

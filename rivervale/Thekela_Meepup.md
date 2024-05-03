@@ -1,4 +1,6 @@
 # Thekela Meepup
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -156,6 +158,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Thekela Meepup says:** Please go to the maze of Beholder, otherwise known as the Gorge of King Xorbb and slay the Muddite Recordkeeper. After you have received the annal from him I will also need you to collect 3 Pristine Stingers. Before these annals were stolen I remember him saying I needed those 3 stingers for a special spell so please gather them for me. I hope to see you soon Soandso.
 
 end
+
+
 
 ## Turn-Ins
 

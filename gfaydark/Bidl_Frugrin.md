@@ -1,4 +1,6 @@
 # Bidl Frugrin
+
+
 ## Dialog
 
 **You say:** `hail`

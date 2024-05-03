@@ -1,4 +1,6 @@
 # Cordelia Minster
+
+
 ## Dialog
 
 
@@ -18,6 +20,8 @@
 
 >**Cordelia Minster says:** I traded my flute to a hermit in the southern plains of Karana. I had a spare flute, but that was taken from me by some bandits. If you could find this hermit and ask him for my flute back, I would be most appreciative.
 end
+
+
 
 ## Turn-Ins
 
@@ -53,9 +57,13 @@ Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span cla
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *timecheck* for 60 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "timecheck" and not e.self:IsEngaged() ) then
@@ -74,6 +82,8 @@ if ( zoneTime < 19 and zoneTime > 6 ) then
 **Cordelia Minster despawns.**
 
 end
+
+
 
 ## On NPC Death
 

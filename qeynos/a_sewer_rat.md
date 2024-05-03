@@ -1,9 +1,13 @@
 # a sewer rat
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then

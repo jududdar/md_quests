@@ -1,4 +1,6 @@
 # a Paebala Spirit Talker
+
+
 ## Dialog
 
 **You say:** `hail`

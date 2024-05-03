@@ -1,11 +1,15 @@
 # Abe the Abandoned
 local counting;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *letbegin* for 60 seconds
 
 counting = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -48,6 +52,8 @@ counting = 0;
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1039.png" alt="" /> <a
                                 href="/item/1680" data-url="1680" class="tooltip-link link">A Broken Arrow</a>
 end
+
+
 
 ## Timer(s)
 

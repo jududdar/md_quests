@@ -1,5 +1,7 @@
 # Warlord Korehan
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 e.self:Emote("stands tall and in a stiff, well-trained mode, salutes Soandso. 'Welcome to the district of Selia. 'ere, ye will find that we all be children of light 
 end
+
+
 
 ## Turn-Ins
 

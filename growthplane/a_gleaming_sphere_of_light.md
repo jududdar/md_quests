@@ -1,4 +1,6 @@
 # a gleaming sphere of light
+
+
 ## Dialog
 
 if(**Your level** >= 55) then
@@ -60,6 +62,8 @@ if(**Your level** >= 55) then
 >**a gleaming sphere of light says:** As I told you before, these books are distinctly coded to only be understood by those that have the abilities to perform and contain these magics. If these tomes were recovered it is very possible that I could decode them and develop an immunity to the mind altering attacks that I feel are upon us.
 
 end
+
+
 
 ## Turn-Ins
 

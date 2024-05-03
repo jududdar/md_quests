@@ -1,6 +1,8 @@
 # Gavel the Temperant
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -58,6 +60,8 @@
 
 >**Gavel the Temperant says:** Enchanted platinum bars can be galvanized by Genni, vulcanized by Vilissia, and magnetized by Ostorm. Just give them the enchanted platinum bar and they will do the rest.
 end
+
+
 
 ## Turn-Ins
 

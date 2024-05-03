@@ -1,4 +1,6 @@
 # Tallien Brightflash
+
+
 ## Dialog
 
 **You say:** `hail`

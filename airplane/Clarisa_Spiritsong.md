@@ -1,7 +1,11 @@
 # Clarisa Spiritsong
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +35,8 @@
 
 >**Clarisa Spiritsong says:** Tone is important to all singers.  Prove to me that you can keep your tone even and pure by bringing me an ochre tessera, a songbird statuette, and a light woolen mask.  If you do this, I will give you the mask of song.
 end
+
+
 
 ## Turn-Ins
 
@@ -80,6 +86,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

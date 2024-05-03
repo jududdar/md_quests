@@ -1,4 +1,6 @@
 # Grud
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Grud says:** Gimme duffynitey rocks! Me crushem GUUD!!!
 end
+
+
 
 ## Turn-Ins
 

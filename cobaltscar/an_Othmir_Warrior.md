@@ -1,4 +1,6 @@
 # an Othmir Warrior
+
+
 ## Dialog
 
 **You say:** `hail`

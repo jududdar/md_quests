@@ -1,6 +1,8 @@
 # Rexx Frostweaver
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Rexx Frostweaver says:** To ensure your worthiness you must continue to refine your prayer shawl. Speak with my wife Betti regarding the embroidered shawl and listen carefully to her words. Hurry now, there seems to be a sense of urgency about.
 end
+
+
 
 ## Turn-Ins
 

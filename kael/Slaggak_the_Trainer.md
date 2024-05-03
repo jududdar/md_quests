@@ -1,4 +1,6 @@
 # Slaggak the Trainer
+
+
 ## Dialog
 
 if **Faction** >= Apprehensive then
@@ -63,6 +65,8 @@ else
 
 >I wonder how much I could get for the tongue of a blithering fool?  Leave before I decide to find out for myself.
 end
+
+
 
 ## Turn-Ins
 

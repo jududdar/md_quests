@@ -1,5 +1,7 @@
 # Venril Sathirs remains
 
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [Venril Sathir](/npc/102010)) then 
@@ -7,6 +9,8 @@ if(**spawned NPC:**  [Venril Sathir](/npc/102010)) then
 
 **Venril Sathirs remains despawns.**
 end
+
+
 
 ## Dialog
 
@@ -16,6 +20,8 @@ end
 
 >**Venril Sathirs remains says:** The living fire. I seek the fires of life. Bring them.
 end
+
+
 
 ## Turn-Ins
 

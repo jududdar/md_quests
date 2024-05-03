@@ -1,4 +1,6 @@
 # Kogna
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -45,6 +47,8 @@ else
 
 >**Kogna says:** Yup, meats.  You brings me four, me gives you sumting.
 end
+
+
 
 ## Turn-Ins
 

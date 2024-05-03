@@ -1,4 +1,6 @@
 # Mater
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -69,6 +71,8 @@ else
 >**Mater says:** The word around the mines is that you are not to be trusted. You'd best leave before my dagger finds a new home in your back.
 
 end
+
+
 
 ## Turn-Ins
 
@@ -151,6 +155,8 @@ Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='tex
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

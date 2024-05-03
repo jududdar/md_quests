@@ -1,4 +1,6 @@
 # Legionnaire Romaric
+
+
 ## Dialog
 
 **You say:** `hail`

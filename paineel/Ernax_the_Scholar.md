@@ -1,4 +1,6 @@
 # Ernax the Scholar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -17,6 +19,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_865.png" alt="" /> <a
                                 href="/item/18956" data-url="18956" class="tooltip-link link">Tattered Book</a>
 end
+
+
 
 ## Turn-Ins
 

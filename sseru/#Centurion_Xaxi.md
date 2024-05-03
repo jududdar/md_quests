@@ -1,4 +1,6 @@
 # Centurion Xaxi
+
+
 ## Dialog
 
 **You say:** `hail`

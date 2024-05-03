@@ -1,4 +1,6 @@
 # Snowfang fisher
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Snowfang fisher says:** Offering must be true and strong. To trade for anything else would be an insult to the spirits. If you want you can bring me true strong wooden pole and fine string for new pole. That would be true strong gift and maybe enough to break bad evil on this thing we find.
 end
+
+
 
 ## Turn-Ins
 

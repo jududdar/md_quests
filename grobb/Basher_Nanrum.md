@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -88,6 +90,8 @@
 
 >**Basher Nanrum says:** Shadowknights of Knightkeep guild of shadowknights they be.  To the side and middle is where you find.
 end
+
+
 
 ## Turn-Ins
 

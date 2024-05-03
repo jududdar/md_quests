@@ -1,4 +1,6 @@
 # Jogl Doobraugh
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +12,8 @@
 
 **Signaled to:**  [Charlotte](/npc/56108)
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -23,6 +27,8 @@ if(e.wp == 18) then
 
 **Signaled to:**  [Charlotte](/npc/56108)
 end
+
+
 
 ## Turn-Ins
 

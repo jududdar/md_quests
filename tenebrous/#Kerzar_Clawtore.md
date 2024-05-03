@@ -1,7 +1,11 @@
 # Kerzar Clawtore
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `valdanov`
@@ -40,6 +44,8 @@
 
 **Kerzar Clawtore despawns.**
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Rolfic Gohar
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -111,6 +113,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19636" data-url="19636" class="tooltip-link link">Crude Greaves Mold</a>
 
 end
+
+
 
 ## Turn-Ins
 

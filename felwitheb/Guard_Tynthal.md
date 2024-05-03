@@ -1,4 +1,6 @@
 # Guard Tynthal
+
+
 ## Dialog
 
 **You say:** `supplies`

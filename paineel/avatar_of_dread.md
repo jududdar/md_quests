@@ -1,9 +1,13 @@
 # avatar of dread
 count = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *shout* for 17 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "shout") then
@@ -21,6 +25,8 @@ if(count == 10) then
 
 **avatar of dread despawns.**
 end
+
+
 
 ## Turn-Ins
 

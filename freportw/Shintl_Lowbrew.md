@@ -1,4 +1,6 @@
 # Shintl Lowbrew
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 >**Shintl Lowbrew says:** Opal is just a friend I have here in Freeport. She works at the Academy of Arcane Science.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -35,6 +39,8 @@ elseif(e.wp == 7) then
 
 **Signaled to:**  [Swin Blackeye](/npc/9103)
 end
+
+
 
 ## On NPC Death
 

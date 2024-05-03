@@ -1,6 +1,8 @@
 # Harla Dar
 
 
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then
@@ -51,6 +53,8 @@ else
 
 >**Harla Dar says:** I do not have time for you now, Soandso. My son is lost, and you can not help me.
 end
+
+
 
 ## Turn-Ins
 

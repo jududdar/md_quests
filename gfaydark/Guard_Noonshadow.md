@@ -1,4 +1,6 @@
 # Guard Noonshadow
+
+
 ## Dialog
 
 **You say:** `soldiers`

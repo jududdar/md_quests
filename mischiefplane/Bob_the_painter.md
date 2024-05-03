@@ -1,4 +1,6 @@
 # Bob the painter
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Bob the painter says:** I'd love ta check out a book... especially the book of mischief. Every time I get a library card, them freakin monkeys come and take it from me. Say, maybe you can get one from em!
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Forager Grik
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Forager Grik says:** Grikk.. Please leave me be. I but a humble forager. My people are starving.
 end
+
+
 
 ## Turn-Ins
 

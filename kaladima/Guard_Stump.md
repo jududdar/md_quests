@@ -1,4 +1,6 @@
 # Guard Stump
+
+
 ## Dialog
 
 **You say:** `armor`

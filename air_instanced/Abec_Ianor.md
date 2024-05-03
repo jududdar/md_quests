@@ -1,7 +1,11 @@
 # Abec Ianor
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +37,8 @@
 
 >**Abec Ianor says:** Always be prepared. Adventure and return an Efreeti War Staff, some Lush Nectar, a Copper Air Band, and a large Sky Sapphire and you shall be rewarded with the Staff of Storms.
 end
+
+
 
 ## Turn-Ins
 
@@ -102,6 +108,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Abec Ianor despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,7 +1,11 @@
 # a Kromzek Captain
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
+
+
 ## Combat
 
 if a Kromzek Captain enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

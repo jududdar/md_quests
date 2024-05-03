@@ -1,4 +1,6 @@
 # Legionnaire Revones
+
+
 ## Dialog
 
 **You say:** `hail`

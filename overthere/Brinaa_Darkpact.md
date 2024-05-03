@@ -1,4 +1,6 @@
 # Brinaa Darkpact
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Brinaa Darkpact says:** Excellent! Here is what we are still seeking. The scrolls of Death Pact. Upheaval. Yaulp IV. and Reckoning. If you return one of these to me. I'll release one of my rare scrolls to you.
 end
+
+
 
 ## Turn-Ins
 

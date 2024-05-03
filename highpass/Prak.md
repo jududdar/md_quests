@@ -1,4 +1,6 @@
 # Prak
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -18,6 +20,8 @@ e.self:MoveTo(stanos:GetX(), stanos:GetY(), stanos:GetZ(), -1, false);
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +36,8 @@ end
 
 >**Prak says:** Good.. Zannsin said you had a special talent for this sort of thing, so here's your chance to prove it. What you need to do is follow Stald on his patrol, and when the coast is clear, take him down. Good luck. Oh yeah.. not that I don't trust you or anything, but bring me back some sorta proof that Stald is dead, got it?
 end
+
+
 
 ## Turn-Ins
 

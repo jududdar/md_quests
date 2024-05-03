@@ -1,4 +1,6 @@
 # Bubbgrib
+
+
 ## Dialog
 
 **You say:** `Hail`

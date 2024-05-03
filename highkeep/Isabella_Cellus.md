@@ -1,4 +1,6 @@
 # Isabella Cellus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 e.self:Say(string.format("Hello. How nice to meet you. %s!",e.other:GetName()));
 end
+
+
 
 ## Arrive at Waypoint Script
 

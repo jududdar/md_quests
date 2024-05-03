@@ -1,4 +1,6 @@
 # Councilor Amberfeld
+
+
 ## Dialog
 
 **You say:** `hail`

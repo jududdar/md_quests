@@ -1,4 +1,6 @@
 # Emil Parsini
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Emil Parsini says:** Good to meet you. Soandso.  Please look around.  I have much to offer.  I am a master woodworker.  It runs in the Parsini family.
 end
+
+
 
 ## Turn-Ins
 

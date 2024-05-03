@@ -1,4 +1,6 @@
 # Corporal Lancot
+
+
 ## Dialog
 
 **You say:** `hail`

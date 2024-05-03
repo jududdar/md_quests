@@ -1,4 +1,6 @@
 # Lyris Moonbane
+
+
 ## Dialog
 
 **You say:** `assignment`
@@ -31,6 +33,8 @@
 
 >**Lyris Moonbane says:** You'll need to find the source of the kobold water supply and pour the substance into it. Once you do that, the disease will infest whatever living organisms it comes in contact with so do yourself a favor and leave the area quickly. You can then take the empty jar to your master for your reward.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Davloran Girionlis
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -148,6 +150,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Davloran Girionlis says:** That's great news Soandso, I applaud your willingness to help me gather these items. I would go get them myself but I must always be available here should any of the other newcomers need my help. Please collect 2 Flawless Gnoll Hides and 2 Wisp Essences for me and I will do my best to fashion you a weapon together for your trouble.
 
 end
+
+
 
 ## Turn-Ins
 

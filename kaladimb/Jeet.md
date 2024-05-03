@@ -1,4 +1,6 @@
 # Jeet
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -154,6 +156,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -301,6 +305,8 @@ Your faction standing with [Ebon Mask](/faction/244) got worse (<span class='tex
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

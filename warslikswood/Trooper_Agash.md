@@ -1,4 +1,6 @@
 # Trooper Agash
+
+
 ## Dialog
 
 **You say:** `hail`

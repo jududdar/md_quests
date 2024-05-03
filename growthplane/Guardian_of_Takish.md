@@ -1,4 +1,6 @@
 # Guardian of Takish
+
+
 ## Dialog
 
 if(**Your level** >= 55) then
@@ -44,6 +46,8 @@ if(**Your level** >= 55) then
 >**Guardian of Takish says:** Excellent. Gather the four idols that are held in Kael and return them to me. I will then properly dispose of these foul creations.
 
 end
+
+
 
 ## Turn-Ins
 

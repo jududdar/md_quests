@@ -1,4 +1,6 @@
 # Legionnaire Potens
+
+
 ## Dialog
 
 **You say:** `hail`

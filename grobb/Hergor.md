@@ -1,4 +1,6 @@
 # Hergor
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ else
 >**Hergor says:** Me smell death coming your way!  Da bashers no like you. Hey!  Me am basher!
 
 end
+
+
 
 ## Turn-Ins
 

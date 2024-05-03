@@ -1,6 +1,8 @@
 # Renux Herkanor
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -18,6 +20,8 @@
 
 **Renux Herkanor attacks you.**
 end
+
+
 
 ## On NPC Death
 

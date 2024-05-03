@@ -1,4 +1,6 @@
 # Cipse Tospyr
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Cipse Tospyr says:** You must pay the tribute of three gold before I cast the toxin from your body.
 end
+
+
 
 ## Turn-Ins
 

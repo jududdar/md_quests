@@ -1,4 +1,6 @@
 # Disciple Okarote
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@ else
 >**Disciple Okarote says:** You have done much to anger the spirits thus you are not accepted by our people.
 
 end
+
+
 
 ## On NPC Death
 

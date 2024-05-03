@@ -1,7 +1,11 @@
 # Kendrick
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +35,8 @@
 
 >**Kendrick says:** Trickery, ahh how Fizzlethorpe blesses us! Adventure and return a mottled spiroc feather, a cracked leather belt, and a sphinxian circlet to complete the test of trickery and earn Renards Belt of Quickness.
 end
+
+
 
 ## Turn-Ins
 
@@ -92,6 +98,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Kendrick despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

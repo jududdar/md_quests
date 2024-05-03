@@ -1,4 +1,6 @@
 # Jolneg
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Jolneg says:** Ahh, well, since you do not know of the Deathmaw club, then I will tell you about it. Captain Alim has taught me how to make this club. In order to make one, I will require three deathmaw claws, and a wooden practice flail. Return to me these components, and I will craft a Deathmaw Club for you.
 end
+
+
 
 ## Turn-Ins
 

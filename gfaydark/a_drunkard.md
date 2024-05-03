@@ -1,4 +1,6 @@
 # a drunkard
+
+
 ## Dialog
 
 **You say:** `tandan nybright`
@@ -25,6 +27,8 @@
 
 >**a drunkard says:** Can you -hic- . . . spare some copper or -hic- . . . silver? I just . . . -Hic- . . . need some change to buy something to drin . . Er . . Eat . -Hic-
 end
+
+
 
 ## Turn-Ins
 
@@ -74,6 +78,8 @@ Your faction standing with [Anti-mage](/faction/5002) got better (<span class='t
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

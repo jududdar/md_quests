@@ -1,6 +1,8 @@
 # Veisha Fathomwalker
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Veisha Fathomwalker says:** Davorre was once the Captain of Erudin's forces. He was relieved of those duties shortly before he disappeared. Again, thank you, good sir. I shall rest easier tonight, knowing that he is alive.
 end
+
+
 
 ## Turn-Ins
 

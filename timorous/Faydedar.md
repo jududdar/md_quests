@@ -1,4 +1,6 @@
 # Faydedar
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [\#Faydedar](/npc/96073)) then
@@ -6,6 +8,8 @@ if(**spawned NPC:**  [\#Faydedar](/npc/96073)) then
 
 **Faydedar despawns.**
 end
+
+
 
 ## Turn-Ins
 

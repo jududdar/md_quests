@@ -1,4 +1,6 @@
 # Sentry Enots
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@ if(**spawned NPC:**  [Sentry Kcor](/npc/114581)) then
 eq.get_entity_list():GetMobByNpcTypeID( [Sentry Kcor](/npc/114581)):Say("You had best speak with the herald before journeying deep into the Sky Shrine.");
 
 end
+
+
 
 ## Turn-Ins
 
@@ -65,6 +69,8 @@ until helmet == 0;
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

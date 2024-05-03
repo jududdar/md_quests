@@ -1,7 +1,11 @@
 # a prisoner
+
+
 ## On NPC Spawn
 
 **Set a timer** named *goog* for 150 seconds
+
+
 ## Timer(s)
 
 **a prisoner says one of the following:**
@@ -9,6 +13,8 @@
 >unngh!!.. Biggle and boo.. Goggle froo..
 
 >ahhhh!!.. Tiggle bumble coo.. Bog n' Goo..
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -30,6 +36,8 @@
 >**a prisoner says:** nnnnn...  Gickle... Grunk... Shoo...  Bog n' Goo!  Freezing! Thirst!  Hunger too!
 
 end
+
+
 
 ## Turn-Ins
 

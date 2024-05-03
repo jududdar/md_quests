@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -70,6 +72,8 @@ else
 >**Jarrex N-Ryt says:** Young Kodiak Bears often wander into the Nektulos Forest from the Commonlands searching for food. You do not appear to have the strength to arm wrestle a pixie. If you prove me wrong by slaying Young Kodiaks and bringing me four Young Kodiak Femurs I will guide you in the construction of a shield worthy of a warrior of the Indigo Brotherhood.
 
 end
+
+
 
 ## Turn-Ins
 

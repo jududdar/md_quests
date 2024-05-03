@@ -1,4 +1,6 @@
 # Taruun Murod Karaf
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -188,6 +190,8 @@
 >**Taruun Murod Karaf says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 22) then
@@ -205,6 +209,8 @@ if(e.wp == 63) then
 
 e.self:SetAppearance(3);
 end
+
+
 
 ## Turn-Ins
 

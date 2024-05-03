@@ -1,6 +1,8 @@
 # Cargo Clockwork
 local delivery = 0;
 
+
+
 ## Signals
 
 local qglobal = eq.get_qglobals();
@@ -26,6 +28,8 @@ eq.start(5);
 
 
 end
+
+
 
 ## Depart from Waypoint Script
 
@@ -85,6 +89,8 @@ delivery = 1;
 >**Cargo Clockwork says:** This is highway robbery.
 
 end
+
+
 
 ## On NPC Death
 

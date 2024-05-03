@@ -1,4 +1,6 @@
 # Elder Scout Kyth Lar
+
+
 ## Dialog
 
 **You say:** `Hail`

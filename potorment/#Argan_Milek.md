@@ -1,4 +1,6 @@
 # Argan Milek
+
+
 ## On NPC Spawn
 
 
@@ -7,6 +9,8 @@ if ( not **spawned NPC:**  [A Horrifying Vision](/npc/207047) ) then
 
 **Argan Milek despawns.**
 end
+
+
 
 ## Dialog
 

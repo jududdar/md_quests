@@ -1,4 +1,6 @@
 # Sniffles
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sniffles says:** Don't keel me.
 end
+
+
 
 ## On NPC Death
 

@@ -1,6 +1,8 @@
 # Kelkim Menkia
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Kelkim Menkia says:** The strings were from a chromodrac, a red wurm and a huge onyx drake. It always sounded so wonderful.' Kelkim sighs, looking off to the horizon. As she shakes her lute angrily, she says, 'I'll kill all of you dirty gnolls!
 end
+
+
 
 ## Turn-Ins
 

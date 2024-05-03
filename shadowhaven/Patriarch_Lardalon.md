@@ -1,4 +1,6 @@
 # Patriarch Lardalon
+
+
 ## Dialog
 
 **You say:** `hail`

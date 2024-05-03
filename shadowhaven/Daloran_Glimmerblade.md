@@ -1,6 +1,8 @@
 # Daloran Glimmerblade
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_968.png" alt="" /> <a
                                 href="/item/4762" data-url="4762" class="tooltip-link link">Gemmed Sword Hilt</a>
 end
+
+
 
 ## Turn-Ins
 

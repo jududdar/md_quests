@@ -1,4 +1,6 @@
 # Depnar Bulrious
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Depnar Bulrious says:** Then go and speak with the other Peacekeepers. Do your part to promote the words of Quellious.
 end
+
+
 
 ## Turn-Ins
 

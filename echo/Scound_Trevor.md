@@ -1,4 +1,6 @@
 # Scound Trevor
+
+
 ## Dialog
 
 **You say:** `hail`

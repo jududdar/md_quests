@@ -1,7 +1,11 @@
 # Tubal Weaver
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -16,6 +20,8 @@ while ( e.self:CheckGround() ) do
 >**Tubal Weaver says:** Hey!  Someone dropped a perfectly good thing-a-ma-jig!  Oh well, finders keepers!
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -24,6 +30,8 @@ while ( e.self:CheckGround() ) do
 
 >**Tubal Weaver says:** Hail, Soandso!  I am Tubal Weaver, humble merchant and retired guardsman of Highkeep.  I make a tidy living dealing with the throngs of adventurers who take it upon themselves to keep Qeynos beetle-free.  If you want some free advice, I recommend that you not deal with any of the merchants in town.  I can offer much lower prices than they because I do not have the overhead of a shop to maintain.
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -51,6 +59,8 @@ elseif(e.wp == 38) then
 
 e.self:MerchantOpenShop();
 end
+
+
 
 ## Signals
 

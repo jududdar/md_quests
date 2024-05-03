@@ -1,4 +1,6 @@
 # A Hand Recruit
+
+
 ## Dialog
 
 **You say:** `hail`

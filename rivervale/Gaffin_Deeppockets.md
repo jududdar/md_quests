@@ -1,7 +1,11 @@
 # Gaffin Deeppockets
+
+
 ## On NPC Spawn
 
 **Set a timer** named *lenny* for 950 seconds
+
+
 ## Timer(s)
 
 if(timer == "lenny") then

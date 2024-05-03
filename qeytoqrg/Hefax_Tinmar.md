@@ -1,7 +1,11 @@
 # Hefax Tinmar
+
+
 ## Signals
 
 >**Hefax Tinmar says:** Oh, great. I feel safe already.
+
+
 
 ## Dialog
 

@@ -1,6 +1,8 @@
 # Rhag-Zhezum
 
 
+
+
 ## On NPC Death
 
 eq.set_global("Rhag","1",7,"F");

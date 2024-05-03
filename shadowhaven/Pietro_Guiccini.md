@@ -1,4 +1,6 @@
 # Pietro Guiccini
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Pietro Guiccini says:** I recently purchased a splendid antique portrait of a gorgeous lady that you may be interested in. It is a tad bit faded but a hauntingly beautiful and captivating piece none the less. I would be willing to part with it for 1000 gold pieces.
 end
+
+
 
 ## Turn-Ins
 

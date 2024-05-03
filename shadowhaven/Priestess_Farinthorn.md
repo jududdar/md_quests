@@ -1,4 +1,6 @@
 # Priestess Farinthorn
+
+
 ## Dialog
 
 **You say:** `hail`

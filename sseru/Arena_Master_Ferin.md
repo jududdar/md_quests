@@ -1,4 +1,6 @@
 # Arena Master Ferin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Arena Master Ferin says:** Hurry, hurry step right up and buy a ticket! Show your skills at battle! Amaze the crowds with your great skill! Buy a ticket from me, and when you think you are prepared for the fight give me the ticket!
 end
+
+
 
 ## Turn-Ins
 

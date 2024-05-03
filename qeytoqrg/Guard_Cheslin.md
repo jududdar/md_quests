@@ -1,4 +1,6 @@
 # Guard Cheslin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Guard Cheslin says:** Oh!! Do you play Illusion, too? I love that game. I have some very rare cards in my deck. I seem to have dropped four of them somewhere during my last patrol. Darn it! They probably blew away the minute I dropped them! I will never find those cards again.
 end
+
+
 
 ## Turn-Ins
 
@@ -84,6 +88,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

@@ -1,4 +1,6 @@
 # Tentus Brackmar
+
+
 ## Dialog
 
 **You say:** `hail`

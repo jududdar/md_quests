@@ -1,4 +1,6 @@
 # Trooper Gryfkyz
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,4 +1,6 @@
 # Bartle Barnick
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -156,6 +158,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 end
  
+
+
 
 
 ## Turn-Ins

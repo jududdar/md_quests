@@ -1,4 +1,6 @@
 # McNeal Jocub
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -36,6 +38,8 @@
 >**McNeal Jocub says:** Looking for moonstones, are we? The only way I know of getting a moonstone is to hunt gnolls for Captain Tillin of the Qeynos Guards.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 5) then
@@ -44,11 +48,15 @@ if(e.wp == 5) then
 >**McNeal Jocub says:** Blast!! We are running [low]!!
 end
 
+
+
 ## Signals
 
 >**McNeal Jocub says:** You shall never take me alive!!
 
 **McNeal Jocub attacks NPC:**  [Executioner](/npc/1202)
+
+
 ## Turn-Ins
 
 local moonstone = 0;

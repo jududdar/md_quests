@@ -1,4 +1,6 @@
 # Kelynn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Kelynn says:** What are you doing here?!! Get out before you find yourself mining for these wretched beasts!
 end
+
+
 
 ## Turn-Ins
 

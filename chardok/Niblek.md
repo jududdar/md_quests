@@ -1,5 +1,7 @@
 # Niblek
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Niblek says:** Niblek likes shiny tings very much! You bring Niblek two shiny tings! Niblek has seen black sapphire and ruby! Niblek likes them very much!
 end
+
+
 
 ## Turn-Ins
 

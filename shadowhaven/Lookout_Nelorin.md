@@ -1,4 +1,6 @@
 # Lookout Nelorin
+
+
 ## Dialog
 
 **You say:** `hail`

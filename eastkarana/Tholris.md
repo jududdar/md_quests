@@ -1,4 +1,6 @@
 # Tholris
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*Tholris stares in contemplation at the landscape.*
 end
+
+
 
 ## Signals
 

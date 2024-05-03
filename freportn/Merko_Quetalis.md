@@ -1,4 +1,6 @@
 # Merko Quetalis
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -159,6 +161,8 @@ else
 
 >**Merko Quetalis says:** If you require the binding of wounds you should speak with Palious Jartan in the temple. He will be glad to help you.
 end
+
+
 
 ## Turn-Ins
 

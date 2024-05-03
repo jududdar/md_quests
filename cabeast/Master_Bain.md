@@ -1,4 +1,6 @@
 # Master Bain
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -118,6 +120,8 @@ else
 
 >**Master Bain says:** Seeking Master Rinmark? He has left the Court of Pain. Gone to focus his thoughts on the elements of wind and thunder. I believe he was headed toward the Overthere. That was the last I heard of his trek.
 end
+
+
 
 ## Turn-Ins
 

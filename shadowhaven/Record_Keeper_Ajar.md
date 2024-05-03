@@ -1,4 +1,6 @@
 # Record Keeper Ajar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Record Keeper Ajar says:** Greetings, " .. e.other:Race() .. "! I'm afraid I am quite busy with all the transactions that occur and shipments that come and go from the city but if you have an official request form for some information from our library of records I will gladly assist you.
 end
+
+
 
 ## Turn-Ins
 

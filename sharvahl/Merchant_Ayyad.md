@@ -1,5 +1,7 @@
 # Merchant Ayyad
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Merchant Ayyad says:** Mastered those runes already, Soandso? You're learning very fast indeed. Your next lesson will be in the molding of a new type of item. You'll need to gather some gray mud from below the city and mix it with some Rockhopper blood to make a block of reddish clay. Take this block of reddish clay and combine it with a Vah Shir model sketch to create an unfired Vah Shir figurines. Fire the model in a kiln with a firing sheet to create a Finished Vah Shir figurine. Finally, use the Runequill Set to etch grimling blood into runes on the figurine.
 end
+
+
 
 ## Turn-Ins
 

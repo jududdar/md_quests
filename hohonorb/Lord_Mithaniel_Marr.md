@@ -3,11 +3,15 @@ local PLANAR_PROJECTION_TYPE = 220025;
 
 local SPAWNIDS = { 367227, 366604, 367163 };
 
+
+
 ## On NPC Death
 
 eq.spawn2(PLANAR_PROJECTION_TYPE, 0, 0, e.self:GetX(), e.self:GetY(), e.self:GetZ(), 0);
 
 eq.signal(PLANAR_PROJECTION_TYPE, e.killer:GetID()); 
+
+
 ## On NPC Spawn
 
 local elist = eq.get_entity_list();
@@ -19,6 +23,8 @@ for _, id in ipairs(SPAWNIDS) do
 
 elist:GetSpawnByID(id):SetTimer(1);
 end
+
+
 
 ## Signals
 
@@ -43,6 +49,8 @@ e.self:SetSpecialAbility(24, 1);
 e.self:SetSpecialAbility(35, 1); 
 end
 
+
+
 ## Combat
 
 if  Lord Mithaniel Marr enters combat  then
@@ -55,6 +63,8 @@ else
 
 **Stop timer** named *bounds*
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Glisse Bluesea
+
+
 ## On NPC Spawn
 
 
@@ -10,6 +12,8 @@ eq.spawn_condition("butcher",4,1);
 eq.spawn_condition("butcher",5,1);
 
 eq.spawn_condition("butcher",6,1);
+
+
 ## Signals
 
 if(e.signal == 1) then

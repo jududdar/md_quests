@@ -21,6 +21,8 @@ quest_helper:melee_legs(KAEL_ARMOR.Plate_Greaves, 25375),
 quest_helper:melee_boots(KAEL_ARMOR.Plate_Boots, 25376), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -126,6 +128,8 @@ elseif ( **Faction is** <= Indifferent) then
 
 
 >**Barlek Stonefist says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
+
+
 
 
 ## Turn-Ins

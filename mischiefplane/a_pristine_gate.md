@@ -1,4 +1,6 @@
 # a pristine gate
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

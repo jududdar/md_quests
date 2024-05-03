@@ -1,4 +1,6 @@
 # Axe Broadsmith
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Axe Broadsmith says:** Beyond the Plains of Karana can be found a pass to Lake Rathe. I have heard stories of a giant water beast and underwater cities. I wish I knew how to swim.
 end
+
+
 
 ## Turn-Ins
 

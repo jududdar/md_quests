@@ -1,4 +1,6 @@
 # a swirlspine seahorse
+
+
 ## On NPC Death
 
 if(math.random(100) < 45) then

@@ -1,7 +1,11 @@
 # Ogog
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +38,8 @@
 
 >**Ogog says:** This one hard, Ogog like it.  Ogog need efreeti battle axe, some honey nectar, bottled djinni, and ethereal emerald. Then Ogog make you best basher.
 end
+
+
 
 ## Turn-Ins
 
@@ -92,6 +98,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Ogog despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

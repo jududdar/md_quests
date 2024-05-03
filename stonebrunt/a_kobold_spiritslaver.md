@@ -1,4 +1,6 @@
 # a kobold spiritslaver
+
+
 ## Dialog
 
 **You say:** `hail`

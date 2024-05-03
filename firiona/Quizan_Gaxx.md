@@ -1,4 +1,6 @@
 # Quizan Gaxx
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -10,6 +12,8 @@
 
 e.self:DoAnim(30);
 end
+
+
 
 ## Turn-Ins
 

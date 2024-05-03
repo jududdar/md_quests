@@ -1,8 +1,12 @@
 # a lesser spirit
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Dialog
 
 local randomize = math.random(100);
@@ -67,6 +71,8 @@ else
 
 >**a lesser spirit says:** Oh look, a talking lump of refuse. How novel!
 end
+
+
 
 ## Timer(s)
 

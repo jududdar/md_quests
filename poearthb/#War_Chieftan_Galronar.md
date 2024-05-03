@@ -2,9 +2,13 @@
 
 local INVIS_MAN_ID = 369488;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *check* for 1 seconds
+
+
 ## Timer(s)
 
 eq.stop_timer(e.timer);
@@ -17,6 +21,8 @@ if ( **spawned NPC:**  [A Rock Studded Champion](/npc/222010) ) then
 
 return;
 end
+
+
 
 ## On NPC Death
 

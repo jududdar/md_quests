@@ -1,4 +1,6 @@
 # Guard Colin
+
+
 ## Dialog
 
 **You say:** `hail`

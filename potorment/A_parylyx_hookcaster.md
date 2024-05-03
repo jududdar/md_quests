@@ -1,7 +1,11 @@
 # A parylyx hookcaster
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "depop" ) then
@@ -9,6 +13,8 @@ if ( e.timer == "depop" ) then
 
 **A parylyx hookcaster despawns.**
 end
+
+
 
 ## Combat
 

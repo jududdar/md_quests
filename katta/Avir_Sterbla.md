@@ -1,4 +1,6 @@
 # Avir Sterbla
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 
 >**Avir Sterbla says:** The vampyres are becoming a larger threat to the safety of our citizens and it is the responsibility of the Magus Conlegium to find magical ways of stifling this threat while the Validus Custodus fight them with physical means. However, I am running short on research components. I will trade for every four samples of vampyre blood or every four piles of vampyre ashes.
 end
+
+
 
 ## Turn-Ins
 

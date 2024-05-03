@@ -1,4 +1,6 @@
 # Teloa
+
+
 ## Turn-Ins
 
 
@@ -15,6 +17,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 eq.start(12);
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

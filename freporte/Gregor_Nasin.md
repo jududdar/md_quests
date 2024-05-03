@@ -1,4 +1,6 @@
 # Gregor Nasin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -62,6 +64,8 @@
 >**Gregor Nasin says:** Brunar is just a humble fisherman. He stea... I mean catches, fish and I pay him for them. How else do you think I keep the bar supplied with bowls of tasty hunks of dried halibut?
 end
 
+
+
 ## Turn-Ins
 
 
@@ -103,6 +107,8 @@ Your faction standing with [The Freeport Militia](/faction/330) got better (<spa
 **You receive coin:** 2 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

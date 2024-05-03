@@ -1,4 +1,6 @@
 # Guard Grizma
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Guard Grizma says:** My trophy from the tunnels is some sort of baton.  I cannot seem to get the hang of wielding it.  A monk once showed me the proper way to use it, but I quickly dismissed him.  Hah!!  I need not take instructions from men who do not understand the beauty of the blade.
 end
+
+
 
 ## Turn-Ins
 

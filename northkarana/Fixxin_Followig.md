@@ -1,8 +1,12 @@
 # Fixxin Followig
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "follow") then
@@ -29,6 +33,8 @@ eq.follow(follow_mob,35);
 **Stop timer** named *follow*
 
 end
+
+
 
 
 ## Dialog
@@ -71,6 +77,8 @@ end
 
 
 end
+
+
 
 ## Turn-Ins
 

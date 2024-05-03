@@ -1,10 +1,16 @@
 # Endric
+
+
 ## On NPC Spawn
 
 **Set a timer** named *clean* for 6200 seconds
+
+
 ## Timer(s)
 
 >**Endric says:** Clean the [aqueducts] they tell me!  Peh.  I don't care how much they pay me, I am not climbing into that filth.
+
+
 ## Dialog
 
 **You say:** `aqueducts`
@@ -27,6 +33,8 @@
 
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Guard Fireblight
+
+
 ## Dialog
 
 **You say:** `soldiers`

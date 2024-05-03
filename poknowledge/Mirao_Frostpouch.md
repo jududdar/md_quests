@@ -1,5 +1,7 @@
 # Mirao Frostpouch
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -17,6 +19,8 @@ e.self:DoAnim(60);
 
 >**Mirao Frostpouch says:** That poor lad, he's always catching ill this time of year. Unfortunately I am out of the medicine he needs right now. Perhaps if you could obtain the key ingredient I am missing, I could brew up a batch for you to take to him. I have heard Cador recently came into possession of some black lava powder. If you can convince him to give you some, bring it to me right away!
 end
+
+
 
 ## Turn-Ins
 

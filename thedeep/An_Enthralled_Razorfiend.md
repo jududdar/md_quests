@@ -1,6 +1,8 @@
 # An Enthralled Razorfiend
 rand = 0;
 
+
+
 ## Arrive at Waypoint Script
 
 rand = math.random(1,2);
@@ -22,6 +24,8 @@ else
 >*An Enthralled Razorfiend peers around the cavern.  You get the distinct impression it knows you're here.*
 
 end
+
+
 
 ## Depart from Waypoint Script
 

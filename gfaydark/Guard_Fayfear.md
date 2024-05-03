@@ -1,4 +1,6 @@
 # Guard Fayfear
+
+
 ## Dialog
 
 **You say:** `soldiers`

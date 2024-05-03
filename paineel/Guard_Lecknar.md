@@ -1,4 +1,6 @@
 # Guard Lecknar
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

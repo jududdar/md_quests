@@ -193,6 +193,8 @@ npc:Depop();
 
 end
 
+
+
 ## Combat
 
 if  Glykus Helmir enters combat  then
@@ -218,6 +220,8 @@ else
 
 **Set a timer** named *poof* for 90 seconds
 end
+
+
 
 ## Timer(s)
 
@@ -466,6 +470,8 @@ DepopBoars();
 
 end
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -473,6 +479,8 @@ if ( e.signal == 1 ) then
 
 GetBoarIDs(); 
 end
+
+
 
 ## On NPC Death
 

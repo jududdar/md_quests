@@ -1,4 +1,6 @@
 # The Protector of Dresolik
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212414) at (**y:** 1449, **x:** 166)
@@ -10,9 +12,13 @@
 **Spawn NPC:**  [a warder of Dresolik](/npc/212419) at (**y:** 1982, **x:** 1007)
 
 **Spawn NPC:**  [a warder of Dresolik](/npc/212419) at (**y:** 1918, **x:** 1041)
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
+
+
 ## Timer(s)
 
 
@@ -50,6 +56,8 @@ elseif ( e.timer == "depop" ) then
 
 **The Protector of Dresolik despawns.**
 end
+
+
 
 ## Combat
 

@@ -1,6 +1,8 @@
 # Wembly the Forlorn
 
 
+
+
 ## Dialog
 
 if (  **Faction is** >= Amiable ) then
@@ -67,6 +69,8 @@ else
 
 >**Wembly the Forlorn says:** You need to prove your dedication to our cause before I can discuss such matters with you.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Lineol Teropalig
+
+
 ## Dialog
 
 **You say:** `hail`

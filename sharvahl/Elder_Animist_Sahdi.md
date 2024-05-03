@@ -1,4 +1,6 @@
 # Elder Animist Sahdi
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -41,6 +43,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_656.png" alt="" /> <a
                                 href="/item/2878" data-url="2878" class="tooltip-link link">Initiate's Cloak of Shar Vahl</a>
 end
+
+
 
 ## Turn-Ins
 

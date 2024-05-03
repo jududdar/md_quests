@@ -1,4 +1,6 @@
 # Moodoro Finharn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@ else
 >**Moodoro Finharn says:** I need some of Erud's tonic water. There is a merchant in Erudin who sells it.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 6) then
@@ -72,6 +76,8 @@ eq.set_anim(2040,1);
 >**Moodoro Finharn says:** Ooooh.. Bllaughhh.. Ooh.. I need some tonic.
 end
 
+
+
 ## Signals
 
 
@@ -79,6 +85,8 @@ if(e.signal == 1) then
 
 
 >**Moodoro Finharn says:** HA! HA! HA! Oh...  <burp> HA!  HA!  HA! How pitiful! HA! HA!
+
+
 
 
 
@@ -150,6 +158,8 @@ elseif( **You turn in:** gold = 2) then
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

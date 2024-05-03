@@ -1,7 +1,11 @@
 # Lomarc
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -16,6 +20,8 @@ while ( e.self:CheckGround() ) do
 >**Lomarc says:** I'm sure I have a few contacts who would be very pleased with this find.
 
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 16 or e.wp == 43 or e.wp == 70) then
@@ -23,6 +29,8 @@ if(e.wp == 16 or e.wp == 43 or e.wp == 70) then
 
 >**Lomarc says:** Psst.. Hey, you there.. Yeah, you.. You need some [blank scroll sheets].. I just got a special shipment of things in.. Come on, it's just what you're looking for.. I know you.
 end
+
+
 
 ## Dialog
 
@@ -98,6 +106,8 @@ else
 >**Lomarc says:** To a wanderer of the Karanas such as myself, you are as insignificant as the dirt I walk on.
 
 end
+
+
 
 ## Turn-Ins
 

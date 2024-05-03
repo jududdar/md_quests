@@ -1,5 +1,7 @@
 # Councilwoman Kerasha
 
+
+
 ## Dialog
 
 
@@ -48,6 +50,8 @@ else
 >**Councilwoman Kerasha says:** Greetings Soandso. I am Councilwoman Kerasha, representative of the Selia district. I provide the voice of nature to the Council of Tanaan. Woe is the city in any realm that forgets to heed Mother Tunare. For where else could one draw strength from but the land?
 
 end
+
+
 
 ## Turn-Ins
 

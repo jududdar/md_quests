@@ -1,4 +1,6 @@
 # Barnal Flamehand
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Barnal Flamehand says:** I am not empty-handed. I have already located some of the most rare scrolls. I'll part with one of my four for what you return to me. Fare thee well!
 end
+
+
 
 ## Turn-Ins
 

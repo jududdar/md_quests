@@ -1,5 +1,7 @@
 # Snowbeast
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 >*Snowbeast emits a low rumble and slowly nods his head in Soandso's direction. 'I applaud your courage little one. You must either be strong of spirit or weak of mind to show such little fear of me. I am the embodiment of primal instincts and bestial rage and protector of the mighty warrior beasts.*
 end
+
+
 
 ## Turn-Ins
 

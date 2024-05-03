@@ -1,4 +1,6 @@
 # Noril Galoon
+
+
 ## Dialog
 
 **You say:** `spare time`
@@ -7,6 +9,8 @@
 
 >**Noril Galoon says:** Shields and bucklers are very versatile. They can be used to deflect blows, knock your opponents off balance, and even offer a secondary form of attack. If you want me to help you to modify your shield, I'll need you to gather some rough ore pieces. They can be taken from the rhinobeetles that reside in the moor. Place them in a forge with a flask of water and your set of files to create bolts. Combine the full bag of bolts and return the product and the buckler to me.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Seria Woodwind
+
+
 ## Dialog
 
 if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race() == "Half Elf") and eq.get_current_expansion() >= 4.0) then
@@ -151,6 +153,8 @@ else
 >**Seria Woodwind says:** Hail friend. I am Seria Woodwind of the Royal Order of the Koada'Vie, the defenders of Felwithe. I assist young Koada'Dal that are called into Tunare's service as a paladin in learning the ways of the Koada'Vie so that one day they too may bear that noble title.
 
 end
+
+
 
 ## Turn-Ins
 

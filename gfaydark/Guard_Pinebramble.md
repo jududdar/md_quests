@@ -1,4 +1,6 @@
 # Guard Pinebramble
+
+
 ## Dialog
 
 **You say:** `soldiers`

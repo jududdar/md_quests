@@ -1,4 +1,6 @@
 # Guard Dalthur
+
+
 ## Dialog
 
 **You say:** `armor`

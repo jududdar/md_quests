@@ -1,6 +1,8 @@
 # Yiz Pon
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@
 >**Yiz Pon says:** There is no time... must keep moving... ugh.
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "assassin") then
@@ -51,6 +55,8 @@ if(e.timer == "assassin") then
 
 **Yiz Pon despawns.**
 end
+
+
 
 ## Combat
 

@@ -1,4 +1,6 @@
 # Derick Goodroot
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,10 +1,14 @@
 # Marl Kastane
 
+
+
 ## On NPC Spawn
 
 
 
 **Set a timer** named *depop* for 4800 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -18,6 +22,8 @@ if( **Faction is** > Dubious) then
 >**Marl Kastane says:** Alas, I cannot be the one to carry the sword back to my people as proof in fear they will kill me to possess it for their own. I think a simple trade is in order. Perhaps you have a symbol or token of Lhanrc's that I could take back to the others to ease their worries?
 
 end
+
+
 
 ## Turn-Ins
 
@@ -48,6 +54,8 @@ Your faction standing with [Truespirit](/faction/404) got worse (<span class='te
 **Marl Kastane despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Fraeg Coldblade
+
+
 ## Dialog
 
 **You say:** `hail`

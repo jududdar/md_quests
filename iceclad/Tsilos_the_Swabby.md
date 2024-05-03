@@ -1,4 +1,6 @@
 # Tsilos the Swabby
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@ if(**spawned NPC:**  [Captain Nalot](/npc/110069)) then
 eq.get_entity_list():GetMobByNpcTypeID( [Captain Nalot](/npc/110069)):Say("WHAT?!  Codsarnit boy!  This be a pirate camp.  Ye best batten down those matches and learn ta be tough or ya ain't ever gonna make it!");
 
 end
+
+
 
 ## Signals
 

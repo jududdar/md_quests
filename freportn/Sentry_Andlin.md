@@ -1,4 +1,6 @@
 # Sentry Andlin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sentry Andlin says:** Greetings! I would love to converse with you, but as you cansee, I am standing my watch.
 end
+
+
 
 ## Turn-Ins
 

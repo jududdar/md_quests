@@ -1,4 +1,6 @@
 # Saemey Wirewhisker
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -91,6 +93,8 @@ else
 >**Saemey Wirewhisker says:** You have done much to anger the spirits thus you are not accepted by our people.
 
 end
+
+
 
 ## Turn-Ins
 

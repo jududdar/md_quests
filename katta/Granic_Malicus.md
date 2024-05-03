@@ -1,4 +1,6 @@
 # Granic Malicus
+
+
 ## Dialog
 
 **You say:** `hail`

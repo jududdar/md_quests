@@ -1,4 +1,6 @@
 # Guard Kristrun
+
+
 ## Dialog
 
 **You say:** `hail`

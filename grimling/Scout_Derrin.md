@@ -1,4 +1,6 @@
 # Scout Derrin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Scout Derrin says:** I can lead a dozen men of my strength on a raid against a well fortified grimling encampment. It's a risky mission, but one that has the potential to yield substantial rewards. If you have the manpower and the courage, give me a glowing acrylia sphere and we'll get started.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # a grimling runner
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1620 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **a grimling runner despawns.**
 end
+
+
 
 ## Combat
 
@@ -27,6 +33,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Arrive at Waypoint Script
 

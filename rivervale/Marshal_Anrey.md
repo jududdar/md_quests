@@ -1,6 +1,8 @@
 # Marshal Anrey
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -99,6 +101,8 @@ else
 
 >**Marshal Anrey says:** What!  The only things from there are gnolls and trolls!  Which one are you?!  You kind of look like a troll, but you smell like a gnoll!  Get out of my sight or you will be cleaning the latrine with a toothbrush!
 end
+
+
 
 ## Turn-Ins
 

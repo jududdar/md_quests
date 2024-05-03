@@ -8,6 +8,8 @@ local hour = zone_time["zone_hour"];
 local minute = zone_time["zone_minute"];
 
 eq.debug(" At: " .. hour .. ":" .. minute .. " BoatID: " .. e.boat_id .. " was boarded. Its name is: " .. e.self:GetBoatName() .. ".", 1);
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,4 +1,6 @@
 # Legionnaire Galea
+
+
 ## Dialog
 
 **You say:** `hail`

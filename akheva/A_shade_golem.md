@@ -1,7 +1,11 @@
 # A shade golem
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 75 seconds
+
+
 ## Combat
 
 if A shade golem enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

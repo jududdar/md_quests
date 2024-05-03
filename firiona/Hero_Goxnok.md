@@ -1,5 +1,7 @@
 # Hero Goxnok
 
+
+
 ## Dialog
 
 **You say:** `charasis tome`
@@ -21,6 +23,8 @@ e.self:SetAppearance(1);
 **Set a timer** named *Talk1* for 180 seconds
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -31,6 +35,8 @@ if(e.signal == 1) then
 
 **Hero Goxnok despawns.**
 end
+
+
 
 ## Timer(s)
 
@@ -53,6 +59,8 @@ if(e.timer == "Talk2") then
 
 **Stop timer** named *Talk2*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Brimgald Brightsteel
+
+
 ## Dialog
 
 **You say:** `hail`

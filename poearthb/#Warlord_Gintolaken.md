@@ -1,9 +1,13 @@
 # Warlord Gintolaken
 local BOSS_TYPES = { 222035, 222037, 222036, 222008, 222009, 222010 }; 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *check* for 1 seconds
+
+
 ## Combat
 
 if  Warlord Gintolaken enters combat  then
@@ -46,6 +50,8 @@ e.self:GMMove(e.self:GetGuardPointX(), e.self:GetGuardPointY(), e.self:GetGuardP
 e.self:SetHP(e.self:GetHP() + math.floor(e.self:GetMaxHP() * 0.3));
 
 end
+
+
 
 ## Timer(s)
 
@@ -133,6 +139,8 @@ return;
 
 
 end
+
+
 
 ## On NPC Death
 

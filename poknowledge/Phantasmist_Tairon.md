@@ -1,5 +1,7 @@
 # Phantasmist Tairon
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -28,6 +30,8 @@ e.self:DoAnim(70);
 e.self:Emote("gives a deep, sweeping bow of proper and formal greetings. 'Welcome, Heiggan, to the district of Tanaan 
 
 end
+
+
 
 ## Turn-Ins
 

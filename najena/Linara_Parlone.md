@@ -1,6 +1,8 @@
 # Linara Parlone
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Linara Parlone says:** Last I knew, Najena's priest had the key. I fear he has left this place though. I heard talk of traveling to some estate. I know not where. Oh dear, oh dear! I shall never leave this place!
 end
+
+
 
 ## Turn-Ins
 

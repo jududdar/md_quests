@@ -1,4 +1,6 @@
 # Hendi Mrubble
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -25,6 +27,8 @@
 
 >**Hendi Mrubble says:** Cure poison, eh?  Before we do that, you must fetch me three bixie stingers.
 end
+
+
 
 ## Turn-Ins
 

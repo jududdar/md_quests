@@ -27,6 +27,8 @@ npc:DoAnim(animationId);
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -50,6 +52,8 @@ skipAggroText = true;
 
 e.self:AddToHateList(e.other);
 end
+
+
 
 ## Combat
 
@@ -80,6 +84,8 @@ skipAggroText = false;
 
 **Set a timer** named *stop* for 600 seconds
 end
+
+
 
 ## Timer(s)
 

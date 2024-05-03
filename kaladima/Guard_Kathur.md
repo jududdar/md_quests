@@ -1,4 +1,6 @@
 # Guard Kathur
+
+
 ## Dialog
 
 **You say:** `armor`

@@ -1,6 +1,8 @@
 # Fright
 
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -8,6 +10,8 @@ if(e.signal == 1) then
 
 >**Fright says:** Such is the will of Cazic-Thule!
 end
+
+
 
 ## On NPC Death
 

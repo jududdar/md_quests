@@ -1,4 +1,6 @@
 # Lawyla
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Lawyla says:** Hello again Soandso. I see that you have spoken to Jualicn. We have been having problems with spies in this area. I require three items in order to recreate the magic necessary to scribe the spell. I need the head of a Kromzek spy, the teachings of Relinar, and finally a scale from Hsagra. In order for the magic of Hsagra to work, we must have some of her remains to complete the components. It is rumored that a high ranking giant noble that goes by the name Helssen, treasures a scale that came from the body of Hsagra herself. But I believe you will have to kill him in order to take the scale away from him. He resides in the giant city with the other vile creatures. Bring it to me along with the head of the spy and the teachings of Relinar and we will conclude our dealings.
 end
+
+
 
 ## Turn-Ins
 

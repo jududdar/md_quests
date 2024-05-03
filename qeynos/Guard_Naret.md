@@ -1,4 +1,6 @@
 # Guard Naret
+
+
 ## Dialog
 
 **You say:** `hail`

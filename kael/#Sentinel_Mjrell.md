@@ -1,4 +1,6 @@
 # Sentinel Mjrell
+
+
 ## Dialog
 
 **You say:** `hail`

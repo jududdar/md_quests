@@ -1,4 +1,6 @@
 # Hrelic Reista
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Hrelic Reista says:** The sages of Knowledge have been able to create useful powers by translating some of the ancient scripts found in the planes. I've been doing further research into the Draught of Thunder spell. I believe I can refine the power of the thunder and lightning into a bolt of pure destructive energy. I hear rumors that the giants of Torden have acute control of thunder and lightning. If you bring me one of their lightning spheres and a copy of the Draught of Thunder scroll I may be able to weave them into a new spell.
 end
+
+
 
 ## Turn-Ins
 

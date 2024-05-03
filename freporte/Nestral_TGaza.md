@@ -1,4 +1,6 @@
 # Nestral TGaza
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -35,6 +37,8 @@
 
 >**Nestral TGaza says:** Well, um, I ah, I have to go now, thank you for the information, I have to make sure it goes to the right ears.
 end
+
+
 
 ## Turn-Ins
 

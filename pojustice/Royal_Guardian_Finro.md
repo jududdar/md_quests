@@ -4,6 +4,8 @@
 
 
 
+
+
 ## Dialog
 
 if(e.language == 12 and e.other:GetLanguageSkill(12) >= 100) then

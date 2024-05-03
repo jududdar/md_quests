@@ -1,4 +1,6 @@
 # Lerian Wyndrunner
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -279,6 +281,8 @@ else
 e.self:Emote("raises his chin high and continues an emotionless study of Soandso, 'You are tainted 
 
 end
+
+
 
 ## Turn-Ins
 

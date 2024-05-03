@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -76,6 +78,8 @@
 
 >**Randel Stormwind says:** Well it was quite a while ago that this happened. And Jorgan Leafrunner passed away a long time ago. However, his grandson Jeremy Leafrunner still lives, as does his grandmother Elishia who moved back to Felwithe after her husband's death. Many blame them for the trouble we are having now and for the sudden changes to our way of life. Already I have noticed an increase in [poaching].
 end
+
+
 
 ## Turn-Ins
 

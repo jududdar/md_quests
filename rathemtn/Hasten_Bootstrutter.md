@@ -1,7 +1,11 @@
 # Hasten Bootstrutter
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +38,8 @@ e.self:SetRunning(true);
 
 >**Hasten Bootstrutter says:** Ancient cyclopes do march the land.  Long have they lived and crafted the rings of the ancients.  I must have one and you shall go and fetch one for me.  Seek the lands of the oldest cyclops clans.  Seek the plains. seek the island in tears and search the dunes for there is one who is last.  His clan was blown from the sands.
 end
+
+
 
 ## Turn-Ins
 

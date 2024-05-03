@@ -2,6 +2,8 @@
 local KNIGHT_SPAWNID = 369225;
 local MAGUS_SPAWNID = 369226;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 11700 seconds
@@ -9,9 +11,13 @@ local MAGUS_SPAWNID = 369226;
 eq.get_entity_list():GetSpawnByID(KNIGHT_SPAWNID):Enable();
 
 eq.get_entity_list():GetSpawnByID(MAGUS_SPAWNID):Enable();
+
+
 ## Timer(s)
 
 **Bishop Toluwon despawns.**
+
+
 ## Combat
 
 if  Bishop Toluwon enters combat  then
@@ -24,6 +30,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

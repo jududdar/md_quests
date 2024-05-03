@@ -1,4 +1,6 @@
 # Trumpy Irontoe
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -97,6 +99,8 @@ else
 
 >**Trumpy Irontoe says:** You had better just be... <BURP!>...  minding your own business if you know what is good for you.  Gnollbreath.  We Irontoes are a proud and strong bunch of dwarves from [Kaladim].  We crush weaklings like you.  <BURP!>
 end
+
+
 
 ## Turn-Ins
 

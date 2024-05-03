@@ -1,8 +1,12 @@
 # Alchemist Granika
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 10 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -11,6 +15,8 @@
 
 >**Alchemist Granika says:** If you were sent to me, show proof or be gone from my sight!
 end
+
+
 
 ## Turn-Ins
 
@@ -53,6 +59,8 @@ eq.start(4);
 **Signaled to:**  [a cliff golem](/npc/93077)
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

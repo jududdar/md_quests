@@ -1,4 +1,6 @@
 # a raging highland kobold
+
+
 ## Dialog
 
 **You say:** `hail`

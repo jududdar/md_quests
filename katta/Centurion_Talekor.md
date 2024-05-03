@@ -1,4 +1,6 @@
 # Centurion Talekor
+
+
 ## Dialog
 
 **You say:** `hail`

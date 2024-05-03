@@ -1,4 +1,6 @@
 # a glare lord
+
+
 ## Signals
 
 if(e.signal == 1) then

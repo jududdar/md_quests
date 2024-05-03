@@ -1,10 +1,16 @@
 # Ergrez Shortpaw
+
+
 ## On NPC Spawn
 
 **Set a timer** named *skin* for 120 seconds
+
+
 ## Timer(s)
 
 >*Ergrez Shortpaw works at skinning and cleaning the raw furs around him.*
+
+
 ## Dialog
 
 **You say:** `skinning`
@@ -61,6 +67,8 @@
 
 >**Ergrez Shortpaw says:** Good wolf fur I make you cloak.  All it take for cloak is fur and skinning rock.  I need two skinning rock though.  I very low on rocks.
 end
+
+
 
 ## Turn-Ins
 

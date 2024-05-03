@@ -1,4 +1,6 @@
 # Azdalin
+
+
 ## Combat
 
 local random_result = math.random(60);
@@ -31,6 +33,8 @@ else
 >**Azdalin says:** " .. e.other:Class() .. " like you are an affront to my senses!
 
 end
+
+
 
 ## Turn-Ins
 

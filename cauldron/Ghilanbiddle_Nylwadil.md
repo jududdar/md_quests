@@ -1,4 +1,6 @@
 # Ghilanbiddle Nylwadil
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then
@@ -42,6 +44,8 @@ else
 >**Ghilanbiddle Nylwadil says:** You dare to speak to a member of the Eldritch Collective!! You had best leave before you find your soul displaced from your body.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -84,6 +88,8 @@ Your faction standing with [King Ak`Anon](/faction/333) got better (<span class=
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Signals
 
 >**Ghilanbiddle Nylwadil says:** Ha!! One like that one stands no chance within this realm. The goblins shall skin him alive!!

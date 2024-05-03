@@ -1,4 +1,6 @@
 # Xantomo Salmor
+
+
 ## Dialog
 
 **You say:** `hail`

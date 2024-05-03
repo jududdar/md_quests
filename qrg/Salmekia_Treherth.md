@@ -1,4 +1,6 @@
 # Salmekia Treherth
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -140,6 +142,8 @@ e.self:Say(string.format("Welcome to Surefall Glade, %s, the home of the Jaggedp
 >**Salmekia Treherth says:** The Bloodsabers are responsible for a number of atrocities including the spreading of the diseases which have been inflicting the wolves and bears of the Qeynos Hills and the recent poisoning of the farmers fields in the Plains of Karana. Recently we have discovered that a Bloodsaber defiler has been attempting to poison the waters of Surefall Glade. Find this individual and deal with him accordingly, I doubt that this individual will surrender willingly. If need be eliminate them and bring me their head.
 
 end
+
+
 
 ## Turn-Ins
 

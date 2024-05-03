@@ -1,9 +1,13 @@
 # Spirit of Venril Sathir
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -12,6 +16,8 @@
 
 >**Spirit of Venril Sathir says:** So mortals, you seek tothe tainting of Tunare's children? So be it, I have no cares. My death has been caused by this foolishness and I want no more to do with it. Bring me a scroll with the knowledge of resurrection so that I may once again live. I will hand you that which you seek.
 end
+
+
 
 ## Turn-Ins
 
@@ -30,6 +36,8 @@ if( **You turn in:** item1 =  <img style="background:url(/static/icons/blank_slo
 **Spirit of Venril Sathir despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

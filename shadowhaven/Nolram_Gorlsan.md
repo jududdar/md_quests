@@ -1,4 +1,6 @@
 # Nolram Gorlsan
+
+
 ## Dialog
 
 **You say:** `hail`

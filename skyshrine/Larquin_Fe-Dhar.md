@@ -22,6 +22,8 @@ quest_helper:melee_legs(SKYSHRINE_ARMOR.Leather_Leggings, 5451),
 quest_helper:melee_boots(SKYSHRINE_ARMOR.Leather_Boots, 5452), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -103,6 +105,8 @@ else
 
 
 >**Larquin Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
+
+
 
 
 

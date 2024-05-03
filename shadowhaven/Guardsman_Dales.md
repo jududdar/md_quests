@@ -1,4 +1,6 @@
 # Guardsman Dales
+
+
 ## Dialog
 
 **You say:** `hail`

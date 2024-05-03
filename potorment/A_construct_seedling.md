@@ -1,9 +1,13 @@
 # A construct seedling
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 100 seconds
 
 **Set a timer** named *move* for 0 seconds
+
+
 ## Timer(s)
 
 
@@ -34,6 +38,8 @@ elseif ( e.timer == "depop" ) then
 
 
 **A construct seedling despawns.**
+
+
 
 ## Combat
 

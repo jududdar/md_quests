@@ -1,6 +1,8 @@
 # Emkel Kabae
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Emkel Kabae says:** You must ask the master about the symbol of testing. Do not hand the symbol to him for he may interpret that as a breach of conduct.
 end
+
+
 
 ## Turn-Ins
 

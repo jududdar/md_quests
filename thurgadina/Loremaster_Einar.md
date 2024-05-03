@@ -43,9 +43,13 @@ quest_helper:melee_chest(THURG_ARMOR.Leather_Tunic, 31092),
 quest_helper:melee_helmet(THURG_ARMOR.Leather_Cap, 31091)
 }
 
+
+
 ## Dialog
 
 quest_helper.quest_text(e, QUEST_TEXT, 3);
+
+
 
 ## Turn-Ins
 

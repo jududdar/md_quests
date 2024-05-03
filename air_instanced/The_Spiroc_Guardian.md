@@ -1,4 +1,6 @@
 # The Spiroc Guardian
+
+
 ## On NPC Death
 
 **Signaled to:**  [a spiroc walker](/npc/71014)
@@ -6,9 +8,13 @@
 **Signaled to:**  [a spiroc banisher](/npc/71007)
 
 **Signaled to:**  [a spiroc revolter](/npc/71010)
+
+
 ## On NPC Spawn
 
 **Set a timer** named *lord* for 1 seconds
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -16,6 +22,8 @@ if ( e.signal == 1 ) then
 
 **Set a timer** named *lord* for 1 seconds
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Dolus Rical
+
+
 ## Dialog
 
 **You say:** `hail`

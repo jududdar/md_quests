@@ -1,4 +1,6 @@
 # High Priest I-Xar
+
+
 ## Signals
 
 if(e.signal==1) then
@@ -20,6 +22,8 @@ e.self:SetRunning(true);
 eq.start(14);
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp==28) then
@@ -27,6 +31,8 @@ if(e.wp==28) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # Snowfang icehunter
+
+
 ## On NPC Spawn
 
 **Set a timer** named *fish* for 600 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "fish") then

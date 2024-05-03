@@ -1,4 +1,6 @@
 # Guardsman Joroli
+
+
 ## Dialog
 
 **You say:** `hail`

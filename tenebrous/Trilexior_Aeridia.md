@@ -1,4 +1,6 @@
 # Trilexior Aeridia
+
+
 ## On NPC Death
 
 if(**spawned NPC:**  [\#Heratius Grolden](/npc/172013) == false and **spawned NPC:** 172014 == false) then

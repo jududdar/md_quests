@@ -1,4 +1,6 @@
 # Trooper Melzok
+
+
 ## Dialog
 
 **You say:** `hail`

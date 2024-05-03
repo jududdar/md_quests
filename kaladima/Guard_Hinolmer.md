@@ -1,4 +1,6 @@
 # Guard Hinolmer
+
+
 ## Dialog
 
 **You say:** `armor`

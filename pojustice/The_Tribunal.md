@@ -434,6 +434,8 @@ client:GetPet():GMMove(x, y, z, 0);
 eq.get_entity_list():RemoveFromHateLists(client);
 end
 
+
+
 ## Signals
 
 local trialNum = SPAWNPOINT_IDS[e.self:GetSpawnPointID()];
@@ -463,6 +465,8 @@ trialsUnderway[trialNum] = true;
 eq.debug(TRIAL_TEXT[trialNum].." success.  Accessible again in 30 minutes", 1);
 end
 
+
+
 ## Timer(s)
 
 if ( #e.timer == 6 ) then
@@ -489,6 +493,8 @@ trialsUnderway[num] = nil;
 eq.debug(TRIAL_TEXT[num].." is now available", 1);
 
 end
+
+
 
 ## Dialog
 

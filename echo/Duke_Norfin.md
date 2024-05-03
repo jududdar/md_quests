@@ -1,6 +1,8 @@
 # Duke Norfin
 
 
+
+
 ## Dialog
 
 if **Faction** >= Apprehensive then
@@ -48,6 +50,8 @@ else
 
 >**Duke Norfin says:** You have a lot of nerve wandering in here. We'll be watching you carefully. Try anything and it will be the last thing you ever try.
 end
+
+
 
 ## Turn-Ins
 

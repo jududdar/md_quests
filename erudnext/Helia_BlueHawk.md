@@ -1,4 +1,6 @@
 # Helia BlueHawk
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +12,8 @@
 
 **Signaled to:**  [Phloatin Highbrow](/npc/24039)
 end
+
+
 
 ## Signals
 

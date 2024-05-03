@@ -1,4 +1,6 @@
 # Opal Darkbriar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Opal Darkbriar says:** Greetings! You will have to excuse me. I have no time to talk right now and I prefer to be left alone. Please leave.
 end
+
+
 
 ## Turn-Ins
 

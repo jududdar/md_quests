@@ -1,4 +1,6 @@
 # Sentinel Vejleorn
+
+
 ## Dialog
 
 **You say:** `hail`

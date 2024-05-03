@@ -1,4 +1,6 @@
 # Trooper Begzei
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -94,6 +94,8 @@ spawns[i] = 0;
 
 end
 
+
+
 ## On NPC Spawn
 
 eq.get_entity_list():GetSpawnByID(SORROWSONG_SPAWNID):SetTimer(1); 
@@ -101,6 +103,8 @@ eq.get_entity_list():GetSpawnByID(SORROWSONG_SPAWNID):SetTimer(1);
 event = 1;
 
 eq.set_next_hp_event(HP_EVENTS[event]);
+
+
 ## Combat
 
 if  Saryrn enters combat  then
@@ -125,6 +129,8 @@ else
 
 Despawn();
 end
+
+
 
 ## Timer(s)
 
@@ -228,6 +234,8 @@ for i = 1, 3 do
 
 eq.spawn2(eq.ChooseRandom(207306, 207308), 0, 0, math.random(-30, 30), math.random(-105, -55), 580, 0);
 end
+
+
 
 ## On NPC Death
 

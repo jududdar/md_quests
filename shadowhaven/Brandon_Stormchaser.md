@@ -1,4 +1,6 @@
 # Brandon Stormchaser
+
+
 ## Dialog
 
 **You say:** `hail`

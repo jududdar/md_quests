@@ -1,8 +1,12 @@
 # failed crypt raider
 
+
+
 ## On NPC Death
 
 >**failed crypt raider says:** Never.. to feel the mist.. again..
+
+
 ## Turn-Ins
 
 

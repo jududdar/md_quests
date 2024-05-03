@@ -1,4 +1,6 @@
 # Kalatrina Plossen
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -78,6 +80,8 @@ else
 >**Kalatrina Plossen says:** Leave my presence at once.  Your ways of life are not acceptable to one who follows the Truthbringer.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Questioner Longnight
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,5 +1,7 @@
 # Queen Velazul Di-zok
 
+
+
 ## Dialog
 
 if( **Faction is** >= Ally) then 
@@ -29,6 +31,8 @@ if( **Faction is** >= Ally) then
 >**Queen Velazul Di-zok says:** Very well, if you feel you are up to it, lead your broodlings to fallen Sebilis and return to us with a portion of undead dragon sinew. Bring us the Sinew, the Urn, and your Regal Band of Bathezid as proof of service, and a worthy reward shall be yours.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Guard Starstrike
+
+
 ## Dialog
 
 **You say:** `soldiers`

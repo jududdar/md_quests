@@ -1,4 +1,6 @@
 # Sir Artanis
+
+
 ## Dialog
 
 **You say:** `befallen`
@@ -7,6 +9,8 @@
 
 >**Sir Artanis says:** You did well to ride swiftly with this news. I must take this directly to Valeron Dushire. If you learn more about this plot that would unleash this monster upon Norrath or wish to someday soon aid the Knights of Truth in putting down this evil, then return to speak to me again at a later time.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Derron Gramjon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Derron Gramjon says:** For the vambraces you must prove yourself by bringing me a meteor jewel, a mark of the holy, a tome of deities, and a restored tapestry.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # Peffin Ambersnow
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 265 seconds
+
+
 ## Combat
 
 if Peffin Ambersnow enters combat  then
@@ -22,6 +26,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

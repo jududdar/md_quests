@@ -1,7 +1,11 @@
 # Wu the Enlightened
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@
 
 >**Wu the Enlightened says:** Ah, the test of tranquility. Only the tranquil monk can achieve enlightenment. Are you such an individual? Time shall tell. Retrieve these items for me. Bring an aged nectar, a Writ of Quellious, and a Tear of Quellious. Then we shall assess your ability.
 end
+
+
 
 ## Turn-Ins
 
@@ -77,6 +83,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

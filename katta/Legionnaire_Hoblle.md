@@ -1,4 +1,6 @@
 # Legionnaire Hoblle
+
+
 ## Dialog
 
 **You say:** `hail`

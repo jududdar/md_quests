@@ -1,4 +1,6 @@
 # General Jyleel
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -114,6 +116,8 @@ else
 >**General Jyleel says:** You have some nerve to approach a loyal member of the Paladins of Tunare! Run, while you can!
 
 end
+
+
 
 ## Turn-Ins
 

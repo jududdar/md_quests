@@ -1,4 +1,6 @@
 # Callowolf MacFuller
+
+
 ## Dialog
 
 **You say:** `hail`

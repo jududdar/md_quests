@@ -1,4 +1,6 @@
 # Sacrificed Remains
+
+
 ## On NPC Death
 
 if(math.random(1,100) <= 10) then 

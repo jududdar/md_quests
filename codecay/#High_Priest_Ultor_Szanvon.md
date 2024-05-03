@@ -1,10 +1,16 @@
 # High Priest Ultor Szanvon
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 11700 seconds
+
+
 ## Timer(s)
 
 **High Priest Ultor Szanvon despawns.**
+
+
 ## Combat
 
 if  High Priest Ultor Szanvon enters combat  then
@@ -17,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

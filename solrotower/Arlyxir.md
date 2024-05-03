@@ -1,4 +1,6 @@
 # Arlyxir
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212411) at (**y:** 1891, **x:** 1607)
@@ -10,6 +12,8 @@
 **Spawn NPC:**  [a warder of Arlyxir](/npc/212416) at (**y:** 1207, **x:** 1713)
 
 **Spawn NPC:**  [a warder of Arlyxir](/npc/212416) at (**y:** 1207, **x:** 1738)
+
+
 ## Combat
 
 if  Arlyxir enters combat  then
@@ -28,6 +32,8 @@ else
 
 **Stop timer** named *heal*
 end
+
+
 
 ## Timer(s)
 

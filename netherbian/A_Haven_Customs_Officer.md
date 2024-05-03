@@ -1,4 +1,6 @@
 # A Haven Customs Officer
+
+
 ## Combat
 
 if A Haven Customs Officer enters combat  then

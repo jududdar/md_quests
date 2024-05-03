@@ -1,4 +1,6 @@
 # Guard Dalammer
+
+
 ## Dialog
 
 **You say:** `armor`

@@ -21,6 +21,8 @@ quest_helper:melee_bracer(THURG_ARMOR.Leather_Bracelet, 31094),
 quest_helper:melee_legs(THURG_ARMOR.Leather_Leggings, 31096),
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Kindly) then
@@ -111,6 +113,8 @@ else
 
 >**Lorekeeper Einar says:** I do not know you well enough to entrust you with such a quest, yet.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Behroe Dlexon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -79,6 +81,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -145,6 +149,8 @@ Your faction standing with [Mayong Mistmoore](/faction/285) got worse (<span cla
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

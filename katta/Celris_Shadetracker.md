@@ -1,4 +1,6 @@
 # Celris Shadetracker
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Celris Shadetracker says:** One of the vampyre volatilis, the winged leaders of the Coterie of the Eternal Night, has been followed flying from their Aerie in the Tenebrous Mountains to a small vampyre settlement in the Maidens Eye far to the south. The volatilis appears to be picking up shipments of wineskins from a vampyre at the settlement and bringing them to their Aerie. I doubt that the skins actually contain wine or any other such relatively harmless liquid. If you could return one of these skins to me I will gladly honor you as I would one of my own scouts.
 end
+
+
 
 ## Turn-Ins
 

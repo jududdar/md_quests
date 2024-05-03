@@ -1,4 +1,6 @@
 # Asherah the Torch Bearer
+
+
 ## Dialog
 
 **You say:** `hail`

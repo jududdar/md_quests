@@ -1,4 +1,6 @@
 # Guard Elias
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then
@@ -9,6 +11,8 @@ if(e.wp == 2) then
 
 **Signaled to:**  [Milea Clothspinner](/npc/15118)
 end
+
+
 
 ## Signals
 

@@ -1,4 +1,6 @@
 # Nihilist Yeegarn
+
+
 ## Dialog
 
 **You say:** `Hail`

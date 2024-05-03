@@ -1,4 +1,6 @@
 # A Caravan Master
+
+
 ## Dialog
 
 **You say:** `hail`

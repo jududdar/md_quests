@@ -1,4 +1,6 @@
 # Astaed Wemor
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -104,6 +106,8 @@ else
 
 >**Astaed Wemor says:** I cannot help you with your request.   You must speak with Brother Tonmerk Plorsin.
 end
+
+
 
 ## Turn-Ins
 

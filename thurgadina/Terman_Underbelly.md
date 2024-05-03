@@ -21,6 +21,8 @@ quest_helper:priest_legs(THURG_ARMOR.Chain_Leggings, 31012),
 quest_helper:priest_boots(THURG_ARMOR.Chain_Boots, 31013) 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Kindly) then
@@ -123,6 +125,8 @@ else
 
 >**Terman Underbelly says:** I do not know you well enough to entrust you with such a quest, yet.
 end
+
+
 
 ## Turn-Ins
 

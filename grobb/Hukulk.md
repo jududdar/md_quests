@@ -1,5 +1,7 @@
 # Hukulk
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -101,6 +103,8 @@ else
 
 >**Hukulk says:** Oooh!  Lynuga!  Why yooz leave powerful Hukulk?  Now yooz just spen' time collectin' gems and tings in Innothule.
 end
+
+
 
 ## Turn-Ins
 

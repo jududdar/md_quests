@@ -1,4 +1,6 @@
 # Garn Allonode
+
+
 ## Dialog
 
 **You say:** `hail`

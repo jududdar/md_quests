@@ -1,7 +1,11 @@
 # an angry pansy
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds
+
+
 ## Combat
 
 if an angry pansy enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

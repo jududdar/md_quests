@@ -1,4 +1,6 @@
 # Rabley Trumend
+
+
 ## Dialog
 
 **You say:** `hail`

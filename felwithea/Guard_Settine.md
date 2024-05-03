@@ -1,4 +1,6 @@
 # Guard Settine
+
+
 ## Dialog
 
 **You say:** `supplies`
@@ -43,6 +45,8 @@
 
 >**Guard Settine says:** Look to the right of the paladin's temple and you shall find Faydark's Bane.  It is one of the finest weapons shops in Faydwer.  Their longswords, especially, are in high demand.
 end
+
+
 
 ## Turn-Ins
 

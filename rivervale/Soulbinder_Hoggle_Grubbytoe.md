@@ -1,6 +1,8 @@
 # Soulbinder Hoggle Grubbytoe
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -18,6 +20,8 @@
 
 **Soulbinder Hoggle Grubbytoe casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

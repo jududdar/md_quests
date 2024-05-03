@@ -1,6 +1,8 @@
 # a grotesque statue
 local entityIDs = {};
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 60 seconds
@@ -12,6 +14,8 @@ local entityIDs = {};
 
 
 entityIDs[e.self:GetID()] = e.self:GetX();
+
+
 ## Combat
 
 if  a grotesque statue enters combat  then
@@ -24,6 +28,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

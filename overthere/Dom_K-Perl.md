@@ -1,4 +1,6 @@
 # Dom K-Perl
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
 
 >**Dom K-Perl says:** I have a tome binder with the title 'The Origins of Pain'. Sounds like good reading, but it appears to be missing the pages it once held. If you want it, I shall give it to you for a bottle of blood ink from Cabilis and my spare reading spectacles.
 end
+
+
 ## Turn-Ins
 
 

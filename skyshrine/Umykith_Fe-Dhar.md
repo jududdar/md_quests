@@ -21,6 +21,8 @@ quest_helper:melee_legs(SKYSHRINE_ARMOR.Plate_Greaves, 31138),
 quest_helper:melee_boots(SKYSHRINE_ARMOR.Plate_Boots, 31139), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** >= Ally ) then 
@@ -103,6 +105,8 @@ else
 
 >**Umykith Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
 end
+
+
 
 ## Turn-Ins
 

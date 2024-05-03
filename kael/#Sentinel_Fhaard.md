@@ -1,4 +1,6 @@
 # Sentinel Fhaard
+
+
 ## Dialog
 
 **You say:** `hail`

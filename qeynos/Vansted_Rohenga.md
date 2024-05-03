@@ -1,4 +1,6 @@
 # Vansted Rohenga
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -146,6 +148,8 @@ if(eq.get_current_expansion() >= 4.0) then
 
 
 >**Vansted Rohenga says:** There is a believed to be a gnoll tactician somewhere in the gnoll camp of Blackburrow. I need you to bring whatever battle plans he may be in possession of so that I can position my troops accordingly. Return to me with whatever battle plans you can find along with 2 Gnoll Backbones and I will surely reward you for your dedication.
+
+
 
 
 

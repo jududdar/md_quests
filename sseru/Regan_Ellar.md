@@ -1,4 +1,6 @@
 # Regan Ellar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >*Regan Ellar spills her drink as you speak, 'umm, who?  I do not know anyone by that...' she trails off, unable to find the words.  'He... he failed the question.  I didn't have anything to do with it, why would you ask me?  On second thought, nevermind, I would really rather not talk about it thank you very much.  Good day to you Soandso.*
 end
+
+
 
 ## Arrive at Waypoint Script
 

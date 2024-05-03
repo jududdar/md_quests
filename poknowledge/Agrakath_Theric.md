@@ -1,5 +1,7 @@
 # Agrakath Theric
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,6 +16,8 @@
 
 >*Agrakath Theric grins and says, 'So, that weasel Caden has sent you to settle his debt? And you actually agreed to this endeavor? Ha ha, very well! I shall transfer the responsibility of what Caden owes me to your shoulders. I have a simple job for you. Somewhere in the library there lies a book I have been searching for, but it has eluded me for quite some time. I believe it can be found somewhere in the upper levels. You are to venture into Myrist and seek out a tome titled History of Evils: The Age of Scale, and bring it to me. Do this one task for me and your debt shall be relinquished.'*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,5 +1,7 @@
 # Kedrak
 
+
+
 ## Combat
 
 if  Kedrak enters combat  then

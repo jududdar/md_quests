@@ -1,4 +1,6 @@
 # Corudoth
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Corudoth says:** Halldor has retired from the life of an adventurer as I have. I would not tell you where he is as he is a good friend, but what I owe Helssen is stronger than comraderie or even friendship so I must comply; it is the word of Veeshan. Halldor now defends the halls in the great city of Thurgadin. To get the key you must fight your way into the city and kill Halldor. I wish you a most horrendous death, $race. Now leave me to my sleep.
 end
+
+
 
 ## Turn-Ins
 

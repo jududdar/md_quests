@@ -1,7 +1,11 @@
 # Relinin Skyrunner
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@
 
 >**Relinin Skyrunner says:** Elemental earth you say? When honed, the elements can be among our best allies. Retrieve a gridelin globe, a dragon hide mantle, and a spiroc earth totem. Only with these items can you master the element of earth.
 end
+
+
 
 ## Turn-Ins
 
@@ -75,6 +81,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,6 +1,8 @@
 # Ssynthi
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Ssynthi says:** The body of my true love lies within this tomb. I see a token to remember her by the flower which lies atop her coffin. I would get it myself, but the tomb is warded against my kind. Since I can not enter, I ask you to fetch it for me.
 end
+
+
 
 ## Turn-Ins
 

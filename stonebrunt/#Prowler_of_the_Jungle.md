@@ -1,6 +1,8 @@
 # Prowler of the Jungle
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >*Prowler of the Jungle crouches and narrows his eyes, examining Soandso attentively. 'I am Prowler of the Jungle, stalker of the corrupt, hunter of the impure. I am the guardian spirit of those who tread silently across the lands destroying that which has been tainted.'*
 end
+
+
 
 ## Turn-Ins
 

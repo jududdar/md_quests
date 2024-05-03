@@ -1,10 +1,16 @@
 # Mare X-Lottl
+
+
 ## On NPC Spawn
 
 **Set a timer** named *yoohoo* for 4200 seconds
+
+
 ## Timer(s)
 
 >**Mare X-Lottl says:** Yoohoo!
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +25,8 @@
 
 >**Mare X-Lottl says:** Why do you seek that little scamp when you have Mare right here? If you really want to know where she is, it will cost you. Did I ever tell you that my heart belongs to Jasper?
 end
+
+
 
 ## Turn-Ins
 

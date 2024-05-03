@@ -207,6 +207,8 @@ return true;
 
 
 return false;
+
+
 ## Dialog
 
 
@@ -322,6 +324,8 @@ else
 
 end
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -357,9 +361,13 @@ else
 
 end
 
+
+
 ## On NPC Spawn
 
 ports = 0;
+
+
 ## Timer(s)
 
 if ( e.timer == "checkplateau" ) then

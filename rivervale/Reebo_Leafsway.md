@@ -1,4 +1,6 @@
 # Reebo Leafsway
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -164,6 +166,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -239,6 +243,8 @@ Your faction standing with [Unkempt Druids](/faction/324) got worse (<span class
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 12 or e.wp == 33 or e.wp == 51 or e.wp == 73 or e.wp == 96 or e.wp == 120) then
@@ -246,6 +252,8 @@ if(e.wp == 12 or e.wp == 33 or e.wp == 51 or e.wp == 73 or e.wp == 96 or e.wp ==
 
 >*Reebo Leafsway whistles a happy hafling tune.*
 end
+
+
 
 ## Signals
 

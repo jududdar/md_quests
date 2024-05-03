@@ -1,4 +1,6 @@
 # Sern Adolia
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -77,6 +79,8 @@ else
 
 >**Sern Adolia says:** Tunare's Breath is a life-giving potion created by the Fier'Dal Soldiers of Tunare. Seek out the druid Kalayia who is known to wander the Faydarks in search of reagents for potions. Procure from her a vial of Tunare's Breath. Shed her blood if need be.
 end
+
+
 
 ## Turn-Ins
 

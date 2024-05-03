@@ -1,4 +1,6 @@
 # Sentry Ellison
+
+
 ## Dialog
 
 **You say:** `hail`

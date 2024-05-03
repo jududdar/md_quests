@@ -1,4 +1,6 @@
 # an Iksar slave
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 4) then
@@ -6,6 +8,8 @@ if(e.wp == 4) then
 
 e.self:SetAppearance(1);
 end
+
+
 
 ## Dialog
 

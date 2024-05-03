@@ -1,4 +1,6 @@
 # a barbarian mercenary
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**a barbarian mercenary says:** This better be good, " .. e.other:Race() .. "!  Well?  Spit it OUT!
 end
+
+
 
 ## Turn-Ins
 

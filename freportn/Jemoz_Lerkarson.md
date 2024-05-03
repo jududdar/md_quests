@@ -1,4 +1,6 @@
 # Jemoz Lerkarson
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -78,6 +80,8 @@ else
 >**Jemoz Lerkarson says:** Leave my presence at once. Your ways of life are not acceptable to one who follows the Truthbringer.
 
 end
+
+
 
 ## Turn-Ins
 

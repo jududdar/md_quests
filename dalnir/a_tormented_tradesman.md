@@ -1,5 +1,7 @@
 # a tormented tradesman
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 >**a tormented tradesman says:** End my suffering... I cannot think beyond this pain! Why am I in this place? What have I done?
 end
+
+
 
 ## Turn-Ins
 

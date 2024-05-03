@@ -1,6 +1,8 @@
 # Marton Stringsinger
 
 
+
+
 ## Dialog
 
 **You say:** `hail`

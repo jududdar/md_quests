@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -66,6 +68,8 @@ elseif(e.message:findi("hear the)) then
 
 >**Vhalen Nostrolo says:** I went home to confront Metala.  All I found was an empty house and a note. 'Sorry to leave. Thank you for all you have taught me. My new friends have shown me new paths of pain. My music shall sing for a new generation of bard. Goodbye.' <sigh> I never saw her again . Whatever she has started is twisted and contorted. It is not the music of the soul. She must be stopped before it is too late. Please go! I cannot speak of this further.
 end
+
+
 
 ## Turn-Ins
 

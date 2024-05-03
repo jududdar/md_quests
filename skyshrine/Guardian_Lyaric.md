@@ -1,4 +1,6 @@
 # Guardian Lyaric
+
+
 ## Dialog
 
 **You say:** `hail`

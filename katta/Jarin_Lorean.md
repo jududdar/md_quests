@@ -1,6 +1,8 @@
 # Jarin Lorean
 
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Indifferent) then
@@ -27,6 +29,8 @@ if ( **Faction is** >= Indifferent) then
                                 href="/item/19840" data-url="19840" class="tooltip-link link">Smuggled Goods</a>
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # A vampyre bat
+
+
 ## Combat
 
 if A vampyre bat enters combat  then

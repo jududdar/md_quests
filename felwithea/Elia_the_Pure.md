@@ -1,6 +1,8 @@
 # Elia the Pure
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 
 >**Elia the Pure says:** Our halls are nearby.  The priests are happy to bless you there.
 end
+
+
 
 ## Turn-Ins
 

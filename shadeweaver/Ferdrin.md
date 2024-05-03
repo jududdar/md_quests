@@ -1,4 +1,6 @@
 # Ferdrin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Ferdrin says:** If you provide me with three firefall claws, and a wooden practice flail, I am able to fashion them together into a Firefall Claw Club, for you to use.
 end
+
+
 
 ## Turn-Ins
 

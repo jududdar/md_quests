@@ -1,7 +1,11 @@
 # Enderbite
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@
 
 >**Enderbite says:** Incapacitation it is.  Proceed upward through the sky and return to me an efreeti wind staff, some sweet nectar, a black sky diamond, and a large sky sapphire.  This will prove your abilities to me and I will reward you with the Rod of the Protecting Winds.
 end
+
+
 
 ## Turn-Ins
 
@@ -77,6 +83,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

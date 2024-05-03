@@ -1,4 +1,6 @@
 # A Quaestor Guard
+
+
 ## Dialog
 
 **You say:** `hail`

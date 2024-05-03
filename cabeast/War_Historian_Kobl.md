@@ -1,4 +1,6 @@
 # War Historian Kobl
+
+
 ## Dialog
 
 **You say:** `Hail`

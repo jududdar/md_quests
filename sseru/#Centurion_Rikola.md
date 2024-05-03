@@ -1,4 +1,6 @@
 # Centurion Rikola
+
+
 ## Dialog
 
 **You say:** `hail`

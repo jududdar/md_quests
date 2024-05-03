@@ -1,4 +1,6 @@
 # Haggle Baron Klok
+
+
 ## Dialog
 
 **You say:** `hail`

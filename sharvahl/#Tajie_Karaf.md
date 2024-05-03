@@ -1,4 +1,6 @@
 # Tajie Karaf
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 18) then
@@ -27,6 +29,8 @@ e.self:SetAppearance(3);
 
 >*Tajie Karaf takes In a breath of fresh air as she gazes at the stars.*
 end
+
+
 
 ## Turn-Ins
 

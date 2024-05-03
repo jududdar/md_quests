@@ -1,6 +1,8 @@
 # Mizr N-Mar
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@
 
 >**Mizr N-Mar says:** So, you want a coin do you?
 end
+
+
 
 ## Turn-Ins
 

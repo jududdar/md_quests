@@ -1,4 +1,6 @@
 # Priestess Jahnda
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -74,6 +76,8 @@ else
 >**Priestess Jahnda says:** Your mere presence disgusts me. Please remove yourself from my sight. Until you change yourself and your ways, you are unwelcome in the Temple of Life.
 
 end
+
+
 
 ## Turn-Ins
 

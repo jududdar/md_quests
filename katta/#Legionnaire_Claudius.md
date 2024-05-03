@@ -1,4 +1,6 @@
 # Legionnaire Claudius
+
+
 ## Dialog
 
 local vahn = eq.get_entity_list():GetMobByNpcTypeID( [Vahn](/npc/160137));
@@ -26,6 +28,8 @@ if(vahn.valid) then
 **Legionnaire Claudius despawns.**
 
 end
+
+
 
 ## Arrive at Waypoint Script
 

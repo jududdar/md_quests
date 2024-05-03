@@ -1,4 +1,6 @@
 # Falthrik Lothoro
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

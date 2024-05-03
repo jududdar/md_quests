@@ -1,6 +1,8 @@
 # a kromrif recruiter
 
 
+
+
 ## Dialog
 
 if( **Faction is** > Apprehensive) then
@@ -35,6 +37,8 @@ else
 
 >**a kromrif recruiter says:** I will do nothing to help beings like you!
 end
+
+
 
 ## Turn-Ins
 

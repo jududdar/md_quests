@@ -1,7 +1,11 @@
 # Dugaas Helpyre
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +35,8 @@
 
 >**Dugaas Helpyre says:** The finger. Needed for nearly every casting you shall ever hope to produce, it truly is the most powerful creation. Should you bring me a White Spiroc Feather, a Nebulous Ruby, and the Ring of Veeshan, I shall reward you with power that you can just now begin to comprehend.
 end
+
+
 
 ## Turn-Ins
 
@@ -87,6 +93,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # High Spiritist Jimuul
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -16,6 +18,8 @@ if(e.signal == 3) then
 
 >**High Spiritist Jimuul says:** I cannot speak on that matter at this time.
 end
+
+
 
 ## Turn-Ins
 

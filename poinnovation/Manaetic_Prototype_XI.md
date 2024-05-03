@@ -1,4 +1,6 @@
 # Manaetic Prototype XI
+
+
 ## Timer(s)
 
 
@@ -63,6 +65,8 @@ e.self:GMMove(e.self:CastToNPC():GetSpawnPointX(), e.self:CastToNPC():GetSpawnPo
 e.self:Heal();
 
 end
+
+
 
 ## Combat
 

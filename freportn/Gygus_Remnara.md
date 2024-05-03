@@ -1,4 +1,6 @@
 # Gygus Remnara
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@ else
 >**Gygus Remnara says:** Leave my presence at once. Your ways of life are not acceptable to one who follows the Truthbringer.
 
 end
+
+
 
 ## Turn-Ins
 

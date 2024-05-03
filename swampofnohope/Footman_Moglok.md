@@ -1,4 +1,6 @@
 # Footman Moglok
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*Footman Moglok looks at you with sorrowful eyes and wipes his dripping nose. 'Woe is me. I am nothing more than a lowly footman. And spare me the smart remarks - 'Moglok the Froglok' - I have heard all the jokes.' *
 end
+
+
 
 ## Turn-Ins
 

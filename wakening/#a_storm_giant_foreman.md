@@ -1,4 +1,6 @@
 # a storm giant foreman
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**a storm giant foreman says:** Those pansy dragon would bees in the Tunarean Court have become quite the nuisance lately. The deaths of Lord Gossimerwind and Lord Prismwing would certainly put anto the nuisance for a time. Bring me their wings as proof of their deaths.
 end
+
+
 
 ## Turn-Ins
 

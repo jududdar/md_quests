@@ -1,5 +1,7 @@
 # Vicar Ceraen
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -11,6 +13,8 @@
 
 e.self:Say("If you are a priest in your world and seek to gain a higher understanding of the divine power that your faith has allowed you to wield, then perhaps what spells I have penned from memory of your world would be of use. I have also mastered levels in the workings of planar magic and its chaotic ways of forming upon the manifested planes. If by chance you come across a fledgling arcane item 
 end
+
+
 
 ## Turn-Ins
 

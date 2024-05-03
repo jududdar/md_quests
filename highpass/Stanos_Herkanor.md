@@ -1,7 +1,11 @@
 # Stanos Herkanor
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 2000 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "depop" ) then
@@ -17,6 +21,8 @@ elseif ( e.timer == "call_help" ) then
 
 CallHelp();
 end
+
+
 
 ## Dialog
 
@@ -142,6 +148,8 @@ for i = 1, #StanosFriends do
 eq.signal(StanosFriends[i],1);
 end
 
+
+
 ## Combat
 
 
@@ -166,6 +174,8 @@ eq.resume_timer("depop");
 **Stop timer** named *call_help*
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -173,6 +183,8 @@ if(e.signal == 1) then
 
 >**Stanos Herkanor says:** I tend to agree Anson.  We could make a deal.  I have a blade I won't use anymore, and you have those fine looking daggers Vilnius gave you.  Of course, you would have to do something for me first.  Let me tell you my story, then you decide.
 end
+
+
 
 ## Turn-Ins
 

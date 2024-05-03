@@ -1,4 +1,6 @@
 # a mumbling totem man
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 and e.self:GetGrid() == 12) then

@@ -1,4 +1,6 @@
 # Teir-Dal Mercenary
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Teir-Dal Mercenary says:** This better be good, " .. e.other:Race() .. "!  Well?  Spit it OUT!
 end
+
+
 
 ## Turn-Ins
 

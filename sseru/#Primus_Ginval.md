@@ -1,4 +1,6 @@
 # Primus Ginval
+
+
 ## Dialog
 
 **You say:** `hail`

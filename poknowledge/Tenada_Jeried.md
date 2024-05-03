@@ -1,6 +1,8 @@
 # Tenada Jeried
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -21,6 +23,8 @@
 
 >*Tenada Jeried considers for a moment and continues, 'Very well, but first you must prove that you are a student of the advanced arts. In order to do this, you will need to collect each of the advanced manuals in combat, stealth, and magic. You will also need to seek out a prized possession known as a Hope Stone. I believe it currently lies somewhere in the elemental planes. Return to me with these four tools of learning, and only then will you be truly worthy of what secrets the planes have to offer.'*
 end
+
+
 
 ## Turn-Ins
 

@@ -6,6 +6,8 @@ local SpawnY = 0;
 local SpawnZ = 0;
 local SpawnH = 0;
 
+
+
 ## On NPC Spawn
 
 SpawnX = e.self:GetX();
@@ -30,6 +32,8 @@ if(**Your level** > 52 and e.other:Admin() < 80) then
 e.other:MovePC(27,534,913,55,0); 
 end
 
+
+
 ## Combat
 
 if Lord Nagafen enters combat  then
@@ -45,6 +49,8 @@ else
 
 e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
 end
+
+
 
 ## Timer(s)
 
@@ -166,6 +172,8 @@ return false;
 );
 
 end
+
+
 
 ## Signals
 

@@ -1,8 +1,12 @@
 # Spiritist Karina
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *karina* for 90 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -58,6 +62,8 @@ count = 0;
 
 **Set a timer** named *karina* for 90 seconds
 end
+
+
 
 ## Dialog
 
@@ -124,6 +130,8 @@ end
 
 >**Spiritist Karina says:** When you free a spirit from the shades that corrupt them, they will return to the spiritual realm and live again in harmony. The [skeletal hunters] of the thickets are a corruption of a different nature than the shades. There are no spirits trapped within these animated remains. Nevertheless, they are a danger to us and must be destroyed. If you are able, please return four of their sharp jawbones to me. I will need them to decipher the nature of the magic that animates them.
 end
+
+
 
 ## Turn-Ins
 

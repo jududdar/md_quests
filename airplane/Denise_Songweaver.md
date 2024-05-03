@@ -1,7 +1,11 @@
 # Denise Songweaver
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +35,8 @@
 
 >**Denise Songweaver says:** Working with the environment to enthrall those who listen to you is of the utmost importance to us.  Go out and retrieve an efreeti war spear, some manna nectar, and a nebulous emerald and diamond.  Return these items to me and receive the spear of harmony as your reward.
 end
+
+
 
 ## Turn-Ins
 
@@ -83,6 +89,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

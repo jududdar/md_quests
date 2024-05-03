@@ -1,4 +1,6 @@
 # Legionnaire Durus
+
+
 ## Dialog
 
 **You say:** `hail`

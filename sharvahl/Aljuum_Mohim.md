@@ -1,6 +1,8 @@
 # Aljuum Mohim
 
 
+
+
 ## Dialog
 
 **You say:** `wolves`
@@ -9,6 +11,8 @@
 
 >**Aljuum Mohim says:** The wolves that I speak of have no need for sight. They are products of the darkness that surrounds us. Their ability to move in the darkness and attack in packs makes them a serious threat to any Vah Shir that walks beyond our city's gates. I fear them more than I fear the twisted little people that live in the caves around here. It is the duty of each citizen to help control the number of these creatures. Fill the bag that I just handed you with the jawbones of two young sonic wolves and I'll know that you have a real understanding of the ferocity of those creatures. If you return, I'll have something that you may find interesting.
 end
+
+
 
 ## Turn-Ins
 

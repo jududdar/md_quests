@@ -1,6 +1,8 @@
 # Dugroz
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 
 >*Dugroz Dugroz blinks his eyes and leans forward. He whispers so quietly you must strain to hear him, 'I have taken up the same magics as my master. I require two components to complete a spell I have been researching for quite some time. The first is a vampire's fang. I have heard tales of a vampire who haunts the ruins of Kaesora. I also need a jade weapon stained by the blood of a chokidai. Look in the Lake of Ill Omen at the sarnak outpost. The leader used to herd chokidai, or so I am told.'*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,9 +1,13 @@
 # Jzil GSix
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +41,8 @@
 
 >**Jzil GSix says:** The test of mind it shall be.  You must return to me, from this place of air and mist, a rugous globe, some djinni blood, and fine cloth raiment.  Then, and only then, you shall have the reward you deserve!
 end
+
+
 
 ## Turn-Ins
 
@@ -95,6 +101,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Jzil GSix despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Sentinel Lergremor
+
+
 ## Dialog
 
 **You say:** `hail`

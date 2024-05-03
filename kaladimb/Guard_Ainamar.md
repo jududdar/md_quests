@@ -1,4 +1,6 @@
 # Guard Ainamar
+
+
 ## Dialog
 
 **You say:** `armor`

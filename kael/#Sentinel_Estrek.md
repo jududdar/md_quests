@@ -1,4 +1,6 @@
 # Sentinel Estrek
+
+
 ## Dialog
 
 **You say:** `hail`

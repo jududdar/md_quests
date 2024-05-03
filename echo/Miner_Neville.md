@@ -1,4 +1,6 @@
 # Miner Neville
+
+
 ## Dialog
 
 **You say:** `hail`

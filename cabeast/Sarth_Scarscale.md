@@ -1,6 +1,8 @@
 # Sarth Scarscale
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -45,6 +47,8 @@
 
 >**Sarth Scarscale says:** Ahhhh....a breastplate you want, is it? Well, they are not easy to come by. Fetch me a scorpion chitin. Intact, mind you! They are extremely fragile and must be treated before they can protect your carcass. Also, fetch me a war braid from a sarnak to connect the pieces. I also require a ruby and your banded tunic. Do this and I shall make it for you, hatchling. Now, go!
 end
+
+
 
 ## Turn-Ins
 

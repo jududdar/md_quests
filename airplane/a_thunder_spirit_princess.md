@@ -1,6 +1,8 @@
 # a thunder spirit princess
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 >**a thunder spirit princess says:** Gkzzallk lives far above here. We often take him tea because he's so nice to us fairies! He likes to chat with the others who live here and can often be found in the temple up above. If you give me a bit of money, I can go make sure he is home.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -28,6 +32,8 @@ if( **You turn in:** gold = 10) then
 
 **Spawn NPC:**  [Gkzzallk](/npc/71073) at (**y:** 662.5, **x:** 287.9)
 end
+
+
 
 ## On NPC Death
 

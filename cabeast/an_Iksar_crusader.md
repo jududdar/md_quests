@@ -1,9 +1,13 @@
 # an Iksar crusader
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 900 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -67,6 +71,8 @@
                                 href="/item/12691" data-url="12691" class="tooltip-link link">A Coin</a>
 
 end
+
+
 
 ## Timer(s)
 

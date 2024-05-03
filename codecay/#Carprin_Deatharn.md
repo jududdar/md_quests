@@ -1,9 +1,13 @@
 # Carprin Deatharn
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 12300 seconds
 
 e.self:SetGuardSpot(384, -112, -53.9, 197);
+
+
 ## Combat
 
 if  Carprin Deatharn enters combat  then
@@ -23,11 +27,15 @@ eq.resume_timer("depop");
 **Stop timer** named *drophate*
 end
 
+
+
 ## On NPC Death
 
 **Zone Wide Emote:** <span class="text-warning">*Dark laughter sounds from deeper within the chapel as a menacing voice is heard saying, 'Come great corrupter of entropy and decay. Stop these foolish mortals from violating our masters chapel.*</span>
 
 **Spawn NPC:**  [\#Avhi Escron](/npc/200225) at (**y:** 135, **x:** 405)
+
+
 ## Timer(s)
 
 

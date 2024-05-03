@@ -1,4 +1,6 @@
 # Palious Jarten
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Palious Jarten says:** If you require me to cure disease, it will cost you 10 gold coins.
 end
+
+
 
 ## Turn-Ins
 

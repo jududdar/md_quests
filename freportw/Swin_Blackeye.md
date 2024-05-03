@@ -1,4 +1,6 @@
 # Swin Blackeye
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,6 +16,8 @@
 >**Swin Blackeye says:** Hmmph !! If you're here to get the mail for room two you first need to show me the room key.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -25,6 +29,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

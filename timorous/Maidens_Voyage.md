@@ -1,4 +1,6 @@
 # Maidens Voyage
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();
@@ -8,6 +10,8 @@ local hour = zone_time["zone_hour"];
 local minute = zone_time["zone_minute"];
 
 eq.debug("Boat spawned! Name is: Maidens Voyage Time is: " .. hour ..":" .. minute .. "", 1);
+
+
 ## Arrive at Waypoint Script
 
 local zone_time = eq.get_zone_time();
@@ -172,6 +176,8 @@ return false;
 
 );
 end
+
+
 
 ## Depart from Waypoint Script
 

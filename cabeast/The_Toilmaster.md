@@ -1,6 +1,8 @@
 # The Toilmaster
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -50,6 +52,8 @@
 
 >**The Toilmaster says:** Sss...  All hail Emperor Vekin.  He shall restore the glory of the Iksar Empire.  He shall reclaim Old Sebilis and slay Trakanon!  Hail the mighty Emperor Vekin or lose thy head!
 end
+
+
 
 ## Turn-Ins
 

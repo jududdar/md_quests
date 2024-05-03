@@ -1,4 +1,6 @@
 # GuardTrig
+
+
 ## On NPC Spawn
 
 **Signaled to:**  [Guard McCluskey](/npc/12090)

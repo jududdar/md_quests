@@ -8,6 +8,8 @@ local TORMENT_BAT_TYPE = 204031;
 
 local MOB_TYPES = { [BANSHEE_TYPE] = 1, [NIGHTSTALKER_TYPE] = 1, [HOBGOBLIN_TYPE] = 1, [TREMULOUS_BAT_TYPE] = 1, [TERROR_BAT_TYPE] = 1, [TORMENT_BAT_TYPE] = 1 };
 
+
+
 ## On NPC Spawn
 
 eq.debug("EinoInvisDay spawn", 2);
@@ -69,6 +71,8 @@ npc:Depop();
 
 
 end
+
+
 
 ## Timer(s)
 

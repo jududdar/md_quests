@@ -6,6 +6,8 @@
 
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -56,6 +58,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1036.png" alt="" /> <a
                                 href="/item/2877" data-url="2877" class="tooltip-link link">Acrylia Slate of Shar Vahl</a>
 end
+
+
 
 ## Turn-Ins
 

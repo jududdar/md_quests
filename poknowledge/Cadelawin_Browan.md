@@ -1,5 +1,7 @@
 # Cadelawin Browan
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -26,6 +28,8 @@
 
 >**Cadelawin Browan says:** 'I figured that would be your next question. Each enchanted cloak has its own brooch, and you need to know the specifics of the brooch for your cloak in order to replace it. You happen to be in luck today as I happen to know the specifications for the cloak associated with the Mystic Cloak. First you will need talisman made from Chrysoberyl. That talisman will need to be affixed inside a Planar Jeweler's kit by a skilled jewelcrafter to an enchanted platinum bar with a magic scroll of steelskin and a vial of distilled mana. Once you have the brooch simply attach it to your cloak in one of the looms you can find in Jeral, it shouldn't be terribly difficult.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # Iony Gredlong
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -159,6 +161,8 @@ else
 
 
 >**Iony Gredlong says:** It is very nice to meet you Soandso. I am Iony Gredlong Priestess of the Underfoot. I coordinate all the training for new clerics here in the Deep Musing.
+
+
 
 
 

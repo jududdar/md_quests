@@ -72,11 +72,15 @@ for _, id in ipairs(SPAWNIDS) do
 elist:GetSpawnByID(id):SetTimer(1);
 end
 
+
+
 ## On NPC Death
 
 eq.spawn2(PLANAR_PROJECTION_TYPE, 0, 0, 360, 2528, 39, 0);
 
 eq.signal(PLANAR_PROJECTION_TYPE, e.killer:GetID()); 
+
+
 ## On NPC Spawn
 
 eq.set_next_hp_event(85);
@@ -126,6 +130,8 @@ WakeUp(7, 8, 9);
 
 end
 
+
+
 ## Combat
 
 if ( not e.joined and e.self:GetHPRatio() < 86 ) then
@@ -143,6 +149,8 @@ else
 
 **Stop timer** named *boundscheck*
 end
+
+
 
 
 

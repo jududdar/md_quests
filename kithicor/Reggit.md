@@ -1,10 +1,16 @@
 # Reggit
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(1800000,7200000));
+
+
 ## Timer(s)
 
 **Reggit despawns.**
+
+
 ## Combat
 
 if Reggit enters combat  then

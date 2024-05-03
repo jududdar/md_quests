@@ -9,6 +9,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -41,6 +43,8 @@
 
 >**Ortallius says:** Rathmana is a great wizard.  He is also my best friend.  [Solusek] sent him to save me from the savage desert when I was but a child in my dying mother's arms.  He saved me from being captured by the [dervish cutthroats].
 end
+
+
 
 ## Turn-Ins
 

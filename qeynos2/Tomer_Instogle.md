@@ -1,6 +1,8 @@
 # Tomer Instogle
 local closeby = 0;
 
+
+
 ## Dialog
 
 if(closeby == 0) then
@@ -106,6 +108,8 @@ eq.follow(e.other:GetID());
 
 end
 
+
+
 ## Signals
 
 if(e.signal == 1 and closeby == 0 and (e.self:GetX() >= 300 and e.self:GetX() <= 340) and (e.self:GetY() >= 250 and e.self:GetY() <= 285)) then
@@ -128,6 +132,8 @@ closeby = 1;
 
 **Set a timer** named *cooldown* for 1800 seconds
 end
+
+
 
 ## Turn-Ins
 
@@ -167,6 +173,8 @@ closeby = 2;
 
 **Set a timer** named *cooldown* for 1200 seconds
 end
+
+
 
 ## Timer(s)
 

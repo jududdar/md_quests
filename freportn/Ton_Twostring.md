@@ -1,6 +1,8 @@
 # Ton Twostring
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -65,6 +67,8 @@
 
 >**Ton Twostring says:** Dark Deathsinger scouts the Innothule Swamp, near the troll city of Grobb.
 end
+
+
 
 ## Turn-Ins
 

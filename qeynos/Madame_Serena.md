@@ -1,4 +1,6 @@
 # Madame Serena
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -176,6 +178,8 @@ else
 
 
 >**Madame Serena says:** To set foot upon his land would set your body ablaze. Go far north of Freeport to find the eye in days.
+
+
 
 
 

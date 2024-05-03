@@ -1,4 +1,6 @@
 # an Othmir Shaman
+
+
 ## Dialog
 
 **You say:** `hail`

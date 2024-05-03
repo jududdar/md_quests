@@ -1,4 +1,6 @@
 # Granger Kenforth
+
+
 ## Dialog
 
 **You say:** `hail`

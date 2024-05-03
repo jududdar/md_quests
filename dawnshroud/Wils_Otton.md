@@ -1,4 +1,6 @@
 # Wils Otton
+
+
 ## Dialog
 
 **You say:** `forest ravager`
@@ -11,6 +13,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_870.png" alt="" /> <a
                                 href="/item/31781" data-url="31781" class="tooltip-link link">Note to Carre</a>
 end
+
+
 
 ## Turn-Ins
 
@@ -31,6 +35,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

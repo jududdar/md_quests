@@ -1,4 +1,6 @@
 # Ginleen Harltop
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Ginleen Harltop says:** Ebon Strongbear is the current champion of the Steel Warriors. As champion, he rules over the Steel Warriors.
 end
+
+
 
 ## Turn-Ins
 

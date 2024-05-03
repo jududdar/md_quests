@@ -1,6 +1,8 @@
 # Soulbinder Torvald
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -18,6 +20,8 @@
 
 **Soulbinder Torvald casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

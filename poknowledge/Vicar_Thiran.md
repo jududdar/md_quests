@@ -1,5 +1,7 @@
 # Vicar Thiran
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 e.self:Say("A dark day to you. New Tanaan has opened its arms to all of Norrath's travelers and scholars alike 
 end
+
+
 
 ## Turn-Ins
 

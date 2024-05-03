@@ -1,4 +1,6 @@
 # Miner Skorn
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Legionnaire Garffe
+
+
 ## Dialog
 
 **You say:** `hail`

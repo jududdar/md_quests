@@ -1,5 +1,7 @@
 # Phantasmist Salkith
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -11,6 +13,8 @@ e.self:Emote("tilts his head back, a sneer crossing his features in unmasked dis
 
 e.self:Emote("ponders a moment, then continues. 'Yes, Soandso, your god does not exist 
 end
+
+
 
 ## Turn-Ins
 

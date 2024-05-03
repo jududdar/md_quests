@@ -1,4 +1,6 @@
 # Rineval Talyas
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Rineval Talyas says:** 'I see. If a scribe is what you seek, then bring me the torn books of fire and ice. A donation of 1000 platinum is needed as well. The donation will be offered as a blessing to the gods.
 end
+
+
 
 ## Turn-Ins
 

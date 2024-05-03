@@ -1,5 +1,7 @@
 # a cliff golem
 
+
+
 ## Signals
 
 if(e.signal == 0) then
@@ -7,6 +9,8 @@ if(e.signal == 0) then
 
 **a cliff golem despawns.**
 end
+
+
 
 ## Turn-Ins
 

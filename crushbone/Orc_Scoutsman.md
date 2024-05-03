@@ -1,4 +1,6 @@
 # Orc Scoutsman
+
+
 ## Combat
 
 if Orc Scoutsman enters combat  then

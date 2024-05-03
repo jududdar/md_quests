@@ -1,4 +1,6 @@
 # Rittuh Purrik
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Rittuh Purrik says:** Hello there, Soandso. Stock up on goods while you can in the relative safety of this outpost. When you are out in the field, you'll need every bit of protection you can afford.  If you happen upon any Grimlings, spare them no mercy. My husband was tortured by grunts in the forest.
 end
+
+
 
 ## Turn-Ins
 

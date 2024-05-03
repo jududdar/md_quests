@@ -1,4 +1,6 @@
 # Trooper Taer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Taer says:** Oh, no! My good times have come to an Hand me the note and I shall sign it.
 end
+
+
 
 ## Turn-Ins
 

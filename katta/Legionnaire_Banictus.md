@@ -1,4 +1,6 @@
 # Legionnaire Banictus
+
+
 ## Dialog
 
 **You say:** `hail`

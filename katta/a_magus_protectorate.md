@@ -1,4 +1,6 @@
 # a magus protectorate
+
+
 ## Dialog
 
 **You say:** `hail`

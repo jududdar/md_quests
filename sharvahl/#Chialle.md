@@ -1,4 +1,6 @@
 # Chialle
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -236,6 +238,8 @@
 >**Chialle says:** Shadow Haven is the great city that lies beneath the ground. We have many trading relationships with the houses that form the groundwork of Shadow Haven politics. Use caution when traveling there, although the haven houses many honest merchants, it is also a home to smugglers, bandits, and thieves.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -259,6 +263,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 
@@ -286,6 +292,8 @@ elseif(e.wp == 13) then
 
 >*Chialle makes a deposit.*
 end
+
+
 
 ## Timer(s)
 

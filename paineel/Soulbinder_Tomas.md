@@ -1,6 +1,8 @@
 # Soulbinder Tomas
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -18,6 +20,8 @@
 
 **Soulbinder Tomas casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

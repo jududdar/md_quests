@@ -1,6 +1,8 @@
 # Joren Nobleheart
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Joren Nobleheart says:** Gather your forces and march on the gates of Chardok. You are to strike deep into the home of Overking Bathezid. Your goal is not the overking himself, but his only living heir. His son's head will be the price to pay for their involvement in this kidnapping.
 end
+
+
 
 ## Turn-Ins
 

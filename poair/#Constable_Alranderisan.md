@@ -1,4 +1,6 @@
 # Constable Alranderisan
+
+
 ## Signals
 
 local client = eq.get_entity_list():GetClientByID(e.signal);
@@ -8,6 +10,8 @@ if ( client and client.valid ) then
 
 e.self:AddToHateList(client, 1);
 end
+
+
 
 ## On NPC Death
 

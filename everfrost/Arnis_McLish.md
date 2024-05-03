@@ -1,4 +1,6 @@
 # Arnis McLish
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ else
 >**Arnis McLish says:** Run while ye still can!! The Wolves o' the North will not tolerate yer presence!
 
 end
+
+
 
 ## Turn-Ins
 
@@ -67,6 +71,8 @@ Your faction standing with [Steel Warriors](/faction/311) got better (<span clas
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

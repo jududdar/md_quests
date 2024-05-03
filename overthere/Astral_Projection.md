@@ -1,5 +1,7 @@
 # Astral Projection
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 
 **Astral Projection despawns.**
 end
+
+
 
 ## Turn-Ins
 

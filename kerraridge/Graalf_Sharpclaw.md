@@ -1,4 +1,6 @@
 # Graalf Sharpclaw
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -43,9 +43,13 @@ quest_helper:silk_chest(THURG_ARMOR.Silk_Robe, 31057),
 quest_helper:silk_helmet(THURG_ARMOR.Silk_Turban, 31056)
 }
 
+
+
 ## Dialog
 
 quest_helper.quest_text(e, QUEST_TEXT, 3);
+
+
 ## Turn-Ins
 
 quest_helper:quest_turn_in(e, 3, QUEST_ITEMS, quest_helper.thurg_armor_success)

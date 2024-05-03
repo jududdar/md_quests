@@ -1,4 +1,6 @@
 # A Lictor of the Heart
+
+
 ## Dialog
 
 **You say:** `hail`

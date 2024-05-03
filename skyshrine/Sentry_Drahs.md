@@ -1,4 +1,6 @@
 # Sentry Drahs
+
+
 ## Dialog
 
 **You say:** `hail`

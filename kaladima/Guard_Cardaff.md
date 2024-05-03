@@ -1,4 +1,6 @@
 # Guard Cardaff
+
+
 ## Dialog
 
 **You say:** `armor`

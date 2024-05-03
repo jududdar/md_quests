@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 e.self:DoAnim(49);  
@@ -60,6 +62,8 @@ else
 
 >**Bor Wharhammer says:** T'make a swatch, ye need t'combine two strands o'ether along with a curing agent in a Tanaan loom. Ye will need t'seek a skilled brew master t'make the curing agent fer ye. Just 'ave them create it by using two celestial essences, soda an' paeala sap
 end
+
+
 
 ## Turn-Ins
 

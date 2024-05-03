@@ -1,6 +1,8 @@
 # Smaka
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@
 
 >**Smaka says:** Ahh, you want me cure?! It cost lots of money, big big secret it is. Only us ogres know how to make. You wants? Only 1000 platinum! Make you feels bedder in no times!
 end
+
+
 
 ## Turn-Ins
 

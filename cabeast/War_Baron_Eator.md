@@ -1,4 +1,6 @@
 # War Baron Eator
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -57,6 +59,8 @@ else
 >**War Baron Eator says:** Hiss!  Fool!  Fear the Legion of Cabilis for you are no ally to us.  Leave while you can.
 
 end
+
+
 
 ## Turn-Ins
 

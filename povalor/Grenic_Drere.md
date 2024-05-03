@@ -1,4 +1,6 @@
 # Grenic Drere
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -51,6 +53,8 @@ else
 
 >**Grenic Drere says:** I was not the only member of my squad that was sent into exile, my brothers in arms, were the impetus for our exile.  I was but a mere pawn.  They now reside in the Plane of Justice as bodiless shades.  Their punishment was too lax for their actions; I want their eternal souls to be mine.  Find a smith who will teach you to create a box of souls, weaken the shades, then capture their souls and return all three to me, along with the box.  It must be disposed of.
 end
+
+
 
 ## Turn-Ins
 

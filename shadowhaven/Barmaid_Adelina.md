@@ -1,4 +1,6 @@
 # Barmaid Adelina
+
+
 ## Dialog
 
 **You say:** `hail`

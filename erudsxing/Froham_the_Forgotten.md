@@ -1,11 +1,15 @@
 # Froham the Forgotten
 local counting;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *FrohamDepart* for 140 seconds
 
 counting = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -44,6 +48,8 @@ counting = 0;
 
 >**Froham the Forgotten says:** Yeah, Abe's an old guy. Well, he's kinda beyond bein' old if ye know what I mean. Not all together either. His mind floats all over like the sea around us. But he's got enough sense to wait here like he's done fer, well, fer dang near ever. If ye see him, and he ain't much fer talkin' straight, ask him about [a broken arrow]. Not sure what it means to him but it seems to bring him around.
 end
+
+
 
 ## Timer(s)
 

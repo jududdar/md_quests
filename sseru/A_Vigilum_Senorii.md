@@ -1,4 +1,6 @@
 # A Vigilum Senorii
+
+
 ## Dialog
 
 **You say:** `hail`

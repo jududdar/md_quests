@@ -4,6 +4,8 @@
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 
+
+
 ## Dialog
 
 if( **Faction is** >= Kindly ) then 
@@ -117,6 +119,8 @@ quest_helper:silk_chest(THURG_ARMOR.Silk_Robe, 31078),
 
 quest_helper:silk_helmet(THURG_ARMOR.Silk_Turban, 31077),
 }
+
+
 
 ## Turn-Ins
 

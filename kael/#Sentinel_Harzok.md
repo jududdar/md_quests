@@ -1,4 +1,6 @@
 # Sentinel Harzok
+
+
 ## Dialog
 
 **You say:** `hail`

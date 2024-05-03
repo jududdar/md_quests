@@ -1,4 +1,6 @@
 # Captain Nedar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Captain Nedar says:** Come to serve the garrison? Good. I aim to offer a reward for the return of four froglok tad tongues. Best if we handle the pesky critters before they grow too big and too numerous.
 end
+
+
 
 ## Turn-Ins
 

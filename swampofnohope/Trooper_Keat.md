@@ -1,4 +1,6 @@
 # Trooper Keat
+
+
 ## Dialog
 
 **You say:** `hail`

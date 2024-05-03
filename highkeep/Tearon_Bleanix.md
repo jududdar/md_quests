@@ -1,4 +1,6 @@
 # Tearon Bleanix
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -84,6 +86,8 @@ else
 >**Tearon Bleanix says:** When you have furthered your service to the Paladins of Tunare, we shall make conversation.
 
 end
+
+
 
 ## Turn-Ins
 

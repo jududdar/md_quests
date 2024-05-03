@@ -1,4 +1,6 @@
 # Nedorl Ipabrun
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Ooglyn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Ooglyn says:** Ooooh, it you, Soandso. Me's been waitin for you cuz our frenz say you comin an need da test. So's I gib you da test. Hmm, now where me put it? Ooglyn been waiting for sign for so long dat me forget where me put test. Keep your eyes out for sign while me look for test. Oh, hey, Soandso, they gib you gem? I need dat gem, please, heheh.
 end
+
+
 
 ## Turn-Ins
 
@@ -35,6 +39,8 @@ eq.start(4);
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 17) then
@@ -45,6 +51,8 @@ if(e.wp == 17) then
 
 **Set a timer** named *depop* for 60 seconds
 end
+
+
 
 ## Timer(s)
 

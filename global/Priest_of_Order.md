@@ -1,4 +1,6 @@
 # Priest of Order
+
+
 ## Dialog
 
 local is_special_flag_response = false;

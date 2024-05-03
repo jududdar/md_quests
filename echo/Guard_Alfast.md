@@ -1,4 +1,6 @@
 # Guard Alfast
+
+
 ## Dialog
 
 **You say:** `hail`

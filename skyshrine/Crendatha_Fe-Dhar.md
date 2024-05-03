@@ -21,6 +21,8 @@ quest_helper:melee_legs(SKYSHRINE_ARMOR.Chain_Leggings, 31131),
 quest_helper:melee_boots(SKYSHRINE_ARMOR.Chain_Boots, 31132) 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -103,6 +105,8 @@ else
 
 >**Crendatha Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
 end
+
+
 
 ## Turn-Ins
   quest_helper:quest_turn_in(e, 1, QUEST_ITEMS, quest_helper.skyshrine_armor_success);

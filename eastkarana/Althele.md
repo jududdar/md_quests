@@ -1,6 +1,8 @@
 # Althele
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +17,8 @@
 
 >**Althele says:** I sense something foreboding, young one, but you should think nothing of it. The sons and daughters of nature will be able to deal with this problem.
 end
+
+
 
 ## Turn-Ins
 
@@ -68,6 +72,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Althele despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

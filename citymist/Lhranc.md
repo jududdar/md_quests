@@ -1,5 +1,7 @@
 # Lhranc
 
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then
@@ -34,6 +36,8 @@ else
 
 >*Lhranc seems to ignore you.* 
 end
+
+
 
 ## Turn-Ins
 

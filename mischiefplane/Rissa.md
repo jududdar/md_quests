@@ -1,7 +1,11 @@
 # Rissa
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

@@ -1,10 +1,16 @@
 # corrupted hill giant
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Timer(s)
 
 **corrupted hill giant despawns.**
+
+
 ## Combat
 
 if corrupted hill giant enters combat  then

@@ -1,4 +1,6 @@
 # Spanner Scrapsnatcher
+
+
 ## Dialog
 
 **You say:** `hail`

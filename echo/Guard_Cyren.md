@@ -1,4 +1,6 @@
 # Guard Cyren
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -111,9 +111,13 @@ return npc;
 
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *corpses* for 60 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "corpses" ) then

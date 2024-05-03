@@ -1,4 +1,6 @@
 # Kanaad
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -108,6 +110,8 @@ else
 >**Kanaad says:** You need to prove your dedication to our cause before I can discuss such matters with you.
 
 end
+
+
 
 ## Turn-Ins
 

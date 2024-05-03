@@ -2,16 +2,22 @@
 
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
 
 >**Ghost of Ridossan says:** Thank you, Soandso. I am not long for this world. Before I leave, I would like to reward the one who helped me have my revenge. Please, hand me the token of my God, of Cazic-Thule, and I shall pass you the spear I once used. You've earned it.
+
+
 ## Timer(s)
 
 **Stop timer** named *depop*
 
 **Ghost of Ridossan despawns.**
+
+
 ## Turn-Ins
 
 

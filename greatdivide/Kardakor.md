@@ -1,4 +1,6 @@
 # Kardakor
+
+
 ## Dialog
 
 if( **Faction is** >= Kindly) then
@@ -36,6 +38,8 @@ if( **Faction is** >= Kindly) then
 >**Kardakor says:** Rolandal is an old and wise Wurm that is very well traveled and skilled in the magics of Identification. He will be able to tell you who this talisman came from. You can find him in his dwelling not too far from my home. Seek him out and inform him that i have sent you. If Rolandal can sense that your word is true proceed to tell him that you possess a talisman that you need Identified and he shall help you further. I thank you for your efforts and wish you luck, Soandso.
 
 end
+
+
 
 ## Turn-Ins
 

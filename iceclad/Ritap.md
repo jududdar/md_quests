@@ -1,4 +1,6 @@
 # Ritap
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@ eq.get_entity_list():GetMobByNpcTypeID( [Ratop](/npc/110052)):Say("We be out.  Y
 
 >**Ritap says:** Batten down yer yapper! Ahl be doin the talkin here.   We be needin the rope to tie ye down fer ransom.  Now fetch me the beard of a frost giant scout so's I can make some more rope to tie ye up with.
 end
+
+
 
 ## Turn-Ins
 

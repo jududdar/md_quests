@@ -1,4 +1,6 @@
 # Gunrich
+
+
 ## Dialog
 
 
@@ -41,6 +43,8 @@ else
 >**Gunrich says:** You need to prove your dedication to our cause before I can discuss such matters with you.
 
 end
+
+
 
 ## Turn-Ins
 

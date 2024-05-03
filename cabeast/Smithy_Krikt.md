@@ -1,4 +1,6 @@
 # Smithy Krikt
+
+
 ## Dialog
 
 **You say:** `Hail`

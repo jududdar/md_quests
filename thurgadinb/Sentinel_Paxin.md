@@ -1,4 +1,6 @@
 # Sentinel Paxin
+
+
 ## Dialog
 
 **You say:** `hail`

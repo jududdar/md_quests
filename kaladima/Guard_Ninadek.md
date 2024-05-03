@@ -1,4 +1,6 @@
 # Guard Ninadek
+
+
 ## Dialog
 
 **You say:** `armor`

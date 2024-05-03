@@ -1,4 +1,6 @@
 # A Cornicularius Warder
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Ebon Strongbear
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -148,6 +150,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Ebon Strongbear says:** I have heard word that the corrupt guards are up to it again and this time one has gone too far. Guard Beris has stolen my sisters coinpurse by claiming it was due for city tax. This is not true because my family is held in high regard here and we always pay our taxes promptly. This was simply a ploy to steal money and I do not take kindly to that. I must ask that you retrieve my sisters coinpurse from Beris, he can usually be found in the hills fishing on his off-duty time. Bring me whatever you can from him along with 3 perfect gnoll skins and I will reward you with a finely refined blade for your trouble.
 
 end
+
+
 
 ## Turn-Ins
 

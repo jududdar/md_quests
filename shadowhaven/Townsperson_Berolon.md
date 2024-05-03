@@ -1,4 +1,6 @@
 # Townsperson Berolon
+
+
 ## Dialog
 
 **You say:** `hail`

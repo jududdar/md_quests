@@ -1,4 +1,6 @@
 # a kejekan miner
+
+
 ## Dialog
 
 **You say:** `hail`

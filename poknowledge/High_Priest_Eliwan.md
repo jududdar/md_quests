@@ -1,5 +1,7 @@
 # High Priest Eliwan
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 e.self:Emote("makes an almost unearthly graceful gesture as he bows politely at the waist in formal greetings. 'May the light of Tunare shine brightly upon your fate, my friend, and may the purity of goodly virtues guide your convictions. I am High Priest Eliwan, former scholar, historian, and spiritual leader in the faith dedicated toward the Mother of All. In the era that housed my life, Takish\`Hiz was my home in the beautiful forest of Elddar, the shining crown jewel of Tunare's grace and infinite splendor. We were at peace then 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Nifta
+
+
 ## Dialog
 
 **You say:** `lights glory`

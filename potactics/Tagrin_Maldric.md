@@ -143,9 +143,13 @@ npc:AddToHateList(tar, 20);
 
 end
 
+
+
 ## On NPC Spawn
 
 spawnCount = 0;
+
+
 ## Combat
 
 if  Tagrin Maldric enters combat  then
@@ -161,6 +165,8 @@ else
 
 **Stop timer** named *tick*
 end
+
+
 
 ## Timer(s)
 

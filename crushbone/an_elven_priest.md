@@ -1,4 +1,6 @@
 # an elven priest
+
+
 ## Dialog
 
 **You say:** `king is dead`
@@ -7,6 +9,8 @@
 
 >**an elven priest says:** Dead you say? My goodness! Did you manage to slay the warlord too? If you provide me with proof of his death, I can enchant the mace the dwarf gave you as payment. But, I will require the proof first!
 end
+
+
 
 ## Turn-Ins
 

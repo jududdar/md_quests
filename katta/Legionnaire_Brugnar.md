@@ -1,4 +1,6 @@
 # Legionnaire Brugnar
+
+
 ## Dialog
 
 **You say:** `hail`

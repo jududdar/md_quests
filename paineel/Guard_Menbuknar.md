@@ -1,4 +1,6 @@
 # Guard Menbuknar
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

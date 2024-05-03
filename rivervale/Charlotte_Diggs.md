@@ -1,7 +1,11 @@
 # Charlotte Diggs
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 100 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" and e.self:CheckGround() ) then

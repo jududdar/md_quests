@@ -1,4 +1,6 @@
 # Thecia Sulter
+
+
 ## Dialog
 
 **You say:** `hail`

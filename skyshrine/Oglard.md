@@ -1,4 +1,6 @@
 # Oglard
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then
@@ -93,6 +95,8 @@ else
 
 >**Oglard says:** I have nothing to speak about to the likes of you.
 end
+
+
 
 ## Turn-Ins
 

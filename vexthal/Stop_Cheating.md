@@ -70,9 +70,13 @@ local BAD_COORDS = {
 local cheaters = {};
 local cheatersToSlay = false;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *check* for 10 seconds
+
+
 ## Signals
 
 table.insert(cheaters, e.signal);
@@ -84,6 +88,8 @@ if ( not cheatersToSlay ) then
 
 cheatersToSlay = true;
 eq.debug(tostring(e.signal));
+
+
 ## Timer(s)
 
 if ( e.timer == "kill_list" ) then

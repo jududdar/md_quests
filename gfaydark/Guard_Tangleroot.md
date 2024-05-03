@@ -1,4 +1,6 @@
 # Guard Tangleroot
+
+
 ## Dialog
 
 **You say:** `soldiers`

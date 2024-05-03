@@ -1,7 +1,11 @@
 # a phase spider
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 5400 seconds
+
+
 ## Combat
  
 if a phase spider enters combat  then
@@ -20,6 +24,8 @@ else
 eq.resume_timer("depop");
 end
  
+
+
 ## Timer(s)
 
 **a phase spider despawns.**

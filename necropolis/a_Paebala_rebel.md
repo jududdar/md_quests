@@ -1,4 +1,6 @@
 # a Paebala rebel
+
+
 ## Dialog
 
 **You say:** `hail`

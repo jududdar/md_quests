@@ -1,4 +1,6 @@
 # Trace the Tinker
+
+
 ## Dialog
 
 **You say:** `hail`

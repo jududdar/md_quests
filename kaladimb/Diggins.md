@@ -1,4 +1,6 @@
 # Diggins
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -119,6 +121,8 @@ else
 >**Diggins says:** The word around the mines is that you are not to be trusted. You'd best leave before my dagger finds a new home in your back.
 
 end
+
+
 
 ## Turn-Ins
 

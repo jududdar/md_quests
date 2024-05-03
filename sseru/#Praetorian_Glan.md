@@ -1,4 +1,6 @@
 # Praetorian Glan
+
+
 ## Dialog
 
 **You say:** `hail`

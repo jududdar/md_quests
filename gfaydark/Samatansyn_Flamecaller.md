@@ -1,4 +1,6 @@
 # Samatansyn Flamecaller
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -140,6 +142,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Samatansyn Flamecaller says:** Excellent news, I was afraid I would not be able to find someone willing to help. Please bring me the master key along with 2 Orc Eyes and I shall craft you a long sword worthy of your great deeds.
 
 end
+
+
 
 ## Turn-Ins
 

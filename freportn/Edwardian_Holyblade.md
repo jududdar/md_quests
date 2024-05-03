@@ -1,4 +1,6 @@
 # Edwardian Holyblade
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -140,6 +142,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Edwardian Holyblade says:** Well for quite sometime the Freeport Militia has become more and more corrupt. They have been known to do any dastardly deed you can imagine which includes harming and sometimes killing followers of Marr. There is a group of Militia Soldiers in the commonlands that have been recently harassing a good friend of mine. His name is Pardor and he is a shopkeeper in the commonlands. As if it wasn�t dangerous enough in the commonlands he know has these Militia soldiers demanding he pay them a tax that does not exist.  Will you travel to the commonlands to kill one of these militia soldiers? I fear for my friend's life.
 
 end
+
+
 
 ## Turn-Ins
 

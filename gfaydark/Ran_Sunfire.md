@@ -1,4 +1,6 @@
 # Ran Sunfire
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@ else
 >**Ran Sunfire says:** Your ways are considered vile to Faydark's Champions. Leave before my rage overcomes my restraint.
 
 end
+
+
 
 ## Turn-Ins
 

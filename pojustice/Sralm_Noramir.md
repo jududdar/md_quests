@@ -1,4 +1,6 @@
 # Sralm Noramir
+
+
 ## Dialog
 
 **You say:** `hail`

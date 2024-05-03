@@ -1,4 +1,6 @@
 # Gurrin Nitestorm
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@ e.self:Say("Beyond my sacred duties as a priest of The Rainkeeper and a warder o
 
 >**Gurrin Nitestorm says:** Indeed, my friend. It seems that Kaithys has chosen you to do so and I shall do what I can to abide by his wishes. I would advise that you return to Kaithys and show him the purified blade. He knows much better than I what stones must now be overturned for his intentions of you to be properly fulfilled.
 end
+
+
 
 ## Turn-Ins
 

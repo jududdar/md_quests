@@ -1,4 +1,6 @@
 # Guardian Noit
+
+
 ## Dialog
 
 **You say:** `hail`

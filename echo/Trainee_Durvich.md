@@ -1,4 +1,6 @@
 # Trainee Durvich
+
+
 ## Dialog
 
 **You say:** `hail`

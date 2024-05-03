@@ -1,4 +1,6 @@
 # a worry wraith
+
+
 ## Signals
 
 if(e.signal == 1) then

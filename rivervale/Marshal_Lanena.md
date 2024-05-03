@@ -6,6 +6,8 @@
 
 
 
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -79,6 +81,8 @@ else
 
 >**Marshal Lanena says:** The Rantho Rapier was crafted by the great blacksmith Rantho Goobler.  It was designed for use by the warriors of the wee folk.  With its light weight and special two-hand hilt, it becomes a formidable weapon in the hands of our younger deputies.  Only a [new deputy] has the right to earn one.
 end
+
+
 
 ## Turn-Ins
 

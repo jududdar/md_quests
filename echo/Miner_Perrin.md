@@ -1,4 +1,6 @@
 # Miner Perrin
+
+
 ## Dialog
 
 **You say:** `hail`

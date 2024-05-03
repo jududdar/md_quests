@@ -15,6 +15,8 @@ if (math.random(100) <= 15) then
 RanGem = eq.ChooseRandom(10028, 10037, 22503, 15981); 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -54,6 +56,8 @@ end
 >**Elder Gelok says:** Size 12 sprockets are always greatly needed. Any Silicorrosive Grease you find would be a huge help as well. You can never have too much Silicorrosive grease laying around. Also, tri-platinum foil and mini-gyro shields would be good for something or another. Micro-ceramic sleeves are a nice find as well. Got all that? Now, reach around up there in the area of the transcentrifugal axle that isn't working. You'll either be badly wounded or transported to the Plane of Innovation. Take care!
 end
   
+
+
 ## Turn-Ins
 
 

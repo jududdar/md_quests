@@ -2,9 +2,13 @@
 
 local INVIS_MAN_ID = 369487;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *check* for 1 seconds
+
+
 ## Timer(s)
 
 eq.stop_timer(e.timer);
@@ -17,6 +21,8 @@ if ( **spawned NPC:**  [A Stonefist Clansman](/npc/222009) ) then
 
 return;
 end
+
+
 
 ## On NPC Death
 

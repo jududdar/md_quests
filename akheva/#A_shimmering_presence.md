@@ -1,4 +1,6 @@
 # A shimmering presence
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >*A shimmering presence  glows brighter still as your vision turns to follow the robed figure up the stairs of the entrance to the temple. The figure raises his scepter toward the storm and begins to recite some unfamiliar words. A crackle of magical energy blazes across the sky seemingly in defiance of the raging storm. The energy quickly dissipates however, and the storm continues to bear down on the temple. The figure cries out in pain as the scepter in his hand shatters into many shards. The sofly glowing gem from the scepter head rolls silently down the steps and disappears.*
 end
+
+
 
 ## Turn-Ins
 

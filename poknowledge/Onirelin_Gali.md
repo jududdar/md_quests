@@ -1,5 +1,7 @@
 # Onirelin Gali
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@
 
 >*Onirelin Gali pauses for a moment and continues, 'I am aware of that which Cador desires. Be wary of his ways for they are not always as they appear. Nevertheless, if he thinks this artifact will bring him greater peace, he may have it for a price. Certainly I have no use for it but what do I get in return? I'll tell you. Narik and I used to be good friends, until he became jealous of my relationship with his former companion Elisha. During our fight, he marched off with one of my finest jewels, and I believe still has it. Find him and ask for my jewel back. If you bring it to me, Cador may get want he wants as well.'*
 end
+
+
 
 ## Turn-Ins
 

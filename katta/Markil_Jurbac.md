@@ -1,4 +1,6 @@
 # Markil Jurbac
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Markil Jurbac says:** Magistrate Phenic Dionicas sets a fine example for any to follow- from one of our finest soldiers to one of our finest magistrates, Katta Cestellum is better of for his presence.  Have you some business with him?
 end
+
+
 
 ## Turn-Ins
 

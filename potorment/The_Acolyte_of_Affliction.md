@@ -1,4 +1,6 @@
 # The Acolyte of Affliction
+
+
 ## Combat
 
 if  The Acolyte of Affliction enters combat  then
@@ -11,6 +13,8 @@ else
 
 **Stop timer** named *adds*
 end
+
+
 
 ## Timer(s)
 
@@ -30,6 +34,8 @@ for i = 1, x do
 eq.spawn2( [A construct seedling](/npc/207295), 0, 0, math.random(-32, 32), math.random(-175, -153), 194, 0); 
 
 end
+
+
 
 ## On NPC Death
 

@@ -1,4 +1,6 @@
 # Basher Thintan
+
+
 ## Dialog
 
 **You say:** `armor`

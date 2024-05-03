@@ -1,4 +1,6 @@
 # Tol Nicelot
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Tol Nicelot says:** Nolusia is a member of the Craftkeepers. She lives as a guildmaster in Erudin Palace.
 end
+
+
 
 ## Arrive at Waypoint Script
 

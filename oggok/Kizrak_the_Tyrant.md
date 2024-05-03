@@ -1,4 +1,6 @@
 # Kizrak the Tyrant
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,7 +1,11 @@
 # Guard Cyrillian
+
+
 ## Signals
 
 >**Guard Cyrillian says:** Hey!  Quit pestering Mezzt!  Can't you see he has no tongue?  And before you ask, it is none of your business what happened to him.  Bug off!
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -143,6 +147,8 @@ else
 
 >**Guard Cyrillian says:** What was that you said? You mentioned the Sabertooths of Blackburrow? Those gnolls have caused this city trouble harm for too long. We have yet to force them from Qeynos Hills. I hear rumors of a few merchants who even dare to sell the outland Blackburrow Stout which is brewed by the gnolls. Foolish!! We call upon all citizens to assist in ridding our land of the gnolls. If you wish to join the fight then speak with Captain Tillin.
 end
+
+
 
 ## Signals
 >**Guard Cyrillian says:** Yes, sir!

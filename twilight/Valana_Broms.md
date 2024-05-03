@@ -1,4 +1,6 @@
 # Valana Broms
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Valana Broms says:** For the sandals you must retrieve for me an astral jewel, a mark of form, and some spire spirit dust.
 end
+
+
 
 ## Turn-Ins
 

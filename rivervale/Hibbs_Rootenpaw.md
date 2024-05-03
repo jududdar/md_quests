@@ -1,4 +1,6 @@
 # Hibbs Rootenpaw
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -41,6 +43,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Hibbs Rootenpaw says:** We Storm Reapers are searching for the culprit that is seeding the cursed fields with the diseased and undead creatures. The person responsible has committed great offenses to the ways of Karana and the people of Rivervale and must be stopped. Should you identify the individual responsible slay them and bring their head to me and you shall be rewarded for your deed. It is a shame that our otherwise peaceful lives must occasionally be interrupted by the necessity for bloodshed.
 
 end
+
+
 
 ## Turn-Ins
 

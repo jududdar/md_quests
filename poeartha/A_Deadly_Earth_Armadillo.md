@@ -1,4 +1,6 @@
 # A Deadly Earth Armadillo
+
+
 ## On NPC Death
 
 local n = math.random(1, 3);

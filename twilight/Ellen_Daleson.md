@@ -1,4 +1,6 @@
 # Ellen Daleson
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Ellen Daleson says:** If you want the Woodsman's Mask bring me a cloud jewel, a mark of stone, and a platinum chain.
 end
+
+
 
 ## Turn-Ins
 

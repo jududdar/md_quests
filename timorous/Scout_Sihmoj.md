@@ -1,4 +1,6 @@
 # Scout Sihmoj
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Scout Sihmoj says:** Greetings friend, please show me the Seal of Elder Dumul and I will brief you on the situation.
 end
+
+
 
 ## Turn-Ins
 

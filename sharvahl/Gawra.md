@@ -1,10 +1,16 @@
 # Gawra
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 80 seconds
+
+
 ## Timer(s)
 
 >**Gawra says:** Hey there! Come take a look at my torches. It beats hunting in the dark. I have food and bandages.
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -193,6 +199,8 @@
 
 >**Gawra says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
+
+
 
 ## Turn-Ins
 

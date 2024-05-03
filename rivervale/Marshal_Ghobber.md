@@ -1,4 +1,6 @@
 # Marshal Ghobber
+
+
 ## Dialog
 
 
@@ -83,6 +85,8 @@ else
 
 >**Marshal Ghobber says:** You can find Freeport beyond Kithicor Forest on the other side of the Commonlands.
 end
+
+
 
 ## Turn-Ins
 

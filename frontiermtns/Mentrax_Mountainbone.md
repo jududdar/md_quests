@@ -1,4 +1,6 @@
 # Mentrax Mountainbone
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Mentrax Mountainbone says:** Oh, old Wenden? I guess you be wanting some ore. Well, you can't have none! Not unless you get me a new monocle. No. No. No. Don't even try to talk, you either bring me a new monocle that will fit or no ore for you
 end
+
+
 
 ## Turn-Ins
 

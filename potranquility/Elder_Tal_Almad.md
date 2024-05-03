@@ -1,4 +1,6 @@
 # Elder Tal Almad
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Elder Tal Almad says:** Well then, if you do not need my assistance, I will continue my work. May you find that which you seek.
 end
+
+
 
 ## Turn-Ins
 

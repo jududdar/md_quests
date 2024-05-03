@@ -1,4 +1,6 @@
 # a lesser storm giant noble
+
+
 ## Dialog
 
 **You say:** `hail`

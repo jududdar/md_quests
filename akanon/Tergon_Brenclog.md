@@ -1,6 +1,8 @@
 # Tergon Brenclog
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -172,6 +174,8 @@ else
 >**Tergon Brenclog says:** You dare to speak to a member of the Eldritch Collective! You had best leave before you find your soul displaced from your body.
 
 end
+
+
 
 ## Turn-Ins
 

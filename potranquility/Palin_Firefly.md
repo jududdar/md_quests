@@ -1,9 +1,13 @@
 # Palin Firefly
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);
 
 eq.set_timer("inifish",math.random(32000));
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -12,6 +16,8 @@ eq.set_timer("inifish",math.random(32000));
 
 >*Palin Firefly continues to stare out at the ocean, completely lost in his thoughts.*
 end
+
+
 
 ## Timer(s)
 

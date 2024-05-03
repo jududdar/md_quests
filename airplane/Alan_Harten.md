@@ -1,7 +1,11 @@
 # Alan Harten
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +33,8 @@
 
 >**Alan Harten says:** So, you must be a great protector to have ventured this far.  Bring to me an adumbrate globe, a faintly glowing diamond, and some shiny pauldrons to get your reward.
 end
+
+
 
 ## Turn-Ins
 
@@ -79,6 +85,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

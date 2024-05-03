@@ -1,4 +1,6 @@
 # Feskr Drinkmaker
+
+
 ## Dialog
 
 if **Faction** >= Dubious then
@@ -32,6 +34,8 @@ else
 >I wonder how much I could get for the tongue of a blithering fool?  Leave before I decide to find out for myself.
 
 >Oh look..a talking lump of refuse..how novel!
+
+
 
 
 

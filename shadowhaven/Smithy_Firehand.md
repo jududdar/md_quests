@@ -1,4 +1,6 @@
 # Smithy Firehand
+
+
 ## Dialog
 
 **You say:** `hail`

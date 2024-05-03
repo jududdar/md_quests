@@ -1,4 +1,6 @@
 # Councilor Icelok
+
+
 ## Dialog
 
 **You say:** `hail`

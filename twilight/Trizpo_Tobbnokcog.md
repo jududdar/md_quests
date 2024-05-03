@@ -1,4 +1,6 @@
 # Trizpo Tobbnokcog
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Trizpo Tobbnokcog says:** For the staff you'll have to get me a cloud jewel, a mark of detonation, opaque glasses, and a pyro wand.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Ami
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@
 
 >*Ami nods. 'A mate of mine borrowed the P Chapter to draw a map on but then he went and got himself lost. I've memorized the rest of the book but that chapter. Oh, well, I guess I can get by with what I have. Walk the mizenmast and batten down the boom!' She looks at you proudly. 'Good, eh? I'm one of the best pirates we have.'*
 end
+
+
 
 ## Turn-Ins
 

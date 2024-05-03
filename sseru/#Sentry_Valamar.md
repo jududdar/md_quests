@@ -1,4 +1,6 @@
 # Sentry Valamar
+
+
 ## Dialog
 
 **You say:** `hail`

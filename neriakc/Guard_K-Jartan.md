@@ -1,4 +1,6 @@
 # Guard K-Jartan
+
+
 ## Dialog
 
 **You say:** `supplies`

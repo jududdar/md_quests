@@ -1,4 +1,6 @@
 # Efreeti Weapon Polisher
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 **Message:** <span class="text-warning">*If you are a disciple of Sky and need your Efreeti War Horn, Standard, Ring, or Spear polished, I am the tradesmith for you. Please hand these and I will polish, sharpen, or fit them free of charge.*</span>
 end
+
+
 
 
 ## Turn-Ins

@@ -1,4 +1,6 @@
 # Sentinel Fyjrael
+
+
 ## Dialog
 
 **You say:** `hail`

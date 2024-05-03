@@ -1,4 +1,6 @@
 # Councilor Coldember
+
+
 ## Dialog
 
 **You say:** `hail`

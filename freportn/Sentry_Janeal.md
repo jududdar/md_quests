@@ -1,4 +1,6 @@
 # Sentry Janeal
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sentry Janeal says:** Welcome. friend!  Please seek the words of the clerics of Marr.  Their words are the words which will set us free from the tyranny of the Freeport Militia.
 end
+
+
 
 ## Turn-Ins
 

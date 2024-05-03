@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -130,6 +132,8 @@
 
 >**Vegalys Keldrane says:** Kane recommended Guard Helminth personally as one of his best. They must have run into serious trouble. These were two of Qeynos' finest. I am only willing to send those with both strength and intelligence down there to complete this mission and find our people's whereabouts. Give me your Researcher's Badge should you wish to accept this mission.
 end
+
+
 
 ## Turn-Ins
 

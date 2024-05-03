@@ -1,4 +1,6 @@
 # Dyllin Starsine
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Dyllin Starsine says:** I have not the slightest idea what you are speaking about.  Now get lost before I get irritated.  Excuse me. I mean MORE irritated!
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Reyia Beslin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -115,6 +117,8 @@ else
 
 >**Reyia Beslin says:** The Sapphire of Souls is rumored to be held by a thief in Najena. No one knows how this guy obtained the sapphire, but we believe he is trying to strike a bargain with those who are currently holding Befallen. Apparently, we aren't the only ones who know of the wand's powers, and this thief thinks he can make a profit from it. Sadly, his greed will surely lead to his death.
 end
+
+
 
 ## Turn-Ins
 

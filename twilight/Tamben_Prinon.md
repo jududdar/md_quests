@@ -1,4 +1,6 @@
 # Tamben Prinon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Tamben Prinon says:** For the boots you must prove your worth. Go gather an astral jewel, a mark of beast mastery, and an embedded gold figurine.
 end
+
+
 
 ## Turn-Ins
 

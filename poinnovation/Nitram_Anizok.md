@@ -49,6 +49,8 @@ return true;
 
 
 return false;
+
+
 ## On NPC Spawn
 
 dragonSlain = false;
@@ -56,6 +58,8 @@ dragonSlain = false;
 walking = false;
 
 flags = 0;
+
+
 ## Signals
 
 dragonSlain = true;
@@ -111,6 +115,8 @@ cid = client:GetID();
 
 eq.debug("Flagger NPC will acknowledge "..client:GetName().."'s raid/group; Raid ID == "..(rid or "(nil)")..";  Group ID == "..(gid or "(nil)"), 1);
 end
+
+
 
 ## Dialog
 
@@ -230,6 +236,8 @@ elseif ( not walking ) then
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -261,6 +269,8 @@ e.self:SetNPCFactionID(1006);
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Arrive at Waypoint Script
 
 
@@ -293,6 +303,8 @@ else
 **Nitram Anizok despawns.**
 
 end
+
+
 
 ## Timer(s)
 

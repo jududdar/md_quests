@@ -1,4 +1,6 @@
 # a spirit
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >*a spirit seems hesitant to go into details and reacts harshly when asked further. He does say that he went to enlist an army of lesser beings to do it's bidding, but they refused. The spirit scoffs and says they believed the lord they shared favored them more than it. It goes on, explaining their utter foolishness and eventual demise in great detail. *
 end
+
+
 
 ## Turn-Ins
 

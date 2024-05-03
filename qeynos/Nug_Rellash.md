@@ -1,4 +1,6 @@
 # Nug Rellash
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Nug Rellash says:** Hello, Soandso. I am Nug Rellash, assistant brewer and barkeep at the Lion's Mane Tavern. Come in and enjoy the drinks.
 end
+
+
 
 ## Turn-Ins
 

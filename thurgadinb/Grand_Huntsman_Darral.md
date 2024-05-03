@@ -1,4 +1,6 @@
 # Grand Huntsman Darral
+
+
 ## Dialog
 
 **You say:** `hail`

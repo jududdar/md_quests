@@ -1,4 +1,6 @@
 # Lookout Sereon
+
+
 ## Dialog
 
 **You say:** `hail`

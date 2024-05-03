@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
@@ -20,6 +22,8 @@ if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gi
 >**an angry goblin says:** 'Go away, my life is miserable enough!' The angry goblin looks at you more closely, his rage fading for a moment. 'Are you here with the evidence I was promised? Give it to me if you have it.'
 
 end
+
+
 
 ## Turn-Ins
 
@@ -44,6 +48,8 @@ eq.start(99);
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

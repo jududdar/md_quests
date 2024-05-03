@@ -1,4 +1,6 @@
 # Legionnaire Nefas
+
+
 ## Dialog
 
 **You say:** `hail`

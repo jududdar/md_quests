@@ -1,4 +1,6 @@
 # orc trainer
+
+
 ## Combat
 
 if orc trainer enters combat  then

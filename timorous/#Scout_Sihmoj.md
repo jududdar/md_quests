@@ -1,7 +1,11 @@
 # Scout Sihmoj
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 5400 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **Scout Sihmoj despawns.**
 end
+
+
 
 ## Turn-Ins
 

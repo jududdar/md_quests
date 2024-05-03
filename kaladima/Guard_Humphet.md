@@ -1,4 +1,6 @@
 # Guard Humphet
+
+
 ## Dialog
 
 **You say:** `armor`

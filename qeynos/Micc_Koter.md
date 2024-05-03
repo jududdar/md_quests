@@ -1,4 +1,6 @@
 # Micc Koter
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@
 **Signaled to:**  [Klieb Torne](/npc/1071)
 end
 
+
+
 ## Turn-Ins
 
 
@@ -46,6 +50,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 >**Micc Koter says:** Oh yes. Now I remember.. Ha ha.. He said he was going into the Plains of Karana to look for some gnoll lover by the name of Caninel. He said Caninel knew something about the location of the Paw of Opolla. It sounds like a bunch of rat crap to me , I never heard of no one named Caninel. But off he went.. Heck , finding one person in the Plains of Karana without a [ ranger ] to guide you is like looking for a clean spot on ol'Klieb here. Ha ha!!
 
 **This NPC *should* return incorrect items given.**
+
+
 
 
 

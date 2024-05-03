@@ -1,4 +1,6 @@
 # Guard Streamtree
+
+
 ## Dialog
 
 **You say:** `soldiers`

@@ -1,4 +1,6 @@
 # Mandaril Dark Knife
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Mandaril Dark Knife says:** Desist in your prattle.  If you want idle chitchat. talk to someone else.
 end
+
+
 
 ## Turn-Ins
 

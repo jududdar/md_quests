@@ -1,4 +1,6 @@
 # Giwin Mirakon
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);
@@ -25,6 +27,8 @@ else
 **Message:** <span class="text-warning">*Giwin Mirakon tells you, 'Who are you to talk to me?  Are you a Warrior of Rallos?  What are you doing here?!  Maybe you should leave before you make me angry.'*</span>
 
 end
+
+
 
 ## Turn-Ins
 

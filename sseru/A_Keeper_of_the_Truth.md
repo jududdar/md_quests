@@ -1,4 +1,6 @@
 # A Keeper of the Truth
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Guard Kaldolar
+
+
 ## Dialog
 
 **You say:** `armor`

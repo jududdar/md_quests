@@ -1,4 +1,6 @@
 # Berk Thurstone
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Berk Thurstone says:** Bah!  Them uglies ain't much fer sharin' the mines outside the city in Tenebrous, I tell ye that much.
 end
+
+
 
 ## Turn-Ins
 

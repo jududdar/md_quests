@@ -1,7 +1,11 @@
 # a dandy pansy
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Combat
 
 if a dandy pansy enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

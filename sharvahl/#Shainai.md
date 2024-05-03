@@ -1,7 +1,11 @@
 # Shainai
+
+
 ## On NPC Spawn
 
 eq.get_entity_list():GetSpawnByID(e.self:GetSpawnPointID()):SetRespawnTimer(150);
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 17) then
@@ -49,6 +53,8 @@ elseif(e.wp == 80) then
 
 >*Shainai Yawns tiredly and says, 'That was fun. Time for me to go to sleep though.' She crawls under the blanket and falls sound asleep.*
 end
+
+
 
 ## Dialog
 
@@ -248,6 +254,8 @@ eq.get_entity_list():GetSpawnByID(e.self:GetSpawnPointID()):SetRespawnTimer(1800
 **Shainai despawns.**
 
 end
+
+
 
 ## Turn-Ins
 

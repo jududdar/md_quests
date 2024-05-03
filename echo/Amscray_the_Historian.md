@@ -1,4 +1,6 @@
 # Amscray the Historian
+
+
 ## Dialog
 
 **You say:** `hail`

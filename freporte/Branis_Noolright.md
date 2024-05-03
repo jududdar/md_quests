@@ -2,9 +2,13 @@
 local signal = 0;
 local lastSong = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *ready* for 300 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "ready" ) then
@@ -58,6 +62,8 @@ elseif ( e.timer == "table" ) then
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -66,6 +72,8 @@ end
 
 >**Branis Noolright says:** Good day to you! Sit and have a drink. I shall be playing soon enough.
 end
+
+
 
 ## Signals
 

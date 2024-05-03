@@ -1,4 +1,6 @@
 # Sentinel Thunderfist
+
+
 ## Dialog
 
 **You say:** `hail`

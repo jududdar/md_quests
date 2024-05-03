@@ -1,4 +1,6 @@
 # Kerzar Clawtore
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*Kerzar Clawtore glares with eyes that seem to pierce through you like fiery daggers.  'Run while you can weakling!  My appetite grows stronger with the presence of your mortal scent!'*
 end
+
+
 
 ## Turn-Ins
 
@@ -33,6 +37,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 >*Kerzar Clawtore roars flashing glistening fangs that are sharper and longer than the average Vah Shirs!*
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

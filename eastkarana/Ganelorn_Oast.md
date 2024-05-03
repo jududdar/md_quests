@@ -1,4 +1,6 @@
 # Ganelorn Oast
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Ganelorn Oast says:** I suppose you would like to call the flame? I must know you are a dedicated forester before I would even consider teaching such a thing.
 end
+
+
 
 ## Turn-Ins
 

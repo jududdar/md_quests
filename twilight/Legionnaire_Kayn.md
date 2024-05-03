@@ -1,4 +1,6 @@
 # Legionnaire Kayn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Legionnaire Kayn says:** To get the talisman you must bring me an astral jewel, a mark of affirmation, and a light etched peridot.
 end
+
+
 
 ## Turn-Ins
 

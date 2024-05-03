@@ -1,9 +1,13 @@
 # Legionnaire Claudius
 local count = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *attack* for 2 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "attack") then

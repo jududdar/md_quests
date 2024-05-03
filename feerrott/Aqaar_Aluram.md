@@ -1,4 +1,6 @@
 # Aqaar Aluram
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -76,6 +78,8 @@
 >**Aqaar Aluram says:** A Phobonomicon, book of fear, is rumored to be creatable through the use of rituals and tools too disturbing to describe. Once the ritual or process is complete, the book will begin to take on its own... life, for lack of a better word. The book of fear is capable of unthinkable magic. Watch yourself, should you stumble into such a tome.
 
 end
+
+
 
 ## Turn-Ins
 

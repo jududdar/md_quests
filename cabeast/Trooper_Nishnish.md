@@ -1,4 +1,6 @@
 # Trooper Nishnish
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Nishnish says:** So the legion has sent you to have me sign this order, eh? Nay. I shall not do so unless the messenger, you, gathers two barracuda teeth for me. Hand me the legion order when you hand me the two barracuda teeth and then your task shall be complete.
 end
+
+
 
 ## Turn-Ins
 

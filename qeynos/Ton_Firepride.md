@@ -1,4 +1,6 @@
 # Ton Firepride
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -45,6 +47,8 @@ Your faction standing with [Corrupt Qeynos Guards](/faction/230) got worse (<spa
 >**Ton Firepride says:** Away from me, fool! The Knights of Thunder are no friends of mine. They persist in forging their own armor! What?! Are not the talents of Ton Firepride to their liking?!
 
 end
+
+
 
 ## Turn-Ins
 

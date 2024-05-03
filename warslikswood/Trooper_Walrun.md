@@ -1,4 +1,6 @@
 # Trooper Walrun
+
+
 ## Dialog
 
 **You say:** `hail`

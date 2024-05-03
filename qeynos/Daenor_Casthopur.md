@@ -1,4 +1,6 @@
 # Daenor Casthopur
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -32,6 +34,8 @@ else
 >**Daenor Casthopur says:** The Order of Three has been monitoring your recent activities, and we are appalled by you and your actions! Now, begone!
 
 end
+
+
 
 ## Turn-Ins
 

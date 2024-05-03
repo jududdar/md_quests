@@ -1,4 +1,6 @@
 # Rarnan Lapice
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ else
 >**Rarnan Lapice says:** Leave my sight at once! You are no friend to the Peacekeepers of the Temple of Divine Light.
 
 end
+
+
 
 ## Turn-Ins
 

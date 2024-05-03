@@ -1,5 +1,7 @@
 # Watchman Dexlin
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -97,6 +99,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -133,6 +137,8 @@ Your faction standing with [Clan Grikbar](/faction/1604) got worse (<span class=
 **Watchman Dexlin despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

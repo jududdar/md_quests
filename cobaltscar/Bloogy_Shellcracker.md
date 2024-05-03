@@ -1,4 +1,6 @@
 # Bloogy Shellcracker
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Bloogy Shellcracker says:** The rarest treat I can prepare for my people is saucy salted seadragon steak. I wish to barter for some water dragon or sea dragon meat, saltwater seaweed, and fish eggs. The rest of the ingredients are collected locally by our collectors.
 end
+
+
 
 ## Turn-Ins
 

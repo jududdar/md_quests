@@ -1,6 +1,8 @@
 # Llara
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -66,6 +68,8 @@ if(qglobals["Llara"] ~= nil) then
 eq.delete_global("Llara");
 
 end
+
+
 
 ## Turn-Ins
 

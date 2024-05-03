@@ -1,4 +1,6 @@
 # Brin Stolunger
+
+
 ## Dialog
 
 
@@ -45,6 +47,8 @@ else
 >**Brin Stolunger says:** Your head shall look grand mounted on the wall of the Steel Warriors Arena!!
 
 end
+
+
 
 ## Turn-Ins
 

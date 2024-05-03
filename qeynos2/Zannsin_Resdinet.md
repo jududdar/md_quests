@@ -1,4 +1,6 @@
 # Zannsin Resdinet
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 10) then
@@ -9,6 +11,8 @@ if(e.wp == 10) then
 
 **Signaled to:**  [Hanns Krieghor](/npc/2074)
 end
+
+
 
 ## Signals
 
@@ -27,6 +31,8 @@ elseif(e.signal == 3) then
 
 >**Zannsin Resdinet says:** I'll send one of our best men to Highpass and eliminate [Rujahn]'s spy.
 end
+
+
 
 ## Dialog
 
@@ -101,6 +107,8 @@ else
 >**Zannsin Resdinet says:** The Circle has recognized your deeds and contributions, but I think you need to prove your worth to us a little more.
 
 end
+
+
 
 ## Turn-Ins
 

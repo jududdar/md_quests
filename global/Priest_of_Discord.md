@@ -1,4 +1,6 @@
 # Priest of Discord
+
+
 ## Dialog
 
 local is_special_flag_response = false;
@@ -191,6 +193,8 @@ else
 >**Priest of Discord says:** I can't offer you anything as you are above the first season, or have already chosen your challenges. Begone, mortal.
 
 end
+
+
 
 ## Turn-Ins
 

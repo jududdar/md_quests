@@ -1,4 +1,6 @@
 # Qearin Softbark
+
+
 ## Dialog
 
 **You say:** `hail`

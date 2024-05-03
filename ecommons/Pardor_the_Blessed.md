@@ -1,4 +1,6 @@
 # Pardor the Blessed
+
+
 ## Dialog
 
 **You say:** `hail`

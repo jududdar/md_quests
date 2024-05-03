@@ -12,6 +12,8 @@ else
 **Signaled to:**  [Glorin Binfurr](/npc/68054)
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,4 +1,6 @@
 # Bargain Merchant
+
+
 ## Dialog
 
 **You say:** `hail`

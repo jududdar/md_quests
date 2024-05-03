@@ -1,4 +1,6 @@
 # A Legionnaire of the Hand
+
+
 ## Dialog
 
 **You say:** `hail`

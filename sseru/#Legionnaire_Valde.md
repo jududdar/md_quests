@@ -1,4 +1,6 @@
 # Legionnaire Valde
+
+
 ## Dialog
 
 **You say:** `hail`

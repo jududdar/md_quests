@@ -1,6 +1,8 @@
 # Ticar Lorestring
 
 
+
+
 ## Dialog
 
 **You say:** `hail`

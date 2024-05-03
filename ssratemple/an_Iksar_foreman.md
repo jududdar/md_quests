@@ -1,4 +1,6 @@
 # an Iksar foreman
+
+
 ## Dialog
 
 **You say:** `glanoxx sent me`

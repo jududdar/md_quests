@@ -1,4 +1,6 @@
 # Galorano Daldirick
+
+
 ## Dialog
 
 **You say:** `hail`

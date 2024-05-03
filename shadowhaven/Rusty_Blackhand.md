@@ -1,4 +1,6 @@
 # Rusty Blackhand
+
+
 ## Dialog
 
 **You say:** `hail`

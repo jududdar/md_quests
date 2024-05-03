@@ -1,4 +1,6 @@
 # Scout Charisa
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*Scout Charisa motions you to be silent.*
 end
+
+
 
 ## Turn-Ins
 

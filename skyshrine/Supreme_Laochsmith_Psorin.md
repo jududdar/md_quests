@@ -1,4 +1,6 @@
 # Supreme Laochsmith Psorin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Supreme Laochsmith Psorin says:** Using my obviously superior skills I can customize a plate helm from the Shrine to suit a " .. e.other:Race() .. " such as yourself. Give me your Blood Lord's Crown, Scaled Knight's Helm, Helm of Twilight, Akkirus' Crown of the Risen, Cowl of Mortality, Frostreaver's Velium Crown, Crown of the Kromzek Kings, or Crown of the Myrmidon and I shall make you a new helm that will better hide and protect your unscaled features.
 end
+
+
 
 ## Turn-Ins
 

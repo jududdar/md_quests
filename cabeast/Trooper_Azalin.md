@@ -1,4 +1,6 @@
 # Trooper Azalin
+
+
 ## Dialog
 
 **You say:** `Hail`

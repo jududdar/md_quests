@@ -1,5 +1,7 @@
 # an Iksar knight
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@
 
 >*an Iksar knight spits some flarefire seeds on your face. 'What? Interested in flarefire seeds? There you go. Ha!!'*
 end
+
+
 
 ## Turn-Ins
 

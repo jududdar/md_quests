@@ -1,4 +1,6 @@
 # Hero Shrine Guardian
+
+
 ## Arrive at Waypoint Script
 
 
@@ -20,6 +22,8 @@ e.self:RemoveWaypoints();
 e.self:SaveGuardSpot();
 end
 
+
+
 ## Signals
 
 if ( e.signal == e.self:GetID() ) then
@@ -27,6 +31,8 @@ if ( e.signal == e.self:GetID() ) then
 
 **Set a timer** named *move* for 60 seconds
 end
+
+
 
 ## Timer(s)
 

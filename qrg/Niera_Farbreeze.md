@@ -1,4 +1,6 @@
 # Niera Farbreeze
+
+
 ## On NPC Spawn
 
 local xloc = e.self:GetX();
@@ -9,6 +11,8 @@ eq.set_proximity(xloc - 20, xloc + 20, yloc - 20, yloc + 20);
 function event_enter(e)
 
 **Set a timer** named *hum* for 0 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "hum") then
@@ -19,6 +23,8 @@ if(e.timer == "hum") then
 
 **Stop timer** named *hum*
 end
+
+
 
 ## Dialog
 
@@ -46,6 +52,8 @@ end
 
 >*Niera Farbreeze stares at you with a flame in her eye. 'Did you hear everything I just told you? There is no way I will let go of this pouch. You find me another reminder and maybe I'll let it go. Not until then. Good luck doing that. Last anyone saw my mother she was exploring the blasted wastes of the newly discovered lands.*
 end
+
+
 
 ## Turn-Ins
 

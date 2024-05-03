@@ -1,9 +1,13 @@
 # Guard Gonin
+
+
 ## Signals
 
 >**Guard Gonin says:** You mean your stench will soon march upon the land!
 
 **Signaled to:**  [Guard Kyte](/npc/68209)
+
+
 ## Dialog
 
 **You say:** `hail`

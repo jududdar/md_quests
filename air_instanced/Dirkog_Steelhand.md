@@ -1,7 +1,11 @@
 # Dirkog Steelhand
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +65,8 @@
 >**Dirkog Steelhand says:** That's the spirit, laddie!  I only have one test for ye.  Return to me a silvery girdle, a diaphanous globe, and an ivory sky diamond.  In return, I will give ye me girdle.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -96,6 +102,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 **Dirkog Steelhand despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

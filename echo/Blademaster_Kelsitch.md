@@ -1,4 +1,6 @@
 # Blademaster Kelsitch
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `missing helmet`
@@ -11,6 +13,8 @@
 
 >**Korzak Stonehammer says:** Recently helmets have been stolen from our workers.  One of them reported seeing one of those wreched flying monkey beasts carry one off.  Having those helmets back would be very useful.  If you come across any of the workers helmets, return them to me and I will bestow a reward totem upon you.
 end
+
+
 
 ## Turn-Ins
 

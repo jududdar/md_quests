@@ -1,7 +1,11 @@
 # Clockwork MM
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 70 seconds
+
+
 ## Combat
 
 if Clockwork MM enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

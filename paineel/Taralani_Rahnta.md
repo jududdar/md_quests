@@ -1,4 +1,6 @@
 # Taralani Rahnta
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >*Taralani Rahnta removes a satchel from under the counter. He opens it up to reveal a collection of strange looking tools.  You have never seen their likeness anywhere on Norrath. The Bartender says, 'A traveling merchant sold these to me a while ago. They belonged to one of the ancient Vah'Shir before they were.. removed. They're worth thousands of platinum based on their historical significance alone, but I'll part with them for only 1000. Some collector's item, eh?'*
 end
+
+
 
 ## Turn-Ins
 

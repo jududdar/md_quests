@@ -1,7 +1,11 @@
 # Golath
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 120 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then
@@ -41,6 +45,8 @@ if(rand == 4) then
 >**Golath says:** Treat yourself to a hot freshly baked moor fish pie! They're fresh!
 
 end
+
+
 
 ## Dialog
 
@@ -260,6 +266,8 @@ end
 
 >**Golath says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,9 +1,13 @@
 # Gornolin
+
+
 ## On NPC Spawn
 
 **Set a timer** named *nosell* for 1 seconds
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "nosell") then
@@ -27,6 +31,8 @@ while ( e.self:CheckGround() ) do
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -35,6 +41,8 @@ end
 
 >**Gornolin says:** Greetings, my fellow traveler. I am Gornolin Zot, traveling merchant of fine wares. Please. Take a look at what I have to offer.
 end
+
+
 
 ## Arrive at Waypoint Script
 

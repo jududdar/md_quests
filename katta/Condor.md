@@ -1,7 +1,11 @@
 # Condor
+
+
 ## On NPC Spawn
 
 **Set a timer** named *attack* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "attack") then
@@ -12,6 +16,8 @@ if(e.timer == "attack") then
 
 **Stop timer** named *attack*
 end
+
+
 
 ## Turn-Ins
 

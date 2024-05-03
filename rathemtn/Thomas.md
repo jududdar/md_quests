@@ -1,4 +1,6 @@
 # Thomas
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@ else
 
 >**Thomas says:** It is an alloy created from two rare metals.  Only [Lord Searfire] knows the formula.
 end
+
+
 
 ## Turn-Ins
 

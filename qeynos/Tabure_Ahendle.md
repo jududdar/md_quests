@@ -1,4 +1,6 @@
 # Tabure Ahendle
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -136,6 +138,8 @@ else
 >**Tabure Ahendle says:** Your head shall look grand mounted on the wall of the Steel Warriors Arena!!
 
 end
+
+
 
 ## Turn-Ins
 

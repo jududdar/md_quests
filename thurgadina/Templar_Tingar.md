@@ -1,9 +1,13 @@
 # Templar Tingar
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *talk* for 480 seconds
+
+
 ## Timer(s)
 
 local count = 0;

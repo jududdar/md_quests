@@ -21,6 +21,8 @@ quest_helper:melee_legs(SKYSHRINE_ARMOR.Plate_Greaves, 31124),
 quest_helper:melee_boots(SKYSHRINE_ARMOR.Plate_Boots, 31125) 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -102,6 +104,8 @@ else
 
 
 >**Adwetram Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Trooper Vaurk
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Vaurk says:** That is good, I will stay here to halt any advances. Head out near the lake and destroy the trespassers on our land! Bring me four of their knives that they carry for survival. Prove your allegiance to the Legion of Cabilis.
 end
+
+
 
 ## Turn-Ins
 

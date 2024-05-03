@@ -1,4 +1,6 @@
 # Arms Historian Qua
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -6,6 +8,8 @@ if(e.wp == 1) then
 
 >*Arms Historian Qua hums while he sorts through the books that rest on the various shelves.*
 end
+
+
 
 ## Dialog
 
@@ -15,6 +19,8 @@ end
 
 >**Arms Historian Qua says:** Hail citizen, may I help you find a book or are you looking for assistance with something else? 
 end
+
+
 
 ## Turn-Ins
 

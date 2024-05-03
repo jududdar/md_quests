@@ -1,4 +1,6 @@
 # Skrea Greenore
+
+
 ## Dialog
 
 **You say:** `hail`

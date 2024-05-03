@@ -1,4 +1,6 @@
 # Guard Nitegazer
+
+
 ## Dialog
 
 **You say:** `soldiers`

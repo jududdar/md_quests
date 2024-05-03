@@ -1,4 +1,6 @@
 # Ralleford Twothorns
+
+
 ## Dialog
 
 **You say:** `hail`

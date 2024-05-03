@@ -1,4 +1,6 @@
 # Deklean Korgad
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >*Deklean Korgad laughs uncontrollably. When he finally regains his composure he looks at you and says, 'All right chief, if you can prove to me that you can stand up to horrors then I'll show you the way across the chasm. Bring me 2 thought horror tentacles and that hunk of rock I gave you and we'll see about getting you across that bridge. Oh and by the way, since you're so full of energy, go run to shadowhaven and bring me back some Deep Cavern Bourbon along with those tentacles.'*
 end
+
+
 
 ## Turn-Ins
 

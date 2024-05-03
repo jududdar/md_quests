@@ -1,4 +1,6 @@
 # Raine Beteria
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@ else
 >**Raine Beteria says:** You are lucky to be standing. Leave here immediately or suffer grave consequences! You are not welcome amongst the Craftkeepers.
 
 end
+
+
 
 ## Turn-Ins
 

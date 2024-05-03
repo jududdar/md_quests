@@ -1,4 +1,6 @@
 # Master Kyvix
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -79,6 +81,8 @@ else
 
 >**Master Kyvix says:** I need the foot and stem of my candlestick. The Stem comes from Sarnaks. The foot has been stolen by Grype, in East Cabilis.
 end
+
+
 
 ## Turn-Ins
 

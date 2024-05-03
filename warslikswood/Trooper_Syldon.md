@@ -1,4 +1,6 @@
 # Trooper Syldon
+
+
 ## Dialog
 
 **You say:** `hail`

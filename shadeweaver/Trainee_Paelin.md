@@ -1,4 +1,6 @@
 # Trainee Paelin
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Trainee Paelin says:** Captain Tarief has offered to reward those that slay four of the saurek hoppers. You must return four of their scales to him as proof of your deeds to claim the reward. I hope to bring honor to my family by returning home with such a trophy.
 end
+
+
 
 ## Turn-Ins
 

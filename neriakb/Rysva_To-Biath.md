@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -100,6 +102,8 @@
 
 >**Rysva To-Biath says:** Speak not of those vile paladins within Neriak!
 end
+
+
 
 ## Turn-Ins
 

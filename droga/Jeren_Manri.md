@@ -1,4 +1,6 @@
 # Jeren Manri
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Jeren Manri says:** Shhh, be quiet! The goblins may hear you.
 end
+
+
 
 ## Turn-Ins
 

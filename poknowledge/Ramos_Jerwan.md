@@ -1,6 +1,8 @@
 # Ramos Jerwan
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Ramos Jerwan says:** There are some particularly interesting cichlid swimming about in the Plane of Nightmare. I also hear the discus in the Plane of Valor are quite plentiful. I need you to bring me two sets of bones from each for study. You do know how to extract them, yes? If not, I believe the lovely Peras Glickon may have something that can instruct you. Best of luck lad.
 end
+
+
 
 ## Turn-Ins
 

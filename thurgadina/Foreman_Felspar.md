@@ -42,9 +42,13 @@ quest_helper:melee_chest(THURG_ARMOR.Chain_Tunic, 31029),
 quest_helper:melee_helmet(THURG_ARMOR.Chain_Coif, 31028)
 }
 
+
+
 ## Dialog
 
 quest_helper.quest_text(e, QUEST_TEXT, 3);
+
+
 ## Turn-Ins
 
 quest_helper:quest_turn_in(e, 3, QUEST_ITEMS, quest_helper.thurg_armor_success)

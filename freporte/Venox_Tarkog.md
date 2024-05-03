@@ -1,4 +1,6 @@
 # Venox Tarkog
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -41,6 +43,8 @@ elseif(eq.get_current_expansion() < 4.0) then
 >**Venox Tarkog says:** Welcome to the shrine of the Dismal Rage.  May Innoruuk guide your every move in life.  Here, we will teach you to release your rage unto the world.  My priests are at your disposal.
 
 end
+
+
 
 ## Turn-Ins
 

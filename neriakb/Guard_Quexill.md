@@ -1,4 +1,6 @@
 # Guard Quexill
+
+
 ## Dialog
 
 **You say:** `supplies`
@@ -91,6 +93,8 @@
 
 >**Guard Quexill says:** Speak not of those vile paladins within Neriak!
 end
+
+
 
 ## Arrive at Waypoint Script
 

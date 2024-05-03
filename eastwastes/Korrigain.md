@@ -1,6 +1,8 @@
 # Korrigain
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Korrigain says:** Who dares disturb my rest? If ye be a friend of the mighty Coldain, then show me proof and I shall tell you of my plight. If not, then be on your way.
 end
+
+
 
 ## Turn-Ins
 

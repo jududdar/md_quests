@@ -1,4 +1,6 @@
 # Margyl Darklin
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 7) then

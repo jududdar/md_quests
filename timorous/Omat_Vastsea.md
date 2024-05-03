@@ -1,4 +1,6 @@
 # Omat Vastsea
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Omat Vastsea says:** The Plasmatic Priesthood are worshipers of the Tyrant of Fire, but they have been driven mad by their fanaticism and have forgotten the importance of the balance. In their madness they would set the whole world aflame, leaving nothing but lifeless ash.
 end
+
+
 
 ## Turn-Ins
 

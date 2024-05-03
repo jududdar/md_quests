@@ -21,6 +21,8 @@ quest_helper:melee_legs(KAEL_ARMOR.Plate_Greaves, 25389),
 quest_helper:melee_boots(KAEL_ARMOR.Plate_Boots, 25390), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -128,6 +130,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Bygloirn Omorden says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

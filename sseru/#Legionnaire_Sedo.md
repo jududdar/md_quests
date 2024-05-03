@@ -1,4 +1,6 @@
 # Legionnaire Sedo
+
+
 ## Dialog
 
 **You say:** `hail`

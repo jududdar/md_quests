@@ -1,6 +1,8 @@
 # an undead knight 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -33,6 +35,8 @@
 
 >**an undead knight  says:** Darkforge helms require my decayed helm and visor as well as two Freeport militia helms.  The breastplate requires the decayed breastplate, decayed mail and two enchanted platinum bars. Vambraces need both decayed vambraces and a Qeynos Guard kite shield.  The bracers require both decayed bracers and a horn from a minotaur lord.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Euzan Jurek
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -35,6 +37,8 @@
 
 >**Euzan Jurek says:** The Praesertum Consillium are the four structures found in the center of Sanctus Seru. They are surrounding the Arx Seru, which is where Seru himself resides. These buildings are heavily guarded with the leader of each.
 end
+
+
 
 ## Turn-Ins
 

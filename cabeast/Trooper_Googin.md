@@ -1,4 +1,6 @@
 # Trooper Googin
+
+
 ## Dialog
 
 **You say:** `Hail`

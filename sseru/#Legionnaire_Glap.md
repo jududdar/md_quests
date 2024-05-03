@@ -1,4 +1,6 @@
 # Legionnaire Glap
+
+
 ## Dialog
 
 **You say:** `hail`

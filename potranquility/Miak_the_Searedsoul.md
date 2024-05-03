@@ -1,4 +1,6 @@
 # Miak the Searedsoul
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

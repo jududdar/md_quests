@@ -1,6 +1,8 @@
 # an undead knight
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -33,6 +35,8 @@
 
 >**an undead knight says:** Darkforge gauntlets require both of my decayed gauntlets and one enchanted platinum bar.  For the darkforge greaves, I will need both decayed legplates and two pieces of melatite from the Solusek Mining Company.  For the boots, I need both my decayed boots and two parts of fairy dust.
 end
+
+
 
 ## Turn-Ins
 

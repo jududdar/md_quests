@@ -1,4 +1,6 @@
 # Kihun Solstin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 **Spawn NPC:**  [\#Master of Elements](/npc/71040) at (**y:** 1346.3, **x:** 604.5)
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Master Xydoz
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -81,6 +83,8 @@ else
 >**Master Xydoz says:** You are a true simpleton to think you can speak to me.  You are no ally to the Brood of Kotiz.  Begone, before I make your blood boil!
 
 end
+
+
 
 
 

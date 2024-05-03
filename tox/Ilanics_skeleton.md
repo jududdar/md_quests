@@ -1,8 +1,12 @@
 # Ilanics skeleton
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -24,9 +28,13 @@
 **Ilanics skeleton despawns.**
 end
 
+
+
 ## Timer(s)
 
 **Ilanics skeleton despawns.**
+
+
 ## Turn-Ins
 
 

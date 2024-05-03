@@ -21,6 +21,8 @@ quest_helper:melee_legs(KAEL_ARMOR.Chain_Leggings, 25382),
 quest_helper:melee_boots(KAEL_ARMOR.Chain_Boots, 25383), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -128,6 +130,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Kelenek Bluadfeth says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

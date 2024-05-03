@@ -1,4 +1,6 @@
 # Tabard Redhand
+
+
 ## Dialog
 
 **You say:** `hail`

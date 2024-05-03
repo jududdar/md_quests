@@ -1,4 +1,6 @@
 # Legionnaire Haldrick
+
+
 ## Dialog
 
 **You say:** `hail`

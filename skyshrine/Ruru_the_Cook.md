@@ -1,4 +1,6 @@
 # Ruru the Cook
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,7 +1,11 @@
 # an abhorrent hatchling
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Combat
 
 if  an abhorrent hatchling enters combat  then
@@ -14,6 +18,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

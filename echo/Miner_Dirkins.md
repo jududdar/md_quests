@@ -1,4 +1,6 @@
 # Miner Dirkins
+
+
 ## Dialog
 
 **You say:** `hail`

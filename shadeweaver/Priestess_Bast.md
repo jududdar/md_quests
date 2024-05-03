@@ -1,5 +1,7 @@
 # Priestess Bast
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 >*Priestess Bast speaks to you without opening her eyes or disturbing her meditations, 'Greetings to you. I, like others before me, have dedicated my life to protecting the animals that roam these lands. The blight of poachers and others that would profit from their destruction has overrun their peaceful way of life. You may also serve this noble cause, speak with Sentry Ferin in the field. No doubt there is plenty to be done.'*
 end
+
+
 
 ## Turn-Ins
 

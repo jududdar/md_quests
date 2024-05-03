@@ -1,9 +1,13 @@
 # Inte Akera
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +65,8 @@
 >**Inte Akera says:** You think you can succeed where I cannot? Perhaps you can noble one.. Bring me the head of Miragul, his robe and hand me back the two blessings I gave you, and in return I shall bequeath to you this sword I carry. Good luck my friend.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -111,6 +117,8 @@ elseif( **Faction is** > Kindly and  **You turn in:** <img style="background:url
 **Inte Akera despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -46,6 +46,8 @@ return true;
 
 
 return false;
+
+
 ## Signals
 
 rid, gid, cid = nil, nil, nil;
@@ -94,11 +96,15 @@ cid = client:GetID();
 eq.debug("Flagger NPC will acknowledge "..client:GetName().."'s raid/group; Raid ID == "..(rid or "(nil)")..";  Group ID == "..(gid or "(nil)"), 1);
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1200 seconds
 
 flags = 0;
+
+
 ## Timer(s)
 
 if ( e.timer == "depop" ) then
@@ -106,6 +112,8 @@ if ( e.timer == "depop" ) then
 
 **Essence of Water despawns.**
 end
+
+
 
 ## Dialog
 

@@ -1,4 +1,6 @@
 # Smithy Qag
+
+
 ## Dialog
 
 **You say:** `Hail`

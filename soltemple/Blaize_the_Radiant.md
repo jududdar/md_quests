@@ -1,6 +1,8 @@
 # Blaize the Radiant
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -39,6 +41,8 @@
 
 >**Blaize the Radiant says:** Astrid the Penitent often visited the frogloks of Upper Guk. She once told me her ingot was hidden underwater there. I found that strange because she couldn't swim. She was also a good friend to the Kerrans of Kerra Ridge, where she lost her life fighting against the Erudite hereitic Maugarim. Bring me the Ingot of the Penitent, the Icon of the Penitent, and one Magnetized Platinum Bar and I will forge them into a reward for you.
 end
+
+
 
 ## Turn-Ins
 

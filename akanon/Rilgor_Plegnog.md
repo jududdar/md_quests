@@ -1,4 +1,6 @@
 # Rilgor Plegnog
+
+
 ## Dialog
 
 **You say:** `mechanical pen`
@@ -13,6 +15,8 @@
 
 >*Rilgor Plegnog tugs at your robe and grins evilly. 'Mighty nice outfit you have there. Sure beats these drab robes us three are wearing. Hmm...my favorite color is purple, in fact a shiny metallic purple would do nicely. How bad did you want that pen?'*
 end
+
+
 
 ## Turn-Ins
 

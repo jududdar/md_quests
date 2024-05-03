@@ -1,4 +1,6 @@
 # Wyle Bimlin
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 6) then
@@ -12,9 +14,13 @@ elseif(e.wp == 4 or e.wp == 7) then
 e.self:SetRunning(false);
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -27,6 +33,8 @@ while ( e.self:CheckGround() ) do
 
 
 >*Wyle Bimlin picks an item up from the ground and says, 'Hey! Look what I found! Another piece of rubbish for my trailer... Must be my lucky day.*
+
+
 
 
 ## Dialog

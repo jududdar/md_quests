@@ -2,12 +2,18 @@
 
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *hum* for 300 seconds
+
+
 ## Timer(s)
 
 >*Torsten Reidan looks through the bookcase as if searching for something.*
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -22,6 +28,8 @@
 
 >**Torsten Reidan says:** His name was Bregun Dorey. What a funny little halfling he was. He had a good heart and worked hard. That is up until one day he just started acting odd, very nervous like he was hiding something. Then all he would talk about was Bixie Treats and then show off some weird heirloom charm bracelet. His time for the question came and due to his odd behavior he was sent to Marus Seru. I sure wish I knew how he was doing.
 end
+
+
 
 ## Turn-Ins
 

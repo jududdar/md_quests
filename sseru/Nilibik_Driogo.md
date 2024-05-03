@@ -1,6 +1,8 @@
 # Nilibik Driogo
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 
 >**Nilibik Driogo says:** Good, I am glad you would prove yourself useful to Seru. Look for Bronus, you should beware if he has lost his sanity for he is almost as powerful as myself.
 end
+
+
 
 ## Turn-Ins
 

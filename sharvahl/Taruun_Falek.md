@@ -1,4 +1,6 @@
 # Taruun Falek
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -188,6 +190,8 @@
 >**Taruun Falek says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 11) then
@@ -195,6 +199,8 @@ if(e.wp == 11) then
 
 >*Taruun Falek orders a drink.*
 end
+
+
 
 ## Turn-Ins
 

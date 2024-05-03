@@ -1,4 +1,6 @@
 # A Wandering Spirit
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -30,6 +32,8 @@
 
 >**A Wandering Spirit says:** The amulet was given to me after passing the Trials many many generations ago.  It is a part of every soldier who has passed the trials, it is a part of my very being.
 end
+
+
 
 ## Turn-Ins
 

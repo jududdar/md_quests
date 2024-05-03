@@ -1,4 +1,6 @@
 # Balix Misteyes
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Balix Misteyes says:** If you want to try, you can hunt Garou. If you kill, spread its soul to the air for cleansing, then all is good. Its skin is powerful from the magics that made it. With a cougar's bone, fresh with the spirit of earth, I can make you powerful talisman in thanks for your service to Snowfangs.
 end
+
+
 
 ## Turn-Ins
 

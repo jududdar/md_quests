@@ -14,6 +14,8 @@ local QUEST_ITEMS = {
   quest_helper:priest_boots(SKYSHRINE_ARMOR.Chain_Boots, 31111) 
 }
 
+
+
 ## Dialog
   if ( **Faction is** > Warmly) then 
 
@@ -65,6 +67,8 @@ local QUEST_ITEMS = {
 
 >**Asteinnon Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
  end
+
+
 
 ## Turn-Ins
   quest_helper:quest_turn_in(e, 1, QUEST_ITEMS, quest_helper.skyshrine_armor_success)

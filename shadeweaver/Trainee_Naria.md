@@ -1,4 +1,6 @@
 # Trainee Naria
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Trainee Naria says:** The shredder has been known tear young hunters apart in mere seconds. I would stay far away from those things if I were you. Tarief has offered a reward for any that bring him four of their scales, but I just don't think it would be worth facing such a beast in battle. The meat from the smaller ones are just as good to eat if you want my opinion.
 end
+
+
 
 ## Turn-Ins
 

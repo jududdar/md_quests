@@ -1,4 +1,6 @@
 # Roror
+
+
 ## Combat
 
 if Roror enters combat  then
@@ -18,6 +20,8 @@ else
 >**Roror says:** You ssssshall know the horror of Cazic-Thule!
 
 end
+
+
 
 ## Dialog
 
@@ -48,6 +52,8 @@ end
 
 >**Roror says:** You sssseek the blesssssssing of the Lord of Fear?! Give me what you have and 66 gold pieces as an offering to Cazic-Thule.
 end
+
+
 
 ## Turn-Ins
 

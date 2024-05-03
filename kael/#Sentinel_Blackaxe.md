@@ -1,4 +1,6 @@
 # Sentinel Blackaxe
+
+
 ## Dialog
 
 **You say:** `hail`

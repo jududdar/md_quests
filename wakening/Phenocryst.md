@@ -1,4 +1,6 @@
 # Phenocryst
+
+
 ## Dialog
 
 if( **Faction is** >= Indifferent) then
@@ -66,6 +68,8 @@ e.other:NukeItem( <img style="background:url(/static/icons/blank_slot.gif);width
 
 
 end
+
+
 
 ## Turn-Ins
 
@@ -155,6 +159,8 @@ Your faction standing with [Geonid Collective](/faction/458) got better (<span c
 **Set a timer** named *depop* for 3600 seconds
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

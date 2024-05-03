@@ -1,4 +1,6 @@
 # an elven slave
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**an elven slave says:** Yeah, a bronze earring; He wears it like a newly crowned king. If I ever had that earring I know I would stand a chance at escape.
 end
+
+
 
 ## Turn-Ins
 

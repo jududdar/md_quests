@@ -1,4 +1,6 @@
 # Nexvok Thirod
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Nexvok Thirod says:** I am Nexvok, master wizard of the Dismal Rage.  My associates Heneva and Konious and I provide our services to master Zarn on a regular basis.  People of our talent are in high demand. and Pietro pays well, so we are, of course, very loyal.
 end
+
+
 
 ## Turn-Ins
 

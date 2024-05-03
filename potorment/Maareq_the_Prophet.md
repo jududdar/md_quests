@@ -2,11 +2,15 @@
 local power = 0;
 local state = 0;
 
+
+
 ## On NPC Spawn
 
 power = 0;
 
 state = 0;
+
+
 ## Combat
 
 if  Maareq the Prophet enters combat  then
@@ -33,6 +37,8 @@ if ( state > 0 ) then
 **Set a timer** named *revert* for 480 seconds
 
 end
+
+
 
 ## Timer(s)
 
@@ -204,6 +210,8 @@ power = 0;
 state = 0;
 end
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -220,6 +228,8 @@ if ( (state < 3 and power >= 40) or (state < 2 and power >=20) or (state == 0 an
 **Set a timer** named *upgrade* for 3 seconds
 
 end
+
+
 
 ## On NPC Death
 

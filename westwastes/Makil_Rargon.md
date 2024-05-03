@@ -1,6 +1,8 @@
 # Makil Rargon
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_724.png" alt="" /> <a
                                 href="/item/17408" data-url="17408" class="tooltip-link link">Empty Fusible Ore Crate</a>
 end
+
+
 
 ## Turn-Ins
 

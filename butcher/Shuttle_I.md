@@ -1,4 +1,6 @@
 # Shuttle I
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();
@@ -10,6 +12,8 @@ local minute = zone_time["zone_minute"];
 eq.debug("Boat spawned! Name is: Shuttle I Time is: " .. hour ..":" .. minute .. "", 1);
 
 eq.start(20);
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -17,6 +21,8 @@ if(e.signal == 1) then
 
 eq.start(16);
 end
+
+
 
 ## Arrive at Waypoint Script
 

@@ -1,4 +1,6 @@
 # Sentinel Veldrendyr
+
+
 ## Dialog
 
 **You say:** `hail`

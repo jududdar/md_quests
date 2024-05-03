@@ -1,7 +1,11 @@
 # a vah shir courier
+
+
 ## On NPC Spawn
 
 **Set a timer** named *run* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "run") then
@@ -9,6 +13,8 @@ if(e.timer == "run") then
 
 e.self:SetRunning(true);
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -49,6 +55,8 @@ rosh:Say("Stop him! Stop the courier! An evil spirit has possessed him! He must 
 e.self:SetRunning(true);
 
 end
+
+
 
 
 

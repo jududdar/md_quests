@@ -1,4 +1,6 @@
 # Legionnaire Lorica
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Henly Nictropus
+
+
 ## Dialog
 
 **You say:** `hail`

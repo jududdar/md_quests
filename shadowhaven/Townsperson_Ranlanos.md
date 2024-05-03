@@ -1,4 +1,6 @@
 # Townsperson Ranlanos
+
+
 ## Dialog
 
 **You say:** `hail`

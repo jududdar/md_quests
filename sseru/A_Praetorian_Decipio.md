@@ -1,4 +1,6 @@
 # A Praetorian Decipio
+
+
 ## Dialog
 
 **You say:** `hail`

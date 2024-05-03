@@ -1,4 +1,6 @@
 # A Citizen of Seru
+
+
 ## Dialog
 
 **You say:** `hail`

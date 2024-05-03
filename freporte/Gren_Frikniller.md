@@ -1,4 +1,6 @@
 # Gren Frikniller
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -71,6 +73,8 @@ else
 >**Gren Frikniller says:** Elisi runs the show around here.  She's usually a pretty busy lady.  Dang smart, too.  And it's my sworn duty to protect her at any cost, even with my very own life.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -106,6 +110,8 @@ Your faction standing with [The Freeport Militia](/faction/330) got better (<spa
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

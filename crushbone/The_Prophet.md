@@ -1,4 +1,6 @@
 # The Prophet
+
+
 ## Combat
 
 if The Prophet enters combat  then

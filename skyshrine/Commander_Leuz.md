@@ -1,4 +1,6 @@
 # Commander Leuz
+
+
 ## Dialog
 
 if( **Faction is** > Amiable) then
@@ -32,6 +34,8 @@ if( **Faction is** > Amiable) then
                                 href="/item/29683" data-url="29683" class="tooltip-link link">Scout Tools</a>
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # Legionnaire Dalini
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@
 
 >**Legionnaire Dalini says:** Recuso.  The Refused.  They refused the Question, or failed it.  Any who refuse are cast out of Sanctus Seru, to fend for themselves.  We let them be, for the most part, as long as they don't try to steal from us.  But we are forbidden to give them aid in any way.  The closest thing to that you will see is us letting them \"sneak\" into here for shelter.  Though they soon find out, we did them no favors, for they have to earn that shelter. The one reason we let the Recuso live in here is because  they help keep the Netherbians and the Trogs in check.  No sense wasting good lives, when we can spend the Recuso, eh?
 end
+
+
 
 ## Turn-Ins
 

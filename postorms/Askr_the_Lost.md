@@ -50,6 +50,8 @@ local RESPONSES = {
 "Askr merely glances at you with a questioning look, as though he doesn't know what that is to be used for. Perhaps you should speak with him to clarify.",
 };
 
+
+
 ## Timer(s)
 
 
@@ -148,6 +150,8 @@ return stateTable[name];
 function SetState(name, state)
 
 stateTable[name] = state;
+
+
 ## Dialog
 
 
@@ -399,6 +403,8 @@ elseif ( karana >= 2 ) then
 
 
 e.other:Message(0, RESPONSES[16]);
+
+
 
 
 

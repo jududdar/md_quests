@@ -1,7 +1,11 @@
 # Taruun Rolom
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 60 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then
@@ -26,6 +30,8 @@ if(rand == 2) then
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -40,6 +46,8 @@ end
 
 >**Taruun Rolom says:** Hmmm... I see. Well friend, there is plenty for you to do here. There are all sorts of pests in the hollow that lies below the city. It would be nice if we could get rid of all of them. Perhaps then we could concentrate on real soldiering. With that in mind, we are always looking for another brave young citizen to go down there and kill some of the vermin. Tell Khala Dun Bokh that you are being [assigned] to help. He will tell you what to do.
 end
+
+
 
 ## Turn-Ins
 

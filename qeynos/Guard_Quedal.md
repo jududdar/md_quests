@@ -1,4 +1,6 @@
 # Guard Quedal
+
+
 ## Dialog
 
 **You say:** `hail`

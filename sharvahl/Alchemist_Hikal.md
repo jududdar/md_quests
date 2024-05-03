@@ -1,4 +1,6 @@
 # Alchemist Hikal
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Alchemist Hikal says:** I may have just the thing you are looking for. I recently purchased quite an old and interesting sealed medicine pouch of superb craftsmanship. I will part with it for one-thousand gold pieces.
 end
+
+
 
 ## Turn-Ins
 

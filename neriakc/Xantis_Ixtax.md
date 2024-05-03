@@ -1,4 +1,6 @@
 # Xantis Ixtax
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ else
 >**Xantis Ixtax says:** You dare to speak to me?
 
 end
+
+
 
 ## Turn-Ins
 

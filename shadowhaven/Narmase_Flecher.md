@@ -1,4 +1,6 @@
 # Narmase Flecher
+
+
 ## Dialog
 
 **You say:** `hail`

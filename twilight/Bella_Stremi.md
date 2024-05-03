@@ -1,4 +1,6 @@
 # Bella Stremi
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -67,6 +69,8 @@
 
 >**Bella Stremi says:** For the sandals of pestilence you'll have to bring me a cloud jewel, a blackened ornament, and a snake scale sceptre.
 end
+
+
 
 ## Turn-Ins
 

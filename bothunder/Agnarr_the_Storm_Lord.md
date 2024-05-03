@@ -27,6 +27,8 @@ local ADD_TYPES = {
 function SpawnGiant(id)
 
 eq.unique_spawn(id, 0, 0, -1070, -1739, 2257, 64);
+
+
 ## Combat
 
 if  Agnarr the Storm Lord enters combat  then
@@ -60,6 +62,8 @@ else
 
 **Stop timer** named *link*
 end
+
+
 
 ## Timer(s)
 
@@ -191,6 +195,8 @@ elseif ( e.hp_event == 25 ) then
 SpawnGiant(HIBDIN_TYPE); 
 
 end
+
+
 
 ## On NPC Death
 

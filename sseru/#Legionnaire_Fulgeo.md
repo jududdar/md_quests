@@ -1,4 +1,6 @@
 # Legionnaire Fulgeo
+
+
 ## Dialog
 
 **You say:** `hail`

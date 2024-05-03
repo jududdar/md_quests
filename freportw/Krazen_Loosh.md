@@ -1,7 +1,11 @@
 # Krazen Loosh
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +14,8 @@ e.self:SetRunning(true);
 
 >**Krazen Loosh says:** The towering wall of stone is clearly unmovable at this point, being held in place by collection of magical energies.
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -24,6 +30,8 @@ if(e.wp == 8) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Signals
 

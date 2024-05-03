@@ -1,4 +1,6 @@
 # Sivy G-Noir
+
+
 ## Dialog
 
 **You say:** `hail`

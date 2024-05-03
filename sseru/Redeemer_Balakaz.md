@@ -1,4 +1,6 @@
 # Redeemer Balakaz
+
+
 ## Dialog
 
 **You say:** `hail`

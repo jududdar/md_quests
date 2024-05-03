@@ -1,4 +1,6 @@
 # Innkeep James
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Innkeep James says:** Welcome to my shop Soandso. You'll be happy to hear that I'm fully stocked. It's nice that things are back to normal now that the plague is over.
 end
+
+
 
 ## Turn-Ins
 

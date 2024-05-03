@@ -1,4 +1,6 @@
 # a Frost Giant Lord
+
+
 ## Dialog
 
 **You say:** `hail`

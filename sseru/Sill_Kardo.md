@@ -1,4 +1,6 @@
 # Sill Kardo
+
+
 ## Dialog
 
 **You say:** `hail`

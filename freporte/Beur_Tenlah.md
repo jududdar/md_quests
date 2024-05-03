@@ -1,4 +1,6 @@
 # Beur Tenlah
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,11 +16,15 @@
 >**Beur Tenlah says:** Ahhh..  Dwarven ale is the best.  You gotta hand it to those stinky little dirt diggers. they know how to make a good brew.  Now if they could just learn to shower. huh. Harkin? Ha ha ha!
 end
 
+
+
 ## Signals
 
 
 
 >**Beur Tenlah says:** Heh, I got something that reminds you of home.. My armpit! Bwa haha!!!
+
+
 ## Turn-Ins
 
 

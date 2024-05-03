@@ -1,4 +1,6 @@
 # Tholius Quey
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@ e.self:Say(string.format("Welcome %s! This is the Temple of Marr and you must be
 
 >**Tholius Quey says:** In the year of thirty one hundred fifty. the Knights of Truth were called upon by the twin gods Erollisi and Mithaniel Marr. They instructed us to go forth across the Ocean of Tears and across the lands of Faydwer and purge the lands of the undead. It was during this crusade Freeport was left in the care of Sir Lucan D'Lere. How unfortunate.
 end
+
+
 
 ## Turn-Ins
 

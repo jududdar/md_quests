@@ -1,7 +1,11 @@
 # a coterie assassin
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(300000,1200000));
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **a coterie assassin despawns.**
 end
+
+
 
 ## Combat
 

@@ -1,4 +1,6 @@
 # a greater kobold shaman
+
+
 ## Dialog
 
 **You say:** `hail`

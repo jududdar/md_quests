@@ -1,4 +1,6 @@
 # Councilor Glacierbane
+
+
 ## Dialog
 
 **You say:** `hail`

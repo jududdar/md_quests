@@ -1,8 +1,12 @@
 # Captain Karim
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *karim* for 175 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -64,6 +68,8 @@ count = 0;
 **Set a timer** named *karim* for 175 seconds
 end
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -72,6 +78,8 @@ end
 
 >**Captain Karim says:** Greetings, adventurer. Pay no heed to Captain Koldar should you see him. Our true enemy are the Gor Taku. It is very apparent that they are in league with the Loda Kai Brigands. We need to show the Shak Dratha that we are not their enemy. Help me destroy the Gor Taku clan, return to me with four of their earthcaller stones and I will help you however I can.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # Kimble Nogflop
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@ else
 >**Kimble Nogflop says:** You must show a greater allegiance to the Gemchoppers before we can speak with you. Search the hills for rogue clockworks. Captain Compolten shall accept two of their blackboxes and you shall prove your loyalty to our hall.
 
 end
+
+
 
 ## Turn-Ins
 

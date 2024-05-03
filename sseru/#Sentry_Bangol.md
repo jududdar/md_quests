@@ -1,4 +1,6 @@
 # Sentry Bangol
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Hemia Skemner
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -44,6 +46,8 @@ else
 
 >**Hemia Skemner says:** Then go. He appears near the gates of Freeport from time to time. He is not powerful, but he has a secret. Nothing save magic can harm him. This was the result of an experimental potion he drank. Slay him and return his locked spellbook to me.
 end
+
+
 
 ## Turn-Ins
 

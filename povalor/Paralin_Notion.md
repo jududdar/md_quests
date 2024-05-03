@@ -1,4 +1,6 @@
 # Paralin Notion
+
+
 ## Dialog
 
 
@@ -190,6 +192,8 @@ else
 >*Paralin Notion nods in your direction.*
 
 end
+
+
 
 ## Turn-Ins
 

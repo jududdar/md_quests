@@ -1,7 +1,11 @@
 # Belious Naliedin
+
+
 ## Signals
 
 >**Belious Naliedin says:** Sure. Go Ahead and play it now, while the stage is clear.
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -65,6 +69,8 @@ else
 >**Belious Naliedin says:** The League of Antonican Bards is very displeased with your recent actions.   And I don't particularly care for you, or your stench, either!
 
 end
+
+
 
 ## Turn-Ins
 

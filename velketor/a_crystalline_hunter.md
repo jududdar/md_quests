@@ -1,7 +1,11 @@
 # a crystalline hunter
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds
+
+
 ## Timer(s)
 
 **Stop timer** named *loot*

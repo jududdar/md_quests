@@ -1,4 +1,6 @@
 # Nostahla Westfend
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Nostahla Westfend says:** Greetings..  I am Nostahla Westfend, understudy of Gahlith, and Second Master Wizard of the Order of Three.
 end
+
+
 
 ## Arrive at Waypoint Script
 

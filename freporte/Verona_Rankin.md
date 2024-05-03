@@ -1,4 +1,6 @@
 # Verona Rankin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -104,6 +106,8 @@
 
 >**Verona Rankin says:** I'm sure you could find a tailor in town to make you some silk thread or you can make your own with 2 Spiderling Silk.
 end
+
+
 
 ## Turn-Ins
 

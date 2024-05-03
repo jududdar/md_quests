@@ -1,4 +1,6 @@
 # Solusek Ro
+
+
 ## Combat
 
 if  Solusek Ro enters combat  then
@@ -11,6 +13,8 @@ else
 
 **Stop timer** named *anti_cheat*
 end
+
+
 
 ## Timer(s)
 
@@ -57,6 +61,8 @@ npc:GMMove(e.self:GetX(), e.self:GetY(), e.self:GetZ(), 0);
 e.self:HealDamage(100000);
 
 end
+
+
 
 ## On NPC Death
 

@@ -58,6 +58,8 @@ local KOBB_SPAWN_LOCS = {
 { 1255, 505, 142 }
 }
 
+
+
 ## Dialog
 
 if **Faction** <  Indifferent then
@@ -121,6 +123,8 @@ TigerSpawns(e);
 **Grim Oakfist despawns.**
 
 end
+
+
 
 ## Turn-Ins
 

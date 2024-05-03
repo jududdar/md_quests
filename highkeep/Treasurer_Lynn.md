@@ -1,7 +1,11 @@
 # Treasurer Lynn
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -14,6 +18,8 @@ while ( e.self:CheckGround() ) do
 
 
 >*Treasurer Lynn picks up something from the ground.*
+
+
 
 
 ## Dialog
@@ -36,6 +42,8 @@ while ( e.self:CheckGround() ) do
 
 >**Treasurer Lynn says:** Last season's winner is not known.  I have heard from my sources that he was some sort of merchant of used goods.
 end
+
+
 
 ## Turn-Ins
 

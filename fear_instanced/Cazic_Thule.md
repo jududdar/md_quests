@@ -1,9 +1,13 @@
 # Cazic Thule
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Shout* for 600 seconds
+
+
 
 
 
@@ -20,6 +24,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
                                 href="/item/18898" data-url="18898" class="tooltip-link link">Flayed Skin Tome</a>
 end
+
+
 
 ## Turn-Ins
 
@@ -39,6 +45,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Combat
 
@@ -67,6 +75,8 @@ else
 
 **Set a timer** named *Shout* for 600 seconds
 end
+
+
 
 ## Timer(s)
 
@@ -97,6 +107,8 @@ elseif(e.timer == "RepopZone") then
 
 **Stop timer** named *RepopZone*
 end
+
+
 
 ## On NPC Death
 

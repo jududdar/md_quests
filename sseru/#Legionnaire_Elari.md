@@ -1,4 +1,6 @@
 # Legionnaire Elari
+
+
 ## Dialog
 
 **You say:** `hail`

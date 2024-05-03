@@ -1,7 +1,11 @@
 # a blighted treant
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 100 seconds
+
+
 ## Combat
 
 if  a blighted treant enters combat  then
@@ -14,6 +18,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

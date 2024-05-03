@@ -5,11 +5,15 @@
 local x, y, z;
 local spawnLocs = {};
 
+
+
 ## On NPC Spawn
 
 eq.set_timer("move", 24000 + math.random(1000, 5000));
 
 spawnLocs[e.self:GetID()] = { x = e.self:GetX(), y = e.self:GetY(), z = e.self:GetZ() }
+
+
 ## Combat
 
 if  a planarian larvae enters combat  then
@@ -32,6 +36,8 @@ end
 function event_death(e)
 
 spawnLocs[e.self:GetID()] = nil;
+
+
 ## Timer(s)
 
 if ( e.self:Charmed() ) then

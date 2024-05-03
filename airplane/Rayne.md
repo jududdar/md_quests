@@ -1,7 +1,11 @@
 # Rayne
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +35,8 @@
 
 >**Rayne says:** Cunning, the true source of all rogue power.  Plan and succeed above us and return to me a bronze disc, a Jester's Mask, and some red face paint to complete the test of cunning.  The crystal mask shall be yours if you do so.
 end
+
+
 
 ## Turn-Ins
 
@@ -83,6 +89,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

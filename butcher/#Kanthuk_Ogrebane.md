@@ -1,6 +1,8 @@
 # Kanthuk Ogrebane
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -104,6 +106,8 @@ if(qglobals["Kanthuk"] ~= nil) then
 eq.delete_global("Kanthuk");
 
 end
+
+
 
 ## Turn-Ins
 

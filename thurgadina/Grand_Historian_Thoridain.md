@@ -1,4 +1,6 @@
 # Grand Historian Thoridain
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 **Signaled to:**  [Loremaster Dorinan](/npc/115015)
 end
+
+
 
 
 ## Turn-Ins

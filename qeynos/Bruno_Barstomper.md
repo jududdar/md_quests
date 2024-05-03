@@ -1,7 +1,11 @@
 # Bruno Barstomper
+
+
 ## Signals
 
 >**Bruno Barstomper says:** Yeah, Yeah. I hope you fall in, you little creep.
+
+
 ## Dialog
 
 **You say:** `hail`

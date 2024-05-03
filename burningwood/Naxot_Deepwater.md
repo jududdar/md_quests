@@ -1,4 +1,6 @@
 # Naxot Deepwater
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Naxot Deepwater says:** Beware these woods! The sarnak claim this land as their own and wicked creatures walk beneath the burning foliage.
 end
+
+
 
 ## Turn-Ins
 

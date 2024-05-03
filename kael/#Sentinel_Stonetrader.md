@@ -1,4 +1,6 @@
 # Sentinel Stonetrader
+
+
 ## Dialog
 
 **You say:** `hail`

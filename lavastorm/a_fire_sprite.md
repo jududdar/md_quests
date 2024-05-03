@@ -1,4 +1,6 @@
 # a fire sprite
+
+
 ## Dialog
 
 **You say:** `hail`

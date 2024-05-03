@@ -1,4 +1,6 @@
 # Filian Weagleross
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -145,6 +147,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/27498" data-url="27498" class="tooltip-link link">Bag of Rations</a>
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Retlon Brenclog
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Retlon Brenclog says:** What?! I am stuck here and you are worried about a spellbook?! Forget that! Just get the keys to my shackles from one of the orcs! HURRY!
 end
+
+
 
 ## Turn-Ins
 

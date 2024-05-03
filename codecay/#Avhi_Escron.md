@@ -31,14 +31,20 @@ if ( not e.joined and e.self:GetHP() > 0 ) then
 SpawnReavers(e.self);
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 11700 seconds
 
 SpawnReavers(e.self, true);
+
+
 ## Timer(s)
 
 **Avhi Escron despawns.**
+
+
 ## Combat
 
 if  Avhi Escron enters combat  then
@@ -51,6 +57,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

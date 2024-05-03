@@ -1,7 +1,11 @@
 # Ran-un
+
+
 ## On NPC Spawn
 
 **Set a timer** named *spar1* for 5 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "spar1") then

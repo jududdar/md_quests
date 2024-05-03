@@ -1,4 +1,6 @@
 # Guard Aerryn
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 18) then
@@ -9,6 +11,8 @@ if(e.wp == 18) then
 
 **Signaled to:**  [Guard Hezlan](/npc/2094)
 end
+
+
 
 ## Dialog
 

@@ -1,4 +1,6 @@
 # Neb
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
 
 >**Neb says:** Unana ogoo Paebala, ni ni ni! Unana ogoo Chetari vi vi vi! The Paebala taste very bad to the goo! The Chetari tast very good to the goo! Moaka sai Slani, ogoo ranta vis Paebala. Thanks to our clever shaman, we teach the goo not to eat us. Ogoo via ranca toka ra to itu. They eat everything else though, even you. Paebala visa ranca so to so to itu ogoo. We would have to feed many of you to the goo to teach them you are bad to eat. Isak to, isak Slani, elasa Paebala ras ogoo so to so to mis. That is what the shaman did, poisoned our dead and fed the goo for years. Makari et ne va mi to mis oh naka? Do you wish to volunteer for this task? Yiyiyiyieh, mita vo Neb'ta! Hahaha, Neb jokes with you!
 end
+
+
 
 ## Turn-Ins
 

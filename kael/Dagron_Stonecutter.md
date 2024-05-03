@@ -21,6 +21,8 @@ quest_helper:melee_legs(KAEL_ARMOR.Leather_Leggings, 25445),
 quest_helper:melee_boots(KAEL_ARMOR.Leather_Boots, 25446), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -120,6 +122,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Dagron Stonecutter says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

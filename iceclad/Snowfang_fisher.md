@@ -1,7 +1,11 @@
 # Snowfang fisher
+
+
 ## On NPC Spawn
 
 eq.set_timer("fishing",math.random(90000,150000));
+
+
 ## Timer(s)
 
 if(e.timer == "fishing") then
@@ -15,6 +19,8 @@ if(e.timer == "fishing") then
 
 eq.set_timer("fishing",math.random(90000,150000));
 end
+
+
 
 ## Dialog
 

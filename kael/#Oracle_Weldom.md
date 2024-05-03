@@ -1,4 +1,6 @@
 # Oracle Weldom
+
+
 ## Dialog
 
 **You say:** `hail`

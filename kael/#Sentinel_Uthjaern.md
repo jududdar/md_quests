@@ -1,4 +1,6 @@
 # Sentinel Uthjaern
+
+
 ## Dialog
 
 **You say:** `hail`

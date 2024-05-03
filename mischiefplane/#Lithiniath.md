@@ -1,4 +1,6 @@
 # Lithiniath
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

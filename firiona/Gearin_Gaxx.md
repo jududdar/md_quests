@@ -1,4 +1,6 @@
 # Gearin Gaxx
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -28,6 +30,8 @@ e.self:DoAnim(29);
 
 >**Gearin Gaxx says:** I can create the Hate Tail Guard using both metal and scorpion carapaces. I have the metal. I will make you one for the price of 100 gold coins - I accept only gold. I will also need two flawless carapaces from giant hate tail scorpions.
 end
+
+
 
 ## Turn-Ins
 

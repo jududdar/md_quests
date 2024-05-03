@@ -1,4 +1,6 @@
 # Loremaster Solstrin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -169,6 +171,8 @@ else
 
 >**Loremaster Solstrin says:** The Standard Issue Kit is what we issue to soldiers at the beginning of their mission. I have this empty one here. Before I give it to you, could you show me your Runed Coldain Prayer Shawl? I would like to see how skilled you are.
 end
+
+
 
 ## Turn-Ins
 

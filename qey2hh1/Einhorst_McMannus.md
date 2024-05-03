@@ -10,6 +10,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -76,6 +78,8 @@
 
 >**Einhorst McMannus says:** My wife? She is dead. Crushed by the hands of a foul cyclops. I wish I could find that cyclops. I would pay greatly for his eye. I have slain every giant I could find, but I have not met him. I could still remember that cry of his...  BROOON!
 end
+
+
 
 ## Turn-Ins
 

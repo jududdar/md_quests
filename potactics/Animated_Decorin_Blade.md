@@ -1,9 +1,13 @@
 # Animated Decorin Blade
 local TAGRIN_TYPE = 214054;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds
+
+
 ## Combat
 
 if  Animated Decorin Blade enters combat  then
@@ -41,6 +45,8 @@ e.self:AddToHateList(t);
 
 
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Nyuae the Cruel
+
+
 ## Dialog
 
 **You say:** `hail`

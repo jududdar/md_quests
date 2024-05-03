@@ -1,5 +1,7 @@
 # High Priest Elikor
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 e.self:Emote("raises a brow sharply, his beautiful features contorting into a flawless mask of regal superiority and a meager amusement in disdain toward Soandso. 'I see that the ranting of Selia's zealous crusaders of 'passion and honor' have become even too much for those who once believed themselves of the same cause. Indeed, how marvelously intriguing. Perhaps now you reside in Kartis to bathe in the cold embrace of the shadow 
 end
+
+
 
 ## Turn-Ins
 
@@ -49,6 +53,8 @@ count = count - 1;
 until count == 0;
 
 **This NPC *should* return incorrect items given.**
+
+
 
 
 ## On NPC Spawn

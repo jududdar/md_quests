@@ -1,4 +1,6 @@
 # an outcast mutant
+
+
 ## Dialog
 
 **You say:** `hail`

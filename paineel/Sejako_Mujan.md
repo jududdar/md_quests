@@ -1,4 +1,6 @@
 # Sejako Mujan
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -28,6 +30,8 @@ eq.start(16);
 
 >**Sejako Mujan says:** There have been sightings of Titans in many forms. The samples I require are the fangs of the leopard, sabretooth, and gorilla titans, and the rattle of the snake titan.
 end
+
+
 
 ## Turn-Ins
 

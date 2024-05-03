@@ -7,6 +7,8 @@ for i = 1, num do
 eq.spawn2(212397, 0, 0, x, y, z, 0); 
 end
 
+
+
 ## On NPC Spawn
 
 eq.set_next_hp_event(90);

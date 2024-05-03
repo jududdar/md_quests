@@ -1,6 +1,8 @@
 # Fahlia Shadyglade
 local REFUSE_TXT = "Fahlia Shadyglade tells you, 'I can see that you may be passionate to help others but now I must ask you to be about your own business. I sense that if you were to try to help you may befall the same fate as poor Tylis.  Perhaps you should become more experienced in traveling through the planes before you learn more of his condition.'";
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

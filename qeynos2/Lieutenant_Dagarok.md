@@ -1,4 +1,6 @@
 # Lieutenant Dagarok
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -100,6 +102,8 @@
 
 >**Lieutenant Dagarok says:** If you need a place to rest, I highly recommend the Lion's Mane Inn and Tavern.  Poor adventurers all huddle together in one of the backrooms of Fish's.
 end
+
+
 
 ## Turn-Ins
 

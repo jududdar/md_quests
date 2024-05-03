@@ -1,4 +1,6 @@
 # Key Master
+
+
 ## Signals
 
 local qglobals = eq.get_qglobals();
@@ -44,6 +46,8 @@ eq.set_global(keeperName,"1",3,"H1");
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -52,6 +56,8 @@ end
 
 >**Key Master says:** Hello there, brave traveller. I sell keys that take you to other islands in this here Plane of Sky. My prices are the best around. Heh, heh.
 end
+
+
 
 ## Timer(s)
 

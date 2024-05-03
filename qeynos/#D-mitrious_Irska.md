@@ -1,4 +1,6 @@
 # D-mitrious Irska
+
+
 ## Dialog
 
 **You say:** `shall we continue`
@@ -13,6 +15,8 @@ e.self:Say("Now that the scepter has been properly modified for the task, you mu
 
 >**D-mitrious Irska says:** Auraia was once a priestess of the Prime Healer. Upon her travels throughout the world of Norrath, she stumbled blindly into the castle grounds of Mistmoore. Fortunately, it was during the daylight hours and she did not need to wander far before discovering the error of their ways. Quickly, she attempted to turn back, fearfully respecting the wish for privacy that is heavily guarded and ferociously enforced by the vampire lord's undead servants. As she made her way out of the castle grounds and returned to the boundaries of the Lesser Faydark forest, Auraia happened upon a recently discarded azure sphere. She had no idea what the sphere was intended for - at first likely thinking it the lost toy of some Koada'Dal or gnomish child. However, she was intrigued by it and threw it in her pack for a later inquiry and inspection. Eventually, Auraia heard tales of the ancient underwater city known as Kedge Keep from her Koada'Dal hosts in Felwithe. The intrigue was too much for this young adventurer to bear and so
 end
+
+
 
 ## Turn-Ins
 

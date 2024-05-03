@@ -1,4 +1,6 @@
 # Guard Brookrock
+
+
 ## Dialog
 
 **You say:** `soldiers`

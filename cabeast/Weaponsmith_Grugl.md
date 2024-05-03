@@ -1,4 +1,6 @@
 # Weaponsmith Grugl
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Weaponsmith Grugl says:** To forge a Champion mancatcher a blacksmith of great skill would need a steel rod, a forge hammer, and a forged Champion mancatcher crown. That crown is forged with a geozite tool, crown plans, a raw crown, and an opal.
 end
+
+
 
 ## Turn-Ins
 

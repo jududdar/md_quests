@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -46,6 +48,8 @@
 
 >**Dyth X-Teria says:** The bottles also require a gem. You will fetch me the three gems and I will prepare the bottles and give them to you to finish the job. I need an onyx, a peridot and a star rose quartz.
 end
+
+
 
 ## Turn-Ins
 

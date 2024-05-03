@@ -1,5 +1,7 @@
 # Bolcen Tendag
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@
 
 >**Bolcen Tendag says:** I feel just terrible that I haven't been to see Willamina yet. Due to my illness I barely have the energy to stand. If you could aid me in some way, I would greatly appreciate it. Mirao Frostpouch might have an elixir that would help me feel better. Please seek him out and ask for it.
 end
+
+
 
 ## Turn-Ins
 

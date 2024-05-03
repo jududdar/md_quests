@@ -1,4 +1,6 @@
 # Leatherfoot Deputy
+
+
 ## Dialog
 
 **You say:** `hail`

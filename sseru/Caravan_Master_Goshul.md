@@ -1,4 +1,6 @@
 # Caravan Master Goshul
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Clifus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Clifus says:** Oh, I don't know what he was drinkin' but I'm sure it were a woman's drink. Me, I like me a nice big barrel o' fish wine. It don't do much fer yer breath but it'll kick ya in the behind if ye're not careful. Hmmm, boy, I could sure go fer one right now. <cough>
 end
+
+
 
 ## Turn-Ins
 

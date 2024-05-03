@@ -1,8 +1,12 @@
 # Spirit of Radir
 
 
+
+
 ## On NPC Spawn
    **Set a timer** named *depop* for 900 seconds
+
+
 
 ## Timer(s)
 
@@ -11,6 +15,8 @@ if(e.timer == "depop") then
 
 **Spirit of Radir despawns.**
 end
+
+
 
 ## Combat
 

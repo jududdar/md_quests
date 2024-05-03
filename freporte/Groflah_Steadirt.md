@@ -1,4 +1,6 @@
 # Groflah Steadirt
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Groflah Steadirt says:** Ah a tumpy tonic, good drink indeed. They are made. Lets see if I can rememeber how to make them.  Ahh yes, ye take a kiola nut and stir it with water, wait a while and ya got it.  If you plan to make some then please by all means bring me one to try as I sure do miss them.
 end
+
+
 
 ## Turn-Ins
 
@@ -123,6 +127,8 @@ until Tumpy_Tonic == 0
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

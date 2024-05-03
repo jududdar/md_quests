@@ -1,4 +1,6 @@
 # Trooper Dagnav
+
+
 ## Dialog
 
 **You say:** `Hail`

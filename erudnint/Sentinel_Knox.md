@@ -1,4 +1,6 @@
 # Sentinel Knox
+
+
 ## Dialog
 
 **You say:** `kerra isle`

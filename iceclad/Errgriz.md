@@ -1,4 +1,6 @@
 # Errgriz
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Errgriz says:** I wish I could make things. Headcoverings, to keep cold from head is what I want to make. I think I ready but not able to make until I get furs. Master says to find skin of high quality, thick and strong, but I have no training in hunting.
 end
+
+
 
 ## Turn-Ins
 

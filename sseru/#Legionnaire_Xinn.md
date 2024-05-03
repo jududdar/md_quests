@@ -1,4 +1,6 @@
 # Legionnaire Xinn
+
+
 ## Dialog
 
 **You say:** `hail`

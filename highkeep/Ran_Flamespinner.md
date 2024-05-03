@@ -1,4 +1,6 @@
 # Ran Flamespinner
+
+
 ## Dialog
 
 **You say:** `hail`

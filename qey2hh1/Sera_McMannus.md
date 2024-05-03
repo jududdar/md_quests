@@ -1,4 +1,6 @@
 # Sera McMannus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -85,6 +87,8 @@
 
 >**Sera McMannus says:** Unfortunately, she passed away a year ago. She was killed while defending our dogs from a giant. Do not ask our father, Einhorst, about our mother, Helsa. He does not need to be reminded.
 end
+
+
 
 ## Signals
 

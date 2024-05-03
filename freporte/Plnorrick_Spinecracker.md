@@ -1,4 +1,6 @@
 # Plnorrick Spinecracker
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Plnorrick Spinecracker says:** What do you want? I don't have any spare change.
 end
+
+
 
 ## Signals
 

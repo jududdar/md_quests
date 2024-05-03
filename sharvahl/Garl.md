@@ -1,7 +1,11 @@
 # Garl
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 110 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then
@@ -33,6 +37,8 @@ if(rand == 3) then
 >**Garl says:** You there! Dare you venture out unprotected? It won't do you any harm to take one of my shields with you.
 
 end
+
+
 
 ## Dialog
 
@@ -228,6 +234,8 @@ end
 
 >**Garl says:** Shadow Haven is the great city that lies beneath the ground. We have many trading relationships with the houses that form the groundwork of Shadow Haven politics. Use caution when traveling there, although the haven houses many honest merchants, it is also a home to smugglers, bandits, and thieves.
 end
+
+
 
 ## Turn-Ins
 

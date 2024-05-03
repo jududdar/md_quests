@@ -1,4 +1,6 @@
 # Trooper Kroniz
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Grand Armsmith Korin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@ else
 >**Grand Armsmith Korin says:** Go back to the dog pit where you belong, " .. e.other:Race() .. ", you are not welcome here.
 
 end
+
+
 
 ## Turn-Ins
 

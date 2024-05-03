@@ -1,7 +1,11 @@
 # Yavik Teralin
+
+
 ## On NPC Spawn
 
 **Set a timer** named *tree* for 1800 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -52,6 +56,8 @@
 
 >**Yavik Teralin says:** We believe the grimlings brew a mixture of Essence of Darkness. Akheva Blood. and Distilled Mana to create the temper. We have attempted this formulae and it does indeed seem to enhance the innate magical powers of the black acrylia ore. allowing it to be crafted into weapons of terrible devastation. Be careful what you do with this knowledge friend. I would hate for the Inquisition to find the means of equipping their legions with weapons the likes of which I have described.
 end
+
+
 
 ## Timer(s)
 

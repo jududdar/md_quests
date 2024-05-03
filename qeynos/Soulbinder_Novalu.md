@@ -1,4 +1,6 @@
 # Soulbinder Novalu
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 
 **Soulbinder Novalu casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Brenthalion Aleslammer
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -148,6 +150,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19631" data-url="19631" class="tooltip-link link">Crude Helm Mold</a>
 
 end
+
+
 
 ## Turn-Ins
 

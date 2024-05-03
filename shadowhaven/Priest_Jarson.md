@@ -1,4 +1,6 @@
 # Priest Jarson
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Edvard Tommels
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -18,6 +20,8 @@ e.self:DoAnim(70);
 
 >**Edvard Tommels says:** Oh good! I can add them to my collection. We are preparing to make books you know. Bring me any of the scrolls you find in the old Splitpaw lair, and I would be happy to reward you handsomely.
 end
+
+
 
 ## Turn-Ins
 

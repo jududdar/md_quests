@@ -1,4 +1,6 @@
 # Sateal Deirosap
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sateal Deirosap says:** Nice to see you have made it to the Bazaar Soandso, if you should need any smithing supplies I will be happy to assist.
 end
+
+
 
 ## Turn-Ins
 

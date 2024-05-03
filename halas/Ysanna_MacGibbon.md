@@ -1,6 +1,8 @@
 # Ysanna MacGibbon
 
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -8,6 +10,8 @@ if(e.signal == 1) then
 
 >**Ysanna MacGibbon says:** The mammoth calf hides are used to shield our beasts of burden from the icy wind. You are probably now asking what shields us Northmen from that same icy wind eh? Well, along with many other furs and leathers, we have come to find that [gnoll fur] of all things is a good insulator against the cold. Look at their tiny bodies and it's obvious their fur does something good.
 end
+
+
 
 ## Dialog
 
@@ -66,6 +70,8 @@ else
 >I wonder how much I could get for the tongue of a blithering fool? Leave before I decide to find out for myself.
 
 end
+
+
 
 ## Turn-Ins
 

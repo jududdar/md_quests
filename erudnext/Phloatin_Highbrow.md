@@ -1,4 +1,6 @@
 # Phloatin Highbrow
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Phloatin Highbrow says:** Hey!  I am trying to enjoy myself here.  Now take yourself and the dead rat in your mouth outta here.
 end
+
+
 
 ## Signals
 

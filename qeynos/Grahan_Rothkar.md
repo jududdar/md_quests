@@ -1,4 +1,6 @@
 # Grahan Rothkar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -71,6 +73,8 @@ else
 
 >**Grahan Rothkar says:** Kerra Isle is a dangerous place. The Kerra are not a friendly race. There is an island between Erudin and Qeynos which is inhabited by a more docile tribe of Kerra. I hear they took some of their Kerra beetles along with them to the island, too.
 end
+
+
 
 ## Turn-Ins
 
@@ -174,6 +178,8 @@ Your faction standing with [Knights of Truth](/faction/281) got better (<span cl
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # High Priest of Tallon Zek
+
+
 ## Dialog
 
 **You say:** `hail`

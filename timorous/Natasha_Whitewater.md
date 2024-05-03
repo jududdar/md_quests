@@ -1,8 +1,12 @@
 # Natasha Whitewater
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *NatashaDepop* for 600 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "NatashaDepop") then
@@ -10,6 +14,8 @@ if(e.timer == "NatashaDepop") then
 
 **Natasha Whitewater despawns.**
 end
+
+
 
 ## Turn-Ins
 

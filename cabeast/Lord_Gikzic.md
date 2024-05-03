@@ -1,6 +1,8 @@
 # Lord Gikzic
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -101,6 +103,8 @@ else
 >**Lord Gikzic says:** Ignorant lout!  The Crusaders of Greenmist shall have nothing to do with you.  Go while I ponder your suffering to come.
 
 end
+
+
 
 ## Turn-Ins
 

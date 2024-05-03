@@ -1,4 +1,6 @@
 # Varrok Neckchopper
+
+
 ## Dialog
 
 **You say:** `Hail`

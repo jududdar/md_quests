@@ -1,5 +1,7 @@
 # Tiamon Aroo
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@
 
 >**Tiamon Aroo says:** A spirit must be bound to material from our own realm. Stones such as those used to build cities can be great anchors for spirits. The more ritual and culture that a stone is exposed to, the stronger it becomes as an anchor. You can use the claws of a hopper to sew the shadeweavers silk onto a suitable anchor. If you bring me four of these claws, I can fashion one of them into a needle for you.
 end
+
+
 
 ## Turn-Ins
 

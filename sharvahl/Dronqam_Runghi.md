@@ -1,4 +1,6 @@
 # Dronqam Runghi
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Dronqam Runghi says:** Excellent! I practice the art of alchemy and I am currently working on some new recipes. I require a few special ingredients. Fortunately they grow in the crater just outside our city walls. Bring me a  redcapped mushroom. a pinch of scarlet moss and a bluecapped mushroom. I'll be most grateful.
 end
+
+
 
 ## Turn-Ins
 

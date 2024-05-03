@@ -1,4 +1,6 @@
 # Lieutenant Arathur
+
+
 ## Dialog
 
 **You say:** `hail`

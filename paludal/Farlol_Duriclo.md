@@ -1,4 +1,6 @@
 # Farlol Duriclo
+
+
 ## Dialog
 
 **You say:** `hail`

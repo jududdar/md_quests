@@ -1,4 +1,6 @@
 # Pelshia Thuxpire
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Pelshia Thuxpire says:** Heya.. If you see anything you like, I'm sure we can make a deal.
 end
+
+
 
 ## Signals
 

@@ -1,4 +1,6 @@
 # Sentry Kale
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -17,6 +19,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
                                 href="/item/29068" data-url="29068" class="tooltip-link link">Note to Wenglawks</a>
 end
+
+
 
 ## Turn-Ins
 

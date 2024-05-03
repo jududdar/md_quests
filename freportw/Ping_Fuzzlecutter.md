@@ -1,7 +1,11 @@
 # Ping Fuzzlecutter
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -14,6 +18,8 @@ while ( e.self:CheckGround() ) do
 
 
 >**Ping Fuzzlecutter says:** Lucky me! Someone has littered Freeport with good merchandise.
+
+
 
 
 ## Dialog
@@ -73,6 +79,8 @@ while ( e.self:CheckGround() ) do
 
 >**Ping Fuzzlecutter says:** I encountered a particular mermaid with beautiful hair!! She had beautiful golden tresses. I used a lock of her hair to create the Mane Attraction. That was a while back when I was in Faydwer.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Adept Arnthus
+
+
 ## Dialog
 
 **You say:** `hail`

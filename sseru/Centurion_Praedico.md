@@ -1,4 +1,6 @@
 # Centurion Praedico
+
+
 ## Dialog
 
 **You say:** `hail`

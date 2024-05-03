@@ -1,4 +1,6 @@
 # Slicia J-Singe
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Slicia J-Singe says:** I must have the scrolls of Gift of Xev. Bristlebane's Bundle. Quiver of Marr. and the Scars of Sigil. If you don't have one of these. leave my sight!  If you do. I think we can work up a fair trade.
 end
+
+
 
 ## Turn-Ins
 

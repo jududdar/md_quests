@@ -1,5 +1,7 @@
 # Foloal Stormforest
 
+
+
 ## Dialog
 
 **You say:** `are you one such as myself`
@@ -20,6 +22,8 @@
 
 >**Foloal Stormforest says:** All I've heard are whispers of connections between the undead lizards and the dark god of hate. There's some kind of history behind the two. It might be that Venril is the main focus of Innoruuk's will in the land. Then again, maybe not, but this is the best we've gotten so far. If you think you can do it, then find him and remove him from the face of this earth. Bring me the half of the stone I know you have and whatever conduit of power you find on his rotting corpse.
 end
+
+
 
 ## Turn-Ins
 

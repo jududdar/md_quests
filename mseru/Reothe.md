@@ -1,6 +1,8 @@
 # Reothe
 
 
+
+
 ## Dialog
 
 **You say:** `bregun dorey`
@@ -15,6 +17,8 @@
 
 >**Reothe says:** Get me two Bark Potions, a Spring Crystal, and a Harvest Crystal. I will tell you where I last saw him headed. If you buy them in Sanctus Seru do not tell them you are giving aid to the Recuso or you shall be prosecuted as well.
 end
+
+
 
 ## Turn-Ins
 

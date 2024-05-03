@@ -21,6 +21,8 @@ quest_helper:silk_legs(KAEL_ARMOR.Silk_Pantaloons, 25431),
 quest_helper:silk_boots(KAEL_ARMOR.Silk_Boots, 25432),
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -120,6 +122,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Stoem Lekbar says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

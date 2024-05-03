@@ -1,4 +1,6 @@
 # Whysia Flock
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -39,6 +41,8 @@ else
 >**Whysia Flock says:** Are you interested in recharging your Shining Star of Life? I can do it for you, but I require the Shining Star of Life and 20 gold.
 
 end
+
+
 
 ## Turn-Ins
 

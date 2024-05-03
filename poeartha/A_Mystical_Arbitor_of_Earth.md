@@ -1,9 +1,13 @@
 # A Mystical Arbitor of Earth
 local PLANAR_PROJECTION_TYPE = 218398;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3000 seconds
+
+
 ## Combat
 
 if  A Mystical Arbitor of Earth enters combat  then
@@ -47,6 +51,8 @@ e.self:SetHP(e.self:GetHP() + math.floor(e.self:GetMaxHP() * 0.3));
 
 end
 
+
+
 ## Timer(s)
 
 if ( e.timer == "drophate") then
@@ -85,6 +91,8 @@ eq.debug("Arbitor depop");
 
 **A Mystical Arbitor of Earth despawns.**
 end
+
+
 
 ## On NPC Death
 

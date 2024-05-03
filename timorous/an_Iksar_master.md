@@ -1,5 +1,7 @@
 # an Iksar master
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -74,6 +76,8 @@
 
 >**an Iksar master says:** The Whistling Fists are rumored to be magical instruments of destruction which can only be wielded by monks. The founder, Supreme Master Tynn, was the only lizard to ever gaze upon the weapon. He only spoke of it to his student Marthor. Marthor rarely spoke of it and when he did it was usually after a few flagons of Trog Brew. That is why many consider it to be babble.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # Squire Fuzzmin
+
+
 ## On NPC Spawn
 
  e.self:SetRunning(true);
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 9) then
@@ -21,6 +25,8 @@ local follow_hobble = mobtypeID:GetID();
 
 eq.follow(follow_hobble);
 end
+
+
 
 ## Dialog
 
@@ -51,6 +57,8 @@ end
 
 >**Squire Fuzzmin says:** If you bring me the three scales I will be able to place them upon the next three victims of Sir Hobble. Then we can part from this accursed isle. He would never know the difference. Do this and I will give you a warrior weapon out of the old knight's armory.
 end
+
+
 
 ## Turn-Ins
 

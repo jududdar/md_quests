@@ -1,4 +1,6 @@
 # mist panther
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*mist panther roars at you and goes back to cleaning itself.  A gleam of hunger flashes in its eyes.*
 end
+
+
 
 ## Turn-Ins
 

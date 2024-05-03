@@ -1,4 +1,6 @@
 # Danaria Hollin
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 5) then
@@ -20,9 +22,13 @@ elseif(e.wp == 26) then
 >**Danaria Hollin says:** A magnificent piece of workmanship! The clock, too.
 end
 
+
+
 ## Signals
 
 >**Danaria Hollin says:** Just get me the tart and put your eyes back in your sockets or I'll pry them out for good!
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -116,6 +122,8 @@ else
 >**Danaria Hollin says:** Why would I donate to such an inferior group of brutes? Go away! You will find no pity here.
 
 end
+
+
 
 ## Turn-Ins
 

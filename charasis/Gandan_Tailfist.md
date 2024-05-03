@@ -1,6 +1,8 @@
 # Gandan Tailfist
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
                                 href="/item/18899" data-url="18899" class="tooltip-link link">Flayed Skin Tome</a>
 end
+
+
 
 ## Turn-Ins
 

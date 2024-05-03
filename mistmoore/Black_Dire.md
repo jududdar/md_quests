@@ -1,11 +1,17 @@
 # Black Dire
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 2100 seconds
+
+
 ## Timer(s)
 
 **Black Dire despawns.**
+
+
 ## Dialog
 
 if( **Faction is** > Kindly) then 
@@ -36,6 +42,8 @@ else
 
 >**Black Dire says:** You need to prove your dedication to our cause before I can discuss such matters with you.
 end
+
+
 
 ## Turn-Ins
 

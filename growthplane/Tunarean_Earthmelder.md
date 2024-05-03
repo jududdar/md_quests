@@ -1,10 +1,16 @@
 # Tunarean Earthmelder
+
+
 ## On NPC Spawn
 
 **Set a timer** named *hum* for 90 seconds
+
+
 ## Timer(s)
 
 >*Tunarean Earthmelder seems to pulse as its roots dig into the ground around it.*
+
+
 ## Dialog
 
 if(**Your level** >= 55) then
@@ -42,6 +48,8 @@ if(**Your level** >= 55) then
 >**Tunarean Earthmelder says:** We have need of you to disrupt the construction efforts of the giants in the Wakening Land. Find the frost giant overseer, kill him and any others that are responsible for the building and bring back their heads.
 
 end
+
+
 
 ## Turn-Ins
 

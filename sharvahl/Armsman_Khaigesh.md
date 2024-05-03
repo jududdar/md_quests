@@ -1,4 +1,6 @@
 # Armsman Khaigesh
+
+
 ## Dialog
 
 **You say:** `lesson`
@@ -7,6 +9,8 @@
 
 >**Armsman Khaigesh says:** A warrior must learn to be patient and pay attention to detail. Take the bag that I've just given you and fill it with Acrylia flecked nuggets. When hunting the moor, we often found rocks and ore wedged in the shells of the beetles that roam there. Kill the beetles that walk near the city's gates and pry their shells apart. You should be able to gather a decent amount of ore that way. Once you've filled the bag that I've given you, return here with the bag and your Skeletonbane short sword and I'll teach you something new.
 end
+
+
 
 ## Turn-Ins
 

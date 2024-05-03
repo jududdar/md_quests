@@ -1,4 +1,6 @@
 # Prince Thirneg
+
+
 ## Dialog
 
 **You say:** `hail`

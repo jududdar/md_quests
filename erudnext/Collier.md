@@ -1,4 +1,6 @@
 # Collier
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Collier says:** My employer has uncovered the secrets of the Bloodclaw and can reproduce the weapon treatment used in the forging of the legendary Stiletto of the Bloodclaw.
 end
+
+
 
 ## Turn-Ins
 

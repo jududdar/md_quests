@@ -1,4 +1,6 @@
 # Tovan Tenlah
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -38,6 +40,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19917" data-url="19917" class="tooltip-link link">Bent Playing Card</a>
 
 end
+
+
 
 ## Turn-Ins
 

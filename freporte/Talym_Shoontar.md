@@ -1,6 +1,8 @@
 # Talym Shoontar
 local factionId = 0;
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@ local factionId = 0;
 >**Talym Shoontar says:** Too bad. I heard there is a new market for skins of your kind.
 end
 
+
+
 ## Combat
 
 if ( not e.joined and factionId ~= 0 ) then
@@ -43,6 +47,8 @@ e.self:CastToNPC():SetNPCFactionID(factionId);
 
 
 end
+
+
 
 ## Signals
 

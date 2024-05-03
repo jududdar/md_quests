@@ -1,4 +1,6 @@
 # a hunting kobold
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Centurion Jelin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Centurion Jelin says:** I would never be able to aid him, let alone think of it without failing the question. I just wish I knew how he was doing. I could not check on him, and could not ask you to check on him either, or you would defy Seru. That is something that I could not ask of anyone. The Question is a horrible ordeal. You will either die from being cast to Marus Seru or from the draining power of the Question itself.
 end
+
+
 
 ## Turn-Ins
 

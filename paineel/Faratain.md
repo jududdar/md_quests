@@ -1,4 +1,6 @@
 # Faratain
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -124,6 +126,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19635" data-url="19635" class="tooltip-link link">Crude Vambrace Mold</a>
 
 end
+
+
 
 ## Turn-Ins
 

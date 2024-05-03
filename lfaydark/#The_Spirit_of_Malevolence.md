@@ -1,7 +1,11 @@
 # The Spirit of Malevolence
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "roar") then
@@ -24,6 +28,8 @@ elseif(e.timer == "depop") then
 **The Spirit of Malevolence despawns.**
 end
 
+
+
 ## Combat
 
 if The Spirit of Malevolence enters combat  then
@@ -41,6 +47,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

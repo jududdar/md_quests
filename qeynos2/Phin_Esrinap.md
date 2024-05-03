@@ -1,10 +1,16 @@
 # Phin Esrinap
+
+
 ## On NPC Spawn
 
 **Set a timer** named *konem* for 4100 seconds
+
+
 ## Timer(s)
 
 >**Phin Esrinap says:** I can't believe that lazy [Konem] has been gone for over two days.  That's the last time I send that guy out for me.
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -147,6 +153,8 @@ else
 
 >**Phin Esrinap says:** Togahn gives out the red, purple, and blue headbands...  go ask him what you need to do to earn one.
 end
+
+
 
 ## Turn-Ins
 

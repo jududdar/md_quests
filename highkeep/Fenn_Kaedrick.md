@@ -1,7 +1,11 @@
 # Fenn Kaedrick
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -49,6 +53,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -94,6 +100,8 @@ if **Faction** >= Amiable +100 and  **You turn in:** <img style="background:url(
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -4,6 +4,8 @@
 
 
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -16,6 +18,8 @@ elseif(e.wp == 2 or e.wp == 5) then
 
 >**Brother Estle says:** Cleanse your souls, sinners! The way of life is found through the [Prime Healer]. Repent and join us!
 end
+
+
 
 ## Dialog
 
@@ -73,6 +77,8 @@ end
 
 
 end
+
+
 
 ## Turn-Ins
 

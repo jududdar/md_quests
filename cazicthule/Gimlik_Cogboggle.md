@@ -1,4 +1,6 @@
 # Gimlik Cogboggle
+
+
 ## Dialog
 
 **You say:** `hail`

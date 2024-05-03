@@ -21,6 +21,8 @@ quest_helper:melee_legs(SKYSHRINE_ARMOR.Chain_Leggings, 31117),
 quest_helper:melee_boots(SKYSHRINE_ARMOR.Chain_Boots, 31118), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -105,6 +107,8 @@ else
 
 
 >**Nalelin Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
+
+
 
 
 

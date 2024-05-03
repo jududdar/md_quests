@@ -1,4 +1,6 @@
 # a frost giant wolf tamer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -133,6 +135,8 @@ else
 >I wonder how much I could get for the tongue of a blithering fool? Leave before I decide to find out for myself.
 
 end
+
+
 
 ## Turn-Ins
 

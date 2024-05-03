@@ -1,4 +1,6 @@
 # Sneed Galliway
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@ Your faction standing with [Merchants of Qeynos](/faction/291) got worse (<span 
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
                                 href="/item/13172" data-url="13172" class="tooltip-link link">Galliways Tax Payment</a>
 end
+
+
 
 ## Turn-Ins
 

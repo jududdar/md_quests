@@ -1,4 +1,6 @@
 # Incantator Brials
+
+
 ## Dialog
 
 **You say:** `hail`

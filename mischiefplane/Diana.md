@@ -1,4 +1,6 @@
 # Diana
+
+
 ## Dialog
 
 Brittina = eq.get_entity_list():GetMobByNpcTypeID(126213);

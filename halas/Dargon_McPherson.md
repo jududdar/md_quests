@@ -1,4 +1,6 @@
 # Dargon McPherson
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -62,6 +64,8 @@ elseif( **Faction is** < Indifferent) then
 >**Dargon McPherson says:** Run while ye still can!! The Wolves o' the North will not tolerate yer presence!
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Eastring Fashing
+
+
 ## Dialog
 
 **You say:** `hail`

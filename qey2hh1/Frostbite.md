@@ -1,4 +1,6 @@
 # Frostbite
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 >*Frostbite RUFF RUFF*
 
 end
+
+
 
 ## Turn-Ins
 
@@ -58,6 +62,8 @@ e.other:Ding();
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Timer(s)
 
 local bad_thief = eq.ChooseRandom(12190,12190,12190,12190,12190,12191);
@@ -105,6 +111,8 @@ elseif(e.timer == "depop") then
 
 **Frostbite despawns.**
 end
+
+
 
 ## Signals
 

@@ -1,4 +1,6 @@
 # Miner Buritch
+
+
 ## Dialog
 
 **You say:** `hail`

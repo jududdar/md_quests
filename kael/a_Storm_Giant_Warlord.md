@@ -1,4 +1,6 @@
 # a Storm Giant Warlord
+
+
 ## Dialog
 
 **You say:** `hail`

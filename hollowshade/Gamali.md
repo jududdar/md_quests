@@ -1,4 +1,6 @@
 # Gamali
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*Gamali Glances up at you for a moment and then grunts and turns back toward the water.*
 end
+
+
 
 ## Turn-Ins
 

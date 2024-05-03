@@ -1,5 +1,7 @@
 # Drendico Metalbones
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 >**Drendico Metalbones says:** The hills ears keep spinning the wonders of wells. Twisting twisting fly in water scar hot horses. Teach me! Bring floating water islands of doom!
 end
+
+
 
 ## Turn-Ins
 

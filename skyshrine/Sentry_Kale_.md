@@ -1,4 +1,6 @@
 # Sentry Kale 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -17,6 +19,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
                                 href="/item/1725" data-url="1725" class="tooltip-link link">Velium Delivery Note</a>
 end
+
+
 
 ## Turn-Ins
 

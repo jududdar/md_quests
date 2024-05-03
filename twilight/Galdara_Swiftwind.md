@@ -1,4 +1,6 @@
 # Galdara Swiftwind
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Galdara Swiftwind says:** For the staff you must me a meteor jewel, a fire etched wand, an earth etched wand, and an air etched wand.
 end
+
+
 
 ## Turn-Ins
 

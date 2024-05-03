@@ -1,4 +1,6 @@
 # Guard Ninaf
+
+
 ## Dialog
 
 **You say:** `armor`

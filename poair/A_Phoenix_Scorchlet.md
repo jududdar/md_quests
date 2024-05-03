@@ -1,7 +1,11 @@
 # A Phoenix Scorchlet
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Combat
 
 if  A Phoenix Scorchlet enters combat  then
@@ -14,6 +18,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

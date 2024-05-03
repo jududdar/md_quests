@@ -1,4 +1,6 @@
 # Kagazz
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >*Kagazz blushes a bit and says, 'No no, you are the gem my friend.  You remind me a bit of Barkhem... he was my best student ever.  When the work of being Master Smith got to be too much for someone my age, it was quite easy to decide who would fill my shoes.  These days anyone wanting to learn the ways of the smith go to him.*
 end
+
+
 
 ## Turn-Ins
 

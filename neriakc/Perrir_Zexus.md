@@ -1,4 +1,6 @@
 # Perrir Zexus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -51,6 +53,8 @@ else
 
 
 >**Perrir Zexus says:** You are worthless and pathetic! You could never be of service to our temple!  Begone before your innards decorate our walls!
+
+
 
 
 

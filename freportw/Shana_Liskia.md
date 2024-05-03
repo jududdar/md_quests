@@ -1,4 +1,6 @@
 # Shana Liskia
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -140,6 +142,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Shana Liskia says:** I have a trinket that was given to me by my mother a long time ago. Before she died I told her I would always keep it close to me. Recently, some militia officers came in to our academy and confiscated anything that appeared to be valuable. Fearing for my life I did not fight to keep the necklace my mother gave me. The officer that took it was named Teridsan. If you should find him you have my permission to kill him if that's what it takes to get my necklace back. Return to me when you have my necklace along with 2 Lion Teeth.
 
 end
+
+
 
 ## Turn-Ins
 

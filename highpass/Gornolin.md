@@ -1,8 +1,12 @@
 # Gornolin
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -15,6 +19,8 @@ while ( e.self:CheckGround() ) do
 
 
 >*Gornolin picks an item up from the ground and says, 'Hey! Look what I found! Another piece of rubbish for my trailer... Must be my lucky day.*
+
+
 
 
 ## Dialog

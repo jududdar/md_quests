@@ -1,4 +1,6 @@
 # Ranin Tredbul
+
+
 ## Dialog
 
 **You say:** `hail`

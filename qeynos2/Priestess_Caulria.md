@@ -1,4 +1,6 @@
 # Priestess Caulria
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -59,6 +61,8 @@ else
 
 >**Priestess Caulria says:** I understand. Sometimes a person can be filled with the lies of so many other false deities that he cannot see the truth when it lies in front of him.
 end
+
+
 
 ## Turn-Ins
 

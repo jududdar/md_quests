@@ -1,4 +1,6 @@
 # Praetorian Chatez
+
+
 ## Dialog
 
 **You say:** `hail`

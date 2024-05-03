@@ -1,4 +1,6 @@
 # Guardian Synarus
+
+
 ## Dialog
 
 **You say:** `hail`

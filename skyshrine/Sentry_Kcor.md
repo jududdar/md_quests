@@ -1,4 +1,6 @@
 # Sentry Kcor
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -45,6 +47,8 @@ eq.get_entity_list():GetMobByNpcTypeID( [Sentry Enots](/npc/114566)):CastToNPC()
 >**Sentry Kcor says:** Very well, Enots, but do not be long. Lord Yelinak would have your hide should invaders arrive while you are not at your post.
 
 end
+
+
 
 ## Turn-Ins
 

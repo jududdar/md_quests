@@ -1,4 +1,6 @@
 # Trooper Gegren
+
+
 ## Dialog
 
 **You say:** `Hail`

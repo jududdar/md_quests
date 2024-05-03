@@ -1,4 +1,6 @@
 # Sentinel Drom
+
+
 ## Dialog
 
 **You say:** `Hail`

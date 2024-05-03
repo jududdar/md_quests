@@ -1,4 +1,6 @@
 # Trudo Frugrin
+
+
 ## Dialog
 
 **You say:** `hail`

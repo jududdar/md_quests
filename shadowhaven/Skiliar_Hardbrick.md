@@ -1,4 +1,6 @@
 # Skiliar Hardbrick
+
+
 ## Dialog
 
 **You say:** `hail`

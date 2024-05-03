@@ -1,4 +1,6 @@
 # Thar Anton
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Thar Anton says:** Hello there, traveler. I have many wares for sale so please take a look at what I have. If you think all my goods are junk and wish to buy from someone else though I'll understand.
 end
+
+
 
 ## Turn-Ins
 

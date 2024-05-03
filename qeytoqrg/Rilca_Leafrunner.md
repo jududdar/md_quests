@@ -1,7 +1,11 @@
 # Rilca Leafrunner
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(1200000,3600000));
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **Rilca Leafrunner despawns.**
 end
+
+
 
 ## Dialog
 
@@ -30,6 +36,8 @@ end
 
 >**Rilca Leafrunner says:** Apparently they've heard of our plans to reopen the entrance to Jaggedpine inside Surefall. It seems they believe the think they have a chance to stop us. While most of us have little concern about a gnoll invasion force the information you provide would be of great assistance.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,8 @@
 # a docile bear
 local reaction = 0;
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -16,6 +18,8 @@ eq.stop_follow();
 
 **Set a timer** named *react* for 3 seconds
 end
+
+
 
 ## Timer(s)
 

@@ -1,6 +1,8 @@
 # Defender Raldson
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@
                                 href="/item/4764" data-url="4764" class="tooltip-link link">A List of Potion Components</a>
 end
 
+
+
 ## Combat
 
 if Defender Raldson enters combat  then
@@ -39,9 +43,13 @@ else
 **Stop timer** named *combatsay*
 end
 
+
+
 ## Timer(s)
 
 >**Defender Raldson says:** A fool you are indeed to test your fighting skills to mine!  You shall now die by my blade!
+
+
 ## On NPC Death
 
 **Stop timer** named *combatsay*

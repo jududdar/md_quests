@@ -1,4 +1,6 @@
 # Guard Alayle
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Guard Alayle says:** Ssshhh!! Pipe down. The others might hear you. You must have something for me. Kalatrina must have given you something if you serve the Hall of Truth. If you have nothing please leave. You will blow my cover.
 end
+
+
 
 ## Turn-Ins
 
@@ -50,6 +54,8 @@ Your faction standing with [Knights of Truth](/faction/281) got better (<span cl
 **Spawn NPC:**  [Krazen Loosh](/npc/9143) at (**y:** -55, **x:** -154)
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

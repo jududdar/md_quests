@@ -1,4 +1,6 @@
 # Atruelin Nobilis
+
+
 ## Dialog
 
 **You say:** `hail`

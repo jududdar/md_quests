@@ -1,4 +1,6 @@
 # Naldo Ringer
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Sentinel Stormbeard
+
+
 ## Dialog
 
 **You say:** `hail`

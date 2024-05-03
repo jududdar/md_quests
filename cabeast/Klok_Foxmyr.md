@@ -1,4 +1,6 @@
 # Klok Foxmyr
+
+
 ## Dialog
 
 **You say:** `Hail`

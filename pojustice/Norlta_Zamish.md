@@ -1,4 +1,6 @@
 # Norlta Zamish
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Norlta Zamish says:** Well little did I know, Varkon was planning a trip to the caves, I guess I should have figured it, but I just wasn't thinking.  Hours passed, until finally word came that the minotaur hero had squished poor Varkon.  When news reached Larkon, Varkon's brother, that I was responsible for Varkon's death he asked that I be set before the Tribunal.
 end
+
+
 
 ## Arrive at Waypoint Script
 

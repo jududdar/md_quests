@@ -1,4 +1,6 @@
 # Kinten Rhys
+
+
 ## Dialog
 
 **You say:** `hail`

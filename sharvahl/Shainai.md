@@ -1,4 +1,6 @@
 # Shainai
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Shainai says:** Oh hi.  I am on my way home now, but we can maybe talk later, ok?
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -24,6 +28,8 @@ if(e.wp==36) then
 **Signaled to:**  [\#Delival](/npc/155041)
 end
 
+
+
 ## Signals
 
 if(e.signal==1) then
@@ -37,6 +43,8 @@ if(e.signal==1) then
 
 e.self:SetAppearance(3);
 end
+
+
 
 ## Turn-Ins
 

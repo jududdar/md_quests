@@ -1,7 +1,11 @@
 # The Icebound Spirit
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "roar") then
@@ -24,6 +28,8 @@ elseif(e.timer == "depop") then
 **The Icebound Spirit despawns.**
 end
 
+
+
 ## Combat
 
 if The Icebound Spirit enters combat  then
@@ -41,6 +47,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

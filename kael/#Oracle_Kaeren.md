@@ -1,4 +1,6 @@
 # Oracle Kaeren
+
+
 ## Dialog
 
 **You say:** `hail`

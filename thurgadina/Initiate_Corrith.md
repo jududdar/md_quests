@@ -1,9 +1,13 @@
 # Initiate Corrith
 
 
+
+
 ## On NPC Spawn
 
 eq.set_timer("fight",math.random(30000) + 10000);
+
+
 ## Timer(s)
 
 e.self:DoAnim(2);

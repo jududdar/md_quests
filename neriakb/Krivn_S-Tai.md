@@ -1,4 +1,6 @@
 # Krivn S-Tai
+
+
 ## Dialog
 
 **You say:** `materials`
@@ -89,6 +91,8 @@
 
 >**Krivn S-Tai says:** A sewing kit may be purchased at the Furrier Royale in Neriaks Third Quarter or at the Silk Underground in Neriaks Foreign Quarter. A community loom may be found at the Silk Underground in Neriaks Foreign Quarter.
 end
+
+
 
 ## Turn-Ins
 

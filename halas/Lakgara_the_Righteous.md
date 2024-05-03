@@ -1,4 +1,6 @@
 # Lakgara the Righteous
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,4 +1,6 @@
 # Waldo Pinemyer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Waldo Pinemyer says:** Eh... Huh... What do you want? Can't you just leave an old man to meditate in peace. Now go away.
 end
+
+
 
 ## Turn-Ins
 

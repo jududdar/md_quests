@@ -1,4 +1,6 @@
 # Trooper Rofylin
+
+
 ## Dialog
 
 **You say:** `Hail`

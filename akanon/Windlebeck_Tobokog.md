@@ -1,4 +1,6 @@
 # Windlebeck Tobokog
+
+
 ## Dialog
 
 **You say:** `plague warrior helm`
@@ -71,6 +73,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1151.png" alt="" /> <a
                                 href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # royal guard
+
+
 ## Combat
 
 if royal guard enters combat  then

@@ -1,4 +1,6 @@
 # Emperor Ganak
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -43,6 +45,8 @@ e.self:Say("I am not so quick to grant someone the key to their death! If you tr
 
 >**Emperor Ganak says:** An adventurer that wishes to enter the inner city of Sebilis you say?? There are only two ways in, either the [glowing orb] in the heart of the ruins in the outer city, or via one of the tortured souls that wanders the jungles nearby.
 end
+
+
 
 ## Turn-Ins
 

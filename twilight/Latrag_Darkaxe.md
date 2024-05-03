@@ -1,4 +1,6 @@
 # Latrag Darkaxe
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -67,6 +69,8 @@
 
 >**Latrag Darkaxe says:** For the helm ye gotta bring me a moon jewel, a mark of valor, a withered branch, and a pale pearl.
 end
+
+
 
 ## Turn-Ins
 

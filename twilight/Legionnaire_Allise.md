@@ -1,4 +1,6 @@
 # Legionnaire Allise
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Legionnaire Allise says:** To receive the bo stick you must retrieve for me a meteor jewel, a mark of the dragon, an embedded gravel tablet, and a gilded wrist chain.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Praetor Gralit
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Misty Tekcihta
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >*Misty Tekcihta smiles and taps her foot.*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # a ghostly presence
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Turn-Ins
 
 
@@ -21,6 +25,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 **a ghostly presence despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

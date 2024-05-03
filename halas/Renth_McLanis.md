@@ -1,4 +1,6 @@
 # Renth McLanis
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@
 
 >**Renth McLanis says:** Run while ye still can!! The Wolves o' the North will not tolerate yer presence!
 end
+
+
 
 ## Turn-Ins
 

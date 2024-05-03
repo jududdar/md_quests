@@ -1,4 +1,6 @@
 # Medicine Man Veetra
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -33,6 +35,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
                                 href="/item/18545" data-url="18545" class="tooltip-link link">Alkeme</a>
 end
+
+
 
 ## Turn-Ins
 

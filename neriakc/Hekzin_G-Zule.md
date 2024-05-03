@@ -1,4 +1,6 @@
 # Hekzin G-Zule
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -52,6 +54,8 @@ else
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_690.png" alt="" /> <a
                                 href="/item/17943" data-url="17943" class="tooltip-link link">Empty Bag</a>
 end
+
+
 
 ## Turn-Ins
 

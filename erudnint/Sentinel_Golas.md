@@ -1,4 +1,6 @@
 # Sentinel Golas
+
+
 ## Dialog
 
 **You say:** `kerra isle`

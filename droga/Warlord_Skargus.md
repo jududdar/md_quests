@@ -4,12 +4,18 @@
 
 
 
+
+
 ## On NPC Spawn
 
 eq.set_timer(1,600000);
+
+
 ## Timer(s)
 
 **Warlord Skargus despawns.**
+
+
 ## Turn-Ins
 
 

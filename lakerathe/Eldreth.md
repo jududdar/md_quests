@@ -1,6 +1,8 @@
 # Eldreth
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@
 
 >**Eldreth says:** Aye, pay, and pay you must. I need 100 platinum pieces to begin my work. This tower is old and drafty and it will take that much to make it bearable. And while you're at it, I need something else. I am very busy here and have no time to shop, so bring me back a couple bottles of milk along with your very large bag of platinum, and I will translate anything you wish at that time.
 end
+
+
 
 ## Turn-Ins
 

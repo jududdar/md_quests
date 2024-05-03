@@ -1,9 +1,13 @@
 # a storm battered traveler
 local onetime
 
+
+
 ## On NPC Spawn
 
 onetime = 1;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -461,6 +465,8 @@ else
 
 
 end
+
+
 
 ## Depart from Waypoint Script
 

@@ -1,4 +1,6 @@
 # A Tabularium Factor
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Hurrieta Ironforge
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@
 >**Hurrieta Ironforge says:** Oh! You are here to see Brohan. My husband is upstairs. Feel free to pay him a visit, considering you have already set foot on our estate.
 
 end
+
+
 
 ## Arrive at Waypoint Script
 

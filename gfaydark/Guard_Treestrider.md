@@ -1,4 +1,6 @@
 # Guard Treestrider
+
+
 ## Dialog
 
 **You say:** `soldiers`

@@ -1,4 +1,6 @@
 # Fhara Semhart
+
+
 ## Dialog
 
 **You say:** `tax`

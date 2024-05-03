@@ -1,4 +1,6 @@
 # Sentinel Crrlarn
+
+
 ## Dialog
 
 **You say:** `hail`

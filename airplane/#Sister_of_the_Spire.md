@@ -1,4 +1,6 @@
 # Sister of the Spire
+
+
 ## On NPC Death
 
 local sirranName = "sirran";

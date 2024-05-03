@@ -1,4 +1,6 @@
 # Snowflake
+
+
 ## Dialog
 
 **You say:** `hail`

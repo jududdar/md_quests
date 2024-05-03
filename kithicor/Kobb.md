@@ -1,10 +1,16 @@
 # Kobb
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(1800000,7200000));
+
+
 ## Timer(s)
 
 **Kobb despawns.**
+
+
 ## Combat
 
 if Kobb enters combat  then

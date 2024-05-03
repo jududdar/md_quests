@@ -1,4 +1,6 @@
 # Trooper Byzin
+
+
 ## Dialog
 
 **You say:** `Hail`

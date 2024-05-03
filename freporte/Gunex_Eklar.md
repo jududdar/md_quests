@@ -1,4 +1,6 @@
 # Gunex Eklar
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -33,6 +35,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Gunex Eklar says:** It has come to our attention that a paladin of the Sentries of Passion, Raenna Griff, has been aiding sympathizers and wanted members of the Sentries of Passion and the Knights of Truth in the sewer tunnels beneath the western quarter of Freeport. The incompetent Freeport Militia has yet to capture these wanted followers of the Mar twins. We will wait for their capture no longer. Seek this Raenna Griff individual and slay her. I want her head presented to me this very night!
 
 end
+
+
 
 ## Turn-Ins
 

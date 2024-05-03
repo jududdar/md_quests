@@ -1,4 +1,6 @@
 # Emylie Steelclaws
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@ else
 >**Emylie Steelclaws says:** You have done much to anger the spirits thus you are not accepted by our people.
 
 end
+
+
 
 ## Turn-Ins
 

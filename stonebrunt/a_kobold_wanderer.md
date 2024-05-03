@@ -1,4 +1,6 @@
 # a kobold wanderer
+
+
 ## Dialog
 
 **You say:** `hail`

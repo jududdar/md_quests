@@ -1,8 +1,12 @@
 # Theodore Exanthem
 
+
+
 ## On NPC Spawn
 
 **Signaled to:**  [an interrogator](/npc/14050)
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -63,6 +67,8 @@ elseif(e.signal == 7) then
 **Signaled to:**  [an interrogator](/npc/14050)
 end
 
+
+
 ## Combat
 
 if(e.joined == true) then
@@ -70,6 +76,8 @@ if(e.joined == true) then
 
 **Set a timer** named *defeat* for 3 seconds
 end
+
+
 
 ## Timer(s)
 
@@ -87,6 +95,8 @@ if(e.timer == "defeat") then
 
 **Signaled to:**  [an interrogator](/npc/14050)
 end
+
+
 
 ## Turn-Ins
 

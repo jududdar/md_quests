@@ -1,4 +1,6 @@
 # Serna Tasknon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@ else
 
 >**Serna Tasknon says:** It is not my duty to see to the wounded. You must seek out Plur Etinu. He is in here somewhere.
 end
+
+
 
 ## Turn-Ins
 

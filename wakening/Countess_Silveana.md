@@ -1,4 +1,6 @@
 # Countess Silveana
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Countess Silveana says:** There is a giant with a strange metal stick that has been the largest threat as of late. He wanders further into our lands than the other with the stick to his eye and squashes my Sifaye when he finds them. If you eliminate him for us I would like to see that stick he carries.
 end
+
+
 
 ## Turn-Ins
 

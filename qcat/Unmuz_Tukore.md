@@ -1,4 +1,6 @@
 # Unmuz Tukore
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -49,6 +51,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Unmuz Tukore says:** The Knights of Thunder and the Priests of Life are our primary foes. and the power behind the throne of Antonius Bayle IV. If it were not for their presence this city would have been claimed in the name of the Plague Lord long ago. Instead we are forced to hide our temple in the catacombs and move through the sewers to avoid the patrols of Qeynos Guards in the streets. Be mindful of your words when not within the walls of this temple. The Qeynos Guards would execute you for your allegiance to the Bloodsabers.
 
 end
+
+
 
 ## Turn-Ins
 

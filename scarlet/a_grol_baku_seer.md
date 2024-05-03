@@ -1,4 +1,6 @@
 # a grol baku seer
+
+
 ## Dialog
 
 **You say:** `hail`

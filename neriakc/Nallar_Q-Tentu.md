@@ -1,4 +1,6 @@
 # Nallar Q-Tentu
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -43,6 +45,8 @@
 
 >**Nallar Q-Tentu says:** Ahh, well I'll assume if you could read it you wouldn't be asking these questions. Fortunately for you I do have the ability to read these skins and will do so for only one star ruby. These spirits will often reward those who give them their vengeance. With my translation you may find the name of the House. Hand me the skin and a star ruby and we'll see.
 end
+
+
 
 ## Turn-Ins
 

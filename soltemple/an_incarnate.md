@@ -1,4 +1,6 @@
 # an incarnate
+
+
 ## On NPC Death
 
 local which = math.random(3);

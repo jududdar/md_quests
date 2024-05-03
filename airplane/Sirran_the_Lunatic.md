@@ -1,7 +1,11 @@
 # Sirran the Lunatic
+
+
 ## On NPC Spawn
 
 **Set a timer** named *bye* for 1200 seconds
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals();
@@ -124,6 +128,8 @@ if(**spawned NPC:**  [\#Sister of the Spire](/npc/71076) == false) then
 
 >**Sirran the Lunatic says:** The veil is dissolving!  Centuries ago, when Veeshan brought me to this place, she sealed the plane with the Veil.  By you being here, it is evidence that the Veil is lifting.
 end
+
+
 
 ## Turn-Ins
 
@@ -400,6 +406,8 @@ else
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Combat
 
 if(e.joined == true) then
@@ -407,6 +415,8 @@ if(e.joined == true) then
 
 **Sirran the Lunatic shouts:** <span class="text-danger">What?! Now you've done it! The bunnies are angry! ANGRY I TELL YOU!</span>
 end
+
+
 
 ## Timer(s)
 
@@ -418,6 +428,8 @@ if(e.timer == "bye") then
 
 **Sirran the Lunatic despawns.**
 end
+
+
 
 ## On NPC Death
 

@@ -1,4 +1,6 @@
 # Solomen
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -29,6 +31,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/18088" data-url="18088" class="tooltip-link link">Note to Camin</a>
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Wellford Fargin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Wellford Fargin says:** If you want to help, you can begin by replacing my prized Star of Odus which was taken from my vault when I stepped out to dine. Do so, and I may trust you to collect coins. I will also reward you with an item a composer left here.
 end
+
+
 
 ## Turn-Ins
 

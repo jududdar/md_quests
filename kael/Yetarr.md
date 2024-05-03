@@ -1,4 +1,6 @@
 # Yetarr
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -158,6 +160,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -213,6 +217,8 @@ Your faction standing with [Claws of Veeshan](/faction/430) got worse (<span cla
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Combat
 

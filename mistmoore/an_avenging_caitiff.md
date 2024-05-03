@@ -1,4 +1,6 @@
 # an avenging caitiff
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
 
 >**an avenging caitiff says:** Since my mother was a vampire, my blood, too, was of the accursed lineage.  However, the Mistmoore blood ran thin in my veins.  My body was imbued with many of the attributes of a vampire but my soul was not corrupted and my will prevailed over the curse.  For this, I was cast out and banished.  And so, I hunt vampires.  There is no more.
 end
+
+
 
 ## Turn-Ins
 

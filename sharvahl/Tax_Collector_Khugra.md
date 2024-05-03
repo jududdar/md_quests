@@ -6,6 +6,8 @@
 
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -26,6 +28,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
                                 href="/item/2875" data-url="2875" class="tooltip-link link">Stamped Certificate of Taxability</a>
 end
+
+
 
 ## Turn-Ins
 

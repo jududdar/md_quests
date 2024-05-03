@@ -1,4 +1,6 @@
 # a royal fish
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*a royal fish flutters about and seems to be staring back at you as if reading and understanding your thoughts!!*
 end
+
+
 
 ## Turn-Ins
 

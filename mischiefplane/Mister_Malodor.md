@@ -1,4 +1,6 @@
 # Mister Malodor
+
+
 ## Dialog
 
 **You say:** `hail`

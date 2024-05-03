@@ -1,9 +1,13 @@
 # Bilf
 local count = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roll* for 70 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@ if(**spawned NPC:**  [Feld](/npc/110055)) then
 eq.get_entity_list():GetMobByNpcTypeID( [Feld](/npc/110055)):Say("Har har!  Scoutin'.  Yah, thats what we be doin'!");
 
 end
+
+
 
 ## Timer(s)
 

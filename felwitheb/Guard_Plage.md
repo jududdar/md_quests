@@ -1,4 +1,6 @@
 # Guard Plage
+
+
 ## Dialog
 
 **You say:** `supplies`

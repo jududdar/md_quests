@@ -1,4 +1,6 @@
 # Watcher Scots
+
+
 ## Dialog
 
 **You say:** `hail`

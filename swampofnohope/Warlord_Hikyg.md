@@ -1,4 +1,6 @@
 # Warlord Hikyg
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -23,6 +25,8 @@
 
 >**Warlord Hikyg says:** Do not speak to me of the geozite tool.  Seek out Drill Master Vygan within the Fortress of Talishan.  He shall answer your questions.
 end
+
+
 
 ## Turn-Ins
 

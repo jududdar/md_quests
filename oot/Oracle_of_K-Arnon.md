@@ -1,4 +1,6 @@
 # Oracle of K-Arnon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -79,6 +81,8 @@
 
 >**Oracle of K-Arnon says:** I do not seek the Lost Book at this time, but I might have need of it in the future.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Legionnaire Poggle
+
+
 ## Dialog
 
 **You say:** `hail`

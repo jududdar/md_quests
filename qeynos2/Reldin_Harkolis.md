@@ -1,4 +1,6 @@
 # Reldin Harkolis
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -133,6 +135,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Reldin Harkolis says:** A message between two of our agents was recently intercepted by a Qeynos Guardsman. The message is encoded in thieves cant but should the guards eventually decode it we would expect trouble. Guard Gregor, the guard who currently is in possession of the message is out patrolling somewhere in the West Karanas. Find this guard and recover the message. Bring it back to me when you have done so.
 
 end
+
+
 
 ## Turn-Ins
 

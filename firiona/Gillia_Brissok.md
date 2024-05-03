@@ -1,4 +1,6 @@
 # Gillia Brissok
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Gillia Brissok says:** For justice to be brought to them you will need to strike at some of the most powerful goblins found there. Seek out the goblin cave lords deep within the Temple of Droga and bring me back three Sashes of the Cave Lords. Also I will need the Earring of King Dronan. Do this and you will be well rewarded.
 end
+
+
 ## Turn-Ins
 
 

@@ -1,4 +1,6 @@
 # a captured kerran
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**a captured kerran says:** My spirrrit witherrrrs herrre in this dank, stinking, flea infested hole! I must be set frrree frrrom these shackles!!
 end
+
+
 
 ## Turn-Ins
 

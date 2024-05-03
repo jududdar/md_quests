@@ -1,4 +1,6 @@
 # a frost giant gladiator
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Guard Frostfallen
+
+
 ## Dialog
 
 **You say:** `soldiers`

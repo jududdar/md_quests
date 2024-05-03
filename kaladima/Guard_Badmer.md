@@ -1,4 +1,6 @@
 # Guard Badmer
+
+
 ## Dialog
 
 **You say:** `armor`

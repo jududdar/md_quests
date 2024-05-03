@@ -1,6 +1,8 @@
 # minotaur slaver
 
 
+
+
 ## On NPC Death
 
 ran = math.random(100);

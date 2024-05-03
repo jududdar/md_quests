@@ -1,4 +1,6 @@
 # a ward of ro
+
+
 ## On NPC Death
 
 local which = math.random(2);

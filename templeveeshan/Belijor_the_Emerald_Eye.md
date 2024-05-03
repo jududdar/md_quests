@@ -1,5 +1,7 @@
 # Belijor the Emerald Eye
 
+
+
 ## Combat
 
 if  Belijor the Emerald Eye enters combat  then

@@ -1,5 +1,7 @@
 # A sense of awe
 
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

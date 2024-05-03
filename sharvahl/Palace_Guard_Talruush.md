@@ -1,4 +1,6 @@
 # Palace Guard Talruush
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 35) then
@@ -14,6 +16,8 @@ if(e.wp == 47) then
 
 e.self:SetAppearance(4);
 end
+
+
 
 ## Turn-Ins
 

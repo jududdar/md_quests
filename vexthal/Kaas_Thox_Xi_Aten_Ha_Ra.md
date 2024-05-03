@@ -3,6 +3,8 @@
 
 local Z_LEVEL = 100; 
 
+
+
 ## Combat
 
 if  Kaas Thox Xi Aten Ha Ra enters combat  then
@@ -18,6 +20,8 @@ else
 
 **Stop timer** named *kill_player*
 end
+
+
 
 ## Timer(s)
 

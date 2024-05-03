@@ -1,4 +1,6 @@
 # Guard Tyrak
+
+
 ## Dialog
 
 **You say:** `hail`

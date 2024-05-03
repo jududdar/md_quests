@@ -1,4 +1,6 @@
 # Hetie McDonald
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Hetie McDonald says:** Welcome back, Soandso. Why don't you purchase a few things before you head out into the tundra again?
 end
+
+
 
 ## Turn-Ins
 

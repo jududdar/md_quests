@@ -1,4 +1,6 @@
 # Brollus Hoost
+
+
 ## Dialog
 
 **You say:** `hail`

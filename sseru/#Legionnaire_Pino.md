@@ -1,4 +1,6 @@
 # Legionnaire Pino
+
+
 ## Dialog
 
 **You say:** `hail`

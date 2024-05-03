@@ -1,4 +1,6 @@
 # Scout Husman
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Scout Husman says:** 'I know the way to a grimling camp close to here. If you have about six people of my strength we have a good chance of taking it over. With luck, a grimling officer will take part in their counterattack, and they can carry valuable treasure indeed. Fetch me a polished acrylia sphere and I'll guide you.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # Kromrif Death Squad
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -12,6 +16,8 @@ if(e.timer == "depop") then
 
 **Kromrif Death Squad despawns.**
 end
+
+
 
 ## On NPC Death
 

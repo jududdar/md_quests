@@ -1,4 +1,6 @@
 # Aldis Rynka
+
+
 ## Dialog
 
 **You say:** `hail`

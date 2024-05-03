@@ -1,4 +1,6 @@
 # Guard Highmoon
+
+
 ## Dialog
 
 **You say:** `soldiers`

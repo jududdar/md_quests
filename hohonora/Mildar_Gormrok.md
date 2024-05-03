@@ -1,6 +1,8 @@
 # Mildar Gormrok
 local n;
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -46,6 +48,8 @@ elseif ( e.signal == 5 ) then
 
 **Set a timer** named *animate* for 1 seconds
 end
+
+
 
 ## Timer(s)
 

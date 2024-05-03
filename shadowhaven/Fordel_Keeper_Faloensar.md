@@ -1,4 +1,6 @@
 # Fordel Keeper Faloensar
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -16,6 +18,8 @@ elseif (e.signal == 3) then
 
 >**Fordel Keeper Faloensar says:** Ok see you later Verte!
 end
+
+
 
 ## Dialog
 

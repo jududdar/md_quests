@@ -1,10 +1,16 @@
 # Marduk
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 82 seconds
+
+
 ## Timer(s)
 
 >**Marduk says:** The outdoors can be cold. Come pick up some extra cloth. Just have a look it wont hurt ya! I'll give you a good deal. Come now don't be shy.
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -193,6 +199,8 @@
 
 >**Marduk says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Klok Vednir
+
+
 ## Dialog
 
 **You say:** `Hail`

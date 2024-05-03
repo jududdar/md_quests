@@ -1,4 +1,6 @@
 # an investigator
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 
 **an investigator despawns.**
 end
+
+
 
 ## Turn-Ins
 

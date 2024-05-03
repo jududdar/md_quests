@@ -1,5 +1,7 @@
 # Councilman Srethix
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@
 
 >*Councilman Srethix glares at Garuuk and turns back to you. 'You are interested in a job seeking knowledge, yes? Very well, I think I may have something suitable for you. I happen to be seeking an ancient tome containing some valuable information about artifacts of power. I have learned this book is somewhere in our very own library but so far Garuuk has been unable to locate it. Find me the Tome of Dark Power and I may see what other jobs I can pass along to you.' *
 end
+
+
 
 ## Turn-Ins
 

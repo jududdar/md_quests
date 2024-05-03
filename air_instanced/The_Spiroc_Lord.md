@@ -1,4 +1,6 @@
 # The Spiroc Lord
+
+
 ## On NPC Death
 
 local qglobals = eq.get_qglobals();

@@ -21,6 +21,8 @@ quest_helper:silk_legs(KAEL_ARMOR.Silk_Pantaloons, 25417),
 quest_helper:silk_boots(KAEL_ARMOR.Silk_Boots, 25418),
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -128,6 +130,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Bjarorm Mjlorn says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

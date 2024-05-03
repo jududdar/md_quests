@@ -1,4 +1,6 @@
 # Jalen Goldsinger
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Jalen Goldsinger says:** An interesting little concoction.  Gorth Bearsoul is the only alchemist I know of who can make such an item.  Loud and quite smelly, he is.  Not unusual for a barbarian.  He calls the icy city of Halas home.
 end
+
+
 
 ## Turn-Ins
 

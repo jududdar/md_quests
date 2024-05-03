@@ -1,4 +1,6 @@
 # Hymnist Gawfed
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -17,6 +19,8 @@
 
 >**Hymnist Gawfed says:** Gah... I'm losing my wits. I didn't tell you which merchant. Well, the fur is the first thing to go, and the mind is a close second. My wife's birthday is usually quite a large event in my household and I've been trying to make this one extra special. I'm lucky I can still find my tail. Take the note to Jihli Mahej. He's an importer who lives near the... gah! I can't remember the address. I'm sure you'll find him though. Good luck!
 end
+
+
 
 ## Turn-Ins
 

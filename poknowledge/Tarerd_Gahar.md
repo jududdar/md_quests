@@ -1,5 +1,7 @@
 # Tarerd Gahar
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Tarerd Gahar says:** I'm sure it'll be easy for an adventurer as you. I am working on a potion, and I cannot currently travel to gather my last component. If you could bring me the blood of a Sarnak I'd be willing to share what I know.
 end
+
+
 
 ## Turn-Ins
 

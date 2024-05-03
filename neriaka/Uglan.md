@@ -1,4 +1,6 @@
 # Uglan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Uglan says:** You smart person. Me know dark elves not friendly. They just use ogres. Me not like Neriak anymore.
 end
+
+
 
 ## Turn-Ins
 

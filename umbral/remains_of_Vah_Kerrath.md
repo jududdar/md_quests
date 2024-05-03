@@ -1,4 +1,6 @@
 # remains of Vah Kerrath
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -50,6 +52,8 @@ else
 >**remains of Vah Kerrath says:** Begone from my sight corruptor of spirits. I will only aid my allies.
 
 end
+
+
 
 ## Turn-Ins
 

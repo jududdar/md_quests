@@ -1,4 +1,6 @@
 # Fendlemend Figlefop
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Fendlemend Figlefop says:** Denken is my dwarven excavator.  He is taking a break while I try to fix our rebreathers.  You might try up the hill near those aviaks.  He has a tendency to fraternize with them
 end
+
+
 
 ## Turn-Ins
 

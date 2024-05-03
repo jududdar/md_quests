@@ -1,4 +1,6 @@
 # Trug
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Trug says:** Gimme duffynitey rocks! Me powdrem GUUD!!!
 end
+
+
 
 ## Turn-Ins
 

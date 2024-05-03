@@ -1,4 +1,6 @@
 # The study
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [a coterie servant](/npc/160097)) then
@@ -7,11 +9,15 @@ if(**spawned NPC:**  [a coterie servant](/npc/160097)) then
 **Set a timer** named *depop_servant* for 10 seconds
 end
 
+
+
 ## Combat
 
 >*The study locks behind you.. You get the feeling you are not alone.*
 
 **Set a timer** named *servant* for 5 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "servant") then

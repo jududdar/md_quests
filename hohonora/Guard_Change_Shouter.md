@@ -165,9 +165,13 @@ grid = {
 local oldIDs;
 local newIDs = {};
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *timecheck* for 10 seconds
+
+
 ## Timer(s)
 
 
@@ -305,6 +309,8 @@ elseif ( e.timer == "wait" ) then
 eq.stop_timer(e.timer);
 
 end
+
+
 
 ## Signals
 

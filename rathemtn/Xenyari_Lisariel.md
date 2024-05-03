@@ -1,4 +1,6 @@
 # Xenyari Lisariel
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Xenyari Lisariel says:** Yes, yes! Prickly pears! Do you have any? I just love prickly pears but Permafrost is just so far away even for us druids.
 end
+
+
 
 ## Turn-Ins
 

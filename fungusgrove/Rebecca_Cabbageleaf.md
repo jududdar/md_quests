@@ -1,6 +1,8 @@
 # Rebecca Cabbageleaf
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 
 >*Rebecca Cabbageleaf looks up again, 'Oh, have you come about the earring then? That's wonderful! As you probably know, the druids have recently completed an ancient ceremony, and some delightful people who weren't druids were able to participate. Sadly though, only druid's were able to use the Earrings of Nature that were created with the ceremony. I've been collecting spare earrings of Nature from those who can't use them, and giving an Earring of the Solstice in return. It's a good deal all around, as we both can benefit from the trade. If you have an earring of Nature to trade, just give it to me and I'll happily swap you, and if you don't like it, you can give it back.'*
 end
+
+
 
 ## Turn-Ins
 

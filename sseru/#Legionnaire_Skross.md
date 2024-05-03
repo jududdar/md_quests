@@ -1,4 +1,6 @@
 # Legionnaire Skross
+
+
 ## Dialog
 
 **You say:** `hail`

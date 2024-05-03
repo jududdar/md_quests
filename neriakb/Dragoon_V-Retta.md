@@ -1,4 +1,6 @@
 # Dragoon V-Retta
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -15,6 +17,8 @@ elseif(e.signal == 2) then
 eq.start(35);
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +30,8 @@ end
 
 e.self:DoAnim(67); 
 end
+
+
 
 ## Arrive at Waypoint Script
 

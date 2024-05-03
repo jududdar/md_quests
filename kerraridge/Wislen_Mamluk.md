@@ -1,4 +1,6 @@
 # Wislen Mamluk
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

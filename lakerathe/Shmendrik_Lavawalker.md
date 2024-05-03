@@ -1,6 +1,8 @@
 # Shmendrik Lavawalker
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Shmendrik Lavawalker says:** Hail, good Soandso!! Be wary near the waters of Lake Rathe! The Riptide goblin king, Lord Bergurgle, has been commanding his minions to murder and rob all who come near it! I am here seeking his death but I am afraid I am no match for all of his subjects. I shall reward you greatly for the death of Lord Bergurgle. I simply ask that you bring me his crown as proof.
 end
+
+
 
 ## Turn-Ins
 
@@ -32,6 +36,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -47,6 +53,8 @@ elseif(e.signal == 2) then
 
 **Signaled to:**  [\#Natasha Whitewater](/npc/51138)
 end
+
+
 
 ## On NPC Death
 

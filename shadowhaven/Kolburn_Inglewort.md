@@ -1,4 +1,6 @@
 # Kolburn Inglewort
+
+
 ## Dialog
 
 **You say:** `hail`

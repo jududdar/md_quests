@@ -1,4 +1,6 @@
 # Guard Eaglesong
+
+
 ## Dialog
 
 **You say:** `soldiers`

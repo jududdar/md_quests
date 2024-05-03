@@ -1,4 +1,6 @@
 # Euboea Delewyn
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -17,6 +19,8 @@ elseif(e.signal == 1) then
 
 **Signaled to:**  [Dayle Jornin](/npc/69153)
 end
+
+
 
 ## Dialog
 

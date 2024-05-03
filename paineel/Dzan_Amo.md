@@ -1,4 +1,6 @@
 # Dzan Amo
+
+
 ## Dialog
 
 if **Faction** >= Apprehensive then 
@@ -26,6 +28,8 @@ else
 >**Dzan Amo says:** Begone from this place! Infidels like you have no place among the faithful of Cazic-Thule!
 
 end
+
+
 
 ## Turn-Ins
 

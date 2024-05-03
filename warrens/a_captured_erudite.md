@@ -1,4 +1,6 @@
 # a captured erudite
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*a captured erudite bats her eye lashes seductively. 'I would be immensely pleased if someone would free me from these shackles.'*
 end
+
+
 
 ## Turn-Ins
 

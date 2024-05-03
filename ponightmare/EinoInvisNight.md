@@ -1,6 +1,8 @@
 # EinoInvisNight
 local EINO_TYPE = 204467; 
 
+
+
 ## On NPC Spawn
 
 eq.debug("EinoInvisNight spawn", 2);
@@ -15,6 +17,8 @@ eq.enable_proximity_say();
 
 
 **Set a timer** named *timecheck* for 10 seconds
+
+
 ## Timer(s)
 
 

@@ -1,6 +1,8 @@
 # The Idol of Rallos Zek
 
 
+
+
 ## On NPC Death
 
 eq.set_global("Avatar","1",7,"F");

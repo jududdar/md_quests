@@ -1,4 +1,6 @@
 # Sentinel Nellenar
+
+
 ## Dialog
 
 **You say:** `hail`

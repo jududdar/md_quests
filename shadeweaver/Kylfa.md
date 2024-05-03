@@ -1,4 +1,6 @@
 # Kylfa
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Kylfa says:** Return to me with three Shredder Claws, and a wooden practice flail, and I will attach the claws to the flail and create a Shredder Claw Club for you to use out here in the Thicket.
 end
+
+
 
 ## Turn-Ins
 

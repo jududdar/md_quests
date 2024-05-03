@@ -1,5 +1,7 @@
 # Aid Grimel
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);
@@ -384,6 +386,8 @@ e.self:DoAnim(52);
 >**Aid Grimel says:** Your knowledge of the Planes is impressive, however you still have much to learn.
 
 end
+
+
 
 ## Turn-Ins
 

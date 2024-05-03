@@ -1,4 +1,6 @@
 # Entariz
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -78,6 +80,8 @@ else
 >**Entariz says:** We do have many living enemies.  Let me correct this oversight.
 
 end
+
+
 
 ## Turn-Ins
 

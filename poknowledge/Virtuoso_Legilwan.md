@@ -1,6 +1,8 @@
 # Virtuoso Legilwan
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -29,6 +31,8 @@ e.self:DoAnim(48);
 >*Virtuoso Legilwan gives a gentle, though formal nod of his head in warm greetings. 'Welcome, Soandso, to the district of Tanaan. We have the utmost faith that this humble place will accommodate your every need most generously. The merchants in scattered throughout our region are quite useful to any tradesmen or adventurer seeking to restock on supplies and the devises of teleportation found in this district should be more than suitable for one of your ilk. If you have come to Tanaan seeking guidance in the ways of mentorship and skills, then know only success in your search for we are more than prepared to accommodate the needs of almost any adventurer. The bards of Norrath who seek guidance without the ravings of a philosophical, political, or religious zealot will find myself to be a most formidable suitor to their needs.'*
 
 end
+
+
 
 ## Turn-Ins
 

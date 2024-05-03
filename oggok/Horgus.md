@@ -1,4 +1,6 @@
 # Horgus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Horgus says:** Bah!! You go join Greenbloods. You weak.
 end
+
+
 
 ## Turn-Ins
 

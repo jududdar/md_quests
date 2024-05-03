@@ -1,4 +1,6 @@
 # A Haven Guard
+
+
 ## Combat
 
 if A Haven Guard enters combat  then

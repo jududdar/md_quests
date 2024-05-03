@@ -1,5 +1,7 @@
 # Giwin Mirakon
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);
@@ -65,6 +67,8 @@ eq.set_global("zeks", "1", 5, "F");
 **Message:** <span class="text-warning">*You have received a character flag!*</span>
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Lieutenant Ulfur
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Lieutenant Ulfur says:** Heh, figures. Almost no one kin fully appreciate the warm feelin' ye get when a bolt ye fired splits the skull of yer adversary. They don't even see it comin'; kinda absolvers yer guilt fer killin' another bein'. Anonymous killin', heheheh.
 end
+
+
 
 ## Arrive at Waypoint Script
 

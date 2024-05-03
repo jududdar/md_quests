@@ -1,12 +1,18 @@
 # Faelin Bloodbriar
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Timer(s)
 
 eq.stop_timer("depop")
 
 **Faelin Bloodbriar despawns.**
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -15,6 +21,8 @@ eq.stop_timer("depop")
 
 >**Faelin Bloodbriar says:** Didn't think I was gone for good, did you? We're that much closer to finishing this trial of our strength, thanks to you.
 end
+
+
 
 ## Turn-Ins
 

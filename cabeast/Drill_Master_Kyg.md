@@ -1,4 +1,6 @@
 # Drill Master Kyg
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -123,6 +125,8 @@ else
 >**Drill Master Kyg says:** Hiss!  Fool!  Fear the Legion of Cabilis for you are no ally to us.  Leave while you can.
 
 end
+
+
 
 ## Turn-Ins
 

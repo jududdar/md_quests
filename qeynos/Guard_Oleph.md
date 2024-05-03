@@ -1,4 +1,6 @@
 # Guard Oleph
+
+
 ## Dialog
 
 **You say:** `hail`

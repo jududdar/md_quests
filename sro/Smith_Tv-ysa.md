@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -46,6 +48,8 @@ else
 
 >**Smith Tv-ysa says:** I have several copies of each book. If you want a copy of 'Runes and Research', volume I or II, bring me a lightstone and I will give you whichever book I have more of at the moment. Bring me a greater lightstone, and I will give you a copy of the 'Concordance of Research.
 end
+
+
 
 ## Turn-Ins
 

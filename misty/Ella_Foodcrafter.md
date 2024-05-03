@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Arrive at Waypoint Script
 
 if((e.wp == 13) or (e.wp == 19)) then
@@ -32,6 +34,8 @@ elseif(randtext == 2) then
 
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -52,6 +56,8 @@ end
 
 >**Ella Foodcrafter says:** Good, ya didn't run off without finding out what else ya need to do. Second, I need a special type of bowl. An ancient type of bowl, which strengthened the food placed inside it, once made by the elves of old. Again, I cannot tell ya how it is made for the making was lost to the ages. Seek this knowledge and these items out in the lands. Come to me when ya have found both.
 end
+
+
 
 ## Turn-Ins
 

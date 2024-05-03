@@ -1,4 +1,6 @@
 # Centurion Kroldus
+
+
 ## Dialog
 
 **You say:** `hail`

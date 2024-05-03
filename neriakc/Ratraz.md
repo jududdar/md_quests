@@ -1,4 +1,6 @@
 # Ratraz
+
+
 ## Dialog
 
 **You say:** `hail`

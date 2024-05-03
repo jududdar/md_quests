@@ -1,4 +1,6 @@
 # Trooper Frogzin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >*Trooper Frogzin looks very upset at your mention of the order. 'I cannot believe I have been banned from what little enjoyment can be found in Cabilis. Oh, well, I cannot argue with a legion order. Hand me the order so that I may sign it.'*
 end
+
+
 
 ## Turn-Ins
 

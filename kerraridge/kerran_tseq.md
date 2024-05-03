@@ -1,4 +1,6 @@
 # kerran tseq
+
+
 ## Dialog
 
 if **Faction** >= Dubious then
@@ -33,6 +35,8 @@ else
 
 >Oh look..a talking lump of refuse..how novel!
 end
+
+
 
 
 ## Turn-Ins

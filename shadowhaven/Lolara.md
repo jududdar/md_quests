@@ -1,4 +1,6 @@
 # Lolara
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 3) then
@@ -11,6 +13,8 @@ elseif (e.wp == 12) then
 
 >**Lolara says:** Hey Jaldar, I need your help. That good-for-nothing drunkard Halorak passed out in my room and I need you to 'escort' him out.
 end
+
+
 
 ## Dialog
 

@@ -21,6 +21,8 @@ quest_helper:priest_bracer(THURG_ARMOR.Leather_Bracelet, 31052),
 quest_helper:priest_legs(THURG_ARMOR.Leather_Leggings, 31054),
 }
 
+
+
 ## Dialog
 
 if( **Faction is** >= Kindly ) then 
@@ -111,6 +113,8 @@ else
 
 >**Cobi Frostbeard says:** I do not know you well enough to entrust you with such a quest, yet.
 end
+
+
 
 ## Turn-Ins
 

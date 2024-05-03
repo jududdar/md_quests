@@ -1,6 +1,8 @@
 # Warder Elwysaie
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -29,6 +31,8 @@ e.self:DoAnim(70);
 >*Warder Elwysaie gives a formal bow at the waist in an almost regal greeting toward Soandso. 'Good day to you , traveler, and may Tunare's gracious hand guide your fate with freedom.  I am Warder Elwysaie, a soldier and guardian of nature in my life upon Norrath. Here, I am a soldier still but one of faith and knowledge. I set my blades down long ago, and though I understand most gravely that the shadow of corruption that threatens this delicate and necessary balance still looms most deadly over us, I was no longer able to be nature's wrath adn vengeance. It was then that I heard the calling of New Tanaan and eagerly I followed to this place of neutrality. In the recent times where Norrath's travelers who have yet to appeal to the Plane of Knowledge grace us as visitors and students of our ways, I have volunteered my former status and knowledge to any young ranger who may need guidance in their skills as they grow in power.*
 
 end
+
+
 
 ## Turn-Ins
 

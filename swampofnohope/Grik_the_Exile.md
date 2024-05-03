@@ -1,4 +1,6 @@
 # Grik the Exile
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +40,8 @@
 
 >**Grik the Exile says:** She will be near one of our ancient statues along the coast. You need only hand her the implant for her to activate it. Once he is away from the guards you will have your chance. Bring me Streaven's Head and 3 rubies and you will have your reference for the Arcut. Remember that your perseverance is your greatest virtue and will carry you to victory always.
 end
+
+
 
 ## Turn-Ins
 

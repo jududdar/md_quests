@@ -1,6 +1,8 @@
 # Arch Mage Narik
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -35,6 +37,8 @@ e.self:DoAnim(48);
 
 >*Arch Mage Narik slams his book shut. 'So, the snake has legs after all! Tell Onirelin if he wants this back, he can come here himself and kiss my. . ., no wait. I have a better idea.' He draws closer and whispers, 'Did Onirelin tell you why I took this jewel? I did it in response to him taking my lady love, Elisha Dirtyshoes. We were to be married until she ran off with him. However, she also ran off with my engagement ring I gave to her. It is quite valuable to me, and I would be most happy to have it back. If you can procure it from her, I'll give Onirelin his jewel back. He's suffered long enough, I think.'*
 end
+
+
 
 ## Turn-Ins
 

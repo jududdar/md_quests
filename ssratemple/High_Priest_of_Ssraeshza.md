@@ -3,6 +3,8 @@
 
 local ADD_TYPES = { 162115, 162112, 162114, 162113, 162121, 162119, 162122, 162120, 162118, 162116, 162117, 162111 };
 
+
+
 ## Combat
 
 if  High Priest of Ssraeshza enters combat  then
@@ -15,6 +17,8 @@ else
 
 **Stop timer** named *check*
 end
+
+
 
 ## Timer(s)
 

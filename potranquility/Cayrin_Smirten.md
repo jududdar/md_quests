@@ -1,9 +1,13 @@
 # Cayrin Smirten
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);
 
 eq.set_timer("inifish",math.random(32000));
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -12,6 +16,8 @@ eq.set_timer("inifish",math.random(32000));
 
 >**Cayrin Smirten says:** Aye, can I help you with something? I'm trying to concentrate on my fishing, so if you don't mind...
 end
+
+
 
 ## Timer(s)
 

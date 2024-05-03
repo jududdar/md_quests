@@ -1,4 +1,6 @@
 # Dalorio Blistbobble
+
+
 ## Dialog 
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -156,6 +158,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Dalorio Blistbobble says:** I knew I could count on you young Soandso. As each day goes by more and more bloodthirsty orcs set up camp in the thicket. They are working together with the goblins of Runnyeye through some twisted alliance brought forth by Lord Pickclaw to mount an attack on Rivervale. I strongly feel that this attack may be more then we can handle. If we are able to find out how they plan to attack us we can make sure that their plan will not be carried out. Once you have obtained 4 pages of war documents from these monsters return them to me and I will reward you greatly for your efforts.
 
 end
+
+
 
 ## Turn-Ins
 

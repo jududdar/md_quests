@@ -1,7 +1,11 @@
 # Ooga
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@
 
 >**Ooga says:** Oh! Now yuz got In da big mojo, me had big hard time wit dis one. Me got In lot of trouble when me got Efreeti War Maul, Thickened Nectar, Fire Sky Ruby an Symbol Of Veeshan. Yuz giv to me, Me be easy on yuz an giv prize me got.
 end
+
+
 
 ## Turn-Ins
 
@@ -75,6 +81,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Ooga despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

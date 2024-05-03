@@ -5,6 +5,8 @@ local AWISANO_SPAWNID = 369492;
 local SPAWNIDS = { 369438, 369439, 369440, 369441 };
 
 
+
+
 ## On NPC Spawn
 
 for _, id in ipairs(SPAWNIDS) do
@@ -15,6 +17,8 @@ eq.update_spawn_timer(id, 1000);
 eq.depop_with_timer(AWISANO_TYPE);
 
 eq.update_spawn_timer(INVIS_MAN_ID, 1000);
+
+
 ## On NPC Death
 
 

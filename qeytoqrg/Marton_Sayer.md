@@ -1,4 +1,6 @@
 # Marton Sayer
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -79,6 +81,8 @@ else
 >**Marton Sayer says:** You speak of my son, Joseph Sayer. He is but an infant and is safe here with Mira and me... At least, I believe he is.
 
 end
+
+
 
 ## Turn-Ins
 

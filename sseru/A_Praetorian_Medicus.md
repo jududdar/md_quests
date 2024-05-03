@@ -1,4 +1,6 @@
 # A Praetorian Medicus
+
+
 ## Dialog
 
 **You say:** `hail`

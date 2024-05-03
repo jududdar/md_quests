@@ -1,4 +1,6 @@
 # Incantator Firefall
+
+
 ## Dialog
 
 **You say:** `hail`

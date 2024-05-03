@@ -1,4 +1,6 @@
 # Boluen Areden
+
+
 ## Dialog
 
 **You say:** `hail`

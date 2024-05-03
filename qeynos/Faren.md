@@ -1,10 +1,16 @@
 # Faren
+
+
 ## On NPC Spawn
 
 **Set a timer** named *fishing* for 300 seconds
+
+
 ## Timer(s)
 
 >**Faren says:** Whoo!!! I think I got a [bite]! Darn.. Seaweed.
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -60,6 +66,8 @@
 >**Faren says:** The Circle of the Unseen Hand?  I have heard nothing of them.  Are they some sort of performing magic troupe?
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -70,6 +78,8 @@ if(e.signal == 1) then
 
 **Signaled to:**  [Guard Beren](/npc/1090)
 end
+
+
 
 ## Turn-Ins
 

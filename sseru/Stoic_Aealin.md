@@ -1,4 +1,6 @@
 # Stoic Aealin
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Nomsoe Jusagta
+
+
 ## Dialog
 
 **You say:** `hail`

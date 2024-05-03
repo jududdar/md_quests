@@ -1,4 +1,6 @@
 # Harold the Herald
+
+
 ## Dialog
 
 **You say:** `hail`

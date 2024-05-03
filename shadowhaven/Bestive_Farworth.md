@@ -1,4 +1,6 @@
 # Bestive Farworth
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Bestive Farworth says:** You're interested in it?  Great!  I made this beetle box from the undamaged carapace of a Rhino Beetle. It was sold to me for a very fair price in the Bazaar. Should you discover one of these pristine, undamaged carapaces, bring it to me along with 10 gold and I will make you one of your own.
 end
+
+
 
 ## Turn-Ins
 

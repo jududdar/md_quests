@@ -1,4 +1,6 @@
 # Sergeant Gerrin Bakeside
+
+
 ## Dialog
 
 
@@ -26,6 +28,8 @@
 
 >**Sergeant Gerrin Bakeside says:** Yes, we go where the Hand of Honor points us.  Live or die, to serve is an honor.  We do not fear our own demise, everyone dies, the men of Ducee Lealson die with honor.
 end
+
+
 
 ## Signals
 

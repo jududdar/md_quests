@@ -1,6 +1,8 @@
 # Normon Stonetooth
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
 
 >**Normon Stonetooth says:** If ye gots brains ye kin probably figure the Stonetooth clan were a family o' miners. I been down 'ere so long though, I can't rightly remember if they be aroun' anymore, aside from me that is. Oh well, I don't care much really, I got me rocks.
 end
+
+
 
 ## Turn-Ins
 

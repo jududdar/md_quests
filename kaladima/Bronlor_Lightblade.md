@@ -1,4 +1,6 @@
 # Bronlor Lightblade
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -71,6 +73,8 @@
 
 >**Bronlor Lightblade says:** Oh yes of course. Taldriks favorites if I can remembur correctly be Elven wine, Freeport stout, and of course Dwarven ale! Bring these drinks to him with your note and after ye tell him you are sent from muh to continue your training im shure he will warm up to ye fer sure.
 end
+
+
 
 ## Turn-Ins
 

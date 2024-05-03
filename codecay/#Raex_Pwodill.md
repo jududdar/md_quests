@@ -1,10 +1,16 @@
 # Raex Pwodill
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 9900 seconds
+
+
 ## Timer(s)
 
 **Raex Pwodill despawns.**
+
+
 ## Combat
 
 if  Raex Pwodill enters combat  then
@@ -17,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

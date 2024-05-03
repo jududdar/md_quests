@@ -1,4 +1,6 @@
 # Bryn Fynndel
+
+
 ## Dialog
 
 **You say:** `morin sent me`
@@ -13,6 +15,8 @@
 
 >**Bryn Fynndel says:** The shadowed men have recently begun to appear, with vile purposes unknown to us.  Their leader wanders these woods with a contingent of guards.  Bring us his code book, and we may learn more of their plans.
 end
+
+
 
 ## Turn-Ins
 

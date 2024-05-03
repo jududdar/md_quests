@@ -1,4 +1,6 @@
 # Solsain Paslinor
+
+
 ## Dialog
 
 **You say:** `hail`

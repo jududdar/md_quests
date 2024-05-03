@@ -8,6 +8,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@
 
 >**Linaya Sowlin says:** I inherited this farmhouse from my late uncle so I left the Jaggedpine to live here.  The Jaggedpine is a beautiful forest but I believe my skills as a druid may come in handy as a farmer.
 end
+
+
 
 ## Turn-Ins
 

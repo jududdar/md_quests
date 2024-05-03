@@ -1,4 +1,6 @@
 # Klok Ephmir
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -35,6 +37,8 @@
 
 >*Klok Ephmir turns pale at the mention of the Outlander. 'The Outlander!! That is what the lizards in the Tink N' Babble have dubbed him!! He is tall and strong. Get close enough and he will kill you on sight!! I think he could even defeat the likes of Bruiser Noz!! I spotted him near the edge of the swamps. He was headed toward the fields of Firiona.'*
 end
+
+
 
 ## Turn-Ins
 

@@ -64,6 +64,8 @@ local RESPONSES = {
 "",
 };
 
+
+
 ## Timer(s)
 
 
@@ -125,6 +127,8 @@ eq.stop_timer(e.timer);
 
 
 end
+
+
 
 ## Dialog
 

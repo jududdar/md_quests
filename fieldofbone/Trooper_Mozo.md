@@ -1,4 +1,6 @@
 # Trooper Mozo
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 
 >**Trooper Mozo says:** You kill skeletons?!! I think not!! They will bounce you with no trouble at all. Ten silvers says you cannot collect four bone chips!! When Velious melts!! Hah!
 end
+
+
 
 ## Turn-Ins
 

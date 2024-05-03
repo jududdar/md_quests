@@ -1,9 +1,13 @@
 # Captain Koldar
 
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *koldar* for 150 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -60,6 +64,8 @@ count = 0;
 **Set a timer** named *koldar* for 150 seconds
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -74,6 +80,8 @@ end
 
 >**Captain Koldar says:** Then why are you standing around! Can't you see the invading forces of the Shak Dratha approach our town? Destroy them and bring me four of their bloody hearts as proof of your deed. Snap to it!
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Legionnaire Hyuni
+
+
 ## Dialog
 
 **You say:** `hail`

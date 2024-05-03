@@ -1,6 +1,8 @@
 # Sirtha Scarscale
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -45,6 +47,8 @@
 
 >**Sirtha Scarscale says:** The hideous Golra are hardy creatures. The tales indicate their ferocity almost matches our own. I wish to gain a trophy of one of these beasts. Bring me the skin of one, two blue sapphires, and banded sleeves. Then I shall give you these fine vambraces.
 end
+
+
 
 ## Turn-Ins
 

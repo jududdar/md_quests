@@ -1,4 +1,6 @@
 # Nal McMarrin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Nal McMarrin says:** The vermin you speak of come from the den of Blackburrow. It is your duty to remove them from the Peaks of Everfrost.
 end
+
+
 
 ## Turn-Ins
 

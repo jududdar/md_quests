@@ -1,4 +1,6 @@
 # Barkeep Veronica
+
+
 ## Dialog
 
 **You say:** `hail`

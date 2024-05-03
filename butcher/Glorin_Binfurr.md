@@ -1,4 +1,6 @@
 # Glorin Binfurr
+
+
 ## Dialog
 
 **You say:** `Hail`

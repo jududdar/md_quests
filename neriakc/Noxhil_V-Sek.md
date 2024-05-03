@@ -1,4 +1,6 @@
 # Noxhil V-Sek
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -89,6 +91,8 @@ else
 
 >**Noxhil V-Sek says:** I hear that wooly mammoths can be found in the peaks of Everfrost. They are fierce beasts. I would hate to annoy one.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # a ferocious kobold
+
+
 ## Dialog
 
 **You say:** `hail`

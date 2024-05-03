@@ -1,7 +1,11 @@
 # a swarming beetle
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds
+
+
 ## Combat
 
 if a swarming beetle enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

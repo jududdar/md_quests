@@ -1,4 +1,6 @@
 # Trooper Lunmiz
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,12 +1,18 @@
 # Kinlo Strongarm
 
 
+
+
 ## On NPC Spawn
 
 eq.set_timer("chant",math.random(1800000,2700000));
+
+
 ## Timer(s)
 
 >**Kinlo Strongarm says:** Mud, rock, crystals, gems, metal. Arrrrrr!
+
+
 ## Dialog
 
 if( **Faction is** > Apprehensive) then
@@ -81,6 +87,8 @@ else
 
 >*Kinlo Strongarm will not speak to you.*
 end
+
+
 
 ## Turn-Ins
 

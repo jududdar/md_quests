@@ -1,4 +1,6 @@
 # A Mystic Voice 
+
+
 ## Signals
 
 if(e.signal == 20) then

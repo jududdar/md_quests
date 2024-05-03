@@ -1,4 +1,6 @@
 # Trooper Eglo
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,4 +1,6 @@
 # Dayle Jornin
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 4) then
@@ -9,6 +11,8 @@ if(e.wp == 4) then
 
 **Signaled to:**  [Euboea Delewyn](/npc/69022)
 end
+
+
 
 ## Signals
 

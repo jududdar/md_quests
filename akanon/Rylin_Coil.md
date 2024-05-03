@@ -1,4 +1,6 @@
 # Rylin Coil
+
+
 ## Dialog
 
 **You say:** `hail`

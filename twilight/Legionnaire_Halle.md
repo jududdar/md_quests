@@ -1,4 +1,6 @@
 # Legionnaire Halle
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

@@ -1,4 +1,6 @@
 # Azzar Habbib
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Azzar Habbib says:** It is a marvelous cap sewn from the finest textiles and imbued with the divine power of our lord of fear. Cazic Thule!
 end
+
+
 
 ## Turn-Ins
 

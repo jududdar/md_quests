@@ -1,5 +1,7 @@
 # Jondin
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -36,6 +38,8 @@
 
 >**Jondin says:** I should tell you. I do not need the bone chips.  I need bone granite powder.  In order to get it. you must find some granite pebbles and then three piles of bone chips from decaying skeletons.  After you gather the items you will have to use your skill in alchemy to combine the items and create bone granite powder.  The powder is what I need.
 end
+
+
 
 ## Turn-Ins
 

@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -78,6 +80,8 @@
 
 >**Master Barkhem says:** Rakutah of the Taruun had asked if I would make a few pairs of boots for his new recruits, but alas I have not had the time. If you think you are ready for the job, make up a pair and show them to him. I have every bit of faith in you, Soandso.
 end
+
+
 
 ## Turn-Ins
 

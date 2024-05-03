@@ -1,4 +1,6 @@
 # Anson McBale
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -87,6 +89,8 @@ else
 
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -114,6 +118,8 @@ elseif(e.signal == 2) then
 
 **Signaled to:**  [Stanos Herkanor](/npc/5088)
 end
+
+
 
 ## Turn-Ins
 

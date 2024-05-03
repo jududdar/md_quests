@@ -1,7 +1,11 @@
 # Lookout Uhingil
+
+
 ## Signals
 
 >**Lookout Uhingil says:** Thank ye General, it's an honor to be part of such a great brigade.
+
+
 ## Dialog
 
 **You say:** `hail`

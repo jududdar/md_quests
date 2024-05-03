@@ -3,6 +3,8 @@
 local brief;
 local name;
 
+
+
 ## Turn-Ins
 
 
@@ -44,6 +46,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 
@@ -99,6 +103,8 @@ eq.start(4);
 **Stop timer** named *brief*
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -137,6 +143,8 @@ elseif(e.wp == 3) then
 
 **Signaled to:**  [\#Theodore Exanthem](/npc/14146)
 end
+
+
 
 ## Signals
 

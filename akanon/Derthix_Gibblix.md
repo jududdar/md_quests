@@ -1,6 +1,8 @@
 # Derthix Gibblix
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Derthix Gibblix says:** We faithful of Bertoxxulous are misunderstood even by the majority of the gnomes of Ak'Akanon. The Eldrich Collective and the Deep Muses would have us chased from the Mines of Malfunction and exiled from these lands. They are not gifted with the vision of the Dark Reflection and thus are blind to the necessity of our actions. In the Steamfont Mountains you will find a Cleric of the Deep Muses, Vyntok Bonkle. Vyntok has been aiding others of our enemies in their mission to eliminate the Dark Reflection from Ak'Anon. Find Vyntok and slay him. When you have accomplished this task return to me with Vyntok's Mace.
 end
+
+
 
 ## Turn-Ins
 

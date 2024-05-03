@@ -1,6 +1,8 @@
 # Urako
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -95,6 +97,8 @@ else
 
 >**Urako says:** Kaglari catch many humans.  He pull spirit from dem and force into dolls.  Now deir spirit give shaman extra mana.  Dey good power source.  Now humans good for someting.  Da mana dolls only for shaman power.
 end
+
+
 
 ## Turn-Ins
 

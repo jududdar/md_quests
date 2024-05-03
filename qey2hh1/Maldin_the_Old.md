@@ -1,4 +1,6 @@
 # Maldin the Old
+
+
 ## Dialog
 
 **You say:** `follower of karana`
@@ -19,6 +21,8 @@
 
 >**Maldin the Old says:** The Karana bandits are rogues who operate in the plains. I have heard there are bounties for the bandits. Within the Temple of Thunder in Qeynos, Cleric Gehna offers one for bandit spectacles and Paladin Chesgard offers one for bandit sashes.
 end
+
+
 
 ## Turn-Ins
 

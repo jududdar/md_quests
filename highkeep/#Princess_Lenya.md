@@ -1,7 +1,11 @@
 # Princess Lenya
+
+
 ## On NPC Spawn
 
 **Set a timer** named *visit* for 150 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "visit") then
@@ -9,6 +13,8 @@ if(e.timer == "visit") then
 
 **Princess Lenya despawns.**
 end
+
+
 
 ## Dialog
 
@@ -18,6 +24,8 @@ end
 
 >**Princess Lenya says:** Greetings. You may rise. I am sure that you are honored to make my acquaintance. I am Princess Lenya Thex. It is not often that I speak with common folk.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Plur Etinu
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Plur Etinu says:** If it is the power of the passion you require to bind your wounds, then lay down your tribute of 10 gold.
 end
+
+
 
 ## Turn-Ins
 

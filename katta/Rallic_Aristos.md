@@ -1,6 +1,8 @@
 # Rallic Aristos
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@
 
 >**Rallic Aristos says:** The rest of the materials are a pelt from an owlbear of the highest quality, a silk cord made from shades, and a silk thread also made from shades.
 end
+
+
 
 ## Turn-Ins
 

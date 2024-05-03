@@ -1,4 +1,6 @@
 # Hymnist Omiyad
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >*Hymnist Omiyad glances toward the fire. 'I see the fire is dying down some. Should you come across the remains of the Loda Kai bring them to me to keep the ritual fire burning. Bring plenty though, four if you can.'*
 end
+
+
 
 ## Turn-Ins
 

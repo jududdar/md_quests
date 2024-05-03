@@ -152,6 +152,8 @@ elseif ( door_id < 52 or door_id == 62 ) then
 
 eq.signal(POTIMEB_CONTROLLER_TYPE, 4, 0, door_id..";"..e.self:CharacterID());
 
+
+
 ## Dialog
 
 if ( e.self:GetGM() ) then

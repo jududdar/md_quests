@@ -1,4 +1,6 @@
 # Brumen Firehammer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Brumen Firehammer says:** Who is this Velketor!  All I know is the bear will eat me if I sleep, so I will never sleep!
 end
+
+
 
 ## Signals
 

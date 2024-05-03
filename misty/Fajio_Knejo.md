@@ -1,4 +1,6 @@
 # Fajio Knejo
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Fajio Knejo says:** Greetings, Soandso.  I hope you are having a fine day.
 end
+
+
 
 ## Turn-Ins
 

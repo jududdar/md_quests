@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -22,6 +24,8 @@
 
 >**Pazin Punox says:** An old student of mine who goes by the name Lon has disgraced this House; his betrayal to Innoruuk and Neriak is unforgivable.' Pazin grins 'He must be punished through deceit and trickery. Make him your friend, do as he asks, and pretend to be Redeemed as he calls it. Once you are Redeemed take the cursed blade of Ro and run it through his heart. Bring me his rapier and his head and I shall know the task is complete.
 end
+
+
 
 ## Turn-Ins
 

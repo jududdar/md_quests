@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -30,6 +32,8 @@ e.self:DoAnim(39);
 >**gem cutter skeleton says:** Yes, dufrenite! Find me a dufrenite to replace the one you made me break. Now go!
 end
 
+
+
 ## Turn-Ins
 
 
@@ -56,6 +60,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 **Set a timer** named *cutting* for 4 seconds
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Sentinel Nolbain
+
+
 ## Dialog
 
 **You say:** `kerra isle`

@@ -1,4 +1,6 @@
 # Vin Moltor
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@
 >**Vin Moltor says:** My father was a drunk and a loser just like me.  He traveled all of Antonica, though.  He even went to Odus once or twice, I think.  He died a long time ago.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -50,6 +54,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

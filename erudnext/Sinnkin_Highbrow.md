@@ -1,4 +1,6 @@
 # Sinnkin Highbrow
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +30,8 @@
 
 **Sinnkin Highbrow attacks you.**
 end
+
+
 
 ## Turn-Ins
 

@@ -1,10 +1,16 @@
 # a fungi shroom
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 95 seconds
+
+
 ## Timer(s)
 
 **a fungi shroom despawns.**
+
+
 ## Combat
 
 if a fungi shroom enters combat  then

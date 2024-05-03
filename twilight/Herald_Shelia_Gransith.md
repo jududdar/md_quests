@@ -1,4 +1,6 @@
 # Herald Shelia Gransith
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -67,6 +69,8 @@
 
 >**Herald Shelia Gransith says:** For the helm you must bring me a meteor jewel, a mark of rhythm, a ruby studded medal, and a fancy necklace.
 end
+
+
 
 ## Turn-Ins
 

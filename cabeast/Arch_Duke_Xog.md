@@ -1,4 +1,6 @@
 # Arch Duke Xog
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -51,6 +53,8 @@
 
 >**Arch Duke Xog says:** Learning Righteousness is learning to listen to one's own heart. At all times our Lord of Fear speaks to us. Our heart is through which he speaks. If we are pure in action and undistracted in mind we can hear the very words of our Father. Your test will be to find our lost Crusader. When you find him you must listen, and act based on what you hear. If your actions are Righteous, I will give you my reference. Bring me proof of your action and two sapphires.
 end
+
+
 
 ## Turn-Ins
 

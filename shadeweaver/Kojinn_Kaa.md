@@ -1,5 +1,7 @@
 # Kojinn Kaa
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@
 
 >**Kojinn Kaa says:** Many have come before me and made such claims. Your fervor is appreciated, but I require proof that you are a hero whose heart is with us before I can entrust you with such a sacred mission. Have you something to show that you have earned our trust?
 end
+
+
 
 ## Turn-Ins
 

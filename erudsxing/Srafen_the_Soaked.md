@@ -1,11 +1,15 @@
 # Srafen the Soaked
 local counting;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *DillonSpawn* for 170 seconds
 
 counting = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -48,6 +52,8 @@ counting = 0;
 **Signaled to:**  [Dillon the Drowned](/npc/98051)
 end
 
+
+
 ## Signals
 
 if(e.signal == 0) then
@@ -60,6 +66,8 @@ elseif(e.signal == 1) then
 
 >*Srafen the Soaked looks around frantically a moment then laughs and says, 'Ohhh, them! Hehehe! This is a friend of mine come to wait with us. Isn't that exciting, Dillon? And it's not just an illusion, I don't think! Say, are you [an illusion], shaman?*
 end
+
+
 
 ## Timer(s)
 

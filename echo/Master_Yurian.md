@@ -1,4 +1,6 @@
 # Master Yurian
+
+
 ## Dialog
 
 **You say:** `hail`

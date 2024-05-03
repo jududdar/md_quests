@@ -1,9 +1,13 @@
 # Sage Xelrin
 local continue;
 
+
+
 ## On NPC Spawn
 
 continue = 0;
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -44,6 +48,8 @@ continue = 0;
 >**Sage Xelrin says:** chuckles. 'Well my associates are working on their own theories for the creation of new magic.  I am sure that their projects are no where near advanced as mine. but even their primitive research could prove a boon in my own work.  If you happen to come across any of their research feel free to show it to my assistants. they will know the best manner in which to process it.  Bring reseach from Balic to Bolcen. and Gunyth's research to Acomar.  Thank you for your assistance.'
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "cont") then
@@ -54,6 +60,8 @@ if(e.timer == "cont") then
 
 continue = 0;
 end
+
+
 
 ## Turn-Ins
 

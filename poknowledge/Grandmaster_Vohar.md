@@ -1,5 +1,7 @@
 # Grandmaster Vohar
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 e.self:Emote("sneers coldly, his face contorting into a wretched, gruesome stare of hate. His eyes fill with an untamed, feral bloodlust as his low, hissing voice begins to seep from his throat. 'You stand within the district of Kartis 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,5 +1,7 @@
 # Sorcerer Dogan
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 e.self:Emote("sneers darkly, revealing a row of unmanaged teeth beneath his grim visage. 'You travel too leniently, child of the light. Return to Selia, for you will find no welcoming here 
 end
+
+
 
 ## Turn-Ins
 

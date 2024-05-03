@@ -1,4 +1,6 @@
 # Guard Bribbely
+
+
 ## Dialog
 
 **You say:** `nadox`
@@ -7,6 +9,8 @@
 
 >**Guard Bribbely says:** How am I supposed to know? Sounds like some darn troll lair. You're the adventurer, why don't you go investigate it. I will stay here to look for more clues.
 end
+
+
 
 
 

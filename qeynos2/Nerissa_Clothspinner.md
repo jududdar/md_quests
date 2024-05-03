@@ -1,4 +1,6 @@
 # Nerissa Clothspinner
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 17) then
@@ -21,6 +23,8 @@ elseif(e.wp == 43) then
 
 >**Nerissa Clothspinner says:** Bartender! Some water, please.
 end
+
+
 
 ## Dialog
 
@@ -135,6 +139,8 @@ else
 
 
 end
+
+
 
 ## Turn-Ins
 

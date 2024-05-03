@@ -1,4 +1,6 @@
 # Guard Slacey
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,9 +28,13 @@ eq.get_entity_list():GetMobByNpcTypeID( [Guard Evercold](/npc/121026)):Say("Now 
 
 end
 
+
+
 ## Signals
 
 >*Guard Slacey blushes. Be nice Evercold.*
+
+
 ## Turn-Ins
 
 

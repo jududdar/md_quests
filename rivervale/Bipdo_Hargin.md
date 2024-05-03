@@ -1,4 +1,6 @@
 # Bipdo Hargin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -83,6 +85,8 @@
 
 >**Bipdo Hargin says:** To make silk thread, take 2 spiderling silks and combine them together in a loom or in your handy sewing kit.
 end
+
+
 
 ## Turn-Ins
 

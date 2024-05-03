@@ -1,4 +1,6 @@
 # Bolli Hillfoot
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Bolli Hillfoot says:** If you want the Vambraces of Concealment go gather for me a moon jewel, a mark of robbery, an engraved emerald statuette, and a half melted blade.
 end
+
+
 
 ## Turn-Ins
 

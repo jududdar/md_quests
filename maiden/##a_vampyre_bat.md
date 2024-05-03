@@ -1,7 +1,11 @@
 # a vampyre bat
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 140 seconds
+
+
 ## Combat
 
 if a vampyre bat enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

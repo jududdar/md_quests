@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -77,6 +79,8 @@ e.self:Say("Hail. I am Shakrn Meadowgreen, Warrior extraordinaire and Master Arm
 
 >**Shakrn Meadowgreen says:** I need a sapphire for a piece of jewelry my brother and I are creating
 end
+
+
 
 ## Turn-Ins
 

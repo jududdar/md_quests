@@ -1,4 +1,6 @@
 # Groal Ealdin
+
+
 ## Dialog
 
 **You say:** `hail`

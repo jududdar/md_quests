@@ -1,4 +1,6 @@
 # Armorer Dellin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Armorer Dellin says:** Hail!! If you be a new reserve member then show me your Militia Armory Token. If you are not yet initiated then I suggest you head to the Toll Gate in the Commonlands and speak with Guard Valon.
 end
+
+
 
 ## Turn-Ins
 

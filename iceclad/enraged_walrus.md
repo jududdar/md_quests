@@ -1,4 +1,6 @@
 # enraged walrus
+
+
 ## On NPC Death
 
 **Despawn NPC:**  [\#Snowfang fisher](/npc/110013)

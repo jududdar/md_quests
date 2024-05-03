@@ -1,4 +1,6 @@
 # Sentinel Bvakkren
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Palatos Kynarn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Palatos Kynarn says:** You have the portrait! Give it to me... <Hic!> Danaria will not get it...
 end
+
+
 
 ## Turn-Ins
 

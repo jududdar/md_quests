@@ -1,4 +1,6 @@
 # Evil emanates
+
+
 ## Combat
 
 if Evil emanates enters combat  then

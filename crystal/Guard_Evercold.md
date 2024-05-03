@@ -1,4 +1,6 @@
 # Guard Evercold
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +12,8 @@
 
 **Signaled to:**  [Guard Slacey](/npc/121027)
 end
+
+
 
 ## Turn-Ins
 

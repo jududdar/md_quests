@@ -1,6 +1,8 @@
 # a nest
 local bug = 0;
 
+
+
 ## Combat
 
 if a nest enters combat  then

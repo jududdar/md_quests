@@ -1,4 +1,6 @@
 # Valdicar Shadowfrost
+
+
 ## Dialog
 
 **You say:** `hail`

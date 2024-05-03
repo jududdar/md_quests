@@ -1,4 +1,6 @@
 # Lookout Belorop
+
+
 ## Dialog
 
 **You say:** `hail`

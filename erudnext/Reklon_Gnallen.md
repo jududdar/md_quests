@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -72,6 +74,8 @@
 
 >**Reklon Gnallen says:** Only this crest and the sacrifice of something that symbolizes your strength and purity will release his spirit into the cleansing flames of our lady Quellious. Go now.
 end
+
+
 
 ## Turn-Ins
 

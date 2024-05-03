@@ -1,4 +1,6 @@
 # Altunic Jartin
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then
@@ -11,6 +13,8 @@ elseif(e.wp == 3) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Dialog
 
@@ -32,6 +36,8 @@ eq.move_to(4791.06,-83.55,-51.47);
 
 **Spawn NPC:**  [Squire Narl](/npc/22196) at (**y:** -105.49, **x:** 4707.63)
 end
+
+
 
 ## Turn-Ins
 

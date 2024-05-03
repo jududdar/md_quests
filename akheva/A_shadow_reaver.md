@@ -1,7 +1,11 @@
 # A shadow reaver
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 75 seconds
+
+
 ## Combat
 
 if A shadow reaver enters combat  then
@@ -19,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

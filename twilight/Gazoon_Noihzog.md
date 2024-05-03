@@ -1,4 +1,6 @@
 # Gazoon Noihzog
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -73,6 +75,8 @@
 
 >**Gazoon Noihzog says:** For the sleeves you'll have to fetch me a sun jewel, a mark of implosion, some grub worm guts, and a fiery heart.
 end
+
+
 
 ## Turn-Ins
 

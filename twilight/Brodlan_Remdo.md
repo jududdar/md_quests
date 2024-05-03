@@ -1,4 +1,6 @@
 # Brodlan Remdo
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -67,6 +69,8 @@
 
 >**Brodlan Remdo says:** For the darkened knight's boots fetch me a moon jewel. a mark of horror. and a fanged talisman.
 end
+
+
 
 ## Turn-Ins
 

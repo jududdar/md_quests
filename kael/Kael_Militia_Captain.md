@@ -1,4 +1,6 @@
 # Kael Militia Captain
+
+
 ## Dialog
 
 **You say:** `hail`

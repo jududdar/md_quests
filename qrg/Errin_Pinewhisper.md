@@ -1,4 +1,6 @@
 # Errin Pinewhisper
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -132,6 +134,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Errin Pinewhisper says:** A poacher was recently discovered hunting the bears in Surefall Glade and Qeynos Hills. This poacher has been identified as Yollis Jenkin and it appears that he has fled to Western Plains of Karana to escape retribution by the Jaggedpine Treefolk for his murders. Find Yollis Jenkin and tell him the Jaggedpine Treefolk sent you. He is wanted dead or alive so if he resists capture then bring me his head.
 
 end
+
+
 
 ## Turn-Ins
 

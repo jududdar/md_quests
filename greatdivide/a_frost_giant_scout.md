@@ -1,4 +1,6 @@
 # a frost giant scout
+
+
 ## Dialog
 
 **You say:** `hail`

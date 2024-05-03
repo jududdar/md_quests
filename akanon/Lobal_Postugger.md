@@ -1,6 +1,8 @@
 # Lobal Postugger
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,6 +23,8 @@
 
 >**Lobal Postugger says:** Fantastic! If you combine Rage of Incapacitation, Wasted Flesh and Dreams of Drusella within a coffin bottle you can make me a nice bundle of poisons to play with. Then I will have no need for the sketch.
 end
+
+
 
 ## Turn-Ins
 

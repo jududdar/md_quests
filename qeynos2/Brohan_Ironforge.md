@@ -1,4 +1,6 @@
 # Brohan Ironforge
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -58,6 +60,8 @@
 >**Brohan Ironforge says:** That man Ton Firepride is quite the braggart. He believes he's the finest of all blacksmiths.
 
 end
+
+
 
 ## Turn-Ins
 

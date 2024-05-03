@@ -1,4 +1,6 @@
 # Hanns Krieghor
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -34,6 +36,8 @@ elseif(e.signal == 4) then
 **Signaled to:**  [Renux Herkanor](/npc/2033)
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -63,6 +67,8 @@ end
 
 e.self:DoAnim(60); 
 end
+
+
 
 ## Turn-Ins
 

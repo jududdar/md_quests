@@ -1,4 +1,6 @@
 # Klok Ixmid
+
+
 ## Dialog
 
 **You say:** `Hail`

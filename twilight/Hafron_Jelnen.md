@@ -1,4 +1,6 @@
 # Hafron Jelnen
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Hafron Jelnen says:** To get the vambraces you must fetch for me a sky jewel, a mark of prophecy, a polished stone fetish, and a woven anklet.
 end
+
+
 
 ## Turn-Ins
 

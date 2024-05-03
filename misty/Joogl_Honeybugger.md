@@ -1,4 +1,6 @@
 # Joogl Honeybugger
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +30,8 @@
 
 >**Joogl Honeybugger says:** I was attacked by the bixies. They swarmed on me!! I think I got too near their queen. I need that honey to make a living! Get me a bandage and I will tell you where all their worker bees buzz around.
 end
+
+
 
 ## Turn-Ins
 

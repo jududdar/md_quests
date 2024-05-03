@@ -1,4 +1,6 @@
 # Menkes Tabolet
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -184,6 +186,8 @@ else
 
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 6) then
@@ -219,6 +223,8 @@ elseif(e.wp == 27) then
 
 
 >**Menkes Tabolet says:** Menkes' discount fashions and jewelry, now open for business.. custom made hats, to fit any size head.
+
+
 
 
 ## Turn-Ins

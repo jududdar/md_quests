@@ -1,7 +1,11 @@
 # Apprentice of Saxuus
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -46,6 +50,8 @@ e.self:SetRunning(true);
 
 >**Apprentice of Saxuus says:** Well, when Jaggedpine was sealed a few of its original denizens chose to stay there.  There is still a small colony.  Recently, the gnolls of Blackburrow managed to penetrate the seal protecting Jaggedpine.  Lord Antonious has agreed to allow access to Jaggedpine as to better protect those that are living there.
 end
+
+
 
 ## Arrive at Waypoint Script
 

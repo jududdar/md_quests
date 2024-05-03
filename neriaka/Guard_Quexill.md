@@ -1,4 +1,6 @@
 # Guard Quexill
+
+
 ## Dialog
 
 **You say:** `supplies`

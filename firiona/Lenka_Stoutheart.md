@@ -1,4 +1,6 @@
 # Lenka Stoutheart
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -41,6 +43,8 @@ eq.set_timer("hobble",math.random(900000,1800000));
 >**Lenka Stoutheart says:** The trackers of Firiona Vie have come back with reports that the Iksar are back in force and have a city somewhere in the heart of Kunark. There goes the neighborhood...again.
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "hobble") then
@@ -51,6 +55,8 @@ if(e.timer == "hobble") then
 
 **Stop timer** named *hobble*
 end
+
+
 
 ## Signals
 
@@ -64,6 +70,8 @@ elseif(e.signal == 2) then
 
 >**Lenka Stoutheart says:** I hear they sell the stuff in only two places. Lizardtown and Neriak. Hmmm. Now, why is that?
 end
+
+
 
 ## Turn-Ins
 

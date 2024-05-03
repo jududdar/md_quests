@@ -1,4 +1,6 @@
 # Cappi McTarnigal
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -29,6 +31,8 @@ else
 >**Cappi McTarnigal says:** I will take these as a donation for I can only reward those who are 'respectable.
 
 end
+
+
 
 ## Turn-Ins
 

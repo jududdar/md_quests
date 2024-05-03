@@ -1,7 +1,11 @@
 # Tolon Nurbyte
+
+
 ## On NPC Spawn
 
 **Set a timer** named *visit* for 150 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "visit") then
@@ -9,6 +13,8 @@ if(e.timer == "visit") then
 
 **Tolon Nurbyte despawns.**
 end
+
+
 
 ## Dialog
 
@@ -118,6 +124,8 @@ else
 >**Tolon Nurbyte says:** When you have furthered your service to the Paladins of Tunare, we shall make conversation.
 
 end
+
+
 
 ## Turn-Ins
 

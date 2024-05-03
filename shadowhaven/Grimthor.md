@@ -1,4 +1,6 @@
 # Grimthor
+
+
 ## Dialog
 
 **You say:** `hail`

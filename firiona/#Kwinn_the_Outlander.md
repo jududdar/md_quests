@@ -1,4 +1,6 @@
 # Kwinn the Outlander
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_691.png" alt="" /> <a
                                 href="/item/17038" data-url="17038" class="tooltip-link link">Empty Pack from Kwinn</a>
 end
+
+
 
 ## Turn-Ins
 

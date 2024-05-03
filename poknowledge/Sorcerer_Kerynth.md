@@ -1,5 +1,7 @@
 # Sorcerer Kerynth
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -28,6 +30,8 @@ e.self:DoAnim(48);
 e.self:Emote("gives a deep nod of his head in formal and polite recognition of Soandso before him. 'Greetings, traveler, and welcome to the district of Tanaan. In light of your presence among us, we have gathered our knowledge and memories of lives past upon Norrath in hopes that our experiences would benefit you in the present. Do not hesitate to approach all citizens of this district, for we are equally fair and willing to grant you the aid that is within our individual power to provide. In my own personal experience upon Norrath, I was a wizard of some power 
 
 end
+
+
 
 ## Turn-Ins
 

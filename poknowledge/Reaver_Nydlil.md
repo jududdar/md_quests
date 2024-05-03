@@ -1,6 +1,8 @@
 # Reaver Nydlil
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -12,6 +14,8 @@
 
 >**Reaver Nydlil says:** Welcome to New Tanaan, and stand before us as enemies not, but as equals. Your mind should be open to us, for we wish only to guide you where we have been led in our years beyond Norrath. If you are a knight of the shadows, then perhaps I may be of service in guiding you further to power. The adepts of New Tanaan, the scholars, have come forward and penned spells of our former lives in memory. We wish to share this knowledge with you without bias or judgment. There is more beyond the mortal limits of magic that I can aid you to attain should you wield the blade of the shadow. If you happen across a seemingly mundane arcane item of incorporeal material, do not discard it. Return it to me and I shall carve for you from its essence a most powerful spell conceived in the divine realms of pure magic.
 end
+
+
 
 ## Turn-Ins
 

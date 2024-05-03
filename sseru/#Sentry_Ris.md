@@ -1,4 +1,6 @@
 # Sentry Ris
+
+
 ## Dialog
 
 **You say:** `hail`

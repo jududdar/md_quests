@@ -1,4 +1,6 @@
 # Galren Fuzzytoes
+
+
 ## Dialog
 
 **You say:** `hail`

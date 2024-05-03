@@ -1,5 +1,7 @@
 # Crusader Vragor
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Crusader Vragor says:** I will tell you but you must help me first. I have been tied to this plane because of deeds unfinished. I was questing for the stupendous tome for ages to no avail. Without this tome I can not pass on in peace. Finish my quest, bring me the stupendous tome and a crusader coffin. I will tell you where the beast rests before I pass on. I doubt you can finish this, but I can always hope.
 end
+
+
 
 ## Turn-Ins
 

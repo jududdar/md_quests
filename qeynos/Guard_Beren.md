@@ -1,4 +1,6 @@
 # Guard Beren
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -132,6 +134,8 @@
 >**Guard Beren says:** What was that you said? You mentioned the Sabertooths of Blackburrow? Those gnolls have caused this city trouble harm for too long. We have yet to force them from Qeynos Hills. I hear rumors of a few merchants who even dare to sell the outland Blackburrow Stout which is brewed by the gnolls. Foolish!! We call upon all citizens to assist in ridding our land of the gnolls. If you wish to join the fight then speak with Captain Tillin.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 5) then
@@ -142,6 +146,8 @@ if(e.wp == 5) then
 
 **Signaled to:**  [Faren](/npc/1159)
 end
+
+
 
 ## Signals
 

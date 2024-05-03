@@ -1,4 +1,6 @@
 # A sense of fear
+
+
 ## Combat
 
 if A sense of fear enters combat  then

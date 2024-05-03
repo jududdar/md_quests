@@ -1,4 +1,6 @@
 # Arbogast
+
+
 ## Dialog
 
 miller = eq.get_entity_list():GetMobByNpcTypeID( [\#Miller](/npc/160376));
@@ -95,6 +97,8 @@ miller:Say("A bloody, boldfaced lie!");
 >**Arbogast says:** A story told to children. Tsaph Katta wove together a tale of Seru trying to kill him on the fantasy world of 'Norrath' and how the entire combine fled here to escape from him... a wheel of lies, do you see how they interconnect? Why, I'll bet that even in Shadowhaven, the very site of this alleged 'Exodus' and home to one of the grandest libraries you will ever see, not a single shred of reliable evidence regarding such an event could be found. HA! You bring me a book on this 'Exodus' and Miller here will eat his hat! Especially if the book is wrapped in that gold paper I gave you...
 
 end
+
+
 
 ## Turn-Ins
 
@@ -199,6 +203,8 @@ miller:CastToNPC():AssignWaypoints(24);
 eq.start(23);
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

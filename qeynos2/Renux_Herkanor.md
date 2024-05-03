@@ -1,4 +1,6 @@
 # Renux Herkanor
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -90,6 +92,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -133,6 +137,8 @@ Your faction standing with [Kane Bayle](/faction/273) got better (<span class='t
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 3) then
@@ -151,6 +157,8 @@ elseif(e.wp == 4) then
 
 **Signaled to:**  [Hanns Krieghor](/npc/2074)
 end
+
+
 
 ## Signals
 

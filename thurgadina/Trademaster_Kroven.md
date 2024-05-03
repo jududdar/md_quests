@@ -1,6 +1,8 @@
 # Trademaster Kroven
 
 
+
+
 ## Dialog
 
 **You say:** `burin`
@@ -9,6 +11,8 @@
 
 >**Trademaster Kroven says:** You'll need a fletching kit and a fair bit of skill for this one, Soandso. Round up a tooth from a swordfish and attatch it to an Ulthork tusk wrapped in a Molkor hide.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # The walls
+
+
 ## Combat
 
 if (e.joined == true) then

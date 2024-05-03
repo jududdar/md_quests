@@ -1,4 +1,6 @@
 # High Priestess Alexandria
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -159,6 +161,8 @@ else
 
 >**High Priestess Alexandria says:** I'm sorry but I will only deal with Clerics that are willing to prove their loyalty to Innoruuk.
 end
+
+
 
 ## Turn-Ins
 

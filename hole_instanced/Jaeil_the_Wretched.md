@@ -1,6 +1,8 @@
 # Jaeil the Wretched
 
 
+
+
 ## On NPC Spawn
 
 eq.set_proximity(e.self:GetX() - 20, e.self:GetX() + 20, e.self:GetY() - 20, e.self:GetY() + 20);
@@ -10,6 +12,8 @@ function event_enter(e)
 function event_exit(e)
 
 **Stop timer** named *chatter*
+
+
 ## Timer(s)
 
 if(e.timer == "chatter") then
@@ -20,6 +24,8 @@ if(e.timer == "chatter") then
 
 >*Jaeil the Wretched shields his eyes from his reflection in the water, occasionally gibbering as he scratches at a flapping, rotted patch of skin on his sunken face. In his arms he cradles something. He seems to emanate an aura of power.*
 end
+
+
 
 ## Turn-Ins
 
@@ -44,6 +50,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 eq.clear_proximity();
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

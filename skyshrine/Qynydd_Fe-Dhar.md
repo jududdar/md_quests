@@ -14,6 +14,8 @@ local QUEST_ITEMS = {
   quest_helper:priest_boots(SKYSHRINE_ARMOR.Leather_Boots, 31153), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -100,6 +102,8 @@ else
 
 
 end
+
+
 
 
 ## Turn-Ins

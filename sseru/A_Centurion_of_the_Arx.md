@@ -1,4 +1,6 @@
 # A Centurion of the Arx
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Elnerick Augustleaf
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Elnerick Augustleaf says:** Ah, I was told you would come. I hope that you have retrieved the shards from each Praesertum Leader? Please show them to me.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Innkeep Paggie
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Innkeep Paggie says:** Hello there Soandso! You'll be happy to see that I am fully stocked with all my usual goods. Have a look around.
 end
+
+
 
 ## Turn-Ins
 

@@ -21,6 +21,8 @@ quest_helper:melee_legs(KAEL_ARMOR.Plate_Greaves, 25438),
 quest_helper:melee_boots(KAEL_ARMOR.Plate_Boots, 25439), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Ally) then
@@ -126,6 +128,8 @@ elseif ( **Faction is** <= Indifferent) then
 
 
 >**Kragek Thunderforge says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
+
+
 
 
 ## Turn-Ins

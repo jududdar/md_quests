@@ -1,4 +1,6 @@
 # Trainee Robert
+
+
 ## Dialog
 
 **You say:** `hail`

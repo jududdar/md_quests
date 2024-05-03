@@ -1,6 +1,8 @@
 # Rebbie Romblerum
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -113,6 +115,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19555" data-url="19555" class="tooltip-link link">Tattered Cap Pattern</a>
 
 end
+
+
 
 ## Turn-Ins
 

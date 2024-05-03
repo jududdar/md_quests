@@ -1,4 +1,6 @@
 # Sentry Gallius
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sentry Gallius says:** I welcome you to the Temple of Marr. home to clerics of the deities Erollisi and Mithaniel Marr.  Please seek guidance from the clerics.
 end
+
+
 
 ## Turn-Ins
 

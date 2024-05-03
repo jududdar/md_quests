@@ -1,4 +1,6 @@
 # Legionnaire Aiddan
+
+
 ## Dialog
 
 **You say:** `hail`

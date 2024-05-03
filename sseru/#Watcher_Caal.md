@@ -1,4 +1,6 @@
 # Watcher Caal
+
+
 ## Dialog
 
 **You say:** `hail`

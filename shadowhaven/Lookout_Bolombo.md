@@ -1,4 +1,6 @@
 # Lookout Bolombo
+
+
 ## Dialog
 
 **You say:** `hail`

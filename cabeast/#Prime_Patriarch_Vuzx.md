@@ -1,4 +1,6 @@
 # Prime Patriarch Vuzx
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,6 +16,8 @@
 
 >**Prime Patriarch Vuzx says:** A Patriarch of Cabilis must learn to survive the hard way, by heading into the wild lands and mastering the creatures that reside in them. First you must learn to defeat even the most insignificant of nuisances. Go from this temple and return to me with four Leech Husks that have been skinned from the creatures by your own claws.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Legionnaire Garrok
+
+
 ## Dialog
 
 **You say:** `hail`

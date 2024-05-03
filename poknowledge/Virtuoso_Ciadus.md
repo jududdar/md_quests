@@ -1,8 +1,12 @@
 # Virtuoso Ciadus
 
+
+
 ## Dialog
 
 e.self:Emote("raises a brow sharply, his Teir'Dal heritage perfectly displayed in his sharp features twisted in a glare of flawless contempt. 'The district of Kartis 
+
+
 ## Turn-Ins
 
 

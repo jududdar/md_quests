@@ -1,4 +1,6 @@
 # Spiritist Darah
+
+
 ## Dialog
 
 **You say:** `hail`

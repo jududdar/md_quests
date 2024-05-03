@@ -2,9 +2,13 @@
 local signal = 0;
 local lastSong = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *ready* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +17,8 @@ local lastSong = 0;
 
 >**Palana Willin says:** Nice to meet you, Soandso. I hope you stay to hear my fine compositions.
 end
+
+
 
 ## Timer(s)
 
@@ -66,6 +72,8 @@ elseif ( e.timer == "table" ) then
 **Signaled to:**  [Groflah Steadirt](/npc/10195)
 
 end
+
+
 
 ## Signals
 

@@ -1,6 +1,8 @@
 # Trantor Everhot
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 
 >**Trantor Everhot says:** If you're asking about the Brigade, who knows where they are?! If you're looking for Irontoe Tavern, it's here in Kaladim, near the arena.
 end
+
+
 
 ## Turn-Ins
 

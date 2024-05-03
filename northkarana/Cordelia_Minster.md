@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 3 or e.wp == 8) then
@@ -14,6 +16,8 @@ elseif(e.wp == 2 or e.wp == 6 or e.wp == 10) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Dialog
 
@@ -29,6 +33,8 @@ end
 
 >**Cordelia Minster says:** I traded my flute to a hermit in the southern plains of Karana. I had a spare flute, but that was taken from me by some bandits. If you could find this hermit and ask him for my flute back, I would be most appreciative.
 end
+
+
 
 ## Turn-Ins
 

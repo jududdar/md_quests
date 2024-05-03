@@ -1,5 +1,7 @@
 # Soulbinder Tardon
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -17,6 +19,8 @@
 
 **Soulbinder Tardon casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Sentinel Belstaerm
+
+
 ## Dialog
 
 **You say:** `hail`

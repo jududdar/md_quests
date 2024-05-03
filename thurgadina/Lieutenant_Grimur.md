@@ -1,4 +1,6 @@
 # Lieutenant Grimur
+
+
 ## Dialog
 
 **You say:** `hail`

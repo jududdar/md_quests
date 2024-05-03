@@ -1,4 +1,6 @@
 # Legionnaire Hugby
+
+
 ## Dialog
 
 **You say:** `hail`

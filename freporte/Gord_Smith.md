@@ -1,4 +1,6 @@
 # Gord Smith
+
+
 ## Dialog
 
 **You say:** `hail`

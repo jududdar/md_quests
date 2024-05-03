@@ -1,4 +1,6 @@
 # Elder Hymnist Hortitosh
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -35,6 +37,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 
 >*Elder Hymnist Hortitosh stops what he is doing and looks at you, most surprised, 'An essence of sonnet? I have never produced such a thing my friend, though the fact that you would even request one from me is very flattering.' His eyes leave your face and settle off in the distance somewhere as he continues, 'I was present once when one was created... it was beautiful. I was only a child, but there was no mistaking the significance. Oh how I would love to produce such a thing myself- an accomplishment without peer for one of my art. They say that the inspiration must be genuine, should you know of something that could inspire me so then by all means, I will see if I have an essence of sonnet within me.'*
 end
+
+
 
 ## Turn-Ins
 

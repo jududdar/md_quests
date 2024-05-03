@@ -1,6 +1,8 @@
 # Venenzi Oberzendi
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@
 
 >**Venenzi Oberzendi says:** You are truly a fool.
 end
+
+
 
 ## Turn-Ins
 

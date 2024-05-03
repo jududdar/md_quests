@@ -1,7 +1,11 @@
 # Tundra Jack
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -41,6 +45,8 @@ e.self:SetRunning(true);
 >**Tundra Jack says:** I usually get Lion Delight from Teria O'Danos in Halas.
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -78,6 +84,8 @@ elseif(e.signal == 3) then
 
 eq.stop_follow();
 end
+
+
 
 ## Arrive at Waypoint Script
 

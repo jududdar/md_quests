@@ -1,4 +1,6 @@
 # Guard Imkar
+
+
 ## Dialog
 
 **You say:** `hail`

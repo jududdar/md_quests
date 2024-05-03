@@ -1,4 +1,6 @@
 # Loremaster Sarl
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [\#\#Loremaster Sarl](/npc/115000)) then
@@ -6,6 +8,8 @@ if(**spawned NPC:**  [\#\#Loremaster Sarl](/npc/115000)) then
 
 **Despawn NPC:**  [\#\#Loremaster Sarl](/npc/115000)
 end
+
+
 
 ## Dialog
 
@@ -41,6 +45,8 @@ e.self:CastToNPC():AssignWaypoints(31);
 
 
 **Loremaster Sarl despawns.**
+
+
 
 ## Arrive at Waypoint Script
 

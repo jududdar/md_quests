@@ -1,4 +1,6 @@
 # Legionnaire Frankulus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Legionnaire Frankulus says:** For the vambraces you will have to bring to me an astral jewel, a mark of arms, a small sponge, and a scorched rock.
 end
+
+
 
 ## Turn-Ins
 

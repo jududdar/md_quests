@@ -1,6 +1,8 @@
 # Kuanbyr Hailstorm
 local TYPES = { 209058, 209057, 209056 }; 
 
+
+
 ## Combat
 
 if  Kuanbyr Hailstorm enters combat  then
@@ -13,6 +15,8 @@ else
 
 **Stop timer** named *tick*
 end
+
+
 
 ## Timer(s)
 

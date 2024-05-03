@@ -1,4 +1,6 @@
 # Arms Researcher Saulgan
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Arms Researcher Saulgan says:** Hail and Well Met! If you are here to get a weapon of the Horde converted, let me see it. If not, please speak to Wygans. Don't worry, he may be tough as nails, but he won't bite you.
 end
+
+
 
 ## Turn-Ins
 

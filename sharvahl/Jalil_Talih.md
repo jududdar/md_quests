@@ -1,4 +1,6 @@
 # Jalil Talih
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -40,6 +42,8 @@
 
 >*Jalil Talih 's chest swells with pride though his eyes reveal a hint of modest embarrassment at the attention, 'Well, I was just barely out of training, still on honor guard duty near the King's chair at the arena. There was a frenzied battle going on between two most skilled combatants. A deft parry sent a warrior's trident sailing through the air. Now I am no hero, instinct just took over- I did what any honorable Vah Shir would do. There was no time to get the King out of harm's way, I just threw myself between he and the weapon. A spot of poor luck had the blade pointing my way and I was fairly well wounded. I spent a few months recovering before returning to duty, but the king has never forgotten and insisted that I and my family reside here in the palace ever since.'*
 end
+
+
 
 ## Turn-Ins
 

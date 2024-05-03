@@ -1,4 +1,6 @@
 # Trevor Nalinson
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@
 
 >**Trevor Nalinson says:** For the darkened knight's mace you'll have to bring me a sun jewel, a mark of night, a beaded circlet, and a heating stone.
 end
+
+
 
 ## Turn-Ins
 

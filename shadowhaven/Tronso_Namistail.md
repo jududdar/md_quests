@@ -1,4 +1,6 @@
 # Tronso Namistail
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -22,6 +24,8 @@
 
 eq.start(25);
 end
+
+
 
 ## Arrive at Waypoint Script
 

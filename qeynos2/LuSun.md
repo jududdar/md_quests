@@ -1,4 +1,6 @@
 # LuSun
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**LuSun says:** Tomer? I think Seta needs someone to go find him.. Go ask her.
 end
+
+
 
 ## Turn-Ins
 

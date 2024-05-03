@@ -1,4 +1,6 @@
 # Taruun Jaur
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -188,6 +190,8 @@
 >**Taruun Jaur says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -210,6 +214,8 @@ if(e.signal == 4) then
 
 >**Taruun Jaur says:** No no... this is where it gets weird. The creatures just walked right through our patrol. They acted like they didn't even see us. We were all tensed up and ready for a fight and those beasts just ignored us. We stood still for a few moments and let them pass. Then it got a bit weirder.
 end
+
+
 
 ## Turn-Ins
 

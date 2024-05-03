@@ -1,4 +1,6 @@
 # A Principia Vigilum
+
+
 ## Dialog
 
 **You say:** `hail`

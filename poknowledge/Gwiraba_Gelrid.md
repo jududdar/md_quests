@@ -1,6 +1,8 @@
 # Gwiraba Gelrid
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -22,6 +24,8 @@ else
 >**Gwiraba Gelrid says:** Good day to you, Soandso. Are you new to this cirty or have you been a long time resident? I'm afraid I do not get to run about and explore like I used to, as my studies keep me quite busy. If you have the time and inclination, I would suggest you explore the land some more. Then perhaps one day when you return, you will be redy to learn what I have to teach you.
 
 end
+
+
 
 ## Turn-Ins
 

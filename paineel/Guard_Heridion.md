@@ -1,4 +1,6 @@
 # Guard Heridion
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

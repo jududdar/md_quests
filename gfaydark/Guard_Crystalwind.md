@@ -1,4 +1,6 @@
 # Guard Crystalwind
+
+
 ## Dialog
 
 **You say:** `soldiers`

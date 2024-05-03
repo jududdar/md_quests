@@ -1,4 +1,6 @@
 # Jali Kaliio
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -73,6 +75,8 @@ else
 >**Jali Kaliio says:** You have done much to anger the spirits thus you are not accepted by our people.
 
 end
+
+
 
 ## Turn-Ins
 

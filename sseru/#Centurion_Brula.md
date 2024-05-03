@@ -1,4 +1,6 @@
 # Centurion Brula
+
+
 ## Dialog
 
 **You say:** `hail`

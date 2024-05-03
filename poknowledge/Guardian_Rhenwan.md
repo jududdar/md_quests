@@ -1,4 +1,6 @@
 # Guardian Rhenwan
+
+
 ## Dialog
 
 **You say:** `Hail`

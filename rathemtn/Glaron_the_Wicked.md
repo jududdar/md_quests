@@ -1,4 +1,6 @@
 # Glaron the Wicked
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >*Glaron the Wicked brandishes a long, wicked-looking bone dagger and there is a horrid, diseased stench as soon as he unsheathes it. He draws another blade, shorter and wider than the first, of blackened bone with a larger than normal hilt, obviously for defense. He says, 'This festering blade is called Woe, and this scorched one is called Envy. They were created on the Plane of Decay by Bertoxxulous' own hands. He has judged me worthy of the protection of such holy relics. However, there is one in these very mountains who seeks to destroy these relics. End this idiot follower of Marr's life and bring me proof.*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Sadorno Chomosh
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -124,6 +126,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Sadorno Chomosh says:** The Tabernacle of Terror has many enemies here on Odus who oppose our teachings to our patron deity, Cazic-Thule. The priests of Prexus and Quellious in the city of Erudin seek to purge Odus of our kind, for they view us as a disgrace to the Erudite race. Behind their disdain, however, lies fear. It is this fear that allows us to prosper and become more powerful than the closed-minded fools of Erudin. In the Toxxulia Forest, you will find such a fool, a priest named Terago Omath. This priest attempts to ward the Toxxulia Forest from the presence of the undead.  Seek this Terago Omath and return to me with his head.
 
 end
+
+
 
 ## Turn-Ins
 

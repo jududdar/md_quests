@@ -1,4 +1,6 @@
 # Klok Gogon
+
+
 ## Dialog
 
 **You say:** `Hail`

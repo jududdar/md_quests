@@ -1,4 +1,6 @@
 # Councilor Thubins
+
+
 ## Dialog
 
 **You say:** `hail`

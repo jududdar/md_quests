@@ -1,6 +1,8 @@
 # Scribe Cholsa
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -15,6 +17,8 @@
 
 >**Scribe Cholsa says:** The legends instruct that the ritual requires an Amulet of Golden Rays crafted by a worshiper of the sun, Charcoal that burns with a Black Flame, and the Brain of a creature that can Leech the Thoughts of others. If you manage to procure these items please take them with the instructions I have provided to Spiritualist Roleko at the Grimling Forest Outpost. The Rakshasa shall be summoned and slain there away from the citizens of Shar Vahl.
 end
+
+
 
 ## Turn-Ins
 

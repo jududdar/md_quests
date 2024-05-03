@@ -1,4 +1,6 @@
 # Klok Mugruk
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -37,6 +39,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_565.png" alt="" /> <a
                                 href="/item/17992" data-url="17992" class="tooltip-link link">Empty Curskin Bag</a>
 end
+
+
 
 ## Turn-Ins
 

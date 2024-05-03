@@ -1,4 +1,6 @@
 # Galdon Vok Nir
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -31,6 +33,8 @@
 
 >**Galdon Vok Nir says:** There are two keys of Dai. They were made of ceramic and were also crafted to look like warrior totems. I once broke one as a child and my grandfather got very angry. He lashed me good! I do not know what the big fuss was about; he easily put them back together using some sort of clay.
 end
+
+
 
 ## Turn-Ins
 

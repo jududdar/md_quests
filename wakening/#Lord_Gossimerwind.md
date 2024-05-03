@@ -1,4 +1,6 @@
 # Lord Gossimerwind
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Lord Gossimerwind says:** I vish to ztop ze Kromzek Foreman from continuing ta deztroy thiz land. Iv you vish to azzizt you can zlay ze Foreman and bring me hiz helm az proof.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Flynn Merrington
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -57,6 +59,8 @@ Your faction standing with [Circle of Unseen Hands](/faction/223) got worse (<sp
 **Signaled to:**  [Moodoro Finharn](/npc/2040)
 end
 
+
+
 ## Turn-Ins
 
 
@@ -94,6 +98,8 @@ Your faction standing with [Kane Bayle](/faction/273) got worse (<span class='te
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

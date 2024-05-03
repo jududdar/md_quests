@@ -1,4 +1,6 @@
 # Ahahd Tolm
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -190,9 +192,13 @@ end
 
 
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *themoor* for 5 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -256,6 +262,8 @@ count = 0;
 
 **Set a timer** named *themoor* for 5 seconds
 end
+
+
 
 ## Turn-Ins
 

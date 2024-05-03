@@ -1,4 +1,6 @@
 # Ambassador Jerlopodix
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,7 +1,11 @@
 # Will Treewalker
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +38,8 @@
 
 >**Will Treewalker says:** The test of the tree is said to be a test of Nature and only those stout of limb and bark will succeed. Bring to me a diaphanous globe, some hardened clay and a spiroc battle staff. Hand them all to me at once and the reward will be yours.
 end
+
+
 
 ## Turn-Ins
 
@@ -86,6 +92,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

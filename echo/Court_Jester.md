@@ -1,4 +1,6 @@
 # Court Jester
+
+
 ## Dialog
 
 **You say:** `hail`

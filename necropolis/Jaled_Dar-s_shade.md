@@ -13,11 +13,15 @@ local SHOUTS = {
 };
 local nextShout = 1;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *zoneshout* for 2400 seconds
 
 eq.set_timer("depop", 48 * 60 * 60 * 1000);
+
+
 
 
 ## Timer(s)
@@ -50,6 +54,8 @@ elseif ( e.timer == "depop" ) then
 
 **Jaled Dar-s shade despawns.**
 end
+
+
 
 ## Dialog
 
@@ -95,6 +101,8 @@ end
 
 >**Jaled Dar-s shade says:** Four dragons maintain the barrier around The Sleeper. These four dragons channel their energies into the barrier. For the barrier to drop, you must slay all four. This will be no easy task, for they are powerful and learned, the best and brightest of that era. But once this is done, The Sleeper shall awake, and the treasures there shall be yours for the taking. The Sleeper will travel to the Skyshrine to resume his rightful position among wurmkind.
 end
+
+
 
 ## Turn-Ins
 

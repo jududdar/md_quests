@@ -1,4 +1,6 @@
 # Kardon
+
+
 ## Dialog
 
 **You say:** `hail`

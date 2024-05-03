@@ -1,4 +1,6 @@
 # Brother Nallin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -67,6 +69,8 @@ else
 
 >**Brother Nallin says:** I am afraid I was not authorized by the High Priests of the Temple of Life to perform such an act, however, I'm certain you can obtain such a service within the walls of Qeynos.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Tara Neklene
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -44,6 +46,8 @@ else
 >**Tara Neklene says:** You had best leave my sight. I am a faithful member of the Academy of Arcane Science and you are no ally of ours.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Klandicar
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -6,6 +8,8 @@ if ( e.signal == 1 ) then
 
 **Klandicar shouts:** <span class="text-danger">Damnation and doom!  Some fool has awakened The Sleeper!  Avoid those places where Dragons dwell, for Kerafyrm shall surely seek revenge upon us!</span>
 end
+
+
 
 ## Dialog
 

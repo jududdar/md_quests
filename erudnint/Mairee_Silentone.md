@@ -1,6 +1,8 @@
 # Mairee Silentone
 
 
+
+
 ## Dialog
 
 **You say:** `ancient hammer`
@@ -9,6 +11,8 @@
 
 >**Mairee Silentone says:** Yes, the ancient hammer. I heard something about that. Do you mind if I take a look at it?
 end
+
+
 
 
 

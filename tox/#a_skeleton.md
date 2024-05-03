@@ -1,7 +1,11 @@
 # a skeleton
+
+
 ## On NPC Spawn
 
 eq.set_timer("rant",math.random(180000,450000));
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +14,8 @@ eq.set_timer("rant",math.random(180000,450000));
 
 >**a skeleton says:** Grab a pick. Give us a hand!
 end
+
+
 
 ## Turn-Ins
 
@@ -31,6 +37,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

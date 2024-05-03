@@ -1,4 +1,6 @@
 # Guard Dinamin
+
+
 ## Dialog
 
 **You say:** `armor`
@@ -85,6 +87,8 @@
 
 >**Guard Dinamin says:** The Bloodforge Brigade was created to take the place of the now defunct Irontoe Brigade.  I hear they are a much stronger force to reckon with.
 end
+
+
 
 ## Arrive at Waypoint Script
 

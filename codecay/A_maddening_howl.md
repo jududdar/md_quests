@@ -1,4 +1,6 @@
 # A maddening howl
+
+
 ## Combat
 
 if A maddening howl enters combat  then

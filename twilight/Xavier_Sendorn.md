@@ -1,4 +1,6 @@
 # Xavier Sendorn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Xavier Sendorn says:** For the staff you must get for me a sky jewel, a mark of mind, an enchanted bundle of wood, and a shadow crystal.
 end
+
+
 
 ## Turn-Ins
 

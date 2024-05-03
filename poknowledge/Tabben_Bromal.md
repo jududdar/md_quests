@@ -1,4 +1,6 @@
 # Tabben Bromal
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@ else
 >**Tabben Bromal says:** Ready for what?
 
 end
+
+
 
 ## Turn-Ins
 

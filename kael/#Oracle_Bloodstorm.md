@@ -1,4 +1,6 @@
 # Oracle Bloodstorm
+
+
 ## Dialog
 
 **You say:** `hail`

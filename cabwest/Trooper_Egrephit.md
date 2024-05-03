@@ -1,4 +1,6 @@
 # Trooper Egrephit
+
+
 ## Dialog
 
 **You say:** `Hail`

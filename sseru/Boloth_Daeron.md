@@ -1,4 +1,6 @@
 # Boloth Daeron
+
+
 ## Dialog
 
 **You say:** `hail`

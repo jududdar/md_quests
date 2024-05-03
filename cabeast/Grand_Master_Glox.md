@@ -1,4 +1,6 @@
 # Grand Master Glox
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -45,6 +47,8 @@ else
 >**Grand Master Glox says:** Leave at once!  I will warn you no longer.  You are no friend to the Swifttail Caste.
 
 end
+
+
 
 ## Turn-Ins
 

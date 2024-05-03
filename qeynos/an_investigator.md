@@ -1,4 +1,6 @@
 # an investigator
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self);
@@ -72,6 +74,8 @@ eq.follow(e.other:GetID());
 >**an investigator says:** The last suspect has been known to hang around that low life known as Raz the Rat.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -134,6 +138,8 @@ eq.delete_global("invest_badge");
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -147,6 +153,8 @@ if(e.timer == "depop") then
 
 eq.delete_global("invest_badge");
 end
+
+
 
 ## Signals
 
@@ -174,6 +182,8 @@ elseif(e.signal == 3) then
 
 **Signaled to:**  [\#Willie Garrote](/npc/1201)
 end
+
+
 
 ## On NPC Death
 

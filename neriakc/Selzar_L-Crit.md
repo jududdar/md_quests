@@ -1,6 +1,8 @@
 # Selzar L-Crit
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -51,6 +53,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Selzar L-Crit says:** Beyond the mouth of Neriak lies the Nektulos Forest. There the Halflings of Rivervale have set up camps at ancient druid holy sites in an attempt to cleanse Innoruuks corruption that is spreading through the Nektulos Forest. Slay these trespassers and bring me a Large Snake Skin, a Halfling Fibula bone, and a Halfling Clavicle bone.
 
 end
+
+
 
 ## Turn-Ins
 

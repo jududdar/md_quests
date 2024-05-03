@@ -1,4 +1,6 @@
 # Sentry Theo
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sentry Theo says:** Please speak with the masters. I am on watch and have no time to converse.
 end
+
+
 
 ## Turn-Ins
 

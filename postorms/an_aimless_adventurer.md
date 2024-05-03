@@ -1,4 +1,6 @@
 # an aimless adventurer
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Vores the Hunter
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Vores the Hunter says:** It ain't so complex like a caster's diagrams 'n such. I just be thinkin' mebbe ya need a somethin' like a leash and then maybe some magical gem o' control. Uh, maybe. Ain't much for years o' work, eh? Unfortunately, I tried a hundread of other things already. Them wurms chafe at any attempt at control.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,10 +1,16 @@
 # Yeka Ias
+
+
 ## On NPC Spawn
 
 **Set a timer** named *daydream* for 2700 seconds
+
+
 ## Timer(s)
 
 >*Yeka Ias seems oblivious to the outside world. He stares into the water, chuckling every so often, as he drops in some sort of pebble that hisses for a moment on impact. His robes seem faded, tattered, and caked in dirt. A slight green shimmer surrounds his body.*
+
+
 ## Turn-Ins
 
 

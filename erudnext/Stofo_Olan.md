@@ -1,6 +1,8 @@
 # Stofo Olan
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -45,6 +47,8 @@
 
 >**Stofo Olan says:** It may seem like ordinary paper at first. However, this paper was enchanted by a friend of mine. This paper was given to a lass in the Karanas to help with her writings. The paper will guide her hands and draw forth the thoughts in her mind. I no longer have any and I have not had contact with my friend in some time. Search them out.
 end
+
+
 
 ## Turn-Ins
 

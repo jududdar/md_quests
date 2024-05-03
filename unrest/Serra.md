@@ -1,4 +1,6 @@
 # Serra
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_864.png" alt="" /> <a
                                 href="/item/20374" data-url="20374" class="tooltip-link link">Ripped Qeynos Bards Guild Flyer</a>
 end
+
+
 
 ## Turn-Ins
 

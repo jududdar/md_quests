@@ -1,4 +1,6 @@
 # Kazzel D-Leryt
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -40,6 +42,8 @@ else
 
 >**Kazzel D-Leryt says:** Xenyari is a druid who inhabits these parts. She is rarely seen, however, I require a droplet of her blood. Here is the catch though, and one for which you may be well suited if you desire magic of the knights of darkness - Xenyari must give of herself willingly. In other words, you cannot take her blood by force. Rather, she must give you her blood of her own accord.
 end
+
+
 
 ## Turn-Ins
 

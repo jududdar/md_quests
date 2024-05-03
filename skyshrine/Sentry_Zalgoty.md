@@ -1,4 +1,6 @@
 # Sentry Zalgoty
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Sentinel Dekrendar
+
+
 ## Dialog
 
 **You say:** `hail`

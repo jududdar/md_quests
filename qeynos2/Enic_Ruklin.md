@@ -1,4 +1,6 @@
 # Enic Ruklin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_645.png" alt="" /> <a
                                 href="/item/13292" data-url="13292" class="tooltip-link link">A Donation</a>
 end
+
+
 
 ## Turn-Ins
 

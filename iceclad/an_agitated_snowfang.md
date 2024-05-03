@@ -1,7 +1,11 @@
 # an agitated snowfang
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 90 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +29,8 @@
 
 **an agitated snowfang despawns.**
 end
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Vilissia
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then
@@ -66,6 +68,8 @@ else
 
 >Oh look..a talking lump of refuse..how novel!
 end
+
+
 
 ## Turn-Ins
 

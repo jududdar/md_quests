@@ -1,4 +1,6 @@
 # An Apprentice Cartographer
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # A firestorm portal
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

@@ -1,4 +1,6 @@
 # Sneathe
+
+
 ## Dialog
 
 **You say:** `hail`

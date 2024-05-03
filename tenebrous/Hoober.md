@@ -1,7 +1,11 @@
 # Hoober
+
+
 ## On NPC Spawn
 
 eq.set_timer("chat",math.random(96000,480000));
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -41,6 +45,8 @@ eq.set_timer("chat",math.random(96000,480000));
 >**Hoober says:** A difficult thing to acquire, find a bard and get it done, waste no more of time, bring me the ingredients!
 end
 
+
+
 ## Turn-Ins
 
 
@@ -63,6 +69,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 
@@ -87,6 +95,8 @@ e.self:Emote(eq.ChooseRandom(Chatone,Chattwo,Chatthree,Chatfour,Chatfive,Chatsex
 eq.set_timer("chat",math.random(96000,480000));
 end
 
+
+
 ## Combat
 
 if Hoober enters combat  then
@@ -104,6 +114,8 @@ else
 
 eq.resume_timer("chat");
 end
+
+
 
 ## On NPC Death
 

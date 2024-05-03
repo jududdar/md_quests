@@ -1,7 +1,11 @@
 # Lorisyn Oakwynd
+
+
 ## On NPC Spawn
 
 **Set a timer** named *ww* for 3600 seconds
+
+
 ## Timer(s)
 
 **Spawn NPC:** 68340 at (**y:** 2943, **x:** 1376)
@@ -9,6 +13,8 @@
 **Zone Wide Emote:** <span class="text-warning">*a loud roar is heard in the distance, everything goes eerily silent...*</span>
 
 eq.set_sky(5);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -69,6 +75,8 @@ eq.set_sky(5);
 
 >**Lorisyn Oakwynd says:** While we admire your efforts, you aren't someone we consider an ally yet. Please contribute more to the research.
 end
+
+
 
 ## Turn-Ins
 

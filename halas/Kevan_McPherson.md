@@ -1,4 +1,6 @@
 # Kevan McPherson
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@ e.self:DoAnim(5);
 
 >**Kevan McPherson says:** To smith a Northman kite shield ye'll need a kite shield mold, a smithy hammer, a flask of water and a medium quality folded sheet metal. Remember ye'll have ta smith the metal sheet in a regular forge and finish the shield in our special Northman forge.
 end
+
+
 
 ## Turn-Ins
 

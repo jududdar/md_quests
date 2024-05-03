@@ -1,4 +1,6 @@
 # Sentinel Thernek
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Captain Necin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Captain Necin says:** Very well, acquire a chest of valor and fill it with the medals you receive from scouts Husman, Danarin, and Derin. Give me the resulting soldier's chest and I will reveal the details of my mission.
 end
+
+
 
 ## Turn-Ins
 

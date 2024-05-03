@@ -1,8 +1,12 @@
 # Dharr Nadim
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 95 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then
@@ -74,6 +78,8 @@ if(rand == 8) then
 >**Dharr Nadim says:** Why not take an extra fishing pole with you on your travels, light and easy to carry.
 
 end
+
+
 
 ## Dialog
 
@@ -275,6 +281,8 @@ end
 
 >**Dharr Nadim says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
+
+
 
 ## Turn-Ins
 

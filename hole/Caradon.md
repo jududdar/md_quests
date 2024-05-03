@@ -1,5 +1,7 @@
 # Caradon
 
+
+
 ## Dialog
 
 if **Faction** >  Apprehensive +17 then
@@ -29,6 +31,8 @@ if **Faction** >  Apprehensive +17 then
 >**Caradon says:** She is close by. For a price, I shall tell you. Bring me the key to my freedom and I will betray her, who sentenced me to this fate.
 
 end
+
+
 
 ## Turn-Ins
 

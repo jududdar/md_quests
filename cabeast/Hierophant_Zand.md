@@ -1,6 +1,8 @@
 # Hierophant Zand
 
 
+
+
 ## Dialog
 
 **You say:** `chosen savior`
@@ -73,6 +75,8 @@ else
 
 e.self:DoAnim(65);
 end
+
+
 
 ## Turn-Ins
 

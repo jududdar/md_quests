@@ -3,6 +3,8 @@
 
 local wait = 0;
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -40,6 +42,8 @@ wait = 1;
                                 href="/item/10265" data-url="10265" class="tooltip-link link">Sprig of Wormwood</a>
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "Swiftmoon") then
@@ -53,6 +57,8 @@ if(e.timer == "Swiftmoon") then
 
 wait = 0;
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Megosh Thistlethorn
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -49,6 +51,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Megosh Thistlethorn says:** What forge?  Didn't you see it on the way in, young Soandso?  Oh, and check with Smithy Bodbin about the sharpening stones, he usually has a good supply of them.
 
 end
+
+
 
 ## Turn-Ins
 

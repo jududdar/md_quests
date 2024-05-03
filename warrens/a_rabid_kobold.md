@@ -1,4 +1,6 @@
 # a rabid kobold
+
+
 ## On NPC Death
 
 local spawna = **Spawn NPC:**  [a kobold master blacksmith](/npc/101006) at (**y:** 713, **x:** -866)

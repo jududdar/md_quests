@@ -1,8 +1,12 @@
 # a greater spirit 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -64,6 +68,8 @@ eq.delete_global("shamanbondl");
 
 **a greater spirit  despawns.**
 end
+
+
 
 ## Timer(s)
 

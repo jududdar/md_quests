@@ -1,4 +1,6 @@
 # Ambassador K-Ryn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Ambassador K-Ryn says:** Get your wretched hide away from me! Who knows what vile stench you have been rolling around in?! Do not speak with me unless you have some glimmer of intelligence!
 end
+
+
 
 ## Turn-Ins
 

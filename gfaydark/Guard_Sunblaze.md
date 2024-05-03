@@ -1,4 +1,6 @@
 # Guard Sunblaze
+
+
 ## Dialog
 
 **You say:** `soldiers`

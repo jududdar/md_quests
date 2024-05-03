@@ -1,7 +1,11 @@
 # Roanis Elindar
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -35,6 +39,8 @@
 
 >**Roanis Elindar says:** Gesticulation it is.  Proceed upward through the sky and return to me an efreeti magi staff, some sweet nectar, a sphinx crown, and a hazy opal.  In return, the Staff of the Magister is yours.
 end
+
+
 
 ## Turn-Ins
 
@@ -111,6 +117,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Roanis Elindar despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

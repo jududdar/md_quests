@@ -1,4 +1,6 @@
 # Life
+
+
 ## Dialog
 
 **You say:** `hail`

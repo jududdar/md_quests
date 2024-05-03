@@ -1,4 +1,6 @@
 # Bndainy Everhot
+
+
 ## Dialog
 
 **You say:** `hail`

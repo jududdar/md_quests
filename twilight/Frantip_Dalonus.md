@@ -1,4 +1,6 @@
 # Frantip Dalonus
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Frantip Dalonus says:** For the staff of pestilence you will have to go retrieve for me a star jewel, some cultured spirits, some golden mushrooms, and a gem of awe.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,9 +1,13 @@
 # Farkus Grime
+
+
 ## On NPC Spawn
 
 tellpause = 0;
 
 already_tell = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +47,8 @@ already_tell = 1;
 **Set a timer** named *Secrets* for 2 seconds
 
 end
+
+
 
 ## Timer(s)
 
@@ -103,6 +109,8 @@ tellpause = 0;
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -119,6 +127,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 eq.start(41);
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

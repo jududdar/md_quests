@@ -1,4 +1,6 @@
 # Margyn McCann
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -66,6 +68,8 @@ else
 
 
 >**Margyn McCann says:** The scales o' the Shamans o' Justice dinnae tip in yer favor. Ye'd best flee while ye still have the chance.
+
+
 
 
 

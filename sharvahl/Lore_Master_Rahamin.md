@@ -1,4 +1,6 @@
 # Lore Master Rahamin
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -6,6 +8,8 @@ if(e.wp == 1) then
 
 e.self:SetAppearance(3);
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Chanter Bonebinder
+
+
 ## Dialog
 
 **You say:** `hail`

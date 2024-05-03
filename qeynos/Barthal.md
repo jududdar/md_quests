@@ -1,7 +1,11 @@
 # Barthal
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -14,6 +18,8 @@ while ( e.self:CheckGround() ) do
 
 
 >*Barthal picks up a discarded item from the ground and says, 'Don't people have enough respect for our grand city to not throw things onto the streets?!*
+
+
 
 
 ## Dialog
@@ -37,6 +43,8 @@ while ( e.self:CheckGround() ) do
 
 
 end
+
+
 
 ## Signals
 

@@ -1,4 +1,6 @@
 # Legionnaire Cobnoggin
+
+
 ## Dialog
 
 **You say:** `hail`

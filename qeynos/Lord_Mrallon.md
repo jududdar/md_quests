@@ -1,4 +1,6 @@
 # Lord Mrallon
+
+
 ## Dialog
 
 **You say:** `tale`
@@ -37,6 +39,8 @@ else
 >Oh look..a talking lump of refuse..how novel!
 
 end
+
+
 
 ## Turn-Ins
 

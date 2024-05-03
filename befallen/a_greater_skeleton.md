@@ -1,4 +1,6 @@
 # a greater skeleton
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 55 or e.wp == 117) then

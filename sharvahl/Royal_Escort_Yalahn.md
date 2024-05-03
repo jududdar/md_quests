@@ -1,4 +1,6 @@
 # Royal Escort Yalahn
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 6) then
@@ -14,6 +16,8 @@ if(e.wp == 17) then
 
 e.self:SetAppearance(4);
 end
+
+
 
 ## Turn-Ins
 

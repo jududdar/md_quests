@@ -1,4 +1,6 @@
 # Dar Khura Shavra
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Dar Khura Shavra says:** A whisperling, who brings us dreams, you cannot see them. They do no harm, but I sense anger in them. They have made an enemy. If you are willing to aid us in our research, please seek Groo McManus in the shadeweavers thicket, he has some insight on these whisperlings.
 end
+
+
 
 ## Turn-Ins
 

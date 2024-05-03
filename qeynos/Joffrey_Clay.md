@@ -1,4 +1,6 @@
 # Joffrey Clay
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -26,6 +28,8 @@
 >**Joffrey Clay says:** He should be around here somewhere.  He's kinda lazy, so I imagine he wouldn't stray too far.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then
@@ -47,6 +51,8 @@ e.self:DoAnim(58);
 
 >**Joffrey Clay says:** La da di, la di da.. la da di. la di da..
 end
+
+
 
 ## Turn-Ins
 

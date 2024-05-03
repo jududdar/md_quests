@@ -1,7 +1,11 @@
 # Willie Garrote
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Dialog
   **You say:** `bloodsaber`
 
@@ -10,6 +14,8 @@
 
 **Signaled to:**  [an investigator](/npc/1031)
  end
+
+
 
 ## Turn-Ins
 
@@ -38,6 +44,8 @@ eq.set_global("invest_badge","third_suspect",3,"F");
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Timer(s)
   if(e.timer == "depop") then
 
@@ -47,6 +55,8 @@ eq.set_global("invest_badge","third_suspect",3,"F");
 
 **Willie Garrote despawns.**
  end
+
+
 
 ## Signals
 

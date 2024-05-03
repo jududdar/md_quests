@@ -1,7 +1,11 @@
 # lucid spirit of Abrams
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 390 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -23,6 +27,8 @@
 >**lucid spirit of Abrams says:** I can never give up the Arcanum. It's bound to me, is a part of me now. It represents the sacrifice I made to me friends.  It be the only thing that brings me any sliver of happiness. Only if ye kin replace it with somethin' of sentiment to me will I hand over the book.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -39,6 +45,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

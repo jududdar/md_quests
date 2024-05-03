@@ -21,6 +21,8 @@ quest_helper:silk_legs(SKYSHRINE_ARMOR.Silk_Pantaloons, 31166),
 quest_helper:silk_boots(SKYSHRINE_ARMOR.Silk_Boots, 31167) 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -114,6 +116,8 @@ else
 
 
 end
+
+
 
 ## Turn-Ins
 

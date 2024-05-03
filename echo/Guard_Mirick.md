@@ -1,4 +1,6 @@
 # Guard Mirick
+
+
 ## Dialog
 
 **You say:** `hail`

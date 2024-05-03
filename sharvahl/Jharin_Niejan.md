@@ -1,8 +1,12 @@
 # Jharin Niejan
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *shifting* for 100 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -63,6 +67,8 @@ count = 0;
 
 **Set a timer** named *shifting* for 100 seconds
 end
+
+
 
 ## Turn-Ins
 

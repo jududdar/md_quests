@@ -1,4 +1,6 @@
 # Camin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Camin says:** Ah! A smart one, I see! If you really wish to know about such a thing, you will have to help me finance my studies. The knowledge I have acquired and researched did not come cheaply.
 end
+
+
 
 ## Turn-Ins
 

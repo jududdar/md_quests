@@ -1,4 +1,6 @@
 # Lanken Rjarn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Lanken Rjarn says:** My problems are of no concern of yours, but if you must know it deals with Nolusia's brother. I can tell you no more. Leave me be.
 end
+
+
 
 ## Turn-Ins
 

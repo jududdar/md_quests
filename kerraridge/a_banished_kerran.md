@@ -1,4 +1,6 @@
 # a banished kerran
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**a banished kerran says:** Prrr... Master Puab? Show me prrroof.
 end
+
+
 
 ## Turn-Ins
 

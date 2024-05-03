@@ -1,4 +1,6 @@
 # Corporal Kent
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ Your faction standing with [Validus Custodus](/faction/1503) got worse (<span cl
 
 >**Corporal Kent says:** You can get them from sonic wolves.  Why are you still here?
 end
+
+
 
 ## Turn-Ins
 

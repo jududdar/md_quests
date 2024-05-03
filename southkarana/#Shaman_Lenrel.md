@@ -1,4 +1,6 @@
 # Shaman Lenrel
+
+
 ## On NPC Death
 
 if(math.random(100) < 50) then

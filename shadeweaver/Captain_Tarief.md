@@ -1,9 +1,13 @@
 # Captain Tarief
 
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *tarief* for 180 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -55,6 +59,8 @@ count = 0;
 **Set a timer** named *tarief* for 180 seconds
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -81,6 +87,8 @@ end
 
 >**Captain Tarief says:** Each of the saureks have their own unique set of scales. I am able to tell which saurek my trainees have managed to hunt successfully by the scale they return to me. Feel free to join in our lesson or the hunt. I hope that you will benefit from my advice. Hunt well, Soandso.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,5 +1,7 @@
 # Tektite
 
+
+
 ## Dialog
 
 **You say:** `tektite`
@@ -8,6 +10,8 @@
 
 >*Tektite makes the sound of grinding rocks as he moves his mouth. You cough uncontrollably from the dust cloud it creates. 'YOU SEEK TO OWN ME?' *
 end
+
+
 
 ## Turn-Ins
 

@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -108,6 +110,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -186,6 +190,8 @@ Red_Wine = Red_Wine - 1;
 until Red_Wine == 0;
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## On NPC Death
 

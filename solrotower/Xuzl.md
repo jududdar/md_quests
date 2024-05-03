@@ -1,4 +1,6 @@
 # Xuzl
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212410) at (**y:** -336, **x:** 1780)
@@ -10,6 +12,8 @@
 **Spawn NPC:**  [a warder of Xuzl](/npc/212415) at (**y:** -1091, **x:** 1880)
 
 **Spawn NPC:**  [a warder of Xuzl](/npc/212415) at (**y:** -1091, **x:** 1800)
+
+
 ## Combat
 
 if  Xuzl enters combat  then
@@ -22,6 +26,8 @@ else
 
 **Stop timer** named *bounds*
 end
+
+
 
 ## Timer(s)
 

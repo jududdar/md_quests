@@ -1,4 +1,6 @@
 # Crates the Philosopher
+
+
 ## Dialog
 
 **You say:** `hail`

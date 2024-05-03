@@ -1,5 +1,7 @@
 # Faer Shahar
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@
 
 >**Faer Shahar says:** Careless travelers from Shadow Haven leave their rubbish along our roads. They attract vermin and can smell just horrid. I try my best to keep the road clean, but it seems that I cannot keep up with the filth.
 end
+
+
 
 ## Turn-Ins
 

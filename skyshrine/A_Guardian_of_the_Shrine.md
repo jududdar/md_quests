@@ -2,6 +2,8 @@
 local SLEEPER_TYPE = 128094; 
 local SHOUT_TYPES = { 114618, 114508, 114435, 114564, 114434, 114501, 114014 };
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -62,6 +64,8 @@ eq.get_entity_list():MessageClose(npc, true, 600, 0, npc:GetCleanName().." shout
 
 **Set a timer** named *sleeper* for 600 seconds
 end
+
+
 
 ## Timer(s)
 

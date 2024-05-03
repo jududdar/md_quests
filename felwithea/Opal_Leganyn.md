@@ -1,4 +1,6 @@
 # Opal Leganyn
+
+
 ## Dialog
 
 **You say:** `hail`

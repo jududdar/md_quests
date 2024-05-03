@@ -1,4 +1,6 @@
 # Sentry Kedra Kai
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Sentry Kedra Kai says:** What is Paludal? The Paludal caverns mark the trade route to Shadowhaven. A series of tunnels that burrow into the very heart of Luclin. I would be very careful of the creatures that burrow through these caverns. They are very dangerous and will show no mercy on young adventurers. If you come across these creatures bring me four different carapaces shells and I will reward you with a shield made from them.
 end
+
+
 
 ## Turn-Ins
 

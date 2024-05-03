@@ -1,4 +1,6 @@
 # Verte
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 1) then
@@ -30,6 +32,8 @@ elseif (e.wp == 13) then
 
 **Signaled to:**  [Fordel Keeper Faloensar](/npc/150286)
 end
+
+
 
 ## Dialog
 

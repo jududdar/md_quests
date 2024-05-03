@@ -1,4 +1,6 @@
 # Anafora Silverlake
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,8 @@
 # Guardian of Dresolik
 local GUARDIAN_SPAWNIDS = { 367793, 367794, 367795, 367796 };
 
+
+
 ## On NPC Spawn
 
 local elist = eq.get_entity_list();
@@ -11,6 +13,8 @@ for _, id in ipairs(GUARDIAN_SPAWNIDS) do
 elist:GetSpawnByID(id):SetTimer(1);
 end
 
+
+
 ## On NPC Death
 
 if ( not **spawned NPC:**  [Guardian of Dresolik](/npc/212046) ) then 
@@ -18,6 +22,8 @@ if ( not **spawned NPC:**  [Guardian of Dresolik](/npc/212046) ) then
 
 **Spawn NPC:**  [The Protector of Dresolik](/npc/212408) at (**y:** 1584, **x:** 606)
 end
+
+
 
 ## Timer(s)
 
@@ -51,6 +57,8 @@ e.self:GMMove(e.self:GetSpawnPointX(), e.self:GetSpawnPointY(), e.self:GetSpawnP
 
 
 end
+
+
 
 ## Combat
 

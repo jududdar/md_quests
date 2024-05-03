@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1045.png" alt="" /> <a
@@ -25,6 +27,8 @@ if(**You possess item:**  <img style="background:url(/static/icons/blank_slot.gi
 >**a shady goblin says:** Are ya? Hum, let me see yer insignia then, and the note Skargus gave ya.
 
 end
+
+
 
 ## Turn-Ins
 

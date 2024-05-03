@@ -1,4 +1,6 @@
 # Royal Guardian of Below
+
+
 ## Dialog
 
 **You say:** `hail`

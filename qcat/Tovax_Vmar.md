@@ -1,7 +1,11 @@
 # Tovax Vmar
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Tovax* for 10 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "Tovax") then

@@ -1,6 +1,8 @@
 # Timtok Tonsmith
 
 
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then
@@ -31,6 +33,8 @@ if **Faction** >= Indifferent then
 >**Timtok Tonsmith says:** Crafted Armor is made by the Meadowgreen smiths. They can be found in the southern part of the Karanas.
 
 end
+
+
 
 ## Turn-Ins
 

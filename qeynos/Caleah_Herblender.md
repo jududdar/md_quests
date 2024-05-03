@@ -1,4 +1,6 @@
 # Caleah Herblender
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@ else
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -99,15 +103,21 @@ if ( returned ) then
 >**Caleah Herblender says:** Though the Order of Three appreciates your past efforts and deeds greatly, we do not feel we can trust you with such an important assignment just yet.
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *repeat* for 350 seconds
+
+
 
 ## Timer(s)
 
 >**Caleah Herblender says:** Drawna.. Are we all out of bat fur again?
 
 **Signaled to:**  [Drawna Opimsor](/npc/1051)
+
+
 ## Signals
 
 >**Caleah Herblender says:** Hmmm.. Let's see if we can find someone to help replenish our stock of [rat whiskers] and [bat fur]. I need these items for a new little [experiment] I'm working on.

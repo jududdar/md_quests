@@ -1,4 +1,6 @@
 # Barn Bloodstone
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Barn Bloodstone says:** The Golden Rooster only happens to be the finest gambling house in Highpass. It is also the only place in these parts that serves [Blackburrow Stout].
 end
+
+
 
 ## Turn-Ins
 

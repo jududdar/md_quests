@@ -1,4 +1,6 @@
 # Garon Battlehand
+
+
 ## Dialog
 
 **You say:** `hail`

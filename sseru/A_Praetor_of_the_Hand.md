@@ -1,4 +1,6 @@
 # A Praetor of the Hand
+
+
 ## Dialog
 
 **You say:** `hail`

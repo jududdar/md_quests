@@ -1,9 +1,13 @@
 # Taruun Guardian Maliij
+
+
 ## On NPC Spawn
 
 ran = math.random(75000);
 
-eq.set_timer("1",ran);## Timer(s)
+eq.set_timer("1",ran);
+
+## Timer(s)
 
 local rand = math.random(2);
 
@@ -20,6 +24,8 @@ if(rand == 2) then
 ran = math.random(75000);
 
 eq.set_timer("1",ran);
+
+
 ## Turn-Ins
 
 

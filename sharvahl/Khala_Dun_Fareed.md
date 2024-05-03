@@ -1,4 +1,6 @@
 # Khala Dun Fareed
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Khala Dun Fareed says:** Welcome to the royal court of King Raja Kerrath. King of Shar Vahl City. Descendant of the Great Vah Kerrath. Leader of all Vah Shir!  Please be respectful when you enter the royal throne room.
 end
+
+
 
 ## Turn-Ins
 

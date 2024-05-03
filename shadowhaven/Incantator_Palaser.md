@@ -1,4 +1,6 @@
 # Incantator Palaser
+
+
 ## Dialog
 
 **You say:** `hail`

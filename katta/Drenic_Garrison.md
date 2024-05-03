@@ -1,4 +1,6 @@
 # Drenic Garrison
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@
 
 >**Drenic Garrison says:** I wish to examine the lungs or whatever breathing organs these creatures have. It would not be prudent to hunt and kill a living member of this species and society we know practically nothing about but there are several undead snake men in the region as well. I will require three such organs however to perform the proper experiments.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Bryan McGee
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -43,6 +47,8 @@ if ( stanos.valid ) then
 e.self:MoveTo(stanos:GetX(), stanos:GetY(), stanos:GetZ(), -1, false);
 
 end
+
+
 
 ## Turn-Ins
 

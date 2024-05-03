@@ -1,4 +1,6 @@
 # Gnasher Furgutt
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -35,6 +37,8 @@ else
 
 **Gnasher Furgutt attacks you.**
 end
+
+
 
 ## Turn-Ins
 

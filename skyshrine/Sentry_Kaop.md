@@ -1,4 +1,6 @@
 # Sentry Kaop
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Amber
+
+
 ## Dialog
 
 if(e.other:IsSelfFound() == 1 or e.other:IsSoloOnly() == 1) then

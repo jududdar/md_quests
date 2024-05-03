@@ -1,4 +1,6 @@
 # Talorial D-Estalian
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

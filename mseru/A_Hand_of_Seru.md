@@ -1,4 +1,6 @@
 # A Hand of Seru
+
+
 ## Dialog
 
 **You say:** `hail`

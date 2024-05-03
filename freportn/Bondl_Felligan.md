@@ -1,4 +1,6 @@
 # Bondl Felligan
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -44,6 +46,8 @@ eq.start(15);
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -71,6 +75,8 @@ eq.start(13);
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 6 and e.self:GetX() == 407 and e.self:GetY() == 235) then

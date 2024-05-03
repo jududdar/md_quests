@@ -1,7 +1,11 @@
 # a Xakra Sei
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **a Xakra Sei despawns.**
 end
+
+
 
 ## Combat
 

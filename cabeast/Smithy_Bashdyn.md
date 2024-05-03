@@ -1,4 +1,6 @@
 # Smithy Bashdyn
+
+
 ## Dialog
 
 **You say:** `Hail`

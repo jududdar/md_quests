@@ -1,4 +1,6 @@
 # Xalirilan Zarinokosalio
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -148,6 +150,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/22584" data-url="22584" class="tooltip-link link">An Enchanted Bracer Pattern</a>
 
 end
+
+
 
 ## Turn-Ins
 

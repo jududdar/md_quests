@@ -1,4 +1,6 @@
 # Jarse Kedison
+
+
 ## Dialog
 
 **You say:** `leader`

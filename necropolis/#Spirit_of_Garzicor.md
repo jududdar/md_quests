@@ -1,7 +1,11 @@
 # Spirit of Garzicor
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 900 seconds
+
+
 ## Turn-Ins
 
 
@@ -24,6 +28,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 **Spirit of Garzicor despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

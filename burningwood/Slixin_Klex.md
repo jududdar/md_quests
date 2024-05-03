@@ -1,5 +1,7 @@
 # Slixin Klex
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@
 
 >**Slixin Klex says:** Hhhhh. Three pieces there are. One sits in the hands of Sselot though he knows its purpose not. Another sits upon an iksar ghost in Trakanons. The last is held by a long rotted iksar skeleton in the Dreadlands. Bring them all here and I may be able to unite them again. Perhaps this will even free me from my torment... or not.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Rigg Nostra
+
+
 ## Dialog
 
 **You say:** `crate of pick head`
@@ -13,6 +15,8 @@
 
 >**Rigg Nostra says:** There is a halfling named Jimble Woodentoe that occasionally visits Freeport to peddle his woodcrafts. He can be found traveling through the Commonlands from the direction of Rivervale. Find Jimble and 'convince' him to donate a bundle of hardwood shafts to the Coalition of Tradefolk as tax for peddling his wares in our city.
 end
+
+
 
 ## Turn-Ins
 

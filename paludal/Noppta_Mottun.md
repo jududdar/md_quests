@@ -1,4 +1,6 @@
 # Noppta Mottun
+
+
 ## Dialog
 
 **You say:** `hail`

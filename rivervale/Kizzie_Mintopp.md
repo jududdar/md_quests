@@ -7,6 +7,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -45,6 +47,8 @@
 
 >**Kizzie Mintopp says:** It's a secret!!  I get the honeycombs and combine them with the secret sauce and..presto.. honey jum!!  It is used by only the wisest as a component.  And you can only get it from Kizzie.  It is also good on batwing crunchies.  If you like.. Kizzie can [make honey jum] for you?
 end
+
+
 
 ## Turn-Ins
 

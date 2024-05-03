@@ -1,4 +1,6 @@
 # Guard Deregan
+
+
 ## Dialog
 
 **You say:** `hail`

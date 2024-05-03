@@ -1,4 +1,6 @@
 # Guard Weleth
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -192,6 +194,8 @@ else
 >**Guard Weleth says:** What was that you said? You mentioned the Sabertooths of Blackburrow? Those gnolls have caused this city trouble harm for too long. We have yet to force them from Qeynos Hills. I hear rumors of a few merchants who even dare to sell the outland Blackburrow Stout which is brewed by the gnolls. Foolish!! We call upon all citizens to assist in ridding our land of the gnolls. If you wish to join the fight then speak with Captain Tillin.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -227,6 +231,8 @@ Your faction standing with [Merchants of Qeynos](/faction/291) got better (<span
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-5 <img src='/static/icons/item_646.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

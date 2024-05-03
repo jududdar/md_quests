@@ -1,4 +1,6 @@
 # General Staginar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -41,6 +43,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_608.png" alt="" /> <a
                                 href="/item/17867" data-url="17867" class="tooltip-link link">Box of the General's challenge</a>
 end
+
+
 
 ## Turn-Ins
 
@@ -109,6 +113,8 @@ else
 **This NPC *should* return incorrect items given.**
 ;
 end
+
+
 
 ## Timer(s)
 

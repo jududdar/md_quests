@@ -1,7 +1,11 @@
 # Charlotte
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);
+
+
 ## Signals
 
 if((e.signal==1) and ((e.self:GetX() == -495) or (e.self:GetX() == -734)) and ((e.self:GetY() == -154) or (e.self:GetY() == 114))) then

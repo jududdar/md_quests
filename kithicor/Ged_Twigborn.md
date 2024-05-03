@@ -1,4 +1,6 @@
 # Ged Twigborn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -116,6 +118,8 @@ else
 >**Ged Twigborn says:** I am sorry but I just would not feel comfortable helping you with that right now.  Maybe if you did more good deeds for the people of Kithicor Woods, I might reconsider.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Lanhern Firepride
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -62,6 +64,8 @@
 
 >**Lanhern Firepride says:** Dren Ironforge is only the most eligible bachelor in Qeynos! Not only has he graced this city with his good looks and charm, he will someday inherit the Ironforge Estate. What a catch he would be!
 end
+
+
 
 ## Turn-Ins
 

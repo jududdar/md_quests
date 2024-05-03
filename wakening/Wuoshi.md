@@ -1,4 +1,6 @@
 # Wuoshi
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -6,6 +8,8 @@ if ( e.signal == 1 ) then
 
 **Wuoshi shouts:** <span class="text-danger">The Sleeper has been awakened!  Shun the Skyshrine if you value your lives, for he shall be here soon!</span>
 end
+
+
 
 ## Dialog
 

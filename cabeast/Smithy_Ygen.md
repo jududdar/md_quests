@@ -1,4 +1,6 @@
 # Smithy Ygen
+
+
 ## Dialog
 
 **You say:** `Hail`

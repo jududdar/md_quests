@@ -1,4 +1,6 @@
 # Trooper Keplar
+
+
 ## Dialog
 
 **You say:** `Hail`

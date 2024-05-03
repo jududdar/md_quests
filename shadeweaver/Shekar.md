@@ -1,4 +1,6 @@
 # Shekar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Shekar says:** To assemble this club, I require only two things. The first is a wooden practice flail. The second is a talon from the great claw beasts. They are quite rare, and large, and might be a difficult kill.
 end
+
+
 
 ## Turn-Ins
 

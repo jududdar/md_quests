@@ -21,6 +21,8 @@ quest_helper:melee_legs(THURG_ARMOR.Leather_Leggings, 5458),
 quest_helper:melee_boots(THURG_ARMOR.Leather_Boots, 5459), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Kindly) then
@@ -121,6 +123,8 @@ else
 
 >**Pearce Icefang says:** I do not know you well enough to entrust you with such a quest, yet.
 end
+
+
 
 ## Turn-Ins
 

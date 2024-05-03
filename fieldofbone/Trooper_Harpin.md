@@ -1,4 +1,6 @@
 # Trooper Harpin
+
+
 ## Dialog
 
 **You say:** `hail`

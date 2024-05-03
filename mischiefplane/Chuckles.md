@@ -1,7 +1,11 @@
 # Chuckles
+
+
 ## On NPC Spawn
 
 **Set a timer** named *dance* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "dance") then
@@ -9,6 +13,8 @@ if(e.timer == "dance") then
 
 e.self:DoAnim(34);  
 end
+
+
 
 ## Combat
 

@@ -1,4 +1,6 @@
 # Brolan Geppal
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Brolan Geppal says:** For the sword you must gather these things a cloud jewel, a mark of chants, a red stone idol, and a moonstone studded medal.
 end
+
+
 
 ## Turn-Ins
 

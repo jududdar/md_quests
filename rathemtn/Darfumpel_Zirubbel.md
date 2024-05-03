@@ -1,4 +1,6 @@
 # Darfumpel Zirubbel
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Darfumpel Zirubbel says:** A hyacinth, eh? That is quite a rare stone. Quite fragile and easily shattered, too. With my new technique, I can assure you I will not destroy the gem, however, it will cost you. 1000 platinum coins is my fee. Provide me with the coin and the gem and I will cut it for you.
 end
+
+
 
 ## Turn-Ins
 

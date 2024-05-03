@@ -1,4 +1,6 @@
 # Rolynn B-Div
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Rolynn B-Div says:** Talk to Head Master Narex of the Indigo Brotherhood. He will tell you.
 end
+
+
 
 ## Arrive at Waypoint Script
 

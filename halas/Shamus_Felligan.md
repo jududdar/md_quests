@@ -1,5 +1,7 @@
 # Shamus Felligan
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -41,6 +43,8 @@ elseif( **Faction is** < Indifferent) then
 >**Shamus Felligan says:** The scales o' the Shamans o' Justice dinnae tip in yer favor. Ye'd best flee while ye still have the chance.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # A Praesertum Functionary
+
+
 ## Dialog
 
 **You say:** `hail`

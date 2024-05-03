@@ -1,4 +1,6 @@
 # Vranol Blackguard
+
+
 ## Dialog
 
 **You say:** `hail`

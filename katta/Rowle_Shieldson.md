@@ -1,6 +1,8 @@
 # Rowle Shieldson
 
 
+
+
 ## Dialog
 
 local tack = eq.get_entity_list():GetMobByNpcTypeID(160398);
@@ -27,6 +29,8 @@ if(tack.valid) then
 tack:Say("Yar, Rowle. So whadda ye say, friend? We stand around drinkin' water on duty all day, and that ain't no life fer a dwarf. Now we bin hearin' bout all these new ales and suchnot comin' up from Norrath. Ye think ye might be so kind as to share a pint and raise our spirits?");
 
 end
+
+
 
 ## Turn-Ins
 

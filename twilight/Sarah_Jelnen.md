@@ -1,4 +1,6 @@
 # Sarah Jelnen
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 >**Sarah Jelnen says:** For the talisman you must get me a meteor jewel, a mark of rage, and a spirit marked ornament.
 end
+
+
 
 ## Turn-Ins
 

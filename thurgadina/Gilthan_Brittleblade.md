@@ -1,6 +1,8 @@
 # Gilthan Brittleblade
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Gilthan Brittleblade says:** I wasn't always a pottery salesman ye know, I used to forge fine velium weapons and even had me own shop.  Unfortunately no one wanted to buy anything from Brittleblade's, sl I work with clay now, care to purchase somethin?
 end
+
+
 
 ## Turn-Ins
 

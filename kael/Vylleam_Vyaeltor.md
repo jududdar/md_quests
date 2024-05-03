@@ -21,6 +21,8 @@ quest_helper:priest_legs(KAEL_ARMOR.Plate_Greaves, 25396),
 quest_helper:priest_boots(KAEL_ARMOR.Plate_Boots, 25397), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -128,6 +130,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Vylleam Vyaeltor says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -379,6 +381,8 @@ else
 >*Cheyloh Greenwood furrows her brow and eyes you warily, 'I am quite busy at this time, good traveler. Perhaps if The Rainkeeper one day finds you in his favor, and thus you gain the favor of the Residents of the Jaggedpine, when and if you return to us, I may be able to be of more assistance. For now, good traveler, I must ask that you leave me to my duties.*
 
 end
+
+
 
 ## Turn-Ins
 

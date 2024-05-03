@@ -1,4 +1,6 @@
 # Master Rixiz
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -68,6 +70,8 @@ else
 
 >**Master Rixiz says:** Embalming fluid is created through brewing, but do not drink it!! You can learn about the process of brewing on our grounds.
 end
+
+
 
 ## Turn-Ins
 

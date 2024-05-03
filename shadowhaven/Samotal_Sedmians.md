@@ -1,4 +1,6 @@
 # Samotal Sedmians
+
+
 ## Dialog
 
 **You say:** `hail`

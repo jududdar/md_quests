@@ -1,4 +1,6 @@
 # Jala
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Jala says:** Wonderful! I'm not much of a hunter myself, so as you can see it can be quite difficult for me to obtain these silks. If you can bring me four of them. I would greatly appreciate it.
 end
+
+
 ## Turn-Ins
 
 

@@ -1,4 +1,6 @@
 # Centurion Relicor
+
+
 ## Dialog
 
 **You say:** `hail`

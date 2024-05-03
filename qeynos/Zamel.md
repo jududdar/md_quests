@@ -1,7 +1,11 @@
 # Zamel
+
+
 ## On NPC Spawn
 
 **Set a timer** named *help* for 300 seconds
+
+
 ## Timer(s)
 
 local endicRandom = 0;
@@ -21,6 +25,8 @@ if(endicRandom < 16) then
 
 
 end
+
+
 
 ## Dialog
 
@@ -48,6 +54,8 @@ end
 
 >**Zamel says:** The daughter of one of our own guardsmen is missing. He has offered me a reward for any information about her disappearance. So, if you find out anything, let me know and I will cut you in on the reward.
 end
+
+
 
 ## Turn-Ins
 

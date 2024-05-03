@@ -1,4 +1,6 @@
 # Leaf Falldim
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +45,8 @@
 
 >**Leaf Falldim says:** 'If you wish the ivy etched boots, you shall do me a favor. I am testing new arrow tips and wish a few of the hardest minerals I know of. From the mines of the Temple of Solusek Ro, ronium. From the land of Mistmoore, fetch me Mistmoore granite. Return these to me along with a guild offering of 2000 gold pieces.
 end
+
+
 
 ## Turn-Ins
 

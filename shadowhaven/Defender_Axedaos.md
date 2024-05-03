@@ -1,4 +1,6 @@
 # Defender Axedaos
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Defender Axedaos says:** Greetings to you, Soandso. Beyond lies the path to Shadowhaven. I hope you enjoy your time with us.
 end
+
+
 
 ## Combat
 
@@ -21,9 +25,13 @@ else
 **Stop timer** named *combatsay*
 end
 
+
+
 ## Timer(s)
 
 >**Defender Axedaos says:** A fool you are indeed to test your fighting skills to mine!  You shall now die by my blade!
+
+
 ## On NPC Death
 
 **Stop timer** named *combatsay*

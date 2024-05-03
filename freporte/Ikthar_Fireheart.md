@@ -1,4 +1,6 @@
 # Ikthar Fireheart
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Ikthar Fireheart says:** Folded sheets of high quality ore can be crafted only in the special Freeport forge or Qeynos Royal Forge in the same fashion that regular folded sheets are fashioned in a standard forge. Field plate visors. collars. and bracers require only one folded sheet of high quality ore. Helms. pauldrons. girdles. vambraces. gauntlets. and boots require two folded sheets of high quality ore. Breastplates. greaves. and cloaks require three folded sheets of high quality ore.
 end
+
+
 
 ## Turn-Ins
 

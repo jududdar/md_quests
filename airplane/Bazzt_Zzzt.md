@@ -1,4 +1,6 @@
 # Bazzt Zzzt
+
+
 ## On NPC Death
 
 local sirranName = "sirran";

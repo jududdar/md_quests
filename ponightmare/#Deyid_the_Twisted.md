@@ -31,6 +31,8 @@ local FOREBODING_LOCS = {
 
 local forebodingIDs;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
@@ -149,11 +151,15 @@ mob:Depop();
 eq.get_entity_list():MessageClose(e.self, true, 200, 0, "Several of the foreboding trees tear their roots from the ground and move in to aid Deyid.");
 end
 
+
+
 ## On NPC Death
 
 eq.signal(SEILAEN_TYPE, 1);
 
 eq.signal(FOREBODING_TYPE, 1);
+
+
 ## Timer(s)
 
 if ( e.timer == "checkbounds" ) then

@@ -1,7 +1,11 @@
 # Lord Rak-Ashiir
+
+
 ## On NPC Spawn
 
 **Set a timer** named *faction* for 5 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "faction") then
@@ -17,6 +21,8 @@ if **Faction** <  Ally +700 and e.other:Admin() < 80) then
 
 e.self:AddToHateList(e.other,1);
 end
+
+
 
 ## Turn-Ins
 

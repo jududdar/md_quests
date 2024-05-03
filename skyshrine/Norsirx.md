@@ -1,4 +1,6 @@
 # Norsirx
+
+
 ## Dialog
 
 **You say:** `hail`

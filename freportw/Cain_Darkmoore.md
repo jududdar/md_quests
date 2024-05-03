@@ -1,4 +1,6 @@
 # Cain Darkmoore
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -37,6 +39,8 @@
 
 >**Cain Darkmoore says:** Opal. Beautiful Opal Darkbriar. Never have I gazed upon a more beautiful creature. She works as a librarian at the Academy of Arcane Science. Some day she shall be mine. A warrior as bold as myself deserves the very best and she is truly that.
 end
+
+
 
 ## Turn-Ins
 

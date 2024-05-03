@@ -1,4 +1,6 @@
 # Guard Jabbar
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Guard Jabbar says:** Greetings! You wouldn't happen to be the one delivering the tea I requested from Ahlan, are you?
 end
+
+
 
 ## Turn-Ins
 
@@ -28,6 +32,8 @@ eq.start(37);
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

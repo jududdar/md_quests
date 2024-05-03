@@ -1,7 +1,11 @@
 # Jracol Brestiage
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "pick_up" ) then
@@ -18,6 +22,8 @@ while ( e.self:CheckGround() ) do
 
 
 local proof = 0;
+
+
 
 ## Dialog
 
@@ -78,6 +84,8 @@ else
 >**Jracol Brestiage says:** Carson hates you, and I hate you... I'd kill you where you stand, but I just polished my dagger last night.
 
 end
+
+
 
 ## Turn-Ins
 

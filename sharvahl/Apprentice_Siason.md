@@ -1,4 +1,6 @@
 # Apprentice Siason
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -188,6 +190,8 @@
 >**Apprentice Siason says:** Acrylia is the magical ore found in the mines to the north. We use this ore to build our homes and weapons. It has been very difficult lately to mine for these stones due to the grimling attacks on our miners.
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -200,6 +204,8 @@ if(e.signal == 2) then
 
 >**Apprentice Siason says:** ... but, what sort of energy is it sire? Can you understand its nature?
 end
+
+
 
 ## Turn-Ins
 

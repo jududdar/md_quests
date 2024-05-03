@@ -1,4 +1,6 @@
 # Councilor Icepike
+
+
 ## Dialog
 
 **You say:** `hail`

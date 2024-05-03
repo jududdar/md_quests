@@ -1,4 +1,6 @@
 # Denken Strongpick
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Denken Strongpick says:** I would be willing to part with this very fine blade for a keg of Vox tail ale, a block of permafrost to keep it cool and two new rebreathers to get this operation back underway.
 end
+
+
 
 ## Turn-Ins
 

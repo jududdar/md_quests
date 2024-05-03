@@ -1,4 +1,6 @@
 # Zenoux
+
+
 ## Dialog
 
 if(e.language == 22 and e.other:GetLanguageSkill(22) == 100) then 

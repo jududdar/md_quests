@@ -1,4 +1,6 @@
 # Ambassador Dordak
+
+
 ## Dialog
 
 **You say:** `hail`

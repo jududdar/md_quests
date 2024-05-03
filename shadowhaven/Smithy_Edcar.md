@@ -1,4 +1,6 @@
 # Smithy Edcar
+
+
 ## Dialog
 
 **You say:** `hail`

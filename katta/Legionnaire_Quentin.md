@@ -1,4 +1,6 @@
 # Legionnaire Quentin
+
+
 ## Dialog
 
 **You say:** `hail`

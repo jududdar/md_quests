@@ -1,4 +1,6 @@
 # Jyle Windshot
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -29,6 +31,8 @@ else
 >**Jyle Windshot says:** Your ways are considered vile to Faydark's Champions. Leave before my rage overcomes my restraint.
 
 end
+
+
 
 ## Turn-Ins
 

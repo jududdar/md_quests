@@ -1,5 +1,7 @@
 # Aid Fimli
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Aid Fimli says:** Wonderful! If you would gather the following; a bundle of superconductive wires, silicorrosive grease, a gold tipped boar horn and a shard of pure energy, then take them to my uncle Sanfyrd in Ak'Anon. I would really appreciate being able to get back to my work uninterrupted.
 end
+
+
 
 ## Turn-Ins
 

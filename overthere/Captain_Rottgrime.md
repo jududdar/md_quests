@@ -1,4 +1,6 @@
 # Captain Rottgrime
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Captain Rottgrime says:** Stand up straight!! That is correct marine!! YOU shall not allow the sarnak to overtake the shipyards!! Head out to the frontlines, marine!! Kill the berzerkers and return their war braids to me!! For every four, you shall earn your wages!! Now get to the front, marine!! Move it!! Move it!!
 end
+
+
 
 ## Turn-Ins
 
@@ -45,6 +49,8 @@ Your faction standing with [Venril Sathir](/faction/318) got better (<span class
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 1-4 <img src='/static/icons/item_645.png' width='14' height='14'/> 0 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

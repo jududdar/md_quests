@@ -1,4 +1,6 @@
 # Lashun Novashine
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -36,6 +38,8 @@
 eq.move_to(0,0,4,0,false);
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 13 or e.wp == 14 or e.wp == 15) then
@@ -48,6 +52,8 @@ elseif(e.wp == 57) then
 
 >**Lashun Novashine says:** Greetings, people of Qeynos! Are you lost? Has the chaotic life of an adventurer left you empty and alone? Seek redemption in the glorious light of the Prime Healer. Only through Rodcet Nife and the Temple of Life will you find true health and salvation.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Kroldar Strongarm
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 
 >**Kroldar Strongarm says:** The Coterie of the Eternal Night are not an enemy to be taken lightly. Our vampyre hunters must be dedicated to the annihilation of the undead. These vampyres tend to hold grudges that may last several of our lifetimes and their twisted vengeance may be inflicted on your descendents unless every one of the twisted abominations is destroyed. Should you bring me the fangs of four vampyres I will know you have taken the first step and are dedicated to the cause.
 end
+
+
 
 ## Turn-Ins
 

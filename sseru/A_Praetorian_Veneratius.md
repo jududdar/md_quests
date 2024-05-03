@@ -1,4 +1,6 @@
 # A Praetorian Veneratius
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Astral Projection
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >*Astral Projection ignores you.*
 end
+
+
 
 ## Turn-Ins
 

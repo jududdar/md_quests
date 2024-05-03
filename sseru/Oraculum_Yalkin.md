@@ -1,4 +1,6 @@
 # Oraculum Yalkin
+
+
 ## Dialog
 
 **You say:** `hail`

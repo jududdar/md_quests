@@ -1,4 +1,6 @@
 # Brunar Rankin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Brunar Rankin says:** Oh, yes.  It will be a good haul today.  Gregor will pay me plenty today.
 end
+
+
 
 
 ## Arrive at Waypoint Script

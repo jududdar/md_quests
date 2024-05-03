@@ -1,4 +1,6 @@
 # Barlotal
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Ruathey
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -38,6 +40,8 @@ if(qglobals["Ruathey"] ~= nil) then
 eq.delete_global("Ruathey");
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Bartender Woolf
+
+
 ## Dialog
 
 **You say:** `hail`

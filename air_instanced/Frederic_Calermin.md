@@ -1,7 +1,11 @@
 # Frederic Calermin
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +36,8 @@
 
 >**Frederic Calermin says:** Shielding it is. Proceed upward through the sky and return to me a Hyaline Globe, an Ivory Pendant, and a Golden Coffer. This will prove your abilities to me and I will reward you with an Gold White Pendant.
 end
+
+
 
 ## Turn-Ins
 
@@ -90,6 +96,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Frederic Calermin despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

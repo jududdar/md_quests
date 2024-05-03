@@ -1,4 +1,6 @@
 # General Dalinastalarix
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 5) then
@@ -60,6 +62,8 @@ elseif (e.wp == 31) then
 
 **Signaled to:**  [Lookout Uhingil](/npc/150043)
 end
+
+
 
 ## Dialog
 

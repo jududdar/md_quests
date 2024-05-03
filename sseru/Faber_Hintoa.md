@@ -1,4 +1,6 @@
 # Faber Hintoa
+
+
 ## Dialog
 
 **You say:** `hail`

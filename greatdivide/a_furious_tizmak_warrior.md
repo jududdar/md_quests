@@ -1,4 +1,6 @@
 # a furious tizmak warrior
+
+
 ## Dialog
 
 **You say:** `hail`

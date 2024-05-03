@@ -1,7 +1,11 @@
 # Ember
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds
+
+
 ## Timer(s)
 
 
@@ -32,6 +36,8 @@ eq.follow(follow_mob,10);
 **Stop timer** named *follow*
 
 end
+
+
 
 ## Signals
 

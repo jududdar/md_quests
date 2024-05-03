@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -23,6 +25,8 @@
 >**Atheling Plague says:** I am sure you would not mind removing the head of a scaled mystic. I hope not. There is an old Iksar who once called me slave. Now he shall adorn my wall, mounted on a fine plaque. His name is Digalis. Find him. Do not return until your task is complete.
 end
 
+
+
 ## Turn-Ins
 
 
@@ -42,6 +46,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 
 **This NPC *should* return incorrect items given.**
 ;
+
+
 ## Timer(s)
 
 if(e.timer == "heal") then
@@ -50,6 +56,8 @@ if(e.timer == "heal") then
 **Atheling Plague casts:** [Healing](/spell/12) on **NPC:**  [Clerk Doval](/npc/87154)
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -57,6 +65,8 @@ if(e.signal == 1) then
 
 **Stop timer** named *heal*
 end
+
+
 
 ## On NPC Death
 

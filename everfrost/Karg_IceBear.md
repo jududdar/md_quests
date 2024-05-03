@@ -1,10 +1,16 @@
 # Karg IceBear
+
+
 ## On NPC Spawn
 
  **Set a timer** named *depop* for 3600 seconds
+
+
 ## Timer(s)
 
 **Karg IceBear despawns.**
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -43,6 +49,8 @@
 
 >**Karg IceBear says:** Oh, a werewolf claw? If you were to give me the claw and 75 platinum, I could craft excellent gauntlets.
 end
+
+
 
 ## Turn-Ins
 

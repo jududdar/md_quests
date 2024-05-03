@@ -1,4 +1,6 @@
 # Sigan Ilbirkun
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then

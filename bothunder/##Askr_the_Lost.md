@@ -1,4 +1,6 @@
 # Askr the Lost
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,9 +22,13 @@
 **Spawn NPC:**  [A Chaotic Vortex](/npc/209158) at (**y:** -1735, **x:** -1110)
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3300 seconds
+
+
 ## Timer(s)
 
 if ( e.timer == "depop" ) then

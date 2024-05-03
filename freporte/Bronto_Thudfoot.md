@@ -1,4 +1,6 @@
 # Bronto Thudfoot
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -94,6 +96,8 @@ local fac = e.other:GetFaction(e.self);
 
 
 end
+
+
 
 ## Signals
 

@@ -12,6 +12,8 @@ if ( (e.self:GetY() < -900 and e.self:GetX() > -300) or (e.self:GetY() < -600 an
 e.self:MovePC(201, 473, 685, 10, 0); 
 end
 
+
+
 ## Timer(s)
 
 if ( e.timer == "seventh" ) then

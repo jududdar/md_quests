@@ -1,5 +1,7 @@
 # The Great Oowomp
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -39,6 +41,8 @@ e.self:DoAnim(48);
 e.self:DoAnim(65);
 end
 
+
+
 ## Turn-Ins
 
 
@@ -70,6 +74,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

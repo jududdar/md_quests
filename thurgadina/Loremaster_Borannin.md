@@ -1,6 +1,8 @@
 # Loremaster Borannin
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@
 
 >**Loremaster Borannin says:** Soandso! Thank Brell you're here. I was about to send one of my Lorekeepers looking for you. It appears that the information Tanik acquired is most perilous indeed. The Dain has called an emergency session of the council and I must attend. We don't have the luxury of waiting for an appropriate task to arise, you must advance as soon as possible. Unfortunately, I have neither the time, nor the components to fashion the next few shawls for you. Ask Rexx Frostweaver about the prayer shawl and follow his direction carefully.
 end
+
+
 
 ## Turn-Ins
 

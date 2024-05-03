@@ -1,6 +1,8 @@
 # Silox Azrix
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >*Silox Azrix gives you a crooked smile. 'Hello there, Soandso. I'm doin some important 'meditations' to my god here. Maybe you can go somewhere else?'*
 end
+
+
 
 ## Turn-Ins
 

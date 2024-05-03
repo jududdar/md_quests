@@ -1,4 +1,6 @@
 # Sentinel Creot
+
+
 ## Arrive at Waypoint Script
 
 if((e.wp == 1) or (e.wp == 3)) then

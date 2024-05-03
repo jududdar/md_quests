@@ -1,4 +1,6 @@
 # Elisabeth
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@ else
 >**Elisabeth says:** Leave my presence at once. Your ways of life are not acceptable to one who follows the Truthbringer.
 
 end
+
+
 
 ## Turn-Ins
 

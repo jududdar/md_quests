@@ -1,4 +1,6 @@
 # Lord Searfire
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Ulump Pujluk
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Ulump Pujluk says:** Corruption spread by priests of disease. It slides and moves just beneath the surface of the land. Ulump not able to hold on any more. If you stormwalker and trying to cleanse the land then you must kill Ulump. Kill him and take his essence and the three foci from the corrupted beasts to the filthy gnome who hurts the land. Ulump can feel him, far off near the large water.
 end
+
+
 
 ## Turn-Ins
 

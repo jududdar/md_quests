@@ -1,4 +1,6 @@
 # Zazlan Furscale
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Zazlan Furscale says:** The payment is armor that we have been given by the Hierophants to distribute among those who help in the rebuilding. They feel that the duties you complete for us will benefit the Temple of Terror.
 end
+
+
 
 ## Turn-Ins
 

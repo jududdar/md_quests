@@ -1,4 +1,6 @@
 # Arrias Arcanum
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Arrias Arcanum says:** My son Ariam, a paladin of this fair city, has been missing for many years. Now, after remaining hopeful for so long, I have given up and it has broken my heart and soul. If I could but hear news to know of his fate, then I could find comfort again. Until then, I am no good to others. I am sorry.
 end
+
+
 
 ## Turn-Ins
 

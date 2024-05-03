@@ -1,4 +1,6 @@
 # Velan Torresk
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -126,6 +128,8 @@ else
 
 >**Velan Torresk says:** Master Puab is the head master of the Ashen Order.  His grandfather, Khenur Closk, was the founder of the Ashen Order many years ago.  Khenur led the Order around the Desert of Ro nomadically for almost a decade, helping the lost and protecting trade caravans from bandits.  He then decided to settle here in Freeport, and the rest is history.
 end
+
+
 
 ## Turn-Ins
 

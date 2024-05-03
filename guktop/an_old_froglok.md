@@ -1,4 +1,6 @@
 # an old froglok
+
+
 ## Dialog
 
 if( **Faction is** > Kindly) then 
@@ -28,6 +30,8 @@ if( **Faction is** > Kindly) then
 >**an old froglok says:** Frroooaaaaaakkkk! So cold! You bring me waaarm velium mastodon fur cloaaak! I need supplies! You bring me maaana juice! You bring me elf essence! You bring me sturdy froglock crown those naaasty big frogs stole! Frroooaaaaaakkkk! I maaake you something nice! So cold! You bring me all those things, don't forget cloaaak!
 
 end
+
+
 
 ## Turn-Ins
 

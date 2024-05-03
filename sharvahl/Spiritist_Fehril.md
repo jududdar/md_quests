@@ -1,6 +1,8 @@
 # Spiritist Fehril
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -21,6 +23,8 @@
 
 >**Spiritist Fehril says:** Hmmm, while I dabble in the art of potions mixing myself, I am no scholar in the field. Perhaps Spiritist Ragnar would be of more assistance to you.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # Ghost of Burdael
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +20,8 @@
 
 >*Ghost of Burdael says, in an unknown tongue, 'Yiond?!?!? Yohodfnon jf awhicin fhnn fhgou vu ganferdefli sahbfnfn. Yexsf asfsdfupoi xubeni gindas hguj quetsrrop. Pliuhghtn gurintop noe?'*
 end
+
+
 
 ## Combat
 
@@ -34,6 +40,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Timer(s)
 

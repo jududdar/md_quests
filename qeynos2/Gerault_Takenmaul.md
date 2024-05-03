@@ -1,4 +1,6 @@
 # Gerault Takenmaul
+
+
 ## Dialog
 
 **You say:** `hail`

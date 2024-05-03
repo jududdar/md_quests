@@ -1,4 +1,6 @@
 # Genda Minyte
+
+
 ## Dialog
 
 **You say:** `Hail`

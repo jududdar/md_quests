@@ -1,9 +1,13 @@
 # Natasha Whitewater
 
 
+
+
 ## On NPC Spawn
 
 **Natasha Whitewater shouts:** <span class="text-danger">The Triumvirate of Water has decreed your fate, Shmendrik Lavawalker!! I am here to deliver said fate!!</span>
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -12,6 +16,8 @@
 
 >**Natasha Whitewater says:** The Riptide goblins must have their crown returned to them. If you would be so kind as to give me the crown I will make sure that it reaches them. Hopefully they are capable enough to repair the damage that has been done to it.
 end
+
+
 
 ## Turn-Ins
 
@@ -34,6 +40,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -49,6 +57,8 @@ elseif(e.signal == 2) then
 
 >**Natasha Whitewater says:** This conflict has been destined by the waters of the Triumvirate!
 end
+
+
 
 ## Arrive at Waypoint Script
 

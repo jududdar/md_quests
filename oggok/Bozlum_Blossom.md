@@ -1,4 +1,6 @@
 # Bozlum Blossom
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -22,6 +24,8 @@
 
 **Signaled to:**  [Bozlum Blossom pet](/npc/49022)
 end
+
+
 
 ## Turn-Ins
 

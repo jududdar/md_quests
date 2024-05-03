@@ -1,13 +1,19 @@
 # a sleeping ogre
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *appearance* for 1 seconds
+
+
 ## Timer(s)
 
 **Stop timer** named *appearance*
 
 e.self:SetAppearance(3);
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +22,8 @@ e.self:SetAppearance(3);
 
 >*a sleeping ogre snorts a bit and continues sleeping.*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Gogu the Smasher
+
+
 ## Dialog
 
 **You say:** `what realm of heroes`
@@ -19,6 +21,8 @@
 
 >**Gogu the Smasher says:** Kisrak the Tyrant is 'nother hero from da Realm.  Kisrak is reel smart an' stuff. but he like to smash tuu.  He in Oggok right now lookin' fer heroes.
 end
+
+
 
 ## Turn-Ins
 

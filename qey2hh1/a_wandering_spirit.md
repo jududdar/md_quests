@@ -1,4 +1,6 @@
 # a wandering spirit
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -39,6 +41,8 @@ e.self:Say(string.format("Yes, I have taken Marr's Promise along with Woe and En
                                 href="/item/1668" data-url="1668" class="tooltip-link link">Sparkling Gem</a>
 
 end
+
+
 
 ## Turn-Ins
 

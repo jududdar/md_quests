@@ -1,4 +1,6 @@
 # an advisor
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -10,6 +12,8 @@
 
 **an advisor attacks you.**
 end
+
+
 
 ## On NPC Death
 

@@ -1,7 +1,9 @@
 # Betti Frostweaver
 
 
- ## Dialog
+ 
+
+## Dialog
 
 **You say:** `hail`
 
@@ -31,6 +33,8 @@
 
 >**Betti Frostweaver says:** Take a woven frost giant beard, two siren's hairs, two manticore manes and two drakkel dire wolf whiskers, and combine them in a sewing kit. The resulting thread will enhance your shawl's power when embroidered in a special pattern.
 end
+
+
 
 ## Turn-Ins
 

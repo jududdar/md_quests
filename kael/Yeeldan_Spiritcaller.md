@@ -21,6 +21,8 @@ quest_helper:priest_legs(KAEL_ARMOR.Chain_Leggings, 25361),
 quest_helper:priest_boots(KAEL_ARMOR.Chain_Boots, 25362), 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** >= Ally) then 
@@ -128,6 +130,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Yeeldan Spiritcaller says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

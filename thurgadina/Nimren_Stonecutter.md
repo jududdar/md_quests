@@ -1,4 +1,6 @@
 # Nimren Stonecutter
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,8 @@
 # Glerbella Gibblix
 
 
+
+
 ## Dialog
 
 local expansion_flag = eq.get_current_expansion();
@@ -99,6 +101,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19637" data-url="19637" class="tooltip-link link">Crude Breastplate Mold</a>
 
 end
+
+
 
 ## Turn-Ins
 

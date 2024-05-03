@@ -1,7 +1,11 @@
 # Scout Rahjiq
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -9,6 +13,8 @@ if(e.timer == "depop") then
 
 **Scout Rahjiq despawns.**
 end
+
+
 
 ## Turn-Ins
 

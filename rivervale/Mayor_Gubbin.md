@@ -1,4 +1,6 @@
 # Mayor Gubbin
+
+
 ## Dialog
 
 **You say:** `hail`

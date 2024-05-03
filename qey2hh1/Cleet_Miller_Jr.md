@@ -1,4 +1,6 @@
 # Cleet Miller Jr
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -18,6 +20,8 @@ e.self:Say(string.format("Listen, %s, I don't want to be rude, but these fields 
 
 
 end
+
+
 
 ## Arrive at Waypoint Script
 

@@ -1,4 +1,6 @@
 # Sergeant Slate
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp==2 or e.wp==4 or e.wp==6) then

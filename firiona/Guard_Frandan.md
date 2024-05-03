@@ -1,4 +1,6 @@
 # Guard Frandan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Guard Frandan says:** I once spoke with a ranger who tried to sell me a mountain giant toothpick he recovered.  Looked like it would make a fine weapon, but it smelled of decayed flesh!!  I do not even care to think about what kind of flesh it was used to pick.
 end
+
+
 
 ## Turn-Ins
 

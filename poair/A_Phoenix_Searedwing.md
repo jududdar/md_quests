@@ -1,4 +1,6 @@
 # A Phoenix Searedwing
+
+
 ## On NPC Death
 
 for i = 2, 4 do

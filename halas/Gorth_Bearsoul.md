@@ -1,4 +1,6 @@
 # Gorth Bearsoul
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Gorth Bearsoul says:** Suren ye didnae think I'd give ye a potion fer free? I'm needn 500 gold coins to make such an item. Hard to make and few are the uses fer such a potion.
 end
+
+
 
 ## Turn-Ins
 

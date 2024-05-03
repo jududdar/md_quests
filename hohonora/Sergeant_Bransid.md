@@ -68,11 +68,15 @@ if ( faceMob ) then
 
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *say1* for 10 seconds
 
 n = 0;
+
+
 ## Timer(s)
 
 

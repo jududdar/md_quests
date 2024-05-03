@@ -1,4 +1,6 @@
 # Medron Y-Lask
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Medron Y-Lask says:** Welcome to the Furrier Royale. Here you will find the finest skins from a variety of Norraths lesser creatures.
 end
+
+
 
 ## Turn-Ins
 

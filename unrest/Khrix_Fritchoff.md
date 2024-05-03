@@ -1,7 +1,11 @@
 # Khrix Fritchoff
+
+
 ## Dialog 
 
 >**Khrix Fritchoff says:** Close the door and be gone fool! You are going to give away my hiding spot!
+
+
 ## Turn-Ins
 
 

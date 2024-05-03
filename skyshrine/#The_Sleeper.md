@@ -403,6 +403,8 @@ local GRID = {
 1976.00, 2645.00, -158.70,
 };
 
+
+
 ## On NPC Spawn
 
 e.self:SetSpecialAbility(24, 0); 
@@ -432,6 +434,8 @@ e.self:AddWaypoint(GRID[i], GRID[i+1], GRID[i+2], -1, 0, false);
 i = i + 3;
 end
 
+
+
 ## Arrive at Waypoint Script
 
 
@@ -459,6 +463,8 @@ e.self:GMMove(1198, 1231, 6.20, 0);
 
 
 end
+
+
 
 
 ## If NPC Kills Player

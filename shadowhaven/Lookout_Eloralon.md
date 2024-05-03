@@ -1,4 +1,6 @@
 # Lookout Eloralon
+
+
 ## Dialog
 
 **You say:** `hail`

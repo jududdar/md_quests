@@ -1,8 +1,12 @@
 # Lorekeeper Ayriik
 local count = 0;
+
+
 ## On NPC Spawn
 
 **Set a timer** named *story* for 10 seconds
+
+
 ## Timer(s)
 
 count = count + 1;
@@ -149,6 +153,8 @@ count = 0;
 
 **Set a timer** named *story* for 10 seconds
 end
+
+
 
 ## Turn-Ins
 

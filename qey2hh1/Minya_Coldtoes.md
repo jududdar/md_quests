@@ -1,4 +1,6 @@
 # Minya Coldtoes
+
+
 ## Dialog
 
 **You say:** `follower of Karana`
@@ -19,6 +21,8 @@
 
 >**Minya Coldtoes says:** The Karana bandits are rogues who operate in the plains. I have heard there are bounties for the bandits. Within the Temple of Thunder in Qeynos, Cleric Gehna offers one for bandit spectacles and Paladin Chesgard offers one for bandit sashes.
 end
+
+
 
 ## Turn-Ins
 

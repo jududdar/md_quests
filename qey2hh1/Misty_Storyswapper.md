@@ -1,4 +1,6 @@
 # Misty Storyswapper
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Misty Storyswapper says:** I will tell you no more. I do not wish toup boxed and buried. Just stay away from Guard McCluskey. He is no honorable man.
 end
+
+
 
 ## Signals
 

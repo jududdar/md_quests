@@ -1,4 +1,6 @@
 # Gundal Bronzebrow
+
+
 ## Dialog
 
 **You say:** `hail`

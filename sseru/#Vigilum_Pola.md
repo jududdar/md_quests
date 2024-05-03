@@ -1,4 +1,6 @@
 # Vigilum Pola
+
+
 ## Dialog
 
 **You say:** `hail`

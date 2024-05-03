@@ -1,4 +1,6 @@
 # Priestess Ghalea
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@ else
 
 >**Priestess Ghalea says:** The Candle of Bravery is used for temple ceremonies here in Kaladim. When the candle burns out, I must venture to the frigid village of Halas far to the north of the continent of Antonica. There I will take the candlestick and the [soil of Underfoot] to Dok. He must create the candle in the very ornate candlestick.
 end
+
+
 
 ## Turn-Ins
 

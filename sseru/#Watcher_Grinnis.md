@@ -1,4 +1,6 @@
 # Watcher Grinnis
+
+
 ## Dialog
 
 **You say:** `hail`

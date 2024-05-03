@@ -1,7 +1,11 @@
 # Bunu Stoutheart
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "follow") then
@@ -28,6 +32,8 @@ eq.follow(follow_mob,15);
 **Stop timer** named *follow*
 
 end
+
+
 
 ## Dialog
 

@@ -1,6 +1,8 @@
 # Trooper Shestar
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -15,6 +17,8 @@
 
 >**Trooper Shestar says:** The Shestar Scaled Coif was a light coif my father would fashion out of loose scales from the scaled wolves.  I have some scales on me and if you bring me three loose scales I will have enough to create the coif for you, but I require you to also pay a fee of five gold.
 end
+
+
 ## Turn-Ins
 
 

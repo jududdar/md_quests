@@ -1,4 +1,6 @@
 # Klandar Bronzebrow
+
+
 ## Dialog
 
 **You say:** `hail`

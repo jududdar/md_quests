@@ -1,5 +1,7 @@
 # Drakis Bloodcaster
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -34,6 +36,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
                                 href="/item/18537" data-url="18537" class="tooltip-link link">Pomp and Circumstance</a>
 end
+
+
 
 ## Turn-Ins
 

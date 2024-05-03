@@ -5,6 +5,8 @@ local GALRONAR_SPAWNID = 369494;
 local SPAWNIDS = { 369446, 369447, 369448, 369449 };
 
 
+
+
 ## On NPC Spawn
 
 for _, id in ipairs(SPAWNIDS) do
@@ -15,6 +17,8 @@ eq.update_spawn_timer(id, 1000);
 eq.depop_with_timer(GALRONAR_TYPE);
 
 eq.update_spawn_timer(INVIS_MAN_ID, 1000);
+
+
 ## On NPC Death
 
 

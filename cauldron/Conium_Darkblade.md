@@ -1,4 +1,6 @@
 # Conium Darkblade
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Conium Darkblade says:** High in the pass you can find Top of the World. It sits near the highest bridge. It is one of the newest additions to our community. It specializes in imported items for adventuring.
 end
+
+
 
 ## Turn-Ins
 

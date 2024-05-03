@@ -5,6 +5,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `missing shipment`
@@ -13,6 +15,8 @@
 
 >**Dragoon Szorn says:** Seek out Ennixy and tell her [hate be my guide]. She typically works from her homeland in the steamfont mountains.
 end
+
+
 
 ## Turn-Ins
 

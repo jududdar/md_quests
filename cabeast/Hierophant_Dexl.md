@@ -1,6 +1,8 @@
 # Hierophant Dexl
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -57,6 +59,8 @@ e.self:DoAnim(33);
 
 >**Hierophant Dexl says:** He's a capable channeler, I trust he knows where to look and will prepare himself. Any competent servant of our Lord would prepare potions and supplies before going on such a quest. If he doesn't come back, it's no great loss, he wasn't Hierophant material anyway.
 end
+
+
 
 ## Turn-Ins
 

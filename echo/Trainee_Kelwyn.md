@@ -1,4 +1,6 @@
 # Trainee Kelwyn
+
+
 ## Dialog
 
 **You say:** `hail`

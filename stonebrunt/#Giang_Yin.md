@@ -1,6 +1,8 @@
 # Giang Yin
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >*Giang Yin looks down upon the creature standing beneath him and speaks. 'You are brave to approach a titan such as Giang Yin. I pray that the spirits have granted you honor and respect as well as courage.'*
 end
+
+
 
 ## Turn-Ins
 

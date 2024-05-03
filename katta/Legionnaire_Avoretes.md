@@ -1,4 +1,6 @@
 # Legionnaire Avoretes
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Shezlie Furscale
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Shezlie Furscale says:** Payment will be in the form of equipment. All funds are currently being spent on the rebuilding.
 end
+
+
 
 ## Turn-Ins
 

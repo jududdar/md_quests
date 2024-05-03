@@ -1,4 +1,6 @@
 # Yegek B-Larin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -62,6 +64,8 @@ else
 
 
 >**Yegek B-Larin says:** Your head will make a fine trophy in the halls of the Indigo Brotherhood.
+
+
 
 
 

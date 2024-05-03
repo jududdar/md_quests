@@ -1,4 +1,6 @@
 # Trooper Ryzee
+
+
 ## Dialog
 
 **You say:** `Hail`

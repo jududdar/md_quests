@@ -1,4 +1,6 @@
 # Trooper Roklon
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Roklon says:** I've been ratted out! Very well. I shall sign the order, but first I shall force you to fetch me a set of goblin scout beads. I hear they make fine counters. Bring me the beads and that despicable order and I shall do as instructed.
 end
+
+
 
 ## Turn-Ins
 

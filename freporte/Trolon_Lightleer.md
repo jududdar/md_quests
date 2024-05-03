@@ -2,9 +2,13 @@
 local signal = 0;
 local lastSong = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *ready* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +17,8 @@ local lastSong = 0;
 
 >**Trolon Lightleer says:** Greetings!! I am Trolon Lightleer. Harmonizer of the soul. Please sit and order an ale. I shall be playing soon.
 end
+
+
 
 ## Timer(s)
 
@@ -64,6 +70,8 @@ elseif ( e.timer == "table" ) then
 **Signaled to:**  [Groflah Steadirt](/npc/10195)
 
 end
+
+
 
 ## Signals
 

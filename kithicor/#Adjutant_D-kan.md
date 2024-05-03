@@ -1,8 +1,12 @@
 # Adjutant D-kan
 
+
+
 ## Dialog
 
 >*Adjutant D-kan ignores you.*
+
+
 ## Turn-Ins
 
 

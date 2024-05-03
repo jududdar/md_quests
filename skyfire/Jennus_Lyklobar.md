@@ -1,4 +1,6 @@
 # Jennus Lyklobar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Jennus Lyklobar says:** The Element of Fire I can provide you, but you must prove you are able to contain its power. Bring me the Torch of the Elements now kept by a doomed lord of merchants, the burning embers from a notable member of wurmkind who can be found a short journey from here and a blazing wand, which you should be familiar with. And you must surrender the tome Rykas gave you. But I think you would be happier if you stayed with me and learned more of the beauty of the one true element, FIRE! FIRE! Hahahahahahah!
 end
+
+
 
 ## Turn-Ins
 

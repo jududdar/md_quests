@@ -1,4 +1,6 @@
 # a raging kobold savage
+
+
 ## Dialog
 
 **You say:** `hail`

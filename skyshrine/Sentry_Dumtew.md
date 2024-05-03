@@ -1,4 +1,6 @@
 # Sentry Dumtew
+
+
 ## Dialog
 
 **You say:** `hail`

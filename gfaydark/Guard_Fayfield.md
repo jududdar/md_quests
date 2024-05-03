@@ -1,4 +1,6 @@
 # Guard Fayfield
+
+
 ## Dialog
 
 **You say:** `soldiers`

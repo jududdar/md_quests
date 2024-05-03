@@ -1,4 +1,6 @@
 # Nax Ghruna
+
+
 ## Dialog
 
 **You say:** `stanos`
@@ -13,6 +15,8 @@
 
 >**Nax Ghruna says:** Good, you are smarter than you look, Soandso.  Forget the whole affair.  It's old family business anyway, and you should know better than to get mixed up in family spats; they can be deadly.
 end
+
+
 
 ## Turn-Ins
 

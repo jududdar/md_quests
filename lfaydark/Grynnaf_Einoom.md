@@ -1,4 +1,6 @@
 # Grynnaf Einoom
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # a hurricane nophtan
+
+
 ## Dialog
 
 **You say:** `hail`

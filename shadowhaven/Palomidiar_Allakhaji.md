@@ -1,6 +1,8 @@
 # Palomidiar Allakhaji
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@
 
 >**Palomidiar Allakhaji says:** Fantastic Soandso. Please return to me at once with a pulsating rock. We will conclude our dealings at that time.
 end
+
+
 
 ## Turn-Ins
 

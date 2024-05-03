@@ -1,4 +1,6 @@
 # Hamon
+
+
 ## Dialog
 
 **You say:** `hail`

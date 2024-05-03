@@ -1,4 +1,6 @@
 # Klom Jysun
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -140,6 +142,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Klom Jysun says:** I had a student not too long ago that trained with me for quite sometime. He showed a lot of promise on his way to becoming a Grandmaster, however one day he came to tell me that he intended on joining the militia. I told him that I did not feel that was what he wanted to do but he insisted. On the day that he left he stole a headband from me that I was presented with by the Hall of Truth. This headband meant a lot to me, if you were able to find Firansad I am sure he will have it. Return it to me with two Orc Toes and I will surely reward you for your trouble.
 
 end
+
+
 
 ## Turn-Ins
 

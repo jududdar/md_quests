@@ -1,6 +1,8 @@
 # Welno Tanlonikan
 
 
+
+
 ## Dialog
 
 local expansion_flag = eq.get_current_expansion();
@@ -163,6 +165,8 @@ else
 >**Welno Tanlonikan says:** Greetings there Soandso! I am Welno Tanlonikan Assassin of Akanon. I pride myself on being one of the few to train our younger prospects in the ways of the rogue.
 
 end
+
+
 
 ## Turn-Ins
 

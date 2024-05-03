@@ -1,4 +1,6 @@
 # Sollari Bekines
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -132,6 +134,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Sollari Bekines says:** I need your help with ridding the hills of some of the most vile creatures, the gnolls of course! My resident alchemist has instructed me that he needs some items from these furballs for a antidote he is working on. I need you to bring me 2 Vials of Gnoll Blood and 2 Gnoll Pelvises. Once you have returned with these items I will reward you with a weapon worthy of the finest Qeynos Songweaver. I look forward to seeing you soon.
 
 end
+
+
 
 ## Turn-Ins
 

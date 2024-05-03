@@ -1,4 +1,6 @@
 # Nadara Reloclen
+
+
 ## Dialog
 
 **You say:** `Hail`

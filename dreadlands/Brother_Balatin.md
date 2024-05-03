@@ -1,5 +1,7 @@
 # Brother Balatin
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
 
 >**Brother Balatin says:** Seek the broken flute of our master. Taken from us by the Iksar twins of Vistrei. To me they will come and to me your robe and you will come the dawning of the new brotherhood.
 end
+
+
 
 ## Turn-Ins
 

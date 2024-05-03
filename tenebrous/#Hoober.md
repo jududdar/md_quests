@@ -1,11 +1,15 @@
 # Hoober
 local elixer = 0;
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *feign* for 1 seconds
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "feign") then
@@ -25,6 +29,8 @@ elseif(e.timer == "depop") then
 **Hoober despawns.**
 end
 
+
+
 ## Turn-Ins
 
 
@@ -41,6 +47,8 @@ if( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif);wi
 elixer = 1;
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Dialog
 
@@ -62,6 +70,8 @@ elixer = 0;
 
 **Hoober despawns.**
 end
+
+
 
 
 ## On NPC Death

@@ -1,9 +1,13 @@
 # Keldor Dek-Torek
+
+
 ## On NPC Spawn
 
 eq.set_timer("king",math.random(2700000,7500000));
 
 eq.set_timer("med",math.random(270000));
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -30,6 +34,8 @@ else
 >I wonder how much I could get for the tongue of a blithering fool? Leave before I decide to find out for myself.
 
 end
+
+
 
 ## Timer(s)
 
@@ -66,6 +72,8 @@ else
 eq.set_timer("king",math.random(2700000,7500000));
 
 end
+
+
 
 ## Arrive at Waypoint Script
 

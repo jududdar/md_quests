@@ -1,4 +1,6 @@
 # Oracle Elvekren
+
+
 ## Dialog
 
 **You say:** `hail`

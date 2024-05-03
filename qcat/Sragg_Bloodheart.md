@@ -1,9 +1,13 @@
 # Sragg Bloodheart
+
+
 ## Signals
 
 >**Sragg Bloodheart says:** I will hear no more excuses, Tovax!  Enjoy eternal pain and suffering!
 
 **Sragg Bloodheart attacks NPC:**  [Tovax Vmar](/npc/45040)
+
+
 ## Turn-Ins
 
 

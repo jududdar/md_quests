@@ -1,7 +1,11 @@
 # Gregori Lightbringer
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -38,6 +42,8 @@
 
 >**Gregori Lightbringer says:** Love is what brings us close to the gods we follow.  Without it, we could not truly worship them, and would be lost.  Prove yourself to me and return with a dark spiroc feather, ethereal topaz, and a sphinxian claw.  In return, I will give you Thelvorn.
 end
+
+
 
 ## Turn-Ins
 
@@ -91,6 +97,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

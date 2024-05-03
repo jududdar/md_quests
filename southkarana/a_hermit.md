@@ -1,4 +1,6 @@
 # a hermit
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@
 
 **Spawn NPC:**  [Jale Phlintoes](/npc/14172) at (**y:** -5561, **x:** -3723)
 end
+
+
 
 ## Turn-Ins
 

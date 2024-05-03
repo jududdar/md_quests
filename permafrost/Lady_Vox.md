@@ -6,6 +6,8 @@ local SpawnY = 0;
 local SpawnZ = 0;
 local SpawnH = 0;
 
+
+
 ## On NPC Spawn
 
 SpawnX = e.self:GetX();
@@ -32,6 +34,8 @@ if(**Your level** > 52 and e.other:Admin() < 80) then
 e.other:MovePC(30,-7024,2020,-60.7,0); 
 end
 
+
+
 ## Combat
 
 if Lady Vox enters combat  then
@@ -47,6 +51,8 @@ else
 
 e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
 end
+
+
 
 ## Timer(s)
 
@@ -168,6 +174,8 @@ return false;
 );
 
 end
+
+
 
 ## Signals
 

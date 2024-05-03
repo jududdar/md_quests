@@ -1,4 +1,6 @@
 # Manik Compolten
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -128,6 +130,8 @@ else
 
 >**Manik Compolten says:** The Asylum of the Mad was formed by the mad gnome, Meldrath. Under his direction, they were trying to build some giant mechanical titan.  We recently sent all of our clockworks into the Steamfont Mountains to destroy their evil cult.
 end
+
+
 
 ## Turn-Ins
 

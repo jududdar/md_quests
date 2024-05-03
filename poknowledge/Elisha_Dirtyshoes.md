@@ -1,5 +1,7 @@
 # Elisha Dirtyshoes
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@
 
 >*Elisha Dirtyshoes sighs and says, 'Tis a painful memory, for sure. My love for Narik fell once I met Onirelin, but my love for him was not reciprocated. Now I am left with no one to share my life, with only this ring as a reminder. Narik may have it back if he desires it, but then I shall be left truly alone. Boiron Ston once held a door open for me, such a handsome dwarf he is. If he could only find more time to spend with me, giving up this ring would be no problem at all. Do you think he likes me? Could you ask him and find out?'*
 end
+
+
 
 ## Turn-Ins
 

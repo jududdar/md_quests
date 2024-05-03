@@ -1,7 +1,11 @@
 # campday
+
+
 ## On NPC Spawn
 
 **Set a timer** named *stop* for 5 seconds
+
+
 ## Timer(s)
 
 **Signaled to:**  [Bassanio Weekin](/npc/1095)

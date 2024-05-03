@@ -1,4 +1,6 @@
 # Cornicularii Mindo
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Legionnaire Vindic
+
+
 ## Dialog
 
 **You say:** `hail`

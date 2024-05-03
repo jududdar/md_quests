@@ -1,4 +1,6 @@
 # Chief Adair
+
+
 ## Dialog
 
 **You say:** `hail`

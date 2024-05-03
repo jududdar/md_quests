@@ -1,4 +1,6 @@
 # Guard Dister
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`
@@ -103,6 +105,8 @@
 
 >**Guard Dister says:** My best guess would be that she's somewhere in the suite of the richest noble passing through Highpass.
 end
+
+
 
 ## Turn-Ins
 

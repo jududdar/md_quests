@@ -21,6 +21,8 @@ quest_helper:melee_legs(SKYSHRINE_ARMOR.Leather_Leggings, 31194),
 quest_helper:melee_boots(SKYSHRINE_ARMOR.Leather_Boots, 31195), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -107,6 +109,8 @@ else
 
 
 end
+
+
 
 
 ## Turn-Ins

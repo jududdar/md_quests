@@ -1,9 +1,13 @@
 # Sage Gunyth
 local continue;
 
+
+
 ## On NPC Spawn
 
 continue = 0;
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -50,6 +54,8 @@ continue = 0;
 >**Sage Gunyth says:** There are two other sages who like to call themselves my equals. They are taking different paths in their studies, and it would be to our benefit to have access to their work, I created that extractor with their aid so I know their methods cannot be far from my own. You must also gather what information you can from their research and return Balic's research to Onirelin Gali my assistant, and Xelrin's research to Xasri Virek his associate. I have nothing more for you, and I have been distracted long enough, be off!
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "cont") then
@@ -60,6 +66,8 @@ if(e.timer == "cont") then
 
 continue = 0;
 end
+
+
 
 ## Turn-Ins
 

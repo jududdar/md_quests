@@ -1,4 +1,6 @@
 # Illusionist Jerup
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 e.self:Say("Greetings traveler and welcome to the Plane of Knowledge! I am so pleased to see so many eager minds among us 
 end
+
+
 
 ## Turn-Ins
 

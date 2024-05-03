@@ -1,4 +1,6 @@
 # Sentry Meighan
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sentry Meighan says:** Please speak no further.  I am nothing more than a defender of this temple.  The words of Marr lie with the masters and clerics of this temple.  They await you.
 end
+
+
 
 ## Turn-Ins
 

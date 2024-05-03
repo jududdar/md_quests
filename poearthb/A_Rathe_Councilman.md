@@ -36,6 +36,8 @@ rollY = math.random(TELEPORT_BOUNDS[x].s, TELEPORT_BOUNDS[x].n);
 
 c:MovePC(222, rollX, rollY, -255, math.random(0, 510));
 
+
+
 ## On NPC Spawn
 
 local elist = eq.get_entity_list();
@@ -74,6 +76,8 @@ for _, id in ipairs(SPAWNIDS) do
 eq.update_spawn_timer(id, 1);
 
 eq.debug("Full council repop");
+
+
 ## Combat
 
 if  A Rathe Councilman enters combat  then
@@ -110,6 +114,8 @@ else
 
 **Stop timer** named *ten_min*
 end
+
+
 
 ## Timer(s)
 
@@ -471,9 +477,13 @@ eq.stop_timer(e.timer);
 
 end
 
+
+
 ## Signals
 
 killed[e.signal] = 1;
+
+
 ## On NPC Death
 
 

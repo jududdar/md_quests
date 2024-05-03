@@ -1,4 +1,6 @@
 # Waltor Felligan
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -90,6 +92,8 @@ else
 >**Waltor Felligan says:** The scales o' the Shamans o' Justice dinnae tip in yer favor. Ye'd best flee ye still have the chance.
 
 end
+
+
 
 ## Turn-Ins
 

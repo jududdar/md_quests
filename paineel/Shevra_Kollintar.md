@@ -1,4 +1,6 @@
 # Shevra Kollintar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -19,6 +21,8 @@
 
 >**Shevra Kollintar says:** The High Council is the governing board of Erudin, our sworn enemies.  Beware of these types, they will not look upon you warmly.
 end
+
+
 
 ## Turn-Ins
 

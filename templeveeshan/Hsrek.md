@@ -1,5 +1,7 @@
 # Hsrek
 
+
+
 ## Combat
 
 if  Hsrek enters combat  then

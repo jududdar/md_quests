@@ -1,4 +1,6 @@
 # Vkjen Thunderslayer
+
+
 ## Combat
 
 
@@ -7,6 +9,8 @@ if (not e.joined) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Dialog
 

@@ -1,4 +1,6 @@
 # Ebben Quickblade
+
+
 ## Dialog
 
 **You say:** `hail`

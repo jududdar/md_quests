@@ -1,4 +1,6 @@
 # Keeper Rott
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -82,6 +84,8 @@ else
 >**Keeper Rott says:** You are a true simpleton to think you can speak to me.  You are no ally to the Brood of Kotiz.  Begone, before I make your blood boil!
 
 end
+
+
 
 ## Turn-Ins
 

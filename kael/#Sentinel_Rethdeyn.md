@@ -1,4 +1,6 @@
 # Sentinel Rethdeyn
+
+
 ## Dialog
 
 **You say:** `hail`

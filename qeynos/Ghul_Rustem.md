@@ -1,4 +1,6 @@
 # Ghul Rustem
+
+
 ## Dialog
 
 **You say:** `hail`

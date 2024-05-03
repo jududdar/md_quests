@@ -1,4 +1,6 @@
 # Tonmerk Plorsin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -87,6 +89,8 @@ else
 
 >**Tonmerk Plorsin says:** Bertoxxulous is the vile lord of all disease. We of the Temple of Life are sworn to put anto any being who serves the evil god.
 end
+
+
 
 ## Turn-Ins
 

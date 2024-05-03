@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -114,6 +116,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19556" data-url="19556" class="tooltip-link link">Tattered Tunic Pattern</a>
 
 end
+
+
 
 ## Turn-Ins
 

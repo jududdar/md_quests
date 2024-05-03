@@ -1,5 +1,7 @@
 # Oracle Cador
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -14,6 +16,8 @@ e.self:Emote("gives a stiff nod in proper greetings to Soandso. 'The light of Se
 
 >**Oracle Cador says:** You are most astute. I do have a stock of black lava powder with me, but I will only share it with those who prove themselves worthy. Onirelin Gali is currently in possession of an artifact I need to better commune with the spirits. Please recover it for me.
 end
+
+
 
 ## Turn-Ins
 

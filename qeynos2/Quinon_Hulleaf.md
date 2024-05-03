@@ -1,4 +1,6 @@
 # Quinon Hulleaf
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Quinon Hulleaf says:** Eh?... <yawn>... Ah good evening to you, too, Soandso. I'd be careful outside the city gates tonight if I were you... I've heard rumors of evil people and undead wandering the hills recently.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,7 +1,11 @@
 # Deric Lennox
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +36,8 @@
 
 >**Deric Lennox says:** Aye, the weak.  I laugh at 'em meself.  Dinnae look so shocked, laddie!  I was only kiddin'!  Anyhow, ye know ye should help the weak, right? Unless ye worship one o' the evil ones, then ye kill em! So go out an' do what yer god expects from ye!  Oh, an' laddie, bring me an efreeti standard, a manna nectar, mithril bands, and a shimmering topaz.  Aye, that'll do it.
 end
+
+
 
 ## Turn-Ins
 
@@ -100,6 +106,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Deric Lennox despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

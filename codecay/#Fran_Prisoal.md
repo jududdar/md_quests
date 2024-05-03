@@ -1,6 +1,8 @@
 # Fran Prisoal
 local s1, s2, s3;
 
+
+
 ## Signals
 
 if ( e.signal == 3 ) then 
@@ -13,6 +15,8 @@ if ( e.signal == 2 ) then
 
 s2 = true;
 end
+
+
 
 ## On NPC Death
 
@@ -36,14 +40,20 @@ else
 **Signaled to:**  [\#Breddan Rutyl](/npc/200229)
 end
 
+
+
 ## On NPC Spawn
 
 s1, s2, s3 = false, false, false;
 
 **Set a timer** named *depop* for 800 seconds
+
+
 ## Timer(s)
 
 **Fran Prisoal despawns.**
+
+
 ## Combat
 
 if  Fran Prisoal enters combat  then

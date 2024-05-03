@@ -1,4 +1,6 @@
 # Dolgin Codslayer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Dolgin Codslayer says:** Well jus' before that there beast ended up in combat, I watched him from the shores. Only reason he got into such a mess was 'cause of his belly. He swam right into those adventurers chasin' down a wandering froglok. You wanna catch a fish, use the right bait. If only we had us some frogloks essence, then mebbe he'd come out agin. But I must warn ye laddies that the bloke over by the inn already warned me to leave all the natural critters in this here oasis in peace. He might get right mad if he sees a battle brewin' here.
 end
+
+
 
 ## Turn-Ins
 

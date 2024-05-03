@@ -1,4 +1,6 @@
 # Crovsar Dirkbringer
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -180,6 +182,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Crovsar Dirkbringer says:** Das great news to hear indeed! Please seek out 1 Aqua Goblin Backbone and 2 Pristine Skunk Claws and I will surely reward ye for yer trouble. I hope to see ye soon!
 
 end
+
+
 
 ## Turn-Ins
 

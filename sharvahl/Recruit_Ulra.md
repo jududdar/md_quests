@@ -1,4 +1,6 @@
 # Recruit Ulra
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -20,6 +22,8 @@ e.self:DoAnim(7);
 
 **Signaled to:**  [Recruit Mogol](/npc/155132)
 end
+
+
 
 ## Turn-Ins
 

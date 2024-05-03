@@ -1,4 +1,6 @@
 # Trooper Selbat
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Trooper Selbat says:** I knew this time would come. I will slay you for bringing this to me... No... I'd best not make the officers angry. <sigh> Hand me the order and I shall sign it.
 end
+
+
 
 ## Turn-Ins
 

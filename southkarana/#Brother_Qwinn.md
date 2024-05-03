@@ -1,4 +1,6 @@
 # Brother Qwinn
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -51,6 +53,8 @@
 
 
 end
+
+
 
 ## Turn-Ins
 

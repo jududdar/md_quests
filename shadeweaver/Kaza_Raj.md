@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -53,6 +55,8 @@
 
 >**Kaza Raj says:** Hmm, you are growing more mighty as time passes - Kill Saurek Claw Beasts and bring me four fangs, I have most excellent pants if you succeed.
 end
+
+
 
 ## Turn-Ins
 

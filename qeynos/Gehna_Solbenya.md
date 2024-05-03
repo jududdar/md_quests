@@ -1,4 +1,6 @@
 # Gehna Solbenya
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -122,6 +124,8 @@ else
 
 >**Gehna Solbenya says:** If you need to be healed, I suggest you speak with the Priests of Life. You can find them in the Temple of Life on the other side of Qeynos. The only service you can pay for here is holy armor. Daedet Losaren charges followers of Karana for that blessing.
 end
+
+
 
 ## Turn-Ins
 

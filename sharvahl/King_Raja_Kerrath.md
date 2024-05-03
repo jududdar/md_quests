@@ -6,6 +6,8 @@
 
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -26,6 +28,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
                                 href="/item/18304" data-url="18304" class="tooltip-link link">Note from King Raja</a>
 end
+
+
 
 ## Turn-Ins
 

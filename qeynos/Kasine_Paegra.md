@@ -1,4 +1,6 @@
 # Kasine Paegra
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -68,6 +70,8 @@ else
 >**Kasine Paegra says:** You have proven yourself not only an enemy of the Knights of Thunder, but an enemy of Karana himself.  Now leave, sewer rat!
 
 end
+
+
 
 ## Turn-Ins
 

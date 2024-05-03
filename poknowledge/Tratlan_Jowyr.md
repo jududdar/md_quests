@@ -1,5 +1,7 @@
 # Tratlan Jowyr
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -53,6 +55,8 @@ if(**spawned NPC:**  [Wicas Adaolath](/npc/202301)) then
 eq.get_entity_list():GetMobByNpcTypeID( [Wicas Adaolath](/npc/202301)):Say("Tarerd is the one who told us about these pools. He wanted us to kill some sort of lizards for him, but we have neither the time nor energy for such adventures. Perhaps you can get some information about the pools from him.");
 
 end
+
+
 
 ## Turn-Ins
 

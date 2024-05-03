@@ -1,4 +1,6 @@
 # Rydric Kane
+
+
 ## Dialog
 
 

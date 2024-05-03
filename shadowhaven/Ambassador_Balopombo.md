@@ -1,4 +1,6 @@
 # Ambassador Balopombo
+
+
 ## Dialog
 
 **You say:** `hail`

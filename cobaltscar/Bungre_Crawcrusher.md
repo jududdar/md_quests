@@ -1,6 +1,8 @@
 # Bungre Crawcrusher
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -39,6 +41,8 @@
 
 >**Bungre Crawcrusher says:** Kelorek'Dar is a sea dragon that prowls the coasts preying on any manner of creature he can fit between his massive jaws.
 end
+
+
 
 ## Turn-Ins
 

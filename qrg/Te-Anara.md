@@ -1,4 +1,6 @@
 # Te-Anara
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -129,6 +131,8 @@ else
 
 >**Te-Anara says:** Long ago, centuries before the Combine Era even, there grew a great tree upon Norrath.  It stretched to the stars and was as wide as the span of Erud's Crossing.  From the roots of this tree sprung all the woodlands of Norrath.  An unknown force struck it down.  Some say it was the great dragon, Veeshan!  Whatever the force, the Great Tunarbos was shattered.  Lost forever.  Now the wood chips lie scattered across the face of Norrath.  To hold a shard of the Great Tunarbos is to hold the hand of Tunare.
 end
+
+
 
 ## Turn-Ins
 

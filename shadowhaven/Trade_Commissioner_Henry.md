@@ -1,4 +1,6 @@
 # Trade Commissioner Henry
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +31,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_860.png" alt="" /> <a
                                 href="/item/26055" data-url="26055" class="tooltip-link link">Tattered Newsletter</a>
 end
+
+
 
 ## Turn-Ins
 

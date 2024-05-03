@@ -1,4 +1,6 @@
 # Haldorak Foamymugs
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -216,6 +218,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Haldorak Foamymugs says:** I need someone to collect blood samples form dese vile goblins for me so that I can have my resident alchemist study them. We are interested in the genetics of these dern goblins so that we can know exactly how powerful they are and what we are up against. Aye. Please bring me 2 samples of da Green Goblin Blood and 2 samples of da Aqua Goblin Blood and I will surely reward you for yer great deeds.
 
 end
+
+
 
 ## Turn-Ins
 

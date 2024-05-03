@@ -1,7 +1,11 @@
 # gnomish captive
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +29,8 @@
 
 **gnomish captive despawns.**
 end
+
+
 
 ## Timer(s)
 

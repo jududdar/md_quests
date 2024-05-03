@@ -1,4 +1,6 @@
 # Elder Spiritist Grawleh
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -30,6 +32,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 >**Elder Spiritist Grawleh says:** Love potion? Sounds intriguing but not familiar, I am afraid I cannot help you. However, if I were looking for information about potions and the alchemical arts, I would see Spiritist Ragnar. He has a shop just outside of the palace.
 end
 
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -37,6 +41,8 @@ if(e.signal == 1) then
 
 >**Elder Spiritist Grawleh says:** I know many of the taverns and eateries have their own barrels, but you may want to try Jakhal and Kahala's Brewery. You can find it in the southwestern section of the Merchant's Quarter, or Corridor of Heroes, as I like to call it..
 end
+
+
 
 ## Turn-Ins
 

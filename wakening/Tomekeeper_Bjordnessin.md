@@ -1,4 +1,6 @@
 # Tomekeeper Bjordnessin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@
 
 >**Tomekeeper Bjordnessin says:** You say the Dragon Sage sent you, wretch? You have come here to mock me with a thousand year old legend? How do you plan to prove this absur... err... wild claim? It may be best that you show me some proof now, before I crush you!
 end
+
+
 
 ## Turn-Ins
 

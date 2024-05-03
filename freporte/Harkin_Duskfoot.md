@@ -1,4 +1,6 @@
 # Harkin Duskfoot
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -21,11 +23,15 @@
                                 href="/item/18015" data-url="18015" class="tooltip-link link">Note to Janam</a>
 end
 
+
+
 ## Signals
 
 
 
 >**Harkin Duskfoot says:** Bah! Don't listen to this fool. Listen, I've something a little more important for you to do than buy ales. I need you to take a [message] to my friend Janam over in West Freeport.
+
+
 ## Turn-Ins
 
 

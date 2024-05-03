@@ -1,4 +1,6 @@
 # Guard Pineshade
+
+
 ## Dialog
 
 **You say:** `soldiers`

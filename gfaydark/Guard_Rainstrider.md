@@ -1,4 +1,6 @@
 # Guard Rainstrider
+
+
 ## Dialog
 
 **You say:** `soldiers`

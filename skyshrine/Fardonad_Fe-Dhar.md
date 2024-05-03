@@ -14,6 +14,8 @@ local QUEST_ITEMS = {
   quest_helper:priest_boots(SKYSHRINE_ARMOR.Plate_Boots, 31146) 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** > Warmly) then 
@@ -96,6 +98,8 @@ else
 
 
 >**Fardonad Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
+
+
 
 ## Turn-Ins
 

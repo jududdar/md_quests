@@ -1,4 +1,6 @@
 # Seneschal Aldikar
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -17,6 +19,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1144.png" alt="" /> <a
                                 href="/item/17055" data-url="17055" class="tooltip-link link">Traitors Bane Box</a>
 end
+
+
 
 ## Turn-Ins
 
@@ -61,6 +65,8 @@ else
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Arrive at Waypoint Script
 

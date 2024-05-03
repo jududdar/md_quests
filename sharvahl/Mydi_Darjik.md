@@ -1,5 +1,7 @@
 # Mydi Darjik
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -20,6 +22,8 @@
 
 >**Mydi Darjik says:** It's really not as difficult as it sounds. The spores required to make the solution that you'll need are easy to find. They grow in the dulfis mushrooms that are found in the caves beyond the thicket. You'll just need to throw the whole mushroom into a flask of water to brew. Once the dulfis has boiled in the water for a while, you'll get a murky gray liquid. Boil the cloth in that liquid for a bit in the brew barrel and then wrap the steaming cloth around the buckler and the tincture that Fharra gave you. Let the cloth cool and you should see the desired results. Bring the buckler to me once you're done and I'll tell you if you did it correctly.
 end
+
+
 
 ## Turn-Ins
 

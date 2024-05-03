@@ -1,4 +1,6 @@
 # Disciple Taloerlen
+
+
 ## Dialog
 
 **You say:** `hail`

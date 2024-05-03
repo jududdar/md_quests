@@ -1,4 +1,6 @@
 # Legionnaire Hava
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,6 @@
 # Jusean Evanesque
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -132,6 +134,8 @@ else
 
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 3) then
@@ -139,6 +143,8 @@ if(e.wp == 3) then
 
 >*Jusean Evanesque growls, revealing his fangs.*
 end
+
+
 
 
 ## Turn-Ins

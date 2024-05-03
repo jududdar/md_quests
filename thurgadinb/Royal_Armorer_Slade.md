@@ -1,6 +1,8 @@
 # Royal Armorer Slade
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -53,6 +55,8 @@ else
 >**Royal Armorer Slade says:** Leave me be, " .. e.other:Race() .. ". I have no reason to trust you yet.
 
 end
+
+
 
 ## Turn-Ins
 

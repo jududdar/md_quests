@@ -1,4 +1,6 @@
 # Adept Tirisa
+
+
 ## Dialog
 
 **You say:** `hail`

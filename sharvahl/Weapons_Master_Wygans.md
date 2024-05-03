@@ -1,4 +1,6 @@
 # Weapons Master Wygans
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -25,6 +27,8 @@
 
 >**Weapons Master Wygans says:** If you meet with our forces in the Grimling Forest and can find a Grimling officer, you may be able to get one of the weapons that we need. Return those weapons to one of us and we can convert its magic to harm its former owner. The weapons come in three styles. I can convert the weapons of the Grunt. Saulgan can convert the weapons of the Horde. Kotahl works on the weapons of the High Grimling. Bring us those weapons and we'll convert them for you.
 end
+
+
 
 ## Turn-Ins
 

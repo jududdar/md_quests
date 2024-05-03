@@ -1,4 +1,6 @@
 # Sclestus Venator Taol
+
+
 ## Dialog
 
 **You say:** `hail`

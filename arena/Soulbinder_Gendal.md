@@ -1,6 +1,8 @@
 # Soulbinder Gendal
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -18,6 +20,8 @@
 
 **Soulbinder Gendal casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

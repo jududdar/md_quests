@@ -1,4 +1,6 @@
 # Tobon Starpyre
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -36,6 +38,8 @@
 
 >**Tobon Starpyre says:** Oh, he is my older brother. Used to be the leader of the Eldritch Collective. Then he founded the Observers, a pretty good piece of work. Went off his rocker a long while back, though. Became obsessed with Innoruuk and the Teir'Dal. Stays away for days at a time, nobody knows where he has been. Mother still worries about him, asked me to keep an eye on him. But he is a grown gnome, and with his mastery of the art, has little to fear in this world or others. But if you are seeking him, I would look outside Ak'Anon, in the Steamfonts. That is where he makes his home these days.
 end
+
+
 
 ## Turn-Ins
 

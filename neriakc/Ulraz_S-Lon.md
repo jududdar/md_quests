@@ -1,4 +1,6 @@
 # Ulraz S-Lon
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -65,6 +67,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Ulraz S-Lon says:** There is a forge near the Blue Flame Armory in the Neriak Commons and in the Ogre section of the Foreign Quarter. Sharpening stones can be purchased from vendors who deal in blacksmithing supplies.
 
 end
+
+
 
 ## Turn-Ins
 

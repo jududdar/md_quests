@@ -36,6 +36,8 @@ quest_helper:priest_chest(THURG_ARMOR.Breastplate, 31043),
 quest_helper:priest_helmet(THURG_ARMOR.Plate_Helmet, 31042)
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Kindly) then
@@ -138,6 +140,8 @@ else
 >**Loremaster Dorinan says:** I do not know you well enough to entrust you with such a quest, yet.
 end
 
+
+
 ## Signals
 
 if (e.signal == 1) then
@@ -145,6 +149,8 @@ if (e.signal == 1) then
 
 >**Loremaster Dorinan says:** The Grand Historian cannot be disturbed right now. Loremaster Borannin will assist you if you seek to perform duties for the crown. If you wish to learn more of our history and culture please speak to the loremasters in the Temple's library here.
 end
+
+
 
 ## Turn-Ins
 

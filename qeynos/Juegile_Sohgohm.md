@@ -1,6 +1,8 @@
 # Juegile Sohgohm
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -158,6 +160,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Juegile Sohgohm says:** I have heard word that there are numerous gnolls in the hills terrorizing a good friend of mine Rephas. I need you to go to the hills and assist my friend Rephas. Rephas had 3 pages of research he was studying and they were stolen by these gnolls. I need you to retrieve these pages and bring them to Rephas. He will then give you a completed book to return to me. Bring me back the completed book from Rephas and I will surely reward you for your efforts.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,9 +1,13 @@
 # rabid snow cougar
+
+
 ## On NPC Spawn
 
 **Set a timer** named *attack* for 1 seconds
 
 **Set a timer** named *depop* for 120 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "attack") then

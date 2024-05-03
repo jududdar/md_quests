@@ -1,4 +1,6 @@
 # Guard Korlack
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

@@ -1,4 +1,6 @@
 # Deputy Raynin
+
+
 ## Dialog
 
 **You say:** `nice hat`
@@ -85,6 +87,8 @@
 
 >**Deputy Raynin says:** There is a forge at the Tagglefoot's Farm near the vegetable stand and the main house of the farm.
 end
+
+
 
 ## Turn-Ins
 

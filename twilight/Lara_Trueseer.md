@@ -1,4 +1,6 @@
 # Lara Trueseer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Lara Trueseer says:** For the bracer I will need a sky jewel, a mark of elegance, and a hope sapphire.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Legionnaire Balien
+
+
 ## Dialog
 
 **You say:** `hail`

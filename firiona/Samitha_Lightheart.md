@@ -1,4 +1,6 @@
 # Samitha Lightheart
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -19,6 +21,8 @@
 
 >**Samitha Lightheart says:** I am still looking for four scrolls that I have not been able to locate. They are the scrolls of Circle of Winter, Circle of Summer, Spirit of Scale, and Form of the Howler. If you bring any of these back, I'll give you one of four very rare scrolls in my possession.
 end
+
+
 
 ## Turn-Ins
 

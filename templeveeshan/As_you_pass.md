@@ -1,5 +1,7 @@
 # As you pass
 
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

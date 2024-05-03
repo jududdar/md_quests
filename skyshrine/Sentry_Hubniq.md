@@ -1,4 +1,6 @@
 # Sentry Hubniq
+
+
 ## Dialog
 
 **You say:** `hail`

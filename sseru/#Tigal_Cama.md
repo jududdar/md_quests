@@ -1,4 +1,6 @@
 # Tigal Cama
+
+
 ## Dialog
 
 **You say:** `hail`

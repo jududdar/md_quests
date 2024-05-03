@@ -1,4 +1,6 @@
 # Brokh
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Brokh says:** Hey there. If you need any ammo. just dig through my bags and see if there is anything there to suit your needs. My prices are fair and the quality is good.
 end
+
+
 
 ## Turn-Ins
 

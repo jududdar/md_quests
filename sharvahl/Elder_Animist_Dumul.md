@@ -1,4 +1,6 @@
 # Elder Animist Dumul
+
+
 ## Dialog
 
 **You say:** `spiritual`
@@ -50,6 +52,8 @@ else
 >**Elder Animist Dumul says:** You need to prove your dedication to our cause before I can discuss such matters with you.
 
 end
+
+
 
 ## Turn-Ins
 

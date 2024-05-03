@@ -1,4 +1,6 @@
 # Dapper Blackhammer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**Dapper Blackhammer says:** Very good. Very good. What I require, if it is the whistler ya seek, is 500 platinum and the two components necessary. Once I have all three, I will then commence ta doin that right away fer ya.
 end
+
+
 
 ## Turn-Ins
 

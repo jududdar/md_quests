@@ -1,4 +1,6 @@
 # Nelet Durzit
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -24,6 +26,8 @@ eq.get_entity_list():GetMobByNpcTypeID( [Rendap](/npc/110060)):Say("Nelet don't 
 
 >*Nelet Durzit talks through clenched, chattering teeth.  'Y-y-yeah.  C-cursed cold.  Sh-sh-shot of gnomish pirate triple strength rum's all I need ta fix me up, Rendap tells me.  N-n-nilham lost it all, though.'*
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Primus Benet
+
+
 ## Dialog
 
 **You say:** `hail`

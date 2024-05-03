@@ -1,6 +1,8 @@
 # Rhag-Mozdezh
 
 
+
+
 ## On NPC Death
 
 eq.delete_global("Rhag");

@@ -1,5 +1,7 @@
 # Rytan
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@
 
 >**Rytan says:** Rockhopper talon darts are slightly better than grimling fang darts and will sell for a little more. The hooked dart crafting tool and a rockhopper foot will yield one of these darts.
 end
+
+
 
 ## Turn-Ins
 

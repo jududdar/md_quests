@@ -1,4 +1,6 @@
 # Thadres Thyme
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
 
 >**Thadres Thyme says:** I believe the pages contain the events that drove my brother to insanity.  I have been searching for the remaining three missing pages.  There is some hope; I found a couple of pages over in Everfrost Mountains.
 end
+
+
 
 ## Turn-Ins
 

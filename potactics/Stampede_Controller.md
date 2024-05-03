@@ -207,9 +207,13 @@ npc:AddWaypoint(1200, -320, z, -1, 0, false);
 
 end
 
+
+
 ## On NPC Spawn
 
 eq.set_timer("stamp", math.random(40, 120) * 60000);
+
+
 ## Timer(s)
 
 if ( e.timer == "stamp" ) then

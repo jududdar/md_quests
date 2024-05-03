@@ -1,7 +1,11 @@
 # Shera Banneth
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 100 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -22,6 +26,8 @@
 
 >**Shera Banneth says:** My husband was Suili Banneth.  He was a foul drunk of the worst sorts, never an 'onest day o' work in his life.  Well I found a man worth my time so a lil hemlock in Suili's ale at night an he dinna wake up.  I guess his family was upset aboot tha, so they petitioned ta sen' me 'ere.
 end
+
+
 
 ## Timer(s)
 

@@ -1,6 +1,10 @@
 # Guard McCluskey
+
+
 ## On NPC Spawn
   e.self:SetRunning(true);
+
+
 ## Signals
 
 if(e.signal == 1) then
@@ -16,6 +20,8 @@ elseif(e.signal == 2) then
 
 >**Guard McCluskey says:** Ha! You do that and see what happens. No one will miss another untalented, voiceless bard!
 end
+
+
 
 ## Arrive at Waypoint Script
 

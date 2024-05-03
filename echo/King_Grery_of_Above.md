@@ -1,4 +1,6 @@
 # King Grery of Above
+
+
 ## Dialog
 
 **You say:** `hail`

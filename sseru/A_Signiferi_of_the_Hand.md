@@ -1,4 +1,6 @@
 # A Signiferi of the Hand
+
+
 ## Dialog
 
 **You say:** `hail`

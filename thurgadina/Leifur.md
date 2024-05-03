@@ -35,6 +35,8 @@ quest_helper:melee_chest(THURG_ARMOR.Breastplate, 31036),
 quest_helper:melee_helmet(THURG_ARMOR.Plate_Helmet, 31035)
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Kindly) then 
@@ -132,6 +134,8 @@ else
 
 >**Leifur says:** I do not know you well enough to entrust you with such a quest, yet.
 end
+
+
 
 ## Turn-Ins
 

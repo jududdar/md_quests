@@ -1,4 +1,6 @@
 # The sky
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

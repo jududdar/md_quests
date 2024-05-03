@@ -1,6 +1,8 @@
 # Pandos Flintside
 local Bakery = 0;
 
+
+
 ## Dialog
 
 if(Bakery == 0) then
@@ -34,6 +36,8 @@ eq.start(85);
 Bakery = 1;
 
 end
+
+
 
 ## Turn-Ins
 
@@ -118,6 +122,8 @@ until muffin == 0
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Timer(s)
 
 local xloc = e.self:GetX();
@@ -150,6 +156,8 @@ eq.stop();
 
 Bakery = 0;
 end
+
+
 
 ## Signals
 

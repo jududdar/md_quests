@@ -1,4 +1,6 @@
 # a frost giant sentinel
+
+
 ## Dialog
 
 **You say:** `hail`

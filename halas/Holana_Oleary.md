@@ -1,4 +1,6 @@
 # Holana Oleary
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -56,6 +58,8 @@ else
 
 >**Holana Oleary says:** Ye go through Everfrost Peaks and run through Blackburrow. Once in Qeynos Hills, ye'll head to yer left and follow the pathway to the Plains of Karana. In the plains, when the pathway splits, go to yer right. Then just head toward the horizon.
 end
+
+
 
 ## Turn-Ins
 

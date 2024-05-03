@@ -46,6 +46,8 @@ return true;
 
 
 return false;
+
+
 ## Signals
 
 rid, gid, cid = nil, nil, nil;
@@ -95,14 +97,20 @@ eq.debug("Flagger NPC will acknowledge "..client:GetName().."'s raid/group; Raid
 end
 
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds
 
 keys = 0;
+
+
 ## Timer(s)
 
 **Tarkil Adan despawns.**
+
+
 ## Combat
 
 if  Tarkil Adan enters combat  then
@@ -115,6 +123,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## Dialog
 

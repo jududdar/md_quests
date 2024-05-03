@@ -1,4 +1,6 @@
 # a visiting noble
+
+
 ## Dialog
 
 **You say:** `hail`

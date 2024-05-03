@@ -1,4 +1,6 @@
 # Lon the Redeemed
+
+
 ## Dialog
 
 **You say:** `hail`

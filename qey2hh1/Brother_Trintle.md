@@ -1,4 +1,6 @@
 # Brother Trintle
+
+
 ## Dialog
 
 **You say:** `hail`

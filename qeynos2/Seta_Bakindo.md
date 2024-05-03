@@ -1,4 +1,6 @@
 # Seta Bakindo
+
+
 ## Dialog
 
 if(eq.get_current_expansion() < 4.0) then
@@ -257,6 +259,8 @@ else
 **Signaled to:**  [Tomer Instogle](/npc/2030)
 
 end
+
+
 
 ## Turn-Ins
 

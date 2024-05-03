@@ -1,4 +1,6 @@
 # Trooper Nagraz
+
+
 ## Dialog
 
 **You say:** `Hail`

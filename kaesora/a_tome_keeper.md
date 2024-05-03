@@ -1,5 +1,7 @@
 # a tome keeper
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -14,6 +16,8 @@
 
 >*a tome keeper begins to speak to you without movement of his rotted mouth, you realize his words are pouring into your mind. 'You seek peace of mind, and may you have it. First though, your Shackle of Steel. One Shackle for one tome.'*
 end
+
+
 
 ## Turn-Ins
 

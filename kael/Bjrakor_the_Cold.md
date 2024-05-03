@@ -1,4 +1,6 @@
 # Bjrakor the Cold
+
+
 ## Dialog
 
 **You say:** `hail`

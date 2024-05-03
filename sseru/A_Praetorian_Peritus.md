@@ -1,4 +1,6 @@
 # A Praetorian Peritus
+
+
 ## Dialog
 
 **You say:** `hail`

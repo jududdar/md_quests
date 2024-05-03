@@ -1,4 +1,6 @@
 # Klaggan Iceshard
+
+
 ## Dialog
 
 **You say:** `hail`

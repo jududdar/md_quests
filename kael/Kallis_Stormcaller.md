@@ -1,4 +1,6 @@
 # Kallis Stormcaller
+
+
 ## Dialog
 
 **You say:** `hail`

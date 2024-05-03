@@ -1,6 +1,8 @@
 # Eldon Starkorp
 local n;
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -46,6 +48,8 @@ elseif ( e.signal == 5 ) then
 
 **Set a timer** named *animate* for 2 seconds
 end
+
+
 
 ## Timer(s)
 

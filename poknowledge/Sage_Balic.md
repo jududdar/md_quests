@@ -7,9 +7,13 @@
 
 local continue;
 
+
+
 ## On NPC Spawn
 
 continue = 0;
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -72,6 +76,8 @@ continue = 0;
                                 href="/item/11275" data-url="11275" class="tooltip-link link">Picturebook</a>
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "cont") then
@@ -82,6 +88,8 @@ if(e.timer == "cont") then
 
 continue = 0;
 end
+
+
 
 ## Turn-Ins
 

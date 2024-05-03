@@ -1,4 +1,6 @@
 # Trainee Barkis
+
+
 ## Dialog
 
 **You say:** `hail`

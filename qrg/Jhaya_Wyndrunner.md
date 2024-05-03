@@ -1,4 +1,6 @@
 # Jhaya Wyndrunner
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -377,6 +379,8 @@ else
 e.self:Emote("slightly shrinks away in unease as she wearily and eyes you with distrust, 'Good day to you, traveler. I am quite overwhelmed with my duties at the moment and cannot spare a moment away from them, unfortunately 
 
 end
+
+
 
 ## Turn-Ins
 

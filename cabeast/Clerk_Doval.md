@@ -1,4 +1,6 @@
 # Clerk Doval
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@ e.self:DoAnim(49);
 
 e.self:DoAnim(48);
 end
+
+
 
 ## Turn-Ins
 

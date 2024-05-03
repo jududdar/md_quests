@@ -1,4 +1,6 @@
 # Sol
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,8 @@
 # Master Glox
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Master Glox says:** That took you long enough. Well then, are you ready to prove your agility to me?
 end
+
+
 
 ## On NPC Death
 

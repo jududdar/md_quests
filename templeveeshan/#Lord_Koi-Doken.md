@@ -1,6 +1,8 @@
 # Lord Koi-Doken
 
 
+
+
 ## On NPC Spawn
 
 **Spawn NPC:**  [a guardian spirit](/npc/124157) at (**y:** 509, **x:** -679)

@@ -1,6 +1,8 @@
 # Sorrowsong
 local loc;
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -78,6 +80,8 @@ e.self:SetBodyType(11, false);
 e.self:MoveTo(1, -1, 580, 128, true);
 end
 
+
+
 ## Timer(s)
 
 
@@ -144,6 +148,8 @@ eq.stop_timer(e.timer);
 **Sorrowsong casts:** [Sorrow Song](/spell/3011) on themselves.
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if ( not e.self:IsEngaged() ) then
@@ -154,6 +160,8 @@ if ( not e.self:IsEngaged() ) then
 
 **Set a timer** named *song* for 5 seconds
 end
+
+
 
 ## Combat
 

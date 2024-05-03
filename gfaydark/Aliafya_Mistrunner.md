@@ -1,6 +1,8 @@
 # Aliafya Mistrunner
 
 
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -142,6 +144,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Aliafya Mistrunner says:** There have been numerous attacks mounted lately by the orcs of Clan Crushbone. With their stronghold ever so close to us it is feared that a full-scale attack could level our city and at the very least, leave many of our bretheren dead by the hands of the filthy orcs. What I ask is that you bring me the detailed battle plans that only the highest ranking orcs could be carrying. Bring me these battle plans along with 2 pairs of Crushbone Battle Beads and I will surely reward you for your trouble.
 
 end
+
+
 
 ## Turn-Ins
 

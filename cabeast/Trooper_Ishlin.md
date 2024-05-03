@@ -1,4 +1,6 @@
 # Trooper Ishlin
+
+
 ## Dialog
 
 **You say:** `Hail`

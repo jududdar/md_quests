@@ -1,4 +1,6 @@
 # Frekka Alebringer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -40,6 +42,8 @@
 
 >*Frekka Alebringer screams, 'No one can help me!  Leave before they are in your head as well you fool!'  Frekka winces in pain.*
 end
+
+
 
 ## Signals
 

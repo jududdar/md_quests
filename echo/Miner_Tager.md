@@ -1,4 +1,6 @@
 # Miner Tager
+
+
 ## Dialog
 
 **You say:** `hail`

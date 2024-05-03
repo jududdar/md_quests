@@ -1,4 +1,6 @@
 # A Vigilum Centurio
+
+
 ## Dialog
 
 **You say:** `hail`

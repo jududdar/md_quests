@@ -1,4 +1,6 @@
 # a forgotten traveler
+
+
 ## Dialog
 
 **You say:** `hail`

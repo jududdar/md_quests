@@ -1,4 +1,6 @@
 # Trooper Gepwyz
+
+
 ## Dialog
 
 **You say:** `hail`

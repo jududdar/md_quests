@@ -1,4 +1,6 @@
 # a coerced smith
+
+
 ## Dialog
 
 **You say:** `hail`

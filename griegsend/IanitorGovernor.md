@@ -81,6 +81,8 @@ npc:Depop(true);
 
 end
 
+
+
 ## Signals
 
 if ( e.signal == 1 ) then
@@ -88,6 +90,8 @@ if ( e.signal == 1 ) then
 
 CheckSpawns();
 end
+
+
 
 ## Timer(s)
 

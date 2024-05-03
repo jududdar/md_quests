@@ -1,6 +1,8 @@
 # Boridain Glacierbane
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -9,6 +11,8 @@
 
 >**Boridain Glacierbane says:** Hello stranger, I am Boridain, master hunter of the Coldain. Glad to meet you.
 end
+
+
 
 ## Turn-Ins
 

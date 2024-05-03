@@ -1,7 +1,11 @@
 # Gina McStargan
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -28,6 +32,8 @@
 
 >**Gina McStargan says:** So you wish to take the test of sight do you? Get me a Phosphoric Globe, a Sphinx Hide and a Light Damask Mantle. Give them all to me at the same time and I shall reward you well.
 end
+
+
 
 ## Turn-Ins
 
@@ -87,6 +93,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
 **Gina McStargan despawns.**
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

@@ -1,4 +1,6 @@
 # Sentinel Weldren
+
+
 ## Signals
 
 
@@ -15,6 +17,8 @@ local kyenka = eq.get_entity_list():GetMobByNpcTypeID(113133);
 
 eq.follow(kyenka:GetID());
 end
+
+
 
 ## Dialog
 

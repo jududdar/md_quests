@@ -1,4 +1,6 @@
 # Baobob Miller
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 3) then
@@ -23,9 +25,13 @@ elseif(e.wp == 7) then
 eq.set_anim(4055,1);
 end
 
+
+
 ## Signals
 
 >**Baobob Miller says:** But, you will always be my little sister. Fare well, Chanda! See you soon!
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -89,6 +95,8 @@ else
 
 >**Baobob Miller says:** Mammoth! That beast is the oldest living bear I have ever heard of. Ten feet tall and full of muscles. If you ever find yourself in the caves of Surefall Glade, make sure to hunt that beast down and send him to his death. We Millers would pay a lot of platinum for a hide like that.
 end
+
+
 
 ## Turn-Ins
 

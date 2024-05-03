@@ -1,4 +1,6 @@
 # Legionnaire Giru
+
+
 ## Dialog
 
 **You say:** `hail`

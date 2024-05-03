@@ -1,4 +1,6 @@
 # a burly kobold
+
+
 ## Dialog
 
 **You say:** `hail`

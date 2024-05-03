@@ -1,4 +1,6 @@
 # Guard Kyte
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -16,6 +18,8 @@
 
 >**Guard Kyte says:** Gonin is my older brother. I promised our parents that I would look after him. He is a bit loony.
 end
+
+
 
 ## Signals
 

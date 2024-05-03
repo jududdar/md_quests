@@ -1,7 +1,11 @@
 # Delival
+
+
 ## On NPC Spawn
 
 **Set a timer** named *worry* for 120 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "worry") then
@@ -9,6 +13,8 @@ if(e.timer == "worry") then
 
 >*Delival sees you come into the room but looks just past you, 'Shainai is that you?'*
 end
+
+
 
 ## Signals
 
@@ -20,6 +26,8 @@ if(e.signal==1) then
 
 **Delival despawns.**
 end
+
+
 
 ## Dialog
 
@@ -47,6 +55,8 @@ end
 
 >*Delival averts his eyes, 'I was on a raid in the forest that went bad.  That was when we lost Shainai's mother.  Truth be told, as much as I am eager to get back out in the field, the opportunity to spend this little bit of extra time with Shainai is priceless.'*
 end
+
+
 
 ## Turn-Ins
 

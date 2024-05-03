@@ -1,4 +1,6 @@
 # Lenka Stoutheart
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -58,6 +60,8 @@ eq.set_global("strongbox","1",7,"H1");
 
 >**Lenka Stoutheart says:** My trusted friend. Together we travel the world aboard the [Beast]. He is quite skilled at boat making and other mechanical skills. He has a heart and brain far superior to any ogre I have ever met, as well as most other races.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Lyjak
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -194,9 +196,13 @@
 >**Lyjak says:** Shadow Haven is the great city that lies beneath the ground. We have many trading relationships with the houses that form the groundwork of Shadow Haven politics. Use caution when traveling there, although the haven houses many honest merchants, it is also a home to smugglers, bandits, and thieves.
 end
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 82 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "1") then
@@ -228,6 +234,8 @@ if(rand == 3) then
 >**Lyjak says:** I have all sorts of patterns to make your tailoring easy. Come look at what I have to offer.
 
 end
+
+
 
 ## Turn-Ins
 

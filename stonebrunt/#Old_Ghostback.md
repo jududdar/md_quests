@@ -1,5 +1,7 @@
 # Old Ghostback
  
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -8,6 +10,8 @@
 
 >*Old Ghostback looks down upon the creature standing beneath him and speaks. 'You are brave to approach a titan such as Old Ghostback. I pray that the spirits have granted you honor and respect as well as courage.*
 end
+
+
 
 ## Turn-Ins
 

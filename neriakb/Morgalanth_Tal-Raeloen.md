@@ -1,4 +1,6 @@
 # Morgalanth Tal-Raeloen
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -165,6 +167,8 @@ else
 >**Morgalanth Tal-Raeloen says:** Well, I must say that I did not expect you to progress in your training at the rate you have. I also knew there was something that separated you from our other initiates. For your final test, I will need you to execute three specific Orc Chieftans in the Nektulos forest. Bring me the Prayer beads of all three Orc Chieftans. These Orc Chieftans are the heads of each Orc camp and will be heavily guarded, so I would suggest bringing any friends you have made that are somewhat proficient on the battlefield to assist you. They have caused my house many problems and it is time that they are put to rest. You have come too far to fail me now. I hope to see you soon...alive, that is.
 
 end
+
+
 
 ## Turn-Ins
 

@@ -1,8 +1,12 @@
 # Bregun Dorey
 
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -10,6 +14,8 @@ if(e.timer == "depop") then
 
 **Bregun Dorey despawns.**
 end
+
+
 
 ## Dialog
 
@@ -49,6 +55,8 @@ end
 
 >**Bregun Dorey says:** Yeah good! Trog trog trog trog! Hahaha! These Troglodytes don't know of Rivervale. They just run around the cave all day doing Troglodyte things. Hahaha! Trog trog trog. So what was I speaking of.. Oh Bixies! So, are there [bixies around Rivervale]?
 end
+
+
 
 ## Turn-Ins
 

@@ -1,5 +1,7 @@
 # Grandmaster Limsa
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -8,6 +10,8 @@
 
 >*Grandmaster Limsa closes his eyes and gives a deep-seated bow before Soandso. 'Greetings, traveler. I am Grand Master Limsa, master of the tranquil order of the Tanaan district of the Plane of Knowledge. Monks of both Norrathian orders may approach me for guidance and knowledge through the long path of self-mastery and discipline.'*
 end
+
+
 
 ## Turn-Ins
 

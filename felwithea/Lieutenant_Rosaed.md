@@ -1,4 +1,6 @@
 # Lieutenant Rosaed
+
+
 ## Dialog
 
 **You say:** `hail`

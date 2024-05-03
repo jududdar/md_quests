@@ -1,4 +1,6 @@
 # Vigilum Ripka
+
+
 ## Dialog
 
 **You say:** `hail`

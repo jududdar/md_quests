@@ -1,4 +1,6 @@
 # Lieutenant Arathur
+
+
 ## Arrive at Waypoint Script
   if(e.wp == 12) then
 
@@ -26,6 +28,8 @@
 
 **Signaled to:**  [Guard Forbly](/npc/1174)
  end  
+
+
 
 ## Dialog
 

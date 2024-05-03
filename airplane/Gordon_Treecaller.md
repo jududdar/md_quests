@@ -1,7 +1,11 @@
 # Gordon Treecaller
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -29,6 +33,8 @@
 
 >**Gordon Treecaller says:** Many of the fools on Norrath don�t realize how powerful a good bow can be. Many dread wolves have met their fate from my bow and you can have the same power if you can bring me back these items. Efreeti war bow, thickened nectar, a sphinx tallow, and a shimmering pearl.
 end
+
+
 
 ## Turn-Ins
 
@@ -86,6 +92,8 @@ elseif( **You turn in:** <img style="background:url(/static/icons/blank_slot.gif
  
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Timer(s)
 

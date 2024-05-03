@@ -21,6 +21,8 @@ quest_helper:silk_legs(SKYSHRINE_ARMOR.Silk_Pantaloons, 31159),
 quest_helper:silk_boots(SKYSHRINE_ARMOR.Silk_Boots, 31160) 
 }
 
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then 
@@ -111,6 +113,8 @@ else
 
 >**Elaend Fe-Dhar says:** You must prove your dedication to the Claws of Veeshan before I will speak to you.
 end
+
+
 
 ## Turn-Ins
 

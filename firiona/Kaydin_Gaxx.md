@@ -1,4 +1,6 @@
 # Kaydin Gaxx
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -10,6 +12,8 @@
 
 e.self:DoAnim(48);
 end
+
+
 
 ## Turn-Ins
 

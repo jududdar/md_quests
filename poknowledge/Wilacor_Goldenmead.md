@@ -1,4 +1,6 @@
 # Wilacor Goldenmead
+
+
 ## Dialog
 
 **You say:** `Hail`

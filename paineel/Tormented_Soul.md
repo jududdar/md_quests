@@ -1,4 +1,6 @@
 # Tormented Soul
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -13,6 +15,8 @@
 
 >**Tormented Soul says:** Yes, counsel. It means to meet and converse, fool. Waste my time with definitions of words any dullard would know and taste my anger.
 end
+
+
 
 ## Turn-Ins
 

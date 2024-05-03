@@ -1,4 +1,6 @@
 # A Veteran Centurion
+
+
 ## Dialog
 
 **You say:** `hail`

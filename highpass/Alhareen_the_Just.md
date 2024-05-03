@@ -1,4 +1,6 @@
 # Alhareen the Just
+
+
 ## Dialog
 
 **You say:** `hail`

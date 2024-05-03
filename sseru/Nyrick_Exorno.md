@@ -1,4 +1,6 @@
 # Nyrick Exorno
+
+
 ## Dialog
 
 **You say:** `hail`

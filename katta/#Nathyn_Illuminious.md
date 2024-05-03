@@ -1,4 +1,6 @@
 # Nathyn Illuminious
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -37,6 +39,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 
 eq.delete_global("first_badge_nathyn");
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Legionnaire Eandalion
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -49,6 +51,8 @@
 
 >**Legionnaire Eandalion says:** To get the sword you will need to get me a star jewel, a mark of warfare, a hope fire opal, and some fire powder.
 end
+
+
 
 ## Turn-Ins
 

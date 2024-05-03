@@ -118,6 +118,8 @@ local SPAWN_LOCS = {
 { 1260, -430, 120 },
 };
 
+
+
 ## On NPC Spawn
 
 if ( e.self:GetSpawnPointID() == 0 ) then 
@@ -146,6 +148,8 @@ e.self:GMMove(loc[1], loc[2], loc[3], 0, true, true);
 e.self:MoveTo(math.random(440, 935), math.random(-380, 405), -291, -1, true);
 end
 
+
+
 ## Timer(s)
 
 
@@ -171,6 +175,8 @@ elseif ( e.timer == "depop" and not e.self:Charmed() and not e.self:IsEngaged() 
 
 **a Gladiator despawns.**
 end
+
+
 
 ## Combat
 

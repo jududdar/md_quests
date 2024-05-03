@@ -1,4 +1,6 @@
 # Guard Sylus
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 4) then

@@ -1,4 +1,6 @@
 # Scound Dralin
+
+
 ## Dialog
 
 **You say:** `hail`

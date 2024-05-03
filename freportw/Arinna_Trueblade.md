@@ -1,4 +1,6 @@
 # Arinna Trueblade
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -130,6 +132,8 @@ elseif(e.other:Class() == "Warrior" and eq.get_current_expansion() >= 4.0) then
 >**Arinna Trueblade says:** I am in need of some assistance to craft a special sword that I would like to present all graduates of my training like yourself with. However. I don't have all the pieces I need to make one. If you could retrieve a Pristine Giant Scarab Leg, one Lion Paw and one Vial of Smoke I will have all I need to create this weapon. I would have no problem presenting you with the first if I was able to create it. See you soon.
 
 end
+
+
 
 ## Turn-Ins
 

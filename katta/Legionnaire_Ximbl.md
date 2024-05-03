@@ -1,4 +1,6 @@
 # Legionnaire Ximbl
+
+
 ## Dialog
 
 **You say:** `hail`

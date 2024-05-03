@@ -1,4 +1,6 @@
 # Sentry Maof
+
+
 ## Dialog
 
 **You say:** `hail`

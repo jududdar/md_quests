@@ -1,6 +1,8 @@
 # Marthor
 
 
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);
@@ -23,6 +25,8 @@ local qglobals = eq.get_qglobals(e.self,e.other);
 
 >**Marthor says:** Veltar was one with the ways of Tynn. He did return to Cabilis, I know you have rescued him from his cell. He has traveled afar to clear his mind of his torture in the mines. He did not say where his travels would take him. You will have to find him once more and ask him about the Tynnonium Shackle he still wears.
 end
+
+
 
 ## Turn-Ins
 

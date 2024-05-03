@@ -1,4 +1,6 @@
 # Guard Ginton
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -112,6 +114,8 @@
 
 >**Guard Ginton says:** Captain Tillin Brightblade is the commander of the Qeynos City Guard. Extermination of the Sabertooths is his paramount concern. He has recently begun to hire mercenaries to assist in the extermination. If you wish to help out then go and speak with him. He is most often found discussing tactics with Ebon Strongbear at arena.
 end
+
+
 
 ## Arrive at Waypoint Script
 

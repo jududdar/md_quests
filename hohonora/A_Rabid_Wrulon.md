@@ -1,4 +1,6 @@
 # A Rabid Wrulon
+
+
 ## On NPC Death
 
 local x, y, z, h = e.self:GetX(), e.self:GetY(), e.self:GetZ(), e.self:GetHeading();

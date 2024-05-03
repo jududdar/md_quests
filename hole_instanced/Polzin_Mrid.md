@@ -1,5 +1,7 @@
 # Polzin Mrid
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -44,6 +46,8 @@
 
 >**Polzin Mrid says:** Before I provide the item, you must show me that you have spoken to Jeb.
 end
+
+
 
 ## Turn-Ins
 

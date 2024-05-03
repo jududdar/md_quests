@@ -1,4 +1,6 @@
 # Guard Humkor
+
+
 ## Dialog
 
 **You say:** `armor`

@@ -1,4 +1,6 @@
 # Lord Yelinak
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -55,6 +57,8 @@ else
 >**Lord Yelinak says:** I have nothing to speak about to the likes of you.
 
 end
+
+
 
 ## Turn-Ins
 

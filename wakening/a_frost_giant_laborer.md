@@ -1,4 +1,6 @@
 # a frost giant laborer
+
+
 ## Dialog
 
 **You say:** `hail`

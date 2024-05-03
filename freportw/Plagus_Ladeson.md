@@ -1,4 +1,6 @@
 # Plagus Ladeson
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);
@@ -91,6 +93,8 @@ elseif(fac > 5) then
 >**Plagus Ladeson says:** Your head shall look grand mounted on the wall of the Steel Warriors Arena!!
 
 end
+
+
 
 ## Turn-Ins
 

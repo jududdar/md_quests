@@ -1,4 +1,6 @@
 # General V-Deers
+
+
 ## Signals
 
 if(e.signal==1) then
@@ -21,6 +23,8 @@ e.self:MoveTo(2717,2500,-49,65,true);
 **Set a timer** named *getset* for 525 seconds
 end
 
+
+
 ## Timer(s)
 
 if(e.timer == "getset") then
@@ -34,6 +38,8 @@ if(e.timer == "getset") then
 
 eq.start(8);
 end
+
+
 
 ## Arrive at Waypoint Script
 
@@ -60,6 +66,8 @@ if(e.wp==1) then
 
 **Signaled to:**  [Dragoon V\`Resh](/npc/93086)
 end
+
+
 
 ## Turn-Ins
 

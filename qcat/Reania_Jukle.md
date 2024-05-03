@@ -1,4 +1,6 @@
 # Reania Jukle
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -27,6 +29,8 @@
 local enchant_bars_lib = require("self_found_enchant_bars");
 
 enchant_bars_lib.check_bars_quest_dialogue(e.self, e.other, e.message);
+
+
 ## Turn-Ins
 
 

@@ -21,6 +21,8 @@ quest_helper:melee_legs(KAEL_ARMOR.Leather_Leggings, 5444),
 quest_helper:melee_boots(KAEL_ARMOR.Leather_Boots, 5445), 
 }
 
+
+
 ## Dialog
 
 if ( **Faction is** >= Ally) then
@@ -130,6 +132,8 @@ elseif ( **Faction is** <= Indifferent) then
 >**Nerik Wolfsoul says:** You must prove your dedication to Kael Drakkal and the Kromzek clan before I will speak to you.
 
 end
+
+
 
 ## Turn-Ins
 

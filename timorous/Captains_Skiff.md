@@ -1,4 +1,6 @@
 # Captains Skiff
+
+
 ## Signals 
 
 
@@ -10,7 +12,9 @@ if(e.signal == 1) then
 
 eq.start(4);
 
- ## Arrive at Waypoint Script
+ 
+
+## Arrive at Waypoint Script
  
 local zone_time = eq.get_zone_time();
 

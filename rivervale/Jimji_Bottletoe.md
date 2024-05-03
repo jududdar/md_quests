@@ -1,4 +1,6 @@
 # Jimji Bottletoe
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -103,6 +105,8 @@ if(eq.get_current_expansion() >= 4.0) then
                                 href="/item/19634" data-url="19634" class="tooltip-link link">Crude Boot Mold</a>
 
 end
+
+
 
 ## Turn-Ins
 

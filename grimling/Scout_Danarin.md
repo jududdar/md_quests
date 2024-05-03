@@ -1,4 +1,6 @@
 # Scout Danarin
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >*Scout Danarin smiles, 'I can escort you to a camp rich with enemies. With my help you can take possession of their camp. They'll try desperately to reclaim their lost territory and, if we're lucky, an officer will show up. You'll want to bring about ten soldiers as powerful as me. When you're all here and ready for battle, give me a marbled acrylia sphere.*
 end
+
+
 
 ## Turn-Ins
 

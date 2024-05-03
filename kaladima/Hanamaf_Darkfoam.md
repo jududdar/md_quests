@@ -1,4 +1,6 @@
 # Hanamaf Darkfoam
+
+
 ## Dialog
 
 **You say:** `Hail`

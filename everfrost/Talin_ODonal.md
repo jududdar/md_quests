@@ -1,4 +1,6 @@
 # Talin ODonal
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -7,6 +9,8 @@
 
 >**Talin ODonal says:** 'Brrrrrr! Grr... Grreetings. It is freezing out here!
 end
+
+
 
 ## Turn-Ins
 

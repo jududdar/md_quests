@@ -1,4 +1,6 @@
 # Herol Beaufodal
+
+
 ## Dialog
 
 **You say:** `hail`

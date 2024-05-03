@@ -1,4 +1,6 @@
 # Guard Furithane
+
+
 ## Dialog
 
 **You say:** `hail`

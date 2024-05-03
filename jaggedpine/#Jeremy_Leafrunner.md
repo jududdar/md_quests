@@ -1,6 +1,8 @@
 # Jeremy Leafrunner
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,6 +33,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
                                 href="/item/8969" data-url="8969" class="tooltip-link link">Letter to Elishia</a>
 end
+
+
 
 ## Turn-Ins
 

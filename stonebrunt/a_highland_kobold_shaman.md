@@ -1,4 +1,6 @@
 # a highland kobold shaman
+
+
 ## Dialog
 
 **You say:** `hail`

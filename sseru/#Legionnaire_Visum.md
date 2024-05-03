@@ -1,4 +1,6 @@
 # Legionnaire Visum
+
+
 ## Dialog
 
 **You say:** `hail`

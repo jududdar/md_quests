@@ -1,10 +1,16 @@
 # Vindor Mawnil
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 9900 seconds
+
+
 ## Timer(s)
 
 **Vindor Mawnil despawns.**
+
+
 ## Combat
 
 if  Vindor Mawnil enters combat  then
@@ -17,6 +23,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

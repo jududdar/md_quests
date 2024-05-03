@@ -1,4 +1,6 @@
 # A Haven Customs Inspector
+
+
 ## Combat
 
 if A Haven Customs Inspector enters combat  then

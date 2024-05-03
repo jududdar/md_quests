@@ -1,7 +1,11 @@
 # Draz Nurakk
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds
+
+
 ## Timer(s)
 
 if(e.timer == "depop") then
@@ -12,6 +16,8 @@ if(e.timer == "depop") then
 
 **Draz Nurakk despawns.**
 end
+
+
 
 ## Combat
 
@@ -30,6 +36,8 @@ else
 
 eq.resume_timer("depop");
 end
+
+
 
 ## On NPC Death
 

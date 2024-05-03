@@ -1,4 +1,6 @@
 # Sentinel Ogen
+
+
 ## Dialog
 
 **You say:** `kerra isle`

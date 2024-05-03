@@ -1,4 +1,6 @@
 # Linfa Deepdark
+
+
 ## Dialog
 
 **You say:** `hail`

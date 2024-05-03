@@ -1,6 +1,8 @@
 # Harnoff Splitrock
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -20,6 +22,8 @@
                                 href="/item/17814" data-url="17814" class="tooltip-link link">Empty Ore Crate</a>
 
 end
+
+
 
 ## Turn-Ins
 

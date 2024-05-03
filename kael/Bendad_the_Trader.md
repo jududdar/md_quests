@@ -1,4 +1,6 @@
 # Bendad the Trader
+
+
 ## Dialog
 
 **You say:** `hail`

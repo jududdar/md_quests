@@ -1,4 +1,6 @@
 # Nyrien Lyrdarniel
+
+
 ## Dialog
 
 fac = e.other:GetFaction(e.self);
@@ -32,6 +34,8 @@ else
 
 >**Nyrien Lyrdarniel says:** You have some nerve to approach a loyal member of the Paladins of Tunare! Run, while you can!
 end
+
+
 
 ## Signals
 

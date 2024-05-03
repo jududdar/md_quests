@@ -1,4 +1,6 @@
 # Animist Poren
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Animist Poren says:** Greetings Soandso, it is good to see you. If you have come for the first stage of Khati Sha training please show me your acrylia slate.
 end
+
+
 
 ## Turn-Ins
 

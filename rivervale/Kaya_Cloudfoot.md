@@ -1,4 +1,6 @@
 # Kaya Cloudfoot
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then
@@ -57,6 +59,8 @@ if(eq.get_current_expansion() >= 4.0) then
 >**Kaya Cloudfoot says:** Some days ago one of our Storm Reapers, a ranger by the name of Botim Bonker, ventured into the Kithicor Forest at daybreak on a routine patrol and never returned. That night his bloodied tunic was found hanging on a fence post of Tagglefoots Farm. The blood was dried and many hours old. We believe that he was slain during the day and that deduction coupled with the fact the undead of Kithicor do not leave the woods nor possess the intelligence or means to sneak into Rivervale and leave the tunic where it would surely be found by fellow Storm Reapers led us to believe they were not responsible. We believe it was the work of the Teir'Dal. Search the Kithicor Woods by daylight and punish the Teir'Dal responsible. Return with the villains severed hands as proof of his death.
 
 end
+
+
 
 ## Turn-Ins
 

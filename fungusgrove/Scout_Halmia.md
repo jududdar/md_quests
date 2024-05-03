@@ -1,4 +1,6 @@
 # Scout Halmia
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Scout Halmia says:** I am sorry, but I have been ordered to refrain from speaking to anyone that does not carry the Khati Sha Seal of War. If you do not carry such identification, please move out of my camp.
 end
+
+
 
 ## Turn-Ins
 

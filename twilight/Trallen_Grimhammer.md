@@ -1,4 +1,6 @@
 # Trallen Grimhammer
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -61,6 +63,8 @@
 
 >**Trallen Grimhammer says:** For the sword yer gonna have to get me an astral jewel, a mark of the noble, a hardened clay sculpture, and a runic ear plug.
 end
+
+
 
 ## Turn-Ins
 

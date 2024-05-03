@@ -1,4 +1,6 @@
 # Legionnaire Spaldres
+
+
 ## Dialog
 
 **You say:** `hail`

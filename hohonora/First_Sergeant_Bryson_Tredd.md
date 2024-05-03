@@ -33,11 +33,15 @@ function SendSignals(n)
 **Signaled to:**  [Ranndall Darknon](/npc/211040)
 
 **Signaled to:**  [Eldon Starkorp](/npc/211038)
+
+
 ## On NPC Spawn
 
 **Set a timer** named *say* for 10 seconds
 
 n = 0;
+
+
 ## Timer(s)
 
 

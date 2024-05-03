@@ -1,4 +1,6 @@
 # a storm giant gladiator
+
+
 ## Dialog
 
 **You say:** `hail`

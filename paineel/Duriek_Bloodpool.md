@@ -1,5 +1,7 @@
 # Duriek Bloodpool
 
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then
@@ -37,6 +39,8 @@ if( **Faction is** > Dubious) then
 >**Duriek Bloodpool says:** I will need the Ghoulbane, the Soul Leech, the Blade of Abrogation, and the Decrepit Sheath. Alas, I am far too ill to travel and collect these pieces. I must call upon your youth and ability again, Soandso. Return to me with these items and I shall be known throughout history as the greatest grave lord to have walked Norrath and you shall be among the most powerful in our art.
 
 end
+
+
 
 ## Turn-Ins
 

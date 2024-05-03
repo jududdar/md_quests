@@ -1,4 +1,6 @@
 # a storm giant architect
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -13,6 +15,8 @@
 
 >**a storm giant architect says:** A feeble creature like yourself is near worthless. If you must insist on serving the mighty Kromzek then go to the caverns of the geonids and bring me four blocks of living granite so that I may perform some tests on its value as a resource in the expansion of Kael.
 end
+
+
 
 ## Turn-Ins
 

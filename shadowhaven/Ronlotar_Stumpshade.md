@@ -1,4 +1,6 @@
 # Ronlotar Stumpshade
+
+
 ## Signals
 
 if(e.signal == 1 ) then
@@ -11,6 +13,8 @@ elseif(e.signal == 2) then
 
 >**Ronlotar Stumpshade says:** Will do General, see you soon. Good luck with your rounds.
 end
+
+
 
 ## Dialog
 

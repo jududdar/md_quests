@@ -1,4 +1,6 @@
 # Miner Zelitz
+
+
 ## Dialog
 
 **You say:** `hail`

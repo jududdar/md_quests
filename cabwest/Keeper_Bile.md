@@ -1,4 +1,6 @@
 # Keeper Bile
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -32,6 +34,8 @@ else
 >**Keeper Bile says:** No Iksar resident will have anything to do with you!   Away from here before you find yourself dead.
 
 end
+
+
 
 ## Turn-Ins
 

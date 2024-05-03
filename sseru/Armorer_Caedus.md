@@ -1,4 +1,6 @@
 # Armorer Caedus
+
+
 ## Dialog
 
 **You say:** `hail`

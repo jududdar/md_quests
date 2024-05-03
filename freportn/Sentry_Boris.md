@@ -1,4 +1,6 @@
 # Sentry Boris
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -7,6 +9,8 @@
 
 >**Sentry Boris says:** Please seek guidance from the clerics within this temple.  I am but a Sentry of Passion and my duty is to protect this temple.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Tukk
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -25,6 +27,8 @@ e.self:Say(string.format("With the frequent rains, I find my only need is a blan
 
 >**Tukk says:** The Karana bandits are rogues who operate in the plains. I have heard there are bounties for the bandits. Within the Temple of Thunder in Qeynos, Cleric Gehna offers one for bandit spectacles and Paladin Chesgard offers one for bandit sashes.
 end
+
+
 
 ## Turn-Ins
 

@@ -1,4 +1,6 @@
 # Dragoon TVem
+
+
 ## Signals
 
 if(e.signal==1) then
@@ -23,6 +25,8 @@ e.self:SetRunning(true);
 eq.start(9);
 end
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp==28) then
@@ -30,6 +34,8 @@ if(e.wp==28) then
 
 e.self:SetRunning(false);
 end
+
+
 
 ## Turn-Ins
 

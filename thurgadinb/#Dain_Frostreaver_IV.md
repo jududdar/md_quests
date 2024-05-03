@@ -1,4 +1,6 @@
 # Dain Frostreaver IV
+
+
 ## Dialog
 
 **You say:** `greetings and good fortune to you, honored dain frostreaver iv`
@@ -73,6 +75,8 @@ if( **Faction is** > Kindly) then
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_866.png" alt="" /> <a
                                 href="/item/1567" data-url="1567" class="tooltip-link link">Declaration of War</a>
 end
+
+
 
 ## Turn-Ins
 

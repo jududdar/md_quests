@@ -1,5 +1,7 @@
 # Alrik Farsight
 
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then 
@@ -70,6 +72,8 @@ elseif(random == 3) then
 
 end
 
+
+
 ## Turn-Ins
 
 
@@ -105,6 +109,8 @@ if(e.wp >= 3 and e.wp <= 10) then
 
 **This NPC *should* return incorrect items given.**
 
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 8) then
@@ -120,6 +126,8 @@ if(e.wp == 14) then
 
 >*Alrik Farsight grins a little and mumbles. 'This place is great.  Feels like I'm at theof the universe.'*
 end
+
+
 
 ## Signals
 

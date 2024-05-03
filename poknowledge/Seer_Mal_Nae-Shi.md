@@ -985,6 +985,8 @@ if ( not flagFound ) then
 client:Message(257, "You manage to recover some images from your childhood, but no recent events spark a memory.");
 end
 
+
+
 ## Dialog
 
 **You say:** `hail`

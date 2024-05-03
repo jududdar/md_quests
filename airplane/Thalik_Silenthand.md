@@ -1,4 +1,6 @@
 # Thalik Silenthand
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -33,6 +35,8 @@
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_778.png" alt="" /> <a
                                 href="/item/18523" data-url="18523" class="tooltip-link link">Silent Strider</a>
 end
+
+
 
 
 ## Turn-Ins

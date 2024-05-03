@@ -1,12 +1,18 @@
 # Klieb Torne
+
+
 ## On NPC Spawn
 
 **Set a timer** named *paw* for 600 seconds
+
+
 ## Timer(s)
 
 >**Klieb Torne says:** Can you believe that? That guy actually thinks he is going to find the [Paw of Opolla!]! Bwah ha ha ha!
 
 **Signaled to:**  [Micc Koter](/npc/1072)
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -31,11 +37,15 @@
 **Signaled to:**  [Micc Koter](/npc/1072)
 end
 
+
+
 ## Turn-Ins
 
 
 
 **This NPC *should* return incorrect items given.**
+
+
 
 ## Signals
 

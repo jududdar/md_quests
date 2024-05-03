@@ -1,5 +1,7 @@
 # Soulbinder Kardin
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -17,6 +19,8 @@
 
 **Soulbinder Kardin casts:** [Bind Affinity](/spell/2049) on target.
 end
+
+
 
 ## Turn-Ins
 

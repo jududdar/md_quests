@@ -1,4 +1,6 @@
 # Legionnaire Wraeni
+
+
 ## Dialog
 
 **You say:** `hail`

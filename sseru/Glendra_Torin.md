@@ -1,4 +1,6 @@
 # Glendra Torin
+
+
 ## Dialog
 
 **You say:** `hail`

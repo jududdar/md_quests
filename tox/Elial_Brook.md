@@ -1,4 +1,6 @@
 # Elial Brook
+
+
 ## Dialog
 
 **You say:** `hail`

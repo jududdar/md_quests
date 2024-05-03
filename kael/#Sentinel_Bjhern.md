@@ -1,4 +1,6 @@
 # Sentinel Bjhern
+
+
 ## Dialog
 
 **You say:** `hail`

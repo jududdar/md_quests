@@ -1,6 +1,8 @@
 # Lewis Reldnok
 
 
+
+
 ## Dialog
 
 **You say:** `hail`
@@ -119,6 +121,8 @@
 
 >**Lewis Reldnok says:** Ok I will need 4 things to construct this blade. Bring me a Finished Sheet of Metal, a Kobold Backbone, Preserved Rat Pelt and 1 Bottle of Clockwork Oil that was stolen from me from some renegade clockworks not too long ago. Once I have these items I can make you a sword worthy of Brells finest heroes.
 end
+
+
 
 ## Turn-Ins
 

@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Dialog
 
 **You say:** `Hail`
@@ -169,6 +171,8 @@ else
 
 >**Loveal S-Nez says:** Have you not been educated in the ancient elven language? The three races of elvenkind are designated thus: Teir'Dal are dark elves, Koada'Dal are high elves and Feir'Dal are wood elves.
 end
+
+
 ## Turn-Ins
 
 

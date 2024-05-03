@@ -1,4 +1,6 @@
 # Bombardier Bixie Bernice
+
+
 ## Dialog
 
 **You say:** `hail`

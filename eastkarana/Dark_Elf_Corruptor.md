@@ -1,17 +1,25 @@
 # Dark Elf Corruptor
+
+
 ## On NPC Spawn
 
 **Set a timer** named *despawn* for 600 seconds
 
 e.self:SetRunning(true);
+
+
 ## Timer(s)
 
 **Stop timer** named *despawn*
 
 **Dark Elf Corruptor despawns.**
+
+
 ## On NPC Death
 
 **Stop timer** named *despawn*
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then

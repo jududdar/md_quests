@@ -1,4 +1,6 @@
 # Legionnaire Gyarg
+
+
 ## Dialog
 
 **You say:** `hail`

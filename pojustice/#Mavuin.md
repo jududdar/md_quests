@@ -1,4 +1,6 @@
 # Mavuin
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self, e.other);
