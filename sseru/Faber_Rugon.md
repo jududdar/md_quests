@@ -1,6 +1,11 @@
 # Faber Rugon
 
 
+
+[Faber Rugon](/npc/159363) is a level 60 Dwarf Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

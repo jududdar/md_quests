@@ -1,6 +1,11 @@
 # Kaam Rahiir
 
 
+
+[Kaam Rahiir](/npc/155049) is a level 30 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 10 seconds

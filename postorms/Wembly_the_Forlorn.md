@@ -2,6 +2,11 @@
 
 
 
+[Wembly the Forlorn](/npc/210060) is a level 60 Gnome Warrior that spawns in [Plane of Storms](/zone/210).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Dragoon TVem
 
 
+
+[Dragoon TVem](/npc/93024) is a level 50 Dark Elf Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Signals
 
 if(e.signal==1) then

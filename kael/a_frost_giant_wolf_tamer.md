@@ -1,6 +1,11 @@
 # a frost giant wolf tamer
 
 
+
+[a frost giant wolf tamer](/npc/113385) is a level 51 Giant Ranger that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

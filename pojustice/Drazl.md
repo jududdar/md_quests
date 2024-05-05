@@ -2,6 +2,11 @@
 
 
 
+[Drazl](/npc/201304) is a level 46 Froglok Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

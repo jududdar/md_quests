@@ -1,6 +1,11 @@
 # Telnaq
 
 
+
+[Telnaq](/npc/114532) is a level 42 Drake Bard that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

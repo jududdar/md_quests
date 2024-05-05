@@ -2,6 +2,11 @@
 
 
 
+[Steaon Alarenier](/npc/150108) is a level 55 Barbarian Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
+
 
 ## Dialog
 

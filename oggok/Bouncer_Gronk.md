@@ -1,6 +1,11 @@
 # Bouncer Gronk
 
 
+
+[Bouncer Gronk](/npc/49000) is a level 29 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

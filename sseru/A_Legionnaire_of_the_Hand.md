@@ -1,6 +1,11 @@
 # A Legionnaire of the Hand
 
 
+
+[A Legionnaire of the Hand](/npc/159197) is a level 45 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

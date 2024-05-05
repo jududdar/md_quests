@@ -1,6 +1,11 @@
 # Marianna
 
 
+
+[Marianna](/npc/50076) is a level 26 Human Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Eldreth](/npc/51025) is a level 49 Erudite Wizard that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## Dialog
 

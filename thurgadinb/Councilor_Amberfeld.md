@@ -1,6 +1,11 @@
 # Councilor Amberfeld
 
 
+
+[Councilor Amberfeld](/npc/129073) is a level 47 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a storm giant commoner
 
 
+
+[a storm giant commoner](/npc/113362) is a level 36 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

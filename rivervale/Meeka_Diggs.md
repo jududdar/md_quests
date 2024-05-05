@@ -1,6 +1,11 @@
 # Meeka Diggs
 
 
+
+[Meeka Diggs](/npc/19051) is a level 31 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

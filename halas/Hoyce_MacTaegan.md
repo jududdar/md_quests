@@ -1,6 +1,11 @@
 # Hoyce MacTaegan
 
 
+
+[Hoyce MacTaegan](/npc/29011) is a level 50 Barbarian Beastlord that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

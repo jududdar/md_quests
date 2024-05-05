@@ -1,6 +1,11 @@
 # Raarrk
 
 
+
+[Raarrk](/npc/74070) is a level 35 Kerran Shopkeeper that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 **You say:** `hail`

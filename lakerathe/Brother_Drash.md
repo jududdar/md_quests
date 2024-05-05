@@ -1,6 +1,11 @@
 # Brother Drash
 
 
+
+[Brother Drash](/npc/14089) is a level 2 Gnoll Warrior that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Centurion Zalpha
 
 
+
+[Centurion Zalpha](/npc/159094) is a level 50 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

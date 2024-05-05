@@ -1,6 +1,11 @@
 # Adia Coldbeard
 
 
+
+[Adia Coldbeard](/npc/115140) is a level 30 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Emmerik Skyfury
 
 
+
+[Emmerik Skyfury](/npc/209053) is a level 73 Giant Ranger that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Emmerik Skyfury enters combat  then

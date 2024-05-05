@@ -1,6 +1,11 @@
 # Gundal Bronzebrow
 
 
+
+[Gundal Bronzebrow](/npc/160187) is a level 35 Dwarf Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

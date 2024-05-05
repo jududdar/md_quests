@@ -1,6 +1,11 @@
 # Garn McMarrin
 
 
+
+[Garn McMarrin](/npc/30075) is a level 50 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Ulia Yovar
 
 
+
+[Ulia Yovar](/npc/9119) is a level 11 Human Cleric that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Shezlie Furscale
 
 
+
+[Shezlie Furscale](/npc/106012) is a level 50 Iksar Shaman that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

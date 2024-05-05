@@ -1,6 +1,11 @@
 # Spanner Scrapsnatcher
 
 
+
+[Spanner Scrapsnatcher](/npc/47130) is a level 25 Gnome Warrior that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

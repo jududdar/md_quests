@@ -1,6 +1,11 @@
 # Janam Rekish
 
 
+
+[Janam Rekish](/npc/9116) is a level 14 Half Elf Rogue that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

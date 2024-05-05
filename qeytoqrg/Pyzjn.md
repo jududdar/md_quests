@@ -1,4 +1,9 @@
 # Pyzjn
+
+
+
+[Pyzjn](/npc/4015) is a level 13 Gnome Necromancer that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

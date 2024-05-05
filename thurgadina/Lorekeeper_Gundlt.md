@@ -1,6 +1,11 @@
 # Lorekeeper Gundlt
 
 
+
+[Lorekeeper Gundlt](/npc/115186) is a level 42 Coldain Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

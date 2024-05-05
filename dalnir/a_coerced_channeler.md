@@ -2,6 +2,11 @@
 
 
 
+[a coerced channeler](/npc/104001) is a level 26 Iksar Necromancer that spawns in [The Crypt of Dalnir](/zone/104).
+
+
+
+
 ## On NPC Death
 
 **a coerced channeler shouts:** <span class="text-danger">the river of Xinth...</span>

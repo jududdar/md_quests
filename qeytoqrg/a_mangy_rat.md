@@ -1,4 +1,9 @@
 # a mangy rat
+
+
+
+[a mangy rat](/npc/2149) is a level 1 Rat Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

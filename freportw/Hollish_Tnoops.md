@@ -1,6 +1,11 @@
 # Hollish Tnoops
 
 
+
+[Hollish Tnoops](/npc/9144) is a level 14 Dark Elf Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

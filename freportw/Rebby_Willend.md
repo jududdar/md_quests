@@ -1,6 +1,11 @@
 # Rebby Willend
 
 
+
+[Rebby Willend](/npc/9115) is a level 27 Halfling Rogue that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

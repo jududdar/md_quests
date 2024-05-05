@@ -1,6 +1,11 @@
 # Entariz
 
 
+
+[Entariz](/npc/120018) is a level 57 Dragon Paladin that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

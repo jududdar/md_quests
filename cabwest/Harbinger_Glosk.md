@@ -1,6 +1,11 @@
 # Harbinger Glosk
 
 
+
+[Harbinger Glosk](/npc/82044) is a level 61 Iksar GM Necromancer that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `hail`

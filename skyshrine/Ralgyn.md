@@ -1,6 +1,11 @@
 # Ralgyn
 
 
+
+[Ralgyn](/npc/114098) is a level 60 Wurm Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

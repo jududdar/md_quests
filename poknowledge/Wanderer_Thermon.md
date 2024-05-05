@@ -1,6 +1,11 @@
 # Wanderer Thermon
 
 
+
+[Wanderer Thermon](/npc/202215) is a level 60 Halfling Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

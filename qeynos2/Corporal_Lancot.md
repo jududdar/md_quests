@@ -1,6 +1,11 @@
 # Corporal Lancot
 
 
+
+[Corporal Lancot](/npc/2097) is a level 50 Human Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

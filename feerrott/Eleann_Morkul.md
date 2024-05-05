@@ -1,6 +1,11 @@
 # Eleann Morkul
 
 
+
+[Eleann Morkul](/npc/47131) is a level 25 Human Warrior that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

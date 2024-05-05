@@ -1,4 +1,9 @@
-# Onerind Fe-Dhar
+# Onerind Fe\`Dhar
+
+
+
+[Onerind Fe\`Dhar](/npc/114623) is a level 35 Wyvern Warrior that spawns in [Skyshrine](/zone/114).
+
 
 
 local quest_helper = require('velious_quest_helper');

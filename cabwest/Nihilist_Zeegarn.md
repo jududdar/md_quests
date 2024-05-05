@@ -2,6 +2,11 @@
 
 
 
+[Nihilist Zeegarn](/npc/82026) is a level 50 Iksar Shadow Knight that spawns in [Cabilis West](/zone/82).
+
+
+
+
 
 ## Dialog
 

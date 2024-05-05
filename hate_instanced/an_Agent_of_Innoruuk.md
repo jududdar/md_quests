@@ -1,4 +1,9 @@
 # an Agent of Innoruuk
+
+
+
+[an Agent of Innoruuk](/npc/76383) is a level 53 Dark Elf Rogue that spawns in [Plane of Hate (Instanced)](/zone/1076).
+
 function event_signal(event)
 
 

@@ -1,6 +1,11 @@
 # Realla Segoan
 
 
+
+[Realla Segoan](/npc/84161) is a level 50 Erudite Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

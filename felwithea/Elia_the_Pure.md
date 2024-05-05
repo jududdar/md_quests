@@ -2,6 +2,11 @@
 
 
 
+[Elia the Pure](/npc/61013) is a level 55 High Elf Cleric that spawns in [Northern Felwithe](/zone/61).
+
+
+
+
 
 ## Dialog
 

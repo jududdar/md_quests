@@ -2,6 +2,11 @@
 
 
 
+[Simon Aldicott](/npc/21011) is a level 65 Human Cleric that spawns in [West Commonlands](/zone/21).
+
+
+
+
 
 ## Dialog
 

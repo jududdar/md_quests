@@ -1,6 +1,11 @@
 # Conium Darkblade
 
 
+
+[Conium Darkblade](/npc/70002) is a level 40 Dwarf Shopkeeper that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## Dialog
 
 **You say:** `hail`

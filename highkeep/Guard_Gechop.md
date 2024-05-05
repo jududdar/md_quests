@@ -1,6 +1,11 @@
 # Guard Gechop
 
 
+
+[Guard Gechop](/npc/6023) is a level 27 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

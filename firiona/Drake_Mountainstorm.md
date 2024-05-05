@@ -2,6 +2,11 @@
 
 
 
+[Drake Mountainstorm](/npc/84301) is a level 40 Dwarf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

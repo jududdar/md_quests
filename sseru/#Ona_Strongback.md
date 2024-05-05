@@ -1,6 +1,11 @@
 # Ona Strongback
 
 
+
+[Ona Strongback](/npc/159432) is a level 51 Dwarf Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

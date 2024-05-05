@@ -1,6 +1,11 @@
 # Clockwork XXVIC
 
 
+
+[Clockwork XXVIC](/npc/55201) is a level 38 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

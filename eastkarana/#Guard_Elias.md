@@ -1,6 +1,11 @@
 # Guard Elias
 
 
+
+[Guard Elias](/npc/15193) is a level 20 Human Warrior that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then

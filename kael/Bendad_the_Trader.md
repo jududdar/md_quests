@@ -1,6 +1,11 @@
 # Bendad the Trader
 
 
+
+[Bendad the Trader](/npc/113172) is a level 70 Giant Shopkeeper that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

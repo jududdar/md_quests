@@ -1,6 +1,11 @@
 # Cornicularius Wassein
 
 
+
+[Cornicularius Wassein](/npc/159305) is a level 65 Gnome GM Wizard that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a frost giant scout
 
 
+
+[a frost giant scout](/npc/110018) is a level 30 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

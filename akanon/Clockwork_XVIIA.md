@@ -1,6 +1,11 @@
 # Clockwork XVIIA
 
 
+
+[Clockwork XVIIA](/npc/55039) is a level 18 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

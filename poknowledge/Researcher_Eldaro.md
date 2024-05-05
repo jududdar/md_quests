@@ -1,6 +1,11 @@
 # Researcher Eldaro
 
 
+
+[Researcher Eldaro](/npc/202023) is a level 40 Erudite Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

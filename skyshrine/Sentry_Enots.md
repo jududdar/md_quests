@@ -1,6 +1,11 @@
 # Sentry Enots
 
 
+
+[Sentry Enots](/npc/114566) is a level 25 Golem Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

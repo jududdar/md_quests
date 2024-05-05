@@ -1,6 +1,11 @@
 # a coterie general
 
 
+
+[a coterie general](/npc/172185) is a level 46 Vampire Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

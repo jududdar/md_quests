@@ -1,6 +1,11 @@
 # Erikal Wolfeye
 
 
+
+[Erikal Wolfeye](/npc/160180) is a level 61 Wood Elf GM Ranger that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

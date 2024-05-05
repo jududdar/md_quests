@@ -1,6 +1,11 @@
 # A firestorm portal
 
 
+
+[A firestorm portal](/npc/209122) is a level 40 BoT Portal Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

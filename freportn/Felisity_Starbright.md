@@ -1,6 +1,11 @@
 # Felisity Starbright
 
 
+
+[Felisity Starbright](/npc/8102) is a level 25 Human Bard that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

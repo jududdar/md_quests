@@ -1,6 +1,11 @@
 # Ran Walker
 
 
+
+[Ran Walker](/npc/3005) is a level 30 Half Elf Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `leader`

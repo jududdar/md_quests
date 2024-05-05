@@ -1,6 +1,11 @@
 # Lord Nethryn
 
 
+
+[Lord Nethryn](/npc/61066) is a level 61 High Elf Cleric that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

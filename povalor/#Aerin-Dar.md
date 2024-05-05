@@ -1,4 +1,9 @@
-# Aerin-Dar
+# Aerin\`Dar
+
+
+
+[Aerin\`Dar](/npc/208074) is a level 70 Dragon Warrior that spawns in [Plane of Valor](/zone/208).
+
 local PLANAR_PROJECTION_TYPE = 208207;
 local MINION_TYPE = 208175; 
 local RAHLGON_TYPE = 208176; 

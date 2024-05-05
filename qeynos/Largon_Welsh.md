@@ -1,6 +1,11 @@
 # Largon Welsh
 
 
+
+[Largon Welsh](/npc/1177) is a level 25 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

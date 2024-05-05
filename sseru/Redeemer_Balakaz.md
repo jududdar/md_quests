@@ -1,6 +1,11 @@
 # Redeemer Balakaz
 
 
+
+[Redeemer Balakaz](/npc/159149) is a level 66 Halfling GM Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

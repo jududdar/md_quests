@@ -1,6 +1,11 @@
 # Legionnaire Hyuni
 
 
+
+[Legionnaire Hyuni](/npc/161052) is a level 30 Human Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## Dialog
 
 **You say:** `hail`

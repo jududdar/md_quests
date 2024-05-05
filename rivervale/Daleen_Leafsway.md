@@ -1,6 +1,11 @@
 # Daleen Leafsway
 
 
+
+[Daleen Leafsway](/npc/19079) is a level 35 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *blurt* for 600 seconds

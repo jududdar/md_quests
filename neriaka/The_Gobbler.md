@@ -1,6 +1,11 @@
 # The Gobbler
 
 
+
+[The Gobbler](/npc/40040) is a level 40 Ogre Shopkeeper that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `hail`

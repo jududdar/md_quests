@@ -2,6 +2,11 @@
 
 
 
+[Slixin Klex](/npc/87047) is a level 50 Undead Iksar Warrior that spawns in [The Burning Wood](/zone/87).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

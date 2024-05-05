@@ -1,6 +1,11 @@
 # Anson McBale
 
 
+
+[Anson McBale](/npc/5037) is a level 61 Human GM Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

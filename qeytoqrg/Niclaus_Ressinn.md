@@ -1,6 +1,11 @@
 # Niclaus Ressinn
 
 
+
+[Niclaus Ressinn](/npc/4060) is a level 33 Human Paladin that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

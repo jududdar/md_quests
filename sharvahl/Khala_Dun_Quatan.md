@@ -1,6 +1,11 @@
 # Khala Dun Quatan
 
 
+
+[Khala Dun Quatan](/npc/155220) is a level 45 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

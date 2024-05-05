@@ -1,4 +1,9 @@
-# Medron Y-Lask
+# Medron Y\`Lask
+
+
+
+[Medron Y\`Lask](/npc/42014) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

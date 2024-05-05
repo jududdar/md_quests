@@ -2,6 +2,11 @@
 
 
 
+[Lhranc](/npc/90002) is a level 60 Iksar Spirit Shadow Knight that spawns in [The City of Mist](/zone/90).
+
+
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then

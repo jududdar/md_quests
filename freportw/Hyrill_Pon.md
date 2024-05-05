@@ -1,6 +1,11 @@
 # Hyrill Pon
 
 
+
+[Hyrill Pon](/npc/9060) is a level 8 Human Rogue that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

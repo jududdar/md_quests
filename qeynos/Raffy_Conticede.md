@@ -1,6 +1,11 @@
 # Raffy Conticede
 
 
+
+[Raffy Conticede](/npc/1163) is a level 22 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `karana`

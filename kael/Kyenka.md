@@ -1,6 +1,11 @@
 # Kyenka
 
 
+
+[Kyenka](/npc/113133) is a level 57 Giant Shaman that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

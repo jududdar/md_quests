@@ -1,6 +1,11 @@
 # Reane Goldsun
 
 
+
+[Reane Goldsun](/npc/159618) is a level 38 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

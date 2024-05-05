@@ -1,4 +1,9 @@
 # a spiroc vanquisher
+
+
+
+[a spiroc vanquisher](/npc/71009) is a level 58 Aviak Warrior that spawns in [Plane of Sky](/zone/71).
+
 local arrive = {};
 
 

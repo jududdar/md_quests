@@ -1,6 +1,11 @@
 # Guard Wextr
 
 
+
+[Guard Wextr](/npc/6177) is a level 23 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

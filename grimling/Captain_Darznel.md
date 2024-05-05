@@ -1,6 +1,11 @@
 # Captain Darznel
 
 
+
+[Captain Darznel](/npc/167499) is a level 38 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

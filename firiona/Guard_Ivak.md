@@ -1,6 +1,11 @@
 # Guard Ivak
 
 
+
+[Guard Ivak](/npc/84153) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

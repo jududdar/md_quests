@@ -1,6 +1,11 @@
 # Warlord Geot
 
 
+
+[Warlord Geot](/npc/85152) is a level 51 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `hail`

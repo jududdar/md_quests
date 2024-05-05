@@ -1,6 +1,11 @@
 # Historian Baenek
 
 
+
+[Historian Baenek](/npc/121035) is a level 40 Coldain Cleric that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

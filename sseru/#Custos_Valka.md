@@ -1,6 +1,11 @@
 # Custos Valka
 
 
+
+[Custos Valka](/npc/159340) is a level 55 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

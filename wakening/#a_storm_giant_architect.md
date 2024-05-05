@@ -1,6 +1,11 @@
 # a storm giant architect
 
 
+
+[a storm giant architect](/npc/119019) is a level 45 Giant Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a pixie trickster
 
 
+
+[a pixie trickster](/npc/54022) is a level 2 Pixie Rogue that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

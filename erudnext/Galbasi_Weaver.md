@@ -1,6 +1,11 @@
 # Galbasi Weaver
 
 
+
+[Galbasi Weaver](/npc/24075) is a level 45 Erudite Shopkeeper that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

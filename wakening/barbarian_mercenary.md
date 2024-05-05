@@ -1,6 +1,11 @@
 # barbarian mercenary
 
 
+
+[barbarian mercenary](/npc/119016) is a level 38 Barbarian Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

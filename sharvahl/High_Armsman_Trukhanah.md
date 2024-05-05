@@ -1,6 +1,11 @@
 # High Armsman Trukhanah
 
 
+
+[High Armsman Trukhanah](/npc/155167) is a level 61 Vah Shir GM Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

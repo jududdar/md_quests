@@ -1,6 +1,11 @@
 # Krizle Geerlok
 
 
+
+[Krizle Geerlok](/npc/150071) is a level 50 Gnome Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

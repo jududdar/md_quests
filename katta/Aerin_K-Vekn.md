@@ -1,4 +1,9 @@
-# Aerin K-Vekn
+# Aerin K\`Vekn
+
+
+
+[Aerin K\`Vekn](/npc/160228) is a level 58 Human Monk that spawns in [Katta Castellum](/zone/160).
+
 
 
 ## Dialog

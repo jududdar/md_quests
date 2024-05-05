@@ -2,6 +2,11 @@
 
 
 
+[Xasri Virek](/npc/202044) is a level 60 Iksar Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 
 ## Dialog

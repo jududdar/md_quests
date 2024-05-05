@@ -1,4 +1,9 @@
 # A Planar Projection
+
+
+
+[A Planar Projection](/npc/200269) is a level 1 Elemental Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

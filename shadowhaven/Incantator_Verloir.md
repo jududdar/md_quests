@@ -1,6 +1,11 @@
 # Incantator Verloir
 
 
+
+[Incantator Verloir](/npc/150137) is a level 55 Erudite Wizard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

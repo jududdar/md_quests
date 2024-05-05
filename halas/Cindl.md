@@ -1,6 +1,11 @@
 # Cindl
 
 
+
+[Cindl](/npc/29052) is a level 45 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

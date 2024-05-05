@@ -1,4 +1,9 @@
 # A Planar Projection
+
+
+
+[A Planar Projection](/npc/200269) is a level 1 Elemental Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

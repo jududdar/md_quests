@@ -1,6 +1,11 @@
 # A Hand of Seru
 
 
+
+[A Hand of Seru](/npc/168086) is a level 27 Human Ranger that spawns in [Marus Seru](/zone/168).
+
+
+
 ## Dialog
 
 **You say:** `hail`

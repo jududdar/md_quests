@@ -1,4 +1,9 @@
 # Animated Decorin Blade
+
+
+
+[Animated Decorin Blade](/npc/214310) is a level 57 Invisible Man Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
 local TAGRIN_TYPE = 214054;
 
 

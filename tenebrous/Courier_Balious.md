@@ -1,6 +1,11 @@
 # Courier Balious
 
 
+
+[Courier Balious](/npc/172086) is a level 34 Half Elf Ranger that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Grathin Nilm
 
 
+
+[Grathin Nilm](/npc/3036) is a level 24 Human Shopkeeper that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `leader`

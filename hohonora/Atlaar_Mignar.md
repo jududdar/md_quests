@@ -1,4 +1,9 @@
 # Atlaar Mignar
+
+
+
+[Atlaar Mignar](/npc/211041) is a level 60 Human Warrior that spawns in [Halls of Honor](/zone/211).
+
 local n;
 
 

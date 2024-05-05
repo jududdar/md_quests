@@ -1,6 +1,11 @@
 # an abhorrent hatchling
 
 
+
+[an abhorrent hatchling](/npc/204475) is a level 52 Arachnid Warrior that spawns in [Plane of Nightmares](/zone/204).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

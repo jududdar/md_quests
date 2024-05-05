@@ -2,6 +2,11 @@
 
 
 
+[Walthin Fireweaver](/npc/80011) is a level 35 Half Elf Bard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

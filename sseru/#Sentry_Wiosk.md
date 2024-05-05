@@ -1,6 +1,11 @@
 # Sentry Wiosk
 
 
+
+[Sentry Wiosk](/npc/159442) is a level 44 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

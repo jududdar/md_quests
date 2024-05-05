@@ -1,6 +1,11 @@
 # Legionnaire Fulgeo
 
 
+
+[Legionnaire Fulgeo](/npc/159507) is a level 51 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

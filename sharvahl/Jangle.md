@@ -1,6 +1,11 @@
 # Jangle
 
 
+
+[Jangle](/npc/155205) is a level 19 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

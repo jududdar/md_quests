@@ -1,6 +1,11 @@
 # Vealok the Angry
 
 
+
+[Vealok the Angry](/npc/113132) is a level 55 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

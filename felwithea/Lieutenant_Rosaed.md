@@ -1,6 +1,11 @@
 # Lieutenant Rosaed
 
 
+
+[Lieutenant Rosaed](/npc/61085) is a level 43 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

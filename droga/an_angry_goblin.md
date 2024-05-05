@@ -2,6 +2,11 @@
 
 
 
+[an angry goblin](/npc/81464) is a level 40 Goblin Warrior that spawns in [Mines of Droga](/zone/81).
+
+
+
+
 
 
 

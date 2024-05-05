@@ -1,6 +1,11 @@
 # Lolara
 
 
+
+[Lolara](/npc/150142) is a level 40 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 3) then

@@ -1,6 +1,11 @@
 # Gaif Dula
 
 
+
+[Gaif Dula](/npc/159382) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Olunea Miltin
 
 
+
+[Olunea Miltin](/npc/10016) is a level 8 Human Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

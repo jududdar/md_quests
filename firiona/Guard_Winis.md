@@ -1,6 +1,11 @@
 # Guard Winis
 
 
+
+[Guard Winis](/npc/84145) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

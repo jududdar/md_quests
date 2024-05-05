@@ -1,6 +1,11 @@
 # Rhionn Leafsblade
 
 
+
+[Rhionn Leafsblade](/npc/201293) is a level 42 Half Elf Ranger that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Manik Compolten
 
 
+
+[Manik Compolten](/npc/55118) is a level 61 Gnome GM Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

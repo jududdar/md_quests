@@ -1,4 +1,9 @@
 # a large field rat
+
+
+
+[a large field rat](/npc/4007) is a level 1 Rat Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

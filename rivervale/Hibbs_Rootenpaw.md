@@ -1,6 +1,11 @@
 # Hibbs Rootenpaw
 
 
+
+[Hibbs Rootenpaw](/npc/19054) is a level 61 Halfling GM Druid that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

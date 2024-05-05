@@ -1,6 +1,11 @@
 # Neab
 
 
+
+[Neab](/npc/45084) is a level 10 Human Rogue that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

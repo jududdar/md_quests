@@ -2,6 +2,11 @@
 
 
 
+[Joshua](/npc/9121) is a level 5 Human Warrior that spawns in [West Freeport](/zone/9).
+
+
+
+
 
 ## Turn-Ins
 

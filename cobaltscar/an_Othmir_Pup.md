@@ -1,6 +1,11 @@
 # an Othmir Pup
 
 
+
+[an Othmir Pup](/npc/117042) is a level 29 Othmir Warrior that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

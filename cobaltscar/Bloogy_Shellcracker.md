@@ -1,6 +1,11 @@
 # Bloogy Shellcracker
 
 
+
+[Bloogy Shellcracker](/npc/117065) is a level 35 Othmir Shopkeeper that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
-# Dorn B-Dynn
+# Dorn B\`Dynn
+
+
+
+[Dorn B\`Dynn](/npc/34082) is a level 15 Dark Elf Warrior that spawns in [Northern Desert of Ro](/zone/34).
+
 
 
 ## Dialog

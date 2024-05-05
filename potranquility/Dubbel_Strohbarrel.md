@@ -1,6 +1,11 @@
 # Dubbel Strohbarrel
 
 
+
+[Dubbel Strohbarrel](/npc/203425) is a level 46 Dwarf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

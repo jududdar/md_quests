@@ -1,6 +1,11 @@
 # Kael Militia Captain
 
 
+
+[Kael Militia Captain](/npc/113337) is a level 49 Giant Paladin that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

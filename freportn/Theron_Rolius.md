@@ -1,6 +1,11 @@
 # Theron Rolius
 
 
+
+[Theron Rolius](/npc/8075) is a level 61 Human GM Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

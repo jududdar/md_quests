@@ -1,6 +1,11 @@
 # Fenric Zarign
 
 
+
+[Fenric Zarign](/npc/208038) is a level 66 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

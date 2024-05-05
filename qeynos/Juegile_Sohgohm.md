@@ -2,6 +2,11 @@
 
 
 
+[Juegile Sohgohm](/npc/1061) is a level 61 Human GM Magician that spawns in [South Qeynos](/zone/1).
+
+
+
+
 
 ## Dialog
 

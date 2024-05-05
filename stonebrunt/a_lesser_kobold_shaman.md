@@ -1,6 +1,11 @@
 # a lesser kobold shaman
 
 
+
+[a lesser kobold shaman](/npc/100047) is a level 13 Kobold Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

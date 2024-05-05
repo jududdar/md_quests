@@ -1,6 +1,11 @@
 # Mauren Frostbeard
 
 
+
+[Mauren Frostbeard](/npc/115216) is a level 40 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 local QUEST_TEXT = {

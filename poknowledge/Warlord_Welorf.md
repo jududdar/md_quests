@@ -2,6 +2,11 @@
 
 
 
+[Warlord Welorf](/npc/202251) is a level 61 Barbarian GM Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

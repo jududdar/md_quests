@@ -2,6 +2,11 @@
 
 
 
+[Llara](/npc/70043) is a level 32 Wood Elf Warrior that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
+
 
 ## Dialog
 

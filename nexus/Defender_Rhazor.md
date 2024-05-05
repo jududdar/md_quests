@@ -1,6 +1,11 @@
 # Defender Rhazor
 
 
+
+[Defender Rhazor](/npc/152009) is a level 50 Human Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

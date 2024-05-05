@@ -1,6 +1,11 @@
 # Maesyn Trueshot
 
 
+
+[Maesyn Trueshot](/npc/54088) is a level 61 Wood Elf GM Ranger that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

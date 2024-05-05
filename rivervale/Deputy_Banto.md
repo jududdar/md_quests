@@ -1,6 +1,11 @@
 # Deputy Banto
 
 
+
+[Deputy Banto](/npc/19008) is a level 25 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

@@ -1,6 +1,11 @@
 # a phase spider
 
 
+
+[a phase spider](/npc/123022) is a level 47 Spider Warrior that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 5400 seconds

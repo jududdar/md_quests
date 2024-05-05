@@ -1,4 +1,9 @@
-# Ithvol K-Jasn
+# Ithvol K\`Jasn
+
+
+
+[Ithvol K\`Jasn](/npc/42043) is a level 61 Dark Elf GM Cleric that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

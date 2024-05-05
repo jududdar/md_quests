@@ -2,6 +2,11 @@
 
 
 
+[Kilam Oresinger](/npc/60001) is a level 25 Wood Elf Bard that spawns in [South Kaladim](/zone/60).
+
+
+
+
 
 ## Dialog
 

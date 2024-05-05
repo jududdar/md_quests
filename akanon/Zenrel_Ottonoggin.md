@@ -2,6 +2,11 @@
 
 
 
+[Zenrel Ottonoggin](/npc/55150) is a level 25 Gnome Shopkeeper that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

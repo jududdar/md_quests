@@ -1,6 +1,11 @@
 # Isabella Cellus
 
 
+
+[Isabella Cellus](/npc/4096) is a level 39 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

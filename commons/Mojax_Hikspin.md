@@ -1,6 +1,11 @@
 # Mojax Hikspin
 
 
+
+[Mojax Hikspin](/npc/21120) is a level 2 Human Warrior that spawns in [West Commonlands](/zone/21).
+
+
+
 ## Dialog
 
 **You say:** `hail`

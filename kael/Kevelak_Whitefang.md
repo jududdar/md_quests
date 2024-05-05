@@ -1,6 +1,11 @@
 # Kevelak Whitefang
 
 
+
+[Kevelak Whitefang](/npc/113166) is a level 60 Giant Shopkeeper that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

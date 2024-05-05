@@ -1,6 +1,11 @@
 # Brunar Rankin
 
 
+
+[Brunar Rankin](/npc/10173) is a level 8 Barbarian Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

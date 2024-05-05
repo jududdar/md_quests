@@ -1,6 +1,11 @@
 # Guide V
 
 
+
+[Guide V](/npc/55178) is a level 29 Clockwork Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

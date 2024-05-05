@@ -1,6 +1,11 @@
 # Eonis Mournunder
 
 
+
+[Eonis Mournunder](/npc/55126) is a level 61 Gnome GM Necromancer that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Turn-Ins
 
 

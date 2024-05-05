@@ -1,6 +1,11 @@
 # Sern Adolia
 
 
+
+[Sern Adolia](/npc/75072) is a level 61 Erudite GM Cleric that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

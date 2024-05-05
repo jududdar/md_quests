@@ -1,6 +1,11 @@
 # Caravan Master Goshul
 
 
+
+[Caravan Master Goshul](/npc/159368) is a level 66 Halfling GM Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

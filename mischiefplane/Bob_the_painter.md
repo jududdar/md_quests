@@ -1,6 +1,11 @@
 # Bob the painter
 
 
+
+[Bob the painter](/npc/126268) is a level 49 Halfling Rogue that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

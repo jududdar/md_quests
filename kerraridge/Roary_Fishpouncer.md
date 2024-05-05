@@ -1,6 +1,11 @@
 # Roary Fishpouncer
 
 
+
+[Roary Fishpouncer](/npc/74069) is a level 13 Kerran Shopkeeper that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

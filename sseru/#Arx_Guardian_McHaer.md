@@ -1,6 +1,11 @@
 # Arx Guardian McHaer
 
 
+
+[Arx Guardian McHaer](/npc/159347) is a level 55 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

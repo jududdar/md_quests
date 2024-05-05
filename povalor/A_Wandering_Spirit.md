@@ -1,4 +1,9 @@
-# A Wandering Spirit
+# a wandering spirit
+
+
+
+[a wandering spirit](/npc/12083) is a level 25 Will-O-Wisp Shaman that spawns in [Plane of Valor](/zone/208).
+
 
 
 ## Dialog

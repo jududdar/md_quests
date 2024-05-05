@@ -1,6 +1,11 @@
 # Defender Narthem
 
 
+
+[Defender Narthem](/npc/152007) is a level 50 Human Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

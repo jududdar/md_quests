@@ -2,6 +2,11 @@
 
 
 
+[Sorcerer Dogan](/npc/202258) is a level 61 Gnome GM Wizard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

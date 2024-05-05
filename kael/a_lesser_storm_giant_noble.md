@@ -1,6 +1,11 @@
 # a lesser storm giant noble
 
 
+
+[a lesser storm giant noble](/npc/113586) is a level 43 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

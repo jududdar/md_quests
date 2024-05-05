@@ -1,6 +1,11 @@
 # Krelk the Drifter
 
 
+
+[Krelk the Drifter](/npc/210051) is a level 60 Iksar Warrior that spawns in [Plane of Storms](/zone/210).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Faeroi
 
 
+
+[Faeroi](/npc/151202) is a level 55 Halfling Warrior that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Shakrn Meadowgreen](/npc/14075) is a level 29 Centaur Warrior that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
+
 
 
 

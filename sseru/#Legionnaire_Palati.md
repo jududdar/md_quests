@@ -1,6 +1,11 @@
 # Legionnaire Palati
 
 
+
+[Legionnaire Palati](/npc/159401) is a level 47 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

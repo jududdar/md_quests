@@ -1,4 +1,9 @@
 # Essence of Air
+
+
+
+[Essence of Air](/npc/215432) is a level 1 Elemental Warrior that spawns in [Plane of Air](/zone/215).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

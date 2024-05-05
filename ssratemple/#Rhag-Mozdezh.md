@@ -1,4 +1,9 @@
-# Rhag-Mozdezh
+# Rhag\`Mozdezh
+
+
+
+[Rhag\`Mozdezh](/npc/162192) is a level 63 Shissar Warrior that spawns in [Ssraeshza Temple](/zone/162).
+
 
 
 

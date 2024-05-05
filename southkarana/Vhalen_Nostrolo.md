@@ -2,6 +2,11 @@
 
 
 
+[Vhalen Nostrolo](/npc/14058) is a level 31 Human Bard that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
+
 
 
 ## Dialog

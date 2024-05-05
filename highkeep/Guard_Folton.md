@@ -1,6 +1,11 @@
 # Guard Folton
 
 
+
+[Guard Folton](/npc/6105) is a level 20 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

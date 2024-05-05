@@ -1,6 +1,11 @@
 # Nevetra Utagse
 
 
+
+[Nevetra Utagse](/npc/150094) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

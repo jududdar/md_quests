@@ -1,6 +1,11 @@
 # Nilham the Chef
 
 
+
+[Nilham the Chef](/npc/110065) is a level 26 Gnome Rogue that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

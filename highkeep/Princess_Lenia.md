@@ -1,6 +1,11 @@
 # Princess Lenia
 
 
+
+[Princess Lenia](/npc/6172) is a level 18 High Elf Necromancer that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

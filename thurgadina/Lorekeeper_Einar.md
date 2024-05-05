@@ -1,6 +1,11 @@
 # Lorekeeper Einar
 
 
+
+[Lorekeeper Einar](/npc/115118) is a level 40 Coldain Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 

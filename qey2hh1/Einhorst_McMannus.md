@@ -2,6 +2,11 @@
 
 
 
+[Einhorst McMannus](/npc/12091) is a level 35 Barbarian Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 
 

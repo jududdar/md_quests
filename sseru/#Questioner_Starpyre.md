@@ -1,6 +1,11 @@
 # Questioner Starpyre
 
 
+
+[Questioner Starpyre](/npc/159327) is a level 51 Gnome Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

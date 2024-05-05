@@ -1,6 +1,11 @@
 # Clockwork XVIIB
 
 
+
+[Clockwork XVIIB](/npc/55204) is a level 30 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

@@ -1,6 +1,11 @@
 # Hiptal Frizzleboth
 
 
+
+[Hiptal Frizzleboth](/npc/84174) is a level 49 Gnome Magician that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

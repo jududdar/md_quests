@@ -1,6 +1,11 @@
 # Glinya Sweetpie
 
 
+
+[Glinya Sweetpie](/npc/84199) is a level 40 Wood Elf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

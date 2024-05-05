@@ -1,6 +1,11 @@
 # Hrani
 
 
+
+[Hrani](/npc/209058) is a level 65 Stormrider Monk that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Hrani enters combat  then

@@ -1,4 +1,9 @@
-# Ran-un
+# Ran\`un
+
+
+
+[Ran\`un](/npc/9027) is a level 35 Human Monk that spawns in [West Freeport](/zone/9).
+
 
 
 ## On NPC Spawn

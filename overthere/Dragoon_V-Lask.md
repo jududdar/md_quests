@@ -1,4 +1,9 @@
-# Dragoon V-Lask
+# Dragoon V\`Lask
+
+
+
+[Dragoon V\`Lask](/npc/93125) is a level 50 Dark Elf Warrior that spawns in [The Overthere](/zone/93).
+
 
 
 ## Signals

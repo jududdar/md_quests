@@ -1,6 +1,11 @@
 # a frost giant elite
 
 
+
+[a frost giant elite](/npc/110105) is a level 35 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

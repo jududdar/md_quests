@@ -1,6 +1,11 @@
 # Bouncer Bak
 
 
+
+[Bouncer Bak](/npc/49122) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

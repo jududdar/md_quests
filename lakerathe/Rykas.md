@@ -1,6 +1,11 @@
 # Rykas
 
 
+
+[Rykas](/npc/51045) is a level 37 Gnome Magician that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # A Defender of the Arx
 
 
+
+[A Defender of the Arx](/npc/159646) is a level 44 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

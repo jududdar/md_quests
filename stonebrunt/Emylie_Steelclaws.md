@@ -1,6 +1,11 @@
 # Emylie Steelclaws
 
 
+
+[Emylie Steelclaws](/npc/100195) is a level 22 Kerran Monk that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

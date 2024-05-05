@@ -1,6 +1,11 @@
 # Guard Wenbie
 
 
+
+[Guard Wenbie](/npc/1147) is a level 6 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

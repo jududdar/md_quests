@@ -1,6 +1,11 @@
 # Gwan
 
 
+
+[Gwan](/npc/71069) is a level 57 Human Monk that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## Dialog
 
 **You say:** `hail`

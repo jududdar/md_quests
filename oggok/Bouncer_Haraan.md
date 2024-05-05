@@ -1,6 +1,11 @@
 # Bouncer Haraan
 
 
+
+[Bouncer Haraan](/npc/49119) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

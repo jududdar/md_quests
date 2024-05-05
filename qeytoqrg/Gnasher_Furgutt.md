@@ -1,6 +1,11 @@
 # Gnasher Furgutt
 
 
+
+[Gnasher Furgutt](/npc/4181) is a level 9 Gnoll Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

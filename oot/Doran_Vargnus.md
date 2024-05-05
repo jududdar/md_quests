@@ -1,6 +1,11 @@
 # Doran Vargnus
 
 
+
+[Doran Vargnus](/npc/69074) is a level 45 Dwarf Shopkeeper that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

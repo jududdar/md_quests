@@ -1,6 +1,11 @@
 # Glixx Tobbnokcog
 
 
+
+[Glixx Tobbnokcog](/npc/160152) is a level 62 Gnome Magician that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

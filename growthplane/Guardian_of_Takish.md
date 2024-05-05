@@ -1,6 +1,11 @@
 # Guardian of Takish
 
 
+
+[Guardian of Takish](/npc/127035) is a level 70 Enchanted Armor Warrior that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Dialog
 
 if(**Your level** >= 55) then

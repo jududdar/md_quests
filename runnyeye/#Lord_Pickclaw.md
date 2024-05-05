@@ -1,6 +1,11 @@
 # Lord Pickclaw
 
 
+
+[Lord Pickclaw](/npc/11017) is a level 32 Goblin Warrior that spawns in [Runnyeye](/zone/11).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

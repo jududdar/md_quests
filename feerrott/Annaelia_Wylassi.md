@@ -2,6 +2,11 @@
 
 
 
+[Annaelia Wylassi](/npc/47154) is a level 61 Gnome Necromancer that spawns in [The Feerrott](/zone/47).
+
+
+
+
 
 ## Dialog
 

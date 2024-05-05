@@ -2,6 +2,11 @@
 
 
 
+[Reiker Rikes](/npc/174055) is a level 44 Gnome Cleric that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
+
 
 
 ## Dialog

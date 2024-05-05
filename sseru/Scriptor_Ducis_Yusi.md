@@ -1,6 +1,11 @@
 # Scriptor Ducis Yusi
 
 
+
+[Scriptor Ducis Yusi](/npc/159369) is a level 66 High Elf GM Enchanter that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

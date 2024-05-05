@@ -1,4 +1,9 @@
-# Sharra O-Koyle
+# Sharra O\`Koyle
+
+
+
+[Sharra O\`Koyle](/npc/160198) is a level 35 Barbarian Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
 
 
 ## Dialog

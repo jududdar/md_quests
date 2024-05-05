@@ -1,6 +1,11 @@
 # Guard Alayle
 
 
+
+[Guard Alayle](/npc/9141) is a level 8 Guard Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

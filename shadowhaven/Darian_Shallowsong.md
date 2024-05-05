@@ -1,6 +1,11 @@
 # Darian Shallowsong
 
 
+
+[Darian Shallowsong](/npc/150240) is a level 61 Half Elf GM Bard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

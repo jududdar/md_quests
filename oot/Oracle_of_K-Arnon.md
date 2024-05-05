@@ -1,4 +1,9 @@
-# Oracle of K-Arnon
+# Oracle of K\`Arnon
+
+
+
+[Oracle of K\`Arnon](/npc/69044) is a level 34 High Elf Wizard that spawns in [Ocean of Tears](/zone/69).
+
 
 
 ## Dialog

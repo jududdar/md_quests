@@ -1,4 +1,9 @@
-# Coercer Q-ioul
+# Coercer Q\`ioul
+
+
+
+[Coercer Q\`ioul](/npc/20054) is a level 58 Dark Elf Enchanter that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

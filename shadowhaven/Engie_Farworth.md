@@ -1,6 +1,11 @@
 # Engie Farworth
 
 
+
+[Engie Farworth](/npc/150249) is a level 30 Dwarf Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

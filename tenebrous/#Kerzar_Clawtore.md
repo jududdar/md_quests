@@ -1,6 +1,11 @@
 # Kerzar Clawtore
 
 
+
+[Kerzar Clawtore](/npc/172187) is a level 46 Vah Shir Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

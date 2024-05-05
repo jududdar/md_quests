@@ -1,6 +1,11 @@
 # Guard Zexus
 
 
+
+[Guard Zexus](/npc/41078) is a level 40 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

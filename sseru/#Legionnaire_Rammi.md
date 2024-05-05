@@ -1,6 +1,11 @@
 # Legionnaire Rammi
 
 
+
+[Legionnaire Rammi](/npc/159122) is a level 47 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

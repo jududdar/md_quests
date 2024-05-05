@@ -2,6 +2,11 @@
 
 
 
+[Crusader Vragor](/npc/95106) is a level 60 Iksar Spirit Warrior that spawns in [Trakanon's Teeth](/zone/95).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Erfer Longclaw
 
 
+
+[Erfer Longclaw](/npc/74024) is a level 18 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Dlammaz Stormslayer](/npc/113246) is a level 62 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 ## Dialog
 

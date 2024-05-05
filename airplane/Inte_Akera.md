@@ -2,6 +2,11 @@
 
 
 
+[Inte Akera](/npc/71091) is a level 55 Erudite Paladin that spawns in [Plane of Sky](/zone/71).
+
+
+
+
 
 ## On NPC Spawn
 

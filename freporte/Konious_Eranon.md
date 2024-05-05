@@ -1,6 +1,11 @@
 # Konious Eranon
 
 
+
+[Konious Eranon](/npc/10120) is a level 61 Human GM Enchanter that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

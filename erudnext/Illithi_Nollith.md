@@ -1,6 +1,11 @@
 # Illithi Nollith
 
 
+
+[Illithi Nollith](/npc/24036) is a level 20 Erudite Warrior that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Hand of the Maestro
+
+
+
+[Hand of the Maestro](/npc/76382) is a level 17 Reanimated Hand Warrior that spawns in [Plane of Hate (Instanced)](/zone/1076).
+
 function event_death_complete(event)
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Ortallius](/npc/35036) is a level 30 Orc Paladin that spawns in [Southern Desert of Ro](/zone/35).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Deputy Percin
 
 
+
+[Deputy Percin](/npc/19012) is a level 37 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

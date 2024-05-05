@@ -1,6 +1,11 @@
 # Pietro Guiccini
 
 
+
+[Pietro Guiccini](/npc/150078) is a level 40 High Elf Enchanter that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

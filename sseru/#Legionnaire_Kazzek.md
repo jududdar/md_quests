@@ -1,6 +1,11 @@
 # Legionnaire Kazzek
 
 
+
+[Legionnaire Kazzek](/npc/159182) is a level 47 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

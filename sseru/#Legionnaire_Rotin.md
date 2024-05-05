@@ -1,6 +1,11 @@
 # Legionnaire Rotin
 
 
+
+[Legionnaire Rotin](/npc/159635) is a level 49 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

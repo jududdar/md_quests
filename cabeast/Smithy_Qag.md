@@ -1,6 +1,11 @@
 # Smithy Qag
 
 
+
+[Smithy Qag](/npc/106041) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

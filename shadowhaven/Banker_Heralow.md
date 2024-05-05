@@ -1,6 +1,11 @@
 # Banker Heralow
 
 
+
+[Banker Heralow](/npc/150145) is a level 50 Human Banker that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a hunting kobold
 
 
+
+[a hunting kobold](/npc/100044) is a level 16 Kobold Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

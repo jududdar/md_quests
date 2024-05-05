@@ -1,6 +1,11 @@
 # Councilor Coldember
 
 
+
+[Councilor Coldember](/npc/129075) is a level 43 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

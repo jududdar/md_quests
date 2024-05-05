@@ -1,6 +1,11 @@
 # Nytal Lior
 
 
+
+[Nytal Lior](/npc/155251) is a level 19 Vah Shir Rogue that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

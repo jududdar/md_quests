@@ -1,6 +1,11 @@
 # Deputy Regno
 
 
+
+[Deputy Regno](/npc/19009) is a level 29 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

@@ -2,6 +2,11 @@
 
 
 
+[Grum](/npc/201327) is a level 46 Ogre Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Zayenaekk](/npc/201281) is a level 44 Sphinx Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

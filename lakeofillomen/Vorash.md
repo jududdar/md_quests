@@ -1,6 +1,11 @@
 # Vorash
 
 
+
+[Vorash](/npc/85211) is a level 59 Human Monk that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## On NPC Death
 
 

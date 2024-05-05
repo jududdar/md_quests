@@ -1,6 +1,11 @@
 # Hannis Silvertip
 
 
+
+[Hannis Silvertip](/npc/203412) is a level 46 Half Elf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

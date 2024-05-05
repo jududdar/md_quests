@@ -2,6 +2,11 @@
 
 
 
+[Jacosh Steldenn](/npc/201080) is a level 63 Efreeti Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

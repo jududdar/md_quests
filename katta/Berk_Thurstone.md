@@ -1,6 +1,11 @@
 # Berk Thurstone
 
 
+
+[Berk Thurstone](/npc/160399) is a level 45 Dwarf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

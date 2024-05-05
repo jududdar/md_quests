@@ -1,6 +1,11 @@
 # Deputy Leeot
 
 
+
+[Deputy Leeot](/npc/19006) is a level 30 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

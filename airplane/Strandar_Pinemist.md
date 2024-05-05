@@ -1,6 +1,11 @@
 # Strandar Pinemist
 
 
+
+[Strandar Pinemist](/npc/71043) is a level 55 Efreeti Warrior that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
-# Guard Din-a
+# Guard Din\`a
+
+
+
+[Guard Din\`a](/npc/42100) is a level 40 Dark Elf Warrior that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

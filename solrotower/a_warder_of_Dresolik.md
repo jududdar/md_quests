@@ -1,6 +1,11 @@
 # a warder of Dresolik
 
 
+
+[a warder of Dresolik](/npc/212419) is a level 1 Fiend Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

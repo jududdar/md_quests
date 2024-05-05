@@ -1,6 +1,11 @@
 # Bukuku Wolffeetz
 
 
+
+[Bukuku Wolffeetz](/npc/93111) is a level 49 Ogre Shaman that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

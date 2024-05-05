@@ -1,6 +1,11 @@
 # Guardian Thaowyn
 
 
+
+[Guardian Thaowyn](/npc/202110) is a level 60 Halfling Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # a large commoner
 
 
+
+[a large commoner](/npc/113409) is a level 36 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

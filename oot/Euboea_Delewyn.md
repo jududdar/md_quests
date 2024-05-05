@@ -1,6 +1,11 @@
 # Euboea Delewyn
 
 
+
+[Euboea Delewyn](/npc/69022) is a level 25 Wood Elf Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

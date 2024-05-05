@@ -1,6 +1,11 @@
 # Centurion Xavi
 
 
+
+[Centurion Xavi](/npc/159163) is a level 50 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

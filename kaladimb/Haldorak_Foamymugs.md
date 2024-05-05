@@ -1,6 +1,11 @@
 # Haldorak Foamymugs
 
 
+
+[Haldorak Foamymugs](/npc/67005) is a level 61 Dwarf GM Cleric that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

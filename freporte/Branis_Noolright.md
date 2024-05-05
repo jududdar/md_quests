@@ -1,4 +1,9 @@
 # Branis Noolright
+
+
+
+[Branis Noolright](/npc/10158) is a level 20 Human Bard that spawns in [East Freeport](/zone/10).
+
 local signal = 0;
 local lastSong = 0;
 

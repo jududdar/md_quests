@@ -1,6 +1,11 @@
 # Allix
 
 
+
+[Allix](/npc/74073) is a level 13 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

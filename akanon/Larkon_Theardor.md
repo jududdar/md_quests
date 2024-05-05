@@ -1,6 +1,11 @@
 # Larkon Theardor
 
 
+
+[Larkon Theardor](/npc/55056) is a level 61 Gnome GM Magician that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

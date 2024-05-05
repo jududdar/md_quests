@@ -1,6 +1,11 @@
 # Klok Unlar
 
 
+
+[Klok Unlar](/npc/106058) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

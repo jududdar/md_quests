@@ -2,6 +2,11 @@
 
 
 
+[Lasiya](/npc/201362) is a level 46 Dark Elf Magician that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

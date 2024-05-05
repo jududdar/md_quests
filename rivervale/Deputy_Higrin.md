@@ -1,6 +1,11 @@
 # Deputy Higrin
 
 
+
+[Deputy Higrin](/npc/19013) is a level 35 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

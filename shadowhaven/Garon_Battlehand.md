@@ -1,6 +1,11 @@
 # Garon Battlehand
 
 
+
+[Garon Battlehand](/npc/150190) is a level 61 Barbarian GM Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

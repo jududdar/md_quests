@@ -1,6 +1,11 @@
 # Karn Tassen
 
 
+
+[Karn Tassen](/npc/1110) is a level 10 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Signals
 
 >**Karn Tassen says:** Ooh yeah! So would I, honey.

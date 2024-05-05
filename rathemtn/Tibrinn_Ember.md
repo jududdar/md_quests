@@ -1,6 +1,11 @@
 # Tibrinn Ember
 
 
+
+[Tibrinn Ember](/npc/50197) is a level 45 Halfling Druid that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

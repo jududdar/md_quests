@@ -1,6 +1,11 @@
 # Sentry Drahs
 
 
+
+[Sentry Drahs](/npc/114454) is a level 38 Golem Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

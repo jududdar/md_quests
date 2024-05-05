@@ -1,4 +1,9 @@
-# Jayson Bri-Tian
+# Jayson Bri\`Tian
+
+
+
+[Jayson Bri\`Tian](/npc/152015) is a level 50 High Elf Magician that spawns in [Nexus](/zone/152).
+
 
 
 ## Dialog

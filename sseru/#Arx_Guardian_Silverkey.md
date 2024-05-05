@@ -1,6 +1,11 @@
 # Arx Guardian Silverkey
 
 
+
+[Arx Guardian Silverkey](/npc/159677) is a level 45 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

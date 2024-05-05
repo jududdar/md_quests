@@ -1,6 +1,11 @@
 # Tiam Khonsir
 
 
+
+[Tiam Khonsir](/npc/24053) is a level 61 Erudite GM Paladin that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

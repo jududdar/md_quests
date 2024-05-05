@@ -1,6 +1,11 @@
 # Trooper Ozlot
 
 
+
+[Trooper Ozlot](/npc/82032) is a level 50 Iksar Warrior that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `hail`

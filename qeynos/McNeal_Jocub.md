@@ -1,6 +1,11 @@
 # McNeal Jocub
 
 
+
+[McNeal Jocub](/npc/1099) is a level 20 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[a sarnak imitator](/npc/87001) is a level 55 Sarnak Enchanter that spawns in [The Burning Wood](/zone/87).
+
+
+
+
 
 
 ## Dialog

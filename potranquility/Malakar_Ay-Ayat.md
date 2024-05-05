@@ -1,4 +1,9 @@
-# Malakar Ay-Ayat
+# Malakar Ay\`Ayat
+
+
+
+[Malakar Ay\`Ayat](/npc/203422) is a level 46 Erudite Warrior that spawns in [Plane of Tranquility](/zone/203).
+
 
 
 ## On NPC Spawn

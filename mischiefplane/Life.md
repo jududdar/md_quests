@@ -1,6 +1,11 @@
 # Life
 
 
+
+[Life](/npc/126365) is a level 55 Spectre Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

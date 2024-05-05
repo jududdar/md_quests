@@ -1,6 +1,11 @@
 # a blighted treant
 
 
+
+[a blighted treant](/npc/204459) is a level 55 Treant Warrior that spawns in [Plane of Nightmares](/zone/204).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 100 seconds

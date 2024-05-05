@@ -1,6 +1,11 @@
 # Clockwork MM
 
 
+
+[Clockwork MM](/npc/55392) is a level 1 Clockwork Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 70 seconds

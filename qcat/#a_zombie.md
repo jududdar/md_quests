@@ -1,6 +1,11 @@
 # a zombie
 
 
+
+[a zombie](/npc/45126) is a level 6 Zombie Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

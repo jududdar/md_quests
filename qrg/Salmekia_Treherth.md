@@ -1,6 +1,11 @@
 # Salmekia Treherth
 
 
+
+[Salmekia Treherth](/npc/3037) is a level 61 Human GM Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

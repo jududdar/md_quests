@@ -1,6 +1,11 @@
 # Sarith Clawnik
 
 
+
+[Sarith Clawnik](/npc/150238) is a level 61 Vah Shir GM Beastlord that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

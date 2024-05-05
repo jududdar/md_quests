@@ -1,6 +1,11 @@
 # Klob Pulp
 
 
+
+[Klob Pulp](/npc/47348) is a level 25 Ogre Shopkeeper that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

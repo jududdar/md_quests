@@ -1,6 +1,11 @@
 # Trallen Grimhammer
 
 
+
+[Trallen Grimhammer](/npc/170108) is a level 40 Dwarf Paladin that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

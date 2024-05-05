@@ -1,6 +1,11 @@
 # Elder Glanoxx
 
 
+
+[Elder Glanoxx](/npc/162144) is a level 30 Iksar Warrior that spawns in [Ssraeshza Temple](/zone/162).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Breck Damison
 
 
+
+[Breck Damison](/npc/5051) is a level 22 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

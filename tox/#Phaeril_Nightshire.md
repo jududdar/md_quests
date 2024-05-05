@@ -1,6 +1,11 @@
 # Phaeril Nightshire
 
 
+
+[Phaeril Nightshire](/npc/38081) is a level 25 Erudite Paladin that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Dialog
 
 **You say:** `hail`

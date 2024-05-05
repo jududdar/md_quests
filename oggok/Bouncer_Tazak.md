@@ -1,6 +1,11 @@
 # Bouncer Tazak
 
 
+
+[Bouncer Tazak](/npc/49120) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

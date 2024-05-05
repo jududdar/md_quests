@@ -2,6 +2,11 @@
 
 
 
+[Linara Parlone](/npc/44057) is a level 25 High Elf Enchanter that spawns in [Najena](/zone/44).
+
+
+
+
 
 ## Dialog
 

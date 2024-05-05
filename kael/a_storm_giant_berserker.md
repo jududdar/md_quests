@@ -1,6 +1,11 @@
 # a storm giant berserker
 
 
+
+[a storm giant berserker](/npc/113517) is a level 47 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Cordelia Minster
 
 
+
+[Cordelia Minster](/npc/5145) is a level 18 Half Elf Bard that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 

@@ -1,5 +1,10 @@
 # War Chieftan Birak
 
+
+
+[War Chieftan Birak](/npc/222035) is a level 75 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
+
 local INVIS_MAN_ID = 369487;
 
 

@@ -1,6 +1,11 @@
 # Fenn Kaedrick
 
 
+
+[Fenn Kaedrick](/npc/6184) is a level 1 Human Rogue that spawns in [High Keep](/zone/6).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

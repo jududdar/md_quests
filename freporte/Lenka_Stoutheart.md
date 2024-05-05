@@ -1,6 +1,11 @@
 # Lenka Stoutheart
 
 
+
+[Lenka Stoutheart](/npc/10136) is a level 35 Barbarian Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

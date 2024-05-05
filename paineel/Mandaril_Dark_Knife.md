@@ -1,6 +1,11 @@
 # Mandaril Dark Knife
 
 
+
+[Mandaril Dark Knife](/npc/75111) is a level 61 Erudite GM Shadow Knight that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

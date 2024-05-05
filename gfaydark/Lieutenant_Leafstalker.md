@@ -1,6 +1,11 @@
 # Lieutenant Leafstalker
 
 
+
+[Lieutenant Leafstalker](/npc/54211) is a level 47 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

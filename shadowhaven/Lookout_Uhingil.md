@@ -1,6 +1,11 @@
 # Lookout Uhingil
 
 
+
+[Lookout Uhingil](/npc/150043) is a level 55 Dwarf Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 >**Lookout Uhingil says:** Thank ye General, it's an honor to be part of such a great brigade.

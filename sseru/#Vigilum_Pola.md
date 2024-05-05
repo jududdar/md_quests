@@ -1,6 +1,11 @@
 # Vigilum Pola
 
 
+
+[Vigilum Pola](/npc/159135) is a level 45 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # an Othmir Warrior
 
 
+
+[an Othmir Warrior](/npc/117033) is a level 42 Othmir Warrior that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

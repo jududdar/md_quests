@@ -2,6 +2,11 @@
 
 
 
+[Dumann the Quick](/npc/201210) is a level 44 Ghost Rogue that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Opal Darkbriar
 
 
+
+[Opal Darkbriar](/npc/9073) is a level 61 High Elf GM Wizard that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

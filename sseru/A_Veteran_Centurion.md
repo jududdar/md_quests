@@ -1,6 +1,11 @@
 # A Veteran Centurion
 
 
+
+[A Veteran Centurion](/npc/159680) is a level 53 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Prak
 
 
+
+[Prak](/npc/5054) is a level 27 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

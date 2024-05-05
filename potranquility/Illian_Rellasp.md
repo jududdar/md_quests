@@ -1,6 +1,11 @@
 # Illian Rellasp
 
 
+
+[Illian Rellasp](/npc/203365) is a level 60 Erudite Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Brohan Ironforge
 
 
+
+[Brohan Ironforge](/npc/2057) is a level 29 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

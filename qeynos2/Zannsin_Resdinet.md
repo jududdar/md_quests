@@ -1,6 +1,11 @@
 # Zannsin Resdinet
 
 
+
+[Zannsin Resdinet](/npc/2085) is a level 61 Human GM Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 10) then

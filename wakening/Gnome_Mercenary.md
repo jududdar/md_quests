@@ -1,6 +1,11 @@
 # Gnome Mercenary
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

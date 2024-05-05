@@ -1,6 +1,11 @@
 # Legionnaire Halle
 
 
+
+[Legionnaire Halle](/npc/170000) is a level 1 Human Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

@@ -1,6 +1,11 @@
 # Scout Husman
 
 
+
+[Scout Husman](/npc/167203) is a level 26 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

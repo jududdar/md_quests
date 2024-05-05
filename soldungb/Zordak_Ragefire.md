@@ -1,6 +1,11 @@
 # Zordak Ragefire
 
 
+
+[Zordak Ragefire](/npc/32038) is a level 60 Human Shopkeeper that spawns in [Nagafen's Lair](/zone/32).
+
+
+
 ## Dialog
 
 **You say:** `hail`

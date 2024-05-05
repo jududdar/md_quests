@@ -1,6 +1,11 @@
 # Arms Historian Qua
 
 
+
+[Arms Historian Qua](/npc/155050) is a level 30 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

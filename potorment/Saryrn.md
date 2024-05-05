@@ -1,4 +1,9 @@
 # Saryrn
+
+
+
+[Saryrn](/npc/207001) is a level 70 Saryrn Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
 local PLANAR_PROJECTION_TYPE = 207317;
 local SORROWSONG_TYPEID = 207052;
 local SORROWSONG_SPAWNID = 346761;

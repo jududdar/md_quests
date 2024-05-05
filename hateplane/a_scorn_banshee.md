@@ -1,4 +1,9 @@
 # a scorn banshee
+
+
+
+[a scorn banshee](/npc/76302) is a level 49 Zombie Bard that spawns in [Plane of Hate](/zone/76).
+
 function event_death_complete(event)
 
 

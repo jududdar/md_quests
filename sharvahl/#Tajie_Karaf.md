@@ -1,6 +1,11 @@
 # Tajie Karaf
 
 
+
+[Tajie Karaf](/npc/155017) is a level 30 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 18) then

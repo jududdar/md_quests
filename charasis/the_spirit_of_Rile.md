@@ -2,6 +2,11 @@
 
 
 
+[the spirit of Rile](/npc/105187) is a level 43 Iksar Spirit Shaman that spawns in [The Howling Stones](/zone/105).
+
+
+
+
 ## Turn-Ins
 
 

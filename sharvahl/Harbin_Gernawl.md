@@ -1,6 +1,11 @@
 # Harbin Gernawl
 
 
+
+[Harbin Gernawl](/npc/155072) is a level 60 Vah Shir Rogue that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -2,6 +2,11 @@
 
 
 
+[Konia Swiftfoot](/npc/12117) is a level 40 Human Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 
 

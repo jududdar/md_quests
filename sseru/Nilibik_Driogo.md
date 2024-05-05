@@ -2,6 +2,11 @@
 
 
 
+[Nilibik Driogo](/npc/159414) is a level 40 Gnome Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
+
 
 ## Dialog
 

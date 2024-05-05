@@ -1,6 +1,11 @@
 # Vedico Windwisper
 
 
+
+[Vedico Windwisper](/npc/68115) is a level 45 Half Elf Bard that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

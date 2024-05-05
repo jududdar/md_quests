@@ -1,6 +1,11 @@
 # Captains Skiff
 
 
+
+[Captains Skiff](/npc/842) is a level 50 Launch Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## Signals 
 
 

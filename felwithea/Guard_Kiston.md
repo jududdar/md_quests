@@ -1,6 +1,11 @@
 # Guard Kiston
 
 
+
+[Guard Kiston](/npc/61072) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

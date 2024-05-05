@@ -2,6 +2,11 @@
 
 
 
+[Yalaki](/npc/201356) is a level 44 Ratman Enchanter that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

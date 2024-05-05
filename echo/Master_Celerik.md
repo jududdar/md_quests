@@ -1,6 +1,11 @@
 # Master Celerik
 
 
+
+[Master Celerik](/npc/153098) is a level 61 Human GM Wizard that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Xiblin Fizzlebik](/npc/96035) is a level 30 Gnome Wizard that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 10 seconds

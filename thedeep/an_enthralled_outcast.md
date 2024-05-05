@@ -1,4 +1,9 @@
 # an enthralled outcast
+
+
+
+[an enthralled outcast](/npc/164001) is a level 51 Wretch Warrior that spawns in [The Deep](/zone/164).
+
 rand = 0;
 
 

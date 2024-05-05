@@ -1,6 +1,11 @@
 # Jolod Amulek
 
 
+
+[Jolod Amulek](/npc/155141) is a level 20 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

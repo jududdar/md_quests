@@ -1,6 +1,11 @@
 # Xantis Ixtax
 
 
+
+[Xantis Ixtax](/npc/42060) is a level 25 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
+
+
 ## Dialog
 
 **You say:** `hail`

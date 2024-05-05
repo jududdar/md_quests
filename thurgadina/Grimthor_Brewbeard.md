@@ -2,6 +2,11 @@
 
 
 
+[Grimthor Brewbeard](/npc/115049) is a level 43 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Dialog
 

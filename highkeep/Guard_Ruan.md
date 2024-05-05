@@ -1,6 +1,11 @@
 # Guard Ruan
 
 
+
+[Guard Ruan](/npc/6129) is a level 21 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

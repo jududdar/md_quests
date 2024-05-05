@@ -1,6 +1,11 @@
 # Sionae
 
 
+
+[Sionae](/npc/15178) is a level 51 Human Druid that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *despawn* for 3600 seconds

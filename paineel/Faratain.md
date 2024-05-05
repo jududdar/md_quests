@@ -1,6 +1,11 @@
 # Faratain
 
 
+
+[Faratain](/npc/75046) is a level 50 Erudite Shopkeeper that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

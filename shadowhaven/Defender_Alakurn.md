@@ -1,6 +1,11 @@
 # Defender Alakurn
 
 
+
+[Defender Alakurn](/npc/150031) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

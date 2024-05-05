@@ -1,6 +1,11 @@
 # Brother Zephyl
 
 
+
+[Brother Zephyl](/npc/50321) is a level 61 Human GM Monk that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

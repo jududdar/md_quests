@@ -1,6 +1,11 @@
 # Legionnaire Vaslan
 
 
+
+[Legionnaire Vaslan](/npc/159134) is a level 47 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

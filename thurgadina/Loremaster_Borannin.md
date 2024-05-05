@@ -2,6 +2,11 @@
 
 
 
+[Loremaster Borannin](/npc/115016) is a level 61 Coldain GM Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Dialog
 

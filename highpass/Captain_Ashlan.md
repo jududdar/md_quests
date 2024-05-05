@@ -1,6 +1,11 @@
 # Captain Ashlan
 
 
+
+[Captain Ashlan](/npc/5013) is a level 27 Human Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 

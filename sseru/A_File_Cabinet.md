@@ -1,6 +1,11 @@
 # A File Cabinet
 
 
+
+[A File Cabinet](/npc/159420) is a level 1 Mimic Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Turn-Ins
 
 

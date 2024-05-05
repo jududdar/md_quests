@@ -1,6 +1,11 @@
 # Sentinel Paxin
 
 
+
+[Sentinel Paxin](/npc/129089) is a level 51 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

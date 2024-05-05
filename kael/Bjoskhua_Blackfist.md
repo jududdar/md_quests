@@ -1,6 +1,11 @@
 # Bjoskhua Blackfist
 
 
+
+[Bjoskhua Blackfist](/npc/113290) is a level 50 Giant Wizard that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

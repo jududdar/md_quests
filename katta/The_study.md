@@ -1,6 +1,11 @@
 # The study
 
 
+
+
+
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [a coterie servant](/npc/160097)) then

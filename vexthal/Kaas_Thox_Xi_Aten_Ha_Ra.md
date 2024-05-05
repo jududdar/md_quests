@@ -1,6 +1,11 @@
 # Kaas Thox Xi Aten Ha Ra
 
 
+
+[Kaas Thox Xi Aten Ha Ra](/npc/158437) is a level 66 Goo Rogue that spawns in [Vex Thal](/zone/158).
+
+
+
 local Z_LEVEL = 100; 
 
 

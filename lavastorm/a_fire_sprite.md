@@ -1,6 +1,11 @@
 # a fire sprite
 
 
+
+[a fire sprite](/npc/27113) is a level 15 Imp Warrior that spawns in [Lavastorm Mountains](/zone/27).
+
+
+
 ## Dialog
 
 **You say:** `hail`

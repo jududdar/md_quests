@@ -1,6 +1,11 @@
 # Rendap
 
 
+
+[Rendap](/npc/110060) is a level 30 Gnome Rogue that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

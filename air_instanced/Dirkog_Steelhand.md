@@ -1,6 +1,11 @@
 # Dirkog Steelhand
 
 
+
+[Dirkog Steelhand](/npc/71077) is a level 55 Dwarf Paladin that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

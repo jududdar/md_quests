@@ -1,6 +1,11 @@
 # Geeda
 
 
+
+[Geeda](/npc/54090) is a level 61 Wood Elf GM Rogue that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

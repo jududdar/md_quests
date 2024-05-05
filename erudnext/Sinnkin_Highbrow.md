@@ -1,6 +1,11 @@
 # Sinnkin Highbrow
 
 
+
+[Sinnkin Highbrow](/npc/24038) is a level 4 Erudite Warrior that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

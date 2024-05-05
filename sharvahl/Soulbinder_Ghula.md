@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Ghula](/npc/155090) is a level 1 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 ## Dialog
 

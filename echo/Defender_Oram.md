@@ -1,6 +1,11 @@
 # Defender Oram
 
 
+
+[Defender Oram](/npc/153077) is a level 30 Human Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

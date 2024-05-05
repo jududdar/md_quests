@@ -2,6 +2,11 @@
 
 
 
+[Telin Darkforest](/npc/87082) is a level 55 Wood Elf Warrior that spawns in [The Burning Wood](/zone/87).
+
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

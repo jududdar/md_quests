@@ -1,6 +1,11 @@
 # Filian Weagleross
 
 
+
+[Filian Weagleross](/npc/2042) is a level 61 Human GM Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

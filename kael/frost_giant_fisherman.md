@@ -1,6 +1,11 @@
 # frost giant fisherman
 
 
+
+[frost giant fisherman](/npc/113267) is a level 31 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

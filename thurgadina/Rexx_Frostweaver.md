@@ -2,6 +2,11 @@
 
 
 
+[Rexx Frostweaver](/npc/115167) is a level 30 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Dialog
 

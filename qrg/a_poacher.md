@@ -1,6 +1,11 @@
 # a poacher
 
 
+
+[a poacher](/npc/3044) is a level 7 Human Warrior that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Warden Bruke
 
 
+
+[Warden Bruke](/npc/116028) is a level 45 Giant Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Combat
 
 if Warden Bruke enters combat  then

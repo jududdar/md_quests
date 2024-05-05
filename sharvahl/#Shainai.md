@@ -1,6 +1,11 @@
 # Shainai
 
 
+
+[Shainai](/npc/155311) is a level 8 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 eq.get_entity_list():GetSpawnByID(e.self:GetSpawnPointID()):SetRespawnTimer(150);

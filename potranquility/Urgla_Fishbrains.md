@@ -1,6 +1,11 @@
 # Urgla Fishbrains
 
 
+
+[Urgla Fishbrains](/npc/203400) is a level 47 Ogre Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Monia Oakstone
 
 
+
+[Monia Oakstone](/npc/9097) is a level 35 Human Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

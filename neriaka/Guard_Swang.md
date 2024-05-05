@@ -1,6 +1,11 @@
 # Guard Swang
 
 
+
+[Guard Swang](/npc/40046) is a level 35 Ogre Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

@@ -1,6 +1,11 @@
 # Princess Joleena
 
 
+
+[Princess Joleena](/npc/57010) is a level 24 Fairy Ranger that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `hail`

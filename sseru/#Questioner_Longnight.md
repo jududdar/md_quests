@@ -1,6 +1,11 @@
 # Questioner Longnight
 
 
+
+[Questioner Longnight](/npc/159215) is a level 53 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

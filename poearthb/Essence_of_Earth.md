@@ -1,4 +1,9 @@
 # Essence of Earth
+
+
+
+[Essence of Earth](/npc/222041) is a level 1 Elemental Warrior that spawns in [Plane of Earth](/zone/222).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

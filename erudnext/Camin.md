@@ -1,6 +1,11 @@
 # Camin
 
 
+
+[Camin](/npc/24004) is a level 50 Human Wizard that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

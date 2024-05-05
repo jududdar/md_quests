@@ -2,6 +2,11 @@
 
 
 
+[a sleeping ogre](/npc/107101) is a level 30 Ogre Warrior that spawns in [Mines of Nurga](/zone/107).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *appearance* for 1 seconds

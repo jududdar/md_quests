@@ -2,6 +2,11 @@
 
 
 
+[Theodore Exanthem](/npc/14146) is a level 14 Human Warrior that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
+
 ## On NPC Spawn
 
 **Signaled to:**  [an interrogator](/npc/14050)

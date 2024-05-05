@@ -1,6 +1,11 @@
 # A storm cloud
 
 
+
+[A storm cloud](/npc/209130) is a level 61 Elemental Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

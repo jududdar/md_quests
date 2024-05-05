@@ -1,4 +1,9 @@
-# Andara C-Luzz
+# Andara C\`Luzz
+
+
+
+[Andara C\`Luzz](/npc/41095) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Turn-Ins

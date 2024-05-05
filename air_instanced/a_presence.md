@@ -1,6 +1,11 @@
 # a presence
 
 
+
+[a presence](/npc/71066) is a level 50 Invisible Man Monk that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## Turn-Ins
 
 

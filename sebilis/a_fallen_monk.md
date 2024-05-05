@@ -2,6 +2,11 @@
 
 
 
+[a fallen monk](/npc/89102) is a level 52 Undead Iksar Monk that spawns in [Ruins of Sebilis](/zone/89).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

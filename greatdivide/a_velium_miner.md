@@ -1,6 +1,11 @@
 # a velium miner
 
 
+
+[a velium miner](/npc/118069) is a level 35 Coldain Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

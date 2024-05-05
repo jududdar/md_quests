@@ -1,6 +1,11 @@
 # Cassius Messus
 
 
+
+[Cassius Messus](/npc/1160) is a level 21 Half Elf Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Captain Klunga
 
 
+
+[Captain Klunga](/npc/70072) is a level 35 Skeleton Warrior that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *playdead* for 1 seconds

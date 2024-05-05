@@ -1,6 +1,11 @@
 # Trooper Gummin
 
 
+
+[Trooper Gummin](/npc/78069) is a level 50 Iksar Warrior that spawns in [Field of Bone](/zone/78).
+
+
+
 ## Dialog
 
 **You say:** `hail`

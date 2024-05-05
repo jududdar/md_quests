@@ -1,6 +1,11 @@
 # Sateal Deirosap
 
 
+
+[Sateal Deirosap](/npc/151200) is a level 30 Human Shopkeeper that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `hail`

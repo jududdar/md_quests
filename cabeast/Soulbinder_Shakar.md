@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Shakar](/npc/106117) is a level 1 Iksar Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

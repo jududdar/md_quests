@@ -1,6 +1,11 @@
 # Record Keeper Ajar
 
 
+
+[Record Keeper Ajar](/npc/150258) is a level 35 Erudite Enchanter that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

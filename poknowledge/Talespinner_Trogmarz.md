@@ -1,6 +1,11 @@
 # Talespinner Trogmarz
 
 
+
+[Talespinner Trogmarz](/npc/202022) is a level 40 Troll Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

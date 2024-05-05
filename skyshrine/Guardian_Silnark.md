@@ -1,6 +1,11 @@
 # Guardian Silnark
 
 
+
+[Guardian Silnark](/npc/114557) is a level 45 Gargoyle Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 5) then

@@ -1,6 +1,11 @@
 # Vranol Blackguard
 
 
+
+[Vranol Blackguard](/npc/5039) is a level 50 Human Necromancer that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

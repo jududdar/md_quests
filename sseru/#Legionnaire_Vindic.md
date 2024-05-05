@@ -1,6 +1,11 @@
 # Legionnaire Vindic
 
 
+
+[Legionnaire Vindic](/npc/159125) is a level 48 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

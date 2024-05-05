@@ -1,6 +1,11 @@
 # a voracious hatchling
 
 
+
+[a voracious hatchling](/npc/204474) is a level 54 Arachnid Warrior that spawns in [Plane of Nightmares](/zone/204).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

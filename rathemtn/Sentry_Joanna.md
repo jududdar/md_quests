@@ -1,6 +1,11 @@
 # Sentry Joanna
 
 
+
+[Sentry Joanna](/npc/50235) is a level 22 Human Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Trep Thilcan](/npc/202057) is a level 60 Gnome Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

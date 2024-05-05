@@ -1,4 +1,9 @@
-# Lord Rak-Ashiir
+# Lord Rak\`Ashiir
+
+
+
+[Lord Rak\`Ashiir](/npc/90013) is a level 55 Iksar Spirit Wizard that spawns in [The City of Mist](/zone/90).
+
 
 
 ## On NPC Spawn

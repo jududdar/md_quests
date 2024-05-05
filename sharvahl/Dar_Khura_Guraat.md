@@ -1,6 +1,11 @@
 # Dar Khura Guraat
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Lord Nagafen
 
 
+
+[Lord Nagafen](/npc/32040) is a level 55 Dragon Warrior that spawns in [Nagafen's Lair](/zone/32).
+
+
+
 local SpawnX = 0;
 local SpawnY = 0;
 local SpawnZ = 0;

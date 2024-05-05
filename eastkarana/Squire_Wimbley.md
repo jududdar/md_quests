@@ -2,6 +2,11 @@
 
 
 
+[Squire Wimbley](/npc/15103) is a level 20 Human Cleric that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

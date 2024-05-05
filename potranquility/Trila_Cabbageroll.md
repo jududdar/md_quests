@@ -1,6 +1,11 @@
 # Trila Cabbageroll
 
 
+
+[Trila Cabbageroll](/npc/203411) is a level 46 Halfling Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

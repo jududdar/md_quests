@@ -1,6 +1,11 @@
 # Royal Guard Hahjik
 
 
+
+[Royal Guard Hahjik](/npc/155291) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `training camp`

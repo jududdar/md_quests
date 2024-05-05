@@ -1,4 +1,9 @@
-# Lokar To-Biath
+# Lokar To\`Biath
+
+
+
+[Lokar To\`Biath](/npc/42106) is a level 11 Dark Elf Necromancer that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

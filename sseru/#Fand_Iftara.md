@@ -1,6 +1,11 @@
 # Fand Iftara
 
 
+
+[Fand Iftara](/npc/159443) is a level 42 Erudite Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

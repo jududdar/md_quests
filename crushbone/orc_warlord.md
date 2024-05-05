@@ -1,6 +1,11 @@
 # orc warlord
 
 
+
+[orc warlord](/npc/58002) is a level 14 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if orc warlord enters combat  then

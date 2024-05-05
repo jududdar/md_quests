@@ -1,6 +1,11 @@
 # Loremaster Solstrin
 
 
+
+[Loremaster Solstrin](/npc/129054) is a level 50 Coldain Cleric that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

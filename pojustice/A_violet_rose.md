@@ -1,6 +1,11 @@
 # A violet rose
 
 
+
+
+
+
+
 ## Combat
 
 >*A violet rose lies in the middle of the floor.  It seems to call to you in a faint whisper.  As you get closer, it suddenly explodes in a cloud of thick black smoke.*

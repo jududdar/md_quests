@@ -1,4 +1,9 @@
-# Qynydd Fe-Dhar
+# Qynydd Fe\`Dhar
+
+
+
+[Qynydd Fe\`Dhar](/npc/114624) is a level 35 Wyvern Warrior that spawns in [Skyshrine](/zone/114).
+
 
 
 local quest_helper = require('velious_quest_helper');

@@ -1,6 +1,11 @@
 # Sentry Valamar
 
 
+
+[Sentry Valamar](/npc/159057) is a level 48 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

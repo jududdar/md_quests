@@ -1,6 +1,11 @@
 # Baobob Miller
 
 
+
+[Baobob Miller](/npc/4055) is a level 25 Half Elf Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 3) then

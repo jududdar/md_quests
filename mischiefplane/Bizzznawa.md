@@ -1,6 +1,11 @@
 # Bizzznawa
 
 
+
+[Bizzznawa](/npc/126220) is a level 41 Bixie Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds

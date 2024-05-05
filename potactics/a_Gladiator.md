@@ -1,4 +1,9 @@
 # a Gladiator
+
+
+
+[a Gladiator](/npc/214015) is a level 60 Ogre Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
 local SPAWN_LOCS = {
 
 { 683, 941, -217 },

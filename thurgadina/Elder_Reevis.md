@@ -1,6 +1,11 @@
 # Elder Reevis
 
 
+
+[Elder Reevis](/npc/115068) is a level 39 Coldain Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

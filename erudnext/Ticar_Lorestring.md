@@ -2,6 +2,11 @@
 
 
 
+[Ticar Lorestring](/npc/24097) is a level 25 Half Elf Bard that spawns in [Erudin](/zone/24).
+
+
+
+
 
 ## Dialog
 

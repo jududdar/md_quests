@@ -1,6 +1,11 @@
 # Lelulean
 
 
+
+[Lelulean](/npc/71104) is a level 55 Erudite Enchanter that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

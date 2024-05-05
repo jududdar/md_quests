@@ -1,6 +1,11 @@
 # an agitated snowfang
 
 
+
+[an agitated snowfang](/npc/110015) is a level 29 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 90 seconds

@@ -1,6 +1,11 @@
 # Lerin Sardor
 
 
+
+[Lerin Sardor](/npc/161068) is a level 16 Human Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## Dialog
 
 **You say:** `hail`

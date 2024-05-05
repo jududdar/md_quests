@@ -1,4 +1,9 @@
-# Kylan O-Danos
+# Kylan O\`Danos
+
+
+
+[Kylan O\`Danos](/npc/29057) is a level 61 Barbarian GM Warrior that spawns in [Halas](/zone/29).
+
 
 
 ## Turn-Ins

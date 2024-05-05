@@ -1,6 +1,11 @@
 # Galornas Eaksilwobble
 
 
+
+[Galornas Eaksilwobble](/npc/150147) is a level 40 High Elf Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

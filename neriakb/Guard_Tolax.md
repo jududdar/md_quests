@@ -1,6 +1,11 @@
 # Guard Tolax
 
 
+
+[Guard Tolax](/npc/40063) is a level 35 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

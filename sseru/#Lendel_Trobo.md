@@ -1,6 +1,11 @@
 # Lendel Trobo
 
 
+
+[Lendel Trobo](/npc/159083) is a level 52 Halfling Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

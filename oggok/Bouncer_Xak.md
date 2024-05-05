@@ -1,6 +1,11 @@
 # Bouncer Xak
 
 
+
+[Bouncer Xak](/npc/49094) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

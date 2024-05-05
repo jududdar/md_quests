@@ -2,6 +2,11 @@
 
 
 
+[Randi Ellan](/npc/202014) is a level 60 Wood Elf Druid that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

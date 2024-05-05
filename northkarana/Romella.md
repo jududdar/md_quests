@@ -1,6 +1,11 @@
 # Romella
 
 
+
+[Romella](/npc/13069) is a level 35 Human Shopkeeper that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## Dialog
 
 **You say:** `hail`

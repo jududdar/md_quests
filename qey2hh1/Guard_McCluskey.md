@@ -1,6 +1,11 @@
 # Guard McCluskey
 
 
+
+[Guard McCluskey](/npc/12090) is a level 34 Human Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## On NPC Spawn
   e.self:SetRunning(true);
 

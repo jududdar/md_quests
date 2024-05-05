@@ -1,4 +1,9 @@
-# Dralin K-Vekn
+# Dralin K\`Vekn
+
+
+
+[Dralin K\`Vekn](/npc/160229) is a level 58 Dark Elf Enchanter that spawns in [Katta Castellum](/zone/160).
+
 
 
 ## Dialog

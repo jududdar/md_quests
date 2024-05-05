@@ -1,6 +1,11 @@
 # Tigal Cama
 
 
+
+[Tigal Cama](/npc/159037) is a level 49 Gnome Wizard that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

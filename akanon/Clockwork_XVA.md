@@ -1,6 +1,11 @@
 # Clockwork XVA
 
 
+
+[Clockwork XVA](/npc/55205) is a level 21 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

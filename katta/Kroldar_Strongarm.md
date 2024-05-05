@@ -1,6 +1,11 @@
 # Kroldar Strongarm
 
 
+
+[Kroldar Strongarm](/npc/160395) is a level 61 Barbarian GM Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

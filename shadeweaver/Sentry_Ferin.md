@@ -2,6 +2,11 @@
 
 
 
+[Sentry Ferin](/npc/165134) is a level 30 Vah Shir Warrior that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # A skeletal drudge
 
 
+
+
+
+
+
 ## Combat
 
 if A skeletal drudge enters combat  then

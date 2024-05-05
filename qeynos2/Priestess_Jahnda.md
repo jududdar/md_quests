@@ -1,6 +1,11 @@
 # Priestess Jahnda
 
 
+
+[Priestess Jahnda](/npc/2078) is a level 61 Human GM Cleric that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

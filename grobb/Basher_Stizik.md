@@ -1,6 +1,11 @@
 # Basher Stizik
 
 
+
+[Basher Stizik](/npc/52016) is a level 34 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

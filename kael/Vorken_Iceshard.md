@@ -1,6 +1,11 @@
 # Vorken Iceshard
 
 
+
+[Vorken Iceshard](/npc/113283) is a level 47 Giant Cleric that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

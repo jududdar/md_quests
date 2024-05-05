@@ -1,6 +1,11 @@
 # Euzan Jurek
 
 
+
+[Euzan Jurek](/npc/159422) is a level 55 Erudite Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

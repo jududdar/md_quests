@@ -2,6 +2,11 @@
 
 
 
+[Byzar Bloodforge](/npc/60024) is a level 61 Dwarf GM Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
+
 
 
 ## Dialog

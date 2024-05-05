@@ -1,6 +1,11 @@
 # Tynkale
 
 
+
+[Tynkale](/npc/61024) is a level 61 High Elf GM Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

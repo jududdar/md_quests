@@ -1,6 +1,11 @@
 # Xanamech Nezmirthafen
 
 
+
+[Xanamech Nezmirthafen](/npc/206208) is a level 66 Dragon Warrior that spawns in [Plane of Innovation](/zone/206).
+
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

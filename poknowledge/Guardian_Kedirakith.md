@@ -1,6 +1,11 @@
 # Guardian Kedirakith
 
 
+
+[Guardian Kedirakith](/npc/202104) is a level 60 Dark Elf Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Sentry Wegylx
 
 
+
+[Sentry Wegylx](/npc/114580) is a level 36 Golem Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

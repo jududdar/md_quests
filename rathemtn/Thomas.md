@@ -1,6 +1,11 @@
 # Thomas
 
 
+
+[Thomas](/npc/50236) is a level 61 Human GM Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

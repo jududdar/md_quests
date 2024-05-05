@@ -2,6 +2,11 @@
 
 
 
+[Slyder the Ancient](/npc/100076) is a level 38 Snake Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
+
 
 ## Turn-Ins
 

@@ -2,6 +2,11 @@
 
 
 
+[Captain Bvellos](/npc/113001) is a level 53 Giant Paladin that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 
 ## Dialog

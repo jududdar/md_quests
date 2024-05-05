@@ -1,6 +1,11 @@
 # Palti McGar
 
 
+
+[Palti McGar](/npc/159051) is a level 51 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

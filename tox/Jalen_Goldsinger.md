@@ -1,6 +1,11 @@
 # Jalen Goldsinger
 
 
+
+[Jalen Goldsinger](/npc/38066) is a level 40 Erudite Enchanter that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Dialog
 
 **You say:** `hail`

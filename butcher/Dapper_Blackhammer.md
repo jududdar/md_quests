@@ -1,6 +1,11 @@
 # Dapper Blackhammer
 
 
+
+[Dapper Blackhammer](/npc/68089) is a level 45 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `hail`

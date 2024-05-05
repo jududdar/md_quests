@@ -1,6 +1,11 @@
 # Frana Shimi
 
 
+
+[Frana Shimi](/npc/214063) is a level 35 Vah Shir Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
+
+
 ## Dialog
 
 

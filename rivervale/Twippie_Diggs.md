@@ -1,6 +1,11 @@
 # Twippie Diggs
 
 
+
+[Twippie Diggs](/npc/19050) is a level 30 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Rodgar the Tall
 
 
+
+[Rodgar the Tall](/npc/2064) is a level 45 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

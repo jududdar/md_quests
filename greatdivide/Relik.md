@@ -1,6 +1,11 @@
 # Relik
 
 
+
+[Relik](/npc/118065) is a level 40 Coldain Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

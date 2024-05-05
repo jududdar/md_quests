@@ -1,6 +1,11 @@
 # Sentry Boris
 
 
+
+[Sentry Boris](/npc/8057) is a level 33 Human Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

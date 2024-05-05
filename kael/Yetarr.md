@@ -1,6 +1,11 @@
 # Yetarr
 
 
+
+[Yetarr](/npc/113247) is a level 57 Giant Monk that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

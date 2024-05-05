@@ -1,6 +1,11 @@
 # Legionnaire Elari
 
 
+
+[Legionnaire Elari](/npc/159632) is a level 51 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

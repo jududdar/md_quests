@@ -2,6 +2,11 @@
 
 
 
+[Dremekal](/npc/201306) is a level 44 Minotaur Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

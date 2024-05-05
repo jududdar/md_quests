@@ -2,6 +2,11 @@
 
 
 
+[a kromrif recruiter](/npc/113366) is a level 1 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 ## Dialog
 

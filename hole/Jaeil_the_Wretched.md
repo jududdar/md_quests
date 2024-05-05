@@ -2,6 +2,11 @@
 
 
 
+[Jaeil the Wretched](/npc/39041) is a level 55 Erudite Warrior that spawns in [The Hole](/zone/39).
+
+
+
+
 
 ## On NPC Spawn
 

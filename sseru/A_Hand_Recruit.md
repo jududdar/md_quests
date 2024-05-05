@@ -1,6 +1,11 @@
 # A Hand Recruit
 
 
+
+[A Hand Recruit](/npc/159424) is a level 60 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

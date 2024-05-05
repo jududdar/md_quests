@@ -1,6 +1,11 @@
 # Larren
 
 
+
+[Larren](/npc/152011) is a level 50 Half Elf Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

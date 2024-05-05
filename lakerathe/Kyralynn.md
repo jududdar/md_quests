@@ -2,6 +2,11 @@
 
 
 
+[Kyralynn](/npc/51058) is a level 35 Barbarian Shaman that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## Dialog
 

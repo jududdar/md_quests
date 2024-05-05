@@ -1,6 +1,11 @@
 # Draz Nurakk
 
 
+
+[Draz Nurakk](/npc/96003) is a level 55 Iksar Beastlord that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

@@ -2,6 +2,11 @@
 
 
 
+[Akbaq Salid](/npc/23077) is a level 35 Erudite Wizard that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 
 ## Dialog

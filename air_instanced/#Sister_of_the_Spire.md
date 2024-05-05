@@ -1,6 +1,11 @@
 # Sister of the Spire
 
 
+
+[Sister of the Spire](/npc/71076) is a level 65 Djinn Magician that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Death
 
 local sirranName = "sirran";

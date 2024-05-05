@@ -1,4 +1,9 @@
 # a spiroc arbiter
+
+
+
+[a spiroc arbiter](/npc/71008) is a level 52 Aviak Druid that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
 local arrive = false;
 
 

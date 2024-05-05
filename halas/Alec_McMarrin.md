@@ -1,6 +1,11 @@
 # Alec McMarrin
 
 
+
+[Alec McMarrin](/npc/29031) is a level 40 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

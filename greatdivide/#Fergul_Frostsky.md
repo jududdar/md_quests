@@ -1,6 +1,11 @@
 # Fergul Frostsky
 
 
+
+[Fergul Frostsky](/npc/118015) is a level 40 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Arrive at Waypoint Script
 
 

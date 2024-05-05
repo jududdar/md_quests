@@ -2,6 +2,11 @@
 
 
 
+[Althele](/npc/15044) is a level 60 Wood Elf Monk that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
+
 
 ## Dialog
 

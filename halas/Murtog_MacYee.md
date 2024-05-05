@@ -1,6 +1,11 @@
 # Murtog MacYee
 
 
+
+[Murtog MacYee](/npc/29043) is a level 35 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

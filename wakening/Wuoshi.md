@@ -1,6 +1,11 @@
 # Wuoshi
 
 
+
+[Wuoshi](/npc/119112) is a level 64 Dragon Druid that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

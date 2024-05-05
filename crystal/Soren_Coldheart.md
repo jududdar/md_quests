@@ -1,6 +1,11 @@
 # Soren Coldheart
 
 
+
+[Soren Coldheart](/npc/121047) is a level 30 Coldain Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

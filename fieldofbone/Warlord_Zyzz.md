@@ -1,6 +1,11 @@
 # Warlord Zyzz
 
 
+
+[Warlord Zyzz](/npc/78077) is a level 51 Iksar Warrior that spawns in [Field of Bone](/zone/78).
+
+
+
 ## Dialog
 
 **You say:** `hail`

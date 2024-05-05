@@ -1,6 +1,11 @@
 # Utos McLarra
 
 
+
+[Utos McLarra](/npc/159451) is a level 52 Barbarian Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

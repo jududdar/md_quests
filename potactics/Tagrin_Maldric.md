@@ -1,4 +1,9 @@
 # Tagrin Maldric
+
+
+
+[Tagrin Maldric](/npc/214054) is a level 70 Troll Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
 local BLADE_TYPE1 = 214310; 
 local BLADE_TYPE2 = 214326; 
 local SPAWN_LOCS = {

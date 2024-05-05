@@ -2,6 +2,11 @@
 
 
 
+[Yakem Oreslinger](/npc/1030) is a level 10 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
+
 
 ## Dialog
 

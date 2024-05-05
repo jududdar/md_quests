@@ -1,4 +1,9 @@
-# Yventa Va-Ssula
+# Yventa Va\`Ssula
+
+
+
+[Yventa Va\`Ssula](/npc/201328) is a level 44 Iksar Shadow Knight that spawns in [Plane of Justice](/zone/201).
+
 
 
 

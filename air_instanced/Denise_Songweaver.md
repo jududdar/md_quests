@@ -1,6 +1,11 @@
 # Denise Songweaver
 
 
+
+[Denise Songweaver](/npc/71082) is a level 55 Wood Elf Bard that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

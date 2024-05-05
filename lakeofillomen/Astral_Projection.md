@@ -1,6 +1,11 @@
 # Astral Projection
 
 
+
+[Astral Projection](/npc/85153) is a level 50 Human Shopkeeper that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `hail`

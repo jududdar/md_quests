@@ -1,6 +1,11 @@
 # Bait Masterson
 
 
+
+[Bait Masterson](/npc/10139) is a level 25 Human Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

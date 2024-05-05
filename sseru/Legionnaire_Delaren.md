@@ -1,6 +1,11 @@
 # Legionnaire Delaren
 
 
+
+[Legionnaire Delaren](/npc/159417) is a level 60 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

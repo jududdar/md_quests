@@ -1,6 +1,11 @@
 # Marfen Binkdirple
 
 
+
+[Marfen Binkdirple](/npc/31080) is a level 31 Gnome Shopkeeper that spawns in [Solusek's Eye](/zone/31).
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Trooper Inkin
 
 
+
+[Trooper Inkin](/npc/83063) is a level 50 Iksar Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

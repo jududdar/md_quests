@@ -1,4 +1,9 @@
 # Sergeant Bransid
+
+
+
+[Sergeant Bransid](/npc/211026) is a level 65 Valorian Warrior that spawns in [Halls of Honor](/zone/211).
+
 local SPAWN_IDS = { 360957, 360956, 360930, 360929 }; 
 
 local SAY_TEXT = {

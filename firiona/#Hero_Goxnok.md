@@ -2,6 +2,11 @@
 
 
 
+[Hero Goxnok](/npc/84401) is a level 30 Iksar Shadow Knight that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

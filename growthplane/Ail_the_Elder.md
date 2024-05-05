@@ -1,6 +1,11 @@
 # Ail the Elder
 
 
+
+[Ail the Elder](/npc/127020) is a level 60 Treant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Combat
 
 if Ail the Elder enters combat  then

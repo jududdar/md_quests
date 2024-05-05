@@ -1,6 +1,11 @@
 # Royal Escort Yalahn
 
 
+
+[Royal Escort Yalahn](/npc/155170) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 6) then

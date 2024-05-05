@@ -1,6 +1,11 @@
 # Grimror Plaguebringer
 
 
+
+[Grimror Plaguebringer](/npc/205000) is a level 60 Ogre Warrior that spawns in [Plane of Disease](/zone/205).
+
+
+
 ## On NPC Spawn
 
 local sp = e.self:GetSpawnPointID();

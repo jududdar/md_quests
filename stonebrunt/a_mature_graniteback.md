@@ -1,6 +1,11 @@
 # a mature graniteback
 
 
+
+[a mature graniteback](/npc/100223) is a level 22 Gorilla Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

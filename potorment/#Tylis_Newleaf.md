@@ -1,4 +1,9 @@
 # Tylis Newleaf
+
+
+
+[Tylis Newleaf](/npc/207318) is a level 35 Wood Elf Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
 local FLAG_LIMIT = 72;
 
 

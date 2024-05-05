@@ -1,6 +1,11 @@
 # Randle Cummings
 
 
+
+[Randle Cummings](/npc/208032) is a level 66 Human Shopkeeper that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

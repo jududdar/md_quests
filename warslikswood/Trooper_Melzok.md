@@ -1,6 +1,11 @@
 # Trooper Melzok
 
 
+
+[Trooper Melzok](/npc/79089) is a level 50 Iksar Warrior that spawns in [Warsliks Woods](/zone/79).
+
+
+
 ## Dialog
 
 **You say:** `hail`

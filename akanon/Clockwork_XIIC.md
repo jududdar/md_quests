@@ -2,6 +2,11 @@
 
 
 
+[Clockwork XIIC](/npc/55196) is a level 42 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

@@ -1,6 +1,11 @@
 # Merchant Silspin
 
 
+
+[Merchant Silspin](/npc/61043) is a level 40 High Elf Shopkeeper that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 if(e.other:IsSelfFound() == 1 or e.other:IsSoloOnly() == 1) then

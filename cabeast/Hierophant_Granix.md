@@ -2,6 +2,11 @@
 
 
 
+[Hierophant Granix](/npc/106114) is a level 61 Iksar GM Shaman that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 
 ## Dialog

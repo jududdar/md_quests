@@ -1,6 +1,11 @@
 # Deputy Chopo
 
 
+
+[Deputy Chopo](/npc/19004) is a level 22 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

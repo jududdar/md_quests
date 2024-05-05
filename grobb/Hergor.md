@@ -1,6 +1,11 @@
 # Hergor
 
 
+
+[Hergor](/npc/52034) is a level 61 Troll GM Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `hail`

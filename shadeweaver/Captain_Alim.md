@@ -1,6 +1,11 @@
 # Captain Alim
 
 
+
+[Captain Alim](/npc/165154) is a level 61 Vah Shir GM Beastlord that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `hail`

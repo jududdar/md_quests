@@ -2,6 +2,11 @@
 
 
 
+[Assassin Daran](/npc/202249) is a level 61 Halfling GM Rogue that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

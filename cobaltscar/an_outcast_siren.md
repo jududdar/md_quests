@@ -1,6 +1,11 @@
 # an outcast siren
 
 
+
+[an outcast siren](/npc/117002) is a level 45 Siren Enchanter that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

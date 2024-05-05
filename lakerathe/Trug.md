@@ -1,6 +1,11 @@
 # Trug
 
 
+
+[Trug](/npc/51071) is a level 35 Ogre Shaman that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `hail`

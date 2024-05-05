@@ -2,6 +2,11 @@
 
 
 
+[a human skeleton](/npc/90000) is a level 41 Skeleton Wizard that spawns in [Frontier Mountains](/zone/92).
+
+
+
+
 ## Turn-Ins
 
 

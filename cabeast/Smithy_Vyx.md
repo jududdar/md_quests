@@ -1,6 +1,11 @@
 # Smithy Vyx
 
 
+
+[Smithy Vyx](/npc/106038) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

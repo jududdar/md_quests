@@ -1,6 +1,11 @@
 # Ellis Cloudchaser
 
 
+
+[Ellis Cloudchaser](/npc/202076) is a level 60 Half Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

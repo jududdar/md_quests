@@ -1,4 +1,9 @@
 # player
+
+
+
+
+
 function event_enter_zone(e)
 
 if(e.self:GetBoatID() == 772 or e.self:GetBoatID() == 773) then

@@ -1,6 +1,11 @@
 # Lady Shae
 
 
+
+[Lady Shae](/npc/9058) is a level 12 High Elf Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

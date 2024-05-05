@@ -1,5 +1,10 @@
 # an interrogator
 
+
+
+[an interrogator](/npc/14050) is a level 25 Human Warrior that spawns in [Southern Plains of Karana](/zone/14).
+
+
 local brief;
 local name;
 

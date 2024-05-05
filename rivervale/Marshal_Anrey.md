@@ -2,6 +2,11 @@
 
 
 
+[Marshal Anrey](/npc/19055) is a level 61 Halfling GM Warrior that spawns in [Rivervale](/zone/19).
+
+
+
+
 
 ## Dialog
 

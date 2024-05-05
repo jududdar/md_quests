@@ -1,6 +1,11 @@
 # Innkeep Wuleran
 
 
+
+[Innkeep Wuleran](/npc/54146) is a level 40 Guard Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Black Dire](/npc/59129) is a level 45 Wolf Shadow Knight that spawns in [Castle of Mistmoore](/zone/59).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 2100 seconds

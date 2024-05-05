@@ -1,6 +1,11 @@
 # A Guardian of the Arx
 
 
+
+[A Guardian of the Arx](/npc/159110) is a level 60 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

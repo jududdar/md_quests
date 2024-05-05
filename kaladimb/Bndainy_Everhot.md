@@ -1,6 +1,11 @@
 # Bndainy Everhot
 
 
+
+[Bndainy Everhot](/npc/67045) is a level 41 Dwarf Shopkeeper that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

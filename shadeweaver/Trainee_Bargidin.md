@@ -1,6 +1,11 @@
 # Trainee Bargidin
 
 
+
+[Trainee Bargidin](/npc/165135) is a level 9 Vah Shir Warrior that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

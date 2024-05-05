@@ -1,4 +1,9 @@
-# Dragoon Barber W-Selo
+# Dragoon Barber W\`Selo
+
+
+
+[Dragoon Barber W\`Selo](/npc/93124) is a level 50 Dark Elf Cleric that spawns in [The Overthere](/zone/93).
+
 
 
 ## Signals

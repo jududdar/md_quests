@@ -2,6 +2,11 @@
 
 
 
+[Cursed Traveler](/npc/96056) is a level 1 Skeleton Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Palace Guard Niromak
 
 
+
+[Palace Guard Niromak](/npc/155020) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 15) then

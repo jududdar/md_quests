@@ -1,6 +1,11 @@
 # Morty Prysmith
 
 
+
+[Morty Prysmith](/npc/1154) is a level 5 Beggar Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

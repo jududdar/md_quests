@@ -1,6 +1,11 @@
 # Aanina Rockfinder
 
 
+
+[Aanina Rockfinder](/npc/67043) is a level 38 Dwarf Shopkeeper that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 if(e.other:IsSelfFound() == 1 or e.other:IsSoloOnly() == 1) then

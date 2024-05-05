@@ -1,6 +1,11 @@
 # Adipiscorus Glipo
 
 
+
+[Adipiscorus Glipo](/npc/159371) is a level 66 Gnome GM Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

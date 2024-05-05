@@ -1,6 +1,11 @@
 # a scouting kobold
 
 
+
+[a scouting kobold](/npc/100021) is a level 13 Kobold Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

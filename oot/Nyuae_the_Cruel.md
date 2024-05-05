@@ -1,6 +1,11 @@
 # Nyuae the Cruel
 
 
+
+[Nyuae the Cruel](/npc/69010) is a level 42 Dark Elf Necromancer that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

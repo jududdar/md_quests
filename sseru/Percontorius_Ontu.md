@@ -1,6 +1,11 @@
 # Percontorius Ontu
 
 
+
+[Percontorius Ontu](/npc/159375) is a level 66 Erudite GM Enchanter that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

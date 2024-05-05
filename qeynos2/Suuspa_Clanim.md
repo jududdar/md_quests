@@ -1,6 +1,11 @@
 # Suuspa Clanim
 
 
+
+[Suuspa Clanim](/npc/2058) is a level 61 Human GM Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

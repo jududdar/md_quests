@@ -1,6 +1,11 @@
 # Mystic Somas
 
 
+
+[Mystic Somas](/npc/202180) is a level 60 Kobold Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

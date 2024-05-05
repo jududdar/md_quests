@@ -1,4 +1,9 @@
-# Sivy G-Noir
+# Sivy G\`Noir
+
+
+
+[Sivy G\`Noir](/npc/41085) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

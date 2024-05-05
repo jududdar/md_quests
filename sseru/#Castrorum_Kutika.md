@@ -1,6 +1,11 @@
 # Castrorum Kutika
 
 
+
+[Castrorum Kutika](/npc/159077) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
-# Tasi V-ghera
+# Tasi V\`ghera
+
+
+
+[Tasi V\`ghera](/npc/20063) is a level 56 Dark Elf Shadow Knight that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

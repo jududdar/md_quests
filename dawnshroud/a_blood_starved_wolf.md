@@ -1,6 +1,11 @@
 # a blood starved wolf
 
 
+
+[a blood starved wolf](/npc/174116) is a level 32 Wolf Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 95 seconds

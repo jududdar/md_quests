@@ -1,6 +1,11 @@
 # Bloated Belly
 
 
+
+[Bloated Belly](/npc/839) is a level 50 Ship Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

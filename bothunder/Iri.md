@@ -1,6 +1,11 @@
 # Iri
 
 
+
+[Iri](/npc/209057) is a level 65 Stormrider Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Iri enters combat  then

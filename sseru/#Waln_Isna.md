@@ -1,6 +1,11 @@
 # Waln Isna
 
 
+
+[Waln Isna](/npc/159025) is a level 51 Erudite Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

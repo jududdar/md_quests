@@ -1,6 +1,11 @@
 # Peffin Ambersnow
 
 
+
+[Peffin Ambersnow](/npc/116038) is a level 50 Coldain Rogue that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 265 seconds

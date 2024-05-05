@@ -1,6 +1,11 @@
 # Lozani
 
 
+
+[Lozani](/npc/6029) is a level 30 Gnome Wizard that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

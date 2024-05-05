@@ -1,6 +1,11 @@
 # Cohortis Emon
 
 
+
+[Cohortis Emon](/npc/159304) is a level 65 Half Elf GM Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

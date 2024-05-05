@@ -1,6 +1,11 @@
 # Samusk Hariij
 
 
+
+[Samusk Hariij](/npc/203423) is a level 46 Vah Shir Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

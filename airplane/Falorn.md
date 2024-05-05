@@ -1,6 +1,11 @@
 # Falorn
 
 
+
+[Falorn](/npc/71067) is a level 55 Barbarian Warrior that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

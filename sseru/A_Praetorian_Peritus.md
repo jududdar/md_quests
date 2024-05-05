@@ -1,6 +1,11 @@
 # A Praetorian Peritus
 
 
+
+[A Praetorian Peritus](/npc/159097) is a level 64 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

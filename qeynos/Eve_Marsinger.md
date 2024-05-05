@@ -2,6 +2,11 @@
 
 
 
+[Eve Marsinger](/npc/1131) is a level 25 Human Bard that spawns in [South Qeynos](/zone/1).
+
+
+
+
 
 ## Dialog
 

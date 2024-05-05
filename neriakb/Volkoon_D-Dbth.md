@@ -1,4 +1,9 @@
-# Volkoon D-Dbth
+# Volkoon D\`Dbth
+
+
+
+[Volkoon D\`Dbth](/npc/41059) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

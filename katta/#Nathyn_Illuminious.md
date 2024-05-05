@@ -1,6 +1,11 @@
 # Nathyn Illuminious
 
 
+
+[Nathyn Illuminious](/npc/160135) is a level 64 Human Enchanter that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);

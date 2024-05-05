@@ -1,6 +1,11 @@
 # Edvard Tommels
 
 
+
+[Edvard Tommels](/npc/1134) is a level 35 Human Druid that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

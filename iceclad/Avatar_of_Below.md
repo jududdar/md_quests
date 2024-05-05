@@ -1,6 +1,11 @@
 # Avatar of Below
 
 
+
+[Avatar of Below](/npc/110026) is a level 66 Dwarf Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Turn-Ins
 
 

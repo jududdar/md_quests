@@ -1,4 +1,9 @@
 # Grim Oakfist
+
+
+
+[Grim Oakfist](/npc/20220) is a level 30 Human Monk that spawns in [Kithicor Forest](/zone/20).
+
 local EENOT_SPAWN_LOCS = {
 
 { 898, -137, 108 },

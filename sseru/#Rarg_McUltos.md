@@ -1,6 +1,11 @@
 # Rarg McUltos
 
 
+
+[Rarg McUltos](/npc/159064) is a level 44 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

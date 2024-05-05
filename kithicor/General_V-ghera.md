@@ -1,4 +1,9 @@
-# General V-ghera
+# General V\`ghera
+
+
+
+[General V\`ghera](/npc/20205) is a level 65 Dark Elf Shadow Knight that spawns in [Kithicor Forest](/zone/20).
+
 
 
 ## On NPC Spawn

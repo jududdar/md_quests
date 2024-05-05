@@ -1,6 +1,11 @@
 # Ping Fuzzlecutter
 
 
+
+[Ping Fuzzlecutter](/npc/9133) is a level 33 Gnome Shopkeeper that spawns in [West Freeport](/zone/9).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

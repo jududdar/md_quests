@@ -2,6 +2,11 @@
 
 
 
+[tormented wraith](/npc/201055) is a level 44 Shade Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 ## Dialog
 

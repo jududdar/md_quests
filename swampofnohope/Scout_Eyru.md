@@ -1,6 +1,11 @@
 # Scout Eyru
 
 
+
+[Scout Eyru](/npc/83037) is a level 15 Vah Shir Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

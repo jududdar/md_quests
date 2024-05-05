@@ -1,6 +1,11 @@
 # a kejekan archer
 
 
+
+[a kejekan archer](/npc/100066) is a level 16 Kerran Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

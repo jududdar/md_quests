@@ -1,6 +1,11 @@
 # Klaggan Iceshard
 
 
+
+[Klaggan Iceshard](/npc/113251) is a level 45 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

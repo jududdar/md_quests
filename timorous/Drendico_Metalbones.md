@@ -2,6 +2,11 @@
 
 
 
+[Drendico Metalbones](/npc/96034) is a level 56 Gnome Shadow Knight that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

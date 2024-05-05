@@ -2,6 +2,11 @@
 
 
 
+[Lewis Reldnok](/npc/55146) is a level 61 Gnome GM Paladin that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

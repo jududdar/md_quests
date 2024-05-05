@@ -1,4 +1,9 @@
 # Imxil Tbrow
+
+
+
+[Imxil Tbrow](/npc/10012) is a level 10 Dark Elf Warrior that spawns in [East Freeport](/zone/10).
+
 local factionId = 0;
 
 

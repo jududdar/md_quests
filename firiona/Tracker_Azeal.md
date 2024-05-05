@@ -2,6 +2,11 @@
 
 
 
+[Tracker Azeal](/npc/84001) is a level 45 Wood Elf Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 
 
 ## Dialog

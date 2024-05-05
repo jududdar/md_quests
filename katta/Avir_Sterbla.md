@@ -1,6 +1,11 @@
 # Avir Sterbla
 
 
+
+[Avir Sterbla](/npc/160191) is a level 61 Erudite GM Magician that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

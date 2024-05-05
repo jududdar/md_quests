@@ -1,6 +1,11 @@
 # Trooper Syldon
 
 
+
+[Trooper Syldon](/npc/79088) is a level 50 Iksar Warrior that spawns in [Warsliks Woods](/zone/79).
+
+
+
 ## Dialog
 
 **You say:** `hail`

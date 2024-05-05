@@ -1,6 +1,11 @@
 # Jimmik Greenstone
 
 
+
+[Jimmik Greenstone](/npc/203427) is a level 51 Human Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

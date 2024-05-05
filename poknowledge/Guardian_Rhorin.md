@@ -2,6 +2,11 @@
 
 
 
+[Guardian Rhorin](/npc/202106) is a level 60 Ogre Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

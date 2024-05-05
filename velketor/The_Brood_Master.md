@@ -1,6 +1,11 @@
 # The Brood Master
 
 
+
+[The Brood Master](/npc/112058) is a level 56 Spider Rogue that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds

@@ -2,6 +2,11 @@
 
 
 
+[Ghost of Ridossan](/npc/100018) is a level 35 Ghost Shadow Knight that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
+
 
 
 ## On NPC Spawn

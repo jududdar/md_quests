@@ -1,6 +1,11 @@
 # Terror Matriarch
 
 
+
+[Terror Matriarch](/npc/204034) is a level 65 Arachnid Warrior that spawns in [Plane of Nightmares](/zone/204).
+
+
+
 ## Combat
 
 if  Terror Matriarch enters combat  then

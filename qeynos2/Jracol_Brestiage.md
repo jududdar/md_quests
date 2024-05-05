@@ -1,6 +1,11 @@
 # Jracol Brestiage
 
 
+
+[Jracol Brestiage](/npc/2029) is a level 12 Dark Elf Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

@@ -1,6 +1,11 @@
 # Scout Ahlikal
 
 
+
+[Scout Ahlikal](/npc/47004) is a level 15 Vah Shir Warrior that spawns in [The Feerrott](/zone/47).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

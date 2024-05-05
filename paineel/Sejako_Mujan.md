@@ -1,6 +1,11 @@
 # Sejako Mujan
 
 
+
+[Sejako Mujan](/npc/75117) is a level 40 Erudite Necromancer that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

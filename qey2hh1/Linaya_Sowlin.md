@@ -2,6 +2,11 @@
 
 
 
+[Linaya Sowlin](/npc/12088) is a level 5 Human Druid that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 
 

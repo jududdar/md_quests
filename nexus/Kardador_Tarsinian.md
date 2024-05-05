@@ -1,6 +1,11 @@
 # Kardador Tarsinian
 
 
+
+[Kardador Tarsinian](/npc/152014) is a level 50 Human Wizard that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

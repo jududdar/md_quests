@@ -2,6 +2,11 @@
 
 
 
+[Zapho the Ancient](/npc/55151) is a level 61 Gnome Magician that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

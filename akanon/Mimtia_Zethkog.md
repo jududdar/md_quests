@@ -2,6 +2,11 @@
 
 
 
+[Mimtia Zethkog](/npc/55024) is a level 35 Gnome Shadow Knight that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

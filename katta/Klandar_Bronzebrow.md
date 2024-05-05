@@ -1,6 +1,11 @@
 # Klandar Bronzebrow
 
 
+
+[Klandar Bronzebrow](/npc/160157) is a level 62 Dwarf Paladin that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

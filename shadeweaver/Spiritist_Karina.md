@@ -1,4 +1,9 @@
 # Spiritist Karina
+
+
+
+[Spiritist Karina](/npc/165130) is a level 61 Vah Shir GM Shaman that spawns in [Shadeweaver's Thicket](/zone/165).
+
 local count = 0;
 
 

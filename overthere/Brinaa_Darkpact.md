@@ -1,6 +1,11 @@
 # Brinaa Darkpact
 
 
+
+[Brinaa Darkpact](/npc/93114) is a level 49 Dark Elf Cleric that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

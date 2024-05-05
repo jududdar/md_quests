@@ -1,6 +1,11 @@
 # Snowflake
 
 
+
+[Snowflake](/npc/30049) is a level 7 Wolf Warrior that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sentinel Colm
 
 
+
+[Sentinel Colm](/npc/23061) is a level 30 Erudite Paladin that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `kerra isle`

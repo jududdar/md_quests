@@ -2,6 +2,11 @@
 
 
 
+[Rowle Shieldson](/npc/160207) is a level 43 Dwarf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

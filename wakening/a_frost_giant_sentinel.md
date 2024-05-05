@@ -1,6 +1,11 @@
 # a frost giant sentinel
 
 
+
+[a frost giant sentinel](/npc/119043) is a level 36 Giant Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

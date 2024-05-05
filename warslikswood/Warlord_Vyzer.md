@@ -1,6 +1,11 @@
 # Warlord Vyzer
 
 
+
+[Warlord Vyzer](/npc/79078) is a level 51 Iksar Warrior that spawns in [Warsliks Woods](/zone/79).
+
+
+
 ## Dialog
 
 **You say:** `hail`

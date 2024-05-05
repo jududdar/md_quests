@@ -1,6 +1,11 @@
 # Pendle Dashinger
 
 
+
+[Pendle Dashinger](/npc/78102) is a level 30 Half Elf Bard that spawns in [Field of Bone](/zone/78).
+
+
+
 ## Dialog
 
 **You say:** `hail`

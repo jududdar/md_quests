@@ -1,6 +1,11 @@
 # Gindan Blademaster
 
 
+
+[Gindan Blademaster](/npc/214031) is a level 63 Rallos Zek Minion Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
+
+
 ## On NPC Spawn
 
 if ( e.self:GetSpawnPointID() == 0 ) then 

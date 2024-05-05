@@ -1,6 +1,11 @@
 # Cain Darkmoore
 
 
+
+[Cain Darkmoore](/npc/9092) is a level 61 Human GM Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

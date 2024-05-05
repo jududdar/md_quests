@@ -1,6 +1,11 @@
 # Styria Fearnon
 
 
+
+[Styria Fearnon](/npc/69008) is a level 61 Wood Elf GM Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

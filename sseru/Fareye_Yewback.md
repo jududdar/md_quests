@@ -1,6 +1,11 @@
 # Fareye Yewback
 
 
+
+[Fareye Yewback](/npc/159005) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

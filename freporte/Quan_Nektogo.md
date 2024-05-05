@@ -1,6 +1,11 @@
 # Quan Nektogo
 
 
+
+[Quan Nektogo](/npc/10125) is a level 30 Human Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

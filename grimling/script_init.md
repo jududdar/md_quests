@@ -1,4 +1,9 @@
 # script init
+
+
+
+
+
 eq.load_encounter("Husman");
 eq.load_encounter("Danarin");
 eq.load_encounter("Derrin");

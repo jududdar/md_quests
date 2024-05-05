@@ -2,6 +2,11 @@
 
 
 
+[Hero Goxnok](/npc/84319) is a level 25 Iksar Shadow Knight that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `charasis tome`

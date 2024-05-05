@@ -1,6 +1,11 @@
 # Guard Chopin
 
 
+
+[Guard Chopin](/npc/6164) is a level 23 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

@@ -1,6 +1,11 @@
 # An Arx Guardian
 
 
+
+[An Arx Guardian](/npc/159356) is a level 62 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

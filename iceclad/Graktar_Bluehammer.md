@@ -1,6 +1,11 @@
 # Graktar Bluehammer
 
 
+
+[Graktar Bluehammer](/npc/110078) is a level 34 Giant Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Turn-Ins
 
 

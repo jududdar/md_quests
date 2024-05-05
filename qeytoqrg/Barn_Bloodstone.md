@@ -1,6 +1,11 @@
 # Barn Bloodstone
 
 
+
+[Barn Bloodstone](/npc/4203) is a level 20 Human Rogue that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 6) then

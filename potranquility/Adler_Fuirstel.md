@@ -1,6 +1,11 @@
 # Adler Fuirstel
 
 
+
+[Adler Fuirstel](/npc/203394) is a level 46 Human Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

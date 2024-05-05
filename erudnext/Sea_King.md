@@ -1,6 +1,11 @@
 # Sea King
 
 
+
+[Sea King](/npc/772) is a level 50 Ship Warrior that spawns in [Erudin](/zone/24).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

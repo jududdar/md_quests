@@ -1,6 +1,11 @@
 # Elder Clinka
 
 
+
+[Elder Clinka](/npc/203405) is a level 55 Gnome Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Turn-Ins
 
 

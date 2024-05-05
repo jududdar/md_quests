@@ -1,6 +1,11 @@
 # Captain Keatar
 
 
+
+[Captain Keatar](/npc/84156) is a level 61 Wood Elf GM Ranger that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

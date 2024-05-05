@@ -1,6 +1,11 @@
 # A Tabularium Factor
 
 
+
+[A Tabularium Factor](/npc/159205) is a level 53 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

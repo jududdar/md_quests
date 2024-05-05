@@ -1,4 +1,9 @@
 # player
+
+
+
+
+
 local SEVENTH_HAMMER_TYPE = 201074;
 
 function event_enter_zone(e)

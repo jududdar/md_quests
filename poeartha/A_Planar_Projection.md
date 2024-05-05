@@ -1,4 +1,9 @@
 # A Planar Projection
+
+
+
+[A Planar Projection](/npc/200269) is a level 1 Elemental Warrior that spawns in [Plane of Earth](/zone/218).
+
 local MAX_KEYS = 54;
 
 local keys;

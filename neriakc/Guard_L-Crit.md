@@ -1,4 +1,9 @@
-# Guard L-Crit
+# Guard L\`Crit
+
+
+
+[Guard L\`Crit](/npc/42110) is a level 40 Dark Elf Warrior that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

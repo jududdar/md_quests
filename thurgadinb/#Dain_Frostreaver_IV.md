@@ -1,6 +1,11 @@
 # Dain Frostreaver IV
 
 
+
+[Dain Frostreaver IV](/npc/129003) is a level 70 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `greetings and good fortune to you, honored dain frostreaver iv`

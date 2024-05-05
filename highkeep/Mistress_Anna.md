@@ -1,6 +1,11 @@
 # Mistress Anna
 
 
+
+[Mistress Anna](/npc/6068) is a level 35 Human Rogue that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

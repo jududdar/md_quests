@@ -2,6 +2,11 @@
 
 
 
+[Forpar Fizfla](/npc/56130) is a level 51 Gnome Shadow Knight that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 
 

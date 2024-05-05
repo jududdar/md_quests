@@ -1,4 +1,9 @@
-# Evia N-Cizai
+# Evia N\`Cizai
+
+
+
+[Evia N\`Cizai](/npc/201307) is a level 46 Erudite Shadow Knight that spawns in [Plane of Justice](/zone/201).
+
 
 
 

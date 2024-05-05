@@ -2,6 +2,11 @@
 
 
 
+[Audri Deepfacet](/npc/202069) is a level 60 Erudite Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 
 

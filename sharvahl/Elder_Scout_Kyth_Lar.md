@@ -1,6 +1,11 @@
 # Elder Scout Kyth Lar
 
 
+
+[Elder Scout Kyth Lar](/npc/155250) is a level 61 Vah Shir GM Rogue that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

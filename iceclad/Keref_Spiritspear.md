@@ -1,6 +1,11 @@
 # Keref Spiritspear
 
 
+
+[Keref Spiritspear](/npc/110050) is a level 35 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

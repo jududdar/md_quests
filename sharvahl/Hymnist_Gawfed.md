@@ -1,6 +1,11 @@
 # Hymnist Gawfed
 
 
+
+[Hymnist Gawfed](/npc/155053) is a level 60 Vah Shir Bard that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Krystal Aspen
 
 
+
+[Krystal Aspen](/npc/3026) is a level 30 Human Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `leader`

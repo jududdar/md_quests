@@ -1,6 +1,11 @@
 # Sergeant Tylah
 
 
+
+[Sergeant Tylah](/npc/166028) is a level 55 Vah Shir Warrior that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Dialog
 
 **You say:** `hail`

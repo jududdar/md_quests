@@ -1,6 +1,11 @@
 # Tomekeeper Danl
 
 
+
+[Tomekeeper Danl](/npc/24034) is a level 35 Erudite Warrior that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Perkon Malok
 
 
+
+[Perkon Malok](/npc/45083) is a level 61 Human GM Magician that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Turn-Ins
 
 

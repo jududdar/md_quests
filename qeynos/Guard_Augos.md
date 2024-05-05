@@ -1,6 +1,11 @@
 # Guard Augos
 
 
+
+[Guard Augos](/npc/1306) is a level 5 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

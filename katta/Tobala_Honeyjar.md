@@ -2,6 +2,11 @@
 
 
 
+[Tobala Honeyjar](/npc/160192) is a level 61 Halfling GM Druid that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

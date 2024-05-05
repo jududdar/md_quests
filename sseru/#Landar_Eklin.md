@@ -1,6 +1,11 @@
 # Landar Eklin
 
 
+
+[Landar Eklin](/npc/159047) is a level 42 Erudite Wizard that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

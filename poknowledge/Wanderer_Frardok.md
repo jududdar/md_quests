@@ -1,6 +1,11 @@
 # Wanderer Frardok
 
 
+
+[Wanderer Frardok](/npc/202217) is a level 60 Halfling Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

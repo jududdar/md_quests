@@ -1,4 +1,9 @@
-# Belyea K-Jartan
+# Belyea K\`Jartan
+
+
+
+[Belyea K\`Jartan](/npc/42101) is a level 30 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

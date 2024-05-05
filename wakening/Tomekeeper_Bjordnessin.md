@@ -1,6 +1,11 @@
 # Tomekeeper Bjordnessin
 
 
+
+[Tomekeeper Bjordnessin](/npc/119062) is a level 49 Giant Wizard that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

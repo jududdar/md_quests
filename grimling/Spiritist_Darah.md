@@ -1,6 +1,11 @@
 # Spiritist Darah
 
 
+
+[Spiritist Darah](/npc/167199) is a level 35 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

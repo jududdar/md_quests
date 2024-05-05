@@ -1,6 +1,11 @@
 # Guard Willia
 
 
+
+[Guard Willia](/npc/8110) is a level 6 Guard Warrior that spawns in [North Freeport](/zone/8).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1200 seconds

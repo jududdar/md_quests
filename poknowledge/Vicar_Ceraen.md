@@ -2,6 +2,11 @@
 
 
 
+[Vicar Ceraen](/npc/202219) is a level 60 High Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

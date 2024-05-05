@@ -1,6 +1,11 @@
 # Lieutenant Dagarok
 
 
+
+[Lieutenant Dagarok](/npc/2020) is a level 50 Human Shadow Knight that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Kedrak](/npc/124093) is a level 60 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 ## Combat
 
 if  Kedrak enters combat  then

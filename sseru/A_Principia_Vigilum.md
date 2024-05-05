@@ -1,6 +1,11 @@
 # A Principia Vigilum
 
 
+
+[A Principia Vigilum](/npc/159660) is a level 54 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

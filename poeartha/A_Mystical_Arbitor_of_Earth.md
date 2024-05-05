@@ -1,4 +1,9 @@
 # A Mystical Arbitor of Earth
+
+
+
+[A Mystical Arbitor of Earth](/npc/218375) is a level 74 Earth Elemental Warrior that spawns in [Plane of Earth](/zone/218).
+
 local PLANAR_PROJECTION_TYPE = 218398;
 
 

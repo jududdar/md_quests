@@ -1,4 +1,9 @@
-# X-Ta Tompi
+# X\`Ta Tompi
+
+
+
+[X\`Ta Tompi](/npc/40002) is a level 40 Dark Elf Necromancer that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 

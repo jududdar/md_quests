@@ -1,4 +1,9 @@
-# Teria O-Danos
+# Teria O\`Danos
+
+
+
+[Teria O\`Danos](/npc/29035) is a level 30 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
 
 
 ## Dialog

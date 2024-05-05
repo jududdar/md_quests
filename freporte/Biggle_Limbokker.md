@@ -1,6 +1,11 @@
 # Biggle Limbokker
 
 
+
+[Biggle Limbokker](/npc/10160) is a level 19 Halfling Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

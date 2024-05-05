@@ -1,6 +1,11 @@
 # Heracus Helsin
 
 
+
+[Heracus Helsin](/npc/160178) is a level 1 Human Banker that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

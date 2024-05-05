@@ -1,6 +1,11 @@
 # an elite gnoll guard
 
 
+
+[an elite gnoll guard](/npc/17112) is a level 11 Gnoll Warrior that spawns in [Blackburrow](/zone/17).
+
+
+
 ## On NPC Spawn
 
 local sp = e.self:GetSpawnPointID();

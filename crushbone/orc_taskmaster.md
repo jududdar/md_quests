@@ -1,6 +1,11 @@
 # orc taskmaster
 
 
+
+[orc taskmaster](/npc/58040) is a level 12 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if orc taskmaster enters combat  then

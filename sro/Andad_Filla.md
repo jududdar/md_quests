@@ -2,6 +2,11 @@
 
 
 
+[Andad Filla](/npc/35030) is a level 51 Human Warrior that spawns in [Southern Desert of Ro](/zone/35).
+
+
+
+
 
 
 

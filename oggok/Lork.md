@@ -1,6 +1,11 @@
 # Lork
 
 
+
+[Lork](/npc/49043) is a level 61 Ogre GM Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

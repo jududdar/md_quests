@@ -1,6 +1,11 @@
 # Mrando McGrannis
 
 
+
+[Mrando McGrannis](/npc/159437) is a level 44 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

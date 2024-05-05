@@ -1,6 +1,11 @@
 # Optio Ealna
 
 
+
+[Optio Ealna](/npc/159299) is a level 52 Dwarf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

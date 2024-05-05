@@ -1,6 +1,11 @@
 # Plur Etinu
 
 
+
+[Plur Etinu](/npc/8040) is a level 61 Human GM Cleric that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Larsk Juton](/npc/3024) is a level 61 Human GM Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
+
 
 ## Dialog
 

@@ -2,6 +2,11 @@
 
 
 
+[Tymoz](/npc/172047) is a level 44 Vampire Rogue that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
+
 
 ## Dialog
 

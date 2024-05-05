@@ -1,6 +1,11 @@
 # Guard Stump
 
 
+
+[Guard Stump](/npc/60067) is a level 38 Dwarf Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `armor`

@@ -1,6 +1,11 @@
 # a cleric of Vallon Zek
 
 
+
+[a cleric of Vallon Zek](/npc/113375) is a level 52 Giant Cleric that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

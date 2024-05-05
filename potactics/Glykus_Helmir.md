@@ -1,4 +1,9 @@
 # Glykus Helmir
+
+
+
+[Glykus Helmir](/npc/214053) is a level 67 Wretch Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
 local BOAR_SPAWNIDS = { 361349, 361350, 361351, 361352, 361356 };
 local FLEDGLING_TYPE = 214040; 
 local ENRAGED_TYPE = 214308; 

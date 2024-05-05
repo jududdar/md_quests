@@ -1,6 +1,11 @@
 # Consis Sinsolus
 
 
+
+[Consis Sinsolus](/npc/159670) is a level 47 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

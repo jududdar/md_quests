@@ -1,6 +1,11 @@
 # Guard Helminth
 
 
+
+[Guard Helminth](/npc/45005) is a level 35 Human Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

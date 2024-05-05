@@ -1,6 +1,11 @@
 # Xentil Herkanon
 
 
+
+[Xentil Herkanon](/npc/6185) is a level 12 Half Elf Rogue that spawns in [High Keep](/zone/6).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

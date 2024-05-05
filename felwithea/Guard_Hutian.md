@@ -1,6 +1,11 @@
 # Guard Hutian
 
 
+
+[Guard Hutian](/npc/61074) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

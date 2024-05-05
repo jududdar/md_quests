@@ -1,6 +1,11 @@
 # Gunex Eklar
 
 
+
+[Gunex Eklar](/npc/10099) is a level 61 Human GM Shadow Knight that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

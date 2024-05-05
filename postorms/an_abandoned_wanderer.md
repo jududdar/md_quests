@@ -1,6 +1,11 @@
 # an abandoned wanderer
 
 
+
+[an abandoned wanderer](/npc/210001) is a level 63 Erudite Druid that spawns in [Plane of Storms](/zone/210).
+
+
+
 ## Dialog
 
 **You say:** `hail`

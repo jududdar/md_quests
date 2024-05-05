@@ -1,6 +1,11 @@
 # Johanius Barleou
 
 
+
+[Johanius Barleou](/npc/172032) is a level 24 Human Rogue that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Bishop Toluwon
+
+
+
+[Bishop Toluwon](/npc/200228) is a level 70 Lepertoloth Cleric that spawns in [The Crypt of Decay](/zone/200).
+
 local KNIGHT_SPAWNID = 369225;
 local MAGUS_SPAWNID = 369226;
 

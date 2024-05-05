@@ -1,6 +1,11 @@
 # Vicar Delin
 
 
+
+[Vicar Delin](/npc/202222) is a level 60 Dwarf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

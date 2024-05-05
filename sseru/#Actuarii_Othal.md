@@ -1,6 +1,11 @@
 # Actuarii Othal
 
 
+
+[Actuarii Othal](/npc/159214) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

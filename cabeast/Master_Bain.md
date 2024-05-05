@@ -1,6 +1,11 @@
 # Master Bain
 
 
+
+[Master Bain](/npc/106099) is a level 61 Iksar GM Monk that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

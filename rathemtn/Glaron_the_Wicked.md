@@ -1,6 +1,11 @@
 # Glaron the Wicked
 
 
+
+[Glaron the Wicked](/npc/50053) is a level 32 Human Shadow Knight that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

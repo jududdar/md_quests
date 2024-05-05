@@ -1,6 +1,11 @@
 # Gargh
 
 
+
+[Gargh](/npc/52076) is a level 50 Troll Beastlord that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sir Edwin Motte
 
 
+
+[Sir Edwin Motte](/npc/4077) is a level 33 Human Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

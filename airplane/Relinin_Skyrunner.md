@@ -1,6 +1,11 @@
 # Relinin Skyrunner
 
 
+
+[Relinin Skyrunner](/npc/71095) is a level 55 Wood Elf Ranger that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

@@ -1,6 +1,11 @@
 # Rugresch Tragguk
 
 
+
+[Rugresch Tragguk](/npc/203407) is a level 46 Troll Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # npc ext
+
+
+
+
+
 function NPC:ForeachHateList(func, cond)
 
 cond = cond or function(ent, hate, damage, frenzy) return true

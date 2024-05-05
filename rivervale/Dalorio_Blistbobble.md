@@ -1,6 +1,11 @@
 # Dalorio Blistbobble
 
 
+
+[Dalorio Blistbobble](/npc/19018) is a level 61 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog 
 
 if(eq.get_current_expansion() >= 4.0) then

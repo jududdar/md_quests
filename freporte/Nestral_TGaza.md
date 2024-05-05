@@ -1,6 +1,11 @@
 # Nestral TGaza
 
 
+
+[Nestral TGaza](/npc/10105) is a level 61 Dark Elf GM Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Antonica Scion
 
 
+
+[Antonica Scion](/npc/152005) is a level 50 Human Wizard that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `hail`

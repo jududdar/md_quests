@@ -1,6 +1,11 @@
 # Shintl Lowbrew
 
 
+
+[Shintl Lowbrew](/npc/9056) is a level 7 Halfling Wizard that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Knargon Lanenda
 
 
+
+[Knargon Lanenda](/npc/2072) is a level 61 Human GM Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then

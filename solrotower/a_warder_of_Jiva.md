@@ -1,6 +1,11 @@
 # a warder of Jiva
 
 
+
+[a warder of Jiva](/npc/212417) is a level 1 Solusek Ro Guard Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

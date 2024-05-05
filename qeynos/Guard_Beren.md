@@ -1,6 +1,11 @@
 # Guard Beren
 
 
+
+[Guard Beren](/npc/1090) is a level 15 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

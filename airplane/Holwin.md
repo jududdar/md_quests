@@ -1,6 +1,11 @@
 # Holwin
 
 
+
+[Holwin](/npc/71046) is a level 55 Efreeti Warrior that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Deputy Rollin
 
 
+
+[Deputy Rollin](/npc/19007) is a level 38 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

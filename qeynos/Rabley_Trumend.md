@@ -1,6 +1,11 @@
 # Rabley Trumend
 
 
+
+[Rabley Trumend](/npc/1129) is a level 34 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

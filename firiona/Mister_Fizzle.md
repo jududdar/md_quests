@@ -1,6 +1,11 @@
 # Mister Fizzle
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

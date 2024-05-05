@@ -2,6 +2,11 @@
 
 
 
+[Pazin Punox](/npc/42073) is a level 61 Dark Elf GM Rogue that spawns in [Neriak - 3rd Gate](/zone/42).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Tholris
 
 
+
+[Tholris](/npc/15043) is a level 51 Halfling Monk that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Dialog
 
 **You say:** `hail`

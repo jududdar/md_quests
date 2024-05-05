@@ -1,6 +1,11 @@
 # Akksstaff
 
 
+
+[Akksstaff](/npc/44063) is a level 31 Dark Elf Magician that spawns in [Najena](/zone/44).
+
+
+
 ## Dialog
 
 **You say:** `hail`

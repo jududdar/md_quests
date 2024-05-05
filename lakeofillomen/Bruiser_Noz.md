@@ -2,6 +2,11 @@
 
 
 
+[Bruiser Noz](/npc/85226) is a level 34 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
+
 ## On NPC Spawn
 
 >**Bruiser Noz says:** Stay out of this, Klok !! I didn't spend 30 seasons in the legion to be pestered by the likes of you!! Here I am, you little croak!! You want my skull? Come and get it!!

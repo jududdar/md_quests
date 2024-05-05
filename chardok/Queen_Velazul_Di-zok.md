@@ -1,4 +1,9 @@
-# Queen Velazul Di-zok
+# Queen Velazul Di\`zok
+
+
+
+[Queen Velazul Di\`zok](/npc/103055) is a level 62 Sarnak Shaman that spawns in [Chardok](/zone/103).
+
 
 
 

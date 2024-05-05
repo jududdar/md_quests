@@ -1,6 +1,11 @@
 # Armorer Caedus
 
 
+
+[Armorer Caedus](/npc/159262) is a level 60 Barbarian Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

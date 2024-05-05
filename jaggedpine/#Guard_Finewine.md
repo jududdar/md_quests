@@ -2,6 +2,11 @@
 
 
 
+[Guard Finewine](/npc/181173) is a level 28 Human Paladin that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 ## Dialog
 

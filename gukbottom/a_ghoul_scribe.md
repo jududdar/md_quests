@@ -2,6 +2,11 @@
 
 
 
+[a ghoul scribe](/npc/66170) is a level 35 Froglok Enchanter that spawns in [Ruins of Old Guk](/zone/66).
+
+
+
+
 
 ## Turn-Ins
 

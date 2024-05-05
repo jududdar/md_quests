@@ -1,6 +1,11 @@
 # Furtog Ogrebane
 
 
+
+[Furtog Ogrebane](/npc/60023) is a level 61 Dwarf GM Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `hail`

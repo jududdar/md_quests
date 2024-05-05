@@ -1,6 +1,11 @@
 # a visiting noble
 
 
+
+[a visiting noble](/npc/113252) is a level 57 Giant Shadow Knight that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

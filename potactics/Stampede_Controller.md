@@ -1,4 +1,9 @@
 # Stampede Controller
+
+
+
+
+
 local BOAR1_TYPE = 214301; 
 local BOAR2_TYPE = 214302; 
 local PIGLET_TYPE = 214303; 

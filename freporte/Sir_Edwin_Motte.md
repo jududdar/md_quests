@@ -1,6 +1,11 @@
 # Sir Edwin Motte
 
 
+
+[Sir Edwin Motte](/npc/4077) is a level 33 Human Paladin that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

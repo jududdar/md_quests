@@ -1,4 +1,9 @@
-# Mare X-Lottl
+# Mare X\`Lottl
+
+
+
+[Mare X\`Lottl](/npc/42051) is a level 20 Dark Elf Warrior that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## On NPC Spawn

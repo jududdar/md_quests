@@ -1,6 +1,11 @@
 # Kejar the Mighty
 
 
+
+[Kejar the Mighty](/npc/39131) is a level 41 Imp Warrior that spawns in [The Hole](/zone/39).
+
+
+
 ## Dialog
 
 **You say:** `hail`

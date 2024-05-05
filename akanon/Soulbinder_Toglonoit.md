@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Toglonoit](/npc/55152) is a level 1 Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

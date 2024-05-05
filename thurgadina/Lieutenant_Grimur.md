@@ -1,6 +1,11 @@
 # Lieutenant Grimur
 
 
+
+[Lieutenant Grimur](/npc/115126) is a level 42 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

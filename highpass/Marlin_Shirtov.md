@@ -1,6 +1,11 @@
 # Marlin Shirtov
 
 
+
+[Marlin Shirtov](/npc/5016) is a level 17 Human Shopkeeper that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

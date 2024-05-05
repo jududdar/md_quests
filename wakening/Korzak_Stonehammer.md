@@ -2,6 +2,11 @@
 
 
 
+[Korzak Stonehammer](/npc/119149) is a level 38 Giant Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
+
 
 
 

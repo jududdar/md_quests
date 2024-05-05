@@ -1,6 +1,11 @@
 # Frantip Dalonus
 
 
+
+[Frantip Dalonus](/npc/170149) is a level 35 Human Shopkeeper that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

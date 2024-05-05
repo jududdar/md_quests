@@ -1,6 +1,11 @@
 # Elder Poxbourne
 
 
+
+[Elder Poxbourne](/npc/203374) is a level 55 Erudite Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

@@ -2,6 +2,11 @@
 
 
 
+[Hardam Stonegrinder](/npc/150277) is a level 30 Dwarf Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
+
 
 ## Dialog
 

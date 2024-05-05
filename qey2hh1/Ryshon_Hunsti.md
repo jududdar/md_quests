@@ -2,6 +2,11 @@
 
 
 
+[Ryshon Hunsti](/npc/12081) is a level 23 Human Paladin that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

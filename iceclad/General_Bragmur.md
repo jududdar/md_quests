@@ -1,6 +1,11 @@
 # General Bragmur
 
 
+
+[General Bragmur](/npc/110033) is a level 40 Coldain Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

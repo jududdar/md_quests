@@ -2,6 +2,11 @@
 
 
 
+[Boridain Glacierbane](/npc/116191) is a level 22 Coldain Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Royal Guard Dak
 
 
+
+[Royal Guard Dak](/npc/155287) is a level 50 Guard Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `training camp`

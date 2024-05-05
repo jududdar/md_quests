@@ -1,6 +1,11 @@
 # Vigilum Mornus
 
 
+
+[Vigilum Mornus](/npc/159396) is a level 45 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

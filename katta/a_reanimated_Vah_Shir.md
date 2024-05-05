@@ -2,6 +2,11 @@
 
 
 
+[a reanimated Vah Shir](/npc/160172) is a level 39 Vah Shir Skeleton Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## On NPC Spawn
 

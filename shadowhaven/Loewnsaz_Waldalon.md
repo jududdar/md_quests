@@ -1,6 +1,11 @@
 # Loewnsaz Waldalon
 
 
+
+[Loewnsaz Waldalon](/npc/150135) is a level 65 Human GM Magician that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

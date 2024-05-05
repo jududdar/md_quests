@@ -1,6 +1,11 @@
 # Rydric Kane
 
 
+
+[Rydric Kane](/npc/208071) is a level 66 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

@@ -1,6 +1,11 @@
 # Punga
 
 
+
+[Punga](/npc/51072) is a level 35 Ogre Shaman that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Brisha Fyrestone
 
 
+
+[Brisha Fyrestone](/npc/84165) is a level 40 Dwarf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `special fire emerald`

@@ -1,6 +1,11 @@
 # a forgotten traveler
 
 
+
+[a forgotten traveler](/npc/210075) is a level 63 Iksar Cleric that spawns in [Plane of Storms](/zone/210).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Guard Leif](/npc/115198) is a level 37 Coldain Paladin that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Turn-Ins
 

@@ -1,6 +1,11 @@
 # Khala Dun Welaar
 
 
+
+[Khala Dun Welaar](/npc/155221) is a level 45 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `training camp`

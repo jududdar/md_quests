@@ -1,6 +1,11 @@
 # Captain Orben
 
 
+
+[Captain Orben](/npc/5036) is a level 29 Human Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 

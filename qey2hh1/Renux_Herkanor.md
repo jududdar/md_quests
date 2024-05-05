@@ -2,6 +2,11 @@
 
 
 
+[Renux Herkanor](/npc/2033) is a level 61 Human GM Rogue that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 
 ## Dialog

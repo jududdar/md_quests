@@ -1,6 +1,11 @@
 # Sentry Maof
 
 
+
+[Sentry Maof](/npc/114468) is a level 37 Golem Cleric that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

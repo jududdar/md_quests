@@ -1,6 +1,11 @@
 # An Actuarius Guard
 
 
+
+[An Actuarius Guard](/npc/159596) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

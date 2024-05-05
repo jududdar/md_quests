@@ -1,6 +1,11 @@
 # Bedida Claygrinder
 
 
+
+[Bedida Claygrinder](/npc/61028) is a level 40 Dwarf Shopkeeper that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Master Glox](/npc/106120) is a level 40 Iksar Monk that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

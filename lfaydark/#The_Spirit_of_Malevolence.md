@@ -1,6 +1,11 @@
 # The Spirit of Malevolence
 
 
+
+[The Spirit of Malevolence](/npc/57119) is a level 55 Wolf Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds

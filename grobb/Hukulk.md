@@ -2,6 +2,11 @@
 
 
 
+[Hukulk](/npc/52036) is a level 61 Troll GM Shadow Knight that spawns in [Grobb](/zone/52).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

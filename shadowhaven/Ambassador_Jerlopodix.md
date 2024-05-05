@@ -1,6 +1,11 @@
 # Ambassador Jerlopodix
 
 
+
+[Ambassador Jerlopodix](/npc/150063) is a level 60 Gnome Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

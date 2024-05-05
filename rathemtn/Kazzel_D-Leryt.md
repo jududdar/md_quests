@@ -1,4 +1,9 @@
-# Kazzel D-Leryt
+# Kazzel D\`Leryt
+
+
+
+[Kazzel D\`Leryt](/npc/50272) is a level 50 Dark Elf Necromancer that spawns in [Rathe Mountains](/zone/50).
+
 
 
 ## Dialog

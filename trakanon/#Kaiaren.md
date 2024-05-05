@@ -2,6 +2,11 @@
 
 
 
+[Kaiaren](/npc/95040) is a level 52 Human Monk that spawns in [Trakanon's Teeth](/zone/95).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 3600 seconds

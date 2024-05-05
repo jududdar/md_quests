@@ -1,6 +1,11 @@
 # Basher Thintan
 
 
+
+[Basher Thintan](/npc/52116) is a level 33 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

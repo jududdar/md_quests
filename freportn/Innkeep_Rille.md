@@ -2,6 +2,11 @@
 
 
 
+[Innkeep Rille](/npc/8099) is a level 45 Guard Shopkeeper that spawns in [North Freeport](/zone/8).
+
+
+
+
 ## Turn-Ins
 
 

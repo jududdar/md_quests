@@ -1,6 +1,11 @@
 # Ghost of Burdael
 
 
+
+[Ghost of Burdael](/npc/121015) is a level 49 Ghost Shadow Knight that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

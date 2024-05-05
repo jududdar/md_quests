@@ -1,6 +1,11 @@
 # Tobon Starpyre
 
 
+
+[Tobon Starpyre](/npc/55130) is a level 61 Gnome GM Wizard that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

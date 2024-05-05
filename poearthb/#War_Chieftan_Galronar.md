@@ -1,5 +1,10 @@
 # War Chieftan Galronar
 
+
+
+[War Chieftan Galronar](/npc/222036) is a level 75 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
+
 local INVIS_MAN_ID = 369488;
 
 

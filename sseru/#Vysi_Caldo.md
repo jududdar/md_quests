@@ -1,6 +1,11 @@
 # Vysi Caldo
 
 
+
+[Vysi Caldo](/npc/159434) is a level 44 Human Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

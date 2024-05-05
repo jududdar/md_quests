@@ -1,6 +1,11 @@
 # Maralicis Dilsm
 
 
+
+[Maralicis Dilsm](/npc/160150) is a level 61 Human GM Monk that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

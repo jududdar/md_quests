@@ -1,6 +1,11 @@
 # Falyn Farreach
 
 
+
+[Falyn Farreach](/npc/5024) is a level 23 Human Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

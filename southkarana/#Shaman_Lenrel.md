@@ -1,6 +1,11 @@
 # Shaman Lenrel
 
 
+
+[Shaman Lenrel](/npc/14133) is a level 16 Gnoll Shaman that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## On NPC Death
 
 if(math.random(100) < 50) then

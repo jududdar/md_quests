@@ -2,6 +2,11 @@
 
 
 
+[Hsrek](/npc/124014) is a level 60 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 ## Combat
 
 if  Hsrek enters combat  then

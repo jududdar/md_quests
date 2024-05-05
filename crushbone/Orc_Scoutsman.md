@@ -1,6 +1,11 @@
 # Orc Scoutsman
 
 
+
+[Orc Scoutsman](/npc/58042) is a level 12 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if Orc Scoutsman enters combat  then

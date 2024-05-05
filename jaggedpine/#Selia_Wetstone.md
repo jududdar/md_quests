@@ -1,6 +1,11 @@
 # Selia Wetstone
 
 
+
+[Selia Wetstone](/npc/181182) is a level 25 Human Shopkeeper that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

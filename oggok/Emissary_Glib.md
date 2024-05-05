@@ -1,6 +1,11 @@
 # Emissary Glib
 
 
+
+[Emissary Glib](/npc/49127) is a level 20 Froglok Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

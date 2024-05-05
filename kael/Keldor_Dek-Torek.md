@@ -1,4 +1,9 @@
-# Keldor Dek-Torek
+# Keldor Dek\`Torek
+
+
+
+[Keldor Dek\`Torek](/npc/113135) is a level 65 Giant Wizard that spawns in [Kael Drakkel](/zone/113).
+
 
 
 ## On NPC Spawn

@@ -1,6 +1,11 @@
 # Bouncer Thrang
 
 
+
+[Bouncer Thrang](/npc/49099) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

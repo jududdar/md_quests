@@ -1,6 +1,11 @@
 # Sarah Jelnen
 
 
+
+[Sarah Jelnen](/npc/170127) is a level 40 Human Magician that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

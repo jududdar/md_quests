@@ -2,6 +2,11 @@
 
 
 
+[Glerbella Gibblix](/npc/55022) is a level 35 Gnome Cleric that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

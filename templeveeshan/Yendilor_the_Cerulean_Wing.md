@@ -2,6 +2,11 @@
 
 
 
+[Yendilor the Cerulean Wing](/npc/124056) is a level 60 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 ## Combat
 
 if  Yendilor the Cerulean Wing enters combat  then

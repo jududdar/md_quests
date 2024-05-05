@@ -1,4 +1,9 @@
 # Captain Karim
+
+
+
+[Captain Karim](/npc/165149) is a level 61 Vah Shir GM Warrior that spawns in [Shadeweaver's Thicket](/zone/165).
+
 local count = 0;
 
 

@@ -1,6 +1,11 @@
 # Lookout Gereol
 
 
+
+[Lookout Gereol](/npc/150049) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 >**Lookout Gereol says:** All is going great sir, I will be sure to report any disturbances shall they present themselves.

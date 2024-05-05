@@ -1,6 +1,11 @@
 # Wuggan Azusphere
 
 
+
+[Wuggan Azusphere](/npc/55134) is a level 61 Gnome GM Magician that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Sir Ariam Arcanum
 
 
+
+[Sir Ariam Arcanum](/npc/36091) is a level 1 Invisible Man Paladin that spawns in [Befallen](/zone/36).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1200 seconds

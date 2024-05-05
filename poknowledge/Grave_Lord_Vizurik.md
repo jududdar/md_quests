@@ -2,6 +2,11 @@
 
 
 
+[Grave Lord Vizurik](/npc/202311) is a level 61 Iksar GM Shadow Knight that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

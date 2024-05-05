@@ -1,6 +1,11 @@
 # Sera McMannus
 
 
+
+[Sera McMannus](/npc/12095) is a level 25 Barbarian Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
-# Guard G-Noir
+# Guard G\`Noir
+
+
+
+[Guard G\`Noir](/npc/41101) is a level 40 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

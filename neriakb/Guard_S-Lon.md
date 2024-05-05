@@ -1,4 +1,9 @@
-# Guard S-Lon
+# Guard S\`Lon
+
+
+
+[Guard S\`Lon](/npc/41075) is a level 40 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

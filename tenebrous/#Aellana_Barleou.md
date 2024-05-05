@@ -1,6 +1,11 @@
 # Aellana Barleou
 
 
+
+[Aellana Barleou](/npc/172006) is a level 20 Human Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 1 seconds

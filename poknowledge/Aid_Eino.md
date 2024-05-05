@@ -1,6 +1,11 @@
 # Aid Eino
 
 
+
+[Aid Eino](/npc/202122) is a level 60 Human Monk that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 if ( **You possess item:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_971.png" alt="" /> <a

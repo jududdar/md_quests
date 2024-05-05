@@ -1,6 +1,11 @@
 # Junth McMannus
 
 
+
+[Junth McMannus](/npc/12101) is a level 20 Barbarian Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

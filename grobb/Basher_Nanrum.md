@@ -2,6 +2,11 @@
 
 
 
+[Basher Nanrum](/npc/52012) is a level 45 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
+
 
 
 

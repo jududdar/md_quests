@@ -2,6 +2,11 @@
 
 
 
+[Haggle Baron Dalnir](/npc/104075) is a level 40 Iksar Warrior that spawns in [The Crypt of Dalnir](/zone/104).
+
+
+
+
 
 ## Dialog
 

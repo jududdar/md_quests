@@ -2,6 +2,11 @@
 
 
 
+[Joyce](/npc/80035) is a level 36 High Elf Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Muckskimmer
 
 
+
+[Muckskimmer](/npc/841) is a level 50 Launch Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

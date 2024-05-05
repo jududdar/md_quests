@@ -1,4 +1,9 @@
-# Seer Mal Nae-Shi
+# Seer Mal Nae\`Shi
+
+
+
+[Seer Mal Nae\`Shi](/npc/202006) is a level 68 Human Warrior that spawns in [Plane of Knowledge](/zone/202).
+
 
 
 Character flags

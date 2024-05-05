@@ -1,6 +1,11 @@
 # Townsperson Pirions
 
 
+
+[Townsperson Pirions](/npc/150064) is a level 60 Gnome Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

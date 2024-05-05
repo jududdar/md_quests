@@ -1,6 +1,11 @@
 # Corudoth
 
 
+
+[Corudoth](/npc/110037) is a level 5 Sea Turtle Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

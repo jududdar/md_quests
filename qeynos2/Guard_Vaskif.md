@@ -1,6 +1,11 @@
 # Guard Vaskif
 
 
+
+[Guard Vaskif](/npc/2115) is a level 10 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a tempest torn traveler
 
 
+
+[a tempest torn traveler](/npc/210041) is a level 63 Dark Elf Shaman that spawns in [Plane of Storms](/zone/210).
+
+
+
 ## Dialog
 
 **You say:** `hail`

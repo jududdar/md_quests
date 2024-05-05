@@ -1,6 +1,11 @@
 # Scout Ahlikal
 
 
+
+[Scout Ahlikal](/npc/47197) is a level 15 Vah Shir Warrior that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

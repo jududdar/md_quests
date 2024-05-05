@@ -1,6 +1,11 @@
 # Palo Deepcreek
 
 
+
+[Palo Deepcreek](/npc/159020) is a level 44 Half Elf Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

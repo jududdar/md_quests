@@ -1,6 +1,11 @@
 # Dren Ironforge
 
 
+
+[Dren Ironforge](/npc/2070) is a level 11 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

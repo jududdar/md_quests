@@ -2,6 +2,11 @@
 
 
 
+[Korrigain](/npc/116024) is a level 42 Ghost Paladin that spawns in [Eastern Wastes](/zone/116).
+
+
+
+
 
 ## Dialog
 

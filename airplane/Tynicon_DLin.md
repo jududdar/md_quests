@@ -1,6 +1,11 @@
 # Tynicon DLin
 
 
+
+[Tynicon DLin](/npc/71098) is a level 55 Dark Elf Shadow Knight that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

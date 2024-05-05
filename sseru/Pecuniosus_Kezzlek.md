@@ -1,6 +1,11 @@
 # Pecuniosus Kezzlek
 
 
+
+[Pecuniosus Kezzlek](/npc/159367) is a level 66 Halfling GM Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

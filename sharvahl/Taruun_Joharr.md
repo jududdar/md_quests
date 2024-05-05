@@ -2,6 +2,11 @@
 
 
 
+[Taruun Joharr](/npc/155056) is a level 50 Vah Shir Rogue that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 ## Turn-Ins
 
 

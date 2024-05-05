@@ -1,6 +1,11 @@
 # Bren Treeclimber
 
 
+
+[Bren Treeclimber](/npc/3027) is a level 7 Human Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

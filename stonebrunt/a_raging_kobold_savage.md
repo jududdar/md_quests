@@ -1,6 +1,11 @@
 # a raging kobold savage
 
 
+
+[a raging kobold savage](/npc/100049) is a level 19 Kobold Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

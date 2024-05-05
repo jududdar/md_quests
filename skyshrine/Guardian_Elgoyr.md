@@ -1,6 +1,11 @@
 # Guardian Elgoyr
 
 
+
+[Guardian Elgoyr](/npc/114431) is a level 44 Gargoyle Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

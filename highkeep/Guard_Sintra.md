@@ -1,6 +1,11 @@
 # Guard Sintra
 
 
+
+[Guard Sintra](/npc/6121) is a level 28 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

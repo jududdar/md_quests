@@ -2,6 +2,11 @@
 
 
 
+[Gardunk](/npc/52121) is a level 61 Troll GM Beastlord that spawns in [Grobb](/zone/52).
+
+
+
+
 
 ## Turn-Ins
 

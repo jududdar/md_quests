@@ -1,4 +1,9 @@
 # player
+
+
+
+
+
 function event_click_door(e)
 
 local id = e.door:GetDoorID();

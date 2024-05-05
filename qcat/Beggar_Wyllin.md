@@ -1,6 +1,11 @@
 # Beggar Wyllin
 
 
+
+[Beggar Wyllin](/npc/45115) is a level 5 Beggar Rogue that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

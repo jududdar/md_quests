@@ -1,6 +1,11 @@
 # rogue cleaner
 
 
+
+[rogue cleaner](/npc/56104) is a level 2 Rat Warrior that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

@@ -1,6 +1,11 @@
 # Horil Imsin
 
 
+
+[Horil Imsin](/npc/202304) is a level 60 Vah Shir Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

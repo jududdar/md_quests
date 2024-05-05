@@ -1,6 +1,11 @@
 # a defiled bear
 
 
+
+[a defiled bear](/npc/181015) is a level 40 Bear Warrior that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

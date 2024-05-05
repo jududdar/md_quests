@@ -1,6 +1,11 @@
 # Ennixy Frennor
 
 
+
+[Ennixy Frennor](/npc/56131) is a level 50 Gnome Shopkeeper that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 local wait = 0;
 
 

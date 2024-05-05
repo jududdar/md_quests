@@ -1,6 +1,11 @@
 # Gligo Muddypants
 
 
+
+[Gligo Muddypants](/npc/202133) is a level 60 Halfling Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

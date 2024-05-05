@@ -1,6 +1,11 @@
 # Royal Guard Lilkus
 
 
+
+[Royal Guard Lilkus](/npc/75074) is a level 50 Erudite Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

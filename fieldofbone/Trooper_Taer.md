@@ -1,6 +1,11 @@
 # Trooper Taer
 
 
+
+[Trooper Taer](/npc/78020) is a level 50 Iksar Warrior that spawns in [Field of Bone](/zone/78).
+
+
+
 ## Dialog
 
 **You say:** `hail`

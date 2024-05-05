@@ -1,4 +1,9 @@
 # a spiroc revolter
+
+
+
+[a spiroc revolter](/npc/71010) is a level 52 Aviak Ranger that spawns in [Plane of Sky](/zone/71).
+
 local arrive = false;
 
 

@@ -1,6 +1,11 @@
 # Centurion Jelin
 
 
+
+[Centurion Jelin](/npc/159416) is a level 50 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

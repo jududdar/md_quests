@@ -1,6 +1,11 @@
 # A shade golem
 
 
+
+[A shade golem](/npc/179015) is a level 55 Stonegrabber Warrior that spawns in [Akheva Ruins](/zone/179).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 75 seconds

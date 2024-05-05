@@ -1,6 +1,11 @@
 # Jaxxtz
 
 
+
+[Jaxxtz](/npc/82011) is a level 30 Iksar Shopkeeper that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 

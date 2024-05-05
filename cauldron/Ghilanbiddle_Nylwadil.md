@@ -1,6 +1,11 @@
 # Ghilanbiddle Nylwadil
 
 
+
+[Ghilanbiddle Nylwadil](/npc/70007) is a level 20 Gnome Wizard that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then

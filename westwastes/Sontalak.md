@@ -1,6 +1,11 @@
 # Sontalak
 
 
+
+[Sontalak](/npc/120005) is a level 70 Dragon Warrior that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

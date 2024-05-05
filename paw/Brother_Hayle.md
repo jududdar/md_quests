@@ -1,6 +1,11 @@
 # Brother Hayle
 
 
+
+[Brother Hayle](/npc/18071) is a level 24 Human Cleric that spawns in [Lair of the Splitpaw](/zone/18).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Odus Scion
 
 
+
+[Odus Scion](/npc/152003) is a level 50 Erudite Magician that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Naygog Mitope](/npc/55120) is a level 61 Gnome GM Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

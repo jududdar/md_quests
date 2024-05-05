@@ -1,6 +1,11 @@
 # a faun steward
 
 
+
+[a faun steward](/npc/119153) is a level 50 Yakkar Rogue that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

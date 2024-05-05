@@ -1,6 +1,11 @@
 # Prince Thirneg
 
 
+
+[Prince Thirneg](/npc/127096) is a level 65 Yakkar Ranger that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Dialog
 
 **You say:** `hail`

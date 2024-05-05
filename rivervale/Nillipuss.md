@@ -1,4 +1,9 @@
 # Nillipuss
+
+
+
+[Nillipuss](/npc/19015) is a level 15 Brownie Ranger that spawns in [Rivervale](/zone/19).
+
 local count = 0;
 
 

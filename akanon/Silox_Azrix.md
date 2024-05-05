@@ -2,6 +2,11 @@
 
 
 
+[Silox Azrix](/npc/55006) is a level 60 Gnome Cleric that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

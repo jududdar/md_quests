@@ -1,6 +1,11 @@
 # Scout Sihmoj
 
 
+
+[Scout Sihmoj](/npc/96011) is a level 15 Vah Shir Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 5400 seconds

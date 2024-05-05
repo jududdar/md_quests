@@ -1,6 +1,11 @@
 # Windlebeck Tobokog
 
 
+
+[Windlebeck Tobokog](/npc/55025) is a level 35 Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `plague warrior helm`

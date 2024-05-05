@@ -1,6 +1,11 @@
 # Sansa Nusk
 
 
+
+[Sansa Nusk](/npc/1124) is a level 27 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

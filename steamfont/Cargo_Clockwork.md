@@ -1,4 +1,9 @@
 # Cargo Clockwork
+
+
+
+[Cargo Clockwork](/npc/56105) is a level 30 Spider Warrior that spawns in [Steamfont Mountains](/zone/56).
+
 local delivery = 0;
 
 

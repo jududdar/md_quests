@@ -1,6 +1,11 @@
 # Perrir Zexus
 
 
+
+[Perrir Zexus](/npc/42081) is a level 61 Dark Elf GM Cleric that spawns in [Neriak - 3rd Gate](/zone/42).
+
+
+
 ## Dialog
 
 **You say:** `hail`

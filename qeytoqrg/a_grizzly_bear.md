@@ -1,4 +1,9 @@
 # a grizzly bear
+
+
+
+[a grizzly bear](/npc/3030) is a level 9 Bear Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

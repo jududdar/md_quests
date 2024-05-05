@@ -1,6 +1,11 @@
 # gnomish deserter
 
 
+
+[gnomish deserter](/npc/118078) is a level 60 Gnome Rogue that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

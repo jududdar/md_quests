@@ -1,6 +1,11 @@
 # Malka Rale
 
 
+
+[Malka Rale](/npc/45002) is a level 48 Half Elf Rogue that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

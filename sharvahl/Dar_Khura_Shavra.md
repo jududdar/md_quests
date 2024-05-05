@@ -1,6 +1,11 @@
 # Dar Khura Shavra
 
 
+
+[Dar Khura Shavra](/npc/155110) is a level 30 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

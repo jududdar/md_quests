@@ -1,4 +1,9 @@
-# Zakis Var Sl-tad
+# Zakis Var Sl\`tad
+
+
+
+[Zakis Var Sl\`tad](/npc/201340) is a level 44 Iksar Shadow Knight that spawns in [Plane of Justice](/zone/201).
+
 
 
 

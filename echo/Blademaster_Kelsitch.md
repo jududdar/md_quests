@@ -1,6 +1,11 @@
 # Blademaster Kelsitch
 
 
+
+[Blademaster Kelsitch](/npc/153103) is a level 45 Dark Elf Rogue that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

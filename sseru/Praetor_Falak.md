@@ -1,6 +1,11 @@
 # Praetor Falak
 
 
+
+[Praetor Falak](/npc/159307) is a level 62 Barbarian GM Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

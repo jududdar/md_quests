@@ -1,6 +1,11 @@
 # a frost giant berserker
 
 
+
+[a frost giant berserker](/npc/113076) is a level 40 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

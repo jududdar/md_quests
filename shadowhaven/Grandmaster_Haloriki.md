@@ -1,6 +1,11 @@
 # Grandmaster Haloriki
 
 
+
+[Grandmaster Haloriki](/npc/150130) is a level 61 Human GM Monk that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

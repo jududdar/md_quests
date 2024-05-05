@@ -1,6 +1,11 @@
 # Regalt Tripedes
 
 
+
+[Regalt Tripedes](/npc/208068) is a level 66 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

@@ -1,6 +1,11 @@
 # Sentry Vak
 
 
+
+[Sentry Vak](/npc/159024) is a level 52 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

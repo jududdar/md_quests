@@ -1,6 +1,11 @@
 # Hasten Bootstrutter
 
 
+
+[Hasten Bootstrutter](/npc/50320) is a level 40 Gnome Rogue that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

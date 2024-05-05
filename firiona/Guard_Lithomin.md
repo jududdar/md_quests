@@ -1,6 +1,11 @@
 # Guard Lithomin
 
 
+
+[Guard Lithomin](/npc/84147) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

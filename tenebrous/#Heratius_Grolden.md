@@ -1,6 +1,11 @@
 # Heratius Grolden
 
 
+
+[Heratius Grolden](/npc/172013) is a level 58 Vampire Shadow Knight that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

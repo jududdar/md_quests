@@ -1,6 +1,11 @@
 # Deputy Tizzin
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

@@ -1,6 +1,11 @@
 # Scout Sihmoj
 
 
+
+[Scout Sihmoj](/npc/96000) is a level 15 Vah Shir Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## Dialog
 
 **You say:** `hail`

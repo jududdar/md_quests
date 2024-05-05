@@ -1,6 +1,11 @@
 # Lieutenant Krofer
 
 
+
+[Lieutenant Krofer](/npc/119030) is a level 47 Giant Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1200 seconds

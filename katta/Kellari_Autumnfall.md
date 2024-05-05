@@ -1,6 +1,11 @@
 # Kellari Autumnfall
 
 
+
+[Kellari Autumnfall](/npc/160190) is a level 61 High Elf GM Enchanter that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

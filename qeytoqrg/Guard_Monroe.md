@@ -1,6 +1,11 @@
 # Guard Monroe
 
 
+
+[Guard Monroe](/npc/4068) is a level 27 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `blackburrow`

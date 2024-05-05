@@ -1,6 +1,11 @@
 # Peacekeeper Deralokor
 
 
+
+[Peacekeeper Deralokor](/npc/150058) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

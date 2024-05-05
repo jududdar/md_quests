@@ -1,4 +1,9 @@
-# Ambassador K-Ryn
+# Ambassador K\`Ryn
+
+
+
+[Ambassador K\`Ryn](/npc/49092) is a level 24 Dark Elf Warrior that spawns in [Oggok](/zone/49).
+
 
 
 ## Dialog

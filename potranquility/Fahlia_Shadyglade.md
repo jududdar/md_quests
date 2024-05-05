@@ -1,4 +1,9 @@
 # Fahlia Shadyglade
+
+
+
+[Fahlia Shadyglade](/npc/203372) is a level 55 Half Elf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
 local REFUSE_TXT = "Fahlia Shadyglade tells you, 'I can see that you may be passionate to help others but now I must ask you to be about your own business. I sense that if you were to try to help you may befall the same fate as poor Tylis.  Perhaps you should become more experienced in traveling through the planes before you learn more of his condition.'";
 
 

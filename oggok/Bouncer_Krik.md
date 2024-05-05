@@ -1,6 +1,11 @@
 # Bouncer Krik
 
 
+
+[Bouncer Krik](/npc/49050) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

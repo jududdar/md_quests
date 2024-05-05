@@ -1,6 +1,11 @@
 # Guard Valewatcher
 
 
+
+[Guard Valewatcher](/npc/54243) is a level 38 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `soldiers`

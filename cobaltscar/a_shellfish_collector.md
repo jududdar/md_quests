@@ -1,6 +1,11 @@
 # a shellfish collector
 
 
+
+[a shellfish collector](/npc/117061) is a level 35 Othmir Warrior that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

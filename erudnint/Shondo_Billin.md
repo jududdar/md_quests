@@ -2,6 +2,11 @@
 
 
 
+[Shondo Billin](/npc/23021) is a level 11 Gnome Warrior that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 ## Dialog
 

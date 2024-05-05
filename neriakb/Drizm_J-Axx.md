@@ -1,4 +1,9 @@
-# Drizm J-Axx
+# Drizm J\`Axx
+
+
+
+[Drizm J\`Axx](/npc/41049) is a level 61 Dark Elf GM Enchanter that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

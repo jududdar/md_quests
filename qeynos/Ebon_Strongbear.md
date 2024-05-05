@@ -1,6 +1,11 @@
 # Ebon Strongbear
 
 
+
+[Ebon Strongbear](/npc/1130) is a level 61 Human GM Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -1,6 +1,11 @@
 # Elisabeth
 
 
+
+[Elisabeth](/npc/50233) is a level 20 Half Elf Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

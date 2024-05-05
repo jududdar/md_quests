@@ -1,6 +1,11 @@
 # Ganelorn Oast
 
 
+
+[Ganelorn Oast](/npc/15056) is a level 50 Wood Elf Ranger that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Dialog
 
 **You say:** `hail`

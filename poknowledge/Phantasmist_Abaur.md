@@ -2,6 +2,11 @@
 
 
 
+[Phantasmist Abaur](/npc/202242) is a level 61 Human GM Enchanter that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

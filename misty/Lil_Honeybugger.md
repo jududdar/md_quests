@@ -1,6 +1,11 @@
 # Lil Honeybugger
 
 
+
+[Lil Honeybugger](/npc/33129) is a level 1 Halfling Druid that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

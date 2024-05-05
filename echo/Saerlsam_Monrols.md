@@ -1,6 +1,11 @@
 # Saerlsam Monrols
 
 
+
+[Saerlsam Monrols](/npc/153086) is a level 55 Human Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

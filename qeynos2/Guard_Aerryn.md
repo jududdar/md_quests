@@ -1,6 +1,11 @@
 # Guard Aerryn
 
 
+
+[Guard Aerryn](/npc/2121) is a level 5 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 18) then

@@ -1,6 +1,11 @@
 # Sentinel Hylin
 
 
+
+[Sentinel Hylin](/npc/23023) is a level 30 Erudite Paladin that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `kerra isle`

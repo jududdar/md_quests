@@ -1,6 +1,11 @@
 # Sentry Xyrin
 
 
+
+[Sentry Xyrin](/npc/69132) is a level 19 Human Paladin that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

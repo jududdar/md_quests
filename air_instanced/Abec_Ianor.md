@@ -1,6 +1,11 @@
 # Abec Ianor
 
 
+
+[Abec Ianor](/npc/71079) is a level 55 Dark Elf Wizard that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

@@ -1,6 +1,11 @@
 # Basher Avisk
 
 
+
+[Basher Avisk](/npc/52002) is a level 38 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `hail`

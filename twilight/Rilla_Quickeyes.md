@@ -1,6 +1,11 @@
 # Rilla Quickeyes
 
 
+
+[Rilla Quickeyes](/npc/170142) is a level 40 Wood Elf Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

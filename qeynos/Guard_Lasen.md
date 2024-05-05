@@ -1,6 +1,11 @@
 # Guard Lasen
 
 
+
+[Guard Lasen](/npc/1150) is a level 10 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

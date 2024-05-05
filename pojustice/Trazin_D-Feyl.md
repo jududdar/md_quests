@@ -1,4 +1,9 @@
-# Trazin D-Feyl
+# Trazin D\`Feyl
+
+
+
+[Trazin D\`Feyl](/npc/201196) is a level 42 Dark Elf Shadow Knight that spawns in [Plane of Justice](/zone/201).
+
 
 
 

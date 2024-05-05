@@ -1,6 +1,11 @@
 # Tarn Visilin
 
 
+
+[Tarn Visilin](/npc/6061) is a level 45 Erudite Shopkeeper that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

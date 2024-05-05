@@ -1,6 +1,11 @@
 # Derena Leflor
 
 
+
+[Derena Leflor](/npc/75039) is a level 11 Erudite Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 14) then

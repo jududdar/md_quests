@@ -1,4 +1,9 @@
-# Ulazia W-Selo
+# Ulazia W\`Selo
+
+
+
+[Ulazia W\`Selo](/npc/42080) is a level 61 Dark Elf GM Cleric that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

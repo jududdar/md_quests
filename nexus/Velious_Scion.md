@@ -1,6 +1,11 @@
 # Velious Scion
 
 
+
+[Velious Scion](/npc/152018) is a level 50 Erudite Wizard that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `hail`

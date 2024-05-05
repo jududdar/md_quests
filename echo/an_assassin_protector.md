@@ -1,6 +1,11 @@
 # an assassin protector
 
 
+
+[an assassin protector](/npc/153094) is a level 51 Human Shadow Knight that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

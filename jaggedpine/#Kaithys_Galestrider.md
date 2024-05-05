@@ -2,6 +2,11 @@
 
 
 
+[Kaithys Galestrider](/npc/181205) is a level 65 Half Elf Warrior that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 
 ## Dialog

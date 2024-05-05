@@ -1,6 +1,11 @@
 # Optio Gildan
 
 
+
+[Optio Gildan](/npc/159300) is a level 52 Human Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

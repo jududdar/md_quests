@@ -2,6 +2,11 @@
 
 
 
+[Agrakath Theric](/npc/202058) is a level 60 Erudite Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Bronto Thudfoot
 
 
+
+[Bronto Thudfoot](/npc/10135) is a level 30 Ogre Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

@@ -1,6 +1,11 @@
 # Xavier Sendorn
 
 
+
+[Xavier Sendorn](/npc/170145) is a level 40 Human Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

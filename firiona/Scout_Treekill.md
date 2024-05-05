@@ -1,6 +1,11 @@
 # Scout Treekill
 
 
+
+[Scout Treekill](/npc/84134) is a level 45 Wood Elf Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

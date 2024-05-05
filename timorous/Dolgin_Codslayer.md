@@ -1,6 +1,11 @@
 # Dolgin Codslayer
 
 
+
+[Dolgin Codslayer](/npc/96018) is a level 10 Dwarf Paladin that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## Dialog
 
 **You say:** `hail`

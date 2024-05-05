@@ -1,6 +1,11 @@
 # Gandari
 
 
+
+[Gandari](/npc/20085) is a level 35 Human Ranger that spawns in [Kithicor Forest](/zone/20).
+
+
+
 ## Dialog
 
 **You say:** `hail`

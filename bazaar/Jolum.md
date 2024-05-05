@@ -1,6 +1,11 @@
 # Jolum
 
 
+
+[Jolum](/npc/151252) is a level 60 Gnome Shopkeeper that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `hail`

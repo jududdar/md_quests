@@ -1,4 +1,9 @@
 # a fire beetle
+
+
+
+[a fire beetle](/npc/2024) is a level 2 Beetle Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

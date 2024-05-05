@@ -2,6 +2,11 @@
 
 
 
+[Ssessthrass](/npc/83074) is a level 55 Iksar Shadow Knight that spawns in [Swamp of No Hope](/zone/83).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

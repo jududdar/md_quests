@@ -1,4 +1,9 @@
-# Dom K-Perl
+# Dom K\`Perl
+
+
+
+[Dom K\`Perl](/npc/93148) is a level 30 Dark Elf Shopkeeper that spawns in [The Overthere](/zone/93).
+
 
 
 ## Dialog

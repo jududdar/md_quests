@@ -1,6 +1,11 @@
 # Librarian Kesler
 
 
+
+[Librarian Kesler](/npc/75076) is a level 50 Erudite Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Jras Solsier
 
 
+
+[Jras Solsier](/npc/24043) is a level 61 Erudite GM Paladin that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

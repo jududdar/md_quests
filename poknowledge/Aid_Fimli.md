@@ -2,6 +2,11 @@
 
 
 
+[Aid Fimli](/npc/202123) is a level 60 Gnome Wizard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

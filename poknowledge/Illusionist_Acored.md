@@ -1,6 +1,11 @@
 # Illusionist Acored
 
 
+
+[Illusionist Acored](/npc/202211) is a level 60 Drixie Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

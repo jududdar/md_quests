@@ -1,4 +1,9 @@
 # Galremos
+
+
+
+[Galremos](/npc/212033) is a level 63 Golem Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
 function SpawnMagmite(x, y, z, num)
 
 for i = 1, num do

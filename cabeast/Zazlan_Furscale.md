@@ -1,6 +1,11 @@
 # Zazlan Furscale
 
 
+
+[Zazlan Furscale](/npc/106013) is a level 50 Iksar Shaman that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Tral Paltora
 
 
+
+[Tral Paltora](/npc/159684) is a level 44 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

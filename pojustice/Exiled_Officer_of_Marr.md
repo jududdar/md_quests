@@ -1,6 +1,11 @@
 # Exiled Officer of Marr
 
 
+
+[Exiled Officer of Marr](/npc/201441) is a level 45 Shade Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

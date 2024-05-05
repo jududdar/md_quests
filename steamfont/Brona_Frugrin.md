@@ -2,6 +2,11 @@
 
 
 
+[Brona Frugrin](/npc/56114) is a level 35 Gnome Enchanter that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 ## Dialog
 

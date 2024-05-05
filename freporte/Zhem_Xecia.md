@@ -1,6 +1,11 @@
 # Zhem Xecia
 
 
+
+[Zhem Xecia](/npc/10095) is a level 61 Human GM Cleric that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

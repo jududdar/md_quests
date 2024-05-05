@@ -1,6 +1,11 @@
 # Clockwork XIXA
 
 
+
+[Clockwork XIXA](/npc/55172) is a level 19 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

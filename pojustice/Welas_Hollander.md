@@ -2,6 +2,11 @@
 
 
 
+[Welas Hollander](/npc/201326) is a level 46 Ghost Paladin that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

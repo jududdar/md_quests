@@ -1,6 +1,11 @@
 # Charlotte
 
 
+
+[Charlotte](/npc/56108) is a level 35 Spider Warrior that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

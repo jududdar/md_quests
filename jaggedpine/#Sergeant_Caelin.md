@@ -2,6 +2,11 @@
 
 
 
+[Sergeant Caelin](/npc/181206) is a level 32 Human Paladin that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Siltan Starfollower
 
 
+
+[Siltan Starfollower](/npc/159441) is a level 38 Halfling Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

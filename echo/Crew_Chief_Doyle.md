@@ -1,6 +1,11 @@
 # Crew Chief Doyle
 
 
+
+[Crew Chief Doyle](/npc/153061) is a level 35 Dwarf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

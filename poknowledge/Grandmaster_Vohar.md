@@ -2,6 +2,11 @@
 
 
 
+[Grandmaster Vohar](/npc/202263) is a level 61 Iksar GM Monk that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

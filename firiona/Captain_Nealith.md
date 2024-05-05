@@ -1,6 +1,11 @@
 # Captain Nealith
 
 
+
+[Captain Nealith](/npc/84157) is a level 61 Wood Elf GM Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

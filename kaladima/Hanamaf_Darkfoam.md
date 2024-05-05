@@ -1,6 +1,11 @@
 # Hanamaf Darkfoam
 
 
+
+[Hanamaf Darkfoam](/npc/60075) is a level 42 Dwarf Shopkeeper that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

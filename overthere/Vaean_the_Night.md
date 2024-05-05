@@ -2,6 +2,11 @@
 
 
 
+[Vaean the Night](/npc/93113) is a level 49 Dark Elf Necromancer that spawns in [The Overthere](/zone/93).
+
+
+
+
 
 ## Dialog
 

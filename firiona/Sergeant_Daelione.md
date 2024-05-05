@@ -1,6 +1,11 @@
 # Sergeant Daelione
 
 
+
+[Sergeant Daelione](/npc/84008) is a level 26 High Elf Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 16) then

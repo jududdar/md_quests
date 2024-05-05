@@ -1,6 +1,11 @@
 # Kane Bayle
 
 
+
+[Kane Bayle](/npc/2006) is a level 61 Human GM Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Giang Yin](/npc/100007) is a level 44 Ulthork Ranger that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
+
 
 ## Dialog
 

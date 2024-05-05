@@ -1,6 +1,11 @@
 # Guard Treitan
 
 
+
+[Guard Treitan](/npc/2110) is a level 35 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

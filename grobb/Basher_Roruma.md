@@ -1,6 +1,11 @@
 # Basher Roruma
 
 
+
+[Basher Roruma](/npc/52015) is a level 37 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

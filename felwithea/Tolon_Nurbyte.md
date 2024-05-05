@@ -1,6 +1,11 @@
 # Tolon Nurbyte
 
 
+
+[Tolon Nurbyte](/npc/61095) is a level 38 High Elf Warrior that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *visit* for 150 seconds

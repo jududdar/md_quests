@@ -1,6 +1,11 @@
 # Guard Andile
 
 
+
+[Guard Andile](/npc/84152) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

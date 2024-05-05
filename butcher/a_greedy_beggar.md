@@ -1,4 +1,9 @@
 # a greedy beggar
+
+
+
+[a greedy beggar](/npc/68006) is a level 1 Halfling Rogue that spawns in [Butcherblock Mountains](/zone/68).
+
 local followtarget;
 local skip;
 

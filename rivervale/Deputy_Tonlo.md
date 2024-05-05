@@ -1,6 +1,11 @@
 # Deputy Tonlo
 
 
+
+[Deputy Tonlo](/npc/19110) is a level 19 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

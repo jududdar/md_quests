@@ -1,6 +1,11 @@
 # a coerced smith
 
 
+
+[a coerced smith](/npc/104011) is a level 27 Iksar Warrior that spawns in [The Crypt of Dalnir](/zone/104).
+
+
+
 ## Dialog
 
 **You say:** `hail`

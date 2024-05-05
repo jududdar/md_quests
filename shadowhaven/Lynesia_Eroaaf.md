@@ -1,6 +1,11 @@
 # Lynesia Eroaaf
 
 
+
+[Lynesia Eroaaf](/npc/150092) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

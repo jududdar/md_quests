@@ -1,4 +1,9 @@
 # a Sage of Innoruuk
+
+
+
+[a Sage of Innoruuk](/npc/76346) is a level 53 Dark Elf Wizard that spawns in [Plane of Hate (Instanced)](/zone/1076).
+
 function event_signal(event)
 
 

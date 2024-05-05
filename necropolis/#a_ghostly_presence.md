@@ -1,6 +1,11 @@
 # a ghostly presence
 
 
+
+[a ghostly presence](/npc/123000) is a level 1 Invisible Man Warrior that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

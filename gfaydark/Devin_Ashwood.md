@@ -1,6 +1,11 @@
 # Devin Ashwood
 
 
+
+[Devin Ashwood](/npc/54085) is a level 10 Wood Elf Ranger that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

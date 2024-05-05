@@ -2,6 +2,11 @@
 
 
 
+[Watchman Dexlin](/npc/13112) is a level 35 Gnome Warrior that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

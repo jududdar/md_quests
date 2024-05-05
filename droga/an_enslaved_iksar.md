@@ -2,6 +2,11 @@
 
 
 
+[an enslaved iksar](/npc/81008) is a level 30 Iksar Warrior that spawns in [Mines of Droga](/zone/81).
+
+
+
+
 
 ## Dialog
 

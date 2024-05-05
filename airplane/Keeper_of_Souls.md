@@ -2,6 +2,11 @@
 
 
 
+[Keeper of Souls](/npc/71075) is a level 60 Pegasus Warrior that spawns in [Plane of Sky](/zone/71).
+
+
+
+
 
 ## On NPC Death
 

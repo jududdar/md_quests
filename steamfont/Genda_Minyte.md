@@ -1,6 +1,11 @@
 # Genda Minyte
 
 
+
+[Genda Minyte](/npc/56134) is a level 2 Gnome Warrior that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

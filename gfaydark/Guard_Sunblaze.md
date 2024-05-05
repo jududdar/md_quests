@@ -1,6 +1,11 @@
 # Guard Sunblaze
 
 
+
+[Guard Sunblaze](/npc/54220) is a level 38 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `soldiers`

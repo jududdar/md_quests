@@ -1,6 +1,11 @@
 # Rinturion Windblade
 
 
+
+[Rinturion Windblade](/npc/215034) is a level 70 Efreeti Warrior that spawns in [Plane of Air](/zone/215).
+
+
+
 ## Combat
 
 if  Rinturion Windblade enters combat  then

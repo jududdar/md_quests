@@ -1,6 +1,11 @@
 # Shenro Kazpur
 
 
+
+[Shenro Kazpur](/npc/2076) is a level 27 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

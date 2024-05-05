@@ -1,6 +1,11 @@
 # Thecia Sulter
 
 
+
+[Thecia Sulter](/npc/159410) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

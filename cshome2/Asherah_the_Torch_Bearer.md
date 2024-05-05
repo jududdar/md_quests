@@ -1,6 +1,11 @@
 # Asherah the Torch Bearer
 
 
+
+[Asherah the Torch Bearer](/npc/26029) is a level 50 Barbarian Warrior that spawns in [Sunset Home](/zone/1503).
+
+
+
 ## Dialog
 
 **You say:** `hail`

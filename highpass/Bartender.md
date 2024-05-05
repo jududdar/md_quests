@@ -1,6 +1,11 @@
 # Bartender
 
 
+
+[Bartender](/npc/5069) is a level 45 Human Shopkeeper that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,6 +1,11 @@
 # a molded skeleton
 
 
+
+[a molded skeleton](/npc/160095) is a level 38 Skeleton Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

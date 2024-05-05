@@ -1,6 +1,11 @@
 # Kinloc Flamepaw
 
 
+
+[Kinloc Flamepaw](/npc/1122) is a level 61 Human GM Magician that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Turn-Ins
 
 

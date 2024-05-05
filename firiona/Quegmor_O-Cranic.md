@@ -1,4 +1,9 @@
-# Quegmor O-Cranic
+# Quegmor O\`Cranic
+
+
+
+[Quegmor O\`Cranic](/npc/84202) is a level 61 Barbarian GM Beastlord that spawns in [Firiona Vie](/zone/84).
+
 
 
 ## Dialog

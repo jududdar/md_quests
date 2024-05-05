@@ -1,6 +1,11 @@
 # Driana Poxsbourne
 
 
+
+[Driana Poxsbourne](/npc/9013) is a level 25 Human Necromancer that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 >**Driana Poxsbourne says:** Leave before I call the guard. Don't come back, " .. e.other:Race() .. ".

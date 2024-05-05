@@ -1,6 +1,11 @@
 # Grand Historian Thoridain
 
 
+
+[Grand Historian Thoridain](/npc/115135) is a level 65 Coldain Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

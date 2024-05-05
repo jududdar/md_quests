@@ -2,6 +2,11 @@
 
 
 
+[Nadia Starfeast](/npc/84116) is a level 55 High Elf Enchanter that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

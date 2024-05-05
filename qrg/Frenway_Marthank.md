@@ -1,6 +1,11 @@
 # Frenway Marthank
 
 
+
+[Frenway Marthank](/npc/3021) is a level 31 Human Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

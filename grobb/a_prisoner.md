@@ -1,6 +1,11 @@
 # a prisoner
 
 
+
+[a prisoner](/npc/6053) is a level 8 Beggar Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `hail`

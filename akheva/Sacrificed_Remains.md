@@ -1,6 +1,11 @@
 # Sacrificed Remains
 
 
+
+[Sacrificed Remains](/npc/179025) is a level 1 Tegi Warrior that spawns in [Akheva Ruins](/zone/179).
+
+
+
 ## On NPC Death
 
 if(math.random(1,100) <= 10) then 

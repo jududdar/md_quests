@@ -1,4 +1,9 @@
-# Krystiana N-Ryt
+# Krystiana N\`Ryt
+
+
+
+[Krystiana N\`Ryt](/npc/42087) is a level 45 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

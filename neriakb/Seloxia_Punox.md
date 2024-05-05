@@ -1,6 +1,11 @@
 # Seloxia Punox
 
 
+
+[Seloxia Punox](/npc/41066) is a level 61 Dark Elf GM Warrior that spawns in [Neriak - Commons](/zone/41).
+
+
+
 ## Dialog
 
 **You say:** `hail`

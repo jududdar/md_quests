@@ -1,6 +1,11 @@
 # Aliia Tal Almad
 
 
+
+[Aliia Tal Almad](/npc/203424) is a level 46 Erudite Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

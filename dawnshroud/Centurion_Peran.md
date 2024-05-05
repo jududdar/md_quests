@@ -1,6 +1,11 @@
 # Centurion Peran
 
 
+
+[Centurion Peran](/npc/174060) is a level 20 Half Elf Paladin that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

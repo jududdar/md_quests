@@ -1,6 +1,11 @@
 # Agryn Moonfield
 
 
+
+[Agryn Moonfield](/npc/23065) is a level 30 Erudite Shopkeeper that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `hail`

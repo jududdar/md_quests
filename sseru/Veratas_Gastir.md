@@ -1,6 +1,11 @@
 # Veratas Gastir
 
 
+
+[Veratas Gastir](/npc/159372) is a level 61 Erudite GM Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

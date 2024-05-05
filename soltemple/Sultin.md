@@ -2,6 +2,11 @@
 
 
 
+[Sultin](/npc/80025) is a level 35 Dark Elf Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

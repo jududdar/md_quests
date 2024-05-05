@@ -1,6 +1,11 @@
 # Liteema Agner
 
 
+
+[Liteema Agner](/npc/170140) is a level 40 Halfling Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

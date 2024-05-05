@@ -1,6 +1,11 @@
 # Skalopar
 
 
+
+[Skalopar](/npc/150122) is a level 55 Human Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

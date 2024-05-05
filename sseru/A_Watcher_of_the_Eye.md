@@ -1,6 +1,11 @@
 # A Watcher of the Eye
 
 
+
+[A Watcher of the Eye](/npc/159532) is a level 39 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

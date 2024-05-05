@@ -1,6 +1,11 @@
 # Zaen Kalystir
 
 
+
+[Zaen Kalystir](/npc/45068) is a level 61 Human GM Shadow Knight that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

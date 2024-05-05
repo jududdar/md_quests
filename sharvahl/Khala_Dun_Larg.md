@@ -1,6 +1,11 @@
 # Khala Dun Larg
 
 
+
+[Khala Dun Larg](/npc/155300) is a level 52 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

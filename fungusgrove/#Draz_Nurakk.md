@@ -1,6 +1,11 @@
 # Draz Nurakk
 
 
+
+[Draz Nurakk](/npc/157009) is a level 55 Iksar Beastlord that spawns in [The Fungus Grove](/zone/157).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

@@ -1,6 +1,11 @@
 # LuSun
 
 
+
+[LuSun](/npc/2077) is a level 61 Human GM Monk that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

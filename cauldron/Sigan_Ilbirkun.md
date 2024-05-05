@@ -1,6 +1,11 @@
 # Sigan Ilbirkun
 
 
+
+[Sigan Ilbirkun](/npc/70008) is a level 20 Dwarf Warrior that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then

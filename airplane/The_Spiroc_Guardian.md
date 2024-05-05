@@ -1,6 +1,11 @@
 # The Spiroc Guardian
 
 
+
+[The Spiroc Guardian](/npc/71013) is a level 60 Aviak Druid that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Death
 
 **Signaled to:**  [a spiroc walker](/npc/71014)

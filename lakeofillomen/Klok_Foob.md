@@ -1,6 +1,11 @@
 # Klok Foob
 
 
+
+[Klok Foob](/npc/85141) is a level 30 Iksar Shopkeeper that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Lozani
 
 
+
+[Lozani](/npc/6029) is a level 30 Gnome Wizard that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

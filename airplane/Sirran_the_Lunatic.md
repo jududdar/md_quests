@@ -1,6 +1,11 @@
 # Sirran the Lunatic
 
 
+
+[Sirran the Lunatic](/npc/71058) is a level 55 Halfling Warrior that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *bye* for 1200 seconds

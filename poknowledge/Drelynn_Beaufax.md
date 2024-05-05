@@ -2,6 +2,11 @@
 
 
 
+[Drelynn Beaufax](/npc/202018) is a level 60 Gnome Enchanter that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

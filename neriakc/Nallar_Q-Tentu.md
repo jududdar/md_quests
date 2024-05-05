@@ -1,4 +1,9 @@
-# Nallar Q-Tentu
+# Nallar Q\`Tentu
+
+
+
+[Nallar Q\`Tentu](/npc/42058) is a level 42 Dark Elf Necromancer that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

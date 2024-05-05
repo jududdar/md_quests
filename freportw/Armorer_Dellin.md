@@ -1,6 +1,11 @@
 # Armorer Dellin
 
 
+
+[Armorer Dellin](/npc/9007) is a level 40 Guard Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Danaria Hollin
 
 
+
+[Danaria Hollin](/npc/1066) is a level 20 Erudite Enchanter that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 5) then

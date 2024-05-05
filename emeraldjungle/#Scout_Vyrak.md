@@ -1,6 +1,11 @@
 # Scout Vyrak
 
 
+
+[Scout Vyrak](/npc/94015) is a level 15 Vah Shir Warrior that spawns in [The Emerald Jungle](/zone/94).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

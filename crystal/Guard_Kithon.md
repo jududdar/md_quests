@@ -1,6 +1,11 @@
 # Guard Kithon
 
 
+
+[Guard Kithon](/npc/121030) is a level 35 Coldain Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

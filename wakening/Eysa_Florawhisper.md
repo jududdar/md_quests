@@ -1,6 +1,11 @@
 # Eysa Florawhisper
 
 
+
+[Eysa Florawhisper](/npc/119081) is a level 48 Brownie Enchanter that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

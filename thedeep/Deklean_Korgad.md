@@ -1,6 +1,11 @@
 # Deklean Korgad
 
 
+
+[Deklean Korgad](/npc/164082) is a level 66 Recuso Warrior that spawns in [The Deep](/zone/164).
+
+
+
 ## Dialog
 
 **You say:** `hail`

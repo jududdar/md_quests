@@ -1,6 +1,11 @@
 # Guard Quexill
 
 
+
+[Guard Quexill](/npc/40047) is a level 35 Dark Elf Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

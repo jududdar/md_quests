@@ -1,6 +1,11 @@
 # Animist Poren
 
 
+
+[Animist Poren](/npc/155066) is a level 61 Vah Shir GM Beastlord that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

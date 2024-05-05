@@ -1,6 +1,11 @@
 # Scout Bowfist
 
 
+
+[Scout Bowfist](/npc/84131) is a level 45 Wood Elf Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 8) then

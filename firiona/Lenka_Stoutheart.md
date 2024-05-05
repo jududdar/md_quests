@@ -1,6 +1,11 @@
 # Lenka Stoutheart
 
 
+
+[Lenka Stoutheart](/npc/10136) is a level 35 Barbarian Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

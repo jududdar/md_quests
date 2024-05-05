@@ -1,6 +1,11 @@
 # Scout Rahjiq
 
 
+
+[Scout Rahjiq](/npc/57112) is a level 15 Vah Shir Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `hail`

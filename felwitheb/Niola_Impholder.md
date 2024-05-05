@@ -1,6 +1,11 @@
 # Niola Impholder
 
 
+
+[Niola Impholder](/npc/62021) is a level 61 High Elf GM Magician that spawns in [Southern Felwithe](/zone/62).
+
+
+
 ## Dialog
 
 **You say:** `hail`

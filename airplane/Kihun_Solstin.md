@@ -1,6 +1,11 @@
 # Kihun Solstin
 
 
+
+[Kihun Solstin](/npc/71055) is a level 61 Human Magician that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## Dialog
 
 **You say:** `hail`

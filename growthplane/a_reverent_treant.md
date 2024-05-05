@@ -1,6 +1,11 @@
 # a reverent treant
 
 
+
+[a reverent treant](/npc/127013) is a level 56 Treant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *hum* for 30 seconds

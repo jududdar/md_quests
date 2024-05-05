@@ -1,6 +1,11 @@
 # Carprin Deatharn
 
 
+
+[Carprin Deatharn](/npc/200232) is a level 70 Knight of Pestilence Warrior that spawns in [The Crypt of Decay](/zone/200).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 12300 seconds

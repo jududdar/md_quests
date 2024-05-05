@@ -1,6 +1,11 @@
 # Keeshla Levlora
 
 
+
+[Keeshla Levlora](/npc/75044) is a level 14 Erudite Necromancer that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

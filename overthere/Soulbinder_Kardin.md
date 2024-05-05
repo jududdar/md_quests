@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Kardin](/npc/93156) is a level 1 Dark Elf Warrior that spawns in [The Overthere](/zone/93).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,4 +1,9 @@
 # Hoober
+
+
+
+[Hoober](/npc/172012) is a level 1 Human Shopkeeper that spawns in [The Tenebrous Mountains](/zone/172).
+
 local elixer = 0;
 
 

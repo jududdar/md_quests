@@ -1,6 +1,11 @@
 # Nolusia Finharn
 
 
+
+[Nolusia Finharn](/npc/23000) is a level 61 Erudite GM Enchanter that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

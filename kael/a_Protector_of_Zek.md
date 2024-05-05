@@ -1,6 +1,11 @@
 # a Protector of Zek
 
 
+
+[a Protector of Zek](/npc/113107) is a level 56 Giant Cleric that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

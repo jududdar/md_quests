@@ -1,6 +1,11 @@
 # A shadow reaver
 
 
+
+[A shadow reaver](/npc/179346) is a level 53 Shade Warrior that spawns in [Akheva Ruins](/zone/179).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 75 seconds

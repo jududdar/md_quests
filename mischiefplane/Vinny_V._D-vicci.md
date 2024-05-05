@@ -1,4 +1,9 @@
-# Vinny V. D-vicci
+# Vinny V. D\`vicci
+
+
+
+[Vinny V. D\`vicci](/npc/126277) is a level 49 Halfling Warrior that spawns in [Plane of Mischief](/zone/126).
+
 
 
 ## On NPC Spawn

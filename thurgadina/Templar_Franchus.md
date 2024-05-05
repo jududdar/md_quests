@@ -2,6 +2,11 @@
 
 
 
+[Templar Franchus](/npc/115204) is a level 40 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## On NPC Spawn
 

@@ -2,6 +2,11 @@
 
 
 
+[Fjloaren Icebane](/npc/116069) is a level 37 Giant Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Shara Aristos
 
 
+
+[Shara Aristos](/npc/160147) is a level 61 Human GM Bard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

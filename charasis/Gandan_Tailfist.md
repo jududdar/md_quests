@@ -2,6 +2,11 @@
 
 
 
+[Gandan Tailfist](/npc/105154) is a level 52 Iksar Monk that spawns in [The Howling Stones](/zone/105).
+
+
+
+
 
 ## Dialog
 

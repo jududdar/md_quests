@@ -2,6 +2,11 @@
 
 
 
+[a lesser spirit](/npc/50306) is a level 1 Wolf Shaman that spawns in [Ocean of Tears](/zone/69).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

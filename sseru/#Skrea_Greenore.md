@@ -1,6 +1,11 @@
 # Skrea Greenore
 
 
+
+[Skrea Greenore](/npc/159614) is a level 46 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

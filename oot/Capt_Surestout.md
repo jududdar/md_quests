@@ -2,6 +2,11 @@
 
 
 
+[Capt Surestout](/npc/69130) is a level 18 Halfling Rogue that spawns in [Ocean of Tears](/zone/69).
+
+
+
+
 
 ## On NPC Death
 

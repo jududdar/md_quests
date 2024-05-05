@@ -1,4 +1,9 @@
 # Aid Eino
+
+
+
+[Aid Eino](/npc/202122) is a level 60 Human Monk that spawns in [Plane of Nightmares](/zone/204).
+
 local BANSHEE_TYPE = 204015; 
 local NIGHTSTALKER_TYPE = 204019; 
 local HOBGOBLIN_TYPE = 204011; 

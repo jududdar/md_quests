@@ -1,6 +1,11 @@
 # Ginleen Harltop
 
 
+
+[Ginleen Harltop](/npc/1136) is a level 61 Human GM Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

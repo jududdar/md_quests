@@ -1,6 +1,11 @@
 # Grevak
 
 
+
+[Grevak](/npc/49037) is a level 61 Ogre GM Shadow Knight that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

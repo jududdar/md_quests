@@ -1,6 +1,11 @@
 # Merchant Dominik
 
 
+
+[Merchant Dominik](/npc/6050) is a level 40 Human Shopkeeper that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `mistress anna`

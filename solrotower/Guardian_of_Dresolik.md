@@ -1,4 +1,9 @@
 # Guardian of Dresolik
+
+
+
+[Guardian of Dresolik](/npc/212046) is a level 68 Giant Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
 local GUARDIAN_SPAWNIDS = { 367793, 367794, 367795, 367796 };
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Shamus Felligan](/npc/29060) is a level 61 Barbarian GM Shaman that spawns in [Halas](/zone/29).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

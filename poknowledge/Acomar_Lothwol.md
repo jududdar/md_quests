@@ -2,6 +2,11 @@
 
 
 
+[Acomar Lothwol](/npc/202040) is a level 60 Human Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

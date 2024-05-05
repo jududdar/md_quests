@@ -1,6 +1,11 @@
 # Sragg Bloodheart
 
 
+
+[Sragg Bloodheart](/npc/45091) is a level 61 Human GM Shadow Knight that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Signals
 
 >**Sragg Bloodheart says:** I will hear no more excuses, Tovax!  Enjoy eternal pain and suffering!

@@ -1,6 +1,11 @@
 # Armsman Khaigesh
 
 
+
+[Armsman Khaigesh](/npc/155058) is a level 60 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `lesson`

@@ -1,6 +1,11 @@
 # Pardak
 
 
+
+[Pardak](/npc/155189) is a level 10 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

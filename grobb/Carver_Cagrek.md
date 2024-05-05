@@ -2,6 +2,11 @@
 
 
 
+[Carver Cagrek](/npc/52024) is a level 40 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

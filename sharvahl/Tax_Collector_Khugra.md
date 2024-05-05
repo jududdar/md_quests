@@ -2,6 +2,11 @@
 
 
 
+[Tax Collector Khugra](/npc/155077) is a level 62 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 
 

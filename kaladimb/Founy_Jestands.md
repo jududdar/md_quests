@@ -2,6 +2,11 @@
 
 
 
+[Founy Jestands](/npc/67000) is a level 45 Dwarf GM Rogue that spawns in [North Kaladim](/zone/67).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Menkes Tabolet
 
 
+
+[Menkes Tabolet](/npc/1142) is a level 14 Half Elf Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

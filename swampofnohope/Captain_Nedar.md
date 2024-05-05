@@ -1,6 +1,11 @@
 # Captain Nedar
 
 
+
+[Captain Nedar](/npc/83034) is a level 50 Iksar Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

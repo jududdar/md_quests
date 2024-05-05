@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Derith](/npc/203363) is a level 1 Human Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
+
 
 ## Dialog
 

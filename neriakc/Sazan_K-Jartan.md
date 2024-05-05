@@ -1,4 +1,9 @@
-# Sazan K-Jartan
+# Sazan K\`Jartan
+
+
+
+[Sazan K\`Jartan](/npc/42076) is a level 24 Dark Elf Rogue that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Shevra Kollintar
 
 
+
+[Shevra Kollintar](/npc/75109) is a level 61 Erudite GM Shadow Knight that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

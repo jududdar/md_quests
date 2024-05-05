@@ -1,6 +1,11 @@
 # Warder Cecilia
 
 
+
+[Warder Cecilia](/npc/91037) is a level 65 Human Shopkeeper that spawns in [Skyfire Mountains](/zone/91).
+
+
+
 ## Dialog
 
 **You say:** `hail`

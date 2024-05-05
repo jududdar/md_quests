@@ -1,4 +1,9 @@
 # EinoInvisDay
+
+
+
+
+
 local BANSHEE_TYPE = 204015; 
 local NIGHTSTALKER_TYPE = 204019; 
 local HOBGOBLIN_TYPE = 204011; 

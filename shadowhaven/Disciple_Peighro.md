@@ -1,6 +1,11 @@
 # Disciple Peighro
 
 
+
+[Disciple Peighro](/npc/150132) is a level 55 Human Monk that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

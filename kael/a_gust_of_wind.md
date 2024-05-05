@@ -1,6 +1,11 @@
 # a gust of wind
 
 
+
+[a gust of wind](/npc/71028) is a level 53 Elemental Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## On NPC Spawn
 
 local xloc = e.self:GetX();

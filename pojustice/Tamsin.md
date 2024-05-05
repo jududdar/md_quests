@@ -2,6 +2,11 @@
 
 
 
+[Tamsin](/npc/201401) is a level 46 Gnome Necromancer that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

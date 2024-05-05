@@ -2,6 +2,11 @@
 
 
 
+[Arch Mage Olera](/npc/202241) is a level 61 High Elf GM Magician that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 
 ## Dialog

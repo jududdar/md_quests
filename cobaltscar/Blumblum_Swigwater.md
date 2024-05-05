@@ -1,6 +1,11 @@
 # Blumblum Swigwater
 
 
+
+[Blumblum Swigwater](/npc/117064) is a level 37 Othmir Shopkeeper that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

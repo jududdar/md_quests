@@ -1,6 +1,11 @@
 # Shazda Asad
 
 
+
+[Shazda Asad](/npc/74032) is a level 23 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

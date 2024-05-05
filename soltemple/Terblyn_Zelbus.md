@@ -1,6 +1,11 @@
 # Terblyn Zelbus
 
 
+
+[Terblyn Zelbus](/npc/80039) is a level 34 Gnome Shopkeeper that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Kaiaren](/npc/95105) is a level 52 Human Monk that spawns in [Trakanon's Teeth](/zone/95).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

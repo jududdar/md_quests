@@ -1,6 +1,11 @@
 # Wrin Liltin
 
 
+
+[Wrin Liltin](/npc/1139) is a level 45 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

@@ -1,6 +1,11 @@
 # Derg
 
 
+
+[Derg](/npc/51046) is a level 35 Ogre Shaman that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

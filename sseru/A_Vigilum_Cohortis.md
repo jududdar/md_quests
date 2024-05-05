@@ -1,6 +1,11 @@
 # A Vigilum Cohortis
 
 
+
+[A Vigilum Cohortis](/npc/159516) is a level 60 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

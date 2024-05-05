@@ -2,6 +2,11 @@
 
 
 
+[Bregun Dorey](/npc/161007) is a level 50 Halfling Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

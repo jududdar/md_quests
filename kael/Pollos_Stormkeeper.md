@@ -1,6 +1,11 @@
 # Pollos Stormkeeper
 
 
+
+[Pollos Stormkeeper](/npc/113116) is a level 60 Giant Banker that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

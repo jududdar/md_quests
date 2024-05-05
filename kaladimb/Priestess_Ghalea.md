@@ -1,6 +1,11 @@
 # Priestess Ghalea
 
 
+
+[Priestess Ghalea](/npc/67024) is a level 61 Dwarf GM Cleric that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

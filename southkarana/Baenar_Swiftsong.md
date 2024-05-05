@@ -2,6 +2,11 @@
 
 
 
+[Baenar Swiftsong](/npc/14046) is a level 50 Human Warrior that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
+
 
 
 

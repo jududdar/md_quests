@@ -2,6 +2,11 @@
 
 
 
+[Lanivon Baxer](/npc/38064) is a level 50 Erudite Wizard that spawns in [Toxxulia Forest](/zone/38).
+
+
+
+
 
 
 ## Dialog

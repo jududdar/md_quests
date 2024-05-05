@@ -1,6 +1,11 @@
 # Glidara Myllar
 
 
+
+[Glidara Myllar](/npc/57058) is a level 25 Wood Elf Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Turn-Ins
 
 

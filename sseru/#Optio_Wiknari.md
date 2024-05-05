@@ -1,6 +1,11 @@
 # Optio Wiknari
 
 
+
+[Optio Wiknari](/npc/159034) is a level 52 Gnome Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

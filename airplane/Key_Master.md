@@ -1,6 +1,11 @@
 # Key Master
 
 
+
+[Key Master](/npc/71056) is a level 55 Dwarf Shopkeeper that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## Signals
 
 local qglobals = eq.get_qglobals();

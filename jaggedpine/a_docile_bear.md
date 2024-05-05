@@ -1,4 +1,9 @@
 # a docile bear
+
+
+
+[a docile bear](/npc/181102) is a level 10 Bear Warrior that spawns in [Jaggedpine Forest](/zone/181).
+
 local reaction = 0;
 
 

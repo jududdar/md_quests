@@ -1,6 +1,11 @@
 # Enderbite
 
 
+
+[Enderbite](/npc/71085) is a level 55 High Elf Enchanter that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

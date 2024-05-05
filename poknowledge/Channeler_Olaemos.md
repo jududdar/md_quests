@@ -2,6 +2,11 @@
 
 
 
+[Channeler Olaemos](/npc/202174) is a level 60 Froglok Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

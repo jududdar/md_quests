@@ -1,6 +1,11 @@
 # Gord Smith
 
 
+
+[Gord Smith](/npc/10048) is a level 45 Guard Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Dyllin Starsine
 
 
+
+[Dyllin Starsine](/npc/5015) is a level 16 Human Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

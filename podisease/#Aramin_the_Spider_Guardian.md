@@ -1,4 +1,9 @@
 # Aramin the Spider Guardian
+
+
+
+[Aramin the Spider Guardian](/npc/205095) is a level 68 Arachnid Warrior that spawns in [Plane of Disease](/zone/205).
+
 local MALEVELER_TYPE = 205157; 
 local SERIOUN_TYPE = 205158; 
 local SPAWN_LOCS = {

@@ -1,6 +1,11 @@
 # kerran tseq
 
 
+
+[kerran tseq](/npc/74004) is a level 12 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

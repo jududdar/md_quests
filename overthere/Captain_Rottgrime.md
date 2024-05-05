@@ -1,6 +1,11 @@
 # Captain Rottgrime
 
 
+
+[Captain Rottgrime](/npc/93085) is a level 55 Undead Iksar Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `hail`

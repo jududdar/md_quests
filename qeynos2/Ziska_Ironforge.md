@@ -1,6 +1,11 @@
 # Ziska Ironforge
 
 
+
+[Ziska Ironforge](/npc/2069) is a level 7 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

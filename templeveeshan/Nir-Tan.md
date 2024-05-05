@@ -1,4 +1,9 @@
-# Nir-Tan
+# Nir\`Tan
+
+
+
+[Nir\`Tan](/npc/124012) is a level 60 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
 
 
 

@@ -1,6 +1,11 @@
 # Golath
 
 
+
+[Golath](/npc/155193) is a level 14 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 120 seconds

@@ -1,6 +1,11 @@
 # Lerian Wyndrunner
 
 
+
+[Lerian Wyndrunner](/npc/3016) is a level 65 Human Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Ymik
 
 
+
+[Ymik](/npc/113173) is a level 70 Giant Shopkeeper that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

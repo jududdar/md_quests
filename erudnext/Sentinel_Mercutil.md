@@ -1,6 +1,11 @@
 # Sentinel Mercutil
 
 
+
+[Sentinel Mercutil](/npc/24092) is a level 30 Erudite Paladin that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `kerra isle`

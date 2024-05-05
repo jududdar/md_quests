@@ -1,6 +1,11 @@
 # Top McCallto
 
 
+
+[Top McCallto](/npc/159006) is a level 60 Barbarian Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

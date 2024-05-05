@@ -1,6 +1,11 @@
 # Semkak Prophet of Vallon
 
 
+
+[Semkak Prophet of Vallon](/npc/113152) is a level 58 Giant Cleric that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

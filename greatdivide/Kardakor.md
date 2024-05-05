@@ -1,6 +1,11 @@
 # Kardakor
 
 
+
+[Kardakor](/npc/118087) is a level 60 Wurm Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 if( **Faction is** >= Kindly) then

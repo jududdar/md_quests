@@ -2,6 +2,11 @@
 
 
 
+[Yuin Starchaser](/npc/62036) is a level 61 High Elf GM Enchanter that spawns in [Southern Felwithe](/zone/62).
+
+
+
+
 
 ## Dialog
 

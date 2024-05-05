@@ -2,6 +2,11 @@
 
 
 
+[Askr the Lost](/npc/209052) is a level 60 Half Elf Warrior that spawns in [Plane of Storms](/zone/210).
+
+
+
+
 local stateTable = {}; 
 local entries = 0;
 local headTable = {}; 

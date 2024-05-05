@@ -1,6 +1,11 @@
 # Trooper Roklon
 
 
+
+[Trooper Roklon](/npc/79090) is a level 50 Iksar Warrior that spawns in [Warsliks Woods](/zone/79).
+
+
+
 ## Dialog
 
 **You say:** `hail`

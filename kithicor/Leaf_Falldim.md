@@ -1,6 +1,11 @@
 # Leaf Falldim
 
 
+
+[Leaf Falldim](/npc/20066) is a level 35 Human Ranger that spawns in [Kithicor Forest](/zone/20).
+
+
+
 ## Dialog
 
 **You say:** `hail`

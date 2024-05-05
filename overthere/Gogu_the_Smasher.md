@@ -1,6 +1,11 @@
 # Gogu the Smasher
 
 
+
+[Gogu the Smasher](/npc/93155) is a level 61 Ogre Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `what realm of heroes`

@@ -2,6 +2,11 @@
 
 
 
+[Marthor](/npc/82048) is a level 61 Iksar Monk that spawns in [Cabilis West](/zone/82).
+
+
+
+
 
 ## Dialog
 

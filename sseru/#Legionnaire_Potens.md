@@ -1,6 +1,11 @@
 # Legionnaire Potens
 
 
+
+[Legionnaire Potens](/npc/159626) is a level 47 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

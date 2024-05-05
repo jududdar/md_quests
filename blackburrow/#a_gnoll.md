@@ -1,6 +1,11 @@
 # a gnoll
 
 
+
+[a gnoll](/npc/17003) is a level 5 Gnoll Warrior that spawns in [Blackburrow](/zone/17).
+
+
+
 ## On NPC Spawn
 
 local sp = e.self:GetSpawnPointID();

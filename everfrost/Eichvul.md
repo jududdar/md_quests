@@ -1,6 +1,11 @@
 # Eichvul
 
 
+
+[Eichvul](/npc/30064) is a level 22 Dark Elf Wizard that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Combat
 
 if Eichvul enters combat  then

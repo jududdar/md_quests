@@ -1,6 +1,11 @@
 # Tol Nicelot
 
 
+
+[Tol Nicelot](/npc/4205) is a level 20 Erudite Paladin that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

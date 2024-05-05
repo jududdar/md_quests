@@ -1,6 +1,11 @@
 # Nicholas
 
 
+
+[Nicholas](/npc/50075) is a level 19 Dwarf Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

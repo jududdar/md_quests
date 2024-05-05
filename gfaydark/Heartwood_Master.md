@@ -1,6 +1,11 @@
 # Heartwood Master
 
 
+
+[Heartwood Master](/npc/54087) is a level 61 Wood Elf GM Druid that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

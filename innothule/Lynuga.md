@@ -1,6 +1,11 @@
 # Lynuga
 
 
+
+[Lynuga](/npc/46028) is a level 32 Troll Shaman that spawns in [Innothule Swamp](/zone/46).
+
+
+
 ## Dialog
 
 **You say:** `hail`

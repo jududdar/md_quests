@@ -1,6 +1,11 @@
 # Clockwork XXIIIA
 
 
+
+[Clockwork XXIIIA](/npc/55190) is a level 9 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

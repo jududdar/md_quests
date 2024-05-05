@@ -1,6 +1,11 @@
 # Granic Malicus
 
 
+
+[Granic Malicus](/npc/160182) is a level 35 Barbarian Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

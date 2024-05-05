@@ -1,6 +1,11 @@
 # Guard Wefnin
 
 
+
+[Guard Wefnin](/npc/2012) is a level 35 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

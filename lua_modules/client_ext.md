@@ -1,4 +1,9 @@
 # client ext
+
+
+
+
+
 function Client:Faction(npc, faction_id, faction_value, temp)
 
 temp = temp or 0;

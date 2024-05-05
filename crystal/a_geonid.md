@@ -1,6 +1,11 @@
 # a geonid
 
 
+
+[a geonid](/npc/119026) is a level 44 Geonid Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Turn-Ins
 
 

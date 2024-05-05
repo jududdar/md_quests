@@ -1,6 +1,11 @@
 # Marduk
 
 
+
+[Marduk](/npc/155177) is a level 13 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 82 seconds

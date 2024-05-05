@@ -1,6 +1,11 @@
 # Kasine Paegra
 
 
+
+[Kasine Paegra](/npc/1045) is a level 61 Human GM Paladin that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

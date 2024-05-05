@@ -1,4 +1,9 @@
-# Te-Anara
+# Te\`Anara
+
+
+
+[Te\`Anara](/npc/3049) is a level 61 Human GM Druid that spawns in [Surefall Glade](/zone/3).
+
 
 
 ## Dialog

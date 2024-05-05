@@ -1,4 +1,9 @@
-# Guard F-Lok
+# Guard F\`Lok
+
+
+
+[Guard F\`Lok](/npc/40081) is a level 35 Dark Elf Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 ## Dialog

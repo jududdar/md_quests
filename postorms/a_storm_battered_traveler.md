@@ -1,4 +1,9 @@
 # a storm battered traveler
+
+
+
+[a storm battered traveler](/npc/210101) is a level 63 Dwarf Warrior that spawns in [Plane of Storms](/zone/210).
+
 local onetime
 
 

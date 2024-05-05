@@ -1,6 +1,11 @@
 # Gina McStargan
 
 
+
+[Gina McStargan](/npc/71087) is a level 55 Barbarian Shaman that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

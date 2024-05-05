@@ -1,6 +1,11 @@
 # Kanaad
 
 
+
+[Kanaad](/npc/155080) is a level 50 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

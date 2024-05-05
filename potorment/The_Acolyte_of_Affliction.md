@@ -1,6 +1,11 @@
 # The Acolyte of Affliction
 
 
+
+[The Acolyte of Affliction](/npc/207003) is a level 65 Tormentor Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
+
+
 ## Combat
 
 if  The Acolyte of Affliction enters combat  then

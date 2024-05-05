@@ -1,4 +1,9 @@
 # command
+
+
+
+
+
 function command_endurance(e)
 
 local tar = e.self:GetTarget();

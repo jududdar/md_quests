@@ -1,6 +1,11 @@
 # Puab Closk
 
 
+
+[Puab Closk](/npc/9086) is a level 61 Human GM Monk that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

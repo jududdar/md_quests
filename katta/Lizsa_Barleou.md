@@ -1,6 +1,11 @@
 # Lizsa Barleou
 
 
+
+[Lizsa Barleou](/npc/160145) is a level 60 Human Enchanter that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

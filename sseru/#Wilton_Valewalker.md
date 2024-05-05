@@ -1,6 +1,11 @@
 # Wilton Valewalker
 
 
+
+[Wilton Valewalker](/npc/159044) is a level 49 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

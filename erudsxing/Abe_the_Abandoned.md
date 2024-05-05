@@ -1,4 +1,9 @@
 # Abe the Abandoned
+
+
+
+[Abe the Abandoned](/npc/98050) is a level 20 Ghost Warrior that spawns in [Erud's Crossing](/zone/98).
+
 local counting;
 
 

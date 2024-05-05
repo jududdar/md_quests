@@ -1,4 +1,9 @@
 # Essence of Fire
+
+
+
+[Essence of Fire](/npc/217454) is a level 1 Fire Elemental Warrior that spawns in [Plane of Fire](/zone/217).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

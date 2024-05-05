@@ -2,6 +2,11 @@
 
 
 
+[a bone golem](/npc/51153) is a level 55 Skeleton Shaman that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 
 ## On NPC Death

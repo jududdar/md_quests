@@ -1,6 +1,11 @@
 # a kejekan pasdar
 
 
+
+[a kejekan pasdar](/npc/100091) is a level 22 Kerran Monk that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

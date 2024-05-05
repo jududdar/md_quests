@@ -2,6 +2,11 @@
 
 
 
+[Virtuoso Zoama](/npc/202009) is a level 61 Wood Elf GM Bard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

@@ -2,6 +2,11 @@
 
 
 
+[Iyalinaoukh](/npc/201409) is a level 44 Sphinx Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

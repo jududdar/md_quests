@@ -1,6 +1,11 @@
 # Guard Bixby
 
 
+
+[Guard Bixby](/npc/4063) is a level 22 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `blackburrow`

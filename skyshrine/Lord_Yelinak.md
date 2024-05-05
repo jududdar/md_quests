@@ -1,6 +1,11 @@
 # Lord Yelinak
 
 
+
+[Lord Yelinak](/npc/114618) is a level 70 Dragon Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

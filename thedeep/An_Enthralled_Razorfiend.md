@@ -1,4 +1,9 @@
 # An Enthralled Razorfiend
+
+
+
+[An Enthralled Razorfiend](/npc/164002) is a level 51 Fungal Fiend Warrior that spawns in [The Deep](/zone/164).
+
 rand = 0;
 
 

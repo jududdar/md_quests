@@ -1,6 +1,11 @@
 # Dom Pathfinder
 
 
+
+[Dom Pathfinder](/npc/84198) is a level 40 Wood Elf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

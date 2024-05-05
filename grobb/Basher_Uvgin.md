@@ -1,6 +1,11 @@
 # Basher Uvgin
 
 
+
+[Basher Uvgin](/npc/52018) is a level 42 Troll Shaman that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

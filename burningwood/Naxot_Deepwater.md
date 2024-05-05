@@ -1,6 +1,11 @@
 # Naxot Deepwater
 
 
+
+[Naxot Deepwater](/npc/87002) is a level 25 Iksar Warrior that spawns in [The Burning Wood](/zone/87).
+
+
+
 ## Dialog
 
 **You say:** `hail`

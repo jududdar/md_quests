@@ -1,6 +1,11 @@
 # Bazzt Zzzt
 
 
+
+[Bazzt Zzzt](/npc/71072) is a level 63 Bixie Shadow Knight that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Death
 
 local sirranName = "sirran";

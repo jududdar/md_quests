@@ -2,6 +2,11 @@
 
 
 
+[Cleaner X](/npc/55161) is a level 5 Rat Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## On NPC Spawn
 

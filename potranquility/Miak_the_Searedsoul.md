@@ -1,6 +1,11 @@
 # Miak the Searedsoul
 
 
+
+[Miak the Searedsoul](/npc/203381) is a level 60 Drake Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

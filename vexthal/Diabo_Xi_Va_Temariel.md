@@ -1,6 +1,11 @@
 # Diabo Xi Va Temariel
 
 
+
+[Diabo Xi Va Temariel](/npc/158441) is a level 66 Akheva Wizard that spawns in [Vex Thal](/zone/158).
+
+
+
 local Z_LEVEL = 110; 
 
 

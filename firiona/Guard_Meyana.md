@@ -1,6 +1,11 @@
 # Guard Meyana
 
 
+
+[Guard Meyana](/npc/84146) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

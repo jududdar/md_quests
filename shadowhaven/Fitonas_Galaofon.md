@@ -1,6 +1,11 @@
 # Fitonas Galaofon
 
 
+
+[Fitonas Galaofon](/npc/150153) is a level 40 Erudite Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

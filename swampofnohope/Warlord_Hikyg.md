@@ -1,6 +1,11 @@
 # Warlord Hikyg
 
 
+
+[Warlord Hikyg](/npc/83067) is a level 51 Iksar Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

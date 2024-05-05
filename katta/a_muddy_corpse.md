@@ -1,6 +1,11 @@
 # a muddy corpse
 
 
+
+[a muddy corpse](/npc/160006) is a level 35 Zombie Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

@@ -1,6 +1,11 @@
 # Mehgyn Garrison
 
 
+
+[Mehgyn Garrison](/npc/160144) is a level 60 Human Bard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

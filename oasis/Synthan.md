@@ -1,6 +1,11 @@
 # Synthan
 
 
+
+[Synthan](/npc/37065) is a level 35 Human Shopkeeper that spawns in [Oasis of Marr](/zone/37).
+
+
+
 ## Dialog
 
 **You say:** `hail`

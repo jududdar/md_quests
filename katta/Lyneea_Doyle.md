@@ -1,6 +1,11 @@
 # Lyneea Doyle
 
 
+
+[Lyneea Doyle](/npc/160219) is a level 36 Barbarian Shaman that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

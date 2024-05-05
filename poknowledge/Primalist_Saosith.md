@@ -2,6 +2,11 @@
 
 
 
+[Primalist Saosith](/npc/202224) is a level 60 Barbarian Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

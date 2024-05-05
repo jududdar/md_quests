@@ -1,6 +1,11 @@
 # Half Elf Maiden
 
 
+
+[Half Elf Maiden](/npc/106023) is a level 25 Half Elf Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

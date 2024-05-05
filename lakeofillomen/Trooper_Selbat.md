@@ -1,6 +1,11 @@
 # Trooper Selbat
 
 
+
+[Trooper Selbat](/npc/85001) is a level 50 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `hail`

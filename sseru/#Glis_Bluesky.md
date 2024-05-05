@@ -1,6 +1,11 @@
 # Glis Bluesky
 
 
+
+[Glis Bluesky](/npc/159435) is a level 44 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

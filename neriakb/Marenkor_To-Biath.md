@@ -1,4 +1,9 @@
-# Marenkor To-Biath
+# Marenkor To\`Biath
+
+
+
+[Marenkor To\`Biath](/npc/41043) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

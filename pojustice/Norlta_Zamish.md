@@ -1,6 +1,11 @@
 # Norlta Zamish
 
 
+
+[Norlta Zamish](/npc/201416) is a level 42 Gnome Magician that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Klok Hoga
 
 
+
+[Klok Hoga](/npc/106053) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

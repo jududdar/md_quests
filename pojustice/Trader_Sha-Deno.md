@@ -1,4 +1,9 @@
-# Trader Sha-Deno
+# Trader Sha\`Deno
+
+
+
+[Trader Sha\`Deno](/npc/201408) is a level 44 Sarnak Wizard that spawns in [Plane of Justice](/zone/201).
+
 
 
 

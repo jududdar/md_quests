@@ -2,6 +2,11 @@
 
 
 
+[Mairee Silentone](/npc/23019) is a level 60 Erudite Warrior that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 ## Dialog
 

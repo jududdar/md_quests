@@ -1,6 +1,11 @@
 # Faelin Bloodbriar
 
 
+
+[Faelin Bloodbriar](/npc/54237) is a level 55 Wood Elf Druid that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1200 seconds

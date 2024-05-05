@@ -1,6 +1,11 @@
 # a soul carrier
 
 
+
+[a soul carrier](/npc/71017) is a level 52 Griffin Warrior that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Death
 
 

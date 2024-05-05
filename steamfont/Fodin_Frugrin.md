@@ -2,6 +2,11 @@
 
 
 
+[Fodin Frugrin](/npc/56117) is a level 25 Gnome Shopkeeper that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 
 

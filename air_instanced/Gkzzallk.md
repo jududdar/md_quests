@@ -2,6 +2,11 @@
 
 
 
+[Gkzzallk](/npc/71073) is a level 55 Human Wizard that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

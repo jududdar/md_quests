@@ -1,6 +1,11 @@
 # Galic Amondson
 
 
+
+[Galic Amondson](/npc/151207) is a level 35 Human Warrior that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

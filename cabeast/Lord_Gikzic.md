@@ -2,6 +2,11 @@
 
 
 
+[Lord Gikzic](/npc/106108) is a level 61 Iksar GM Shadow Knight that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

@@ -2,6 +2,11 @@
 
 
 
+[Royal Armorer Slade](/npc/129004) is a level 49 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Wenglawks Kkeak
 
 
+
+[Wenglawks Kkeak](/npc/113551) is a level 41 Giant Rogue that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

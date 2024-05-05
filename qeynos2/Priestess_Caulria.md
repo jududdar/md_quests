@@ -1,6 +1,11 @@
 # Priestess Caulria
 
 
+
+[Priestess Caulria](/npc/2090) is a level 61 Human GM Cleric that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

@@ -1,6 +1,11 @@
 # Gliblixl Rocktok
 
 
+
+[Gliblixl Rocktok](/npc/151204) is a level 1 Gnome Shopkeeper that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `hail`

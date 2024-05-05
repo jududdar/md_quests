@@ -1,6 +1,11 @@
 # Bartle Barnick
 
 
+
+[Bartle Barnick](/npc/19043) is a level 35 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -1,6 +1,11 @@
 # Yeolarn Bronzeleaf
 
 
+
+[Yeolarn Bronzeleaf](/npc/61025) is a level 61 High Elf GM Cleric that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

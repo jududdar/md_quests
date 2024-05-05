@@ -1,6 +1,11 @@
 # Scout Janomin
 
 
+
+[Scout Janomin](/npc/73083) is a level 15 Vah Shir Warrior that spawns in [Permafrost Caverns](/zone/73).
+
+
+
 ## Dialog
 
 **You say:** `hail`

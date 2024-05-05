@@ -2,6 +2,11 @@
 
 
 
+[Lyra Lyrestringer](/npc/55155) is a level 25 Wood Elf Bard that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Ernax the Scholar
 
 
+
+[Ernax the Scholar](/npc/75029) is a level 35 Erudite Wizard that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

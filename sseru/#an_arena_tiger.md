@@ -1,6 +1,11 @@
 # an arena tiger
 
 
+
+[an arena tiger](/npc/159108) is a level 38 Tiger Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

@@ -1,6 +1,11 @@
 # a living void
 
 
+
+[a living void](/npc/48095) is a level 1 Goo Warrior that spawns in [Lost Temple of CazicThule](/zone/48).
+
+
+
 ## Turn-Ins
 
 

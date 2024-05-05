@@ -1,6 +1,11 @@
 # Tralyn Marsinger
 
 
+
+[Tralyn Marsinger](/npc/1132) is a level 25 Human Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

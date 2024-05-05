@@ -2,6 +2,11 @@
 
 
 
+[Clockwork VIIX](/npc/55017) is a level 55 Clockwork Gnome Enchanter that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

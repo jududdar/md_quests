@@ -1,6 +1,11 @@
 # Klieb Torne
 
 
+
+[Klieb Torne](/npc/1071) is a level 10 Human Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *paw* for 600 seconds

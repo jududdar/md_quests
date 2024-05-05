@@ -1,6 +1,11 @@
 # Argan Milek
 
 
+
+[Argan Milek](/npc/207322) is a level 35 Erudite Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

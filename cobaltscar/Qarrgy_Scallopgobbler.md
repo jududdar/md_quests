@@ -1,6 +1,11 @@
 # Qarrgy Scallopgobbler
 
 
+
+[Qarrgy Scallopgobbler](/npc/117060) is a level 45 Othmir Ranger that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

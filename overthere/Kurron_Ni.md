@@ -2,6 +2,11 @@
 
 
 
+[Kurron Ni](/npc/93083) is a level 54 Dark Elf Rogue that spawns in [The Overthere](/zone/93).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

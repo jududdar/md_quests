@@ -1,6 +1,11 @@
 # Legionnaire Aiddan
 
 
+
+[Legionnaire Aiddan](/npc/159183) is a level 47 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

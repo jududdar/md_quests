@@ -2,6 +2,11 @@
 
 
 
+[An Iksar Apparition](/npc/105112) is a level 50 Iksar Spirit Warrior that spawns in [The Howling Stones](/zone/105).
+
+
+
+
 ## Turn-Ins
 
 

@@ -1,4 +1,9 @@
 # Tarkil Adan
+
+
+
+[Tarkil Adan](/npc/200267) is a level 1 Pusling Warrior that spawns in [The Crypt of Decay](/zone/200).
+
 local MAX_KEYS = 36;
 
 local keys;

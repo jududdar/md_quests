@@ -1,6 +1,11 @@
 # Guide IV
 
 
+
+[Guide IV](/npc/55177) is a level 32 Clockwork Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Smaka](/npc/40034) is a level 40 Ogre Shopkeeper that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
+
 
 ## Dialog
 

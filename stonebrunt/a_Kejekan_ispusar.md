@@ -1,6 +1,11 @@
 # a Kejekan ispusar
 
 
+
+[a Kejekan ispusar](/npc/100013) is a level 20 Kerran Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

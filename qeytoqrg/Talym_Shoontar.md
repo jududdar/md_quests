@@ -1,6 +1,11 @@
 # Talym Shoontar
 
 
+
+[Talym Shoontar](/npc/1166) is a level 15 Barbarian Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 6) then

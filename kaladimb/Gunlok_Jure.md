@@ -1,6 +1,11 @@
 # Gunlok Jure
 
 
+
+[Gunlok Jure](/npc/67028) is a level 61 Dwarf GM Paladin that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

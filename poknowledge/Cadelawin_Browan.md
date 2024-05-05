@@ -2,6 +2,11 @@
 
 
 
+[Cadelawin Browan](/npc/202054) is a level 60 Wood Elf Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

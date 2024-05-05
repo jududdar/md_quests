@@ -1,6 +1,11 @@
 # Milner McHazlo
 
 
+
+[Milner McHazlo](/npc/159002) is a level 60 High Elf Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

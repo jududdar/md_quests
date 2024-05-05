@@ -1,6 +1,11 @@
 # Crow
 
 
+
+[Crow](/npc/2063) is a level 47 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

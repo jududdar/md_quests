@@ -2,6 +2,11 @@
 
 
 
+[Daesorak Steelknuckle](/npc/156067) is a level 55 Dwarf Warrior that spawns in [The Paludal Caverns](/zone/156).
+
+
+
+
 
 ## Dialog
 

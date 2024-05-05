@@ -2,6 +2,11 @@
 
 
 
+[Tilkzog Mournunder](/npc/55026) is a level 35 Gnome Necromancer that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Bronin Higginsbot
 
 
+
+[Bronin Higginsbot](/npc/33079) is a level 9 Halfling Rogue that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Dialog
 
 **You say:** `hail`

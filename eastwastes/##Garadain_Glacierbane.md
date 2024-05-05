@@ -1,6 +1,11 @@
 # Garadain Glacierbane
 
 
+
+[Garadain Glacierbane](/npc/116067) is a level 42 Coldain Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Turn-Ins
 
 

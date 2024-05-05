@@ -1,6 +1,11 @@
 # storm giant general
 
 
+
+[storm giant general](/npc/113022) is a level 51 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

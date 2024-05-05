@@ -1,6 +1,11 @@
 # The Icebound Spirit
 
 
+
+[The Icebound Spirit](/npc/73107) is a level 55 Bear Warrior that spawns in [Permafrost Caverns](/zone/73).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds

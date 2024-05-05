@@ -2,6 +2,11 @@
 
 
 
+[Impaler Tzilug](/npc/93149) is a level 50 Scorpion Warrior that spawns in [The Overthere](/zone/93).
+
+
+
+
 ## Turn-Ins
 
 

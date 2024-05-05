@@ -1,6 +1,11 @@
 # Guard Drath
 
 
+
+[Guard Drath](/npc/2013) is a level 15 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

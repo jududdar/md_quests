@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Hoggle Grubbytoe](/npc/19032) is a level 1 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
+
 
 ## Dialog
 

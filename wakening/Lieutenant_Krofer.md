@@ -1,6 +1,11 @@
 # Lieutenant Krofer
 
 
+
+[Lieutenant Krofer](/npc/119050) is a level 47 Giant Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

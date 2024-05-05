@@ -1,6 +1,11 @@
 # You are
 
 
+
+
+
+
+
 ## Combat
 
 if (e.joined == true) then

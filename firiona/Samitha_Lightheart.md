@@ -1,6 +1,11 @@
 # Samitha Lightheart
 
 
+
+[Samitha Lightheart](/npc/84176) is a level 49 Half Elf Druid that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

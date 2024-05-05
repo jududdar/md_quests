@@ -1,6 +1,11 @@
 # a greater kobold shaman
 
 
+
+[a greater kobold shaman](/npc/100163) is a level 20 Kobold Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

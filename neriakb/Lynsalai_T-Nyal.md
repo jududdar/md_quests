@@ -1,4 +1,9 @@
-# Lynsalai T-Nyal
+# Lynsalai T\`Nyal
+
+
+
+[Lynsalai T\`Nyal](/npc/41021) is a level 25 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

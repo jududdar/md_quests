@@ -1,6 +1,11 @@
 # Snowfang icehunter
 
 
+
+[Snowfang icehunter](/npc/110007) is a level 27 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *fish* for 600 seconds

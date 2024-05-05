@@ -1,6 +1,11 @@
 # Engineer Palin
 
 
+
+[Engineer Palin](/npc/153050) is a level 31 Dwarf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

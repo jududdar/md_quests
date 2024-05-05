@@ -1,6 +1,11 @@
 # Sabnie Blagard
 
 
+
+[Sabnie Blagard](/npc/2083) is a level 10 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 

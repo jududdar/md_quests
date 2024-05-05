@@ -1,6 +1,11 @@
 # a crystalline watcher
 
 
+
+[a crystalline watcher](/npc/112001) is a level 45 Spider Rogue that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds

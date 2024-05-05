@@ -1,6 +1,11 @@
 # Boomba the Big
 
 
+
+[Boomba the Big](/npc/9126) is a level 20 Ogre Shopkeeper that spawns in [West Freeport](/zone/9).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

@@ -1,6 +1,11 @@
 # High Priest of Tallon Zek
 
 
+
+[High Priest of Tallon Zek](/npc/113256) is a level 52 Giant Cleric that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Salic Whispersong
 
 
+
+[Salic Whispersong](/npc/160155) is a level 62 Half Elf Bard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

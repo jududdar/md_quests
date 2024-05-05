@@ -1,6 +1,11 @@
 # Naldo Ringer
 
 
+
+[Naldo Ringer](/npc/159472) is a level 43 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

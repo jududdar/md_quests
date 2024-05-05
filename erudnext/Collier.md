@@ -1,6 +1,11 @@
 # Collier
 
 
+
+[Collier](/npc/24102) is a level 35 Human Rogue that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

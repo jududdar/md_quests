@@ -1,4 +1,9 @@
 # A Rathe Councilman
+
+
+
+[A Rathe Councilman](/npc/222003) is a level 68 The Rathe Warrior that spawns in [Plane of Earth](/zone/222).
+
 local MEZABLE_TYPE = 222003;
 local UNMEZABLE_TYPE = 222039;
 local SPAWNIDS = { 369377, 369380, 369382, 369384, 369386, 369387, 369376, 369378, 369379, 369381, 369383, 369385 };

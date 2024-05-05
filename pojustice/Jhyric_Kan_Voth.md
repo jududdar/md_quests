@@ -2,6 +2,11 @@
 
 
 
+[Jhyric Kan Voth](/npc/201377) is a level 46 Vah Shir Rogue that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Leatherfoot Deputy
 
 
+
+[Leatherfoot Deputy](/npc/25012) is a level 20 Halfling Warrior that spawns in [Nektulos Forest](/zone/25).
+
+
+
 ## Dialog
 
 **You say:** `hail`

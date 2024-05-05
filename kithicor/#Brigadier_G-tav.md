@@ -1,4 +1,9 @@
-# Brigadier G-tav
+# Brigadier G\`tav
+
+
+
+[Brigadier G\`tav](/npc/20061) is a level 58 Dark Elf Warrior that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

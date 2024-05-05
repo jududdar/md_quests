@@ -1,6 +1,11 @@
 # Elder Hymnist Hortitosh
 
 
+
+[Elder Hymnist Hortitosh](/npc/155163) is a level 61 Vah Shir GM Bard that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);

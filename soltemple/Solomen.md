@@ -1,6 +1,11 @@
 # Solomen
 
 
+
+[Solomen](/npc/80023) is a level 35 Human Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

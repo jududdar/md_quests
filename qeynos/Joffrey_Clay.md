@@ -1,6 +1,11 @@
 # Joffrey Clay
 
 
+
+[Joffrey Clay](/npc/1123) is a level 61 Human GM Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

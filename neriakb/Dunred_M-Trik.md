@@ -1,4 +1,9 @@
-# Dunred M-Trik
+# Dunred M\`Trik
+
+
+
+[Dunred M\`Trik](/npc/41041) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

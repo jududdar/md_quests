@@ -1,6 +1,11 @@
 # an investigator
 
 
+
+[an investigator](/npc/1031) is a level 10 Human Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

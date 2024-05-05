@@ -1,6 +1,11 @@
 # Svena Ironforge
 
 
+
+[Svena Ironforge](/npc/2068) is a level 18 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

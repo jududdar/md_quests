@@ -1,6 +1,11 @@
 # Guard Didek
 
 
+
+[Guard Didek](/npc/60059) is a level 38 Dwarf Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `armor`

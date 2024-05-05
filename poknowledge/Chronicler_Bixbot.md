@@ -1,6 +1,11 @@
 # Chronicler Bixbot
 
 
+
+[Chronicler Bixbot](/npc/202024) is a level 40 Gnome Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

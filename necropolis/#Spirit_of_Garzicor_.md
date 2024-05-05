@@ -1,6 +1,11 @@
 # Spirit of Garzicor 
 
 
+
+[Spirit of Garzicor ](/npc/123004) is a level 58 Dragon Shadow Knight that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 900 seconds

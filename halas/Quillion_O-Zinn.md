@@ -1,4 +1,9 @@
-# Quillion O-Zinn
+# Quillion O\`Zinn
+
+
+
+[Quillion O\`Zinn](/npc/29074) is a level 45 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
 
 
 ## Dialog

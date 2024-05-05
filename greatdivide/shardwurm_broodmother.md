@@ -1,6 +1,11 @@
 # shardwurm broodmother
 
 
+
+[shardwurm broodmother](/npc/118040) is a level 50 Wurm Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Turn-Ins
 
 

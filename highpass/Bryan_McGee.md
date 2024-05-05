@@ -1,6 +1,11 @@
 # Bryan McGee
 
 
+
+[Bryan McGee](/npc/5056) is a level 40 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

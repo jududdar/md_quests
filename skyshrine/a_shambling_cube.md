@@ -1,6 +1,11 @@
 # a shambling cube
 
 
+
+[a shambling cube](/npc/114151) is a level 47 Gelatinous Cube Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

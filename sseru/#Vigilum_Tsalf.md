@@ -1,6 +1,11 @@
 # Vigilum Tsalf
 
 
+
+[Vigilum Tsalf](/npc/159338) is a level 55 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Legatarius Banael
 
 
+
+[Legatarius Banael](/npc/159370) is a level 61 Erudite GM Wizard that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

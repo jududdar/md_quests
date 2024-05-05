@@ -1,6 +1,11 @@
 # Fergus Sawdust
 
 
+
+[Fergus Sawdust](/npc/115065) is a level 36 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

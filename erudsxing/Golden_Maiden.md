@@ -1,6 +1,11 @@
 # Golden Maiden
 
 
+
+[Golden Maiden](/npc/773) is a level 50 Ship Warrior that spawns in [Erud's Crossing](/zone/98).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

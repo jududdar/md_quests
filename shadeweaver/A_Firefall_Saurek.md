@@ -1,6 +1,11 @@
 # A Firefall Saurek
 
 
+
+[A Firefall Saurek](/npc/165222) is a level 18 Rockhopper Warrior that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

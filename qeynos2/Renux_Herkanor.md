@@ -1,6 +1,11 @@
 # Renux Herkanor
 
 
+
+[Renux Herkanor](/npc/2033) is a level 61 Human GM Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

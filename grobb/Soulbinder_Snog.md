@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Snog](/npc/52068) is a level 1 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
+
 
 ## Dialog
 

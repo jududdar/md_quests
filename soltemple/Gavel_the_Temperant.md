@@ -2,6 +2,11 @@
 
 
 
+[Gavel the Temperant](/npc/80031) is a level 40 Dwarf Cleric that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

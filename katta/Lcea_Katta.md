@@ -1,6 +1,11 @@
 # Lcea Katta
 
 
+
+[Lcea Katta](/npc/160375) is a level 60 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `arx key`

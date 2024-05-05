@@ -1,5 +1,10 @@
 # War Chieftan Awisano
 
+
+
+[War Chieftan Awisano](/npc/222037) is a level 75 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
+
 local INVIS_MAN_ID = 369489;
 
 

@@ -1,6 +1,11 @@
 # Klom Jysun
 
 
+
+[Klom Jysun](/npc/9085) is a level 61 Human GM Monk that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

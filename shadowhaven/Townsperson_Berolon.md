@@ -1,6 +1,11 @@
 # Townsperson Berolon
 
 
+
+[Townsperson Berolon](/npc/150057) is a level 60 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

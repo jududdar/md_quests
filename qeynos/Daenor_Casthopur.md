@@ -1,6 +1,11 @@
 # Daenor Casthopur
 
 
+
+[Daenor Casthopur](/npc/1053) is a level 61 Human GM Wizard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

@@ -1,6 +1,11 @@
 # Klok Vednir
 
 
+
+[Klok Vednir](/npc/106050) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

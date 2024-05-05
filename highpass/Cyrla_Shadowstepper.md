@@ -1,6 +1,11 @@
 # Cyrla Shadowstepper
 
 
+
+[Cyrla Shadowstepper](/npc/5107) is a level 61 Human GM Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

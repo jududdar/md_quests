@@ -1,4 +1,9 @@
-# Untel-Dak
+# Untel\`Dak
+
+
+
+[Untel\`Dak](/npc/204035) is a level 68 Crocodile Warrior that spawns in [Plane of Nightmares](/zone/204).
+
 
 
 ## Combat

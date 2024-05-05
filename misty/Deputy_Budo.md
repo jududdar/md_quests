@@ -1,6 +1,11 @@
 # Deputy Budo
 
 
+
+[Deputy Budo](/npc/33068) is a level 39 Halfling Warrior that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Dialog
 
 **You say:** `hail`

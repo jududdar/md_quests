@@ -1,6 +1,11 @@
 # Josylyn Greenblade
 
 
+
+[Josylyn Greenblade](/npc/54127) is a level 61 Wood Elf GM Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

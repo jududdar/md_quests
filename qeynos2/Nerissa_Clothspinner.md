@@ -1,6 +1,11 @@
 # Nerissa Clothspinner
 
 
+
+[Nerissa Clothspinner](/npc/2036) is a level 15 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 17) then

@@ -1,6 +1,11 @@
 # A Praetor of the Heart
 
 
+
+[A Praetor of the Heart](/npc/159101) is a level 54 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

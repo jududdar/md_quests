@@ -1,6 +1,11 @@
 # a grol baku seer
 
 
+
+[a grol baku seer](/npc/170122) is a level 37 Tegi Warrior that spawns in [Scarlet Desert](/zone/175).
+
+
+
 ## Dialog
 
 **You say:** `hail`

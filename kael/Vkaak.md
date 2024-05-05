@@ -1,6 +1,11 @@
 # Vkaak
 
 
+
+[Vkaak](/npc/113170) is a level 63 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

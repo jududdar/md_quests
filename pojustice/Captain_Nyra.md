@@ -2,6 +2,11 @@
 
 
 
+[Captain Nyra](/npc/201350) is a level 44 Dark Elf Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

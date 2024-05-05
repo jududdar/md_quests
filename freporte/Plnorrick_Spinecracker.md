@@ -1,6 +1,11 @@
 # Plnorrick Spinecracker
 
 
+
+[Plnorrick Spinecracker](/npc/10163) is a level 30 Troll Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Verda Slowfire
 
 
+
+[Verda Slowfire](/npc/159436) is a level 48 Halfling Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

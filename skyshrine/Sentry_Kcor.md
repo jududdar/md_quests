@@ -1,6 +1,11 @@
 # Sentry Kcor
 
 
+
+[Sentry Kcor](/npc/114581) is a level 25 Golem Cleric that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

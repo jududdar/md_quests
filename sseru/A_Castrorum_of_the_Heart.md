@@ -1,6 +1,11 @@
 # A Castrorum of the Heart
 
 
+
+[A Castrorum of the Heart](/npc/159594) is a level 49 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

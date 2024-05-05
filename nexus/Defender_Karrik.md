@@ -1,6 +1,11 @@
 # Defender Karrik
 
 
+
+[Defender Karrik](/npc/152006) is a level 50 Human Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

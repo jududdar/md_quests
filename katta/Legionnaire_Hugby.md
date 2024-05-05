@@ -1,6 +1,11 @@
 # Legionnaire Hugby
 
 
+
+[Legionnaire Hugby](/npc/160017) is a level 42 Halfling Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

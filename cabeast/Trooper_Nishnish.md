@@ -1,6 +1,11 @@
 # Trooper Nishnish
 
 
+
+[Trooper Nishnish](/npc/106072) is a level 50 Iksar Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

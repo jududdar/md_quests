@@ -1,6 +1,11 @@
 # Antinime
 
 
+
+[Antinime](/npc/69026) is a level 22 Half Elf Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

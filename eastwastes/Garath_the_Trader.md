@@ -1,6 +1,11 @@
 # Garath the Trader
 
 
+
+[Garath the Trader](/npc/116136) is a level 60 Dwarf Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Dialog
 
 **You say:** `hail`

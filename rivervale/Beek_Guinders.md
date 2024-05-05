@@ -1,6 +1,11 @@
 # Beek Guinders
 
 
+
+[Beek Guinders](/npc/19112) is a level 61 Halfling GM Cleric that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

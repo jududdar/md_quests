@@ -1,6 +1,11 @@
 # Protector of Sky
 
 
+
+[Protector of Sky](/npc/71059) is a level 55 Imp Warrior that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Death
 
 local sirranName = "sirran";

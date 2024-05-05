@@ -2,6 +2,11 @@
 
 
 
+[Draze Slashyn](/npc/12181) is a level 8 Human Druid that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 
 

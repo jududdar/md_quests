@@ -1,6 +1,11 @@
 # Callowolf MacFuller
 
 
+
+[Callowolf MacFuller](/npc/150236) is a level 40 Barbarian Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

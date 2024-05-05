@@ -2,6 +2,11 @@
 
 
 
+[Atheling Plague](/npc/87101) is a level 35 Sarnak Shaman that spawns in [The Burning Wood](/zone/87).
+
+
+
+
 
 
 ## Dialog

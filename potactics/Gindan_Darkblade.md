@@ -1,6 +1,11 @@
 # Gindan Darkblade
 
 
+
+[Gindan Darkblade](/npc/214032) is a level 65 Rallos Zek Minion Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
+
+
 ## On NPC Spawn
 
 if ( e.self:GetSpawnPointID() == 0 ) then 

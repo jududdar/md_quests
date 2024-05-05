@@ -1,4 +1,9 @@
 # script init
+
+
+
+
+
 eq.load_encounter("Burrower");
 eq.load_encounter("HighPriest");
 eq.load_encounter("Trondol");

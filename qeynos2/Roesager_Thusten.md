@@ -1,6 +1,11 @@
 # Roesager Thusten
 
 
+
+[Roesager Thusten](/npc/2059) is a level 61 Human GM Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Scout Malom
 
 
+
+[Scout Malom](/npc/100020) is a level 15 Vah Shir Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

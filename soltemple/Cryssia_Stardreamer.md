@@ -2,6 +2,11 @@
 
 
 
+[Cryssia Stardreamer](/npc/80012) is a level 35 Wood Elf Bard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

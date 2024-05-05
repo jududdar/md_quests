@@ -1,6 +1,11 @@
 # Teloa
 
 
+
+[Teloa](/npc/15170) is a level 51 Half Elf Druid that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Turn-Ins
 
 

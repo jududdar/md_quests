@@ -2,6 +2,11 @@
 
 
 
+[Natasha Whitewater](/npc/96080) is a level 40 Human Cleric that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *NatashaDepop* for 600 seconds

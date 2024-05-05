@@ -1,6 +1,11 @@
 # Lich of Miragul
 
 
+
+[Lich of Miragul](/npc/30093) is a level 45 Skeleton Necromancer that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Dialog
 
 **You say:** `hail`

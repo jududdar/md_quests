@@ -2,6 +2,11 @@
 
 
 
+[Councilwoman Kerasha](/npc/202126) is a level 75 Wood Elf Druid that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 

@@ -1,6 +1,11 @@
 # gnomish captive
 
 
+
+[gnomish captive](/npc/118017) is a level 1 Gnome Rogue that spawns in [The Great Divide](/zone/118).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

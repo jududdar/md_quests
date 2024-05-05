@@ -1,6 +1,11 @@
 # Saumeem Unja
 
 
+
+[Saumeem Unja](/npc/160179) is a level 61 Erudite GM Paladin that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

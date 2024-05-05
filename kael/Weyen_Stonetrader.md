@@ -1,6 +1,11 @@
 # Weyen Stonetrader
 
 
+
+[Weyen Stonetrader](/npc/113171) is a level 70 Giant Banker that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

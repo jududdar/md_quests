@@ -2,6 +2,11 @@
 
 
 
+[Emkel Kabae](/npc/51047) is a level 55 Human Wizard that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## Dialog
 

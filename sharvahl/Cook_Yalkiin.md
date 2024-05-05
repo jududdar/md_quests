@@ -2,6 +2,11 @@
 
 
 
+[Cook Yalkiin](/npc/155207) is a level 10 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 
 

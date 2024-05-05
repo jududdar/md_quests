@@ -1,6 +1,11 @@
 # Legionnaire Glap
 
 
+
+[Legionnaire Glap](/npc/159178) is a level 47 Gnome Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

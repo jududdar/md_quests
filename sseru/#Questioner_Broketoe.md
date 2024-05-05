@@ -1,6 +1,11 @@
 # Questioner Broketoe
 
 
+
+[Questioner Broketoe](/npc/159081) is a level 53 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

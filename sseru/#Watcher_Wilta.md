@@ -1,6 +1,11 @@
 # Watcher Wilta
 
 
+
+[Watcher Wilta](/npc/159540) is a level 50 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

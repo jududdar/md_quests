@@ -1,4 +1,9 @@
-# Neh-Ashiir
+# Neh\`Ashiir
+
+
+
+[Neh\`Ashiir](/npc/90011) is a level 54 Iksar Spirit Enchanter that spawns in [The City of Mist](/zone/90).
+
 
 
 ## Turn-Ins

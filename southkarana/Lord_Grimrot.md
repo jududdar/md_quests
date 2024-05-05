@@ -1,6 +1,11 @@
 # Lord Grimrot
 
 
+
+[Lord Grimrot](/npc/14134) is a level 29 Skeleton Shadow Knight that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## Dialog
 
 **You say:** `hail`

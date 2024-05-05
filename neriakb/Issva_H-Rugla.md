@@ -1,4 +1,9 @@
-# Issva H-Rugla
+# Issva H\`Rugla
+
+
+
+[Issva H\`Rugla](/npc/41064) is a level 37 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 

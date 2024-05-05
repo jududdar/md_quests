@@ -1,6 +1,11 @@
 # Palon Deskeb
 
 
+
+[Palon Deskeb](/npc/9072) is a level 61 Erudite GM Wizard that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

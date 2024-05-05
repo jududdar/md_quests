@@ -1,6 +1,11 @@
 # Gkrean Prophet of Tallon
 
 
+
+[Gkrean Prophet of Tallon](/npc/113155) is a level 58 Giant Cleric that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

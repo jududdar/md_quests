@@ -1,6 +1,11 @@
 # An Arx Praetorian
 
 
+
+[An Arx Praetorian](/npc/159351) is a level 55 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

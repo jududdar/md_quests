@@ -1,6 +1,11 @@
 # Blinza Toepopal
 
 
+
+[Blinza Toepopal](/npc/19088) is a level 10 Halfling Rogue that spawns in [Rivervale](/zone/19).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *jillin* for 550 seconds

@@ -1,6 +1,11 @@
 # Marlyn McMerin
 
 
+
+[Marlyn McMerin](/npc/84192) is a level 40 Barbarian Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Watcher Opa
 
 
+
+[Watcher Opa](/npc/159674) is a level 49 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

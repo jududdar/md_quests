@@ -1,6 +1,11 @@
 # Bryce McFadden
 
 
+
+[Bryce McFadden](/npc/174069) is a level 44 Halfling Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

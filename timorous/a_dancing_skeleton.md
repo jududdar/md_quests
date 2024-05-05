@@ -1,6 +1,11 @@
 # a dancing skeleton
 
 
+
+[a dancing skeleton](/npc/96088) is a level 29 Undead Iksar Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## Dialog
 
 **You say:** `gomoz`

@@ -1,4 +1,9 @@
 # Agnarr the Storm Lord
+
+
+
+[Agnarr the Storm Lord](/npc/209026) is a level 75 Karana Warrior that spawns in [Bastion of Thunder](/zone/209).
+
 local KARANA_TYPE = 209136;
 local JOLUR_TYPE = 209147; 
 local EKIL_TYPE = 209142; 

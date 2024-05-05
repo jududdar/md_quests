@@ -2,6 +2,11 @@
 
 
 
+[Winda Lylil](/npc/10062) is a level 20 Human Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Aqaar Aluram
 
 
+
+[Aqaar Aluram](/npc/47132) is a level 25 Erudite Warrior that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

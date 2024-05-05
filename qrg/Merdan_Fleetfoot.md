@@ -1,6 +1,11 @@
 # Merdan Fleetfoot
 
 
+
+[Merdan Fleetfoot](/npc/3017) is a level 38 Human Warrior that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

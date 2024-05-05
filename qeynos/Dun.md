@@ -1,6 +1,11 @@
 # Dun
 
 
+
+[Dun](/npc/1087) is a level 45 Barbarian Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Turn-Ins
 
 

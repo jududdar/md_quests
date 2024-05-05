@@ -1,6 +1,11 @@
 # Fyking Baer
 
 
+
+[Fyking Baer](/npc/208069) is a level 66 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

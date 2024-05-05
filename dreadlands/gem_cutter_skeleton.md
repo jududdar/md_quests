@@ -2,6 +2,11 @@
 
 
 
+[gem cutter skeleton](/npc/86119) is a level 23 Skeleton Warrior that spawns in [The Dreadlands](/zone/86).
+
+
+
+
 
 
 

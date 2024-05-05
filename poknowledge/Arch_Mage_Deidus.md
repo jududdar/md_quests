@@ -2,6 +2,11 @@
 
 
 
+[Arch Mage Deidus](/npc/202259) is a level 61 Dark Elf GM Magician that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # a faun outcast
 
 
+
+[a faun outcast](/npc/119058) is a level 38 Yakkar Rogue that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

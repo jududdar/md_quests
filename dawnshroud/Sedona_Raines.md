@@ -2,6 +2,11 @@
 
 
 
+[Sedona Raines](/npc/174066) is a level 44 High Elf Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
+
 
 
 ## Dialog

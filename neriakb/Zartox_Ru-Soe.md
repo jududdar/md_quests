@@ -1,4 +1,9 @@
-# Zartox Ru-Soe
+# Zartox Ru\`Soe
+
+
+
+[Zartox Ru\`Soe](/npc/41090) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

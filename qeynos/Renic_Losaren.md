@@ -1,6 +1,11 @@
 # Renic Losaren
 
 
+
+[Renic Losaren](/npc/1046) is a level 61 Human GM Cleric that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

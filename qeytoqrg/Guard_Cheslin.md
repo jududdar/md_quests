@@ -1,6 +1,11 @@
 # Guard Cheslin
 
 
+
+[Guard Cheslin](/npc/4081) is a level 2 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

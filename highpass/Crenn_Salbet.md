@@ -1,6 +1,11 @@
 # Crenn Salbet
 
 
+
+[Crenn Salbet](/npc/5053) is a level 38 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

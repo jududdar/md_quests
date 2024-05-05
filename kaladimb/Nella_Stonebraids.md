@@ -1,6 +1,11 @@
 # Nella Stonebraids
 
 
+
+[Nella Stonebraids](/npc/67090) is a level 50 Dwarf Warrior that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

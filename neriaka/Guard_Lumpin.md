@@ -1,6 +1,11 @@
 # Guard Lumpin
 
 
+
+[Guard Lumpin](/npc/40067) is a level 18 Troll Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

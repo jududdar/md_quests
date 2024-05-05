@@ -1,6 +1,11 @@
 # Henna Treghost
 
 
+
+[Henna Treghost](/npc/10172) is a level 18 Human Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sing* for 1040 seconds

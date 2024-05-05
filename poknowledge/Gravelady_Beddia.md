@@ -1,6 +1,11 @@
 # Gravelady Beddia
 
 
+
+[Gravelady Beddia](/npc/202171) is a level 40 Human Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

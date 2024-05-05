@@ -1,6 +1,11 @@
 # Defender Dutrolian
 
 
+
+[Defender Dutrolian](/npc/150028) is a level 55 Barbarian Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

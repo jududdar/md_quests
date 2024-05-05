@@ -1,4 +1,9 @@
 # directional
+
+
+
+
+
 function Mob:DirectionalAreaEffectList(angle_start, angle_end, aoe_range, min_range, m_list)
 
 

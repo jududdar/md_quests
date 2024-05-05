@@ -1,6 +1,11 @@
 # a storm giant foreman
 
 
+
+[a storm giant foreman](/npc/119021) is a level 45 Giant Shadow Knight that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

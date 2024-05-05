@@ -1,6 +1,11 @@
 # Zlandicar
 
 
+
+[Zlandicar](/npc/123115) is a level 70 Dragon Necromancer that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## Dialog
 
 **You say:** `hail`

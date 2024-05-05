@@ -1,6 +1,11 @@
 # A Praetorian Decipio
 
 
+
+[A Praetorian Decipio](/npc/159104) is a level 64 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

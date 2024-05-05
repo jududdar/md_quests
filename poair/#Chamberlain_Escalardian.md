@@ -1,6 +1,11 @@
 # Chamberlain Escalardian
 
 
+
+[Chamberlain Escalardian](/npc/215411) is a level 70 Animated Armor Warrior that spawns in [Plane of Air](/zone/215).
+
+
+
 ## On NPC Death
 
 **Despawn NPC:**  [armor guy](/npc/215418)

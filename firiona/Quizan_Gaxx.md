@@ -1,6 +1,11 @@
 # Quizan Gaxx
 
 
+
+[Quizan Gaxx](/npc/84196) is a level 40 High Elf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

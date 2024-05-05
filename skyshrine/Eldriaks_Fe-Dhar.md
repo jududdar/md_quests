@@ -1,4 +1,9 @@
-# Eldriaks Fe-Dhar
+# Eldriaks Fe\`Dhar
+
+
+
+[Eldriaks Fe\`Dhar](/npc/114611) is a level 55 Wyvern Cleric that spawns in [Skyshrine](/zone/114).
+
 
 
 ## Dialog

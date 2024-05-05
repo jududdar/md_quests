@@ -1,6 +1,11 @@
 # Solusek Ro
 
 
+
+[Solusek Ro](/npc/212025) is a level 80 Solusek Ro Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## Combat
 
 if  Solusek Ro enters combat  then

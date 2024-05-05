@@ -1,6 +1,11 @@
 # A Protector of the Heart
 
 
+
+[A Protector of the Heart](/npc/159068) is a level 46 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

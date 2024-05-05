@@ -1,6 +1,11 @@
 # Alhareen the Just
 
 
+
+[Alhareen the Just](/npc/5040) is a level 61 Barbarian Shaman that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

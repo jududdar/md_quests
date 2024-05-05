@@ -2,6 +2,11 @@
 
 
 
+[Ysanna MacGibbon](/npc/29070) is a level 61 Barbarian GM Rogue that spawns in [Halas](/zone/29).
+
+
+
+
 
 ## Signals
 

@@ -1,4 +1,9 @@
-# Tani N-Mar
+# Tani N\`Mar
+
+
+
+[Tani N\`Mar](/npc/42000) is a level 45 Dark Elf GM Rogue that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

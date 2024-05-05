@@ -1,4 +1,9 @@
 # script init
+
+
+
+
+
 eq.load_encounter("Drornok");
 eq.load_encounter("Jeplak");
 eq.load_encounter("Gurebk");

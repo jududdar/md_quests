@@ -1,4 +1,9 @@
-# Molon T-Plth
+# Molon T\`plth
+
+
+
+[Molon T\`plth](/npc/42097) is a level 14 Dark Elf Rogue that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

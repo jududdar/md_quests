@@ -2,6 +2,11 @@
 
 
 
+[a sarnak spy](/npc/92107) is a level 40 Sarnak Warrior that spawns in [Frontier Mountains](/zone/92).
+
+
+
+
 
 
 

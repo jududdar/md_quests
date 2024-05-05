@@ -2,6 +2,11 @@
 
 
 
+[Harla Dar](/npc/120057) is a level 66 Dragon Enchanter that spawns in [Western Wastes](/zone/120).
+
+
+
+
 
 ## Dialog
 

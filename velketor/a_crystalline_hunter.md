@@ -1,6 +1,11 @@
 # a crystalline hunter
 
 
+
+[a crystalline hunter](/npc/112044) is a level 48 Spider Rogue that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds

@@ -1,4 +1,9 @@
-# Rysva To-Biath
+# Rysva To\`Biath
+
+
+
+[Rysva To\`Biath](/npc/41042) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 

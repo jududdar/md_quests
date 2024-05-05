@@ -1,6 +1,11 @@
 # Legionnaire Galea
 
 
+
+[Legionnaire Galea](/npc/159021) is a level 46 Human Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

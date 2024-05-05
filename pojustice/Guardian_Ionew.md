@@ -2,6 +2,11 @@
 
 
 
+[Guardian Ionew](/npc/201355) is a level 44 Gargoyle Magician that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

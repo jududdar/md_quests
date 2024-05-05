@@ -1,6 +1,11 @@
 # a kobold wanderer
 
 
+
+[a kobold wanderer](/npc/100160) is a level 13 Kobold Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

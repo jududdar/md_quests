@@ -1,6 +1,11 @@
 # Barkeep Nejat
 
 
+
+[Barkeep Nejat](/npc/155270) is a level 45 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

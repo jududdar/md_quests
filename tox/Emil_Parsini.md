@@ -1,6 +1,11 @@
 # Emil Parsini
 
 
+
+[Emil Parsini](/npc/38074) is a level 25 Erudite Shopkeeper that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

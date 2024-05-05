@@ -1,6 +1,11 @@
 # A storm portal
 
 
+
+[A storm portal](/npc/209034) is a level 40 BoT Portal Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

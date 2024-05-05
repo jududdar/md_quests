@@ -1,6 +1,11 @@
 # Leraena Shelyrak
 
 
+
+[Leraena Shelyrak](/npc/24081) is a level 61 Erudite GM Cleric that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

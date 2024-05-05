@@ -1,6 +1,11 @@
 # a foreboding tree
 
 
+
+[a foreboding tree](/npc/204484) is a level 1 Treant Warrior that spawns in [Plane of Nightmares](/zone/204).
+
+
+
 ## Signals
 
 

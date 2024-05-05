@@ -1,6 +1,11 @@
 # Anafora Silverlake
 
 
+
+[Anafora Silverlake](/npc/159431) is a level 45 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

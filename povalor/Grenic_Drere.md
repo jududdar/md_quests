@@ -1,6 +1,11 @@
 # Grenic Drere
 
 
+
+[Grenic Drere](/npc/208025) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a fish
 
 
+
+[a fish](/npc/3002) is a level 1 Fish Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## On NPC Spawn
 
 local xloc = e.self:GetX();

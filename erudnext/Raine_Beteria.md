@@ -1,6 +1,11 @@
 # Raine Beteria
 
 
+
+[Raine Beteria](/npc/24021) is a level 35 Erudite Shopkeeper that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

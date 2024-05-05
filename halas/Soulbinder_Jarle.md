@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Jarle](/npc/29076) is a level 1 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
+
 
 ## Dialog
 

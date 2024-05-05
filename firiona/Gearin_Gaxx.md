@@ -1,6 +1,11 @@
 # Gearin Gaxx
 
 
+
+[Gearin Gaxx](/npc/84191) is a level 40 High Elf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

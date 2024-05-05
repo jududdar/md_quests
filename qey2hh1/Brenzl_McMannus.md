@@ -1,6 +1,11 @@
 # Brenzl McMannus
 
 
+
+[Brenzl McMannus](/npc/12096) is a level 25 Barbarian Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

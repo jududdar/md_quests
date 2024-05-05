@@ -2,6 +2,11 @@
 
 
 
+[Moobik](/npc/201297) is a level 42 Ogre Shadow Knight that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Oracle Vauris](/npc/78082) is a level 61 Iksar GM Shaman that spawns in [Field of Bone](/zone/78).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

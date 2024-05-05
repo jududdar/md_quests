@@ -1,4 +1,9 @@
-# a Ry-Gorr messenger
+# a Ry\`Gorr messenger
+
+
+
+[a Ry\`Gorr messenger](/npc/116211) is a level 27 Orc Warrior that spawns in [Eastern Wastes](/zone/116).
+
 
 
 ## On NPC Spawn

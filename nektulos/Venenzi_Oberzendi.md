@@ -2,6 +2,11 @@
 
 
 
+[Venenzi Oberzendi](/npc/25113) is a level 50 Dark Elf Necromancer that spawns in [Nektulos Forest](/zone/25).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Misty Storyswapper
 
 
+
+[Misty Storyswapper](/npc/12100) is a level 13 Half Elf Bard that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

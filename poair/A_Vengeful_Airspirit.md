@@ -1,6 +1,11 @@
 # A Vengeful Airspirit
 
 
+
+[A Vengeful Airspirit](/npc/215413) is a level 46 Animated Armor Warrior that spawns in [Plane of Air](/zone/215).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

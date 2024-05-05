@@ -2,6 +2,11 @@
 
 
 
+[Marl Kastane](/npc/74001) is a level 60 Human Shadow Knight that spawns in [Kerra Isle](/zone/74).
+
+
+
+
 
 ## Dialog
 

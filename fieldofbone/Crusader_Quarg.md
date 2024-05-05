@@ -2,6 +2,11 @@
 
 
 
+[Crusader Quarg](/npc/78072) is a level 50 Iksar Shadow Knight that spawns in [Field of Bone](/zone/78).
+
+
+
+
 
 
 ## Dialog

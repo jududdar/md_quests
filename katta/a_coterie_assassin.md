@@ -1,6 +1,11 @@
 # a coterie assassin
 
 
+
+
+
+
+
 ## Combat
 
 if a coterie assassin enters combat  then

@@ -1,6 +1,11 @@
 # Tara Neklene
 
 
+
+[Tara Neklene](/npc/9077) is a level 61 Human GM Magician that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

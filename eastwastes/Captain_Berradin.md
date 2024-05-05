@@ -1,6 +1,11 @@
 # Captain Berradin
 
 
+
+[Captain Berradin](/npc/116098) is a level 42 Coldain Paladin that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Turn-Ins
 
 

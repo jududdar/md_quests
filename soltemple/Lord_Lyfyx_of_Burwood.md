@@ -2,6 +2,11 @@
 
 
 
+[Lord Lyfyx of Burwood](/npc/80038) is a level 45 High Elf Paladin that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 
 ## Dialog

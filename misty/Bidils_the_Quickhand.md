@@ -2,6 +2,11 @@
 
 
 
+[Bidils the Quickhand](/npc/33076) is a level 61 Halfling Rogue that spawns in [Misty Thicket](/zone/33).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Guntrik
 
 
+
+[Guntrik](/npc/49046) is a level 61 Ogre GM Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Misty Tekcihta
 
 
+
+[Misty Tekcihta](/npc/51052) is a level 51 Half Elf Warrior that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

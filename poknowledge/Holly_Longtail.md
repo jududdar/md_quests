@@ -2,6 +2,11 @@
 
 
 
+[Holly Longtail](/npc/202021) is a level 60 Vah Shir Beastlord that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -2,6 +2,11 @@
 
 
 
+[Dread](/npc/72000) is a level 55 Golem Warrior that spawns in [Plane of Fear](/zone/72).
+
+
+
+
 
 ## Signals
 

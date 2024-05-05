@@ -1,6 +1,11 @@
 # Retlon Brenclog
 
 
+
+[Retlon Brenclog](/npc/58017) is a level 16 Gnome Magician that spawns in [Crushbone](/zone/58).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Trademaster Korvesh
 
 
+
+[Trademaster Korvesh](/npc/153093) is a level 45 Gnome Banker that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

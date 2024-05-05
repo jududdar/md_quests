@@ -1,6 +1,11 @@
 # Guard Liben
 
 
+
+[Guard Liben](/npc/2122) is a level 5 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

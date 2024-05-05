@@ -1,4 +1,9 @@
-# Dran -slug- Rembor
+# Dran \`slug\` Rembor
+
+
+
+[Dran \`slug\` Rembor](/npc/40061) is a level 40 Human Shopkeeper that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 

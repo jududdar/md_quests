@@ -1,6 +1,11 @@
 # Zrithsadioun
 
 
+
+[Zrithsadioun](/npc/14145) is a level 50 Gnoll Necromancer that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## Dialog
 
 **You say:** `hail`

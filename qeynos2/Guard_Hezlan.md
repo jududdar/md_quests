@@ -2,6 +2,11 @@
 
 
 
+[Guard Hezlan](/npc/2094) is a level 50 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

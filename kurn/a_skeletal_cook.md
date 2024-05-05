@@ -1,6 +1,11 @@
 # a skeletal cook
 
 
+
+[a skeletal cook](/npc/97002) is a level 14 Undead Iksar Warrior that spawns in [Kurn's Tower](/zone/97).
+
+
+
 ## Dialog
 
 **You say:** `hail`

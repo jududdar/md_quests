@@ -1,6 +1,11 @@
 # Johanius Barleou the Slayer
 
 
+
+[Johanius Barleou the Slayer](/npc/172008) is a level 24 Human Rogue that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

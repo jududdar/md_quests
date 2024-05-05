@@ -1,6 +1,11 @@
 # Clrakk Blackfist
 
 
+
+[Clrakk Blackfist](/npc/113258) is a level 45 Giant Shadow Knight that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Lookout Yereil
 
 
+
+[Lookout Yereil](/npc/150021) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 >**Lookout Yereil says:** Thank ya General, I do me best to protect our fine citizens.

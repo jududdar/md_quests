@@ -1,6 +1,11 @@
 # a raging highland kobold
 
 
+
+[a raging highland kobold](/npc/100177) is a level 25 Kobold Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

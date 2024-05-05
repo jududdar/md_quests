@@ -1,6 +1,11 @@
 # Meera Lylon
 
 
+
+[Meera Lylon](/npc/1004) is a level 10 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

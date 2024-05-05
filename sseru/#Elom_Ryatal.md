@@ -1,6 +1,11 @@
 # Elom Ryatal
 
 
+
+[Elom Ryatal](/npc/159045) is a level 44 Gnome Enchanter that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

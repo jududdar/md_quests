@@ -1,4 +1,9 @@
-# Felok N-Tan
+# Felok N\`Tan
+
+
+
+[Felok N\`Tan](/npc/41047) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

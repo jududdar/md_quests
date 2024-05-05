@@ -1,6 +1,11 @@
 # Guard Elron
 
 
+
+[Guard Elron](/npc/2080) is a level 35 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

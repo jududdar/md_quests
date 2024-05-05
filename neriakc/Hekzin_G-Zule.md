@@ -1,4 +1,9 @@
-# Hekzin G-Zule
+# Hekzin G\`Zule
+
+
+
+[Hekzin G\`Zule](/npc/42045) is a level 61 Dark Elf GM Rogue that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

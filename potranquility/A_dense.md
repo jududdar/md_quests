@@ -1,6 +1,11 @@
 # A dense
 
 
+
+
+
+
+
 ## On NPC Spawn
 
 local xloc = e.self:GetX();

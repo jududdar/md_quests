@@ -2,6 +2,11 @@
 
 
 
+[Maligar](/npc/12076) is a level 40 Human Necromancer that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Turn-Ins
 

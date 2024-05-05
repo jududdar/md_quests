@@ -2,6 +2,11 @@
 
 
 
+[Mazrien](/npc/124090) is a level 60 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## Combat
 

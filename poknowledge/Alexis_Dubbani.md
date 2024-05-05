@@ -2,6 +2,11 @@
 
 
 
+[Alexis Dubbani](/npc/202013) is a level 60 Human Cleric that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

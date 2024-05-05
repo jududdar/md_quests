@@ -1,6 +1,11 @@
 # Frist Furtun
 
 
+
+[Frist Furtun](/npc/84177) is a level 49 Dwarf Cleric that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Guard Antilles
 
 
+
+[Guard Antilles](/npc/6162) is a level 27 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

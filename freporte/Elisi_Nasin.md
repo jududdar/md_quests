@@ -1,6 +1,11 @@
 # Elisi Nasin
 
 
+
+[Elisi Nasin](/npc/10108) is a level 61 Human GM Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

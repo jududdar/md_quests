@@ -1,6 +1,11 @@
 # Banker Karra Kai
 
 
+
+[Banker Karra Kai](/npc/165155) is a level 30 Vah Shir Banker that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

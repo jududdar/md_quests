@@ -1,4 +1,9 @@
-# Neverral N-Ryt
+# Neverral N\`Ryt
+
+
+
+[Neverral N\`Ryt](/npc/202315) is a level 40 Dark Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
 
 
 ## Dialog

@@ -1,4 +1,9 @@
 # Stop Cheating
+
+
+
+
+
 local BAD_COORDS = {
 
 

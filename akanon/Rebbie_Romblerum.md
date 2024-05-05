@@ -2,6 +2,11 @@
 
 
 
+[Rebbie Romblerum](/npc/55023) is a level 35 Gnome Rogue that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

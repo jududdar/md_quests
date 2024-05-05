@@ -1,6 +1,11 @@
 # Centurion Xaxi
 
 
+
+[Centurion Xaxi](/npc/159481) is a level 50 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sergeant Slate
 
 
+
+[Sergeant Slate](/npc/22067) is a level 41 Guard Warrior that spawns in [East Commonlands](/zone/22).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp==2 or e.wp==4 or e.wp==6) then

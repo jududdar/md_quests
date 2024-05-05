@@ -1,6 +1,11 @@
 # Deputy Finlip
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

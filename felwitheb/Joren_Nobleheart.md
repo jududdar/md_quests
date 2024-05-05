@@ -2,6 +2,11 @@
 
 
 
+[Joren Nobleheart](/npc/62000) is a level 60 High Elf Paladin that spawns in [Southern Felwithe](/zone/62).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Gren Frikniller
 
 
+
+[Gren Frikniller](/npc/10122) is a level 14 Halfling Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

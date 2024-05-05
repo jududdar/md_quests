@@ -1,4 +1,9 @@
-# Geoard Bluehawk
+# Geoard BlueHawk
+
+
+
+[Geoard BlueHawk](/npc/24068) is a level 25 Erudite Shopkeeper that spawns in [Erudin](/zone/24).
+
 
 
 ## Dialog

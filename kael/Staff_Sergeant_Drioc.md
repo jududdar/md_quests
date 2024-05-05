@@ -1,6 +1,11 @@
 # Staff Sergeant Drioc
 
 
+
+[Staff Sergeant Drioc](/npc/113067) is a level 50 Giant Paladin that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

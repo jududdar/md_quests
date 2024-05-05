@@ -1,6 +1,11 @@
 # Seta Bakindo
 
 
+
+[Seta Bakindo](/npc/2086) is a level 61 Human GM Monk that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() < 4.0) then

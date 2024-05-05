@@ -1,6 +1,11 @@
 # Chief Kalan
 
 
+
+[Chief Kalan](/npc/117051) is a level 56 Othmir Shaman that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

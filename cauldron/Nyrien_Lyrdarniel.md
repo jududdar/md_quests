@@ -1,6 +1,11 @@
 # Nyrien Lyrdarniel
 
 
+
+[Nyrien Lyrdarniel](/npc/70006) is a level 20 High Elf Cleric that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## Dialog
 
 fac = e.other:GetFaction(e.self);

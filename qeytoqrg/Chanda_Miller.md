@@ -1,6 +1,11 @@
 # Chanda Miller
 
 
+
+[Chanda Miller](/npc/4052) is a level 25 Half Elf Rogue that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

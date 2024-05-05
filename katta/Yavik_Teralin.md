@@ -1,6 +1,11 @@
 # Yavik Teralin
 
 
+
+[Yavik Teralin](/npc/160226) is a level 36 Human Ranger that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *tree* for 1800 seconds

@@ -1,6 +1,11 @@
 # Bjrakor the Cold
 
 
+
+[Bjrakor the Cold](/npc/113151) is a level 55 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

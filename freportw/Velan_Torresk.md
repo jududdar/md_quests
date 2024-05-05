@@ -1,6 +1,11 @@
 # Velan Torresk
 
 
+
+[Velan Torresk](/npc/9065) is a level 61 Human GM Monk that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

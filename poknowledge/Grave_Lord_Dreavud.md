@@ -2,6 +2,11 @@
 
 
 
+[Grave Lord Dreavud](/npc/202260) is a level 61 Troll GM Shadow Knight that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

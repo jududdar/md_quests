@@ -1,6 +1,11 @@
 # Sheriff Roglio
 
 
+
+[Sheriff Roglio](/npc/19058) is a level 61 Halfling GM Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

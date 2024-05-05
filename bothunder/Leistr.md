@@ -1,6 +1,11 @@
 # Leistr
 
 
+
+[Leistr](/npc/209056) is a level 65 Stormrider Rogue that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Leistr enters combat  then

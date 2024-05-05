@@ -2,6 +2,11 @@
 
 
 
+[Palomidiar Allakhaji](/npc/150088) is a level 65 Erudite GM Enchanter that spawns in [Shadow Haven](/zone/150).
+
+
+
+
 
 ## Dialog
 

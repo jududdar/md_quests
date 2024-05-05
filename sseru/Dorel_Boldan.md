@@ -1,6 +1,11 @@
 # Dorel Boldan
 
 
+
+[Dorel Boldan](/npc/159379) is a level 52 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

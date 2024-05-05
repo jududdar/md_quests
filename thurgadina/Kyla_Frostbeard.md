@@ -1,6 +1,11 @@
 # Kyla Frostbeard
 
 
+
+[Kyla Frostbeard](/npc/115149) is a level 38 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 local QUEST_TEXT = {

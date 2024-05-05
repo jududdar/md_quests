@@ -1,6 +1,11 @@
 # Belious Naliedin
 
 
+
+[Belious Naliedin](/npc/1125) is a level 61 Human GM Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Signals
 
 >**Belious Naliedin says:** Sure. Go Ahead and play it now, while the stage is clear.

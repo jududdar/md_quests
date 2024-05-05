@@ -1,6 +1,11 @@
 # Horoal Deathdealer
 
 
+
+[Horoal Deathdealer](/npc/153088) is a level 30 Human Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

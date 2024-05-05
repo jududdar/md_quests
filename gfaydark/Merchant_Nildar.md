@@ -1,6 +1,11 @@
 # Merchant Nildar
 
 
+
+[Merchant Nildar](/npc/54166) is a level 40 Guard Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Turn-Ins
 
 

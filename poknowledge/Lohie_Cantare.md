@@ -2,6 +2,11 @@
 
 
 
+[Lohie Cantare](/npc/202016) is a level 60 Half Elf Bard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

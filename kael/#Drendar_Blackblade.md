@@ -1,6 +1,11 @@
 # Drendar Blackblade
 
 
+
+[Drendar Blackblade](/npc/113037) is a level 66 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Combat
 
 

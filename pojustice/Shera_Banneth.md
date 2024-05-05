@@ -1,6 +1,11 @@
 # Shera Banneth
 
 
+
+[Shera Banneth](/npc/201345) is a level 42 Barbarian Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 100 seconds

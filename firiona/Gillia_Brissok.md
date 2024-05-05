@@ -1,6 +1,11 @@
 # Gillia Brissok
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

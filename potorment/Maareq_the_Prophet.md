@@ -1,4 +1,9 @@
 # Maareq the Prophet
+
+
+
+[Maareq the Prophet](/npc/207004) is a level 70 Human Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
 local power = 0;
 local state = 0;
 

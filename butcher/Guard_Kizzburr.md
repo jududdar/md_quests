@@ -1,6 +1,11 @@
 # Guard Kizzburr
 
 
+
+[Guard Kizzburr](/npc/68025) is a level 25 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 2) then

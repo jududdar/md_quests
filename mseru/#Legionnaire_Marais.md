@@ -1,6 +1,11 @@
 # Legionnaire Marais
 
 
+
+[Legionnaire Marais](/npc/168009) is a level 1 Recuso Warrior that spawns in [Marus Seru](/zone/168).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

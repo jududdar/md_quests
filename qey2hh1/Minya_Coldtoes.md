@@ -1,6 +1,11 @@
 # Minya Coldtoes
 
 
+
+[Minya Coldtoes](/npc/12024) is a level 45 Human Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `follower of Karana`

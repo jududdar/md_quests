@@ -1,6 +1,11 @@
 # Mjeldor Felstorm
 
 
+
+[Mjeldor Felstorm](/npc/113161) is a level 30 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 local quest_helper = require('velious_quest_helper');
 local KAEL_ARMOR = quest_helper.KAEL_ARMOR;
 

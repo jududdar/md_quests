@@ -1,6 +1,11 @@
 # Arch Mage Alchtonion
 
 
+
+[Arch Mage Alchtonion](/npc/215011) is a level 65 Nilborien Wizard that spawns in [Plane of Air](/zone/215).
+
+
+
 ## Combat
 
 if  Arch Mage Alchtonion enters combat  then

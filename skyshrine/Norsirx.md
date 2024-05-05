@@ -1,6 +1,11 @@
 # Norsirx
 
 
+
+[Norsirx](/npc/114578) is a level 32 Drake Monk that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

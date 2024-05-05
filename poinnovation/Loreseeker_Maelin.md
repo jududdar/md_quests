@@ -1,6 +1,11 @@
 # Loreseeker Maelin
 
 
+
+[Loreseeker Maelin](/npc/206209) is a level 75 Gnome Wizard that spawns in [Plane of Innovation](/zone/206).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

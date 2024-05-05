@@ -1,6 +1,11 @@
 # Vkjor
 
 
+
+[Vkjor](/npc/113365) is a level 50 Giant Enchanter that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

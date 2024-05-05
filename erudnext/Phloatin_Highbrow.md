@@ -1,6 +1,11 @@
 # Phloatin Highbrow
 
 
+
+[Phloatin Highbrow](/npc/24039) is a level 17 Erudite Warrior that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # General Keraj
 
 
+
+[General Keraj](/npc/155162) is a level 50 Guard Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 210 seconds

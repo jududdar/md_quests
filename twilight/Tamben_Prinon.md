@@ -1,6 +1,11 @@
 # Tamben Prinon
 
 
+
+[Tamben Prinon](/npc/170147) is a level 35 Barbarian Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Spiritist Fehril](/npc/155070) is a level 61 Vah Shir GM Shaman that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 ## Dialog
 

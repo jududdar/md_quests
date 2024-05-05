@@ -1,6 +1,11 @@
 # Gornolin
 
 
+
+[Gornolin](/npc/4003) is a level 20 Human Shopkeeper that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *nosell* for 1 seconds

@@ -1,6 +1,11 @@
 # Ryann Desgrey
 
 
+
+[Ryann Desgrey](/npc/174175) is a level 55 Human Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

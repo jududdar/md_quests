@@ -1,6 +1,11 @@
 # Quegin Hadder
 
 
+
+[Quegin Hadder](/npc/12164) is a level 4 Human Paladin that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

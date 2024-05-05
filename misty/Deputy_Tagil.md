@@ -1,6 +1,11 @@
 # Deputy Tagil
 
 
+
+[Deputy Tagil](/npc/33090) is a level 50 Halfling Warrior that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Madame Serena
 
 
+
+[Madame Serena](/npc/1092) is a level 10 Human Enchanter that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

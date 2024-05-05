@@ -1,6 +1,11 @@
 # Sergeant Gerrin Bakeside
 
 
+
+[Sergeant Gerrin Bakeside](/npc/208014) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

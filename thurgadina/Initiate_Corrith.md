@@ -2,6 +2,11 @@
 
 
 
+[Initiate Corrith](/npc/115205) is a level 32 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## On NPC Spawn
 

@@ -1,4 +1,9 @@
 # Talym Shoontar
+
+
+
+[Talym Shoontar](/npc/1166) is a level 15 Barbarian Warrior that spawns in [East Freeport](/zone/10).
+
 local factionId = 0;
 
 

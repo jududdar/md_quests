@@ -1,6 +1,11 @@
 # Trainee Larden
 
 
+
+[Trainee Larden](/npc/165145) is a level 9 Vah Shir Warrior that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

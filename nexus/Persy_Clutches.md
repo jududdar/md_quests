@@ -1,6 +1,11 @@
 # Persy Clutches
 
 
+
+[Persy Clutches](/npc/152012) is a level 50 Human Magician that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -2,6 +2,11 @@
 
 
 
+[Legionnaire Neville](/npc/160416) is a level 34 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Trace the Tinker
 
 
+
+[Trace the Tinker](/npc/153114) is a level 35 Gnome Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Deyid the Twisted
+
+
+
+[Deyid the Twisted](/npc/204461) is a level 65 Treant Warrior that spawns in [Plane of Nightmares](/zone/204).
+
 local SEILAEN_TYPE = 204047; 
 local FOREBODING_TYPE = 204484; 
 local BLIGHTED_TYPE = 204459; 

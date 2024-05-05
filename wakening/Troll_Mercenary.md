@@ -1,6 +1,11 @@
 # Troll Mercenary
 
 
+
+[Troll Mercenary](/npc/119015) is a level 34 Troll Shaman that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

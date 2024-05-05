@@ -2,6 +2,11 @@
 
 
 
+[Drigaz Grumblegrowl](/npc/55157) is a level 34 Kobold Cleric that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Toelia Snuckery
 
 
+
+[Toelia Snuckery](/npc/19059) is a level 61 Halfling GM Rogue that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

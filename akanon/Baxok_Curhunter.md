@@ -2,6 +2,11 @@
 
 
 
+[Baxok Curhunter](/npc/55136) is a level 61 Gnome GM Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

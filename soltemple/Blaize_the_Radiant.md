@@ -2,6 +2,11 @@
 
 
 
+[Blaize the Radiant](/npc/80030) is a level 40 High Elf Cleric that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

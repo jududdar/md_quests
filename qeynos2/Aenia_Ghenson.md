@@ -1,6 +1,11 @@
 # Aenia Ghenson
 
 
+
+[Aenia Ghenson](/npc/2096) is a level 13 Human Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

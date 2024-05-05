@@ -2,6 +2,11 @@
 
 
 
+[Savage Lord Cedrean](/npc/202236) is a level 61 Barbarian GM Beastlord that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

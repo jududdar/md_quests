@@ -1,6 +1,11 @@
 # Willie Garrote
 
 
+
+[Willie Garrote](/npc/1201) is a level 15 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

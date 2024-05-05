@@ -1,6 +1,11 @@
 # Rizlona
 
 
+
+[Rizlona](/npc/212026) is a level 70 Half Elf Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [\#Rizlona](/npc/212407) at this location.

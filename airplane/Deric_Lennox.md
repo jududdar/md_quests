@@ -1,6 +1,11 @@
 # Deric Lennox
 
 
+
+[Deric Lennox](/npc/71083) is a level 55 Dwarf Cleric that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

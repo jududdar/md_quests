@@ -1,4 +1,9 @@
-# Archpriest Del-Maque
+# Archpriest Del\`Maque
+
+
+
+[Archpriest Del\`Maque](/npc/201333) is a level 48 Dark Elf Necromancer that spawns in [Plane of Justice](/zone/201).
+
 
 
 

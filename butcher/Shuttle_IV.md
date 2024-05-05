@@ -1,6 +1,11 @@
 # Shuttle IV
 
 
+
+[Shuttle IV](/npc/849) is a level 50 Launch Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

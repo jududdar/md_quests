@@ -2,6 +2,11 @@
 
 
 
+[Sentry Rotiart](/npc/114626) is a level 43 Golem Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
+
 
 ## Turn-Ins
 

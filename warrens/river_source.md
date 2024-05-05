@@ -1,6 +1,11 @@
 # river source
 
 
+
+[river source](/npc/101136) is a level 1 Invisible Man Warrior that spawns in [The Warrens](/zone/101).
+
+
+
 ## Turn-Ins
 
 

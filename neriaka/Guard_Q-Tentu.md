@@ -1,4 +1,9 @@
-# Guard Q-Tentu
+# Guard Q\`Tentu
+
+
+
+[Guard Q\`Tentu](/npc/40051) is a level 35 Dark Elf Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Yovik Splegle
 
 
+
+[Yovik Splegle](/npc/9117) is a level 11 Human Wizard that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

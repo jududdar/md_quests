@@ -1,6 +1,11 @@
 # Gendalic
 
 
+
+[Gendalic](/npc/155209) is a level 25 Grimling Shadow Knight that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,4 +1,9 @@
 # a putrid skeleton
+
+
+
+[a putrid skeleton](/npc/4148) is a level 5 Skeleton Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

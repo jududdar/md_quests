@@ -1,6 +1,11 @@
 # Expin
 
 
+
+[Expin](/npc/54030) is a level 45 Wood Elf GM Rogue that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

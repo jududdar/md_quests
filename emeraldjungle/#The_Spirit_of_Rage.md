@@ -1,6 +1,11 @@
 # The Spirit of Rage
 
 
+
+[The Spirit of Rage](/npc/94126) is a level 55 Gorilla Warrior that spawns in [The Emerald Jungle](/zone/94).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds

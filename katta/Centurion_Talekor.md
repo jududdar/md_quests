@@ -1,6 +1,11 @@
 # Centurion Talekor
 
 
+
+[Centurion Talekor](/npc/160019) is a level 50 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

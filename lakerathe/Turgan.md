@@ -2,6 +2,11 @@
 
 
 
+[Turgan](/npc/51092) is a level 10 Human Warrior that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## Dialog
 

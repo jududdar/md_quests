@@ -1,6 +1,11 @@
 # A Vigilum Centurio
 
 
+
+[A Vigilum Centurio](/npc/159523) is a level 53 Human Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

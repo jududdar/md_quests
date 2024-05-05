@@ -1,6 +1,11 @@
 # Master Sergeant Aaramis Daryln
 
 
+
+[Master Sergeant Aaramis Daryln](/npc/208049) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

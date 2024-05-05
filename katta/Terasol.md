@@ -2,6 +2,11 @@
 
 
 
+[Terasol](/npc/160214) is a level 55 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

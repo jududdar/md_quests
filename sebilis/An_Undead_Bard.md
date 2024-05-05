@@ -1,4 +1,9 @@
 # An Undead Bard
+
+
+
+[An Undead Bard](/npc/89168) is a level 57 Skeleton Shopkeeper that spawns in [Ruins of Sebilis](/zone/89).
+
 local spawn;
 
 

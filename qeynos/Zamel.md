@@ -1,6 +1,11 @@
 # Zamel
 
 
+
+[Zamel](/npc/1079) is a level 10 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *help* for 300 seconds

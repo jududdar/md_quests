@@ -2,6 +2,11 @@
 
 
 
+[Knarthenne Skurl](/npc/38058) is a level 50 Erudite Shadow Knight that spawns in [Toxxulia Forest](/zone/38).
+
+
+
+
 
 ## Dialog
 

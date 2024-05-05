@@ -1,6 +1,11 @@
 # Chesgard Sydwen
 
 
+
+[Chesgard Sydwen](/npc/1044) is a level 61 Human GM Paladin that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

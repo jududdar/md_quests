@@ -1,6 +1,11 @@
 # Raenna Griff
 
 
+
+[Raenna Griff](/npc/9118) is a level 11 Human Paladin that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

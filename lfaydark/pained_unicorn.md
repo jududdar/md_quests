@@ -1,6 +1,11 @@
 # pained unicorn
 
 
+
+[pained unicorn](/npc/57035) is a level 60 Unicorn Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `hail`

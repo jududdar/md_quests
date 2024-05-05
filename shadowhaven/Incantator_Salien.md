@@ -1,6 +1,11 @@
 # Incantator Salien
 
 
+
+[Incantator Salien](/npc/150136) is a level 55 Human Wizard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

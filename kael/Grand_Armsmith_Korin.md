@@ -1,6 +1,11 @@
 # Grand Armsmith Korin
 
 
+
+[Grand Armsmith Korin](/npc/113163) is a level 30 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

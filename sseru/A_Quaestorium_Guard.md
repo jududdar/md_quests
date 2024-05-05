@@ -1,6 +1,11 @@
 # A Quaestorium Guard
 
 
+
+[A Quaestorium Guard](/npc/159274) is a level 53 Dwarf Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

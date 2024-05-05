@@ -2,6 +2,11 @@
 
 
 
+[Phantasmist Salkith](/npc/202257) is a level 61 Dark Elf GM Enchanter that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

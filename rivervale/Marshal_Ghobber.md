@@ -1,6 +1,11 @@
 # Marshal Ghobber
 
 
+
+[Marshal Ghobber](/npc/19056) is a level 61 Halfling GM Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 

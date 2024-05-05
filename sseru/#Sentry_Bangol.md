@@ -1,6 +1,11 @@
 # Sentry Bangol
 
 
+
+[Sentry Bangol](/npc/159053) is a level 46 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

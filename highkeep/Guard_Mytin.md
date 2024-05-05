@@ -1,6 +1,11 @@
 # Guard Mytin
 
 
+
+[Guard Mytin](/npc/6159) is a level 28 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

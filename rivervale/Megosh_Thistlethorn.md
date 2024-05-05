@@ -1,6 +1,11 @@
 # Megosh Thistlethorn
 
 
+
+[Megosh Thistlethorn](/npc/19045) is a level 61 Halfling GM Ranger that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

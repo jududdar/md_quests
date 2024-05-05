@@ -2,6 +2,11 @@
 
 
 
+[Gindlin Toxfodder](/npc/12011) is a level 40 Human Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

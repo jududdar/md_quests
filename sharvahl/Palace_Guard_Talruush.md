@@ -1,6 +1,11 @@
 # Palace Guard Talruush
 
 
+
+[Palace Guard Talruush](/npc/155019) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 35) then

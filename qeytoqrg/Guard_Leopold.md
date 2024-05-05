@@ -1,6 +1,11 @@
 # Guard Leopold
 
 
+
+[Guard Leopold](/npc/4061) is a level 38 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

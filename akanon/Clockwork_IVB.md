@@ -1,6 +1,11 @@
 # Clockwork IVB
 
 
+
+[Clockwork IVB](/npc/55197) is a level 32 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

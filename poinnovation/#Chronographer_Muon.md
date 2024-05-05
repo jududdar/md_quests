@@ -1,4 +1,9 @@
 # Chronographer Muon
+
+
+
+[Chronographer Muon](/npc/206044) is a level 70 Clockwork Golem Warrior that spawns in [Plane of Innovation](/zone/206).
+
 local MAELIN_TYPE = 206209;
 
 function HasItemInvOnly(client, itemid)

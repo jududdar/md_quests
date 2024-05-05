@@ -1,6 +1,11 @@
 # Lookout Falatalix
 
 
+
+[Lookout Falatalix](/npc/150034) is a level 55 Gnome Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 >**Lookout Falatalix says:** Not a problem sir.

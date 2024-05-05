@@ -1,6 +1,11 @@
 # Legionnaire Voleo
 
 
+
+[Legionnaire Voleo](/npc/159636) is a level 47 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

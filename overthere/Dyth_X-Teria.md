@@ -1,4 +1,9 @@
-# Dyth X-Teria
+# Dyth X\`Teria
+
+
+
+[Dyth X\`Teria](/npc/93116) is a level 61 Dark Elf GM Wizard that spawns in [The Overthere](/zone/93).
+
 
 
 

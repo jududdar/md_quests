@@ -1,6 +1,11 @@
 # Gakamenial Fir\`Disralsi
 
 
+
+[Gakamenial Fir\`Disralsi](/npc/215024) is a level 67 Phoenix Warrior that spawns in [Plane of Air](/zone/215).
+
+
+
 ## Combat
 
 if  Gakamenial Fir`Disralsi enters combat  then

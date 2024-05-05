@@ -1,6 +1,11 @@
 # A stalagtite
 
 
+
+
+
+
+
 ## Combat
 
 if (e.joined == true) then

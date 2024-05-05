@@ -1,6 +1,11 @@
 # Darfumpel Zirubbel
 
 
+
+[Darfumpel Zirubbel](/npc/50270) is a level 40 Gnome Shopkeeper that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

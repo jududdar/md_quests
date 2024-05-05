@@ -1,6 +1,11 @@
 # Sollari Bekines
 
 
+
+[Sollari Bekines](/npc/1050) is a level 61 Human GM Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -2,6 +2,11 @@
 
 
 
+[Councilman Taldarius](/npc/202127) is a level 75 Human Paladin that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

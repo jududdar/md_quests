@@ -2,6 +2,11 @@
 
 
 
+[a shady goblin](/npc/79056) is a level 40 Goblin Warrior that spawns in [Warsliks Woods](/zone/79).
+
+
+
+
 
 
 

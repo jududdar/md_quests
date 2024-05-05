@@ -1,6 +1,11 @@
 # Taisika Cloudfire
 
 
+
+[Taisika Cloudfire](/npc/203415) is a level 46 Human Banker that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

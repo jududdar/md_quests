@@ -1,6 +1,11 @@
 # Mayor Gubbin
 
 
+
+[Mayor Gubbin](/npc/19104) is a level 50 Halfling Ranger that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

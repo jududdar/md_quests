@@ -2,6 +2,11 @@
 
 
 
+[Mirao Frostpouch](/npc/202154) is a level 60 Barbarian Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

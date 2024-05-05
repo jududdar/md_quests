@@ -1,6 +1,11 @@
 # Adren Tholos
 
 
+
+[Adren Tholos](/npc/159334) is a level 60 Human Banker that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

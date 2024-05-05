@@ -1,6 +1,11 @@
 # Wayke Mudhands
 
 
+
+[Wayke Mudhands](/npc/150252) is a level 30 Halfling Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

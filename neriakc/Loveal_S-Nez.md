@@ -1,4 +1,9 @@
-# Loveal S-Nez
+# Loveal S\`Nez
+
+
+
+[Loveal S\`Nez](/npc/42042) is a level 61 Dark Elf GM Shadow Knight that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

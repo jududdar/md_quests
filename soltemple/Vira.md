@@ -1,6 +1,11 @@
 # Vira
 
 
+
+[Vira](/npc/80015) is a level 34 Gnome Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then

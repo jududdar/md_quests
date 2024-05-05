@@ -1,6 +1,11 @@
 # Jalor Housip
 
 
+
+[Jalor Housip](/npc/170055) is a level 40 Human Shopkeeper that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

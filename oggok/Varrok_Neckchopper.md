@@ -1,6 +1,11 @@
 # Varrok Neckchopper
 
 
+
+[Varrok Neckchopper](/npc/49055) is a level 40 Ogre Shopkeeper that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

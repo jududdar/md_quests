@@ -1,6 +1,11 @@
 # Savarixsa Zexus
 
 
+
+[Savarixsa Zexus](/npc/52055) is a level 40 Dark Elf Cleric that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `hail`

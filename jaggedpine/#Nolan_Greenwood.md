@@ -2,6 +2,11 @@
 
 
 
+[Nolan Greenwood](/npc/181085) is a level 61 Human GM Druid that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 
 ## Dialog

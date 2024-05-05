@@ -1,6 +1,11 @@
 # phoboplasm
 
 
+
+[phoboplasm](/npc/72082) is a level 48 Gelatinous Cube Warrior that spawns in [Plane of Fear (Instanced)](/zone/1072).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

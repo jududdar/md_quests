@@ -1,6 +1,11 @@
 # Deputy Shelmy
 
 
+
+[Deputy Shelmy](/npc/19109) is a level 22 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

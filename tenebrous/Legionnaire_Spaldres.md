@@ -1,6 +1,11 @@
 # Legionnaire Spaldres
 
 
+
+[Legionnaire Spaldres](/npc/172076) is a level 34 Human Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## Dialog
 
 **You say:** `hail`

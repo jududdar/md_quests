@@ -1,4 +1,9 @@
 # The Tribunal
+
+
+
+[The Tribunal](/npc/201427) is a level 66 The Tribunal Warrior that spawns in [Plane of Justice](/zone/201).
+
 local PREPARED_TEXT = {
 
 "nods slightly.  'Very well.  When you are ready, you may begin the trial of lashing.  You must protect the victims from their tormentors.  Be wary of the scourge of honor - you cannot fight it directly.  You must find and destroy its life force to defeat it.  We shall judge the mark of your success.'",

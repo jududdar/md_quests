@@ -1,6 +1,11 @@
 # Bull Crusher
 
 
+
+[Bull Crusher](/npc/40049) is a level 40 Ogre Shopkeeper that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

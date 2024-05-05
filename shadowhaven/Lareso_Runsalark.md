@@ -1,6 +1,11 @@
 # Lareso Runsalark
 
 
+
+[Lareso Runsalark](/npc/150072) is a level 50 Dwarf Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

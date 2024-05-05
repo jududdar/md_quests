@@ -1,6 +1,11 @@
 # Sentry Janeal
 
 
+
+[Sentry Janeal](/npc/8056) is a level 30 Human Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

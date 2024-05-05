@@ -2,6 +2,11 @@
 
 
 
+[Vasile Jahnir](/npc/23074) is a level 61 Erudite GM Magician that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 
 ## Dialog

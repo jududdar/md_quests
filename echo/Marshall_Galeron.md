@@ -1,6 +1,11 @@
 # Marshall Galeron
 
 
+
+[Marshall Galeron](/npc/153102) is a level 61 Barbarian GM Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

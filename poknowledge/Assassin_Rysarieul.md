@@ -2,6 +2,11 @@
 
 
 
+[Assassin Rysarieul](/npc/202010) is a level 61 Wood Elf GM Rogue that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

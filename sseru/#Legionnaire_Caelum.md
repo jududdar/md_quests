@@ -1,6 +1,11 @@
 # Legionnaire Caelum
 
 
+
+[Legionnaire Caelum](/npc/159622) is a level 48 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Thadres Thyme
 
 
+
+[Thadres Thyme](/npc/29013) is a level 5 Human Rogue that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

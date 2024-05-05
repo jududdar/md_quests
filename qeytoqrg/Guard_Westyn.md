@@ -1,6 +1,11 @@
 # Guard Westyn
 
 
+
+[Guard Westyn](/npc/4033) is a level 30 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `blackburrow`

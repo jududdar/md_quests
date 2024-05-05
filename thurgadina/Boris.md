@@ -1,6 +1,11 @@
 # Boris
 
 
+
+[Boris](/npc/115078) is a level 45 Ogre Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

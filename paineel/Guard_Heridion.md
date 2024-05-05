@@ -1,6 +1,11 @@
 # Guard Heridion
 
 
+
+[Guard Heridion](/npc/75048) is a level 10 Skeleton Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

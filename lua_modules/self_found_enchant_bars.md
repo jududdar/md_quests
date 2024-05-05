@@ -1,4 +1,9 @@
 # self found enchant bars
+
+
+
+
+
 local enchant_bars = {}
 
 function enchant_bars._check_bar_type(item_lib, self, other, trade, bar_data)

@@ -1,6 +1,11 @@
 # Sartar the Unrivaled
 
 
+
+[Sartar the Unrivaled](/npc/82046) is a level 61 Iksar Monk that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

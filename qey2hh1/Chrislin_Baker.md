@@ -2,6 +2,11 @@
 
 
 
+[Chrislin Baker](/npc/12074) is a level 45 Human Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

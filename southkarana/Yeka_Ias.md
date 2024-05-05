@@ -1,6 +1,11 @@
 # Yeka Ias
 
 
+
+[Yeka Ias](/npc/14078) is a level 60 Human Warrior that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *daydream* for 2700 seconds

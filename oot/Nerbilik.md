@@ -1,6 +1,11 @@
 # Nerbilik
 
 
+
+[Nerbilik](/npc/69064) is a level 20 Troll Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

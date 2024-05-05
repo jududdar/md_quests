@@ -1,6 +1,11 @@
 # Brother Chintle
 
 
+
+[Brother Chintle](/npc/12144) is a level 4 Human Cleric that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

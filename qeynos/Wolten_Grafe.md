@@ -1,6 +1,11 @@
 # Wolten Grafe
 
 
+
+[Wolten Grafe](/npc/1043) is a level 61 Human GM Paladin that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

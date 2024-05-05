@@ -1,6 +1,11 @@
 # Percontorius Salnu
 
 
+
+[Percontorius Salnu](/npc/159150) is a level 61 Human GM Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

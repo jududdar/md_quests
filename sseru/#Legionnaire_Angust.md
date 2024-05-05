@@ -1,6 +1,11 @@
 # Legionnaire Angust
 
 
+
+[Legionnaire Angust](/npc/159633) is a level 56 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

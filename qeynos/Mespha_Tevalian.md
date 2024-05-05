@@ -1,6 +1,11 @@
 # Mespha Tevalian
 
 
+
+[Mespha Tevalian](/npc/1059) is a level 61 Human GM Enchanter that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

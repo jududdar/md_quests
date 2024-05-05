@@ -1,6 +1,11 @@
 # Kurne Rextula
 
 
+
+[Kurne Rextula](/npc/45066) is a level 61 Human GM Necromancer that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

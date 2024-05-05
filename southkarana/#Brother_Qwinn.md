@@ -1,6 +1,11 @@
 # Brother Qwinn
 
 
+
+[Brother Qwinn](/npc/14054) is a level 61 Human GM Monk that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## Dialog
 
 **You say:** `hail`

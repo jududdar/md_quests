@@ -1,6 +1,11 @@
 # Thall Va Kelun
 
 
+
+[Thall Va Kelun](/npc/158439) is a level 66 Akheva Rogue that spawns in [Vex Thal](/zone/158).
+
+
+
 local Z_LEVEL = 100; 
 
 

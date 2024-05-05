@@ -1,6 +1,11 @@
 # The Spirit of Decay
 
 
+
+[The Spirit of Decay](/npc/47205) is a level 55 Spider Warrior that spawns in [The Feerrott](/zone/47).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds

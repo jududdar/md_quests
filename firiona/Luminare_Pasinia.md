@@ -1,6 +1,11 @@
 # Luminare Pasinia
 
 
+
+[Luminare Pasinia](/npc/84188) is a level 61 High Elf GM Enchanter that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

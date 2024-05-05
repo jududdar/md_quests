@@ -1,6 +1,11 @@
 # clockwork scrubber
 
 
+
+[clockwork scrubber](/npc/55010) is a level 4 Rat Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

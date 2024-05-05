@@ -2,6 +2,11 @@
 
 
 
+[Slansin](/npc/23001) is a level 10 Erudite Enchanter that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 
 ## Dialog

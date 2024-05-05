@@ -1,6 +1,11 @@
 # Brokk Boxtripper
 
 
+
+[Brokk Boxtripper](/npc/49061) is a level 40 Ogre Shopkeeper that spawns in [Oggok](/zone/49).
+
+
+
 ## Turn-Ins
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Cordelia Minster](/npc/5145) is a level 18 Half Elf Bard that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 
 
 ## Arrive at Waypoint Script

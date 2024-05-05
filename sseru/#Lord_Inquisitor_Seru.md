@@ -1,4 +1,9 @@
 # Lord Inquisitor Seru
+
+
+
+[Lord Inquisitor Seru](/npc/159000) is a level 66 Seru Warrior that spawns in [Sanctus Seru](/zone/159).
+
 local SpawnX = 0;
 local SpawnY = 0;
 local SpawnZ = 0;

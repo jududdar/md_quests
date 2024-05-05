@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Elendalira](/npc/61067) is a level 1 High Elf Warrior that spawns in [Northern Felwithe](/zone/61).
+
+
+
+
 
 ## Dialog
 

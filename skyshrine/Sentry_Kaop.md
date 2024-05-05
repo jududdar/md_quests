@@ -1,6 +1,11 @@
 # Sentry Kaop
 
 
+
+[Sentry Kaop](/npc/114558) is a level 44 Golem Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

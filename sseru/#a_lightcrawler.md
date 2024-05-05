@@ -1,6 +1,11 @@
 # a lightcrawler
 
 
+
+[a lightcrawler](/npc/159109) is a level 38 Lightcrawler Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

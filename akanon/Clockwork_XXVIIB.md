@@ -1,6 +1,11 @@
 # Clockwork XXVIIB
 
 
+
+[Clockwork XXVIIB](/npc/55193) is a level 31 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

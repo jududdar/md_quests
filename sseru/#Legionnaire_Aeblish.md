@@ -1,6 +1,11 @@
 # Legionnaire Aeblish
 
 
+
+[Legionnaire Aeblish](/npc/159127) is a level 47 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

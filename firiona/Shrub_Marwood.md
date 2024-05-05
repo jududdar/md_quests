@@ -2,6 +2,11 @@
 
 
 
+[Shrub Marwood](/npc/84193) is a level 40 Halfling Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

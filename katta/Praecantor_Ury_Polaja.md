@@ -1,6 +1,11 @@
 # Praecantor Ury Polaja
 
 
+
+[Praecantor Ury Polaja](/npc/160407) is a level 36 Erudite Enchanter that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

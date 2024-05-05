@@ -1,6 +1,11 @@
 # Reivaj the Battlerager
 
 
+
+[Reivaj the Battlerager](/npc/113248) is a level 50 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

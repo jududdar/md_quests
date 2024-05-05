@@ -1,6 +1,11 @@
 # Nomsoe Jusagta
 
 
+
+[Nomsoe Jusagta](/npc/2088) is a level 61 Human GM Cleric that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

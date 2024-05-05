@@ -2,6 +2,11 @@
 
 
 
+[Grandmaster Rinmark](/npc/96318) is a level 61 Iksar Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Depop1* for 90 seconds

@@ -1,6 +1,11 @@
 # Groal Ealdin
 
 
+
+[Groal Ealdin](/npc/159615) is a level 44 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

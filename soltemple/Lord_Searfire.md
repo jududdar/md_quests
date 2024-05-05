@@ -1,6 +1,11 @@
 # Lord Searfire
 
 
+
+[Lord Searfire](/npc/80003) is a level 40 Dwarf Paladin that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a reanimated drudge
 
 
+
+[a reanimated drudge](/npc/173005) is a level 52 Skeleton Warrior that spawns in [The Maiden's Eye](/zone/173).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 140 seconds

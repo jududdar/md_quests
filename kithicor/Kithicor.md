@@ -1,6 +1,11 @@
 # Kithicor
 
 
+
+[Kithicor](/npc/20074) is a level 61 Wood Elf GM Ranger that spawns in [Kithicor Forest](/zone/20).
+
+
+
 ## Turn-Ins
 
 

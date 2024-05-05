@@ -1,6 +1,11 @@
 # Mentrax Mountainbone
 
 
+
+[Mentrax Mountainbone](/npc/92148) is a level 50 Giant Warrior that spawns in [Frontier Mountains](/zone/92).
+
+
+
 ## Dialog
 
 **You say:** `hail`

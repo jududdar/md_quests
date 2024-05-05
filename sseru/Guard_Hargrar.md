@@ -2,6 +2,11 @@
 
 
 
+[Guard Hargrar](/npc/159001) is a level 50 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
+
 
 ## On NPC Spawn
 

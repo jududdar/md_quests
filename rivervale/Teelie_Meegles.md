@@ -1,6 +1,11 @@
 # Teelie Meegles
 
 
+
+[Teelie Meegles](/npc/19031) is a level 25 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

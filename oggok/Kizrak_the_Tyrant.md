@@ -1,6 +1,11 @@
 # Kizrak the Tyrant
 
 
+
+[Kizrak the Tyrant](/npc/49074) is a level 61 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

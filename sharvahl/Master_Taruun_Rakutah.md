@@ -1,6 +1,11 @@
 # Master Taruun Rakutah
 
 
+
+[Master Taruun Rakutah](/npc/155166) is a level 61 Vah Shir GM Rogue that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);

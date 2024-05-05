@@ -1,6 +1,11 @@
 # Castrorum Plita
 
 
+
+[Castrorum Plita](/npc/159313) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
-# Guard S-Tai
+# Guard S\`Tai
+
+
+
+[Guard S\`Tai](/npc/41073) is a level 40 Dark Elf Wizard that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Sentinel Ogen
 
 
+
+[Sentinel Ogen](/npc/23048) is a level 30 Erudite Paladin that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `kerra isle`

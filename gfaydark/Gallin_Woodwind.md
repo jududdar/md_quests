@@ -1,6 +1,11 @@
 # Gallin Woodwind
 
 
+
+[Gallin Woodwind](/npc/54106) is a level 61 Wood Elf GM Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

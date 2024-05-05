@@ -1,6 +1,11 @@
 # Ami
 
 
+
+[Ami](/npc/110062) is a level 31 Gnome Rogue that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Kimble Nogflop](/npc/55137) is a level 40 Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

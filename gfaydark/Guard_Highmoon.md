@@ -1,6 +1,11 @@
 # Guard Highmoon
 
 
+
+[Guard Highmoon](/npc/54095) is a level 50 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `soldiers`

@@ -1,6 +1,11 @@
 # Deputy Beedo
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

@@ -1,4 +1,9 @@
-# Lord Koi-Doken
+# Lord Koi\`Doken
+
+
+
+[Lord Koi\`Doken](/npc/124103) is a level 66 Dragon Rogue that spawns in [Temple of Veeshan](/zone/124).
+
 
 
 

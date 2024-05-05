@@ -1,6 +1,11 @@
 # Noppta Mottun
 
 
+
+[Noppta Mottun](/npc/156064) is a level 55 Halfling Warrior that spawns in [The Paludal Caverns](/zone/156).
+
+
+
 ## Dialog
 
 **You say:** `hail`

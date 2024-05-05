@@ -2,6 +2,11 @@
 
 
 
+[Grandmaster Chendra](/npc/202011) is a level 61 Human GM Monk that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

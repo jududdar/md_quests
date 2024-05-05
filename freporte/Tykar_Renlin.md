@@ -1,6 +1,11 @@
 # Tykar Renlin
 
 
+
+[Tykar Renlin](/npc/10157) is a level 19 Beggar Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

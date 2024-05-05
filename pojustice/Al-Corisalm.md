@@ -1,4 +1,9 @@
-# Al-Corisalm
+# Al\`Corisalm
+
+
+
+[Al\`Corisalm](/npc/201419) is a level 48 Invisible Man Wizard that spawns in [Plane of Justice](/zone/201).
+
 
 
 

@@ -1,6 +1,11 @@
 # Princess Lenya Thex
 
 
+
+[Princess Lenya Thex](/npc/51176) is a level 25 High Elf Cleric that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *yay* for 600 seconds

@@ -1,6 +1,11 @@
 # Emperor Ganak
 
 
+
+[Emperor Ganak](/npc/95034) is a level 60 Iksar Spirit Wizard that spawns in [Trakanon's Teeth](/zone/95).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

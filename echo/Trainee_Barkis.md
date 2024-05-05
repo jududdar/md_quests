@@ -1,6 +1,11 @@
 # Trainee Barkis
 
 
+
+[Trainee Barkis](/npc/153104) is a level 40 Wood Elf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

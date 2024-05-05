@@ -1,6 +1,11 @@
 # Kacheoa Dariwlan
 
 
+
+[Kacheoa Dariwlan](/npc/153081) is a level 55 Human Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

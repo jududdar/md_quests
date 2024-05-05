@@ -1,6 +1,11 @@
 # Felodius Sworddancer
 
 
+
+[Felodius Sworddancer](/npc/2060) is a level 55 Half Elf Bard that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

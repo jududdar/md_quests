@@ -1,6 +1,11 @@
 # Basher Sklama
 
 
+
+[Basher Sklama](/npc/46002) is a level 50 Troll Warrior that spawns in [Innothule Swamp](/zone/46).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # abandoned heretic pet
 
 
+
+[abandoned heretic pet](/npc/38139) is a level 7 Skeleton Warrior that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Turn-Ins
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Kinlo Strongarm](/npc/67030) is a level 50 Dwarf Warrior that spawns in [North Kaladim](/zone/67).
+
+
+
+
 
 ## On NPC Spawn
 

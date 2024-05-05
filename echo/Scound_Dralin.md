@@ -1,6 +1,11 @@
 # Scound Dralin
 
 
+
+[Scound Dralin](/npc/153074) is a level 45 Dark Elf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Deputy Goltin
 
 
+
+[Deputy Goltin](/npc/19014) is a level 32 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

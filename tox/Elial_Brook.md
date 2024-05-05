@@ -1,6 +1,11 @@
 # Elial Brook
 
 
+
+[Elial Brook](/npc/38061) is a level 7 Erudite Necromancer that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Dialog
 
 **You say:** `hail`

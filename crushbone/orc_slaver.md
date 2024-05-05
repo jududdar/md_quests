@@ -1,6 +1,11 @@
 # orc slaver
 
 
+
+[orc slaver](/npc/58029) is a level 5 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if orc slaver enters combat  then

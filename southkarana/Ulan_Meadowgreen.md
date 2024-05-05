@@ -2,6 +2,11 @@
 
 
 
+[Ulan Meadowgreen](/npc/14073) is a level 29 Centaur Shopkeeper that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
+
 
 ## Dialog
 

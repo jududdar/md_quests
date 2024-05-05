@@ -2,6 +2,11 @@
 
 
 
+[Lady Mirenilla](/npc/124077) is a level 66 Dragon Shadow Knight that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## On NPC Spawn
 

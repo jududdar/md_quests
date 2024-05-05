@@ -1,6 +1,11 @@
 # Mal Garton
 
 
+
+[Mal Garton](/npc/159365) is a level 60 Half Elf Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

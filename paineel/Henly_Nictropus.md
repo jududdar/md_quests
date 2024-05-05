@@ -1,6 +1,11 @@
 # Henly Nictropus
 
 
+
+[Henly Nictropus](/npc/75113) is a level 25 Erudite Shopkeeper that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

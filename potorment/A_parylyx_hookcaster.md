@@ -1,6 +1,11 @@
 # A parylyx hookcaster
 
 
+
+[A parylyx hookcaster](/npc/207300) is a level 60 Arachnid Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

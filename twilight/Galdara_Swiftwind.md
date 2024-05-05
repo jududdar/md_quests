@@ -1,6 +1,11 @@
 # Galdara Swiftwind
 
 
+
+[Galdara Swiftwind](/npc/170129) is a level 40 High Elf Magician that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

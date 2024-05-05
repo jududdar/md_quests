@@ -1,6 +1,11 @@
 # Merchant Kweili
 
 
+
+[Merchant Kweili](/npc/54131) is a level 40 Guard Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 if(e.other:IsSelfFound() == 1 or e.other:IsSoloOnly() == 1) then

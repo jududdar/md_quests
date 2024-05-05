@@ -1,6 +1,11 @@
 # Markil Jurbac
 
 
+
+[Markil Jurbac](/npc/160143) is a level 60 Human Paladin that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

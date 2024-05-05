@@ -1,6 +1,11 @@
 # Cornicularii Mindo
 
 
+
+[Cornicularii Mindo](/npc/159086) is a level 50 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

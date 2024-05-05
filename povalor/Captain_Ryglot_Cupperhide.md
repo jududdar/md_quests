@@ -1,6 +1,11 @@
 # Captain Ryglot Cupperhide
 
 
+
+[Captain Ryglot Cupperhide](/npc/208021) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

@@ -1,6 +1,11 @@
 # Lineol Teropalig
 
 
+
+[Lineol Teropalig](/npc/153079) is a level 61 Human GM Cleric that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

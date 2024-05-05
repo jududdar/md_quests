@@ -1,6 +1,11 @@
 # Legionnaire Rokgar
 
 
+
+[Legionnaire Rokgar](/npc/160327) is a level 42 Dwarf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

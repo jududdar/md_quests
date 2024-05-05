@@ -1,6 +1,11 @@
 # a sewer rat
 
 
+
+[a sewer rat](/npc/1145) is a level 1 Rat Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

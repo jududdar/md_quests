@@ -1,6 +1,11 @@
 # Duggin Scumber
 
 
+
+[Duggin Scumber](/npc/21136) is a level 3 Human Warrior that spawns in [West Commonlands](/zone/21).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

@@ -1,6 +1,11 @@
 # Chogar
 
 
+
+[Chogar](/npc/155178) is a level 8 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

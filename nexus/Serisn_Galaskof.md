@@ -1,6 +1,11 @@
 # Serisn Galaskof
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

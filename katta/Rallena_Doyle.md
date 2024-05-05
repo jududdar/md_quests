@@ -1,6 +1,11 @@
 # Rallena Doyle
 
 
+
+[Rallena Doyle](/npc/160148) is a level 61 Barbarian GM Shaman that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

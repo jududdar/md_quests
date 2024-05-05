@@ -1,4 +1,9 @@
 # Srafen the Soaked
+
+
+
+[Srafen the Soaked](/npc/98046) is a level 20 Human Warrior that spawns in [Erud's Crossing](/zone/98).
+
 local counting;
 
 

@@ -1,6 +1,11 @@
 # Falos Ginranes
 
 
+
+[Falos Ginranes](/npc/153087) is a level 30 Human Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

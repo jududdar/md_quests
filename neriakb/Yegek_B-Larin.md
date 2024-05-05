@@ -1,4 +1,9 @@
-# Yegek B-Larin
+# Yegek B\`Larin
+
+
+
+[Yegek B\`Larin](/npc/41029) is a level 61 Dark Elf GM Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

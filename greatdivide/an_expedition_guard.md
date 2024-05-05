@@ -1,6 +1,11 @@
 # an expedition guard
 
 
+
+[an expedition guard](/npc/118070) is a level 50 Coldain Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

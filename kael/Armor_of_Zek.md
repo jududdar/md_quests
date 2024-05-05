@@ -1,6 +1,11 @@
 # Armor of Zek
 
 
+
+[Armor of Zek](/npc/113131) is a level 55 Enchanted Armor Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Signals
 
 

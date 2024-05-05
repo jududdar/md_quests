@@ -1,6 +1,11 @@
 # Reebo Leafsway
 
 
+
+[Reebo Leafsway](/npc/19052) is a level 61 Halfling GM Druid that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

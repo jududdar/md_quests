@@ -1,6 +1,11 @@
 # an avenging caitiff
 
 
+
+[an avenging caitiff](/npc/59020) is a level 30 Dark Elf Warrior that spawns in [Castle of Mistmoore](/zone/59).
+
+
+
 ## Dialog
 
 **You say:** `hail`

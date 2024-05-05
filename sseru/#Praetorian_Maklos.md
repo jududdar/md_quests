@@ -1,6 +1,11 @@
 # Praetorian Maklos
 
 
+
+[Praetorian Maklos](/npc/159322) is a level 55 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

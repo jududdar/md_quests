@@ -1,6 +1,11 @@
 # Grati Gemfinder
 
 
+
+[Grati Gemfinder](/npc/159043) is a level 52 Dwarf Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

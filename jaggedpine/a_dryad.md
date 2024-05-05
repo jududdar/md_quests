@@ -1,6 +1,11 @@
 # a dryad
 
 
+
+[a dryad](/npc/181013) is a level 40 Dryad Druid that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

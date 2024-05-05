@@ -2,6 +2,11 @@
 
 
 
+[Tenada Jeried](/npc/202047) is a level 60 Half Elf Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

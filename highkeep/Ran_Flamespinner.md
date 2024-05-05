@@ -1,6 +1,11 @@
 # Ran Flamespinner
 
 
+
+[Ran Flamespinner](/npc/6066) is a level 61 Human GM Wizard that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Lithiniath
 
 
+
+[Lithiniath](/npc/126014) is a level 66 Unicorn Enchanter that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

@@ -3,6 +3,11 @@
 
 
 
+
+
+
+
+
 ## On NPC Spawn
 
 eq.set_proximity(e.self:GetX() - 20, e.self:GetX() + 20, e.self:GetY() - 20, e.self:GetY() + 20);

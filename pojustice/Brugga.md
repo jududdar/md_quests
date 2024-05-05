@@ -1,6 +1,11 @@
 # Brugga
 
 
+
+[Brugga](/npc/201364) is a level 46 Orc Cleric that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 if(e.language == 19 and e.other:GetLanguageSkill(19) >= 100) then

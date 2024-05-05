@@ -1,4 +1,9 @@
-# Selzar L-Crit
+# Selzar L\`Crit
+
+
+
+[Selzar L\`Crit](/npc/42085) is a level 61 Dark Elf GM Rogue that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

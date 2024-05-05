@@ -1,6 +1,11 @@
 # Eenot
 
 
+
+[Eenot](/npc/20276) is a level 18 Tiger Druid that spawns in [Kithicor Forest](/zone/20).
+
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(10000,7200000));

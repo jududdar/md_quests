@@ -1,6 +1,11 @@
 # Elder Tal Almad
 
 
+
+[Elder Tal Almad](/npc/203418) is a level 46 Erudite Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

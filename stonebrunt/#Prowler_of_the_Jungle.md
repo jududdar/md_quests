@@ -2,6 +2,11 @@
 
 
 
+[Prowler of the Jungle](/npc/100005) is a level 37 Puma Ranger that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
+
 
 ## Dialog
 

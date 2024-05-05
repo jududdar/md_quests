@@ -2,6 +2,11 @@
 
 
 
+[skeleton Lrodd](/npc/36064) is a level 11 Skeleton Warrior that spawns in [Befallen](/zone/36).
+
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # The Spirit of Sorrow
 
 
+
+[The Spirit of Sorrow](/npc/83244) is a level 55 Alligator Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds

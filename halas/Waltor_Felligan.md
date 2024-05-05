@@ -1,6 +1,11 @@
 # Waltor Felligan
 
 
+
+[Waltor Felligan](/npc/29058) is a level 61 Barbarian GM Shaman that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

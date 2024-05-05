@@ -1,6 +1,11 @@
 # Bouncer Skuk
 
 
+
+[Bouncer Skuk](/npc/49123) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

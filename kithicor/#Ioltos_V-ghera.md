@@ -1,4 +1,9 @@
-# Ioltos V-ghera
+# Ioltos V\`ghera
+
+
+
+[Ioltos V\`ghera](/npc/20062) is a level 54 Dark Elf Shadow Knight that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

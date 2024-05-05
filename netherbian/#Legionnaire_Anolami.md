@@ -1,6 +1,11 @@
 # Legionnaire Anolami
 
 
+
+[Legionnaire Anolami](/npc/161000) is a level 27 Human Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## Dialog
 
 **You say:** `hail`

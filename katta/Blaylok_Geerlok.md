@@ -1,6 +1,11 @@
 # Blaylok Geerlok
 
 
+
+[Blaylok Geerlok](/npc/160176) is a level 35 Gnome Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

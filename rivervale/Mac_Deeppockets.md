@@ -1,6 +1,11 @@
 # Mac Deeppockets
 
 
+
+[Mac Deeppockets](/npc/19087) is a level 30 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

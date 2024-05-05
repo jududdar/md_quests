@@ -1,6 +1,11 @@
 # Praetorian Butre
 
 
+
+[Praetorian Butre](/npc/159584) is a level 55 Erudite Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

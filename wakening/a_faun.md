@@ -1,6 +1,11 @@
 # a faun
 
 
+
+[a faun](/npc/119100) is a level 48 Yakkar Rogue that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

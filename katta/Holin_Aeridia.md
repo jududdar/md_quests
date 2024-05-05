@@ -1,4 +1,9 @@
 # Holin Aeridia
+
+
+
+[Holin Aeridia](/npc/160168) is a level 46 Invisible Man Warrior that spawns in [Katta Castellum](/zone/160).
+
 function event(e)
 
 **Set a timer** named *depop* for 600 seconds

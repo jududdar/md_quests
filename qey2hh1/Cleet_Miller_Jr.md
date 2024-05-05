@@ -1,6 +1,11 @@
 # Cleet Miller Jr
 
 
+
+[Cleet Miller Jr](/npc/12029) is a level 6 Human Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

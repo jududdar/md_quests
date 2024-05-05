@@ -1,6 +1,11 @@
 # peasant woman
 
 
+
+[peasant woman](/npc/9122) is a level 20 Human Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

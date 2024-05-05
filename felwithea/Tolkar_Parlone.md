@@ -1,6 +1,11 @@
 # Tolkar Parlone
 
 
+
+[Tolkar Parlone](/npc/61011) is a level 35 High Elf Enchanter that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

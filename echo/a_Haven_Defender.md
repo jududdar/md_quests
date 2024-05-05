@@ -1,6 +1,11 @@
 # a Haven Defender
 
 
+
+[a Haven Defender](/npc/153035) is a level 40 Human Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Warlord Gintolaken
+
+
+
+[Warlord Gintolaken](/npc/222038) is a level 77 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
 local BOSS_TYPES = { 222035, 222037, 222036, 222008, 222009, 222010 }; 
 
 

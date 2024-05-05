@@ -1,6 +1,11 @@
 # Commander Leuz
 
 
+
+[Commander Leuz](/npc/114410) is a level 32 Drake Magician that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 if( **Faction is** > Amiable) then

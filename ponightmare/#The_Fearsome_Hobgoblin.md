@@ -1,4 +1,9 @@
 # The Fearsome Hobgoblin
+
+
+
+[The Fearsome Hobgoblin](/npc/204481) is a level 70 Nightmare Goblin Shadow Knight that spawns in [Plane of Nightmares](/zone/204).
+
 function event_death(e)
 
 **Spawn NPC:**  [\#Hobgoblin Anguish Lord](/npc/204479) at (**y:** 2650, **x:** 1484)

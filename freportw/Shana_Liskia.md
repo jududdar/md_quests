@@ -1,6 +1,11 @@
 # Shana Liskia
 
 
+
+[Shana Liskia](/npc/9068) is a level 61 High Elf GM Enchanter that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

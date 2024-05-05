@@ -1,6 +1,11 @@
 # Captain Necin
 
 
+
+[Captain Necin](/npc/167200) is a level 35 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

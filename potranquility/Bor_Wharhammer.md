@@ -2,6 +2,11 @@
 
 
 
+[Bor Wharhammer](/npc/203430) is a level 46 Dwarf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
+
 
 
 ## Dialog

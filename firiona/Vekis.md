@@ -1,6 +1,11 @@
 # Vekis
 
 
+
+[Vekis](/npc/84017) is a level 56 Iksar Necromancer that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

@@ -1,6 +1,11 @@
 # Adinel Jailbar
 
 
+
+[Adinel Jailbar](/npc/110074) is a level 35 Gnome Shopkeeper that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

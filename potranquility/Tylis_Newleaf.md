@@ -1,6 +1,11 @@
 # Tylis Newleaf
 
 
+
+[Tylis Newleaf](/npc/203373) is a level 55 Wood Elf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

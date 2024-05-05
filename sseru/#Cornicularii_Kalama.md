@@ -1,6 +1,11 @@
 # Cornicularii Kalama
 
 
+
+[Cornicularii Kalama](/npc/159686) is a level 50 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

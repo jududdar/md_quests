@@ -1,6 +1,11 @@
 # Shal Wildleaf
 
 
+
+[Shal Wildleaf](/npc/159082) is a level 46 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

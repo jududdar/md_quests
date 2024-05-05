@@ -1,4 +1,9 @@
 # script init
+
+
+
+
+
 eq.load_encounter("Phase1Earth");
 eq.load_encounter("Phase1Air");
 eq.load_encounter("Phase1Undead");

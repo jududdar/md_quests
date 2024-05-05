@@ -1,6 +1,11 @@
 # Tarson Lonewolf
 
 
+
+[Tarson Lonewolf](/npc/150239) is a level 61 Barbarian GM Shaman that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

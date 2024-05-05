@@ -1,6 +1,11 @@
 # Laoni Reista
 
 
+
+[Laoni Reista](/npc/24054) is a level 61 Erudite GM Paladin that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

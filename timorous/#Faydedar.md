@@ -1,6 +1,11 @@
 # Faydedar
 
 
+
+[Faydedar](/npc/96073) is a level 55 Dragon Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## On NPC Spawn
 
 **Despawn NPC:**  [Faydedar](/npc/96089)

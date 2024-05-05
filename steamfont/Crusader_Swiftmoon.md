@@ -2,6 +2,11 @@
 
 
 
+[Crusader Swiftmoon](/npc/56150) is a level 28 High Elf Paladin that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 
 

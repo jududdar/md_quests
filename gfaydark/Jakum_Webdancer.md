@@ -1,6 +1,11 @@
 # Jakum Webdancer
 
 
+
+[Jakum Webdancer](/npc/54181) is a level 25 Wood Elf Bard that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

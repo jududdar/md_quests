@@ -1,6 +1,11 @@
 # Praetorian Santu
 
 
+
+[Praetorian Santu](/npc/159427) is a level 55 Barbarian Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

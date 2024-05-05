@@ -1,4 +1,9 @@
-# Morfesh O-Koyle
+# Morfesh O\`Koyle
+
+
+
+[Morfesh O\`Koyle](/npc/160200) is a level 35 Barbarian Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
 
 
 ## Dialog

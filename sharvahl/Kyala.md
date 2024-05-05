@@ -1,6 +1,11 @@
 # Kyala
 
 
+
+[Kyala](/npc/155190) is a level 11 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

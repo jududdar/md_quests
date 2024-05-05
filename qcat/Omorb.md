@@ -1,6 +1,11 @@
 # Omorb
 
 
+
+[Omorb](/npc/45004) is a level 20 Ogre Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

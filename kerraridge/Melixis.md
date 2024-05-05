@@ -1,6 +1,11 @@
 # Melixis
 
 
+
+[Melixis](/npc/74076) is a level 20 Kerran Shopkeeper that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

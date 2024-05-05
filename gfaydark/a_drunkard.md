@@ -1,6 +1,11 @@
 # a drunkard
 
 
+
+[a drunkard](/npc/54261) is a level 8 High Elf Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `tandan nybright`

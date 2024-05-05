@@ -1,6 +1,11 @@
 # Ancient Totem
 
 
+
+[Ancient Totem](/npc/127047) is a level 60 Totem Ranger that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Dialog
 
 if(**Your level** >= 55) then

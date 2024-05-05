@@ -1,6 +1,11 @@
 # Chief Adair
 
 
+
+[Chief Adair](/npc/23053) is a level 37 Erudite Paladin that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Bryn Fynndel
 
 
+
+[Bryn Fynndel](/npc/57075) is a level 25 Wood Elf Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `morin sent me`

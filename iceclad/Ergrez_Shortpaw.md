@@ -1,6 +1,11 @@
 # Ergrez Shortpaw
 
 
+
+[Ergrez Shortpaw](/npc/110010) is a level 45 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *skin* for 120 seconds

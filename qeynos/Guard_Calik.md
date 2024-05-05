@@ -1,6 +1,11 @@
 # Guard Calik
 
 
+
+[Guard Calik](/npc/1149) is a level 9 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

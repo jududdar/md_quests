@@ -1,6 +1,11 @@
 # Hemia Skemner
 
 
+
+[Hemia Skemner](/npc/9071) is a level 61 Human GM Wizard that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

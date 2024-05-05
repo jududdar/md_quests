@@ -1,6 +1,11 @@
 # Sentry Ris
 
 
+
+[Sentry Ris](/npc/159448) is a level 51 Half Elf Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

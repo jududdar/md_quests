@@ -1,6 +1,11 @@
 # the vile statue
 
 
+
+
+
+
+
 ## On NPC Spawn
 
 eq.set_proximity(-61, -20, -797, -761, -15, 0);

@@ -1,6 +1,11 @@
 # Marsa Folor
 
 
+
+[Marsa Folor](/npc/75100) is a level 50 Erudite Banker that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

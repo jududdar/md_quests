@@ -1,6 +1,11 @@
 # A Praesertum Courier
 
 
+
+[A Praesertum Courier](/npc/159678) is a level 43 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

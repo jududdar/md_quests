@@ -1,6 +1,11 @@
 # Tylfon
 
 
+
+[Tylfon](/npc/54091) is a level 61 Wood Elf GM Rogue that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

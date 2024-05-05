@@ -1,6 +1,11 @@
 # Raphar Bal
 
 
+
+[Raphar Bal](/npc/159620) is a level 40 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

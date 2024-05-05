@@ -2,6 +2,11 @@
 
 
 
+[a minotaur slaver](/npc/56024) is a level 9 Minotaur Warrior that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 ## On NPC Death
 

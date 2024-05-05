@@ -1,6 +1,11 @@
 # Barnal Flamehand
 
 
+
+[Barnal Flamehand](/npc/84172) is a level 49 Erudite Wizard that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

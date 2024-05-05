@@ -1,6 +1,11 @@
 # Jheron Felkis
 
 
+
+[Jheron Felkis](/npc/10130) is a level 50 Human Magician that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Klraggek the Slayer
 
 
+
+[Klraggek the Slayer](/npc/113098) is a level 66 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Combat
 
 

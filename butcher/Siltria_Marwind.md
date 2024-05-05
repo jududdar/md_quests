@@ -2,6 +2,11 @@
 
 
 
+[Siltria Marwind](/npc/68075) is a level 25 Half Elf Bard that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Jon Otton
 
 
+
+[Jon Otton](/npc/174074) is a level 44 Wood Elf Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

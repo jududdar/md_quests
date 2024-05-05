@@ -1,6 +1,11 @@
 # a locked chest
 
 
+
+[a locked chest](/npc/160131) is a level 1 Mimic Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Turn-Ins
 
 

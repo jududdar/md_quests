@@ -1,6 +1,11 @@
 # Axe Broadsmith
 
 
+
+[Axe Broadsmith](/npc/4038) is a level 20 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

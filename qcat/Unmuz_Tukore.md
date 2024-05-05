@@ -1,6 +1,11 @@
 # Unmuz Tukore
 
 
+
+[Unmuz Tukore](/npc/45067) is a level 61 Human GM Shadow Knight that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -1,6 +1,11 @@
 # Watchman Halv
 
 
+
+[Watchman Halv](/npc/56155) is a level 35 Gnome Warrior that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## Turn-Ins
 
 

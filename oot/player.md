@@ -1,4 +1,9 @@
 # player
+
+
+
+
+
 function event_enter_zone(e)
 
 local qglobals = eq.get_qglobals();

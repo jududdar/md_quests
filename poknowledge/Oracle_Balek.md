@@ -2,6 +2,11 @@
 
 
 
+[Oracle Balek](/npc/202312) is a level 61 Iksar GM Shaman that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Turn-Ins
 

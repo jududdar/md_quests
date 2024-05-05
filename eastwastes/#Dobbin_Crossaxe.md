@@ -1,6 +1,11 @@
 # Dobbin Crossaxe
 
 
+
+[Dobbin Crossaxe](/npc/116035) is a level 42 Coldain Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Turn-Ins
 
 

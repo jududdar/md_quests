@@ -1,4 +1,9 @@
-# The Spirit of Akelha-Ra
+# The Spirit of Akelha\`Ra
+
+
+
+[The Spirit of Akelha\`Ra](/npc/179019) is a level 65 Shade Warrior that spawns in [Akheva Ruins](/zone/179).
+
 
 
 ## On NPC Spawn

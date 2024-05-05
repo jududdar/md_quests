@@ -1,6 +1,11 @@
 # Tasya Huntlan
 
 
+
+[Tasya Huntlan](/npc/1104) is a level 45 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

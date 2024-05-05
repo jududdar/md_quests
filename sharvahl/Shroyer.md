@@ -1,6 +1,11 @@
 # Shroyer
 
 
+
+[Shroyer](/npc/155084) is a level 17 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

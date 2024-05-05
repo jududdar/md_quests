@@ -1,6 +1,11 @@
 # Queen Silandria
 
 
+
+[Queen Silandria](/npc/215003) is a level 68 Nilborien Warrior that spawns in [Plane of Air](/zone/215).
+
+
+
 ## Combat
 
 if  Queen Silandria enters combat  then

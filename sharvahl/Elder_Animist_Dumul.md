@@ -1,6 +1,11 @@
 # Elder Animist Dumul
 
 
+
+[Elder Animist Dumul](/npc/155040) is a level 60 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `spiritual`

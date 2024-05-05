@@ -1,6 +1,11 @@
 # Tovax Vmar
 
 
+
+[Tovax Vmar](/npc/4020) is a level 10 Human Necromancer that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Tovax* for 10 seconds

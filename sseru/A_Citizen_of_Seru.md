@@ -1,6 +1,11 @@
 # A Citizen of Seru
 
 
+
+[A Citizen of Seru](/npc/159658) is a level 37 Gnome Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Defender Jena
 
 
+
+[Defender Jena](/npc/152016) is a level 50 Human Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

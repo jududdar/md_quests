@@ -2,6 +2,11 @@
 
 
 
+[Telkorenar](/npc/124104) is a level 66 Dragon Monk that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## Dialog
 

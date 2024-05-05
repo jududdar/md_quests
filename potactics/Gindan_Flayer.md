@@ -1,6 +1,11 @@
 # Gindan Flayer
 
 
+
+[Gindan Flayer](/npc/214084) is a level 68 Rallos Zek Minion Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
+
+
 ## On NPC Spawn
 
 if ( e.self:GetSpawnPointID() == 0 ) then 

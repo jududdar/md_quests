@@ -1,6 +1,11 @@
 # Trooper Larrin
 
 
+
+[Trooper Larrin](/npc/85007) is a level 50 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

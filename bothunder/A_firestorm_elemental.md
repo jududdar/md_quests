@@ -1,6 +1,11 @@
 # A firestorm elemental
 
 
+
+[A firestorm elemental](/npc/209005) is a level 60 Elemental Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

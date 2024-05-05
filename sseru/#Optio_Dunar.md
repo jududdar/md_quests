@@ -1,6 +1,11 @@
 # Optio Dunar
 
 
+
+[Optio Dunar](/npc/159667) is a level 52 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

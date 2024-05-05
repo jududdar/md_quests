@@ -1,6 +1,11 @@
 # Loremaster Sarl
 
 
+
+[Loremaster Sarl](/npc/115082) is a level 44 Coldain Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [\#\#Loremaster Sarl](/npc/115000)) then

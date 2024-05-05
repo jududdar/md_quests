@@ -1,6 +1,11 @@
 # Frostbite
 
 
+
+[Frostbite](/npc/12154) is a level 11 Wolf Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

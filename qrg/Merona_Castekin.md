@@ -1,6 +1,11 @@
 # Merona Castekin
 
 
+
+[Merona Castekin](/npc/3023) is a level 61 Human GM Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

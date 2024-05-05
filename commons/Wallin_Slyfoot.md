@@ -1,6 +1,11 @@
 # Wallin Slyfoot
 
 
+
+[Wallin Slyfoot](/npc/21049) is a level 25 Halfling Warrior that spawns in [West Commonlands](/zone/21).
+
+
+
 ## Dialog
 
 **You say:** `hail`

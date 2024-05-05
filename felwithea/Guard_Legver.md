@@ -1,6 +1,11 @@
 # Guard Legver
 
 
+
+[Guard Legver](/npc/61079) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

@@ -1,6 +1,11 @@
 # Sindl Talonstrike
 
 
+
+[Sindl Talonstrike](/npc/54107) is a level 61 Wood Elf GM Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

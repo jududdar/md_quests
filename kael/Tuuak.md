@@ -1,6 +1,11 @@
 # Tuuak
 
 
+
+[Tuuak](/npc/113104) is a level 34 Giant Shadow Knight that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

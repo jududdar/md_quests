@@ -1,5 +1,10 @@
 # Foreman Felspar
 
+
+
+[Foreman Felspar](/npc/115087) is a level 61 Coldain GM Rogue that spawns in [The City of Thurgadin](/zone/115).
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 local QUEST_TEXT = {

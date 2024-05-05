@@ -1,4 +1,9 @@
-# Siladdarae N-Riese
+# Siladdarae N\`Riese
+
+
+
+[Siladdarae N\`Riese](/npc/93109) is a level 49 Dark Elf Enchanter that spawns in [The Overthere](/zone/93).
+
 
 
 ## Dialog

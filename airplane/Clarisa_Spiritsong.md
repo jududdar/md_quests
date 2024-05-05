@@ -1,6 +1,11 @@
 # Clarisa Spiritsong
 
 
+
+[Clarisa Spiritsong](/npc/71081) is a level 55 Wood Elf Bard that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

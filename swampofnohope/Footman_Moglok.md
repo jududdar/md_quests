@@ -1,6 +1,11 @@
 # Footman Moglok
 
 
+
+[Footman Moglok](/npc/83172) is a level 11 Iksar Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

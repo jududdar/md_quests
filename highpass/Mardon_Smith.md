@@ -1,6 +1,11 @@
 # Mardon Smith
 
 
+
+[Mardon Smith](/npc/5060) is a level 45 Human Shopkeeper that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,6 +1,11 @@
 # Solvedi Aldeberan
 
 
+
+[Solvedi Aldeberan](/npc/50333) is a level 45 Human Druid that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

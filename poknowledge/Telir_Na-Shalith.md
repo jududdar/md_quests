@@ -1,4 +1,9 @@
-# Telir Na-Shalith
+# Telir Na\`Shalith
+
+
+
+[Telir Na\`Shalith](/npc/202077) is a level 60 Dark Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Boulder
 
 
+
+[Boulder](/npc/171008) is a level 55 Stonegrabber Warrior that spawns in [The Grey](/zone/171).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

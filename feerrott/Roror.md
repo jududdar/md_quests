@@ -1,6 +1,11 @@
 # Roror
 
 
+
+[Roror](/npc/47183) is a level 49 Lizard Man Shaman that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Combat
 
 if Roror enters combat  then

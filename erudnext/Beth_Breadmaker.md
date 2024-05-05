@@ -1,6 +1,11 @@
 # Beth Breadmaker
 
 
+
+[Beth Breadmaker](/npc/24059) is a level 45 Erudite Shopkeeper that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

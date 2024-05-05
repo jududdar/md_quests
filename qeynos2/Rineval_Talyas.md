@@ -1,6 +1,11 @@
 # Rineval Talyas
 
 
+
+[Rineval Talyas](/npc/2041) is a level 39 Human Enchanter that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

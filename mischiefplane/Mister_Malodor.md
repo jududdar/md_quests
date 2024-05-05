@@ -1,6 +1,11 @@
 # Mister Malodor
 
 
+
+[Mister Malodor](/npc/126301) is a level 50 Skunk Enchanter that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

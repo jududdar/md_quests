@@ -2,6 +2,11 @@
 
 
 
+[Squire Gristle](/npc/106082) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

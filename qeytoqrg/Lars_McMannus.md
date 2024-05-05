@@ -1,6 +1,11 @@
 # Lars McMannus
 
 
+
+[Lars McMannus](/npc/4000) is a level 20 Barbarian Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

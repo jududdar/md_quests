@@ -1,6 +1,11 @@
 # Sentry Ellison
 
 
+
+[Sentry Ellison](/npc/129001) is a level 48 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

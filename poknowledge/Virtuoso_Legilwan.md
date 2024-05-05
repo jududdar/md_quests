@@ -2,6 +2,11 @@
 
 
 
+[Virtuoso Legilwan](/npc/202244) is a level 61 Half Elf GM Bard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

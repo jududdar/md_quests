@@ -1,6 +1,11 @@
 # a Storm Giant Warlord
 
 
+
+[a Storm Giant Warlord](/npc/113255) is a level 55 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

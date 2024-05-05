@@ -1,6 +1,11 @@
 # Squire Fuzzmin
 
 
+
+[Squire Fuzzmin](/npc/84007) is a level 25 Halfling Cleric that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## On NPC Spawn
 
  e.self:SetRunning(true);

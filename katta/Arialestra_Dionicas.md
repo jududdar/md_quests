@@ -1,6 +1,11 @@
 # Arialestra Dionicas
 
 
+
+[Arialestra Dionicas](/npc/160151) is a level 61 Human GM Cleric that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

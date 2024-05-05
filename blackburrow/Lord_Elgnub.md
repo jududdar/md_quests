@@ -1,6 +1,11 @@
 # Lord Elgnub
 
 
+
+[Lord Elgnub](/npc/17029) is a level 21 Gnoll Shadow Knight that spawns in [Blackburrow](/zone/17).
+
+
+
 ## On NPC Spawn
 
 local sp = e.self:GetSpawnPointID();

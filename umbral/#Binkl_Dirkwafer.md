@@ -1,6 +1,11 @@
 # Binkl Dirkwafer
 
 
+
+[Binkl Dirkwafer](/npc/176061) is a level 54 Gnome Magician that spawns in [The Umbral Plains](/zone/176).
+
+
+
 ## Dialog
 
 **You say:** `hail`

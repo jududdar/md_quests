@@ -1,6 +1,11 @@
 # Monika Helsin
 
 
+
+[Monika Helsin](/npc/160162) is a level 35 Human Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Essence of Water
+
+
+
+[Essence of Water](/npc/216266) is a level 1 Elemental Warrior that spawns in [Plane of Water](/zone/216).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

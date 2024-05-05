@@ -1,6 +1,11 @@
 # Drill Master Dal
 
 
+
+[Drill Master Dal](/npc/106079) is a level 61 Iksar GM Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

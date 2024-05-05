@@ -2,6 +2,11 @@
 
 
 
+[Kaxon Frennor](/npc/55122) is a level 61 Gnome GM Rogue that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

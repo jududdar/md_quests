@@ -1,6 +1,11 @@
 # Behroe Dlexon
 
 
+
+[Behroe Dlexon](/npc/1000) is a level 18 Human Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

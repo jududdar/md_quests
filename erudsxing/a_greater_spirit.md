@@ -1,6 +1,11 @@
 # a greater spirit
 
 
+
+[a greater spirit](/npc/8117) is a level 1 Wolf Shaman that spawns in [Erud's Crossing](/zone/98).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

@@ -2,6 +2,11 @@
 
 
 
+[Sorcerer Kerynth](/npc/202253) is a level 61 Erudite GM Wizard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Lashun Novashine
 
 
+
+[Lashun Novashine](/npc/2032) is a level 5 Human Cleric that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

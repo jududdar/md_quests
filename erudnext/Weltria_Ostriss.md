@@ -1,6 +1,11 @@
 # Weltria Ostriss
 
 
+
+[Weltria Ostriss](/npc/24017) is a level 35 Erudite Shopkeeper that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

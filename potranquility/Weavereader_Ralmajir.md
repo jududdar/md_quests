@@ -1,6 +1,11 @@
 # Weavereader Ralmajir
 
 
+
+[Weavereader Ralmajir](/npc/203368) is a level 46 Vah Shir Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

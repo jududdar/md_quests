@@ -1,6 +1,11 @@
 # Bruno Barstomper
 
 
+
+[Bruno Barstomper](/npc/1075) is a level 35 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Signals
 
 >**Bruno Barstomper says:** Yeah, Yeah. I hope you fall in, you little creep.

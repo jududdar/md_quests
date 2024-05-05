@@ -2,6 +2,11 @@
 
 
 
+[Mistrana Two Notes](/npc/12118) is a level 25 Half Elf Bard that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

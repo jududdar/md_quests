@@ -2,6 +2,11 @@
 
 
 
+[Dugroz](/npc/83149) is a level 30 Froglok Necromancer that spawns in [Swamp of No Hope](/zone/83).
+
+
+
+
 
 ## Dialog
 

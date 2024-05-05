@@ -1,6 +1,11 @@
 # Scout Derrin
 
 
+
+[Scout Derrin](/npc/167201) is a level 30 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

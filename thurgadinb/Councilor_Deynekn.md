@@ -1,6 +1,11 @@
 # Councilor Deynekn
 
 
+
+[Councilor Deynekn](/npc/129074) is a level 45 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

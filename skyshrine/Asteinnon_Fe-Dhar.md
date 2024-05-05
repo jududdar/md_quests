@@ -1,4 +1,9 @@
-# Asteinnon Fe-Dhar
+# Asteinnon Fe\`Dhar
+
+
+
+[Asteinnon Fe\`Dhar](/npc/114595) is a level 35 Wyvern Warrior that spawns in [Skyshrine](/zone/114).
+
 
 
 local quest_helper = require('velious_quest_helper');

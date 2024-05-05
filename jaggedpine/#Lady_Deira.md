@@ -2,6 +2,11 @@
 
 
 
+[Lady Deira](/npc/181103) is a level 60 Human Warrior that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 
 ## Dialog

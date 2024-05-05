@@ -2,6 +2,11 @@
 
 
 
+[Spirit of Venril Sathir](/npc/102019) is a level 55 Iksar Spirit Necromancer that spawns in [Karnor's Castle](/zone/102).
+
+
+
+
 
 ## On NPC Spawn
 

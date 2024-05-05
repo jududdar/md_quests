@@ -1,6 +1,11 @@
 # Legionnaire Garffe
 
 
+
+[Legionnaire Garffe](/npc/159133) is a level 47 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

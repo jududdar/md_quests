@@ -1,6 +1,11 @@
 # Fayl Everstrong
 
 
+
+[Fayl Everstrong](/npc/127018) is a level 60 Treant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Combat
 
 if Fayl Everstrong enters combat  then

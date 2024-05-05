@@ -1,6 +1,11 @@
 # Incantator Jak Masric
 
 
+
+[Incantator Jak Masric](/npc/160252) is a level 46 Human Wizard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

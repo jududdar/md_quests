@@ -1,4 +1,9 @@
-# Talorial D-Estalian
+# Talorial D\`Estalian
+
+
+
+[Talorial D\`Estalian](/npc/42020) is a level 61 Dark Elf Necromancer that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

@@ -1,4 +1,9 @@
-# General V-Deers
+# General V\`Deers
+
+
+
+[General V\`Deers](/npc/93087) is a level 58 Dark Elf Shadow Knight that spawns in [The Overthere](/zone/93).
+
 
 
 ## Signals

@@ -1,4 +1,9 @@
-# Soulbinder Nola Z-Ret
+# Soulbinder Nola Z\`Ret
+
+
+
+[Soulbinder Nola Z\`Ret](/npc/40007) is a level 1 Dark Elf Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 

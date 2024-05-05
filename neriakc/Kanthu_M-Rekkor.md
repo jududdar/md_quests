@@ -1,4 +1,9 @@
-# Kanthu M-Rekkor
+# Kanthu M\`Rekkor
+
+
+
+[Kanthu M\`Rekkor](/npc/42075) is a level 28 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

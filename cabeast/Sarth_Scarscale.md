@@ -2,6 +2,11 @@
 
 
 
+[Sarth Scarscale](/npc/106011) is a level 50 Iksar Shadow Knight that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

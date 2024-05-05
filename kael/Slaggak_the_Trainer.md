@@ -1,6 +1,11 @@
 # Slaggak the Trainer
 
 
+
+[Slaggak the Trainer](/npc/113359) is a level 34 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 if **Faction** >= Apprehensive then

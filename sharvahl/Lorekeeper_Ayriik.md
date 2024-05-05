@@ -1,4 +1,9 @@
 # Lorekeeper Ayriik
+
+
+
+[Lorekeeper Ayriik](/npc/155106) is a level 50 Vah Shir Bard that spawns in [The City of Shar Vahl](/zone/155).
+
 local count = 0;
 
 

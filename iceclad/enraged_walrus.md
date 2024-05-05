@@ -1,6 +1,11 @@
 # enraged walrus
 
 
+
+[enraged walrus](/npc/110014) is a level 35 Walrus Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## On NPC Death
 
 **Despawn NPC:**  [\#Snowfang fisher](/npc/110013)

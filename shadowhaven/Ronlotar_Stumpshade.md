@@ -1,6 +1,11 @@
 # Ronlotar Stumpshade
 
 
+
+[Ronlotar Stumpshade](/npc/150269) is a level 30 Dwarf Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 if(e.signal == 1 ) then

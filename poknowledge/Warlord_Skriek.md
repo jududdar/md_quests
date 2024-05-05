@@ -2,6 +2,11 @@
 
 
 
+[Warlord Skriek](/npc/202313) is a level 61 Iksar GM Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Turn-Ins
 

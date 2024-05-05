@@ -2,6 +2,11 @@
 
 
 
+[Alrik Farsight](/npc/96032) is a level 50 High Elf Wizard that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then 

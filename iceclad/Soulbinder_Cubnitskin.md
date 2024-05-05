@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Cubnitskin](/npc/110072) is a level 1 Gnome Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
+
 
 ## Dialog
 

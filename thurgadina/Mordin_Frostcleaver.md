@@ -2,6 +2,11 @@
 
 
 
+[Mordin Frostcleaver](/npc/115159) is a level 30 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 
 

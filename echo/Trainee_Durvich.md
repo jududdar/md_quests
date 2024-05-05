@@ -1,6 +1,11 @@
 # Trainee Durvich
 
 
+
+[Trainee Durvich](/npc/153105) is a level 40 Barbarian Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

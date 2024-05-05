@@ -1,6 +1,11 @@
 # Camlend Serbold
 
 
+
+[Camlend Serbold](/npc/2092) is a level 61 Human GM Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

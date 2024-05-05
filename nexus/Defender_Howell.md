@@ -1,6 +1,11 @@
 # Defender Howell
 
 
+
+[Defender Howell](/npc/152017) is a level 50 Human Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

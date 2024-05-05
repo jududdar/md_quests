@@ -1,6 +1,11 @@
 # Defender Siman
 
 
+
+[Defender Siman](/npc/153058) is a level 35 Human Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

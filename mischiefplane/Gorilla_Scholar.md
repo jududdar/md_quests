@@ -1,6 +1,11 @@
 # Gorilla Scholar
 
 
+
+[Gorilla Scholar](/npc/126244) is a level 58 Gorilla Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

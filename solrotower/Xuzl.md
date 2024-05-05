@@ -1,6 +1,11 @@
 # Xuzl
 
 
+
+[Xuzl](/npc/212055) is a level 75 Fiend Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212410) at (**y:** -336, **x:** 1780)

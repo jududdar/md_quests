@@ -1,6 +1,11 @@
 # Despondo
 
 
+
+[Despondo](/npc/84187) is a level 61 Human GM Wizard that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

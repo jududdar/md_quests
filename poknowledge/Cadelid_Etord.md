@@ -2,6 +2,11 @@
 
 
 
+[Cadelid Etord](/npc/202039) is a level 60 Vah Shir Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

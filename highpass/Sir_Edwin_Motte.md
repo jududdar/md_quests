@@ -1,6 +1,11 @@
 # Sir Edwin Motte
 
 
+
+[Sir Edwin Motte](/npc/4077) is a level 33 Human Paladin that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 

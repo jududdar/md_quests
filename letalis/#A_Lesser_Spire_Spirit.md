@@ -1,6 +1,11 @@
 # A Lesser Spire Spirit
 
 
+
+[A Lesser Spire Spirit](/npc/169002) is a level 33 Shade Necromancer that spawns in [Mons Letalis](/zone/169).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

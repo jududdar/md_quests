@@ -1,6 +1,11 @@
 # Parija Kalamir
 
 
+
+[Parija Kalamir](/npc/203420) is a level 46 Vah Shir Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

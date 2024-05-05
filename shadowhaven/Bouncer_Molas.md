@@ -1,6 +1,11 @@
 # Bouncer Molas
 
 
+
+[Bouncer Molas](/npc/150211) is a level 50 Barbarian Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

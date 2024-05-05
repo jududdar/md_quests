@@ -1,6 +1,11 @@
 # an Evangelist of Hate
 
 
+
+[an Evangelist of Hate](/npc/76026) is a level 56 Dark Elf Warrior that spawns in [Plane of Hate (Instanced)](/zone/1076).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *spam* for 1800 seconds

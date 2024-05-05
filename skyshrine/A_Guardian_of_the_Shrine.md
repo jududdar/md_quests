@@ -1,4 +1,9 @@
 # A Guardian of the Shrine
+
+
+
+
+
 local SLEEPER_TYPE = 128094; 
 local SHOUT_TYPES = { 114618, 114508, 114435, 114564, 114434, 114501, 114014 };
 

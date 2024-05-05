@@ -1,6 +1,11 @@
 # Trooper Ogmire
 
 
+
+[Trooper Ogmire](/npc/82022) is a level 50 Iksar Warrior that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `sign the restraining order`

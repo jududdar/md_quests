@@ -2,6 +2,11 @@
 
 
 
+[Stofo Olan](/npc/24013) is a level 50 Erudite Enchanter that spawns in [Erudin](/zone/24).
+
+
+
+
 
 ## Dialog
 

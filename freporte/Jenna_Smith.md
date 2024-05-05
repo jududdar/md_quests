@@ -1,6 +1,11 @@
 # Jenna Smith
 
 
+
+[Jenna Smith](/npc/10046) is a level 45 Human Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

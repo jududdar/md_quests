@@ -1,6 +1,11 @@
 # Soulbinder Novalu
 
 
+
+[Soulbinder Novalu](/npc/1033) is a level 1 Half Elf Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

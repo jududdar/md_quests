@@ -1,6 +1,11 @@
 # Tanalin Silverkale
 
 
+
+[Tanalin Silverkale](/npc/61033) is a level 50 High Elf Shopkeeper that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

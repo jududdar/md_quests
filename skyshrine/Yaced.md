@@ -1,6 +1,11 @@
 # Yaced
 
 
+
+[Yaced](/npc/114561) is a level 34 Drake Monk that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

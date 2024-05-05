@@ -1,6 +1,11 @@
 # Myre
 
 
+
+[Myre](/npc/67016) is a level 30 Dwarf Shopkeeper that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

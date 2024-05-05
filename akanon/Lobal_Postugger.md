@@ -2,6 +2,11 @@
 
 
 
+[Lobal Postugger](/npc/55127) is a level 61 Gnome GM Rogue that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

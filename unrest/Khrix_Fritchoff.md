@@ -1,6 +1,11 @@
 # Khrix Fritchoff
 
 
+
+[Khrix Fritchoff](/npc/63082) is a level 35 Gnome Necromancer that spawns in [The Estate of Unrest](/zone/63).
+
+
+
 ## Dialog 
 
 >**Khrix Fritchoff says:** Close the door and be gone fool! You are going to give away my hiding spot!

@@ -1,6 +1,11 @@
 # Guardsman Dales
 
 
+
+[Guardsman Dales](/npc/150195) is a level 35 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

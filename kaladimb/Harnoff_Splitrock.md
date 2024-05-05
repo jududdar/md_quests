@@ -2,6 +2,11 @@
 
 
 
+[Harnoff Splitrock](/npc/67057) is a level 1 Dwarf Shopkeeper that spawns in [North Kaladim](/zone/67).
+
+
+
+
 
 ## Dialog
 

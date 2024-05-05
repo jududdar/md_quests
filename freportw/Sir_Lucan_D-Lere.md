@@ -1,4 +1,9 @@
-# Sir Lucan D-Lere
+# Sir Lucan D\`Lere
+
+
+
+[Sir Lucan D\`Lere](/npc/9018) is a level 48 Guard GM Warrior that spawns in [West Freeport](/zone/9).
+
 
 
 ## Dialog

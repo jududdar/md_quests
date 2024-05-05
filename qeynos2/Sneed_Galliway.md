@@ -1,6 +1,11 @@
 # Sneed Galliway
 
 
+
+[Sneed Galliway](/npc/2067) is a level 45 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

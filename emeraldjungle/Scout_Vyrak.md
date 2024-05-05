@@ -1,6 +1,11 @@
 # Scout Vyrak
 
 
+
+[Scout Vyrak](/npc/94001) is a level 15 Vah Shir Warrior that spawns in [The Emerald Jungle](/zone/94).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

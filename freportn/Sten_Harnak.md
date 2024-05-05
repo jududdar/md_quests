@@ -1,6 +1,11 @@
 # Sten Harnak
 
 
+
+[Sten Harnak](/npc/8067) is a level 61 Human GM Bard that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -1,6 +1,11 @@
 # A Praetorian Medicus
 
 
+
+[A Praetorian Medicus](/npc/159099) is a level 63 Human Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

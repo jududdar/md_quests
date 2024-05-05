@@ -1,6 +1,11 @@
 # Kallis Stormcaller
 
 
+
+[Kallis Stormcaller](/npc/113079) is a level 58 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

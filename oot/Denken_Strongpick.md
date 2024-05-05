@@ -1,6 +1,11 @@
 # Denken Strongpick
 
 
+
+[Denken Strongpick](/npc/69061) is a level 55 Dwarf Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

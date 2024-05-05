@@ -2,6 +2,11 @@
 
 
 
+[Urako](/npc/52062) is a level 61 Troll GM Shaman that spawns in [Grobb](/zone/52).
+
+
+
+
 
 ## Dialog
 

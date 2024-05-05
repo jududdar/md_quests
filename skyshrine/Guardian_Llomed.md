@@ -1,6 +1,11 @@
 # Guardian Llomed
 
 
+
+[Guardian Llomed](/npc/114448) is a level 35 Gargoyle Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Flonts
 
 
+
+[Flonts](/npc/115009) is a level 36 Coldain Cleric that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

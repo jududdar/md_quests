@@ -1,6 +1,11 @@
 # Trenon Callust
 
 
+
+[Trenon Callust](/npc/45081) is a level 61 Human GM Wizard that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Turn-Ins
 
 

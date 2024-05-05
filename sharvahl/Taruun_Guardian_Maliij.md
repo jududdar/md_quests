@@ -1,6 +1,11 @@
 # Taruun Guardian Maliij
 
 
+
+[Taruun Guardian Maliij](/npc/155284) is a level 30 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 ran = math.random(75000);

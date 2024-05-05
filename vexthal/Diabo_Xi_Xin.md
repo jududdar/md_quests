@@ -1,6 +1,11 @@
 # Diabo Xi Xin
 
 
+
+[Diabo Xi Xin](/npc/158446) is a level 66 Akheva Warrior that spawns in [Vex Thal](/zone/158).
+
+
+
 local Z_LEVEL = 100; 
 
 

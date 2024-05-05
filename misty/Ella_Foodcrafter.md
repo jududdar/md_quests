@@ -2,6 +2,11 @@
 
 
 
+[Ella Foodcrafter](/npc/33077) is a level 50 Halfling Druid that spawns in [Misty Thicket](/zone/33).
+
+
+
+
 
 
 ## Arrive at Waypoint Script

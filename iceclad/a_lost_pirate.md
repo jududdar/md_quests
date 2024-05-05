@@ -1,6 +1,11 @@
 # a lost pirate
 
 
+
+[a lost pirate](/npc/110057) is a level 1 Gnome Enchanter that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

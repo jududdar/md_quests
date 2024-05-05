@@ -1,6 +1,11 @@
 # Karam Dragonforge
 
 
+
+[Karam Dragonforge](/npc/50269) is a level 45 Dwarf Shopkeeper that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

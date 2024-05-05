@@ -1,6 +1,11 @@
 # Gylton
 
 
+
+[Gylton](/npc/87070) is a level 40 Wurm Warrior that spawns in [The Burning Wood](/zone/87).
+
+
+
 ## Combat
 
 local random_result = math.random(60);

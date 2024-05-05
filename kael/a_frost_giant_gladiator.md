@@ -1,6 +1,11 @@
 # a frost giant gladiator
 
 
+
+[a frost giant gladiator](/npc/113204) is a level 49 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

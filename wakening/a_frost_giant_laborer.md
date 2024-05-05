@@ -1,6 +1,11 @@
 # a frost giant laborer
 
 
+
+[a frost giant laborer](/npc/119041) is a level 36 Giant Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

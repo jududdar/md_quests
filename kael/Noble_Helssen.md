@@ -1,6 +1,11 @@
 # Noble Helssen
 
 
+
+[Noble Helssen](/npc/113108) is a level 55 Giant Wizard that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

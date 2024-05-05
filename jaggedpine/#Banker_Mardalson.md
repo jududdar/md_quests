@@ -1,6 +1,11 @@
 # Banker Mardalson
 
 
+
+[Banker Mardalson](/npc/181099) is a level 25 Human Banker that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

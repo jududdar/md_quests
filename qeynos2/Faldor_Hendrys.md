@@ -1,6 +1,11 @@
 # Faldor Hendrys
 
 
+
+[Faldor Hendrys](/npc/2140) is a level 18 Half Elf Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

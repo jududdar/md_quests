@@ -1,6 +1,11 @@
 # an ogre mercenary
 
 
+
+[an ogre mercenary](/npc/116080) is a level 38 Ogre Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Dialog
 
 **You say:** `hail`

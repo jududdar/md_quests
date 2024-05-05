@@ -1,6 +1,11 @@
 # Nal McMarrin
 
 
+
+[Nal McMarrin](/npc/29065) is a level 40 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Silna Songsmith](/npc/19113) is a level 25 Wood Elf Bard that spawns in [Rivervale](/zone/19).
+
+
+
+
 
 
 

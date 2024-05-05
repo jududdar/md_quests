@@ -1,6 +1,11 @@
 # Saemey Wirewhisker
 
 
+
+[Saemey Wirewhisker](/npc/100135) is a level 28 Kerran Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

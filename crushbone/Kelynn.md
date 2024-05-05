@@ -1,6 +1,11 @@
 # Kelynn
 
 
+
+[Kelynn](/npc/58060) is a level 9 Wood Elf Ranger that spawns in [Crushbone](/zone/58).
+
+
+
 ## Dialog
 
 **You say:** `hail`

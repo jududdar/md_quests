@@ -1,6 +1,11 @@
 # A mind worm
 
 
+
+[A mind worm](/npc/179003) is a level 50 Worm Warrior that spawns in [Akheva Ruins](/zone/179).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 75 seconds

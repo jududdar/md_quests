@@ -1,6 +1,11 @@
 # Phenic Dionicas
 
 
+
+[Phenic Dionicas](/npc/160159) is a level 62 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a skeleton
 
 
+
+[a skeleton](/npc/38010) is a level 7 Skeleton Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `hail`

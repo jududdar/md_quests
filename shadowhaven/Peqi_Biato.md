@@ -1,6 +1,11 @@
 # Peqi Biato
 
 
+
+[Peqi Biato](/npc/150069) is a level 45 Gnome Wizard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

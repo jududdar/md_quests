@@ -1,6 +1,11 @@
 # Marchap Biddinight
 
 
+
+[Marchap Biddinight](/npc/150246) is a level 30 Gnome Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

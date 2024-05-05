@@ -2,6 +2,11 @@
 
 
 
+[Tratlan Jowyr](/npc/202300) is a level 60 High Elf Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

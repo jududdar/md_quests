@@ -2,6 +2,11 @@
 
 
 
+[Durkis Battlemore](/npc/68113) is a level 50 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
+
 ## Turn-Ins
 
 

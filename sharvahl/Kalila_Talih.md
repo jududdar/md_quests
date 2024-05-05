@@ -1,6 +1,11 @@
 # Kalila Talih
 
 
+
+[Kalila Talih](/npc/155082) is a level 10 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

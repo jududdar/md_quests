@@ -2,6 +2,11 @@
 
 
 
+[Ezmirella](/npc/13097) is a level 30 Human Enchanter that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

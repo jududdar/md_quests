@@ -1,6 +1,11 @@
 # Priest of Tumagal
 
 
+
+[Priest of Tumagal](/npc/201298) is a level 46 Ghost Cleric that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 

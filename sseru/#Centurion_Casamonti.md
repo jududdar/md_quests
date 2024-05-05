@@ -1,6 +1,11 @@
 # Centurion Casamonti
 
 
+
+[Centurion Casamonti](/npc/159332) is a level 50 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

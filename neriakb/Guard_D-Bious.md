@@ -1,4 +1,9 @@
-# Guard D-Bious
+# Guard D\`Bious
+
+
+
+[Guard D\`Bious](/npc/41103) is a level 40 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

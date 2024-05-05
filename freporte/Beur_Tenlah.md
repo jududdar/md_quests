@@ -1,6 +1,11 @@
 # Beur Tenlah
 
 
+
+[Beur Tenlah](/npc/10106) is a level 61 Human GM Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Erdarf Restil](/npc/115120) is a level 35 Coldain Magician that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Dialog
 

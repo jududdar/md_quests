@@ -1,6 +1,11 @@
 # Yika Burrowbright
 
 
+
+[Yika Burrowbright](/npc/159030) is a level 42 Halfling Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

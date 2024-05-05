@@ -1,6 +1,11 @@
 # Brynju Thunderclap
 
 
+
+[Brynju Thunderclap](/npc/209016) is a level 67 Giant Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Brynju Thunderclap enters combat  then

@@ -1,6 +1,11 @@
 # Ratraz
 
 
+
+[Ratraz](/npc/42002) is a level 19 Troll Warrior that spawns in [Neriak - 3rd Gate](/zone/42).
+
+
+
 ## Dialog
 
 **You say:** `hail`

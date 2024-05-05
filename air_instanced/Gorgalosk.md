@@ -1,6 +1,11 @@
 # Gorgalosk
 
 
+
+[Gorgalosk](/npc/71021) is a level 60 Gorgon Warrior that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## Dialog
 
 **You say:** `hail`

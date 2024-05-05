@@ -2,6 +2,11 @@
 
 
 
+[Ramos Jerwan](/npc/202303) is a level 60 Barbarian Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

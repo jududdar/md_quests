@@ -1,6 +1,11 @@
 # Thall Xundraux Diabo
 
 
+
+[Thall Xundraux Diabo](/npc/158442) is a level 66 Akheva Warrior that spawns in [Vex Thal](/zone/158).
+
+
+
 local Z_LEVEL = 110; 
 
 

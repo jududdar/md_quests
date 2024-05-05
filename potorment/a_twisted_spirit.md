@@ -1,6 +1,11 @@
 # a twisted spirit
 
 
+
+[a twisted spirit](/npc/207308) is a level 59 Blood Raven Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

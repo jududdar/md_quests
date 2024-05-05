@@ -1,6 +1,11 @@
 # Ronald the Shoveler
 
 
+
+[Ronald the Shoveler](/npc/153048) is a level 32 Dwarf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

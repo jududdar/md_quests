@@ -1,6 +1,11 @@
 # Lookout Girols
 
 
+
+[Lookout Girols](/npc/150059) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

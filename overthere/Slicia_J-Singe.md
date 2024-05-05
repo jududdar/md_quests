@@ -1,4 +1,9 @@
-# Slicia J-Singe
+# Slicia J\`Singe
+
+
+
+[Slicia J\`Singe](/npc/93110) is a level 49 Dark Elf Magician that spawns in [The Overthere](/zone/93).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Frugo Prigdish
 
 
+
+[Frugo Prigdish](/npc/56113) is a level 30 Gnome Magician that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## Dialog
 
 **You say:** `hail`

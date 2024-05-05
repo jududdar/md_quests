@@ -1,6 +1,11 @@
 # A comet
 
 
+
+[A comet](/npc/209123) is a level 60 Dervish Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

@@ -1,6 +1,11 @@
 # protector of Zek
 
 
+
+[protector of Zek](/npc/113138) is a level 56 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

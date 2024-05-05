@@ -1,6 +1,11 @@
 # lucid spirit of Abrams
 
 
+
+[lucid spirit of Abrams](/npc/111056) is a level 42 Ghost Shadow Knight that spawns in [Tower of Frozen Shadow](/zone/111).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 390 seconds

@@ -1,6 +1,11 @@
 # Trudo Frugrin
 
 
+
+[Trudo Frugrin](/npc/57103) is a level 19 Gnome Wizard that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `hail`

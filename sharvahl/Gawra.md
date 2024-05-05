@@ -1,6 +1,11 @@
 # Gawra
 
 
+
+[Gawra](/npc/155176) is a level 12 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 80 seconds

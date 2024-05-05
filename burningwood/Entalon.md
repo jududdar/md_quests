@@ -1,6 +1,11 @@
 # Entalon
 
 
+
+[Entalon](/npc/87004) is a level 40 Wurm Warrior that spawns in [The Burning Wood](/zone/87).
+
+
+
 ## Dialog
 
 **You say:** `hail`

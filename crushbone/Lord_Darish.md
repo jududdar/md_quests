@@ -1,6 +1,11 @@
 # Lord Darish
 
 
+
+[Lord Darish](/npc/58028) is a level 14 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if Lord Darish enters combat  then

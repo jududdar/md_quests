@@ -1,6 +1,11 @@
 # Sylia Windlehands
 
 
+
+[Sylia Windlehands](/npc/54092) is a level 61 Wood Elf GM Bard that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

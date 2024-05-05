@@ -1,6 +1,11 @@
 # Basher Ganbaku
 
 
+
+[Basher Ganbaku](/npc/52123) is a level 33 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

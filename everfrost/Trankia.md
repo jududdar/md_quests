@@ -2,6 +2,11 @@
 
 
 
+[Trankia](/npc/30068) is a level 47 Barbarian Rogue that spawns in [Everfrost Peaks](/zone/30).
+
+
+
+
 
 ## Dialog
 

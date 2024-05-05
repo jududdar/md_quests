@@ -1,6 +1,11 @@
 # Mira Sayer
 
 
+
+[Mira Sayer](/npc/4064) is a level 30 Human Shopkeeper that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 

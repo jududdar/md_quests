@@ -1,6 +1,11 @@
 # Vorshar the Despised
 
 
+
+[Vorshar the Despised](/npc/41081) is a level 61 Dark Elf Wizard that spawns in [Neriak - Commons](/zone/41).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Barn Bloodstone
 
 
+
+[Barn Bloodstone](/npc/4203) is a level 20 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

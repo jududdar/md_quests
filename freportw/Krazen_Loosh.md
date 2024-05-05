@@ -1,6 +1,11 @@
 # Krazen Loosh
 
 
+
+[Krazen Loosh](/npc/9143) is a level 10 Guard Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

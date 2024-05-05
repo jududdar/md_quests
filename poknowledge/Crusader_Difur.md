@@ -2,6 +2,11 @@
 
 
 
+[Crusader Difur](/npc/202250) is a level 61 Dwarf GM Paladin that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

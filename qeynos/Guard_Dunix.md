@@ -1,6 +1,11 @@
 # Guard Dunix
 
 
+
+[Guard Dunix](/npc/1181) is a level 6 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

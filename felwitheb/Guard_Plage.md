@@ -1,6 +1,11 @@
 # Guard Plage
 
 
+
+[Guard Plage](/npc/62032) is a level 38 Guard Paladin that spawns in [Southern Felwithe](/zone/62).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

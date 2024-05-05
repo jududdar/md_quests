@@ -2,6 +2,11 @@
 
 
 
+[Baldric Slezaf](/npc/86097) is a level 55 Human Bard that spawns in [The Dreadlands](/zone/86).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

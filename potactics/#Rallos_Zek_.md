@@ -1,4 +1,9 @@
 # Rallos Zek 
+
+
+
+[Rallos Zek ](/npc/214052) is a level 76 Rallos Zek Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
 local CORPSE_TYPES = { [214007] = 1, [214008] = 1, [214009] = 1, [214010] = 1, [214011] = 1 };
 
 function GetCorpse()

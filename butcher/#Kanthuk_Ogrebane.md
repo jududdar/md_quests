@@ -2,6 +2,11 @@
 
 
 
+[Kanthuk Ogrebane](/npc/68066) is a level 23 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
+
 
 ## Dialog
 

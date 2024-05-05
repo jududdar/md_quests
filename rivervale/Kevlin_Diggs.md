@@ -1,6 +1,11 @@
 # Kevlin Diggs
 
 
+
+[Kevlin Diggs](/npc/19049) is a level 35 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Samson
 
 
+
+[Samson](/npc/84200) is a level 40 Dwarf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

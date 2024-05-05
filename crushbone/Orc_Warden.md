@@ -1,6 +1,11 @@
 # Orc Warden
 
 
+
+[Orc Warden](/npc/58047) is a level 14 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if Orc Warden enters combat  then

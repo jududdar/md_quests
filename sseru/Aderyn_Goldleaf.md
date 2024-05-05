@@ -2,6 +2,11 @@
 
 
 
+[Aderyn Goldleaf](/npc/159148) is a level 60 Human Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
+
 
 ## Dialog
 

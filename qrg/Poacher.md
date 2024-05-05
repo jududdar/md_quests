@@ -1,6 +1,11 @@
 # Poacher
 
 
+
+[Poacher](/npc/3045) is a level 6 Human Warrior that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

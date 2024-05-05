@@ -2,6 +2,11 @@
 
 
 
+[Baxo Numbalin](/npc/201282) is a level 44 Gnome Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

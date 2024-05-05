@@ -1,6 +1,11 @@
 # Crates the Philosopher
 
 
+
+[Crates the Philosopher](/npc/153073) is a level 35 Gnome Enchanter that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

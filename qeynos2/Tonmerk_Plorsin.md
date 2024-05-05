@@ -1,6 +1,11 @@
 # Tonmerk Plorsin
 
 
+
+[Tonmerk Plorsin](/npc/2089) is a level 61 Human GM Cleric that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

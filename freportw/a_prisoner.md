@@ -1,6 +1,11 @@
 # a prisoner
 
 
+
+[a prisoner](/npc/6053) is a level 8 Beggar Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *goog* for 150 seconds

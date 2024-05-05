@@ -1,6 +1,11 @@
 # Guard Wisnyw
 
 
+
+[Guard Wisnyw](/npc/61075) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

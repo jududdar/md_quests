@@ -2,6 +2,11 @@
 
 
 
+[Aid Grimel](/npc/202121) is a level 60 Halfling Paladin that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

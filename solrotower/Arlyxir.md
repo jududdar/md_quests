@@ -1,6 +1,11 @@
 # Arlyxir
 
 
+
+[Arlyxir](/npc/212023) is a level 75 Phoenix Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212411) at (**y:** 1891, **x:** 1607)

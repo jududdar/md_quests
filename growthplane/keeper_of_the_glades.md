@@ -1,6 +1,11 @@
 # keeper of the glades
 
 
+
+[keeper of the glades](/npc/127016) is a level 65 Puma Warrior that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Combat
 
 if keeper of the glades enters combat  then

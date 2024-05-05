@@ -1,6 +1,11 @@
 # Ghanlin Skyphire
 
 
+
+[Ghanlin Skyphire](/npc/23042) is a level 61 Erudite GM Wizard that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Turn-Ins
 
 

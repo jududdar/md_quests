@@ -1,6 +1,11 @@
 # Kizdean Gix
 
 
+
+[Kizdean Gix](/npc/21006) is a level 19 Dark Elf Shadow Knight that spawns in [West Commonlands](/zone/21).
+
+
+
 ## Dialog
 
 **You say:** `hail`

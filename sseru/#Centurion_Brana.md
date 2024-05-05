@@ -1,6 +1,11 @@
 # Centurion Brana
 
 
+
+[Centurion Brana](/npc/159665) is a level 50 High Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

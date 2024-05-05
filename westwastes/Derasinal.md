@@ -1,6 +1,11 @@
 # Derasinal
 
 
+
+[Derasinal](/npc/120014) is a level 57 Dragon Cleric that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

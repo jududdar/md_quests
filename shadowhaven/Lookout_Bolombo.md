@@ -1,6 +1,11 @@
 # Lookout Bolombo
 
 
+
+[Lookout Bolombo](/npc/150014) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

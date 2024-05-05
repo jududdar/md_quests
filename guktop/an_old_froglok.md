@@ -1,6 +1,11 @@
 # an old froglok
 
 
+
+[an old froglok](/npc/65002) is a level 35 Froglok Enchanter that spawns in [Guk](/zone/65).
+
+
+
 ## Dialog
 
 if( **Faction is** > Kindly) then 

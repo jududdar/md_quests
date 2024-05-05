@@ -1,6 +1,11 @@
 # an incarnate
 
 
+
+[an incarnate](/npc/80005) is a level 34 Imp Warrior that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## On NPC Death
 
 local which = math.random(3);

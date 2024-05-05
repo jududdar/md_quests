@@ -2,6 +2,11 @@
 
 
 
+[Elzabetha Ianthe](/npc/201353) is a level 44 Human Cleric that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

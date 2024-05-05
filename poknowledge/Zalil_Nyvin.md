@@ -2,6 +2,11 @@
 
 
 
+[Zalil Nyvin](/npc/202038) is a level 60 Halfling Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

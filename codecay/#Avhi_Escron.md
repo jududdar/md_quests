@@ -1,4 +1,9 @@
 # Avhi Escron
+
+
+
+[Avhi Escron](/npc/200225) is a level 70 Lepertoloth Necromancer that spawns in [The Crypt of Decay](/zone/200).
+
 local REAVER_LOCS = {
 
 { 413, 115 },

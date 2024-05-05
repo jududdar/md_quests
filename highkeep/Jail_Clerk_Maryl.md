@@ -1,6 +1,11 @@
 # Jail Clerk Maryl
 
 
+
+[Jail Clerk Maryl](/npc/6058) is a level 40 Human Shopkeeper that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

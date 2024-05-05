@@ -1,6 +1,11 @@
 # Gehna Solbenya
 
 
+
+[Gehna Solbenya](/npc/1076) is a level 61 Human GM Cleric that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

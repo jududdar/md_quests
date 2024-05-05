@@ -1,6 +1,11 @@
 # Anival the Blade
 
 
+
+[Anival the Blade](/npc/214033) is a level 69 Rallos Zek Minion Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
+
+
 ## On NPC Spawn
 
 if ( e.self:GetSpawnPointID() == 0 ) then 

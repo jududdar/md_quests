@@ -1,4 +1,9 @@
-# Ulraz S-Lon
+# Ulraz S\`Lon
+
+
+
+[Ulraz S\`Lon](/npc/42064) is a level 61 Dark Elf GM Shadow Knight that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

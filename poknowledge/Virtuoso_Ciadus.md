@@ -2,6 +2,11 @@
 
 
 
+[Virtuoso Ciadus](/npc/202008) is a level 61 Half Elf GM Bard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 e.self:Emote("raises a brow sharply, his Teir'Dal heritage perfectly displayed in his sharp features twisted in a glare of flawless contempt. 'The district of Kartis 

@@ -1,6 +1,11 @@
 # Fordel Keeper Faloensar
 
 
+
+[Fordel Keeper Faloensar](/npc/150286) is a level 30 Human Banker that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

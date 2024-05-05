@@ -1,6 +1,11 @@
 # Fendlemend Figlefop
 
 
+
+[Fendlemend Figlefop](/npc/69062) is a level 55 Gnome Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

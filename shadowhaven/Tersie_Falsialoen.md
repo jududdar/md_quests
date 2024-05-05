@@ -1,6 +1,11 @@
 # Tersie Falsialoen
 
 
+
+[Tersie Falsialoen](/npc/150114) is a level 55 Dwarf Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Koajin
 
 
+
+[Koajin](/npc/101062) is a level 8 Kerran Monk that spawns in [The Warrens](/zone/101).
+
+
+
 ## Dialog
 
 **You say:** `hail`

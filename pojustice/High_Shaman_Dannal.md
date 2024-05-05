@@ -2,6 +2,11 @@
 
 
 
+[High Shaman Dannal](/npc/201338) is a level 44 Barbarian Shaman that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

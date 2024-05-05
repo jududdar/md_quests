@@ -1,6 +1,11 @@
 # Julius Oresko
 
 
+
+[Julius Oresko](/npc/120031) is a level 55 Human Warrior that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Combat
 
 if Julius Oresko enters combat  then

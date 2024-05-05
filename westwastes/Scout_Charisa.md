@@ -1,6 +1,11 @@
 # Scout Charisa
 
 
+
+[Scout Charisa](/npc/120001) is a level 55 Human Enchanter that spawns in [Western Wastes](/zone/120).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

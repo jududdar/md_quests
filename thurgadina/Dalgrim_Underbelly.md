@@ -1,6 +1,11 @@
 # Dalgrim Underbelly
 
 
+
+[Dalgrim Underbelly](/npc/115146) is a level 42 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 

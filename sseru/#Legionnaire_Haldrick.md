@@ -1,6 +1,11 @@
 # Legionnaire Haldrick
 
 
+
+[Legionnaire Haldrick](/npc/159504) is a level 52 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Jogl Doobraugh
 
 
+
+[Jogl Doobraugh](/npc/56109) is a level 32 Gnome Wizard that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## Dialog
 
 **You say:** `hail`

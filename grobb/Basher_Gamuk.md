@@ -1,6 +1,11 @@
 # Basher Gamuk
 
 
+
+[Basher Gamuk](/npc/52006) is a level 38 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

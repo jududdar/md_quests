@@ -1,6 +1,11 @@
 # an Icewell Sentinel
 
 
+
+[an Icewell Sentinel](/npc/129033) is a level 50 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

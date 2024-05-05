@@ -1,6 +1,11 @@
 # Tribal Shaman
 
 
+
+[Tribal Shaman](/npc/174150) is a level 35 Galorian Shaman that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Turn-Ins
 
 

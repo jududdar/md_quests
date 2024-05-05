@@ -2,6 +2,11 @@
 
 
 
+[Garret Zethkog](/npc/55145) is a level 61 Gnome GM Shadow Knight that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

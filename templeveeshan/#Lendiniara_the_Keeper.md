@@ -1,6 +1,11 @@
 # Lendiniara the Keeper
 
 
+
+[Lendiniara the Keeper](/npc/124020) is a level 66 Dragon Cleric that spawns in [Temple of Veeshan](/zone/124).
+
+
+
 ## Dialog
 
 if **Faction** >= Kindly then 

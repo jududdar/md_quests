@@ -1,6 +1,11 @@
 # Bodbin Gimple
 
 
+
+[Bodbin Gimple](/npc/19074) is a level 35 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Turn-Ins
 
 

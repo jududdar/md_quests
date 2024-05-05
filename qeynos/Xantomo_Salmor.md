@@ -1,6 +1,11 @@
 # Xantomo Salmor
 
 
+
+[Xantomo Salmor](/npc/1027) is a level 50 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

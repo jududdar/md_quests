@@ -1,6 +1,11 @@
 # Frothy
 
 
+
+[Frothy](/npc/84163) is a level 40 Dwarf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `what jungle city`

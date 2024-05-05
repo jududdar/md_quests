@@ -1,6 +1,11 @@
 # Solsain Paslinor
 
 
+
+[Solsain Paslinor](/npc/153083) is a level 55 Human Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

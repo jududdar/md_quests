@@ -1,4 +1,9 @@
 # Avatar of Earth
+
+
+
+[Avatar of Earth](/npc/222040) is a level 80 The Rathe Warrior that spawns in [Plane of Earth](/zone/222).
+
 local PLANAR_PROJECTION_TYPE = 222041; 
 
 

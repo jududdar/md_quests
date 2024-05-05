@@ -1,6 +1,11 @@
 # Snowfang spearguard
 
 
+
+[Snowfang spearguard](/npc/110046) is a level 27 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

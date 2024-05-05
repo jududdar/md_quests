@@ -1,6 +1,11 @@
 # Dalin Greskar
 
 
+
+[Dalin Greskar](/npc/202086) is a level 60 Half Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

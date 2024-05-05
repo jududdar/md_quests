@@ -1,6 +1,11 @@
 # Watcher Kiba
 
 
+
+[Watcher Kiba](/npc/159089) is a level 51 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

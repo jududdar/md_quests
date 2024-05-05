@@ -1,6 +1,11 @@
 # Dune
 
 
+
+[Dune](/npc/84270) is a level 30 Wolf Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds

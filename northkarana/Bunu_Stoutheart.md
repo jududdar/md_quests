@@ -1,6 +1,11 @@
 # Bunu Stoutheart
 
 
+
+[Bunu Stoutheart](/npc/13062) is a level 31 Barbarian Shaman that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds

@@ -1,6 +1,11 @@
 # Guard Menbuknar
 
 
+
+[Guard Menbuknar](/npc/75047) is a level 10 Skeleton Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

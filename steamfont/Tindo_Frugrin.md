@@ -2,6 +2,11 @@
 
 
 
+[Tindo Frugrin](/npc/56116) is a level 30 Gnome Wizard that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 
 

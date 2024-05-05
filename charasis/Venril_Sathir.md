@@ -1,4 +1,9 @@
 # Venril Sathir
+
+
+
+[Venril Sathir](/npc/102010) is a level 55 Venril Sathir Warrior that spawns in [The Howling Stones](/zone/105).
+
 local counting;
 
 

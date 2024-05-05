@@ -1,6 +1,11 @@
 # Endric
 
 
+
+[Endric](/npc/1080) is a level 10 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *clean* for 6200 seconds

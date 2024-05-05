@@ -1,6 +1,11 @@
 # a coterie assassin
 
 
+
+[a coterie assassin](/npc/160230) is a level 38 Vampire Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(300000,1200000));

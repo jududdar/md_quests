@@ -1,4 +1,9 @@
 # Varsoon
+
+
+
+[Varsoon](/npc/4171) is a level 25 Human Necromancer that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

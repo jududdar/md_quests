@@ -2,6 +2,11 @@
 
 
 
+[Oracle Cador](/npc/202239) is a level 61 Barbarian GM Shaman that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # an aimless adventurer
 
 
+
+[an aimless adventurer](/npc/210050) is a level 63 High Elf Wizard that spawns in [Plane of Storms](/zone/210).
+
+
+
 ## Dialog
 
 **You say:** `hail`

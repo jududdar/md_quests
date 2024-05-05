@@ -2,6 +2,11 @@
 
 
 
+[King Raja Kerrath](/npc/155151) is a level 65 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 
 

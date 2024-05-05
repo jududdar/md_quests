@@ -1,6 +1,11 @@
 # Arrias Arcanum
 
 
+
+[Arrias Arcanum](/npc/61027) is a level 40 High Elf Cleric that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Actuarii Runol
 
 
+
+[Actuarii Runol](/npc/159429) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # First Sergeant Bryson Tredd
+
+
+
+[First Sergeant Bryson Tredd](/npc/211042) is a level 64 Human Warrior that spawns in [Halls of Honor](/zone/211).
+
 local SAY_TEXT = {
 
 "Allright, men, break it up, and fall in!",

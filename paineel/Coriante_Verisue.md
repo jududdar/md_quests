@@ -1,6 +1,11 @@
 # Coriante Verisue
 
 
+
+[Coriante Verisue](/npc/75091) is a level 61 Erudite GM Necromancer that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

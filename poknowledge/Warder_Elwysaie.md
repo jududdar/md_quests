@@ -2,6 +2,11 @@
 
 
 
+[Warder Elwysaie](/npc/202007) is a level 61 Wood Elf GM Ranger that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

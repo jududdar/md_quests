@@ -1,6 +1,11 @@
 # Maera Kerrath
 
 
+
+[Maera Kerrath](/npc/155159) is a level 5 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

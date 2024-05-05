@@ -1,6 +1,11 @@
 # a Xakra Sei
 
 
+
+[a Xakra Sei](/npc/171001) is a level 41 Worm Warrior that spawns in [The Grey](/zone/171).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

@@ -2,6 +2,11 @@
 
 
 
+[A Wandering Spirit](/npc/208209) is a level 70 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
+
 
 
 

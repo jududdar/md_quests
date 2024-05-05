@@ -1,6 +1,11 @@
 # Pelshia Thuxpire
 
 
+
+[Pelshia Thuxpire](/npc/2073) is a level 23 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

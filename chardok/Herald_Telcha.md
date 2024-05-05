@@ -2,6 +2,11 @@
 
 
 
+[Herald Telcha](/npc/103027) is a level 4 Sarnak Warrior that spawns in [Chardok](/zone/103).
+
+
+
+
 
 
 ## Dialog

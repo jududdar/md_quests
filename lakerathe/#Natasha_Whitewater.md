@@ -2,6 +2,11 @@
 
 
 
+[Natasha Whitewater](/npc/51138) is a level 40 Human Cleric that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## On NPC Spawn
 

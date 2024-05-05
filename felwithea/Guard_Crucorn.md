@@ -1,6 +1,11 @@
 # Guard Crucorn
 
 
+
+[Guard Crucorn](/npc/61077) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

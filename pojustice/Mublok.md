@@ -2,6 +2,11 @@
 
 
 
+[Mublok](/npc/201290) is a level 44 Ratman Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

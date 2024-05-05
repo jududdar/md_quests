@@ -1,6 +1,11 @@
 # Timvu
 
 
+
+[Timvu](/npc/45205) is a level 35 Human Rogue that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

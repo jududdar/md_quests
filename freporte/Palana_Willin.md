@@ -1,4 +1,9 @@
 # Palana Willin
+
+
+
+[Palana Willin](/npc/10165) is a level 25 Half Elf Bard that spawns in [East Freeport](/zone/10).
+
 local signal = 0;
 local lastSong = 0;
 

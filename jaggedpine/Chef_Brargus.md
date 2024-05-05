@@ -1,6 +1,11 @@
 # Chef Brargus
 
 
+
+[Chef Brargus](/npc/181071) is a level 25 Gnoll Shopkeeper that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Venril Sathirs remains](/npc/102099) is a level 50 Undead Iksar Shadow Knight that spawns in [Karnor's Castle](/zone/102).
+
+
+
+
 ## On NPC Spawn
 
 if(**spawned NPC:**  [Venril Sathir](/npc/102010)) then 

@@ -1,6 +1,11 @@
 # Jeren Manri
 
 
+
+[Jeren Manri](/npc/81116) is a level 35 Human Cleric that spawns in [Mines of Droga](/zone/81).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

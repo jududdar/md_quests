@@ -2,6 +2,11 @@
 
 
 
+[Dark Deathsinger](/npc/46007) is a level 25 Human Bard that spawns in [Innothule Swamp](/zone/46).
+
+
+
+
 
 ## Dialog
 

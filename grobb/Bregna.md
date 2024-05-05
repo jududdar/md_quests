@@ -2,6 +2,11 @@
 
 
 
+[Bregna](/npc/52023) is a level 61 Troll GM Shaman that spawns in [Grobb](/zone/52).
+
+
+
+
 
 
 ## Dialog

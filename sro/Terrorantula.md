@@ -2,6 +2,11 @@
 
 
 
+[Terrorantula](/npc/35144) is a level 37 Spider Warrior that spawns in [Southern Desert of Ro](/zone/35).
+
+
+
+
 
 ## On NPC Death
 

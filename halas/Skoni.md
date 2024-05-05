@@ -1,6 +1,11 @@
 # Skoni
 
 
+
+[Skoni](/npc/29022) is a level 45 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Terren Starwatcher
 
 
+
+[Terren Starwatcher](/npc/61017) is a level 40 High Elf Shopkeeper that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

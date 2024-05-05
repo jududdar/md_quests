@@ -2,6 +2,11 @@
 
 
 
+[Mrysila](/npc/13067) is a level 35 Human Shopkeeper that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 
 
 

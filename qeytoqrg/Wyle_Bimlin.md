@@ -1,6 +1,11 @@
 # Wyle Bimlin
 
 
+
+[Wyle Bimlin](/npc/4073) is a level 20 Human Shopkeeper that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 6) then

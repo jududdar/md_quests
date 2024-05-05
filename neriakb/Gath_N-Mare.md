@@ -1,4 +1,9 @@
-# Gath N-Mare
+# Gath N\`Mare
+
+
+
+[Gath N\`Mare](/npc/41053) is a level 61 Dark Elf GM Wizard that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Turn-Ins

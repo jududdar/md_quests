@@ -2,6 +2,11 @@
 
 
 
+[Klaren Dunn](/npc/201295) is a level 42 Dwarf Cleric that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

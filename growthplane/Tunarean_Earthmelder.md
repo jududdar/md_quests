@@ -1,6 +1,11 @@
 # Tunarean Earthmelder
 
 
+
+[Tunarean Earthmelder](/npc/127042) is a level 60 Man-Eating Plant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *hum* for 90 seconds

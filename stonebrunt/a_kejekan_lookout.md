@@ -1,6 +1,11 @@
 # a kejekan lookout
 
 
+
+[a kejekan lookout](/npc/100185) is a level 23 Kerran Monk that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

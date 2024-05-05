@@ -1,6 +1,11 @@
 # Galorano Daldirick
 
 
+
+[Galorano Daldirick](/npc/150260) is a level 30 Human Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

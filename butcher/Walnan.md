@@ -1,6 +1,11 @@
 # Walnan
 
 
+
+[Walnan](/npc/68087) is a level 47 High Elf Magician that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `hail`

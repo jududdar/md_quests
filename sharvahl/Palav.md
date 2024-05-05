@@ -1,6 +1,11 @@
 # Palav
 
 
+
+[Palav](/npc/155289) is a level 60 Tiger Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 if( **Faction is** > Indifferent) then

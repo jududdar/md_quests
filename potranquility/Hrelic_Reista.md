@@ -1,6 +1,11 @@
 # Hrelic Reista
 
 
+
+[Hrelic Reista](/npc/203364) is a level 60 Erudite Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

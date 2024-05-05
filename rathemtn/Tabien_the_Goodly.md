@@ -1,6 +1,11 @@
 # Tabien the Goodly
 
 
+
+[Tabien the Goodly](/npc/50276) is a level 32 Human Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

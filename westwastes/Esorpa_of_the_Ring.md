@@ -1,6 +1,11 @@
 # Esorpa of the Ring
 
 
+
+[Esorpa of the Ring](/npc/120086) is a level 53 Dragon Wizard that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

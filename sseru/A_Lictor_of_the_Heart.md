@@ -1,6 +1,11 @@
 # A Lictor of the Heart
 
 
+
+[A Lictor of the Heart](/npc/159138) is a level 60 High Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

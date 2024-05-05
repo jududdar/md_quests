@@ -2,6 +2,11 @@
 
 
 
+[Cazic Thule](/npc/72003) is a level 70 Cazic Thule Shadow Knight that spawns in [Plane of Fear (Instanced)](/zone/1072).
+
+
+
+
 
 ## On NPC Spawn
 

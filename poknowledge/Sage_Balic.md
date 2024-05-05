@@ -2,6 +2,11 @@
 
 
 
+[Sage Balic](/npc/202051) is a level 60 Gnome Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Kaydin Gaxx
 
 
+
+[Kaydin Gaxx](/npc/84197) is a level 40 High Elf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

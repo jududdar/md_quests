@@ -1,6 +1,11 @@
 # Aldo Amondson
 
 
+
+[Aldo Amondson](/npc/151205) is a level 35 Human Warrior that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `hail`

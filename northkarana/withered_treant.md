@@ -1,6 +1,11 @@
 # withered treant
 
 
+
+[withered treant](/npc/13274) is a level 60 Treant Druid that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## Dialog
 
 **You say:** `hail`

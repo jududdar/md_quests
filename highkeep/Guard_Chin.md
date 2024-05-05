@@ -1,6 +1,11 @@
 # Guard Chin
 
 
+
+[Guard Chin](/npc/6031) is a level 28 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

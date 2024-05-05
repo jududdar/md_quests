@@ -1,6 +1,11 @@
 # Jaylia the Faithful
 
 
+
+[Jaylia the Faithful](/npc/2053) is a level 61 Human Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

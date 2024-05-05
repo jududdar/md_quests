@@ -1,6 +1,11 @@
 # Ghil Starn
 
 
+
+[Ghil Starn](/npc/2084) is a level 37 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Decurion Ralla
 
 
+
+[Decurion Ralla](/npc/159303) is a level 61 High Elf GM Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Ranjor](/npc/52048) is a level 61 Troll GM Warrior that spawns in [Grobb](/zone/52).
+
+
+
+
 
 ## Dialog
 

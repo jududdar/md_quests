@@ -2,6 +2,11 @@
 
 
 
+[Caradon](/npc/39069) is a level 55 Human Paladin that spawns in [The Hole (Instanced)](/zone/1039).
+
+
+
+
 ## Dialog
 
 if **Faction** >  Apprehensive +17 then

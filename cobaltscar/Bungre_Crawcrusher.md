@@ -2,6 +2,11 @@
 
 
 
+[Bungre Crawcrusher](/npc/117048) is a level 44 Othmir Ranger that spawns in [Cobaltscar](/zone/117).
+
+
+
+
 
 ## Dialog
 

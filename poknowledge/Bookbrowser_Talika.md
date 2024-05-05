@@ -1,6 +1,11 @@
 # Bookbrowser Talika
 
 
+
+[Bookbrowser Talika](/npc/202025) is a level 40 Halfling Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

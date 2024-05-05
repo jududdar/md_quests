@@ -1,6 +1,11 @@
 # Donally Stultz
 
 
+
+[Donally Stultz](/npc/1197) is a level 25 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

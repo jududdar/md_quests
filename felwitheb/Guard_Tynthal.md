@@ -1,6 +1,11 @@
 # Guard Tynthal
 
 
+
+[Guard Tynthal](/npc/62024) is a level 38 Guard Paladin that spawns in [Southern Felwithe](/zone/62).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

@@ -1,6 +1,11 @@
 # Tiplo the Gardener
 
 
+
+[Tiplo the Gardener](/npc/150044) is a level 10 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

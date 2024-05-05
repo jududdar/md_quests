@@ -1,6 +1,11 @@
 # Mrowro Wirewhisker
 
 
+
+[Mrowro Wirewhisker](/npc/100130) is a level 22 Kerran Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

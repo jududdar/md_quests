@@ -2,6 +2,11 @@
 
 
 
+[High Priest Elikor](/npc/202255) is a level 61 Dark Elf GM Cleric that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

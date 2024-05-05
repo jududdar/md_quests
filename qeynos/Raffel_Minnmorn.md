@@ -1,6 +1,11 @@
 # Raffel Minnmorn
 
 
+
+[Raffel Minnmorn](/npc/1179) is a level 10 Human Druid that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *talk* for 600 seconds

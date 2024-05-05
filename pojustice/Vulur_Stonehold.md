@@ -2,6 +2,11 @@
 
 
 
+[Vulur Stonehold](/npc/201411) is a level 44 Dwarf Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

@@ -1,4 +1,9 @@
-# a kejekan -amir
+# a kejekan \`amir
+
+
+
+[a kejekan \`amir](/npc/100015) is a level 25 Kerran Monk that spawns in [Stonebrunt Mountains](/zone/100).
+
 
 
 ## Dialog

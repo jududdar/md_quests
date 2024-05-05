@@ -1,6 +1,11 @@
 # Deputy Cheel
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

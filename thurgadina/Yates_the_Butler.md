@@ -1,6 +1,11 @@
 # Yates the Butler
 
 
+
+[Yates the Butler](/npc/115079) is a level 31 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

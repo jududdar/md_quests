@@ -1,6 +1,11 @@
 # A Praetorian Pius
 
 
+
+[A Praetorian Pius](/npc/159100) is a level 62 Dwarf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

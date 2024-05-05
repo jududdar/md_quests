@@ -1,6 +1,11 @@
 # Verona Rankin
 
 
+
+[Verona Rankin](/npc/10129) is a level 35 Human Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

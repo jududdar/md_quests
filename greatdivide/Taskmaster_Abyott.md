@@ -1,6 +1,11 @@
 # Taskmaster Abyott
 
 
+
+[Taskmaster Abyott](/npc/118088) is a level 62 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

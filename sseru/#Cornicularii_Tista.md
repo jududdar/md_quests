@@ -1,6 +1,11 @@
 # Cornicularii Tista
 
 
+
+[Cornicularii Tista](/npc/159591) is a level 50 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

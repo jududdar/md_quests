@@ -1,6 +1,11 @@
 # Drill Master Vygan
 
 
+
+[Drill Master Vygan](/npc/106078) is a level 61 Iksar GM Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

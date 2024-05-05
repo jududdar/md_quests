@@ -1,6 +1,11 @@
 # Mammoth
 
 
+
+[Mammoth](/npc/3050) is a level 20 Bear Warrior that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Turn-Ins
 
 

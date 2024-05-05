@@ -1,6 +1,11 @@
 # Prime Patriarch Vuzx
 
 
+
+[Prime Patriarch Vuzx](/npc/106084) is a level 61 Iksar GM Beastlord that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

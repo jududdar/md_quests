@@ -1,6 +1,11 @@
 # Tallien Brightflash
 
 
+
+[Tallien Brightflash](/npc/181210) is a level 25 Half Elf Shopkeeper that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

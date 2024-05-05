@@ -1,6 +1,11 @@
 # Gazoon Noihzog
 
 
+
+[Gazoon Noihzog](/npc/170133) is a level 40 Gnome Wizard that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Vanessa Rutledge
 
 
+
+[Vanessa Rutledge](/npc/160258) is a level 35 Human Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # an elven priest
 
 
+
+[an elven priest](/npc/58019) is a level 5 High Elf Cleric that spawns in [Crushbone](/zone/58).
+
+
+
 ## Dialog
 
 **You say:** `king is dead`

@@ -1,6 +1,11 @@
 # Legionnaire Falion
 
 
+
+[Legionnaire Falion](/npc/172064) is a level 36 Human Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## Dialog
 
 **You say:** `hail`

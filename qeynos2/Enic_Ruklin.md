@@ -1,6 +1,11 @@
 # Enic Ruklin
 
 
+
+[Enic Ruklin](/npc/2039) is a level 30 Human Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Hero Shrine Guardian
 
 
+
+[Hero Shrine Guardian](/npc/211002) is a level 60 Human Warrior that spawns in [Halls of Honor](/zone/211).
+
+
+
 ## Arrive at Waypoint Script
 
 

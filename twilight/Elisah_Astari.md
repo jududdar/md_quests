@@ -1,6 +1,11 @@
 # Elisah Astari
 
 
+
+[Elisah Astari](/npc/170168) is a level 44 Half Elf Ranger that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

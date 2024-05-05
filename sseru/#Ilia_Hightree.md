@@ -1,6 +1,11 @@
 # Ilia Hightree
 
 
+
+[Ilia Hightree](/npc/159604) is a level 36 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

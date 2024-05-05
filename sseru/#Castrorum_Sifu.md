@@ -1,6 +1,11 @@
 # Castrorum Sifu
 
 
+
+[Castrorum Sifu](/npc/159389) is a level 45 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

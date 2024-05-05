@@ -1,6 +1,11 @@
 # Tokk Smippah
 
 
+
+[Tokk Smippah](/npc/166082) is a level 50 Vah Shir Shopkeeper that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Dialog
 
 **You say:** `hail`

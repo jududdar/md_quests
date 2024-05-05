@@ -1,6 +1,11 @@
 # Basher Banzuk
 
 
+
+[Basher Banzuk](/npc/52003) is a level 38 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

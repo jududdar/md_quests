@@ -1,6 +1,11 @@
 # a warder of Xuzl
 
 
+
+[a warder of Xuzl](/npc/212415) is a level 1 Fire Elemental Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

@@ -1,4 +1,9 @@
 # a dread corpse
+
+
+
+[a dread corpse](/npc/4045) is a level 8 Skeleton Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

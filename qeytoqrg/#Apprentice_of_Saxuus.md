@@ -1,6 +1,11 @@
 # Apprentice of Saxuus
 
 
+
+[Apprentice of Saxuus](/npc/4170) is a level 30 Wood Elf Druid that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

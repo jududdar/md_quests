@@ -1,6 +1,11 @@
 # Theoris Bladespur
 
 
+
+[Theoris Bladespur](/npc/15034) is a level 32 Human Rogue that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Dialog
 
 **You say:** `hail`

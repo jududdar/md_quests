@@ -1,6 +1,11 @@
 # Mess Cook Pyjik
 
 
+
+[Mess Cook Pyjik](/npc/155119) is a level 10 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

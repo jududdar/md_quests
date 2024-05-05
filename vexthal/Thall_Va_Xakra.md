@@ -1,4 +1,9 @@
 # Thall Va Xakra
+
+
+
+[Thall Va Xakra](/npc/158136) is a level 60 Shade Warrior that spawns in [Vex Thal](/zone/158).
+
 local NORTH_TVX_TYPE = 158136;
 local SOUTH_TVX_TYPE = 158465;
 local NORTH_VA_XAKRA1_SPAWNID = 365859;

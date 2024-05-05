@@ -2,6 +2,11 @@
 
 
 
+[Iramai Sacredsoul](/npc/203432) is a level 55 High Elf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
+
 
 
 ## Dialog

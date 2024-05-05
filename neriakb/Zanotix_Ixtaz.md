@@ -1,6 +1,11 @@
 # Zanotix Ixtaz
 
 
+
+[Zanotix Ixtaz](/npc/41044) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
+
+
 ## Dialog
 
 **You say:** `what indigo sabres`

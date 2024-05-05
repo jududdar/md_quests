@@ -1,6 +1,11 @@
 # Basher Bugak
 
 
+
+[Basher Bugak](/npc/52005) is a level 33 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

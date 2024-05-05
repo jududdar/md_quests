@@ -1,4 +1,9 @@
 # Sage Gunyth
+
+
+
+[Sage Gunyth](/npc/202046) is a level 60 Dark Elf Warrior that spawns in [Plane of Knowledge](/zone/202).
+
 local continue;
 
 

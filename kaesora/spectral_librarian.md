@@ -2,6 +2,11 @@
 
 
 
+[spectral librarian](/npc/88000) is a level 35 Iksar Spirit Warrior that spawns in [Kaesora](/zone/88).
+
+
+
+
 
 ## Turn-Ins
 

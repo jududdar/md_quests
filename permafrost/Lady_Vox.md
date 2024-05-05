@@ -1,6 +1,11 @@
 # Lady Vox
 
 
+
+[Lady Vox](/npc/73057) is a level 55 Dragon Cleric that spawns in [Permafrost Caverns](/zone/73).
+
+
+
 local SpawnX = 0;
 local SpawnY = 0;
 local SpawnZ = 0;

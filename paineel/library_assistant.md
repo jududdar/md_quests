@@ -1,6 +1,11 @@
 # library assistant
 
 
+
+[library assistant](/npc/75017) is a level 24 Ghoul Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

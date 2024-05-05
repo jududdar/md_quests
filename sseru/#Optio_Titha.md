@@ -1,6 +1,11 @@
 # Optio Titha
 
 
+
+[Optio Titha](/npc/159478) is a level 52 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

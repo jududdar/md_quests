@@ -1,6 +1,11 @@
 # Guard Haldin
 
 
+
+[Guard Haldin](/npc/68031) is a level 40 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 2) then

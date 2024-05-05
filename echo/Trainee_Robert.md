@@ -1,6 +1,11 @@
 # Trainee Robert
 
 
+
+[Trainee Robert](/npc/153108) is a level 40 Human Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

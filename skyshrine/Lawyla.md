@@ -1,6 +1,11 @@
 # Lawyla
 
 
+
+[Lawyla](/npc/114617) is a level 65 Wurm Paladin that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

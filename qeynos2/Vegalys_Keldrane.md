@@ -2,6 +2,11 @@
 
 
 
+[Vegalys Keldrane](/npc/2051) is a level 60 Human Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
+
 
 
 ## Dialog

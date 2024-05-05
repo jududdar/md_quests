@@ -1,6 +1,11 @@
 # Brandon Stormchaser
 
 
+
+[Brandon Stormchaser](/npc/150010) is a level 55 Half Elf Ranger that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Cayrin Smirten
 
 
+
+[Cayrin Smirten](/npc/203391) is a level 46 Human Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

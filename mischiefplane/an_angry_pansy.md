@@ -1,6 +1,11 @@
 # an angry pansy
 
 
+
+[an angry pansy](/npc/126000) is a level 48 Man-Eating Plant Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

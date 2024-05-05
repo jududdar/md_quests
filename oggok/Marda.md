@@ -1,6 +1,11 @@
 # Marda
 
 
+
+[Marda](/npc/49041) is a level 61 Ogre GM Shaman that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

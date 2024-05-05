@@ -1,6 +1,11 @@
 # Treah Greenroot
 
 
+
+[Treah Greenroot](/npc/127021) is a level 60 Treant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Combat
 
 if Treah Greenroot enters combat  then

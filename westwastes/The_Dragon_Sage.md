@@ -1,6 +1,11 @@
 # The Dragon Sage
 
 
+
+[The Dragon Sage](/npc/120066) is a level 60 High Elf Wizard that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[King Tormax](/npc/113215) is a level 70 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 
 ## Dialog

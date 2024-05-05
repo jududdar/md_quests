@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Grunson](/npc/10191) is a level 1 Human Warrior that spawns in [East Freeport](/zone/10).
+
+
+
+
 
 ## Dialog
 

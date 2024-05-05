@@ -1,6 +1,11 @@
 # Bordag
 
 
+
+[Bordag](/npc/49052) is a level 61 Ogre GM Beastlord that spawns in [Oggok](/zone/49).
+
+
+
 ## Turn-Ins
 
 

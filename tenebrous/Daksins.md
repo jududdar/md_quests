@@ -2,6 +2,11 @@
 
 
 
+[Daksins](/npc/172036) is a level 30 Gnome Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
+
 
 ## Dialog
 

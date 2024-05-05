@@ -1,6 +1,11 @@
 # Master Nochtar
 
 
+
+[Master Nochtar](/npc/153099) is a level 61 Human GM Necromancer that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

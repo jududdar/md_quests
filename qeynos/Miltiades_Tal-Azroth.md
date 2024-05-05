@@ -1,4 +1,9 @@
-# Miltiades Tal-Azroth
+# Miltiades Tal\`Azroth
+
+
+
+[Miltiades Tal\`Azroth](/npc/1007) is a level 61 Human GM Paladin that spawns in [South Qeynos](/zone/1).
+
 
 
 ## Dialog

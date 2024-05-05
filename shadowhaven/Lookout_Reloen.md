@@ -1,6 +1,11 @@
 # Lookout Reloen
 
 
+
+[Lookout Reloen](/npc/150040) is a level 55 Gnome Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 >**Lookout Reloen says:** Aye sir.

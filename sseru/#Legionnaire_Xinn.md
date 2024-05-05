@@ -1,6 +1,11 @@
 # Legionnaire Xinn
 
 
+
+[Legionnaire Xinn](/npc/159506) is a level 47 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

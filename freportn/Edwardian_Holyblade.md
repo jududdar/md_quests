@@ -1,6 +1,11 @@
 # Edwardian Holyblade
 
 
+
+[Edwardian Holyblade](/npc/8015) is a level 61 Human GM Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -2,6 +2,11 @@
 
 
 
+[Zahal the Vile](/npc/13006) is a level 30 Troll Warrior that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 
 ## On NPC Death
 

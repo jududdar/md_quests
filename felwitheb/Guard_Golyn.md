@@ -1,6 +1,11 @@
 # Guard Golyn
 
 
+
+[Guard Golyn](/npc/62035) is a level 38 Guard Paladin that spawns in [Southern Felwithe](/zone/62).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

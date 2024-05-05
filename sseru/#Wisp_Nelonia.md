@@ -1,6 +1,11 @@
 # Wisp Nelonia
 
 
+
+[Wisp Nelonia](/npc/159621) is a level 43 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

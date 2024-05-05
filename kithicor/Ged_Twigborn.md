@@ -1,6 +1,11 @@
 # Ged Twigborn
 
 
+
+[Ged Twigborn](/npc/20081) is a level 25 Human Warrior that spawns in [Kithicor Forest](/zone/20).
+
+
+
 ## Dialog
 
 **You say:** `hail`

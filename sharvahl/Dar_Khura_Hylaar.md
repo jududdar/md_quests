@@ -1,6 +1,11 @@
 # Dar Khura Hylaar
 
 
+
+[Dar Khura Hylaar](/npc/155224) is a level 45 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

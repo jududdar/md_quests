@@ -1,6 +1,11 @@
 # Defender Wemblen
 
 
+
+[Defender Wemblen](/npc/150141) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

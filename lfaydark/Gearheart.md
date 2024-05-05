@@ -1,6 +1,11 @@
 # Gearheart
 
 
+
+[Gearheart](/npc/57054) is a level 26 Clockwork Gnome Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `princess`

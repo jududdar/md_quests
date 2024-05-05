@@ -1,6 +1,11 @@
 # A Castrorum Seniori
 
 
+
+[A Castrorum Seniori](/npc/159096) is a level 60 High Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

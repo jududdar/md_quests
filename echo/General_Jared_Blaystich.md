@@ -1,6 +1,11 @@
 # General Jared Blaystich
 
 
+
+[General Jared Blaystich](/npc/153095) is a level 55 Human Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

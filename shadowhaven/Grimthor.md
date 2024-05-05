@@ -1,6 +1,11 @@
 # Grimthor
 
 
+
+[Grimthor](/npc/150217) is a level 40 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Megan OReilly
 
 
+
+[Megan OReilly](/npc/30097) is a level 2 Barbarian Warrior that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Dialog
 
 **You say:** `hail`

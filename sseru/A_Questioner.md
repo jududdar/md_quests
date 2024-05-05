@@ -1,6 +1,11 @@
 # A Questioner
 
 
+
+[A Questioner](/npc/159386) is a level 41 Gnome Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

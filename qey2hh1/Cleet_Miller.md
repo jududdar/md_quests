@@ -1,6 +1,11 @@
 # Cleet Miller
 
 
+
+[Cleet Miller](/npc/12108) is a level 32 Human Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

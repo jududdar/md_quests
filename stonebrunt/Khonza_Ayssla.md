@@ -1,6 +1,11 @@
 # Khonza Ayssla
 
 
+
+[Khonza Ayssla](/npc/100149) is a level 35 Kerran Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

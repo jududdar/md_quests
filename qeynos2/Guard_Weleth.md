@@ -1,6 +1,11 @@
 # Guard Weleth
 
 
+
+[Guard Weleth](/npc/2079) is a level 13 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

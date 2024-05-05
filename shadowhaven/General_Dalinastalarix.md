@@ -1,6 +1,11 @@
 # General Dalinastalarix
 
 
+
+[General Dalinastalarix](/npc/150013) is a level 60 Gnome Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 5) then

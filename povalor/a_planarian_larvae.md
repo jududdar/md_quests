@@ -2,6 +2,11 @@
 
 
 
+[a planarian larvae](/npc/205053) is a level 52 Worm Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
+
 local x, y, z;
 local spawnLocs = {};
 

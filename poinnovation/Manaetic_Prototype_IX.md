@@ -1,6 +1,11 @@
 # Manaetic Prototype IX
 
 
+
+[Manaetic Prototype IX](/npc/206054) is a level 66 Clockwork Brain Warrior that spawns in [Plane of Innovation](/zone/206).
+
+
+
 ## Timer(s)
 
 

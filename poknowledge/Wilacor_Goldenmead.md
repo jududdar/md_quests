@@ -1,6 +1,11 @@
 # Wilacor Goldenmead
 
 
+
+[Wilacor Goldenmead](/npc/202152) is a level 60 Human Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,4 +1,9 @@
 # The Seventh Hammer
+
+
+
+[The Seventh Hammer](/npc/201074) is a level 73 The Tribunal Monk that spawns in [Plane of Justice](/zone/201).
+
 local INVIS_TRIBUNAL_TYPE = 201423; 
 local VIS_TRIBUNAL_TYPE = 201427; 
 

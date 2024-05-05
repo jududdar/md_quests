@@ -1,6 +1,11 @@
 # Valana Broms
 
 
+
+[Valana Broms](/npc/170125) is a level 60 Human Monk that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

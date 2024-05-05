@@ -1,6 +1,11 @@
 # Llara the Mysterious
 
 
+
+[Llara the Mysterious](/npc/26019) is a level 61 Wood Elf Shopkeeper that spawns in [Sunset Home](/zone/1503).
+
+
+
 ## Dialog
  **You say:** `hail`
 

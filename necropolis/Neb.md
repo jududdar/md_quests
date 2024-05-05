@@ -1,6 +1,11 @@
 # Neb
 
 
+
+[Neb](/npc/123045) is a level 66 Ratman Warrior that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## Dialog
 
 **You say:** `hail`

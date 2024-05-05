@@ -2,6 +2,11 @@
 
 
 
+[Vilnius the Small](/npc/12019) is a level 46 Barbarian Rogue that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

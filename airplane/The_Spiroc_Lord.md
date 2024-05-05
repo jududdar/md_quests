@@ -1,6 +1,11 @@
 # The Spiroc Lord
 
 
+
+[The Spiroc Lord](/npc/71012) is a level 63 Aviak Ranger that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Death
 
 local qglobals = eq.get_qglobals();

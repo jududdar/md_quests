@@ -2,6 +2,11 @@
 
 
 
+[Warlock Vesthin](/npc/202256) is a level 61 Iksar GM Necromancer that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

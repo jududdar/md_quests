@@ -1,6 +1,11 @@
 # Klandicar
 
 
+
+[Klandicar](/npc/120084) is a level 70 Dragon Warrior that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

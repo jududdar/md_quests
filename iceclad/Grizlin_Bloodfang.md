@@ -1,6 +1,11 @@
 # Grizlin Bloodfang
 
 
+
+[Grizlin Bloodfang](/npc/110008) is a level 51 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

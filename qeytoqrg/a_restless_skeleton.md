@@ -1,4 +1,9 @@
 # a restless skeleton
+
+
+
+[a restless skeleton](/npc/4150) is a level 2 Skeleton Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

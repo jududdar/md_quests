@@ -2,6 +2,11 @@
 
 
 
+[Gleed Dragonhunter](/npc/113373) is a level 53 Giant Ranger that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 ## Dialog
 

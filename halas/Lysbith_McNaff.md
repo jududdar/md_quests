@@ -1,6 +1,11 @@
 # Lysbith McNaff
 
 
+
+[Lysbith McNaff](/npc/29056) is a level 61 Barbarian GM Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

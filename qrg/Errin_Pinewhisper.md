@@ -1,6 +1,11 @@
 # Errin Pinewhisper
 
 
+
+[Errin Pinewhisper](/npc/3041) is a level 61 Human GM Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

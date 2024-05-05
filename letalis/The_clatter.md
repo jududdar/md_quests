@@ -1,6 +1,11 @@
 # The clatter
 
 
+
+
+
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

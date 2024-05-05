@@ -1,6 +1,11 @@
 # a ghastly apparition
 
 
+
+[a ghastly apparition](/npc/160007) is a level 38 Zombie Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

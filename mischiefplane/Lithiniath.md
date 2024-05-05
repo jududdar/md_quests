@@ -1,6 +1,11 @@
 # Lithiniath
 
 
+
+[Lithiniath](/npc/126222) is a level 64 Unicorn Enchanter that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

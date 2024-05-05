@@ -1,6 +1,11 @@
 # Tsilos the Swabby
 
 
+
+[Tsilos the Swabby](/npc/110068) is a level 26 Gnome Rogue that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

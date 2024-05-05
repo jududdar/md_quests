@@ -1,6 +1,11 @@
 # Grype
 
 
+
+[Grype](/npc/106004) is a level 30 Iksar Necromancer that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

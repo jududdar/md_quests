@@ -2,6 +2,11 @@
 
 
 
+[Curator Merri](/npc/202017) is a level 60 High Elf Wizard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

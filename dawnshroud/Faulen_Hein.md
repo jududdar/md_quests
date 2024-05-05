@@ -1,6 +1,11 @@
 # Faulen Hein
 
 
+
+[Faulen Hein](/npc/174317) is a level 44 Human Monk that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

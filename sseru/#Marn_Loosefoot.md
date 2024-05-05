@@ -1,6 +1,11 @@
 # Marn Loosefoot
 
 
+
+[Marn Loosefoot](/npc/159494) is a level 39 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

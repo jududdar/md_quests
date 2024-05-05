@@ -1,6 +1,11 @@
 # Elefan
 
 
+
+[Elefan](/npc/165164) is a level 55 High Elf Warrior that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

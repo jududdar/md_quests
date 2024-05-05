@@ -1,6 +1,11 @@
 # Umvera Dekash
 
 
+
+[Umvera Dekash](/npc/2154) is a level 50 Erudite Enchanter that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

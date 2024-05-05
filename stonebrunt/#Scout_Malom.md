@@ -1,6 +1,11 @@
 # Scout Malom
 
 
+
+[Scout Malom](/npc/100022) is a level 15 Vah Shir Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

@@ -1,6 +1,11 @@
 # Larn Brugal
 
 
+
+[Larn Brugal](/npc/9113) is a level 61 Human GM Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

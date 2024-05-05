@@ -1,6 +1,11 @@
 # Bipdo Hargin
 
 
+
+[Bipdo Hargin](/npc/19041) is a level 35 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

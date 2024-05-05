@@ -1,6 +1,11 @@
 # Denns Rootenpaw
 
 
+
+[Denns Rootenpaw](/npc/174079) is a level 44 Gnome Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

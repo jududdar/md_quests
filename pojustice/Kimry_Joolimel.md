@@ -2,6 +2,11 @@
 
 
 
+[Kimry Joolimel](/npc/201363) is a level 46 Gnome Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

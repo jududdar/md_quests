@@ -1,6 +1,11 @@
 # King Grery of Above
 
 
+
+[King Grery of Above](/npc/153021) is a level 45 Gnome Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

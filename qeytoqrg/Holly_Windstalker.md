@@ -1,6 +1,11 @@
 # Holly Windstalker
 
 
+
+[Holly Windstalker](/npc/4057) is a level 27 Human Ranger that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

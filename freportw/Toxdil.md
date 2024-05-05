@@ -1,6 +1,11 @@
 # Toxdil
 
 
+
+[Toxdil](/npc/9123) is a level 40 Dark Elf Shopkeeper that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
-# Rolynn B-Div
+# Rolynn B\`Div
+
+
+
+[Rolynn B\`Div](/npc/40003) is a level 10 Dark Elf Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Trooper Curlish
 
 
+
+[Trooper Curlish](/npc/85146) is a level 50 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

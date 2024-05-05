@@ -1,6 +1,11 @@
 # Jimlok Keylifter
 
 
+
+[Jimlok Keylifter](/npc/203385) is a level 46 Gnome Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Klok Ephmir
 
 
+
+[Klok Ephmir](/npc/106048) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

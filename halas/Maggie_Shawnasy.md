@@ -1,6 +1,11 @@
 # Maggie Shawnasy
 
 
+
+[Maggie Shawnasy](/npc/29045) is a level 45 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

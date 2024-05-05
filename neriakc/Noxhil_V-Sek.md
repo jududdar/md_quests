@@ -1,4 +1,9 @@
-# Noxhil V-Sek
+# Noxhil V\`Sek
+
+
+
+[Noxhil V\`Sek](/npc/42041) is a level 61 Dark Elf GM Necromancer that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

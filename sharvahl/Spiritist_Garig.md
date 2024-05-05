@@ -1,4 +1,9 @@
 # Spiritist Garig
+
+
+
+[Spiritist Garig](/npc/155216) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
 local count = 0;
 
 

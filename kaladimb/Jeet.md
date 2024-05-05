@@ -1,6 +1,11 @@
 # Jeet
 
 
+
+[Jeet](/npc/67018) is a level 61 Dwarf GM Rogue that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

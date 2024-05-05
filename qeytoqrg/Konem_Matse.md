@@ -1,6 +1,11 @@
 # Konem Matse
 
 
+
+[Konem Matse](/npc/4072) is a level 28 Human Monk that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

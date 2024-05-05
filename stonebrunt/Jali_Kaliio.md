@@ -1,6 +1,11 @@
 # Jali Kaliio
 
 
+
+[Jali Kaliio](/npc/100132) is a level 27 Kerran Monk that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

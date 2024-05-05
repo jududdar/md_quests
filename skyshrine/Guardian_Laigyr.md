@@ -1,6 +1,11 @@
 # Guardian Laigyr
 
 
+
+[Guardian Laigyr](/npc/114541) is a level 36 Gargoyle Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

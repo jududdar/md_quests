@@ -1,6 +1,11 @@
 # Elanix Harith
 
 
+
+[Elanix Harith](/npc/159067) is a level 42 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

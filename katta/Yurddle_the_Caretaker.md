@@ -1,6 +1,11 @@
 # Yurddle the Caretaker
 
 
+
+[Yurddle the Caretaker](/npc/160132) is a level 38 Halfling Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

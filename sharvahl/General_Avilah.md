@@ -1,6 +1,11 @@
 # General Avilah
 
 
+
+[General Avilah](/npc/155145) is a level 50 Guard Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Turn-Ins
 
 

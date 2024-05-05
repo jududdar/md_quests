@@ -1,6 +1,11 @@
 # Mandark Soulhealer
 
 
+
+[Mandark Soulhealer](/npc/150192) is a level 61 Human GM Paladin that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

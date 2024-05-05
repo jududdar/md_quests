@@ -1,6 +1,11 @@
 # Olam Polaja
 
 
+
+[Olam Polaja](/npc/160223) is a level 36 Erudite Enchanter that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

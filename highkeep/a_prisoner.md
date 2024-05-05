@@ -1,6 +1,11 @@
 # a prisoner
 
 
+
+[a prisoner](/npc/6053) is a level 8 Beggar Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `fenn kaedrick`

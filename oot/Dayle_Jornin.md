@@ -1,6 +1,11 @@
 # Dayle Jornin
 
 
+
+[Dayle Jornin](/npc/69153) is a level 14 Human Rogue that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 4) then

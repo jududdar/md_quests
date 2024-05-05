@@ -1,6 +1,11 @@
 # Onytir Seavin
 
 
+
+[Onytir Seavin](/npc/8109) is a level 15 Gnome Warrior that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

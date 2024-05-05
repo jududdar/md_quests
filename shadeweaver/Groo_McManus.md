@@ -1,6 +1,11 @@
 # Groo McManus
 
 
+
+[Groo McManus](/npc/165116) is a level 50 Barbarian Shaman that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

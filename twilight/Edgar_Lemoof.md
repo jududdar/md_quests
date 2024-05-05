@@ -1,6 +1,11 @@
 # Edgar Lemoof
 
 
+
+[Edgar Lemoof](/npc/170141) is a level 40 Wood Elf Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

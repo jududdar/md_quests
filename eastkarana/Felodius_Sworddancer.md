@@ -1,6 +1,11 @@
 # Felodius Sworddancer
 
 
+
+[Felodius Sworddancer](/npc/2060) is a level 55 Half Elf Bard that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Dialog
 
 **You say:** `hail`

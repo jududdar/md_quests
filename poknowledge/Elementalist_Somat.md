@@ -2,6 +2,11 @@
 
 
 
+[Elementalist Somat](/npc/202204) is a level 60 Gnome Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

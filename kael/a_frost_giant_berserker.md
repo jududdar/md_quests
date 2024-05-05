@@ -1,6 +1,11 @@
 # a frost giant berserker
 
 
+
+[a frost giant berserker](/npc/113076) is a level 40 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

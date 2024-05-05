@@ -1,6 +1,11 @@
 # Bondl Felligan
 
 
+
+[Bondl Felligan](/npc/8003) is a level 45 Barbarian Warrior that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);

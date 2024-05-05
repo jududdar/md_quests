@@ -1,6 +1,11 @@
 # Tundra Jack
 
 
+
+[Tundra Jack](/npc/30061) is a level 47 Barbarian Warrior that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

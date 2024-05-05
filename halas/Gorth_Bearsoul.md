@@ -1,6 +1,11 @@
 # Gorth Bearsoul
 
 
+
+[Gorth Bearsoul](/npc/29012) is a level 40 Barbarian Shaman that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

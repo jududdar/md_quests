@@ -1,6 +1,11 @@
 # The Insanity Crawler
 
 
+
+[The Insanity Crawler](/npc/179001) is a level 63 Worm Warrior that spawns in [Akheva Ruins](/zone/179).
+
+
+
 ## On NPC Spawn
 
 **Zone Wide Emote:** <span class="text-warning">*You hear squealing voices of Centi echo through the dark hallways.  Something must have them frightened.  You find yourself wondering what could possibly scare the servants of the Akheva.  Do you really want to know?*</span>

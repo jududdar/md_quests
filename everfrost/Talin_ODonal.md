@@ -1,6 +1,11 @@
 # Talin ODonal
 
 
+
+[Talin ODonal](/npc/30108) is a level 2 Barbarian Warrior that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Vigilum Vonari
 
 
+
+[Vigilum Vonari](/npc/159105) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Sorrowsong
+
+
+
+[Sorrowsong](/npc/207052) is a level 66 Blood Raven Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
 local loc;
 
 

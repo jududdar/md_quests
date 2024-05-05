@@ -1,6 +1,11 @@
 # Jhimis Khadwi
 
 
+
+[Jhimis Khadwi](/npc/155048) is a level 30 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

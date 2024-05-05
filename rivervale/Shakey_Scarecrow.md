@@ -1,6 +1,11 @@
 # Shakey Scarecrow
 
 
+
+[Shakey Scarecrow](/npc/19046) is a level 30 Scarecrow Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

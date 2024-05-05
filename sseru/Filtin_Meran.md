@@ -1,6 +1,11 @@
 # Filtin Meran
 
 
+
+[Filtin Meran](/npc/159381) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

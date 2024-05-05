@@ -1,6 +1,11 @@
 # Draz Nurakks Image
 
 
+
+[Draz Nurakks Image](/npc/96010) is a level 53 Iksar Beastlord that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

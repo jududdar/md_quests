@@ -1,6 +1,11 @@
 # Elder Fuirstel
 
 
+
+[Elder Fuirstel](/npc/203375) is a level 55 Human Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

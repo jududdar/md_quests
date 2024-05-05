@@ -1,6 +1,11 @@
 # Scout Charisa
 
 
+
+[Scout Charisa](/npc/120000) is a level 55 Human Enchanter that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Yelesom Paust
 
 
+
+[Yelesom Paust](/npc/98044) is a level 20 Erudite Wizard that spawns in [Erud's Crossing](/zone/98).
+
+
+
 ## Dialog
 
 **You say:** `hail`

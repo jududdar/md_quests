@@ -1,6 +1,11 @@
 # a fungi shroom
 
 
+
+[a fungi shroom](/npc/174117) is a level 28 Shrieker Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 95 seconds

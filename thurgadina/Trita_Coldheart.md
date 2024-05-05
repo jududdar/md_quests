@@ -2,6 +2,11 @@
 
 
 
+[Trita Coldheart](/npc/115075) is a level 31 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Turn-Ins
 

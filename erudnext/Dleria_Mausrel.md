@@ -1,6 +1,11 @@
 # Dleria Mausrel
 
 
+
+[Dleria Mausrel](/npc/24050) is a level 61 Erudite GM Cleric that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

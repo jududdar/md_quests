@@ -1,6 +1,11 @@
 # Leifur
 
 
+
+[Leifur](/npc/115090) is a level 33 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 

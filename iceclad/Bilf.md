@@ -1,4 +1,9 @@
 # Bilf
+
+
+
+[Bilf](/npc/110056) is a level 26 Gnome Rogue that spawns in [Iceclad Ocean](/zone/110).
+
 local count = 0;
 
 

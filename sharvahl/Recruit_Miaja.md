@@ -1,6 +1,11 @@
 # Recruit Miaja
 
 
+
+[Recruit Miaja](/npc/155109) is a level 30 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

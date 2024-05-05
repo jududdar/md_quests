@@ -2,6 +2,11 @@
 
 
 
+[a drachnid spy](/npc/84311) is a level 25 Drachnid Ranger that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

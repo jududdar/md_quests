@@ -2,6 +2,11 @@
 
 
 
+[Treskar](/npc/52060) is a level 61 Troll GM Shadow Knight that spawns in [Grobb](/zone/52).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Glorin Binfurr
 
 
+
+[Glorin Binfurr](/npc/68054) is a level 35 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

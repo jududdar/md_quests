@@ -1,6 +1,11 @@
 # Shay Aristos
 
 
+
+[Shay Aristos](/npc/160184) is a level 35 Human Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

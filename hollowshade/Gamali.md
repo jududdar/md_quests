@@ -1,6 +1,11 @@
 # Gamali
 
 
+
+[Gamali](/npc/166090) is a level 50 Vah Shir Rogue that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Dialog
 
 **You say:** `hail`

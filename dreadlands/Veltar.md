@@ -2,6 +2,11 @@
 
 
 
+[Veltar](/npc/86092) is a level 61 Iksar Monk that spawns in [The Dreadlands](/zone/86).
+
+
+
+
 
 ## Dialog
 

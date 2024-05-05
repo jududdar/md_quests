@@ -1,4 +1,9 @@
-# Slarin K-Vekn
+# Slarin K\`Vekn
+
+
+
+[Slarin K\`Vekn](/npc/25101) is a level 15 Dark Elf Warrior that spawns in [Nektulos Forest](/zone/25).
+
 
 
 ## Dialog

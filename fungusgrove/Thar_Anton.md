@@ -1,6 +1,11 @@
 # Thar Anton
 
 
+
+[Thar Anton](/npc/157051) is a level 52 Human Shopkeeper that spawns in [The Fungus Grove](/zone/157).
+
+
+
 ## Dialog
 
 **You say:** `hail`

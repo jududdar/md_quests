@@ -1,6 +1,11 @@
 # an undead foreman
 
 
+
+[an undead foreman](/npc/93082) is a level 50 Undead Iksar Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `hail`

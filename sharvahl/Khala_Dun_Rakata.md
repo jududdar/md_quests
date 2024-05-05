@@ -1,6 +1,11 @@
 # Khala Dun Rakata
 
 
+
+[Khala Dun Rakata](/npc/155299) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Bidl Frugrin
 
 
+
+[Bidl Frugrin](/npc/54001) is a level 13 Gnome Wizard that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

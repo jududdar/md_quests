@@ -1,6 +1,11 @@
 # Innkeep Paggie
 
 
+
+[Innkeep Paggie](/npc/10042) is a level 45 Human Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

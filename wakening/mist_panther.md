@@ -1,6 +1,11 @@
 # mist panther
 
 
+
+[mist panther](/npc/119066) is a level 60 Puma Monk that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

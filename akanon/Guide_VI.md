@@ -1,6 +1,11 @@
 # Guide VI
 
 
+
+[Guide VI](/npc/55176) is a level 31 Clockwork Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

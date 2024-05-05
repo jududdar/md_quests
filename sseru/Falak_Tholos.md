@@ -1,6 +1,11 @@
 # Falak Tholos
 
 
+
+[Falak Tholos](/npc/159333) is a level 60 Human Banker that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

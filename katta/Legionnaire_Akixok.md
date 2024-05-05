@@ -1,6 +1,11 @@
 # Legionnaire Akixok
 
 
+
+[Legionnaire Akixok](/npc/160278) is a level 42 Gnome Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

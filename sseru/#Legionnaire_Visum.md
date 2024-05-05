@@ -1,6 +1,11 @@
 # Legionnaire Visum
 
 
+
+[Legionnaire Visum](/npc/159610) is a level 48 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

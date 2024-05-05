@@ -1,4 +1,9 @@
-# Margy O-Koyle
+# Margy O\`Koyle
+
+
+
+[Margy O\`Koyle](/npc/160199) is a level 35 Barbarian Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
 
 
 ## Dialog

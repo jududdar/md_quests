@@ -1,6 +1,11 @@
 # Prime Hierophant Vek
 
 
+
+[Prime Hierophant Vek](/npc/106104) is a level 61 Iksar GM Shaman that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

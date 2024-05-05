@@ -2,6 +2,11 @@
 
 
 
+[Jahzo Hammertail](/npc/202073) is a level 60 Iksar Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

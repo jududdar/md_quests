@@ -1,6 +1,11 @@
 # Bekerak Coldbones
 
 
+
+[Bekerak Coldbones](/npc/118011) is a level 35 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

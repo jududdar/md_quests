@@ -1,6 +1,11 @@
 # Gretta Mottle
 
 
+
+[Gretta Mottle](/npc/60000) is a level 35 Dwarf Shopkeeper that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

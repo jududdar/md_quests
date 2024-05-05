@@ -1,6 +1,11 @@
 # The Avatar of War
 
 
+
+[The Avatar of War](/npc/113244) is a level 70 Rallos Zek Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

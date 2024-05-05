@@ -1,6 +1,11 @@
 # Seria Woodwind
 
 
+
+[Seria Woodwind](/npc/61015) is a level 40 High Elf Shopkeeper that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 if(e.other:Class()== "Paladin" and (e.other:Race() == "High Elf" or e.other:Race() == "Half Elf") and eq.get_current_expansion() >= 4.0) then

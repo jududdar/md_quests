@@ -1,6 +1,11 @@
 # Innkeep Gub
 
 
+
+[Innkeep Gub](/npc/47144) is a level 40 Ogre Shopkeeper that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

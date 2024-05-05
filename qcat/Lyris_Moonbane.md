@@ -1,6 +1,11 @@
 # Lyris Moonbane
 
 
+
+[Lyris Moonbane](/npc/45090) is a level 61 Human GM Necromancer that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `assignment`

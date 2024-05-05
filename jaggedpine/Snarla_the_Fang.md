@@ -1,6 +1,11 @@
 # Snarla the Fang
 
 
+
+[Snarla the Fang](/npc/181130) is a level 40 Gnoll Warrior that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

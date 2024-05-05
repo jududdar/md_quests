@@ -1,6 +1,11 @@
 # Allaria Sneakyfeet
 
 
+
+[Allaria Sneakyfeet](/npc/84209) is a level 45 Halfling Rogue that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

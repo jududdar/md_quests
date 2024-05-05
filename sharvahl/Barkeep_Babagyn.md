@@ -1,6 +1,11 @@
 # Barkeep Babagyn
 
 
+
+[Barkeep Babagyn](/npc/155257) is a level 15 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `hail`

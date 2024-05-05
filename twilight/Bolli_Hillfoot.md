@@ -1,6 +1,11 @@
 # Bolli Hillfoot
 
 
+
+[Bolli Hillfoot](/npc/170144) is a level 40 Halfling Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

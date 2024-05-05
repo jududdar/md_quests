@@ -1,6 +1,11 @@
 # Nilit Druzlit
 
 
+
+[Nilit Druzlit](/npc/56132) is a level 35 Gnome Warrior that spawns in [Steamfont Mountains](/zone/56).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Murph Cobblestone
 
 
+
+[Murph Cobblestone](/npc/153130) is a level 26 Dwarf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

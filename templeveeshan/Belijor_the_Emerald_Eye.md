@@ -2,6 +2,11 @@
 
 
 
+[Belijor the Emerald Eye](/npc/124057) is a level 63 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 ## Combat
 
 if  Belijor the Emerald Eye enters combat  then

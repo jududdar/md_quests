@@ -1,6 +1,11 @@
 # Wellford Fargin
 
 
+
+[Wellford Fargin](/npc/84128) is a level 40 High Elf Banker that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

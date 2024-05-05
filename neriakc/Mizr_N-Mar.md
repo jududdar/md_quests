@@ -1,4 +1,9 @@
-# Mizr N-Mar
+# Mizr N\`Mar
+
+
+
+[Mizr N\`Mar](/npc/42011) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 

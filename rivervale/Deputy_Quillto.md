@@ -1,6 +1,11 @@
 # Deputy Quillto
 
 
+
+[Deputy Quillto](/npc/19005) is a level 21 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

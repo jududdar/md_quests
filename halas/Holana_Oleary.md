@@ -1,6 +1,11 @@
 # Holana Oleary
 
 
+
+[Holana Oleary](/npc/29027) is a level 45 Barbarian Shopkeeper that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

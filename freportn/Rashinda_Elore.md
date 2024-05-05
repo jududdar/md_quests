@@ -1,6 +1,11 @@
 # Rashinda Elore
 
 
+
+[Rashinda Elore](/npc/8002) is a level 50 Human Shopkeeper that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

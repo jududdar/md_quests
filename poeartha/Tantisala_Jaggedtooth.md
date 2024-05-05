@@ -1,6 +1,11 @@
 # Tantisala Jaggedtooth
 
 
+
+[Tantisala Jaggedtooth](/npc/218038) is a level 73 Crocodile Warrior that spawns in [Plane of Earth](/zone/218).
+
+
+
 ## Combat
 
 if  Tantisala Jaggedtooth enters combat  then

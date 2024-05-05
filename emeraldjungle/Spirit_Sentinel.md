@@ -2,6 +2,11 @@
 
 
 
+[Spirit Sentinel](/npc/94052) is a level 1 Wolf Warrior that spawns in [The Emerald Jungle](/zone/94).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Noclin Saah
 
 
+
+[Noclin Saah](/npc/75000) is a level 15 Erudite Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then

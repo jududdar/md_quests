@@ -1,6 +1,11 @@
 # Questioner Bakato
 
 
+
+[Questioner Bakato](/npc/159360) is a level 51 High Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

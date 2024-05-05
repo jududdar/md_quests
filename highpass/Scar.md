@@ -1,6 +1,11 @@
 # Scar
 
 
+
+[Scar](/npc/5134) is a level 18 Dark Elf Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

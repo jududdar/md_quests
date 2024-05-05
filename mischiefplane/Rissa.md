@@ -1,6 +1,11 @@
 # Rissa
 
 
+
+[Rissa](/npc/126235) is a level 43 Halfling Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

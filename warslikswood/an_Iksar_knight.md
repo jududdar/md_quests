@@ -2,6 +2,11 @@
 
 
 
+[an Iksar knight](/npc/79112) is a level 21 Iksar Warrior that spawns in [Warsliks Woods](/zone/79).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

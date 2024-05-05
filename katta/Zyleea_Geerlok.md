@@ -1,6 +1,11 @@
 # Zyleea Geerlok
 
 
+
+[Zyleea Geerlok](/npc/160175) is a level 35 Gnome Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # Legionnaire Claudius
+
+
+
+[Legionnaire Claudius](/npc/160141) is a level 42 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
 local count = 0;
 
 

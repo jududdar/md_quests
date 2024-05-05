@@ -1,4 +1,9 @@
-# Krivn S-Tai
+# Krivn S\`Tai
+
+
+
+[Krivn S\`Tai](/npc/41046) is a level 40 Dark Elf Shopkeeper that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

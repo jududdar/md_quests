@@ -2,6 +2,11 @@
 
 
 
+[Professor Akabao](/npc/85138) is a level 59 Erudite Wizard that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sentry Badain
 
 
+
+[Sentry Badain](/npc/118003) is a level 55 Coldain Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Turn-Ins
 
 

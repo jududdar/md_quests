@@ -1,4 +1,9 @@
 # Instructor Mussin
+
+
+
+[Instructor Mussin](/npc/155127) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
 local count;
 
 

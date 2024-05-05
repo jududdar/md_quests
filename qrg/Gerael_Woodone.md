@@ -1,6 +1,11 @@
 # Gerael Woodone
 
 
+
+[Gerael Woodone](/npc/3034) is a level 61 Human GM Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

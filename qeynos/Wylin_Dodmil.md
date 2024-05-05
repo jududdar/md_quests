@@ -1,6 +1,11 @@
 # Wylin Dodmil
 
 
+
+[Wylin Dodmil](/npc/1137) is a level 35 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

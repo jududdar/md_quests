@@ -1,6 +1,11 @@
 # Arx Guardian Brightway
 
 
+
+[Arx Guardian Brightway](/npc/159092) is a level 45 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

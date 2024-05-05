@@ -2,6 +2,11 @@
 
 
 
+[Zabaltin Draux](/npc/159146) is a level 65 Gnome Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
+
 
 ## Dialog
 

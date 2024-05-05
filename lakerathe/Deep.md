@@ -2,6 +2,11 @@
 
 
 
+[Deep](/npc/51044) is a level 58 Dark Elf Monk that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## Dialog
 

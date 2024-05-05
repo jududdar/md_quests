@@ -1,6 +1,11 @@
 # Miadera Shadowfyre
 
 
+
+[Miadera Shadowfyre](/npc/75070) is a level 61 Erudite GM Cleric that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

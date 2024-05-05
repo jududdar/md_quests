@@ -1,6 +1,11 @@
 # Alan Harten
 
 
+
+[Alan Harten](/npc/71080) is a level 55 High Elf Cleric that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

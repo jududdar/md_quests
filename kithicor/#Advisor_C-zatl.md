@@ -1,4 +1,9 @@
-# Advisor C-zatl
+# Advisor C\`zatl
+
+
+
+[Advisor C\`zatl](/npc/20055) is a level 55 Dark Elf Cleric that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

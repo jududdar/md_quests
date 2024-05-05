@@ -1,6 +1,11 @@
 # Guard Kyte
 
 
+
+[Guard Kyte](/npc/68209) is a level 26 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `hail`

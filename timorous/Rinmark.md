@@ -2,6 +2,11 @@
 
 
 
+[Rinmark](/npc/96320) is a level 42 Iksar Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Depop3* for 90 seconds

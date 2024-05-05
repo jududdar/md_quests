@@ -1,6 +1,11 @@
 # Rusty Blackhand
 
 
+
+[Rusty Blackhand](/npc/150207) is a level 30 Human Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

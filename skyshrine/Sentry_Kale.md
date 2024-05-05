@@ -1,6 +1,11 @@
 # Sentry Kale
 
 
+
+[Sentry Kale](/npc/114590) is a level 39 Golem Cleric that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

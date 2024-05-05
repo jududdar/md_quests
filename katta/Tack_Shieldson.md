@@ -2,6 +2,11 @@
 
 
 
+[Tack Shieldson](/npc/160398) is a level 43 Dwarf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

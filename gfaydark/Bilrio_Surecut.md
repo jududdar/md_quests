@@ -1,6 +1,11 @@
 # Bilrio Surecut
 
 
+
+[Bilrio Surecut](/npc/54104) is a level 40 Wood Elf Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

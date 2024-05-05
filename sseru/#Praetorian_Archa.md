@@ -1,6 +1,11 @@
 # Praetorian Archa
 
 
+
+[Praetorian Archa](/npc/159090) is a level 55 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

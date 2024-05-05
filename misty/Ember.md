@@ -1,6 +1,11 @@
 # Ember
 
 
+
+[Ember](/npc/33065) is a level 1 Beetle Warrior that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds

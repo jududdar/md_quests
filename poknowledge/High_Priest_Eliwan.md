@@ -2,6 +2,11 @@
 
 
 
+[High Priest Eliwan](/npc/202237) is a level 61 High Elf GM Cleric that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

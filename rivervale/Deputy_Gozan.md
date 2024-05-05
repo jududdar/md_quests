@@ -1,6 +1,11 @@
 # Deputy Gozan
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

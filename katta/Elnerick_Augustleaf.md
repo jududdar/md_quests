@@ -1,6 +1,11 @@
 # Elnerick Augustleaf
 
 
+
+[Elnerick Augustleaf](/npc/160153) is a level 62 High Elf Wizard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Shintar Vinlail
 
 
+
+[Shintar Vinlail](/npc/38067) is a level 4 Erudite Magician that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *where* for 3100 seconds

@@ -1,6 +1,11 @@
 # Gharin
 
 
+
+[Gharin](/npc/1081) is a level 5 Half Elf Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 

@@ -1,6 +1,11 @@
 # Clovan McMarrin
 
 
+
+[Clovan McMarrin](/npc/29064) is a level 40 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

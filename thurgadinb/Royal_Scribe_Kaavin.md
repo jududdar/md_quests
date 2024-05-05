@@ -1,6 +1,11 @@
 # Royal Scribe Kaavin
 
 
+
+[Royal Scribe Kaavin](/npc/129021) is a level 49 Coldain Cleric that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

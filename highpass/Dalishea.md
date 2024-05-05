@@ -1,6 +1,11 @@
 # Dalishea
 
 
+
+[Dalishea](/npc/5009) is a level 17 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

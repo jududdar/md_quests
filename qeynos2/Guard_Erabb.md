@@ -1,6 +1,11 @@
 # Guard Erabb
 
 
+
+[Guard Erabb](/npc/2120) is a level 5 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

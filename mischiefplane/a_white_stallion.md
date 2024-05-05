@@ -1,6 +1,11 @@
 # a white stallion
 
 
+
+[a white stallion](/npc/126312) is a level 55 Unicorn Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[a leatherfoot spy](/npc/41104) is a level 18 Halfling Rogue that spawns in [Neriak - Commons](/zone/41).
+
+
+
+
 
 
 ## On NPC Spawn

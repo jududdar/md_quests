@@ -2,6 +2,11 @@
 
 
 
+[Blixkin Entopop](/npc/33066) is a level 27 Halfling Rogue that spawns in [Misty Thicket](/zone/33).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Captain Bosec
 
 
+
+[Captain Bosec](/npc/6034) is a level 34 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

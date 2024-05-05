@@ -1,6 +1,11 @@
 # Furball Miller
 
 
+
+[Furball Miller](/npc/12041) is a level 7 Gnoll Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

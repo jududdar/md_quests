@@ -1,6 +1,11 @@
 # a smuggler
 
 
+
+[a smuggler](/npc/5019) is a level 14 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

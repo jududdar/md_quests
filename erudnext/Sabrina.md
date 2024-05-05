@@ -1,6 +1,11 @@
 # Sabrina
 
 
+
+[Sabrina](/npc/24056) is a level 1 Launch Warrior that spawns in [Erudin](/zone/24).
+
+
+
 ## Signals 
 
 

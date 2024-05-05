@@ -1,6 +1,11 @@
 # Kolburn Inglewort
 
 
+
+[Kolburn Inglewort](/npc/150233) is a level 40 Human Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

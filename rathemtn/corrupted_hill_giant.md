@@ -1,6 +1,11 @@
 # corrupted hill giant
 
 
+
+[corrupted hill giant](/npc/50322) is a level 40 Giant Warrior that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

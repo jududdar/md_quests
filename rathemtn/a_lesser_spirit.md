@@ -2,6 +2,11 @@
 
 
 
+[a lesser spirit](/npc/50306) is a level 1 Wolf Shaman that spawns in [Rathe Mountains](/zone/50).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

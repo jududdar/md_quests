@@ -1,6 +1,11 @@
 # Gash Flockwalker
 
 
+
+[Gash Flockwalker](/npc/1138) is a level 8 Half Elf Druid that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

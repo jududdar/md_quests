@@ -1,6 +1,11 @@
 # Gerak Jelin
 
 
+
+[Gerak Jelin](/npc/168013) is a level 35 Recuso Warrior that spawns in [Marus Seru](/zone/168).
+
+
+
 ## Dialog
 
 **You say:** `hail`

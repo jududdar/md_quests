@@ -2,6 +2,11 @@
 
 
 
+[Arch Mage Narik](/npc/202252) is a level 61 Human GM Magician that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

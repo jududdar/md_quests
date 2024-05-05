@@ -1,6 +1,11 @@
 # Oracle Jaarl
 
 
+
+[Oracle Jaarl](/npc/181077) is a level 42 Gnoll Shaman that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

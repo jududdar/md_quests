@@ -2,6 +2,11 @@
 
 
 
+[Wraith of Jaxion](/npc/90004) is a level 45 Sarnak Spirit Warrior that spawns in [The City of Mist](/zone/90).
+
+
+
+
 ## Turn-Ins
 
 

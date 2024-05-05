@@ -1,6 +1,11 @@
 # Tiblner Milnik
 
 
+
+[Tiblner Milnik](/npc/84160) is a level 61 High Elf Magician that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

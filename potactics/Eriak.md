@@ -1,6 +1,11 @@
 # Eriak
 
 
+
+[Eriak](/npc/214073) is a level 70 Rallos Zek Minion Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

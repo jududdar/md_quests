@@ -1,6 +1,11 @@
 # Snowfang fisher
 
 
+
+[Snowfang fisher](/npc/110013) is a level 26 Gnoll Monk that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

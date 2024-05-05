@@ -1,6 +1,11 @@
 # A Keeper of the Truth
 
 
+
+[A Keeper of the Truth](/npc/159188) is a level 60 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

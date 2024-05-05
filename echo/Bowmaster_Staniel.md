@@ -1,6 +1,11 @@
 # Bowmaster Staniel
 
 
+
+[Bowmaster Staniel](/npc/153107) is a level 45 Wood Elf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

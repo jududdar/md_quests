@@ -2,6 +2,11 @@
 
 
 
+[Farios Elianos](/npc/62018) is a level 50 High Elf Wizard that spawns in [Southern Felwithe](/zone/62).
+
+
+
+
 
 ## Turn-Ins
 

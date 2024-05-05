@@ -1,6 +1,11 @@
 # Drill Master Kyg
 
 
+
+[Drill Master Kyg](/npc/106077) is a level 61 Iksar GM Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

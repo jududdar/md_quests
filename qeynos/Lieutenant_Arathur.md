@@ -1,6 +1,11 @@
 # Lieutenant Arathur
 
 
+
+[Lieutenant Arathur](/npc/1085) is a level 50 Human Paladin that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Arrive at Waypoint Script
   if(e.wp == 12) then
 

@@ -2,6 +2,11 @@
 
 
 
+[Brendar Mynden](/npc/159418) is a level 60 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
+
 
 ## Dialog
 

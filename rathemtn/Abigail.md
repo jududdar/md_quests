@@ -1,6 +1,11 @@
 # Abigail
 
 
+
+[Abigail](/npc/50237) is a level 28 High Elf Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

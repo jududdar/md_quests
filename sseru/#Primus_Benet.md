@@ -1,6 +1,11 @@
 # Primus Benet
 
 
+
+[Primus Benet](/npc/159296) is a level 55 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

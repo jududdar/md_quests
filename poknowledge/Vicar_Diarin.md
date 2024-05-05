@@ -1,6 +1,11 @@
 # Vicar Diarin
 
 
+
+[Vicar Diarin](/npc/202221) is a level 60 Human Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

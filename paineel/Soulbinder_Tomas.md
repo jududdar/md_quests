@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Tomas](/npc/75115) is a level 1 Erudite Warrior that spawns in [Paineel](/zone/75).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Seneschal Aldikar
 
 
+
+[Seneschal Aldikar](/npc/118029) is a level 65 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # a Knight of Innoruuk
+
+
+
+[a Knight of Innoruuk](/npc/76021) is a level 51 Dark Elf Shadow Knight that spawns in [Plane of Hate](/zone/76).
+
 function event_signal(event)
 
 

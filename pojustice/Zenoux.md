@@ -1,6 +1,11 @@
 # Zenoux
 
 
+
+[Zenoux](/npc/201348) is a level 42 Drake Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 if(e.language == 22 and e.other:GetLanguageSkill(22) == 100) then 

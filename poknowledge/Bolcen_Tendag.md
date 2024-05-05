@@ -2,6 +2,11 @@
 
 
 
+[Bolcen Tendag](/npc/202037) is a level 60 Barbarian Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

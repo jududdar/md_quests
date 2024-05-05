@@ -1,6 +1,11 @@
 # Neclo Rheslar
 
 
+
+[Neclo Rheslar](/npc/4032) is a level 16 Human Wizard that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

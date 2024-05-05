@@ -1,6 +1,11 @@
 # Praetorian Valka
 
 
+
+[Praetorian Valka](/npc/159328) is a level 55 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

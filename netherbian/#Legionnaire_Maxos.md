@@ -1,6 +1,11 @@
 # Legionnaire Maxos
 
 
+
+[Legionnaire Maxos](/npc/161001) is a level 29 Human Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## Dialog
 
 **You say:** `hail`

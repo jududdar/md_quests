@@ -1,4 +1,9 @@
-# Dragoon V-Retta
+# Dragoon V\`Retta
+
+
+
+[Dragoon V\`Retta](/npc/41079) is a level 45 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Signals

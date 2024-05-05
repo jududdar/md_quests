@@ -2,6 +2,11 @@
 
 
 
+[a human skeleton](/npc/90000) is a level 41 Skeleton Wizard that spawns in [Karnor's Castle](/zone/102).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

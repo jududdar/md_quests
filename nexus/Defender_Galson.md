@@ -1,6 +1,11 @@
 # Defender Galson
 
 
+
+[Defender Galson](/npc/152010) is a level 50 Barbarian Warrior that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

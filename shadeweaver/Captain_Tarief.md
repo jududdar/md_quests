@@ -1,5 +1,10 @@
 # Captain Tarief
 
+
+
+[Captain Tarief](/npc/165139) is a level 61 Vah Shir GM Rogue that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
 local count = 0;
 
 

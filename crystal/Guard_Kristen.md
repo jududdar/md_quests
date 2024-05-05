@@ -1,6 +1,11 @@
 # Guard Kristen
 
 
+
+[Guard Kristen](/npc/121028) is a level 35 Coldain Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

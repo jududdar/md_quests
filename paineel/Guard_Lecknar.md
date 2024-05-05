@@ -1,6 +1,11 @@
 # Guard Lecknar
 
 
+
+[Guard Lecknar](/npc/75040) is a level 15 Skeleton Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

@@ -1,6 +1,11 @@
 # a skeleton
 
 
+
+[a skeleton](/npc/38010) is a level 7 Skeleton Warrior that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## On NPC Spawn
 
 eq.set_timer("rant",math.random(180000,450000));

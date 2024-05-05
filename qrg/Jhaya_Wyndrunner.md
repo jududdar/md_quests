@@ -1,6 +1,11 @@
 # Jhaya Wyndrunner
 
 
+
+[Jhaya Wyndrunner](/npc/3015) is a level 60 Human Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

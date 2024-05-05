@@ -2,6 +2,11 @@
 
 
 
+[Jark](/npc/67056) is a level 50 Dwarf Warrior that spawns in [North Kaladim](/zone/67).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *Nothin* for 4200 seconds

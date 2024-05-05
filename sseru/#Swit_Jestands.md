@@ -1,6 +1,11 @@
 # Swit Jestands
 
 
+
+[Swit Jestands](/npc/159489) is a level 42 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

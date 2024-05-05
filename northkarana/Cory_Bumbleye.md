@@ -1,6 +1,11 @@
 # Cory Bumbleye
 
 
+
+[Cory Bumbleye](/npc/13064) is a level 29 Halfling Rogue that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds

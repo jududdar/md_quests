@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Jera](/npc/202120) is a level 1 Human Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

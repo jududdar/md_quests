@@ -1,6 +1,11 @@
 # Nojas Blackfist
 
 
+
+[Nojas Blackfist](/npc/113282) is a level 49 Giant Shaman that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

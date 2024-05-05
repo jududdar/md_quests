@@ -1,6 +1,11 @@
 # Leanon Ruksey
 
 
+
+[Leanon Ruksey](/npc/2123) is a level 14 Human Bard that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

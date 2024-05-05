@@ -1,6 +1,11 @@
 # Legionnaire Ocius
 
 
+
+[Legionnaire Ocius](/npc/159177) is a level 49 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

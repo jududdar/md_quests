@@ -1,6 +1,11 @@
 # Pythic Urson
 
 
+
+[Pythic Urson](/npc/115119) is a level 60 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

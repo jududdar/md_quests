@@ -1,6 +1,11 @@
 # Szrix Hammertail
 
 
+
+[Szrix Hammertail](/npc/202307) is a level 60 Iksar Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 local RESPONSES = {
 
 "stares at you long and hard. 'Long ago I escaped imprisonment from Drunder, such things I saw there I would not wish to think of again.  Never again would I even think of speaking of Drunder was it not for the favor owed to the Lord of Guile.  The task he set to me I accomplished to a degree.  I was able to obtain the materials Eriak spoke of through much difficulty.  I was also able to create a set of weaponry that will do much harm to the Warlord.  Should you wish to test your skill I may be able to help ye.'",

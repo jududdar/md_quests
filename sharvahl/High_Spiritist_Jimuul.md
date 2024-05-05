@@ -1,6 +1,11 @@
 # High Spiritist Jimuul
 
 
+
+[High Spiritist Jimuul](/npc/155161) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

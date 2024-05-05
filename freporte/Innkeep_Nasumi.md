@@ -2,6 +2,11 @@
 
 
 
+[Innkeep Nasumi](/npc/10058) is a level 45 Human Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
+
 ## Turn-Ins
 
 

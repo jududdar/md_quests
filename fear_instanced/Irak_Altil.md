@@ -2,6 +2,11 @@
 
 
 
+[Irak Altil](/npc/72078) is a level 51 Skeleton Warrior that spawns in [Plane of Fear (Instanced)](/zone/1072).
+
+
+
+
 
 
 

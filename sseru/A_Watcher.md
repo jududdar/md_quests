@@ -1,6 +1,11 @@
 # A Watcher
 
 
+
+[A Watcher](/npc/159464) is a level 42 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

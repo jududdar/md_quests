@@ -1,4 +1,9 @@
 # A Stonefist Clansman
+
+
+
+[A Stonefist Clansman](/npc/222009) is a level 66 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
 local INVIS_MAN_ID = 369487;
 local BIRAK_TYPE = 222035;
 local BIRAK_SPAWNID = 369493;

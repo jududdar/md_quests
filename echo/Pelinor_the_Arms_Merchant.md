@@ -1,6 +1,11 @@
 # Pelinor the Arms Merchant
 
 
+
+[Pelinor the Arms Merchant](/npc/153106) is a level 45 Dwarf Shopkeeper that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

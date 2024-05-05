@@ -1,6 +1,11 @@
 # Sentry Meighan
 
 
+
+[Sentry Meighan](/npc/8054) is a level 34 Human Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

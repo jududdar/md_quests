@@ -1,6 +1,11 @@
 # Celris Shadetracker
 
 
+
+[Celris Shadetracker](/npc/160154) is a level 62 Wood Elf Ranger that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

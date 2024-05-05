@@ -1,4 +1,9 @@
 # an evil little imp
+
+
+
+[an evil little imp](/npc/76386) is a level 48 Imp Warrior that spawns in [Plane of Hate](/zone/76).
+
 function event_spawn(event)
 
 **Set a timer** named *depop* for 1200 seconds

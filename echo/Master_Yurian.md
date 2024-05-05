@@ -1,6 +1,11 @@
 # Master Yurian
 
 
+
+[Master Yurian](/npc/153097) is a level 61 Gnome GM Magician that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

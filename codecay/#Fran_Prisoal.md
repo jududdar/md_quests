@@ -1,4 +1,9 @@
 # Fran Prisoal
+
+
+
+[Fran Prisoal](/npc/200230) is a level 60 Knight of Pestilence Warrior that spawns in [The Crypt of Decay](/zone/200).
+
 local s1, s2, s3;
 
 

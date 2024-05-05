@@ -1,4 +1,9 @@
-# Guardian of K-arnon
+# Guardian of K\`Arnon
+
+
+
+[Guardian of K\`Arnon](/npc/69106) is a level 38 High Elf Warrior that spawns in [Ocean of Tears](/zone/69).
+
 
 
 ## Dialog

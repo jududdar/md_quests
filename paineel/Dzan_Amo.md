@@ -1,6 +1,11 @@
 # Dzan Amo
 
 
+
+[Dzan Amo](/npc/75018) is a level 35 Erudite Cleric that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Apprehensive then 

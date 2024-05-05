@@ -1,6 +1,11 @@
 # Gaston Facetmaker
 
 
+
+[Gaston Facetmaker](/npc/159066) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

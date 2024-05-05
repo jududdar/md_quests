@@ -1,5 +1,10 @@
 # Loremaster Einar
 
+
+
+
+
+
 local quest_helper = require('velious_quest_helper');
 local THURG_ARMOR = quest_helper.THURG_ARMOR;
 local QUEST_TEXT = {

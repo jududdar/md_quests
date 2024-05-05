@@ -2,6 +2,11 @@
 
 
 
+[Aneya Mallar](/npc/201291) is a level 42 Erudite Paladin that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

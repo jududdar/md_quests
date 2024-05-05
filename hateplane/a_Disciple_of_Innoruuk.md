@@ -1,4 +1,9 @@
 # a Disciple of Innoruuk
+
+
+
+[a Disciple of Innoruuk](/npc/76215) is a level 54 Dark Elf Necromancer that spawns in [Plane of Hate](/zone/76).
+
 function event_signal(event)
 
 

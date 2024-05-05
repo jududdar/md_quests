@@ -1,6 +1,11 @@
 # Grand Librarian Maelin
 
 
+
+[Grand Librarian Maelin](/npc/202125) is a level 75 Gnome Wizard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

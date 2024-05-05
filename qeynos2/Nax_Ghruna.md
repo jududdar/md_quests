@@ -1,6 +1,11 @@
 # Nax Ghruna
 
 
+
+[Nax Ghruna](/npc/2061) is a level 20 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `stanos`

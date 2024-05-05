@@ -1,6 +1,11 @@
 # Watcher Grinnis
 
 
+
+[Watcher Grinnis](/npc/159579) is a level 48 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

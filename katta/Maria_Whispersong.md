@@ -1,6 +1,11 @@
 # Maria Whispersong
 
 
+
+[Maria Whispersong](/npc/160185) is a level 35 Half Elf Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

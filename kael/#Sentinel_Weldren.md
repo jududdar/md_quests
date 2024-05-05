@@ -1,6 +1,11 @@
 # Sentinel Weldren
 
 
+
+[Sentinel Weldren](/npc/113137) is a level 57 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Signals
 
 

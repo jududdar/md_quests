@@ -2,6 +2,11 @@
 
 
 
+[Defender Raldson](/npc/150005) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
+
 
 ## Dialog
 

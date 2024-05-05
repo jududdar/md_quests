@@ -2,6 +2,11 @@
 
 
 
+[Yendar Starpyre](/npc/56012) is a level 65 Gnome Wizard that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Guard Phaeton
 
 
+
+[Guard Phaeton](/npc/1189) is a level 5 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

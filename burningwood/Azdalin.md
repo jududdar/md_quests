@@ -1,6 +1,11 @@
 # Azdalin
 
 
+
+[Azdalin](/npc/87006) is a level 41 Wurm Warrior that spawns in [The Burning Wood](/zone/87).
+
+
+
 ## Combat
 
 local random_result = math.random(60);

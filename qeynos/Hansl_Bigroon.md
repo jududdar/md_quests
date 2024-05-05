@@ -1,6 +1,11 @@
 # Hansl Bigroon
 
 
+
+[Hansl Bigroon](/npc/1096) is a level 25 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

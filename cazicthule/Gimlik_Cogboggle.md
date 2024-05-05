@@ -1,6 +1,11 @@
 # Gimlik Cogboggle
 
 
+
+[Gimlik Cogboggle](/npc/48040) is a level 1 Gnome Warrior that spawns in [Lost Temple of CazicThule](/zone/48).
+
+
+
 ## Dialog
 
 **You say:** `hail`

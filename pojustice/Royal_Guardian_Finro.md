@@ -2,6 +2,11 @@
 
 
 
+[Royal Guardian Finro](/npc/201415) is a level 42 High Elf Paladin that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

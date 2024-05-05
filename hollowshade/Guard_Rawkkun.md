@@ -1,6 +1,11 @@
 # Guard Rawkkun
 
 
+
+[Guard Rawkkun](/npc/166079) is a level 55 Vah Shir Warrior that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Turn-Ins
 
 

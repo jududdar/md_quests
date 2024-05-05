@@ -1,6 +1,11 @@
 # Gerault Takenmaul
 
 
+
+[Gerault Takenmaul](/npc/2065) is a level 45 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

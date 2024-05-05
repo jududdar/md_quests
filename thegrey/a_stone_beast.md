@@ -1,6 +1,11 @@
 # a stone beast
 
 
+
+[a stone beast](/npc/171007) is a level 48 Stonegrabber Warrior that spawns in [The Grey](/zone/171).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

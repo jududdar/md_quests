@@ -1,6 +1,11 @@
 # Nesiff Tallaherd
 
 
+
+[Nesiff Tallaherd](/npc/1098) is a level 20 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

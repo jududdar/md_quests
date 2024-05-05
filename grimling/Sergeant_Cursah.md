@@ -1,6 +1,11 @@
 # Sergeant Cursah
 
 
+
+[Sergeant Cursah](/npc/167515) is a level 38 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

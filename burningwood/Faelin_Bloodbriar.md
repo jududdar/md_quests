@@ -1,6 +1,11 @@
 # Faelin Bloodbriar
 
 
+
+[Faelin Bloodbriar](/npc/54237) is a level 55 Wood Elf Druid that spawns in [The Burning Wood](/zone/87).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

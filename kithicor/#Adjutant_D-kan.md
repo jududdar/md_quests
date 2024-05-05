@@ -1,4 +1,9 @@
-# Adjutant D-kan
+# Adjutant D\`kan
+
+
+
+[Adjutant D\`kan](/npc/20065) is a level 53 Dark Elf Warrior that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

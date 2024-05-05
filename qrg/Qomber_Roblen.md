@@ -1,6 +1,11 @@
 # Qomber Roblen
 
 
+
+[Qomber Roblen](/npc/3011) is a level 45 Human Shopkeeper that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `leader`

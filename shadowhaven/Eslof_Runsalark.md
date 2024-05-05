@@ -1,6 +1,11 @@
 # Eslof Runsalark
 
 
+
+[Eslof Runsalark](/npc/150073) is a level 50 Dwarf Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Morin Shadowbane
 
 
+
+[Morin Shadowbane](/npc/20071) is a level 61 Human GM Ranger that spawns in [Kithicor Forest](/zone/20).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,4 +1,9 @@
 # A Castellan of Air
+
+
+
+[A Castellan of Air](/npc/215000) is a level 63 Animated Armor Paladin that spawns in [Plane of Air](/zone/215).
+
 local CONTROLLER_TYPE = 215419; 
 local INLOKHER_TYPE = 215409; 
 

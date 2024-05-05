@@ -1,6 +1,11 @@
 # a dandy pansy
 
 
+
+[a dandy pansy](/npc/126002) is a level 48 Man-Eating Plant Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

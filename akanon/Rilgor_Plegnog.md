@@ -1,6 +1,11 @@
 # Rilgor Plegnog
 
 
+
+[Rilgor Plegnog](/npc/55121) is a level 61 Gnome GM Enchanter that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `mechanical pen`

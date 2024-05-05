@@ -1,6 +1,11 @@
 # Lucky the Beggar
 
 
+
+[Lucky the Beggar](/npc/6157) is a level 4 Beggar Rogue that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `mistress anna`

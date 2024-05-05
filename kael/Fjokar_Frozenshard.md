@@ -2,6 +2,11 @@
 
 
 
+[Fjokar Frozenshard](/npc/113153) is a level 60 Giant Rogue that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 ## Dialog
 

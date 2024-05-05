@@ -1,6 +1,11 @@
 # a velium stalker
 
 
+
+[a velium stalker](/npc/112019) is a level 50 Spider Rogue that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds

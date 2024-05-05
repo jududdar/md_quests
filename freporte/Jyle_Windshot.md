@@ -1,6 +1,11 @@
 # Jyle Windshot
 
 
+
+[Jyle Windshot](/npc/9008) is a level 30 Human Ranger that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

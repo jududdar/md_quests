@@ -1,4 +1,9 @@
-# Gracie F-Liler
+# Gracie F\`Liler
+
+
+
+[Gracie F\`Liler](/npc/84175) is a level 49 High Elf Enchanter that spawns in [Firiona Vie](/zone/84).
+
 
 
 ## Dialog

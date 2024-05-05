@@ -1,6 +1,11 @@
 # Mystic Goharkor
 
 
+
+[Mystic Goharkor](/npc/202183) is a level 60 Iksar Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

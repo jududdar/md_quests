@@ -2,6 +2,11 @@
 
 
 
+[Tenal Redblade](/npc/15077) is a level 50 Human Warrior that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

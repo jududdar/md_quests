@@ -1,6 +1,11 @@
 # Raz The Rat Misk
 
 
+
+[Raz The Rat Misk](/npc/1089) is a level 5 Beggar Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

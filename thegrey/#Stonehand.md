@@ -1,6 +1,11 @@
 # Stonehand
 
 
+
+[Stonehand](/npc/171009) is a level 50 Stonegrabber Warrior that spawns in [The Grey](/zone/171).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

@@ -1,6 +1,11 @@
 # Chef Dooga
 
 
+
+[Chef Dooga](/npc/49062) is a level 35 Ogre Shopkeeper that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

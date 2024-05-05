@@ -2,6 +2,11 @@
 
 
 
+[Rebecca Cabbageleaf](/npc/157046) is a level 52 Halfling Shopkeeper that spawns in [The Fungus Grove](/zone/157).
+
+
+
+
 
 ## Dialog
 

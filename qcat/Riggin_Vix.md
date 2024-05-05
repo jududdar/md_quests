@@ -1,6 +1,11 @@
 # Riggin Vix
 
 
+
+[Riggin Vix](/npc/45085) is a level 17 Human Rogue that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

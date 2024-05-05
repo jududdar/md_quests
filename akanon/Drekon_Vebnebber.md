@@ -1,6 +1,11 @@
 # Drekon Vebnebber
 
 
+
+[Drekon Vebnebber](/npc/55116) is a level 20 Gnome Shopkeeper that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

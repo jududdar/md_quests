@@ -1,6 +1,11 @@
 # Bank Clerk Jaylin
 
 
+
+[Bank Clerk Jaylin](/npc/6059) is a level 25 Human Banker that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

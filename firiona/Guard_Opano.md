@@ -1,6 +1,11 @@
 # Guard Opano
 
 
+
+[Guard Opano](/npc/84144) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

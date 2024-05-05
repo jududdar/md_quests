@@ -1,4 +1,9 @@
-# D-mitrious Irska
+# D\`mitrious Irska
+
+
+
+[D\`mitrious Irska](/npc/1028) is a level 61 Human GM Enchanter that spawns in [South Qeynos](/zone/1).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Miller
 
 
+
+[Miller](/npc/160376) is a level 47 Half Elf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

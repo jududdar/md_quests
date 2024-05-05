@@ -1,6 +1,11 @@
 # Swin Blackeye
 
 
+
+[Swin Blackeye](/npc/9103) is a level 20 Guard Shopkeeper that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

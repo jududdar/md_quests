@@ -1,6 +1,11 @@
 # a keeper
 
 
+
+[a keeper](/npc/80032) is a level 34 Gnome Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a blazing elemental](/npc/80040) at this location.

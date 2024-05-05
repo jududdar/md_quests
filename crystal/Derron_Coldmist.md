@@ -1,6 +1,11 @@
 # Derron Coldmist
 
 
+
+[Derron Coldmist](/npc/121077) is a level 31 Coldain Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

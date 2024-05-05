@@ -1,6 +1,11 @@
 # Legionnaire Giru
 
 
+
+[Legionnaire Giru](/npc/161070) is a level 27 Human Paladin that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## Dialog
 
 **You say:** `hail`

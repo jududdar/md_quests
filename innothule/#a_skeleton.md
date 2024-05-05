@@ -1,6 +1,11 @@
 # a skeleton
 
 
+
+[a skeleton](/npc/38009) is a level 7 Skeleton Warrior that spawns in [Innothule Swamp](/zone/46).
+
+
+
 ## Dialog
 
 **You say:** `hail`

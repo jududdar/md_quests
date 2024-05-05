@@ -1,6 +1,11 @@
 # Guard Frandan
 
 
+
+[Guard Frandan](/npc/84141) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

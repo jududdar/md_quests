@@ -1,6 +1,11 @@
 # Quinon Hulleaf
 
 
+
+[Quinon Hulleaf](/npc/2027) is a level 21 Human Bard that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

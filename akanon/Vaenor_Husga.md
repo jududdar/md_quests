@@ -1,6 +1,11 @@
 # Vaenor Husga
 
 
+
+[Vaenor Husga](/npc/55123) is a level 61 Gnome GM Magician that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Turn-Ins
 
 

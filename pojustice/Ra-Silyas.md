@@ -1,4 +1,9 @@
-# Ra-Silyas
+# Ra\`Silyas
+
+
+
+[Ra\`Silyas](/npc/201330) is a level 44 Sarnak Wizard that spawns in [Plane of Justice](/zone/201).
+
 
 
 

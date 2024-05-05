@@ -1,6 +1,11 @@
 # Kwinn the Outlander
 
 
+
+[Kwinn the Outlander](/npc/84003) is a level 30 Barbarian Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

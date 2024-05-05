@@ -1,6 +1,11 @@
 # Valdicar Shadowfrost
 
 
+
+[Valdicar Shadowfrost](/npc/115077) is a level 37 Coldain Rogue that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

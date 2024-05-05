@@ -1,4 +1,9 @@
 # script init
+
+
+
+
+
 eq.load_encounter("BlackOoze");
 eq.load_encounter("GnomeEscort");
 eq.load_encounter("RingOfSlime");

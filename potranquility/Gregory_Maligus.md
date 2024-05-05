@@ -1,6 +1,11 @@
 # Gregory Maligus
 
 
+
+[Gregory Maligus](/npc/203421) is a level 46 Human Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## On NPC Spawn
 
 e.self:CastToNPC():SetNoQuestPause(true);

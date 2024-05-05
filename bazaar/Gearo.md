@@ -1,6 +1,11 @@
 # Gearo
 
 
+
+[Gearo](/npc/151201) is a level 55 Gnome Warrior that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `hail`

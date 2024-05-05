@@ -1,6 +1,11 @@
 # Trondol Shir
 
 
+
+[Trondol Shir](/npc/154125) is a level 10 Vah Shir Warrior that spawns in [Acrylia Caverns](/zone/154).
+
+
+
 ## Dialog
 
 **You say:** `hail`

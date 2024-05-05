@@ -1,6 +1,11 @@
 # Heneva Jexsped
 
 
+
+[Heneva Jexsped](/npc/10121) is a level 61 Human GM Magician that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

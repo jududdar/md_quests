@@ -1,6 +1,11 @@
 # Wyle Bimlin
 
 
+
+[Wyle Bimlin](/npc/4073) is a level 20 Human Shopkeeper that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

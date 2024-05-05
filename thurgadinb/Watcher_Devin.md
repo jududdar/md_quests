@@ -1,6 +1,11 @@
 # Watcher Devin
 
 
+
+[Watcher Devin](/npc/129088) is a level 57 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

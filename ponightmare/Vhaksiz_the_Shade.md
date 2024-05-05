@@ -1,4 +1,9 @@
 # Vhaksiz the Shade
+
+
+
+[Vhaksiz the Shade](/npc/204028) is a level 65 Undead Knight Shadow Knight that spawns in [Plane of Nightmares](/zone/204).
+
 local x, y, z;
 
 

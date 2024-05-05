@@ -1,6 +1,11 @@
 # Lander Billkin
 
 
+
+[Lander Billkin](/npc/12166) is a level 4 Human Paladin that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

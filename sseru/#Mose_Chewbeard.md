@@ -1,6 +1,11 @@
 # Mose Chewbeard
 
 
+
+[Mose Chewbeard](/npc/159049) is a level 51 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

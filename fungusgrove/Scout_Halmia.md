@@ -1,6 +1,11 @@
 # Scout Halmia
 
 
+
+[Scout Halmia](/npc/157008) is a level 15 Vah Shir Warrior that spawns in [The Fungus Grove](/zone/157).
+
+
+
 ## Dialog
 
 **You say:** `hail`

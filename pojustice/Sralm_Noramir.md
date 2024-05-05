@@ -1,6 +1,11 @@
 # Sralm Noramir
 
 
+
+[Sralm Noramir](/npc/201000) is a level 48 Iksar Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 **You say:** `hail`

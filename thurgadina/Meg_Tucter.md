@@ -1,6 +1,11 @@
 # Meg Tucter
 
 
+
+[Meg Tucter](/npc/115161) is a level 30 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

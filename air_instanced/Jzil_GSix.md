@@ -2,6 +2,11 @@
 
 
 
+[Jzil GSix](/npc/71074) is a level 55 Dark Elf Necromancer that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
+
 
 ## On NPC Spawn
 

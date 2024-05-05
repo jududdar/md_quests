@@ -1,6 +1,11 @@
 # Wanderer Kedrisan
 
 
+
+[Wanderer Kedrisan](/npc/202216) is a level 60 Yakkar Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

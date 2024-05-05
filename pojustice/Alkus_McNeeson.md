@@ -1,6 +1,11 @@
 # Alkus McNeeson
 
 
+
+[Alkus McNeeson](/npc/201347) is a level 42 Barbarian Rogue that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 **You say:** `hail`

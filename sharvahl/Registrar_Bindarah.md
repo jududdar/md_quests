@@ -2,6 +2,11 @@
 
 
 
+[Registrar Bindarah](/npc/155078) is a level 62 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 
 

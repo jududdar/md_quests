@@ -1,4 +1,9 @@
-# Auhrik Siet-ka
+# Auhrik Siet\`ka
+
+
+
+[Auhrik Siet\`ka](/npc/75090) is a level 61 Erudite GM Necromancer that spawns in [Paineel](/zone/75).
+
 
 
 

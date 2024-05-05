@@ -1,6 +1,11 @@
 # Aelisian Taliz
 
 
+
+[Aelisian Taliz](/npc/203417) is a level 47 High Elf Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Legionnaire Fenstra
 
 
+
+[Legionnaire Fenstra](/npc/159624) is a level 46 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

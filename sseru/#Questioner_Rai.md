@@ -1,6 +1,11 @@
 # Questioner Rai
 
 
+
+[Questioner Rai](/npc/159348) is a level 52 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

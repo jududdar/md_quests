@@ -1,6 +1,11 @@
 # Mystic Pikor
 
 
+
+[Mystic Pikor](/npc/202181) is a level 60 Troll Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

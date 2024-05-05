@@ -1,4 +1,9 @@
 # Nitram Anizok
+
+
+
+[Nitram Anizok](/npc/206033) is a level 46 Gnome Shopkeeper that spawns in [Plane of Innovation](/zone/206).
+
 local FLAG_LIMIT = 72;
 local DRAGON_TYPE = 206208; 
 

@@ -1,6 +1,11 @@
 # The Spirit of Torment
 
 
+
+[The Spirit of Torment](/npc/100019) is a level 55 Will-O-Wisp Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *roar* for 1 seconds

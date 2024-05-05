@@ -1,6 +1,11 @@
 # a Xakra Shah
 
 
+
+[a Xakra Shah](/npc/171003) is a level 44 Worm Warrior that spawns in [The Grey](/zone/171).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

@@ -1,6 +1,11 @@
 # Druina McFlagal
 
 
+
+[Druina McFlagal](/npc/159438) is a level 48 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

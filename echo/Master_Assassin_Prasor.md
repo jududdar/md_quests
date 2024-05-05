@@ -1,6 +1,11 @@
 # Master Assassin Prasor
 
 
+
+[Master Assassin Prasor](/npc/153100) is a level 61 Half Elf GM Rogue that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

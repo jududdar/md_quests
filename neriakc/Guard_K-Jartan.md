@@ -1,4 +1,9 @@
-# Guard K-Jartan
+# Guard K\`Jartan
+
+
+
+[Guard K\`Jartan](/npc/42095) is a level 40 Dark Elf Warrior that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

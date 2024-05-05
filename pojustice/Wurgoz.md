@@ -2,6 +2,11 @@
 
 
 
+[Wurgoz](/npc/201337) is a level 44 Froglok Shaman that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

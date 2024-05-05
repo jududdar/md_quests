@@ -1,4 +1,9 @@
 # Sage Xelrin
+
+
+
+[Sage Xelrin](/npc/202041) is a level 60 Erudite Warrior that spawns in [Plane of Knowledge](/zone/202).
+
 local continue;
 
 

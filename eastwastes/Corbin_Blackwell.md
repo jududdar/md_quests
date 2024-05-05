@@ -1,6 +1,11 @@
 # Corbin Blackwell
 
 
+
+[Corbin Blackwell](/npc/116119) is a level 41 Coldain Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Dialog
 
 **You say:** `hail`

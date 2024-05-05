@@ -1,4 +1,9 @@
-# Apprentice Fih-Ylia
+# Apprentice Fih\`Ylia
+
+
+
+[Apprentice Fih\`Ylia](/npc/203371) is a level 46 High Elf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
 
 
 ## Dialog

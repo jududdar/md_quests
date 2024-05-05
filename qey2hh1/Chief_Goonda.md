@@ -1,6 +1,11 @@
 # Chief Goonda
 
 
+
+[Chief Goonda](/npc/12068) is a level 34 Ogre GM Shaman that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

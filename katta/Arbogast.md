@@ -1,6 +1,11 @@
 # Arbogast
 
 
+
+[Arbogast](/npc/160112) is a level 50 Human Cleric that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 miller = eq.get_entity_list():GetMobByNpcTypeID( [\#Miller](/npc/160376));

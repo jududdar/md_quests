@@ -1,6 +1,11 @@
 # Lheao
 
 
+
+[Lheao](/npc/96001) is a level 50 Erudite Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## Dialog
 
 **You say:** `hail`

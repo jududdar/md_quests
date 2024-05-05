@@ -1,6 +1,11 @@
 # Sentry Emil
 
 
+
+[Sentry Emil](/npc/114544) is a level 38 Golem Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

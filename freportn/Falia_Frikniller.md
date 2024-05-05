@@ -1,6 +1,11 @@
 # Falia Frikniller
 
 
+
+[Falia Frikniller](/npc/8103) is a level 23 Halfling Shopkeeper that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

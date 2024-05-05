@@ -1,6 +1,11 @@
 # Chamberlain Krystorf
 
 
+
+[Chamberlain Krystorf](/npc/129028) is a level 60 Coldain Paladin that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Ruru the Cook
 
 
+
+[Ruru the Cook](/npc/114496) is a level 37 Golem Shopkeeper that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

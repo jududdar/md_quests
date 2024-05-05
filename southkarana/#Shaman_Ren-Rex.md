@@ -1,4 +1,9 @@
-# Shaman Ren-Rex
+# Shaman Ren\`Rex
+
+
+
+[Shaman Ren\`Rex](/npc/14119) is a level 17 Gnoll Shaman that spawns in [Southern Plains of Karana](/zone/14).
+
 
 
 ## On NPC Death

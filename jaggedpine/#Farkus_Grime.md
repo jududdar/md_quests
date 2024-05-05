@@ -1,6 +1,11 @@
 # Farkus Grime
 
 
+
+[Farkus Grime](/npc/181164) is a level 25 Human Shadow Knight that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## On NPC Spawn
 
 tellpause = 0;

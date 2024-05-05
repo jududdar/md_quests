@@ -1,6 +1,11 @@
 # Constable Alranderisan
 
 
+
+[Constable Alranderisan](/npc/215383) is a level 66 Animated Armor Cleric that spawns in [Plane of Air](/zone/215).
+
+
+
 ## Signals
 
 local client = eq.get_entity_list():GetClientByID(e.signal);

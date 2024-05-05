@@ -1,6 +1,11 @@
 # Faydwer Scion
 
 
+
+[Faydwer Scion](/npc/152002) is a level 50 High Elf Paladin that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `hail`

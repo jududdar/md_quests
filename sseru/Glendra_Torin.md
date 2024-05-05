@@ -1,6 +1,11 @@
 # Glendra Torin
 
 
+
+[Glendra Torin](/npc/159407) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a dragon construct
 
 
+
+[a dragon construct](/npc/123023) is a level 54 Dragon Warrior that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

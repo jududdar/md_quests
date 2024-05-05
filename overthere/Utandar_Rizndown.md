@@ -1,6 +1,11 @@
 # Utandar Rizndown
 
 
+
+[Utandar Rizndown](/npc/93112) is a level 40 Dark Elf Shopkeeper that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

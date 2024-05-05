@@ -2,6 +2,11 @@
 
 
 
+[Drizda Tunesinger](/npc/47152) is a level 25 Half Elf Bard that spawns in [The Feerrott](/zone/47).
+
+
+
+
 
 ## Dialog
 

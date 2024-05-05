@@ -2,6 +2,11 @@
 
 
 
+[Fright](/npc/72004) is a level 55 Golem Warrior that spawns in [Plane of Fear (Instanced)](/zone/1072).
+
+
+
+
 
 ## Signals
 

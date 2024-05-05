@@ -1,6 +1,11 @@
 # Arx Guardian McMara
 
 
+
+[Arx Guardian McMara](/npc/159330) is a level 55 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

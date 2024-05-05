@@ -1,6 +1,11 @@
 # Adroha Jezith
 
 
+
+[Adroha Jezith](/npc/203366) is a level 46 Erudite Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

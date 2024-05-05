@@ -1,6 +1,11 @@
 # Vindor Mawnil
 
 
+
+[Vindor Mawnil](/npc/200261) is a level 70 Knight of Pestilence Warrior that spawns in [The Crypt of Decay](/zone/200).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 9900 seconds

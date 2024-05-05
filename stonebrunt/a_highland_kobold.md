@@ -1,6 +1,11 @@
 # a highland kobold
 
 
+
+[a highland kobold](/npc/100116) is a level 22 Kobold Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

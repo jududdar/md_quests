@@ -1,6 +1,11 @@
 # Scout Bladethorn
 
 
+
+[Scout Bladethorn](/npc/84133) is a level 45 Wood Elf Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Gubkuk](/npc/201404) is a level 46 Troll Shaman that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

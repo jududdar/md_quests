@@ -2,6 +2,11 @@
 
 
 
+[Raskena Djor](/npc/23041) is a level 61 Erudite GM Wizard that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 ## Dialog
 

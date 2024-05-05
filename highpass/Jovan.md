@@ -1,6 +1,11 @@
 # Jovan
 
 
+
+[Jovan](/npc/5049) is a level 35 Human Cleric that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Arabella Augustleaf
 
 
+
+[Arabella Augustleaf](/npc/160188) is a level 35 High Elf Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

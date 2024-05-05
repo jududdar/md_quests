@@ -1,6 +1,11 @@
 # Moodoro Finharn
 
 
+
+[Moodoro Finharn](/npc/2040) is a level 13 Erudite Wizard that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

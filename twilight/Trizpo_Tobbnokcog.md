@@ -1,6 +1,11 @@
 # Trizpo Tobbnokcog
 
 
+
+[Trizpo Tobbnokcog](/npc/170130) is a level 40 Gnome Magician that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

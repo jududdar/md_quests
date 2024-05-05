@@ -1,6 +1,11 @@
 # Hogunk Ventille
 
 
+
+[Hogunk Ventille](/npc/60021) is a level 61 Dwarf GM Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

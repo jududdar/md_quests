@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Gendal](/npc/77000) is a level 65 Skeleton Warrior that spawns in [The Arena](/zone/77).
+
+
+
+
 
 ## Dialog
 

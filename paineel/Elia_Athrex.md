@@ -1,6 +1,11 @@
 # Elia Athrex
 
 
+
+[Elia Athrex](/npc/75020) is a level 5 Erudite Necromancer that spawns in [Paineel](/zone/75).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *souls* for 3100 seconds

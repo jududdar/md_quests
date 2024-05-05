@@ -1,6 +1,11 @@
 # Lathin Firetree
 
 
+
+[Lathin Firetree](/npc/160189) is a level 61 High Elf GM Wizard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Clurg
 
 
+
+[Clurg](/npc/49049) is a level 40 Ogre Shopkeeper that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

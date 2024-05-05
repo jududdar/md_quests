@@ -1,6 +1,11 @@
 # a spirit
 
 
+
+[a spirit](/npc/100016) is a level 1 Will-O-Wisp Shadow Knight that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

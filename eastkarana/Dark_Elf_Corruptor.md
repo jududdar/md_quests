@@ -1,6 +1,11 @@
 # Dark Elf Corruptor
 
 
+
+[Dark Elf Corruptor](/npc/15153) is a level 45 Dark Elf Necromancer that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *despawn* for 600 seconds

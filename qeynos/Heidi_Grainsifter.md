@@ -1,6 +1,11 @@
 # Heidi Grainsifter
 
 
+
+[Heidi Grainsifter](/npc/1065) is a level 45 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `kane`

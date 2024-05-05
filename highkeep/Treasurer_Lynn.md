@@ -1,6 +1,11 @@
 # Treasurer Lynn
 
 
+
+[Treasurer Lynn](/npc/6077) is a level 30 Human Shopkeeper that spawns in [High Keep](/zone/6).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

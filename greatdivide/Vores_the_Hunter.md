@@ -1,6 +1,11 @@
 # Vores the Hunter
 
 
+
+[Vores the Hunter](/npc/118079) is a level 60 Coldain Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

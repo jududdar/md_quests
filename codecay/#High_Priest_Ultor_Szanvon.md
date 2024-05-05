@@ -1,6 +1,11 @@
 # High Priest Ultor Szanvon
 
 
+
+[High Priest Ultor Szanvon](/npc/200245) is a level 70 Lepertoloth Cleric that spawns in [The Crypt of Decay](/zone/200).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 11700 seconds

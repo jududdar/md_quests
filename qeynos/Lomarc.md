@@ -1,6 +1,11 @@
 # Lomarc
 
 
+
+[Lomarc](/npc/1190) is a level 3 Human Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

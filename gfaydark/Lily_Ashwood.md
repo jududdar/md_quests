@@ -1,6 +1,11 @@
 # Lily Ashwood
 
 
+
+[Lily Ashwood](/npc/54086) is a level 15 Wood Elf Bard that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

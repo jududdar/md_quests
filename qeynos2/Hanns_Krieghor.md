@@ -1,6 +1,11 @@
 # Hanns Krieghor
 
 
+
+[Hanns Krieghor](/npc/2074) is a level 61 Human GM Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

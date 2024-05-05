@@ -1,6 +1,11 @@
 # Questioner Uila
 
 
+
+[Questioner Uila](/npc/159324) is a level 52 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

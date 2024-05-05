@@ -2,6 +2,11 @@
 
 
 
+[Lady Nevederia](/npc/124076) is a level 66 Dragon Enchanter that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## On NPC Spawn
 

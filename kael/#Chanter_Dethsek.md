@@ -1,6 +1,11 @@
 # Chanter Dethsek
 
 
+
+[Chanter Dethsek](/npc/113324) is a level 44 Giant Wizard that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

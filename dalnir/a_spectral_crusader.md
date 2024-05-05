@@ -1,6 +1,11 @@
 # a spectral crusader
 
 
+
+[a spectral crusader](/npc/104009) is a level 24 Undead Iksar Shadow Knight that spawns in [The Crypt of Dalnir](/zone/104).
+
+
+
 ## Dialog
 
 **You say:** `greenmist`

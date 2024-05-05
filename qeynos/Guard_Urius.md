@@ -1,6 +1,11 @@
 # Guard Urius
 
 
+
+[Guard Urius](/npc/1200) is a level 7 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

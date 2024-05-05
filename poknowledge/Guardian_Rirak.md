@@ -1,6 +1,11 @@
 # Guardian Rirak
 
 
+
+[Guardian Rirak](/npc/202101) is a level 60 Dwarf Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

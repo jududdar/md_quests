@@ -1,4 +1,9 @@
 # mob ext
+
+
+
+
+
 function Mob:ForeachHateList(func, cond)
 
 cond = cond or function(ent, hate, damage, frenzy) return true

@@ -1,6 +1,11 @@
 # Tacy MistHeart
 
 
+
+[Tacy MistHeart](/npc/121079) is a level 29 Coldain Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

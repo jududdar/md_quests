@@ -1,6 +1,11 @@
 # Gahlith Wrannstad
 
 
+
+[Gahlith Wrannstad](/npc/1055) is a level 61 Human GM Wizard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Turn-Ins
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Spiritist Roleko](/npc/167190) is a level 45 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
+
 
 ## Dialog
 

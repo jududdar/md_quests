@@ -1,6 +1,11 @@
 # Tegea Prendyn
 
 
+
+[Tegea Prendyn](/npc/69017) is a level 25 Wood Elf Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

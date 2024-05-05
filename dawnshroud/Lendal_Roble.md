@@ -1,6 +1,11 @@
 # Lendal Roble
 
 
+
+[Lendal Roble](/npc/174075) is a level 44 Human Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

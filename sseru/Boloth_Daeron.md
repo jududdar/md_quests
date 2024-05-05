@@ -1,6 +1,11 @@
 # Boloth Daeron
 
 
+
+[Boloth Daeron](/npc/159264) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

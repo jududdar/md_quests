@@ -1,6 +1,11 @@
 # Lieutenant Arathur
 
 
+
+[Lieutenant Arathur](/npc/1085) is a level 50 Human Paladin that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

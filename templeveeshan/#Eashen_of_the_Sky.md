@@ -2,6 +2,11 @@
 
 
 
+[Eashen of the Sky](/npc/124017) is a level 66 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 ## Combat
 
 if  Eashen of the Sky enters combat  then

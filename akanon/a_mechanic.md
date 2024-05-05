@@ -1,6 +1,11 @@
 # a mechanic
 
 
+
+[a mechanic](/npc/55218) is a level 23 Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `clockwork`

@@ -1,6 +1,11 @@
 # Basher Sutok
 
 
+
+[Basher Sutok](/npc/52017) is a level 38 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

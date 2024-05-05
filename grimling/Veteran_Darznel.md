@@ -1,6 +1,11 @@
 # Veteran Darznel
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

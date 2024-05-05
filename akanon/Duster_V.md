@@ -2,6 +2,11 @@
 
 
 
+[Duster V](/npc/55163) is a level 6 Rat Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## On NPC Spawn
 

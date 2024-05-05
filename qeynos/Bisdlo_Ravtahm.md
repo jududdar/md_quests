@@ -1,6 +1,11 @@
 # Bisdlo Ravtahm
 
 
+
+[Bisdlo Ravtahm](/npc/1126) is a level 26 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `karana`

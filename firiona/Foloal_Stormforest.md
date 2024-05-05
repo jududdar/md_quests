@@ -2,6 +2,11 @@
 
 
 
+[Foloal Stormforest](/npc/84207) is a level 50 Half Elf Ranger that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `are you one such as myself`

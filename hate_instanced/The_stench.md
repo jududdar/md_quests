@@ -1,4 +1,9 @@
 # The stench
+
+
+
+
+
 function event_spawn(event)
 
 local xloc = event.self:GetX();

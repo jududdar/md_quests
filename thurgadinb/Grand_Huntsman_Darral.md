@@ -1,6 +1,11 @@
 # Grand Huntsman Darral
 
 
+
+[Grand Huntsman Darral](/npc/129022) is a level 49 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

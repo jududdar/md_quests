@@ -1,6 +1,11 @@
 # Gurrin Nitestorm
 
 
+
+[Gurrin Nitestorm](/npc/3014) is a level 50 Human Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Gerot Kastane](/npc/75004) is a level 50 Human Shadow Knight that spawns in [Paineel](/zone/75).
+
+
+
+
 
 ## Dialog
 

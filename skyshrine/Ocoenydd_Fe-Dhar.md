@@ -1,4 +1,9 @@
-# Ocoenydd Fe-Dhar
+# Ocoenydd Fe\`Dhar
+
+
+
+[Ocoenydd Fe\`Dhar](/npc/114621) is a level 35 Wyvern Warrior that spawns in [Skyshrine](/zone/114).
+
 
 
 local quest_helper = require('velious_quest_helper');

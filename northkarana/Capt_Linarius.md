@@ -1,6 +1,11 @@
 # Capt Linarius
 
 
+
+[Capt Linarius](/npc/13053) is a level 45 Human Warrior that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## Dialog
 
 **You say:** `hail`

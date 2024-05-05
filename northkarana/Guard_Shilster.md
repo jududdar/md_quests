@@ -2,6 +2,11 @@
 
 
 
+[Guard Shilster](/npc/13021) is a level 17 Human Shadow Knight that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 
 
 

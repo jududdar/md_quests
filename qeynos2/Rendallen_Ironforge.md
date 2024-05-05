@@ -1,6 +1,11 @@
 # Rendallen Ironforge
 
 
+
+[Rendallen Ironforge](/npc/2071) is a level 25 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

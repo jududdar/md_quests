@@ -1,4 +1,9 @@
-# Morgalanth Tal-Raeloen
+# Morgalanth Tal\`Raeloen
+
+
+
+[Morgalanth Tal\`Raeloen](/npc/41004) is a level 61 Dark Elf Magician that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

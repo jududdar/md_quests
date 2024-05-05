@@ -1,6 +1,11 @@
 # Dranom Ghenson
 
 
+
+[Dranom Ghenson](/npc/2095) is a level 42 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

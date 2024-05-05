@@ -1,4 +1,9 @@
-# Garzicor-s Wraith
+# Garzicor\`s Wraith
+
+
+
+[Garzicor\`s Wraith](/npc/123002) is a level 58 Dragon Shadow Knight that spawns in [Dragon Necropolis](/zone/123).
+
 
 
 ## On NPC Death

@@ -1,6 +1,11 @@
 # Hager Sureshot
 
 
+
+[Hager Sureshot](/npc/3032) is a level 61 Human GM Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *repeat* for 90 seconds

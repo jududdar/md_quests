@@ -1,6 +1,11 @@
 # Tyokan Mekase
 
 
+
+[Tyokan Mekase](/npc/2004) is a level 25 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

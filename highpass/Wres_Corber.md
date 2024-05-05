@@ -1,6 +1,11 @@
 # Wres Corber
 
 
+
+[Wres Corber](/npc/5052) is a level 34 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,6 +1,11 @@
 # Uglan
 
 
+
+[Uglan](/npc/40030) is a level 50 Ogre Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `hail`

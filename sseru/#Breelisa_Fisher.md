@@ -1,6 +1,11 @@
 # Breelisa Fisher
 
 
+
+[Breelisa Fisher](/npc/159058) is a level 46 Gnome Magician that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

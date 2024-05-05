@@ -1,4 +1,9 @@
 # a grotesque statue
+
+
+
+[a grotesque statue](/npc/221043) is a level 63 Nightmare Gargoyle Warrior that spawns in [The Lair of Terris Thule](/zone/221).
+
 local entityIDs = {};
 
 

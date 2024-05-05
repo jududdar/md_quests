@@ -1,6 +1,11 @@
 # Vornol Transon
 
 
+
+[Vornol Transon](/npc/170124) is a level 61 Erudite GM Magician that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

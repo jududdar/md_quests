@@ -1,6 +1,11 @@
 # pirate runners skiff
 
 
+
+[pirate runners skiff](/npc/843) is a level 60 Launch Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

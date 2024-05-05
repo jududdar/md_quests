@@ -1,6 +1,11 @@
 # a frost giant commoner
 
 
+
+[a frost giant commoner](/npc/113296) is a level 32 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

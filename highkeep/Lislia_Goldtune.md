@@ -2,6 +2,11 @@
 
 
 
+[Lislia Goldtune](/npc/6036) is a level 25 Human Bard that spawns in [High Keep](/zone/6).
+
+
+
+
 
 ## Dialog
 

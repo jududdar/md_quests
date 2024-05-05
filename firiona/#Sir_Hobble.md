@@ -1,6 +1,11 @@
 # Sir Hobble
 
 
+
+[Sir Hobble](/npc/84005) is a level 30 High Elf Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Dianna Dilsm
 
 
+
+[Dianna Dilsm](/npc/160163) is a level 35 Human Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

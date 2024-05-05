@@ -1,6 +1,11 @@
 # Galdon Vok Nir
 
 
+
+[Galdon Vok Nir](/npc/93147) is a level 15 Iksar Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

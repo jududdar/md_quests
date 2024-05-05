@@ -1,6 +1,11 @@
 # a thifling orator
 
 
+
+[a thifling orator](/npc/127041) is a level 56 Brownie Ranger that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *hum* for 180 seconds

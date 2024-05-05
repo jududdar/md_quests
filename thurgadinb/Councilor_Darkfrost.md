@@ -1,6 +1,11 @@
 # Councilor Darkfrost
 
 
+
+[Councilor Darkfrost](/npc/129078) is a level 47 Coldain Rogue that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

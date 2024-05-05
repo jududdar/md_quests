@@ -2,6 +2,11 @@
 
 
 
+[Veisha Fathomwalker](/npc/38021) is a level 25 Erudite Paladin that spawns in [Toxxulia Forest](/zone/38).
+
+
+
+
 
 ## Dialog
 

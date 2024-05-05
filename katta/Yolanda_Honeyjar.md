@@ -1,6 +1,11 @@
 # Yolanda Honeyjar
 
 
+
+[Yolanda Honeyjar](/npc/160241) is a level 35 Halfling Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

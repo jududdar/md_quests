@@ -1,6 +1,11 @@
 # Linfa Deepdark
 
 
+
+[Linfa Deepdark](/npc/159061) is a level 48 Halfling Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

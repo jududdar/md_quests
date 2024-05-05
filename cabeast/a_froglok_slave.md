@@ -1,6 +1,11 @@
 # a froglok slave
 
 
+
+[a froglok slave](/npc/66038) is a level 2 Froglok Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Turn-Ins
 
 

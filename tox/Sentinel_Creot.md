@@ -1,6 +1,11 @@
 # Sentinel Creot
 
 
+
+[Sentinel Creot](/npc/38053) is a level 30 Erudite Paladin that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Arrive at Waypoint Script
 
 if((e.wp == 1) or (e.wp == 3)) then

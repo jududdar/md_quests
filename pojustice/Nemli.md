@@ -2,6 +2,11 @@
 
 
 
+[Nemli](/npc/201357) is a level 46 Dwarf Rogue that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

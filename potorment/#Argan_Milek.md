@@ -1,6 +1,11 @@
 # Argan Milek
 
 
+
+[Argan Milek](/npc/207309) is a level 35 Erudite Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
+
+
 ## On NPC Spawn
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Tergon Brenclog](/npc/55133) is a level 61 Gnome GM Magician that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

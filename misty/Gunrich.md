@@ -1,6 +1,11 @@
 # Gunrich
 
 
+
+[Gunrich](/npc/33135) is a level 5 Goblin Warrior that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Dialog
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Savage Lord Dwev](/npc/202234) is a level 61 Ogre GM Beastlord that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

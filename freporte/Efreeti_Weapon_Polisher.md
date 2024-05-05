@@ -1,6 +1,11 @@
 # Efreeti Weapon Polisher
 
 
+
+[Efreeti Weapon Polisher](/npc/71657) is a level 55 Halfling Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

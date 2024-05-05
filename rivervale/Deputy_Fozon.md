@@ -1,6 +1,11 @@
 # Deputy Fozon
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

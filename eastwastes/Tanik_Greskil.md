@@ -2,6 +2,11 @@
 
 
 
+[Tanik Greskil](/npc/116010) is a level 40 Coldain Warrior that spawns in [Eastern Wastes](/zone/116).
+
+
+
+
 
 ## On NPC Spawn
 

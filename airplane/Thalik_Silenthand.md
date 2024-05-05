@@ -1,6 +1,11 @@
 # Thalik Silenthand
 
 
+
+[Thalik Silenthand](/npc/71051) is a level 55 Efreeti Warrior that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## Dialog
 
 **You say:** `hail`

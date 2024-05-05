@@ -1,6 +1,11 @@
 # Brother Drash
 
 
+
+[Brother Drash](/npc/14089) is a level 2 Gnoll Warrior that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## Dialog
 
 **You say:** `hail`

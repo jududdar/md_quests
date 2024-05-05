@@ -1,6 +1,11 @@
 # a grimling runner
 
 
+
+[a grimling runner](/npc/172060) is a level 34 Grimling Rogue that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1620 seconds

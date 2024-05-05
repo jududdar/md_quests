@@ -1,6 +1,11 @@
 # Nul Aleswiller
 
 
+
+[Nul Aleswiller](/npc/13065) is a level 35 Dwarf Warrior that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Terror](/npc/72002) is a level 55 Golem Warrior that spawns in [Plane of Fear](/zone/72).
+
+
+
+
 
 ## Signals
 

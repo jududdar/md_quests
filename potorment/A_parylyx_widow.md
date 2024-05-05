@@ -1,6 +1,11 @@
 # A parylyx widow
 
 
+
+[A parylyx widow](/npc/207320) is a level 64 Arachnid Warrior that spawns in [Torment, the Plane of Pain](/zone/207).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

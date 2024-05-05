@@ -1,6 +1,11 @@
 # Countess Silveana
 
 
+
+[Countess Silveana](/npc/119091) is a level 46 Pixie Druid that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

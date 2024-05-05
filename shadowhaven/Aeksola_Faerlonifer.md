@@ -1,6 +1,11 @@
 # Aeksola Faerlonifer
 
 
+
+[Aeksola Faerlonifer](/npc/150154) is a level 40 Erudite Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Raesha Dawneyes
 
 
+
+[Raesha Dawneyes](/npc/160259) is a level 35 Half Elf Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

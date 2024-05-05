@@ -2,6 +2,11 @@
 
 
 
+[Taldrik Stumpystout](/npc/37061) is a level 61 Dwarf GM Cleric that spawns in [Oasis of Marr](/zone/37).
+
+
+
+
 
 ## Dialog
 

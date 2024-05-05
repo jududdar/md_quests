@@ -2,6 +2,11 @@
 
 
 
+[The Idol of Rallos Zek](/npc/113341) is a level 66 Rallos Zek Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 ## On NPC Death
 

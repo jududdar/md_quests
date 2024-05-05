@@ -2,6 +2,11 @@
 
 
 
+[Dersino](/npc/160213) is a level 55 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

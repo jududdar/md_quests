@@ -1,6 +1,11 @@
 # Undogo Digolo
 
 
+
+[Undogo Digolo](/npc/127015) is a level 65 Totem Ranger that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Combat
 
 

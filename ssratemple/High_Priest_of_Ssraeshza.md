@@ -1,6 +1,11 @@
 # High Priest of Ssraeshza
 
 
+
+[High Priest of Ssraeshza](/npc/162076) is a level 66 Shissar Cleric that spawns in [Ssraeshza Temple](/zone/162).
+
+
+
 local ADD_TYPES = { 162115, 162112, 162114, 162113, 162121, 162119, 162122, 162120, 162118, 162116, 162117, 162111 };
 
 

@@ -1,6 +1,11 @@
 # a kejekan miner
 
 
+
+[a kejekan miner](/npc/100180) is a level 16 Kerran Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

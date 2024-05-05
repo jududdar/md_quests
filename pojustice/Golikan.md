@@ -2,6 +2,11 @@
 
 
 
+[Golikan](/npc/201339) is a level 44 Ghost Wizard that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

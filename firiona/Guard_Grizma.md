@@ -1,6 +1,11 @@
 # Guard Grizma
 
 
+
+[Guard Grizma](/npc/84150) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

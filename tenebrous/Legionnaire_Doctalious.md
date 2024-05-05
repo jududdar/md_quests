@@ -1,6 +1,11 @@
 # Legionnaire Doctalious
 
 
+
+[Legionnaire Doctalious](/npc/172077) is a level 38 Human Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## Dialog
 
 **You say:** `hail`

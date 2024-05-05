@@ -2,6 +2,11 @@
 
 
 
+[Roshawna Rhorer](/npc/160126) is a level 52 Vah Shir Shaman that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

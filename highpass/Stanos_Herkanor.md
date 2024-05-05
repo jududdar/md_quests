@@ -1,6 +1,11 @@
 # Stanos Herkanor
 
 
+
+[Stanos Herkanor](/npc/5088) is a level 65 Human Rogue that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 2000 seconds

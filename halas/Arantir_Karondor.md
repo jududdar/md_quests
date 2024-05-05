@@ -1,6 +1,11 @@
 # Arantir Karondor
 
 
+
+[Arantir Karondor](/npc/29089) is a level 60 Human Wizard that spawns in [Halas](/zone/29).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *ArantirDepop* for 640 seconds

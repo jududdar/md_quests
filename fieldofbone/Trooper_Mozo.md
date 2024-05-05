@@ -1,6 +1,11 @@
 # Trooper Mozo
 
 
+
+[Trooper Mozo](/npc/78076) is a level 50 Iksar Warrior that spawns in [Field of Bone](/zone/78).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Legionnaire Rodalek
 
 
+
+[Legionnaire Rodalek](/npc/159129) is a level 47 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

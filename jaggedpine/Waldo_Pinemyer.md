@@ -1,6 +1,11 @@
 # Waldo Pinemyer
 
 
+
+[Waldo Pinemyer](/npc/181114) is a level 57 Human Druid that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

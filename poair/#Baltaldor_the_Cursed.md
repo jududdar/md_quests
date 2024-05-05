@@ -1,6 +1,11 @@
 # Baltaldor the Cursed
 
 
+
+[Baltaldor the Cursed](/npc/215054) is a level 67 Stormrider Warrior that spawns in [Plane of Air](/zone/215).
+
+
+
 ## Combat
 
 if  Baltaldor the Cursed enters combat  then

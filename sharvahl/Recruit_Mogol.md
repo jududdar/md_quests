@@ -1,6 +1,11 @@
 # Recruit Mogol
 
 
+
+[Recruit Mogol](/npc/155132) is a level 20 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

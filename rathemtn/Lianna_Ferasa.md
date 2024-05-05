@@ -2,6 +2,11 @@
 
 
 
+[Lianna Ferasa](/npc/50262) is a level 10 Human Shopkeeper that spawns in [Rathe Mountains](/zone/50).
+
+
+
+
 
 ## Dialog
 

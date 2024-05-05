@@ -1,6 +1,11 @@
 # Robbolo Balashil
 
 
+
+[Robbolo Balashil](/npc/150267) is a level 30 Halfling Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Dogle Pitt
 
 
+
+[Dogle Pitt](/npc/202130) is a level 60 Halfling Banker that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

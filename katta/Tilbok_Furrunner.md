@@ -2,6 +2,11 @@
 
 
 
+[Tilbok Furrunner](/npc/160149) is a level 61 Halfling GM Rogue that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

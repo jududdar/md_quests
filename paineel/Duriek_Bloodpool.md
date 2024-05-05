@@ -2,6 +2,11 @@
 
 
 
+[Duriek Bloodpool](/npc/75003) is a level 55 Erudite Shadow Knight that spawns in [Paineel](/zone/75).
+
+
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then

@@ -1,6 +1,11 @@
 # an imprisoned grimling
 
 
+
+[an imprisoned grimling](/npc/167192) is a level 1 Grimling Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

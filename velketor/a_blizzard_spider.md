@@ -1,6 +1,11 @@
 # a blizzard spider
 
 
+
+[a blizzard spider](/npc/112000) is a level 45 Spider Warrior that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds

@@ -1,6 +1,11 @@
 # Brother Trintle
 
 
+
+[Brother Trintle](/npc/12057) is a level 4 Human Cleric that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

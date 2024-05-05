@@ -2,6 +2,11 @@
 
 
 
+[Warden Lius](/npc/23022) is a level 25 Erudite Paladin that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 ## Dialog
 

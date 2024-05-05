@@ -1,6 +1,11 @@
 # Guard Obyn
 
 
+
+[Guard Obyn](/npc/2106) is a level 8 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

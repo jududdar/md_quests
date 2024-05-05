@@ -1,6 +1,11 @@
 # Lish McMarrin
 
 
+
+[Lish McMarrin](/npc/30069) is a level 40 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

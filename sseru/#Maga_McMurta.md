@@ -1,6 +1,11 @@
 # Maga McMurta
 
 
+
+[Maga McMurta](/npc/159433) is a level 44 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

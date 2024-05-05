@@ -2,6 +2,11 @@
 
 
 
+[Librarian Rushal](/npc/201226) is a level 46 Iksar Spirit Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

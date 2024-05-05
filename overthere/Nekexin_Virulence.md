@@ -1,6 +1,11 @@
 # Nekexin Virulence
 
 
+
+[Nekexin Virulence](/npc/93043) is a level 60 Gnome Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 1800 seconds

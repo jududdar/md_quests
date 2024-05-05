@@ -1,6 +1,11 @@
 # Dooly Jonkers
 
 
+
+[Dooly Jonkers](/npc/9076) is a level 61 Gnome GM Magician that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sentry Gallius
 
 
+
+[Sentry Gallius](/npc/8055) is a level 35 Human Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

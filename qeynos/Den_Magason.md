@@ -1,6 +1,11 @@
 # Den Magason
 
 
+
+[Den Magason](/npc/1153) is a level 3 Human Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 16 or e.wp == 43 or e.wp == 70) then

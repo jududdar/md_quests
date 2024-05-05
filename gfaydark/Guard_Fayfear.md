@@ -1,6 +1,11 @@
 # Guard Fayfear
 
 
+
+[Guard Fayfear](/npc/54096) is a level 50 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `soldiers`

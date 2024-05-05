@@ -1,6 +1,11 @@
 # Defender Rogalo
 
 
+
+[Defender Rogalo](/npc/150001) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

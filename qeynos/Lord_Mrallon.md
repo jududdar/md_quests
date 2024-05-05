@@ -1,6 +1,11 @@
 # Lord Mrallon
 
 
+
+[Lord Mrallon](/npc/1029) is a level 60 Human Paladin that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `tale`

@@ -1,6 +1,11 @@
 # an elven slave
 
 
+
+[an elven slave](/npc/58049) is a level 1 Wood Elf Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Dialog
 
 **You say:** `hail`

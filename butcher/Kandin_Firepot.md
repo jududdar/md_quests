@@ -1,6 +1,11 @@
 # Kandin Firepot
 
 
+
+[Kandin Firepot](/npc/68109) is a level 54 Gnome Magician that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Clockwork XXB
 
 
+
+[Clockwork XXB](/npc/55199) is a level 28 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

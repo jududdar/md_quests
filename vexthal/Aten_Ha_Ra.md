@@ -1,4 +1,9 @@
 # Aten Ha Ra
+
+
+
+[Aten Ha Ra](/npc/158436) is a level 66 Akheva Warrior that spawns in [Vex Thal](/zone/158).
+
 local WARDER_TYPES = { 158418, 158409, 158405, 158399, 158393 };
 
 local checks = 0;

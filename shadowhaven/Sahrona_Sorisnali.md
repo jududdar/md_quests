@@ -1,6 +1,11 @@
 # Sahrona Sorisnali
 
 
+
+[Sahrona Sorisnali](/npc/150148) is a level 40 Erudite Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

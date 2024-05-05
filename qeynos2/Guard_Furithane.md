@@ -1,6 +1,11 @@
 # Guard Furithane
 
 
+
+[Guard Furithane](/npc/2116) is a level 8 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

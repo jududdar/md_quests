@@ -1,6 +1,11 @@
 # Lyda Nasin
 
 
+
+[Lyda Nasin](/npc/10193) is a level 2 Human Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

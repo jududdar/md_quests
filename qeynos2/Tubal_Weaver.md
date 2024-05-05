@@ -1,6 +1,11 @@
 # Tubal Weaver
 
 
+
+[Tubal Weaver](/npc/2062) is a level 14 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 2 seconds

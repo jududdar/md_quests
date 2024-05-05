@@ -1,4 +1,9 @@
-# Jayna D-Bious
+# Jayna D\`Bious
+
+
+
+[Jayna D\`Bious](/npc/41054) is a level 61 Dark Elf GM Magician that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Turn-Ins

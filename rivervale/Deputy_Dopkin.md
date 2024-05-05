@@ -1,6 +1,11 @@
 # Deputy Dopkin
 
 
+
+[Deputy Dopkin](/npc/19073) is a level 33 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

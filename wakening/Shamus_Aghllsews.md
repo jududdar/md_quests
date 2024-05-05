@@ -1,6 +1,11 @@
 # Shamus Aghllsews
 
 
+
+[Shamus Aghllsews](/npc/119080) is a level 60 Yakkar Rogue that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

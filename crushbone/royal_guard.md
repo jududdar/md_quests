@@ -1,6 +1,11 @@
 # royal guard
 
 
+
+[royal guard](/npc/58030) is a level 15 Orc Rogue that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if royal guard enters combat  then

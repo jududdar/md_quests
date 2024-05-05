@@ -1,6 +1,11 @@
 # Sal Drana
 
 
+
+[Sal Drana](/npc/40066) is a level 40 Human Shopkeeper that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

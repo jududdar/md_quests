@@ -1,6 +1,11 @@
 # Basher Kumek
 
 
+
+[Basher Kumek](/npc/52010) is a level 38 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

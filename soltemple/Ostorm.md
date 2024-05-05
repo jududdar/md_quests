@@ -2,6 +2,11 @@
 
 
 
+[Ostorm](/npc/80013) is a level 34 Erudite Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 
 ## Dialog

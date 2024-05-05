@@ -1,6 +1,11 @@
 # Grudash the Baker
 
 
+
+[Grudash the Baker](/npc/114467) is a level 44 Golem Shopkeeper that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

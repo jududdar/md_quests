@@ -1,6 +1,11 @@
 # Barrith the Brave
 
 
+
+[Barrith the Brave](/npc/60046) is a level 61 Dwarf Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # House Watch Dunvel
 
 
+
+[House Watch Dunvel](/npc/150205) is a level 40 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Marl Kastane](/npc/90016) is a level 60 Human Shadow Knight that spawns in [The City of Mist](/zone/90).
+
+
+
+
 ## On NPC Spawn
 
 

@@ -1,6 +1,11 @@
 # Crew Chief Grinn
 
 
+
+[Crew Chief Grinn](/npc/153070) is a level 35 Dwarf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Wislen Mamluk
 
 
+
+[Wislen Mamluk](/npc/74005) is a level 14 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

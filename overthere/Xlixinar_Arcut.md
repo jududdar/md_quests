@@ -1,6 +1,11 @@
 # Xlixinar Arcut
 
 
+
+[Xlixinar Arcut](/npc/93090) is a level 50 Scorpion Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Guard Bossamir
 
 
+
+[Guard Bossamir](/npc/181195) is a level 28 Human Paladin that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

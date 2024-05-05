@@ -1,4 +1,9 @@
-# Dragoon T-Vex
+# Dragoon T\`Vex
+
+
+
+[Dragoon T\`Vex](/npc/93084) is a level 50 Dark Elf Warrior that spawns in [The Overthere](/zone/93).
+
 
 
 ## Signals

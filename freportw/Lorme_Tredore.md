@@ -1,6 +1,11 @@
 # Lorme Tredore
 
 
+
+[Lorme Tredore](/npc/9078) is a level 61 Human GM Magician that spawns in [West Freeport](/zone/9).
+
+
+
 ## Turn-Ins
 
 

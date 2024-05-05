@@ -1,6 +1,11 @@
 # Hoober
 
 
+
+[Hoober](/npc/172009) is a level 29 Human Shopkeeper that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## On NPC Spawn
 
 eq.set_timer("chat",math.random(96000,480000));

@@ -2,6 +2,11 @@
 
 
 
+[Mistala Glimmerblade](/npc/150090) is a level 55 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
+
 
 ## Dialog
 

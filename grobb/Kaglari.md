@@ -2,6 +2,11 @@
 
 
 
+[Kaglari](/npc/52041) is a level 61 Troll GM Shaman that spawns in [Grobb](/zone/52).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

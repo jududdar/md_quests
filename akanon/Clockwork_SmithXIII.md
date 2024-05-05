@@ -1,6 +1,11 @@
 # Clockwork SmithXIII
 
 
+
+[Clockwork SmithXIII](/npc/55021) is a level 40 Clockwork Gnome Shopkeeper that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Turn-Ins
 
 

@@ -1,6 +1,11 @@
 # Astaed Wemor
 
 
+
+[Astaed Wemor](/npc/2100) is a level 61 Human GM Paladin that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

@@ -1,6 +1,11 @@
 # Ulrich McMannus
 
 
+
+[Ulrich McMannus](/npc/12092) is a level 30 Barbarian Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

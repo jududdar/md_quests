@@ -1,6 +1,11 @@
 # River Mudhands
 
 
+
+[River Mudhands](/npc/150143) is a level 30 Halfling Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

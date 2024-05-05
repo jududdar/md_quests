@@ -2,6 +2,11 @@
 
 
 
+[Niblek](/npc/103125) is a level 10 Ratman Warrior that spawns in [Chardok](/zone/103).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Altunic Jartin
 
 
+
+[Altunic Jartin](/npc/22069) is a level 20 Human Shopkeeper that spawns in [East Commonlands](/zone/22).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 2) then

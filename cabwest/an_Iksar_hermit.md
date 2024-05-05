@@ -1,6 +1,11 @@
 # an Iksar hermit
 
 
+
+[an Iksar hermit](/npc/82040) is a level 61 Iksar GM Necromancer that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `hail`

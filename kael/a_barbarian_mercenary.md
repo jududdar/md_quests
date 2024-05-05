@@ -1,6 +1,11 @@
 # a barbarian mercenary
 
 
+
+[a barbarian mercenary](/npc/113117) is a level 38 Barbarian Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

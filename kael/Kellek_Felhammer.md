@@ -1,6 +1,11 @@
 # Kellek Felhammer
 
 
+
+[Kellek Felhammer](/npc/113150) is a level 60 Giant Shopkeeper that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Guard Jure
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `armor`

@@ -1,6 +1,11 @@
 # Guard Lancel
 
 
+
+[Guard Lancel](/npc/6154) is a level 23 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

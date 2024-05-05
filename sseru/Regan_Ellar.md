@@ -1,6 +1,11 @@
 # Regan Ellar
 
 
+
+[Regan Ellar](/npc/159107) is a level 40 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

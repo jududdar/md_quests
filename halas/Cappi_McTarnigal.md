@@ -1,6 +1,11 @@
 # Cappi McTarnigal
 
 
+
+[Cappi McTarnigal](/npc/29071) is a level 61 Barbarian GM Rogue that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

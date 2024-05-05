@@ -1,6 +1,11 @@
 # Lord Prismwing
 
 
+
+[Lord Prismwing](/npc/119011) is a level 44 Drixie Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

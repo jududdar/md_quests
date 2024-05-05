@@ -1,6 +1,11 @@
 # a hermit
 
 
+
+[a hermit](/npc/14064) is a level 20 Human Ranger that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
 ## Dialog
 
 **You say:** `hail`

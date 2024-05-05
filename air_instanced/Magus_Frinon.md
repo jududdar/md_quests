@@ -1,6 +1,11 @@
 # Magus Frinon
 
 
+
+[Magus Frinon](/npc/71050) is a level 55 Efreeti Warrior that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

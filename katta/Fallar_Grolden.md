@@ -1,6 +1,11 @@
 # Fallar Grolden
 
 
+
+[Fallar Grolden](/npc/160181) is a level 35 Human Shopkeeper that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

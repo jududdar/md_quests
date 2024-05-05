@@ -2,6 +2,11 @@
 
 
 
+[Ssynthi](/npc/59154) is a level 24 Invisible Man Wizard that spawns in [Castle of Mistmoore](/zone/59).
+
+
+
+
 
 ## Dialog
 

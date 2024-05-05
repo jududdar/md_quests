@@ -1,6 +1,11 @@
 # SirensBane
 
 
+
+[SirensBane](/npc/771) is a level 50 Ship Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

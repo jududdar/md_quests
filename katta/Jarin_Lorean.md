@@ -2,6 +2,11 @@
 
 
 
+[Jarin Lorean](/npc/160262) is a level 35 Human Rogue that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

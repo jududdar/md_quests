@@ -1,6 +1,11 @@
 # Verte
 
 
+
+[Verte](/npc/150173) is a level 30 Human Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Arrive at Waypoint Script
 
 if (e.wp == 1) then

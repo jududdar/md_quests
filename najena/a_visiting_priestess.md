@@ -2,6 +2,11 @@
 
 
 
+[a visiting priestess](/npc/44107) is a level 30 Dark Elf Cleric that spawns in [Najena](/zone/44).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Charlotte Diggs
 
 
+
+[Charlotte Diggs](/npc/19106) is a level 35 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *pick_up* for 100 seconds

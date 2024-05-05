@@ -1,4 +1,9 @@
 # A Myrmidon of Stone
+
+
+
+[A Myrmidon of Stone](/npc/222008) is a level 66 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
 local INVIS_MAN_ID = 369489;
 local AWISANO_TYPE = 222037;
 local AWISANO_SPAWNID = 369492;

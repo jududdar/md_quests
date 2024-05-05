@@ -2,6 +2,11 @@
 
 
 
+[Trilani Parlone](/npc/23020) is a level 45 High Elf Enchanter that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 
 ## Dialog

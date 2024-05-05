@@ -2,6 +2,11 @@
 
 
 
+[an Iksar master](/npc/96002) is a level 61 Iksar GM Monk that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

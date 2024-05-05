@@ -1,6 +1,11 @@
 # Scout Eyru
 
 
+
+[Scout Eyru](/npc/83046) is a level 15 Vah Shir Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

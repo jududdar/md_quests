@@ -1,4 +1,9 @@
-# Guard T-Kix
+# Guard T\`Kix
+
+
+
+[Guard T\`Kix](/npc/41111) is a level 40 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

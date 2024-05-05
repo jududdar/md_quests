@@ -1,4 +1,9 @@
-# Teir-Dal Mercenary
+# Teir\`Dal Mercenary
+
+
+
+[Teir\`Dal Mercenary](/npc/119109) is a level 34 Dark Elf Necromancer that spawns in [The Wakening Land](/zone/119).
+
 
 
 ## Dialog

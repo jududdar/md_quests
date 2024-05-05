@@ -1,6 +1,11 @@
 # Ailerina the Gentle
 
 
+
+[Ailerina the Gentle](/npc/84205) is a level 61 High Elf Enchanter that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

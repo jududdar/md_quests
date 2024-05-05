@@ -1,6 +1,11 @@
 # Meisa Valk
 
 
+
+[Meisa Valk](/npc/159496) is a level 43 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

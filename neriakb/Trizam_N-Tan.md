@@ -1,4 +1,9 @@
-# Trizam N-Tan
+# Trizam N\`Tan
+
+
+
+[Trizam N\`Tan](/npc/41065) is a level 61 Dark Elf GM Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Guard Anleal
 
 
+
+[Guard Anleal](/npc/6163) is a level 28 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

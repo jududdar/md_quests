@@ -1,6 +1,11 @@
 # Bubbgrib
 
 
+
+[Bubbgrib](/npc/49054) is a level 50 Ogre Shopkeeper that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

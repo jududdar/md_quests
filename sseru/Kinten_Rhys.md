@@ -1,6 +1,11 @@
 # Kinten Rhys
 
 
+
+[Kinten Rhys](/npc/159380) is a level 52 Dwarf Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

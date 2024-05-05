@@ -1,6 +1,11 @@
 # Katja
 
 
+
+[Katja](/npc/155249) is a level 17 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

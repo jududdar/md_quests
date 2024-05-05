@@ -1,6 +1,11 @@
 # Phenocryst
 
 
+
+[Phenocryst](/npc/119024) is a level 58 Geonid Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 if( **Faction is** >= Indifferent) then

@@ -1,4 +1,9 @@
-# A tortured soul
+# a tortured soul
+
+
+
+[a tortured soul](/npc/51144) is a level 55 Undead Iksar Warrior that spawns in [Drunder, the Fortress of Zek](/zone/214).
+
 local SPAWN_LOCS = {
 
 { 683, 941, -217 },

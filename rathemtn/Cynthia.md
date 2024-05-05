@@ -2,6 +2,11 @@
 
 
 
+[Cynthia](/npc/50268) is a level 30 Human Wizard that spawns in [Rathe Mountains](/zone/50).
+
+
+
+
 
 ## Dialog
 

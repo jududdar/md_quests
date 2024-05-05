@@ -1,6 +1,11 @@
 # Arx Guardian Truefoot
 
 
+
+[Arx Guardian Truefoot](/npc/159582) is a level 44 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

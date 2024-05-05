@@ -1,6 +1,11 @@
 # a giant rat
 
 
+
+[a giant rat](/npc/4036) is a level 4 Rat Warrior that spawns in [Befallen](/zone/36).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 55 or e.wp == 117) then

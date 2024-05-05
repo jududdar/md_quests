@@ -2,6 +2,11 @@
 
 
 
+[Shmendrik Lavawalker](/npc/51012) is a level 30 Human Cleric that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 ## Dialog
 

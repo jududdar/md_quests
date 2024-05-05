@@ -1,6 +1,11 @@
 # Princess Lenya
 
 
+
+[Princess Lenya](/npc/6572) is a level 25 High Elf Cleric that spawns in [High Keep](/zone/6).
+
+
+
 ## Timer(s)
 
 if(e.timer == "lenyadepop") then

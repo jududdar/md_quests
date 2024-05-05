@@ -1,6 +1,11 @@
 # Starzin the Sweet One
 
 
+
+[Starzin the Sweet One](/npc/26025) is a level 60 Wood Elf Shopkeeper that spawns in [Sunset Home](/zone/1503).
+
+
+
 ## Dialog
 
 **You say:** `hail`

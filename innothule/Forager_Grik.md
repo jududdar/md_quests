@@ -1,6 +1,11 @@
 # Forager Grik
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

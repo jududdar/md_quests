@@ -1,6 +1,11 @@
 # Captain Rohand
 
 
+
+[Captain Rohand](/npc/1101) is a level 50 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

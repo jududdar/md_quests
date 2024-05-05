@@ -1,6 +1,11 @@
 # Datur Nightseer
 
 
+
+[Datur Nightseer](/npc/67029) is a level 61 Dwarf GM Paladin that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

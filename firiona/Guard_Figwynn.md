@@ -1,6 +1,11 @@
 # Guard Figwynn
 
 
+
+[Guard Figwynn](/npc/84135) is a level 50 Guard Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

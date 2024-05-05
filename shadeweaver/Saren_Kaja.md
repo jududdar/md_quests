@@ -2,6 +2,11 @@
 
 
 
+[Saren Kaja](/npc/165158) is a level 30 Vah Shir Shopkeeper that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

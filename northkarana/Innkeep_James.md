@@ -1,6 +1,11 @@
 # Innkeep James
 
 
+
+[Innkeep James](/npc/13074) is a level 30 Human Shopkeeper that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## Dialog
 
 **You say:** `hail`

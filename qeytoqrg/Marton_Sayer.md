@@ -1,6 +1,11 @@
 # Marton Sayer
 
 
+
+[Marton Sayer](/npc/4065) is a level 30 Human Shopkeeper that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

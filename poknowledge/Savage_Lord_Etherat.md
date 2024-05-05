@@ -2,6 +2,11 @@
 
 
 
+[Savage Lord Etherat](/npc/202235) is a level 61 Vah Shir GM Beastlord that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

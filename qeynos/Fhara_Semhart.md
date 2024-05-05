@@ -1,6 +1,11 @@
 # Fhara Semhart
 
 
+
+[Fhara Semhart](/npc/1109) is a level 45 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `tax`

@@ -2,6 +2,11 @@
 
 
 
+[Brother Balatin](/npc/86136) is a level 28 Skeleton Monk that spawns in [The Dreadlands](/zone/86).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

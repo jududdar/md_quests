@@ -1,6 +1,11 @@
 # Askr the Lost
 
 
+
+[Askr the Lost](/npc/209052) is a level 60 Half Elf Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Dialog
 
 

@@ -2,6 +2,11 @@
 
 
 
+[Scribe Cholsa](/npc/155095) is a level 45 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 
 ## Dialog
 

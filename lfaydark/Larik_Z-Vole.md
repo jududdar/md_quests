@@ -1,4 +1,9 @@
-# Larik Z-Vole
+# Larik Z\`Vole
+
+
+
+[Larik Z\`Vole](/npc/57115) is a level 17 Dark Elf Necromancer that spawns in [Lesser Faydark](/zone/57).
+
 
 
 ## Turn-Ins

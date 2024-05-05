@@ -1,6 +1,11 @@
 # Mavuin
 
 
+
+[Mavuin](/npc/201081) is a level 60 High Elf Enchanter that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self, e.other);

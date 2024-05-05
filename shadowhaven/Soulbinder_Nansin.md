@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Nansin](/npc/150310) is a level 1 Human Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
+
 
 ## Dialog
 

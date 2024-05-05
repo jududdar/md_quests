@@ -1,6 +1,11 @@
 # Nerdala Darkcloud
 
 
+
+[Nerdala Darkcloud](/npc/181165) is a level 25 Human Shopkeeper that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

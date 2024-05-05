@@ -1,6 +1,11 @@
 # Ooglyn
 
 
+
+[Ooglyn](/npc/98009) is a level 45 Ogre Shaman that spawns in [Erud's Crossing](/zone/98).
+
+
+
 ## Dialog
 
 **You say:** `hail`

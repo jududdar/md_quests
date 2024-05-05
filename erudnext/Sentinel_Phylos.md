@@ -1,6 +1,11 @@
 # Sentinel Phylos
 
 
+
+[Sentinel Phylos](/npc/24077) is a level 30 Erudite Paladin that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `kerra isle`

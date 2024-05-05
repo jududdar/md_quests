@@ -1,4 +1,9 @@
-# Peachy D-Vicci
+# Peachy D\`Vicci
+
+
+
+[Peachy D\`Vicci](/npc/126171) is a level 48 Halfling Cleric that spawns in [Plane of Mischief](/zone/126).
+
 
 
 ## Dialog

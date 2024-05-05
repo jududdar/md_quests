@@ -1,6 +1,11 @@
 # Mandla Klolp
 
 
+
+[Mandla Klolp](/npc/115064) is a level 34 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Jeremy Leafrunner](/npc/181090) is a level 25 Half Elf Ranger that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 ## Dialog
 

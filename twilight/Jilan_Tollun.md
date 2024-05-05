@@ -1,6 +1,11 @@
 # Jilan Tollun
 
 
+
+[Jilan Tollun](/npc/170148) is a level 35 Human Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

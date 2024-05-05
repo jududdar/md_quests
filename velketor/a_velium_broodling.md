@@ -1,6 +1,11 @@
 # a velium broodling
 
 
+
+[a velium broodling](/npc/112027) is a level 48 Spider Rogue that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *loot* for 1 seconds

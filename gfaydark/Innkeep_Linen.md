@@ -1,6 +1,11 @@
 # Innkeep Linen
 
 
+
+[Innkeep Linen](/npc/54148) is a level 40 Guard Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

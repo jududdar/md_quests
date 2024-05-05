@@ -1,6 +1,11 @@
 # Zyle Bensmill
 
 
+
+[Zyle Bensmill](/npc/69092) is a level 13 Half Elf Rogue that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 4) then

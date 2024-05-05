@@ -1,6 +1,11 @@
 # Kargek Redblade
 
 
+
+[Kargek Redblade](/npc/10117) is a level 50 Human Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

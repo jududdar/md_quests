@@ -1,6 +1,11 @@
 # Nifta
 
 
+
+[Nifta](/npc/98037) is a level 15 Kerran Warrior that spawns in [Erud's Crossing](/zone/98).
+
+
+
 ## Dialog
 
 **You say:** `lights glory`

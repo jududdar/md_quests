@@ -1,6 +1,11 @@
 # Kobot Dellin
 
 
+
+[Kobot Dellin](/npc/12165) is a level 4 Human Paladin that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

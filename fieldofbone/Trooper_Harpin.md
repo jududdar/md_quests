@@ -1,6 +1,11 @@
 # Trooper Harpin
 
 
+
+[Trooper Harpin](/npc/78074) is a level 50 Iksar Warrior that spawns in [Field of Bone](/zone/78).
+
+
+
 ## Dialog
 
 **You say:** `hail`

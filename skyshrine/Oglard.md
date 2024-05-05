@@ -1,6 +1,11 @@
 # Oglard
 
 
+
+[Oglard](/npc/114622) is a level 65 Wurm Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 if( **Faction is** > Warmly) then

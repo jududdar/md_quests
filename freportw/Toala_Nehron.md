@@ -1,6 +1,11 @@
 # Toala Nehron
 
 
+
+[Toala Nehron](/npc/9091) is a level 61 Human GM Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

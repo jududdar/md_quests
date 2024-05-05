@@ -2,6 +2,11 @@
 
 
 
+[Priestess Tarafol](/npc/153039) is a level 30 High Elf Cleric that spawns in [Echo Caverns](/zone/153).
+
+
+
+
 
 ## Dialog
 

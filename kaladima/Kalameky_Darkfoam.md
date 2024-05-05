@@ -1,6 +1,11 @@
 # Kalameky Darkfoam
 
 
+
+[Kalameky Darkfoam](/npc/60078) is a level 42 Dwarf Shopkeeper that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Turn-Ins
 
 

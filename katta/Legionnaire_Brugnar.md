@@ -1,6 +1,11 @@
 # Legionnaire Brugnar
 
 
+
+[Legionnaire Brugnar](/npc/160287) is a level 42 Dwarf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

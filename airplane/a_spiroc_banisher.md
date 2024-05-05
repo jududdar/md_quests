@@ -1,4 +1,9 @@
 # a spiroc banisher
+
+
+
+[a spiroc banisher](/npc/71007) is a level 52 Aviak Ranger that spawns in [Plane of Sky](/zone/71).
+
 local arrive = false;
 
 

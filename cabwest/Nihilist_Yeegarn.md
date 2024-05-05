@@ -1,6 +1,11 @@
 # Nihilist Yeegarn
 
 
+
+[Nihilist Yeegarn](/npc/82027) is a level 50 Iksar Shadow Knight that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

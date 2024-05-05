@@ -2,6 +2,11 @@
 
 
 
+[Davorre Bloodthorn](/npc/75110) is a level 61 Erudite GM Shadow Knight that spawns in [Paineel](/zone/75).
+
+
+
+
 
 
 ## Dialog

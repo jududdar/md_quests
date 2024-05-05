@@ -1,6 +1,11 @@
 # a minnow
 
 
+
+[a minnow](/npc/8000) is a level 1 Piranha Warrior that spawns in [North Freeport](/zone/8).
+
+
+
 ## Turn-Ins
 
 

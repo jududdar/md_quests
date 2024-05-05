@@ -1,6 +1,11 @@
 # Pungla
 
 
+
+[Pungla](/npc/40088) is a level 15 Ogre Warrior that spawns in [Neriak - Foreign Quarter](/zone/40).
+
+
+
 ## Dialog
 
 **You say:** `hail`

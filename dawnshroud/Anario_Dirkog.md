@@ -1,6 +1,11 @@
 # Anario Dirkog
 
 
+
+[Anario Dirkog](/npc/174082) is a level 44 High Elf Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

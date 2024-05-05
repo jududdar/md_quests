@@ -2,6 +2,11 @@
 
 
 
+[an Iksar crusader](/npc/106301) is a level 30 Iksar Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## On NPC Spawn
 

@@ -1,6 +1,11 @@
 # Amscray the Historian
 
 
+
+[Amscray the Historian](/npc/153046) is a level 35 Gnome Wizard that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

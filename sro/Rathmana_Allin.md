@@ -2,6 +2,11 @@
 
 
 
+[Rathmana Allin](/npc/35056) is a level 49 Erudite Shopkeeper that spawns in [Southern Desert of Ro](/zone/35).
+
+
+
+
 
 ## Dialog
 

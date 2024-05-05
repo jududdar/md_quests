@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Tardon](/npc/84206) is a level 1 Human Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

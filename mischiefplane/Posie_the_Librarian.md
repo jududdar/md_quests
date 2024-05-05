@@ -1,6 +1,11 @@
 # Posie the Librarian
 
 
+
+[Posie the Librarian](/npc/126215) is a level 55 Man-Eating Plant Enchanter that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 **You say:** `hail`

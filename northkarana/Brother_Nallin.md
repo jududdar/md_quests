@@ -1,6 +1,11 @@
 # Brother Nallin
 
 
+
+[Brother Nallin](/npc/13049) is a level 31 Human Cleric that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
 ## Dialog
 
 **You say:** `hail`

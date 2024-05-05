@@ -1,6 +1,11 @@
 # a wandering spirit
 
 
+
+[a wandering spirit](/npc/12083) is a level 25 Will-O-Wisp Shaman that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

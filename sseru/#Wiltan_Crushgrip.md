@@ -1,6 +1,11 @@
 # Wiltan Crushgrip
 
 
+
+[Wiltan Crushgrip](/npc/159062) is a level 48 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Deputy Zopo
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

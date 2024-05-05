@@ -1,6 +1,11 @@
 # Sulgar
 
 
+
+[Sulgar](/npc/30065) is a level 50 Human Wizard that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Dialog
 
 **You say:** `hail`

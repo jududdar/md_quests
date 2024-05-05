@@ -1,6 +1,11 @@
 # Jemoz Lerkarson
 
 
+
+[Jemoz Lerkarson](/npc/8049) is a level 61 Human GM Cleric that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

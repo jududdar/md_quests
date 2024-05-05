@@ -1,6 +1,11 @@
 # Lendel Deeppockets
 
 
+
+[Lendel Deeppockets](/npc/19062) is a level 61 Halfling GM Rogue that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

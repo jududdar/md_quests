@@ -1,6 +1,11 @@
 # Watcher Quen
 
 
+
+[Watcher Quen](/npc/159520) is a level 51 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

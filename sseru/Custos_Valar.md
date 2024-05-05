@@ -1,6 +1,11 @@
 # Custos Valar
 
 
+
+[Custos Valar](/npc/159373) is a level 66 Half Elf GM Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

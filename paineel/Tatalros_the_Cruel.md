@@ -1,6 +1,11 @@
 # Tatalros the Cruel
 
 
+
+[Tatalros the Cruel](/npc/75114) is a level 61 Skeleton Shadow Knight that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

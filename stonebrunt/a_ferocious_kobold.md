@@ -1,6 +1,11 @@
 # a ferocious kobold
 
 
+
+[a ferocious kobold](/npc/100045) is a level 17 Kobold Warrior that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

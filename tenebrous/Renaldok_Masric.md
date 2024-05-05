@@ -2,6 +2,11 @@
 
 
 
+[Renaldok Masric](/npc/172062) is a level 50 Vampire Wizard that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
+
 
 
 ## Dialog

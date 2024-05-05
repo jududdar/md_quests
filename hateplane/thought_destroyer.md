@@ -1,4 +1,9 @@
 # thought destroyer
+
+
+
+[thought destroyer](/npc/76387) is a level 55 Zombie Bard that spawns in [Plane of Hate](/zone/76).
+
 function event_spawn(event)
 
 **Set a timer** named *depop* for 1200 seconds

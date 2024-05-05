@@ -1,4 +1,9 @@
-# Hetha V-Syph
+# Hetha V\`Syph
+
+
+
+[Hetha V\`Syph](/npc/25112) is a level 15 Dark Elf Warrior that spawns in [Nektulos Forest](/zone/25).
+
 
 
 ## Dialog

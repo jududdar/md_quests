@@ -2,6 +2,11 @@
 
 
 
+[Jylian Frostshade](/npc/159419) is a level 65 High Elf Wizard that spawns in [Sanctus Seru](/zone/159).
+
+
+
+
 
 ## Dialog
 

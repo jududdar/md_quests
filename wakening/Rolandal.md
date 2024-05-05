@@ -1,6 +1,11 @@
 # Rolandal
 
 
+
+[Rolandal](/npc/119104) is a level 60 Dragon Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

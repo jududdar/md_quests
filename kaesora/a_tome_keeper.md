@@ -2,6 +2,11 @@
 
 
 
+[a tome keeper](/npc/88047) is a level 40 Iksar Spirit Warrior that spawns in [Kaesora](/zone/88).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

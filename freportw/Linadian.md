@@ -1,6 +1,11 @@
 # Linadian
 
 
+
+[Linadian](/npc/9011) is a level 40 Wood Elf Shopkeeper that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

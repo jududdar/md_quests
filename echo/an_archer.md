@@ -1,6 +1,11 @@
 # an archer
 
 
+
+[an archer](/npc/153047) is a level 45 Half Elf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

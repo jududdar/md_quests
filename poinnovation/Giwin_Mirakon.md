@@ -2,6 +2,11 @@
 
 
 
+[Giwin Mirakon](/npc/206038) is a level 60 Gnome Warrior that spawns in [Plane of Innovation](/zone/206).
+
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.other);

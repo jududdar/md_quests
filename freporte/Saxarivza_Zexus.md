@@ -1,6 +1,11 @@
 # Saxarivza Zexus
 
 
+
+[Saxarivza Zexus](/npc/10185) is a level 40 Dark Elf Cleric that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

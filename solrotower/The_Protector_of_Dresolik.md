@@ -1,6 +1,11 @@
 # The Protector of Dresolik
 
 
+
+[The Protector of Dresolik](/npc/212408) is a level 75 Giant Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212414) at (**y:** 1449, **x:** 166)

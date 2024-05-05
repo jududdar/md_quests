@@ -1,6 +1,11 @@
 # Armorer Jaeron
 
 
+
+[Armorer Jaeron](/npc/159261) is a level 60 Barbarian Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

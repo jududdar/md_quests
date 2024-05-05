@@ -1,6 +1,11 @@
 # Dilche Orlezcha
 
 
+
+[Dilche Orlezcha](/npc/75105) is a level 50 Erudite Shopkeeper that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

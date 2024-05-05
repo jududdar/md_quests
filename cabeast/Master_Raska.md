@@ -1,6 +1,11 @@
 # Master Raska
 
 
+
+[Master Raska](/npc/106098) is a level 61 Iksar GM Monk that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Unsar Koldhagon
 
 
+
+[Unsar Koldhagon](/npc/1057) is a level 61 Human GM Enchanter that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

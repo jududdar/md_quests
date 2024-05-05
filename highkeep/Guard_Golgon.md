@@ -1,6 +1,11 @@
 # Guard Golgon
 
 
+
+[Guard Golgon](/npc/6107) is a level 23 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

@@ -2,6 +2,11 @@
 
 
 
+[Hierophant Trilawyth](/npc/202240) is a level 61 Wood Elf GM Druid that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

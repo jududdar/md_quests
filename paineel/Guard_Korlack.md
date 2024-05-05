@@ -1,6 +1,11 @@
 # Guard Korlack
 
 
+
+[Guard Korlack](/npc/75041) is a level 15 Skeleton Warrior that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Amiable then

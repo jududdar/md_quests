@@ -1,6 +1,11 @@
 # Keeper Pain
 
 
+
+[Keeper Pain](/npc/82034) is a level 30 Iksar Shopkeeper that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Toresian Fhabel](/npc/23073) is a level 61 Erudite GM Enchanter that spawns in [Erudin Palace](/zone/23).
+
+
+
+
 
 ## Dialog
 

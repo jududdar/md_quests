@@ -1,6 +1,11 @@
 # Esdia Moeba
 
 
+
+[Esdia Moeba](/npc/1058) is a level 61 Human GM Enchanter that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 local enchant_bars_lib = require("self_found_enchant_bars");

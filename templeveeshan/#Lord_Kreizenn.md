@@ -2,6 +2,11 @@
 
 
 
+[Lord Kreizenn](/npc/124074) is a level 66 Dragon Monk that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## On NPC Spawn
 

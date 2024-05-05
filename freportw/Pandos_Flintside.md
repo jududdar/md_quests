@@ -1,4 +1,9 @@
 # Pandos Flintside
+
+
+
+[Pandos Flintside](/npc/9057) is a level 28 Dwarf Warrior that spawns in [West Freeport](/zone/9).
+
 local Bakery = 0;
 
 

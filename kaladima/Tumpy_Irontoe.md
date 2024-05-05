@@ -1,6 +1,11 @@
 # Tumpy Irontoe
 
 
+
+[Tumpy Irontoe](/npc/60011) is a level 42 Dwarf Shopkeeper that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Lieutenant Darakor
 
 
+
+[Lieutenant Darakor](/npc/84158) is a level 61 Guard GM Paladin that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Drixiv Arcut
 
 
+
+[Drixiv Arcut](/npc/93091) is a level 50 Scorpion Warrior that spawns in [The Overthere](/zone/93).
+
+
+
 ## Dialog
 
 **You say:** `hail`

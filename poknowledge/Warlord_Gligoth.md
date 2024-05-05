@@ -2,6 +2,11 @@
 
 
 
+[Warlord Gligoth](/npc/202322) is a level 61 Ogre GM Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

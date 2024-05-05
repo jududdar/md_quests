@@ -1,6 +1,11 @@
 # Executioner
 
 
+
+[Executioner](/npc/1202) is a level 38 Barbarian Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

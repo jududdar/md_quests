@@ -1,6 +1,11 @@
 # Canloe Nusback
 
 
+
+[Canloe Nusback](/npc/60020) is a level 61 Dwarf GM Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `hail`

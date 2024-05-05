@@ -1,4 +1,9 @@
 # a giant rat
+
+
+
+[a giant rat](/npc/4036) is a level 4 Rat Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

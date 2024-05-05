@@ -1,6 +1,11 @@
 # David
 
 
+
+[David](/npc/50232) is a level 26 Erudite Paladin that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Vurgo
 
 
+
+[Vurgo](/npc/80016) is a level 36 Erudite Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then

@@ -2,6 +2,11 @@
 
 
 
+[a greater spirit](/npc/8117) is a level 1 Wolf Shaman that spawns in [North Freeport](/zone/8).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

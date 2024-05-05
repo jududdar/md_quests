@@ -1,6 +1,11 @@
 # Ruathey
 
 
+
+[Ruathey](/npc/27063) is a level 32 Barbarian Warrior that spawns in [Lavastorm Mountains](/zone/27).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self,e.other);

@@ -1,6 +1,11 @@
 # Stoic Aealin
 
 
+
+[Stoic Aealin](/npc/159302) is a level 66 Human GM Monk that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

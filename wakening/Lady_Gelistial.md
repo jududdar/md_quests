@@ -1,6 +1,11 @@
 # Lady Gelistial
 
 
+
+[Lady Gelistial](/npc/119084) is a level 55 Unicorn Druid that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

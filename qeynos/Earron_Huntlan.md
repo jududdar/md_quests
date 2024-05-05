@@ -1,6 +1,11 @@
 # Earron Huntlan
 
 
+
+[Earron Huntlan](/npc/1106) is a level 13 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

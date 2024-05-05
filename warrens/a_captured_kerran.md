@@ -1,6 +1,11 @@
 # a captured kerran
 
 
+
+[a captured kerran](/npc/101069) is a level 8 Kerran Shaman that spawns in [The Warrens](/zone/101).
+
+
+
 ## Dialog
 
 **You say:** `hail`

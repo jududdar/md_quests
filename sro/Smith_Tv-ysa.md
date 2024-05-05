@@ -1,4 +1,9 @@
-# Smith Tv-ysa
+# Smith Tv\`ysa
+
+
+
+[Smith Tv\`ysa](/npc/35032) is a level 40 Dark Elf Shopkeeper that spawns in [Southern Desert of Ro](/zone/35).
+
 
 
 

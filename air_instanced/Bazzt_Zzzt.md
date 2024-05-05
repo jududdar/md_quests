@@ -1,6 +1,11 @@
 # Bazzt Zzzt
 
 
+
+[Bazzt Zzzt](/npc/71072) is a level 63 Bixie Shadow Knight that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 4800 seconds

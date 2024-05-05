@@ -1,6 +1,11 @@
 # Caleah Herblender
 
 
+
+[Caleah Herblender](/npc/1118) is a level 28 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

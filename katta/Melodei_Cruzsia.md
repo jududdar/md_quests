@@ -1,6 +1,11 @@
 # Melodei Cruzsia
 
 
+
+[Melodei Cruzsia](/npc/160201) is a level 46 Half Elf Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # a vah shir courier
 
 
+
+[a vah shir courier](/npc/160171) is a level 38 Vah Shir Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *run* for 1 seconds

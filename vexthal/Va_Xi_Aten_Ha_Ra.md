@@ -1,6 +1,11 @@
 # Va Xi Aten Ha Ra
 
 
+
+[Va Xi Aten Ha Ra](/npc/158440) is a level 66 Akheva Warrior that spawns in [Vex Thal](/zone/158).
+
+
+
 local Z_LEVEL = 100; 
 
 

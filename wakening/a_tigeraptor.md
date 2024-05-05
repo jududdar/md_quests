@@ -1,6 +1,11 @@
 # a tigeraptor
 
 
+
+[a tigeraptor](/npc/119001) is a level 31 Raptor Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Combat
 
 if a tigeraptor enters combat  then

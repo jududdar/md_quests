@@ -2,6 +2,11 @@
 
 
 
+[Mystic Dovan](/npc/83036) is a level 35 Iksar Shaman that spawns in [Swamp of No Hope](/zone/83).
+
+
+
+
 
 ## Dialog
 

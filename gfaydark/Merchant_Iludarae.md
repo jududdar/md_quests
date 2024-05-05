@@ -1,6 +1,11 @@
 # Merchant Iludarae
 
 
+
+[Merchant Iludarae](/npc/54159) is a level 40 Guard Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Turn-Ins
 
 

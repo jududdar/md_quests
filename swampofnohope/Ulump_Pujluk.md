@@ -1,6 +1,11 @@
 # Ulump Pujluk
 
 
+
+[Ulump Pujluk](/npc/83030) is a level 55 Froglok Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

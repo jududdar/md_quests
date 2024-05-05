@@ -1,6 +1,11 @@
 # Channeler Lariland
 
 
+
+[Channeler Lariland](/npc/202178) is a level 60 Gnome Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

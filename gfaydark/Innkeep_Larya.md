@@ -1,6 +1,11 @@
 # Innkeep Larya
 
 
+
+[Innkeep Larya](/npc/54147) is a level 40 Guard Shopkeeper that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Tarsa Yovar
 
 
+
+[Tarsa Yovar](/npc/9120) is a level 11 Human Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

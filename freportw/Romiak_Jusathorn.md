@@ -1,6 +1,11 @@
 # Romiak Jusathorn
 
 
+
+[Romiak Jusathorn](/npc/9069) is a level 61 Aviak GM Enchanter that spawns in [West Freeport](/zone/9).
+
+
+
 ## Turn-Ins
 
 

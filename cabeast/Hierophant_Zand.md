@@ -2,6 +2,11 @@
 
 
 
+[Hierophant Zand](/npc/106102) is a level 61 Iksar GM Shaman that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Lieutenant Aiden Finn
 
 
+
+[Lieutenant Aiden Finn](/npc/208013) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

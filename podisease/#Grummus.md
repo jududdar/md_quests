@@ -1,4 +1,9 @@
 # Grummus
+
+
+
+[Grummus](/npc/205091) is a level 70 Diseased Fiend Warrior that spawns in [Plane of Disease](/zone/205).
+
 local PLANAR_PROJECTION_TYPE = 205156;
 
 

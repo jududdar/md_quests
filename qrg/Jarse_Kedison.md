@@ -1,6 +1,11 @@
 # Jarse Kedison
 
 
+
+[Jarse Kedison](/npc/3043) is a level 45 Human Shopkeeper that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `leader`

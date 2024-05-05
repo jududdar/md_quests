@@ -2,6 +2,11 @@
 
 
 
+[High Priest Vasil](/npc/202247) is a level 61 Gnome GM Cleric that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Nostahla Westfend
 
 
+
+[Nostahla Westfend](/npc/1121) is a level 61 Human GM Wizard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

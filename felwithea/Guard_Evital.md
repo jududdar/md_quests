@@ -1,6 +1,11 @@
 # Guard Evital
 
 
+
+[Guard Evital](/npc/61078) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

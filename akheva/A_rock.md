@@ -1,6 +1,11 @@
 # A rock
 
 
+
+
+
+
+
 ## Combat
 
 if A rock enters combat  then

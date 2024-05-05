@@ -1,6 +1,11 @@
 # Aerik Redember
 
 
+
+[Aerik Redember](/npc/159412) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

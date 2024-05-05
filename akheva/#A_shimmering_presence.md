@@ -1,6 +1,11 @@
 # A shimmering presence
 
 
+
+[A shimmering presence](/npc/179018) is a level 1 Invisible Man Warrior that spawns in [Akheva Ruins](/zone/179).
+
+
+
 ## Dialog
 
 **You say:** `hail`

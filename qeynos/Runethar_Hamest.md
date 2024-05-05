@@ -1,6 +1,11 @@
 # Runethar Hamest
 
 
+
+[Runethar Hamest](/npc/1128) is a level 61 Human GM Paladin that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Signals
 
 >**Runethar Hamest says:** Hire one soon, Wolten. We need to get in touch with Drosco!

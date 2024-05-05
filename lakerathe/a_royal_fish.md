@@ -1,6 +1,11 @@
 # a royal fish
 
 
+
+[a royal fish](/npc/51011) is a level 20 Fish Warrior that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `hail`

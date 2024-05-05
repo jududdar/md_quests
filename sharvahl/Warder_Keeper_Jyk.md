@@ -1,6 +1,11 @@
 # Warder Keeper Jyk
 
 
+
+[Warder Keeper Jyk](/npc/155169) is a level 5 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

@@ -1,6 +1,11 @@
 # Councilor Icelok
 
 
+
+[Councilor Icelok](/npc/129038) is a level 46 Coldain Warrior that spawns in [Icewell Keep](/zone/129).
+
+
+
 ## Dialog
 
 **You say:** `hail`

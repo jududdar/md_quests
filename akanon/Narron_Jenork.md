@@ -2,6 +2,11 @@
 
 
 
+[Narron Jenork](/npc/55117) is a level 61 Gnome GM Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 
 

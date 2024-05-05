@@ -1,6 +1,11 @@
 # Scribe Qualia
 
 
+
+[Scribe Qualia](/npc/155230) is a level 50 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # an advisor
 
 
+
+[an advisor](/npc/59055) is a level 35 Dark Elf Wizard that spawns in [Castle of Mistmoore](/zone/59).
+
+
+
 ## Dialog
 
 **You say:** `hail`

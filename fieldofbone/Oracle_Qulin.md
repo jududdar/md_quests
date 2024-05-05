@@ -2,6 +2,11 @@
 
 
 
+[Oracle Qulin](/npc/78064) is a level 40 Iksar Shaman that spawns in [Field of Bone](/zone/78).
+
+
+
+
 ## Turn-Ins
 
 

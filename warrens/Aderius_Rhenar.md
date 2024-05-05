@@ -1,6 +1,11 @@
 # Aderius Rhenar
 
 
+
+[Aderius Rhenar](/npc/101108) is a level 10 Erudite Cleric that spawns in [The Warrens](/zone/101).
+
+
+
 ## Dialog
 
 **You say:** `hail`

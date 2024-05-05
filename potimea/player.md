@@ -1,4 +1,9 @@
 # player
+
+
+
+
+
 local POTIMEA_CONTROLLER_TYPE = 219053;
 local POTIMEB_CONTROLLER_TYPE = 223077;
 local DIALS = { 2, 4, 1, 5, 3 };

@@ -2,6 +2,11 @@
 
 
 
+[Gherik Alarhun](/npc/155068) is a level 60 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 ## Turn-Ins
 
 

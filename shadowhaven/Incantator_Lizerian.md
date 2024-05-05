@@ -1,6 +1,11 @@
 # Incantator Lizerian
 
 
+
+[Incantator Lizerian](/npc/150221) is a level 55 Erudite Wizard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

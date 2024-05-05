@@ -1,6 +1,11 @@
 # Captain Nalot
 
 
+
+[Captain Nalot](/npc/110069) is a level 51 Gnome Rogue that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Guard Dinler
 
 
+
+[Guard Dinler](/npc/60064) is a level 38 Dwarf Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `armor`

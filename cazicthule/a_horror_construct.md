@@ -1,6 +1,11 @@
 # a horror construct
 
 
+
+[a horror construct](/npc/48376) is a level 63 Dragon Warrior that spawns in [Lost Temple of CazicThule](/zone/48).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 500 seconds

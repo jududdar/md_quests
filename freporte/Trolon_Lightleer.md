@@ -1,4 +1,9 @@
 # Trolon Lightleer
+
+
+
+[Trolon Lightleer](/npc/10141) is a level 15 Human Bard that spawns in [East Freeport](/zone/10).
+
 local signal = 0;
 local lastSong = 0;
 

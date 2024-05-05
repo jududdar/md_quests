@@ -1,4 +1,9 @@
-# Draxiz N-Ryt
+# Draxiz N\`Ryt
+
+
+
+[Draxiz N\`Ryt](/npc/41083) is a level 54 Dark Elf Enchanter that spawns in [Neriak - Commons](/zone/41).
+
 
 
 

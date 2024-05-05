@@ -1,6 +1,11 @@
 # Lorekeeper Derrin
 
 
+
+[Lorekeeper Derrin](/npc/115154) is a level 41 Coldain Shopkeeper that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

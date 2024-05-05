@@ -2,6 +2,11 @@
 
 
 
+[a thunder spirit princess](/npc/71032) is a level 53 Fairy Bard that spawns in [Plane of Sky](/zone/71).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Ghul Rustem
 
 
+
+[Ghul Rustem](/npc/1146) is a level 34 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

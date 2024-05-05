@@ -1,6 +1,11 @@
 # Sequea Erthinon
 
 
+
+[Sequea Erthinon](/npc/3033) is a level 45 Human Shopkeeper that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `leader`

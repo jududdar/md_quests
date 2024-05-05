@@ -1,6 +1,11 @@
 # a mosscovered treant
 
 
+
+[a mosscovered treant](/npc/127014) is a level 56 Treant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Dialog
 
 if(**Your level** >= 55) then

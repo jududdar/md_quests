@@ -1,6 +1,11 @@
 # Vilissia
 
 
+
+[Vilissia](/npc/80014) is a level 35 Human Wizard that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then

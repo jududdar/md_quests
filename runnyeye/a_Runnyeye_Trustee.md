@@ -1,6 +1,11 @@
 # a Runnyeye Trustee
 
 
+
+[a Runnyeye Trustee](/npc/11134) is a level 8 Goblin Warrior that spawns in [Runnyeye](/zone/11).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 128) then

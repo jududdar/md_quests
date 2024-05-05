@@ -1,6 +1,11 @@
 # Eracon Krengon
 
 
+
+[Eracon Krengon](/npc/1086) is a level 45 Barbarian Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Turn-Ins
 
 

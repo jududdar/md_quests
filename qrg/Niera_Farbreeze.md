@@ -1,6 +1,11 @@
 # Niera Farbreeze
 
 
+
+[Niera Farbreeze](/npc/3018) is a level 40 Human Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## On NPC Spawn
 
 local xloc = e.self:GetX();

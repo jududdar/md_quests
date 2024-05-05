@@ -1,6 +1,11 @@
 # Trumpy Irontoe
 
 
+
+[Trumpy Irontoe](/npc/1042) is a level 5 Dwarf Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

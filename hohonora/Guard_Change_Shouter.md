@@ -1,4 +1,9 @@
 # Guard Change Shouter
+
+
+
+
+
 local HERO_TYPE =  [Hero Shrine Guardian](/npc/211002); 
 
 local HEROS = {

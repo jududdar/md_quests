@@ -1,6 +1,11 @@
 # Tlin Bowfright
 
 
+
+[Tlin Bowfright](/npc/10186) is a level 30 Wood Elf Warrior that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

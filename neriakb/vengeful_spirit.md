@@ -2,6 +2,11 @@
 
 
 
+[vengeful spirit](/npc/41106) is a level 1 Invisible Man Warrior that spawns in [Neriak - Commons](/zone/41).
+
+
+
+
 
 ## On NPC Spawn
 

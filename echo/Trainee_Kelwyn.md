@@ -1,6 +1,11 @@
 # Trainee Kelwyn
 
 
+
+[Trainee Kelwyn](/npc/153109) is a level 40 Half Elf Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

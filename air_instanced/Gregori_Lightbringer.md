@@ -1,6 +1,11 @@
 # Gregori Lightbringer
 
 
+
+[Gregori Lightbringer](/npc/71089) is a level 55 High Elf Paladin that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

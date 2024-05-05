@@ -2,6 +2,11 @@
 
 
 
+[Jarah Reskan](/npc/55135) is a level 61 Gnome GM Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

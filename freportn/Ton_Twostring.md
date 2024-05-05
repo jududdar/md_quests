@@ -2,6 +2,11 @@
 
 
 
+[Ton Twostring](/npc/8101) is a level 25 Human Bard that spawns in [North Freeport](/zone/8).
+
+
+
+
 
 ## Dialog
 

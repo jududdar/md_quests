@@ -1,6 +1,11 @@
 # Scout Janomin
 
 
+
+[Scout Janomin](/npc/73005) is a level 15 Vah Shir Warrior that spawns in [Permafrost Caverns](/zone/73).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

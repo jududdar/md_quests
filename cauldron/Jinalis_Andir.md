@@ -1,6 +1,11 @@
 # Jinalis Andir
 
 
+
+[Jinalis Andir](/npc/70028) is a level 61 Erudite Magician that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## Dialog
 
 **You say:** `hail`

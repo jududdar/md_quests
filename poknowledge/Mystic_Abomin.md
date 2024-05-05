@@ -2,6 +2,11 @@
 
 
 
+[Mystic Abomin](/npc/202179) is a level 60 Othmir Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Rondel
 
 
+
+[Rondel](/npc/51109) is a level 9 Barbarian Warrior that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

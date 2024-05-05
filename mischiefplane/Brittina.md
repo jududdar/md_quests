@@ -1,6 +1,11 @@
 # Brittina
 
 
+
+[Brittina](/npc/126213) is a level 55 Sphinx Wizard that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 Ashley = eq.get_entity_list():GetMobByNpcTypeID(126207);

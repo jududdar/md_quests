@@ -1,6 +1,11 @@
 # Alex McDarnin
 
 
+
+[Alex McDarnin](/npc/84173) is a level 49 Barbarian Shaman that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

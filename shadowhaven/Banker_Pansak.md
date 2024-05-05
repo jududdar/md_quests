@@ -1,6 +1,11 @@
 # Banker Pansak
 
 
+
+[Banker Pansak](/npc/150144) is a level 50 Human Banker that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

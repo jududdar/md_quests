@@ -2,6 +2,11 @@
 
 
 
+[Spirit of Radir](/npc/176019) is a level 60 Elemental Warrior that spawns in [The Umbral Plains](/zone/176).
+
+
+
+
 
 ## On NPC Spawn
    **Set a timer** named *depop* for 900 seconds

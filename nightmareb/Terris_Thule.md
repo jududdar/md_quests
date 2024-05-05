@@ -2,6 +2,11 @@
 
 
 
+[Terris Thule](/npc/204483) is a level 1 Terris Thule Warrior that spawns in [The Lair of Terris Thule](/zone/221).
+
+
+
+
 
 local PLANAR_PROJECTION_TYPE = 221042;
 local DEFILER_SMALL_TYPE = 221045;

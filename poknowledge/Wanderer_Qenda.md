@@ -1,6 +1,11 @@
 # Wanderer Qenda
 
 
+
+[Wanderer Qenda](/npc/202218) is a level 60 Human Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

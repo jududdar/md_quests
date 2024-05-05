@@ -1,6 +1,11 @@
 # Bouncer Raan
 
 
+
+[Bouncer Raan](/npc/49014) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

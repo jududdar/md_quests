@@ -2,6 +2,11 @@
 
 
 
+[Marshal Lanena](/npc/19057) is a level 61 Halfling GM Warrior that spawns in [Rivervale](/zone/19).
+
+
+
+
 
 
 

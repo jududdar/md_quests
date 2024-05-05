@@ -1,6 +1,11 @@
 # Scout Danarin
 
 
+
+[Scout Danarin](/npc/167202) is a level 28 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

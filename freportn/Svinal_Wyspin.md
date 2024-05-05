@@ -1,6 +1,11 @@
 # Svinal Wyspin
 
 
+
+[Svinal Wyspin](/npc/8095) is a level 45 Gnome Shopkeeper that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Zadyr Moralin
 
 
+
+[Zadyr Moralin](/npc/201402) is a level 48 Dark Elf Necromancer that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 if(e.language == 17 and e.other:GetLanguageSkill(17) >= 100) then 

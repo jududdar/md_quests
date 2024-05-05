@@ -1,6 +1,11 @@
 # Lerin Sardor
 
 
+
+[Lerin Sardor](/npc/161009) is a level 20 Human Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

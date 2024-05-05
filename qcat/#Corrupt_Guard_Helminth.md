@@ -1,4 +1,9 @@
 # Corrupt Guard Helminth
+
+
+
+[Corrupt Guard Helminth](/npc/45006) is a level 39 Human Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
 function event_death(e)
 
 **Spawn NPC:**  [\#a sepsis rat](/npc/45009) at (**y:** 425, **x:** -130)

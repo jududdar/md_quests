@@ -1,6 +1,11 @@
 # Guard Kwint
 
 
+
+[Guard Kwint](/npc/1151) is a level 8 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

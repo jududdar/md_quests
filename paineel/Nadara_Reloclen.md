@@ -1,6 +1,11 @@
 # Nadara Reloclen
 
 
+
+[Nadara Reloclen](/npc/75099) is a level 50 Erudite Banker that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

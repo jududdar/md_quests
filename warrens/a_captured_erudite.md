@@ -1,6 +1,11 @@
 # a captured erudite
 
 
+
+[a captured erudite](/npc/101064) is a level 6 Erudite Shadow Knight that spawns in [The Warrens](/zone/101).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Fish Ranamer
 
 
+
+[Fish Ranamer](/npc/1100) is a level 45 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

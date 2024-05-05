@@ -1,6 +1,11 @@
 # a Frost Giant Lord
 
 
+
+[a Frost Giant Lord](/npc/113051) is a level 43 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

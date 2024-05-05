@@ -2,6 +2,11 @@
 
 
 
+[Toktonn Geerlok](/npc/160174) is a level 60 Gnome Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

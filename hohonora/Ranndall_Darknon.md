@@ -1,4 +1,9 @@
 # Ranndall Darknon
+
+
+
+[Ranndall Darknon](/npc/211040) is a level 60 Human Warrior that spawns in [Halls of Honor](/zone/211).
+
 local n;
 
 

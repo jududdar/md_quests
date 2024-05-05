@@ -1,6 +1,11 @@
 # Erus Ereptor Yuka
 
 
+
+[Erus Ereptor Yuka](/npc/159374) is a level 61 Gnome GM Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

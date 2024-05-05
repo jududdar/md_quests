@@ -2,6 +2,11 @@
 
 
 
+[Avatar of Water](/npc/96086) is a level 60 Elemental Warrior that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

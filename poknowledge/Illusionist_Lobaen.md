@@ -1,6 +1,11 @@
 # Illusionist Lobaen
 
 
+
+[Illusionist Lobaen](/npc/202212) is a level 60 Dryad Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

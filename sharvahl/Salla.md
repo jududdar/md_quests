@@ -1,6 +1,11 @@
 # Salla
 
 
+
+[Salla](/npc/155206) is a level 39 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

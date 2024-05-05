@@ -1,4 +1,9 @@
 # string ext
+
+
+
+
+
 function string:case_insensitive_pattern()
 
 local p = self:gsub("(%%?)(.)", function(percent, letter)

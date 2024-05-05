@@ -2,6 +2,11 @@
 
 
 
+[Makil Rargon](/npc/120079) is a level 50 Human Wizard that spawns in [Western Wastes](/zone/120).
+
+
+
+
 
 ## Dialog
 

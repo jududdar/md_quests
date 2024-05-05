@@ -1,4 +1,9 @@
 # Old Ghostback
+
+
+
+[Old Ghostback](/npc/100006) is a level 42 Gorilla Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
  
 
 

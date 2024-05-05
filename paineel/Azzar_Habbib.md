@@ -1,6 +1,11 @@
 # Azzar Habbib
 
 
+
+[Azzar Habbib](/npc/75011) is a level 25 Erudite Necromancer that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `hail`

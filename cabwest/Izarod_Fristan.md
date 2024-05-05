@@ -1,6 +1,11 @@
 # Izarod Fristan
 
 
+
+[Izarod Fristan](/npc/82005) is a level 50 Iksar Necromancer that spawns in [Cabilis West](/zone/82).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

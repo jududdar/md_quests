@@ -1,6 +1,11 @@
 # Tarker Blazetoss
 
 
+
+[Tarker Blazetoss](/npc/62019) is a level 61 High Elf GM Wizard that spawns in [Southern Felwithe](/zone/62).
+
+
+
 ## Dialog
 
 **You say:** `hail`

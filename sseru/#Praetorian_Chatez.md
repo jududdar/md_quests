@@ -1,6 +1,11 @@
 # Praetorian Chatez
 
 
+
+[Praetorian Chatez](/npc/159639) is a level 55 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

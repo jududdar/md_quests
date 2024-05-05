@@ -1,6 +1,11 @@
 # Jennus Lyklobar
 
 
+
+[Jennus Lyklobar](/npc/91007) is a level 61 Gnome Magician that spawns in [Skyfire Mountains](/zone/91).
+
+
+
 ## Dialog
 
 **You say:** `hail`

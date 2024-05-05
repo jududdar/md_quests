@@ -2,6 +2,11 @@
 
 
 
+[Diggs Duggun](/npc/16013) is a level 61 Dwarf Rogue that spawns in [Gorge of King Xorbb](/zone/16).
+
+
+
+
 
 
 

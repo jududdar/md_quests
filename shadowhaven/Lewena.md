@@ -1,6 +1,11 @@
 # Lewena
 
 
+
+[Lewena](/npc/150214) is a level 15 Wood Elf Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

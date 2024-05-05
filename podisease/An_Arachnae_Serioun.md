@@ -1,6 +1,11 @@
 # An Arachnae Serioun
 
 
+
+[An Arachnae Serioun](/npc/205158) is a level 55 Arachnid Warrior that spawns in [Plane of Disease](/zone/205).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 600 seconds

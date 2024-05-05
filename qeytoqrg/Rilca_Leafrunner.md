@@ -1,6 +1,11 @@
 # Rilca Leafrunner
 
 
+
+[Rilca Leafrunner](/npc/4054) is a level 35 Half Elf Ranger that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## On NPC Spawn
 
 eq.set_timer("depop",math.random(1200000,3600000));

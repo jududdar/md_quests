@@ -2,6 +2,11 @@
 
 
 
+[Henina Miller](/npc/12026) is a level 15 Human Shopkeeper that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

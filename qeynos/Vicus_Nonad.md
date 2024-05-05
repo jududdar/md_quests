@@ -1,6 +1,11 @@
 # Vicus Nonad
 
 
+
+[Vicus Nonad](/npc/1047) is a level 26 Human Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *cough* for 350 seconds

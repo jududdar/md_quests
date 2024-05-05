@@ -1,6 +1,11 @@
 # a Kejekan mujahed
 
 
+
+[a Kejekan mujahed](/npc/100027) is a level 25 Kerran Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

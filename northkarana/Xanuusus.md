@@ -2,6 +2,11 @@
 
 
 
+[Xanuusus](/npc/13061) is a level 50 Treant Druid that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 
 
 ## Dialog

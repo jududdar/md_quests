@@ -1,6 +1,11 @@
 # Diendra Berit
 
 
+
+[Diendra Berit](/npc/159409) is a level 60 Erudite Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

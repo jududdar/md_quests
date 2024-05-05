@@ -1,6 +1,11 @@
 # Balix Misteyes
 
 
+
+[Balix Misteyes](/npc/110043) is a level 51 Gnoll Shaman that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

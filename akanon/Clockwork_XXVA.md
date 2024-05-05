@@ -1,6 +1,11 @@
 # Clockwork XXVA
 
 
+
+[Clockwork XXVA](/npc/55200) is a level 20 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

@@ -1,6 +1,11 @@
 # Dovik Greenbane
 
 
+
+[Dovik Greenbane](/npc/5061) is a level 45 Human Shopkeeper that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

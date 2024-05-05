@@ -1,6 +1,11 @@
 # Dru Razbind
 
 
+
+[Dru Razbind](/npc/68098) is a level 35 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Dialog
 
 **You say:** `hail`

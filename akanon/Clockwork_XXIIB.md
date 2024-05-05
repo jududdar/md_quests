@@ -1,6 +1,11 @@
 # Clockwork XXIIB
 
 
+
+[Clockwork XXIIB](/npc/55186) is a level 31 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

@@ -1,6 +1,11 @@
 # Commander Kane
 
 
+
+[Commander Kane](/npc/45012) is a level 61 Human GM Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

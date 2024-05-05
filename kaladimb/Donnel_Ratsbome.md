@@ -1,6 +1,11 @@
 # Donnel Ratsbome
 
 
+
+[Donnel Ratsbome](/npc/67085) is a level 41 Dwarf Banker that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `armor`

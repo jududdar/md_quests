@@ -1,6 +1,11 @@
 # Brin Stolunger
 
 
+
+[Brin Stolunger](/npc/1063) is a level 61 Human GM Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 

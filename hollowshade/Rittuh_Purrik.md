@@ -1,6 +1,11 @@
 # Rittuh Purrik
 
 
+
+[Rittuh Purrik](/npc/166081) is a level 50 Vah Shir Shopkeeper that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Dialog
 
 **You say:** `hail`

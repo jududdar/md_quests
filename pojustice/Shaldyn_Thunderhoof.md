@@ -1,6 +1,11 @@
 # Shaldyn Thunderhoof
 
 
+
+[Shaldyn Thunderhoof](/npc/201349) is a level 42 Centaur Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
 ## Dialog
 
 **You say:** `hail`

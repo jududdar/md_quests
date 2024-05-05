@@ -1,6 +1,11 @@
 # Guard Fayfield
 
 
+
+[Guard Fayfield](/npc/54268) is a level 38 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `soldiers`

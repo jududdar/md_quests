@@ -1,6 +1,11 @@
 # Elmion Hendrys
 
 
+
+[Elmion Hendrys](/npc/70005) is a level 20 Wood Elf Ranger that spawns in [Dagnor's Cauldron](/zone/70).
+
+
+
 ## Dialog
 
 if( **Faction is** > Dubious) then

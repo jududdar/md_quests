@@ -1,6 +1,11 @@
 # Carson McCabe
 
 
+
+[Carson McCabe](/npc/6181) is a level 40 Human Rogue that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

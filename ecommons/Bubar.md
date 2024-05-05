@@ -1,6 +1,11 @@
 # Bubar
 
 
+
+[Bubar](/npc/22033) is a level 45 Human Shopkeeper that spawns in [East Commonlands](/zone/22).
+
+
+
 ## Dialog
 
 **You say:** `hail`

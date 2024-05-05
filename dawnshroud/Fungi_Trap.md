@@ -1,6 +1,11 @@
 # Fungi Trap
 
 
+
+
+
+
+
 ## Combat
 
 if Fungi Trap enters combat  then

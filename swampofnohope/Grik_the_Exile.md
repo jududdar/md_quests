@@ -1,6 +1,11 @@
 # Grik the Exile
 
 
+
+[Grik the Exile](/npc/83221) is a level 45 Iksar Warrior that spawns in [Swamp of No Hope](/zone/83).
+
+
+
 ## Dialog
 
 **You say:** `hail`

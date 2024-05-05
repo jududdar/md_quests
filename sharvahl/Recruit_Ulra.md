@@ -1,6 +1,11 @@
 # Recruit Ulra
 
 
+
+[Recruit Ulra](/npc/155131) is a level 20 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,4 +1,9 @@
-# Guard N-Mar
+# Guard N\`Mar
+
+
+
+[Guard N\`Mar](/npc/40085) is a level 35 Dark Elf Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 ## Dialog

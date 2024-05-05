@@ -1,6 +1,11 @@
 # Optio Halatini
 
 
+
+[Optio Halatini](/npc/159173) is a level 52 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

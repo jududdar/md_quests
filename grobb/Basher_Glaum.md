@@ -1,6 +1,11 @@
 # Basher Glaum
 
 
+
+[Basher Glaum](/npc/52007) is a level 37 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

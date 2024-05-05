@@ -2,6 +2,11 @@
 
 
 
+[Sivina Lutewhisper](/npc/3006) is a level 25 Human Bard that spawns in [Surefall Glade](/zone/3).
+
+
+
+
 
 ## Dialog
 

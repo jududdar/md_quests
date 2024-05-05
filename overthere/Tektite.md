@@ -2,6 +2,11 @@
 
 
 
+[Tektite](/npc/93143) is a level 50 Gargoyle Warrior that spawns in [The Overthere](/zone/93).
+
+
+
+
 ## Dialog
 
 **You say:** `tektite`

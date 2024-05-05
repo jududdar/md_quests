@@ -1,6 +1,11 @@
 # Guard Blayle
 
 
+
+[Guard Blayle](/npc/6002) is a level 20 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

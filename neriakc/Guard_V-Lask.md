@@ -1,4 +1,9 @@
-# Guard V-Lask
+# Guard V\`Lask
+
+
+
+[Guard V\`Lask](/npc/41110) is a level 40 Dark Elf Warrior that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

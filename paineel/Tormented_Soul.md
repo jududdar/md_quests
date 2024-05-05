@@ -1,6 +1,11 @@
 # Tormented Soul
 
 
+
+[Tormented Soul](/npc/75030) is a level 50 Ghost Monk that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

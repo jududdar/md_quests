@@ -2,6 +2,11 @@
 
 
 
+[Shayna Thunderhand](/npc/181175) is a level 60 Human Wizard that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 ## Dialog
 

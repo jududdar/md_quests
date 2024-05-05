@@ -1,6 +1,11 @@
 # Soulbinder Trurg
 
 
+
+[Soulbinder Trurg](/npc/49082) is a level 1 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

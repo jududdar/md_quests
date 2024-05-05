@@ -1,6 +1,11 @@
 # a nightmare
 
 
+
+[a nightmare](/npc/72198) is a level 48 Unicorn Warrior that spawns in [Plane of Fear (Instanced)](/zone/1072).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

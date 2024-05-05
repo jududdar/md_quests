@@ -1,6 +1,11 @@
 # Optio Crasa
 
 
+
+[Optio Crasa](/npc/159033) is a level 52 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Dragoon Szorn](/npc/57063) is a level 45 Dark Elf Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
+
 
 
 

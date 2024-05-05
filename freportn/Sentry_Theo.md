@@ -1,6 +1,11 @@
 # Sentry Theo
 
 
+
+[Sentry Theo](/npc/8053) is a level 37 Human Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `hail`

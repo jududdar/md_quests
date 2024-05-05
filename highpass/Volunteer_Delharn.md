@@ -1,6 +1,11 @@
 # Volunteer Delharn
 
 
+
+[Volunteer Delharn](/npc/5004) is a level 4 Human Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

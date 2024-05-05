@@ -1,6 +1,11 @@
 # Pyrox
 
 
+
+[Pyrox](/npc/114435) is a level 45 Golem Banker that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

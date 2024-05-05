@@ -1,6 +1,11 @@
 # Rigg Nostra
 
 
+
+[Rigg Nostra](/npc/10128) is a level 15 Human Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `crate of pick head`

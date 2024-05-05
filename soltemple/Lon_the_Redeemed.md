@@ -1,6 +1,11 @@
 # Lon the Redeemed
 
 
+
+[Lon the Redeemed](/npc/80007) is a level 45 Dark Elf Rogue that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Ragunk Everhot
 
 
+
+[Ragunk Everhot](/npc/67032) is a level 38 Dwarf Shopkeeper that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

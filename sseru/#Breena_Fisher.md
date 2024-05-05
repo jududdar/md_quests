@@ -1,6 +1,11 @@
 # Breena Fisher
 
 
+
+[Breena Fisher](/npc/159031) is a level 44 Gnome Magician that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Eejag
 
 
+
+[Eejag](/npc/27119) is a level 55 Iksar Monk that spawns in [Lavastorm Mountains](/zone/27).
+
+
+
 ## On NPC Spawn
 
 eq.set_proximity(e.self:GetX()-50,e.self:GetX()+50,e.self:GetY()-50,e.self:GetY()+50);

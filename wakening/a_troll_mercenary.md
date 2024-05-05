@@ -1,6 +1,11 @@
 # a troll mercenary
 
 
+
+[a troll mercenary](/npc/119054) is a level 38 Troll Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

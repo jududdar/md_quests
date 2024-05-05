@@ -1,6 +1,11 @@
 # Sergeant Hurrid
 
 
+
+[Sergeant Hurrid](/npc/211031) is a level 65 Valorian Warrior that spawns in [Halls of Honor](/zone/211).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *formation* for 55 seconds

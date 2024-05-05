@@ -1,6 +1,11 @@
 # Oknoggin Stonesmacker
 
 
+
+[Oknoggin Stonesmacker](/npc/47126) is a level 55 Ogre Bard that spawns in [The Feerrott](/zone/47).
+
+
+
 ## Dialog
 
 **You say:** `hail`

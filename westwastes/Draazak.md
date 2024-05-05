@@ -1,6 +1,11 @@
 # Draazak
 
 
+
+[Draazak](/npc/120019) is a level 58 Dragon Cleric that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Rueppy Kutpurse
 
 
+
+[Rueppy Kutpurse](/npc/19060) is a level 61 Halfling GM Rogue that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

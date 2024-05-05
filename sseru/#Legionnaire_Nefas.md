@@ -1,6 +1,11 @@
 # Legionnaire Nefas
 
 
+
+[Legionnaire Nefas](/npc/159508) is a level 49 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

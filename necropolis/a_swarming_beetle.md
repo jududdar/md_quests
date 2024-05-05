@@ -1,6 +1,11 @@
 # a swarming beetle
 
 
+
+[a swarming beetle](/npc/123024) is a level 49 Beetle Warrior that spawns in [Dragon Necropolis](/zone/123).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

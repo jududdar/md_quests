@@ -1,6 +1,11 @@
 # Maidens Voyage
 
 
+
+[Maidens Voyage](/npc/838) is a level 50 Ship Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

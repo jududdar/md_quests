@@ -2,6 +2,11 @@
 
 
 
+[Merchant Nora](/npc/61034) is a level 35 High Elf Warrior that spawns in [Northern Felwithe](/zone/61).
+
+
+
+
 
 ## Turn-Ins
 

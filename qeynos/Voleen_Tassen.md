@@ -1,6 +1,11 @@
 # Voleen Tassen
 
 
+
+[Voleen Tassen](/npc/1111) is a level 11 Human Shopkeeper that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

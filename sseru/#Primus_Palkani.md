@@ -1,6 +1,11 @@
 # Primus Palkani
 
 
+
+[Primus Palkani](/npc/159156) is a level 55 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

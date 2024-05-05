@@ -1,6 +1,11 @@
 # a storm giant gladiator
 
 
+
+[a storm giant gladiator](/npc/113293) is a level 49 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

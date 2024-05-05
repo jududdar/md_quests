@@ -1,6 +1,11 @@
 # Fani Dertrimas
 
 
+
+[Fani Dertrimas](/npc/152013) is a level 50 Erudite Enchanter that spawns in [Nexus](/zone/152).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

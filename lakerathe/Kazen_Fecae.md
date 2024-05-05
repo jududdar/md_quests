@@ -2,6 +2,11 @@
 
 
 
+[Kazen Fecae](/npc/51048) is a level 59 Human Necromancer that spawns in [Lake Rathetear](/zone/51).
+
+
+
+
 
 
 ## Dialog

@@ -1,6 +1,11 @@
 # Guard Sydl
 
 
+
+[Guard Sydl](/npc/6158) is a level 28 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

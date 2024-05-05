@@ -2,6 +2,11 @@
 
 
 
+[Reothe](/npc/168034) is a level 40 Recuso Warrior that spawns in [Marus Seru](/zone/168).
+
+
+
+
 
 ## Dialog
 

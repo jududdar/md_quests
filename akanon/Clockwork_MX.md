@@ -1,6 +1,11 @@
 # Clockwork MX
 
 
+
+[Clockwork MX](/npc/55057) is a level 45 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

@@ -1,6 +1,11 @@
 # abandoned heretic pet
 
 
+
+[abandoned heretic pet](/npc/38012) is a level 7 Skeleton Warrior that spawns in [Toxxulia Forest](/zone/38).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 5) then

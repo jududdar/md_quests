@@ -2,6 +2,11 @@
 
 
 
+[Trisha Pettals](/npc/201264) is a level 48 Halfling Paladin that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

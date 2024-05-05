@@ -1,6 +1,11 @@
 # Latrag Darkaxe
 
 
+
+[Latrag Darkaxe](/npc/170143) is a level 40 Dwarf Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

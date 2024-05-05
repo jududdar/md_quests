@@ -1,6 +1,11 @@
 # Legionnaire Tibos
 
 
+
+[Legionnaire Tibos](/npc/159184) is a level 47 High Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

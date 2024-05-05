@@ -1,6 +1,11 @@
 # Hefax Tinmar
 
 
+
+[Hefax Tinmar](/npc/4142) is a level 20 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Signals
 
 >**Hefax Tinmar says:** Oh, great. I feel safe already.

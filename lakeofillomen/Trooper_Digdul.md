@@ -1,6 +1,11 @@
 # Trooper Digdul
 
 
+
+[Trooper Digdul](/npc/85150) is a level 50 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

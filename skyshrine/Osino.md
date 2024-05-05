@@ -1,6 +1,11 @@
 # Osino
 
 
+
+[Osino](/npc/114539) is a level 29 Drake Enchanter that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

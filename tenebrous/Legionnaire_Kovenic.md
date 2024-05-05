@@ -1,6 +1,11 @@
 # Legionnaire Kovenic
 
 
+
+[Legionnaire Kovenic](/npc/172092) is a level 36 Human Warrior that spawns in [The Tenebrous Mountains](/zone/172).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Karg IceBear
 
 
+
+[Karg IceBear](/npc/30100) is a level 35 Barbarian Warrior that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## On NPC Spawn
 
  **Set a timer** named *depop* for 3600 seconds

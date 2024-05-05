@@ -1,6 +1,11 @@
 # Faren
 
 
+
+[Faren](/npc/1159) is a level 3 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *fishing* for 300 seconds

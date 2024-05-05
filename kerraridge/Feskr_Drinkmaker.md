@@ -1,6 +1,11 @@
 # Feskr Drinkmaker
 
 
+
+[Feskr Drinkmaker](/npc/74058) is a level 15 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

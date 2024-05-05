@@ -1,6 +1,11 @@
 # Praesertum Bikun
 
 
+
+[Praesertum Bikun](/npc/159052) is a level 66 Barbarian Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

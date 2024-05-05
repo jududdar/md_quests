@@ -1,6 +1,11 @@
 # Ilscent Tagglefoot
 
 
+
+[Ilscent Tagglefoot](/npc/19102) is a level 50 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `hail`

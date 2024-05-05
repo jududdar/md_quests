@@ -1,6 +1,11 @@
 # Tazgar
 
 
+
+[Tazgar](/npc/80022) is a level 44 Efreeti Warrior that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Goesl Sealsonich
 
 
+
+[Goesl Sealsonich](/npc/150262) is a level 30 Human Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

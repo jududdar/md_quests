@@ -2,6 +2,11 @@
 
 
 
+[Bittrik the Unkempt](/npc/210061) is a level 60 Halfling Warrior that spawns in [Plane of Storms](/zone/210).
+
+
+
+
 local stateTable = {}; 
 local entries = 0;
 

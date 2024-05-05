@@ -1,6 +1,11 @@
 # Lanhern Firepride
 
 
+
+[Lanhern Firepride](/npc/1305) is a level 10 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

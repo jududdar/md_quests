@@ -1,4 +1,9 @@
-# Jaled Dar-s shade
+# Jaled Dar\`s shade
+
+
+
+[Jaled Dar\`s shade](/npc/123011) is a level 70 Dragon Cleric that spawns in [Dragon Necropolis](/zone/123).
+
 local SHOUTS = {
 
 "Trakanon, my friend, you BETRAYED me!",

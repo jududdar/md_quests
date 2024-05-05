@@ -2,6 +2,11 @@
 
 
 
+[Marton Stringsinger](/npc/29077) is a level 25 Human Bard that spawns in [Halas](/zone/29).
+
+
+
+
 
 ## Dialog
 

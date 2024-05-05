@@ -1,6 +1,11 @@
 # Incantator Saderloa
 
 
+
+[Incantator Saderloa](/npc/150138) is a level 55 Human Wizard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

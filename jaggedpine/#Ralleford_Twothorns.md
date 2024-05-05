@@ -1,6 +1,11 @@
 # Ralleford Twothorns
 
 
+
+[Ralleford Twothorns](/npc/181183) is a level 25 Human Ranger that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

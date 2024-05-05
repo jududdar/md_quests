@@ -1,4 +1,9 @@
 # Tomer Instogle
+
+
+
+[Tomer Instogle](/npc/2030) is a level 1 Human Monk that spawns in [North Qeynos](/zone/2).
+
 local closeby = 0;
 
 

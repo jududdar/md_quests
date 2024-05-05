@@ -1,6 +1,11 @@
 # Izibat
 
 
+
+[Izibat](/npc/150152) is a level 50 Gnome Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

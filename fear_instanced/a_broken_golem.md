@@ -1,6 +1,11 @@
 # a broken golem
 
 
+
+[a broken golem](/npc/72074) is a level 20 Golem Shadow Knight that spawns in [Plane of Fear (Instanced)](/zone/1072).
+
+
+
 ## Turn-Ins
 
 

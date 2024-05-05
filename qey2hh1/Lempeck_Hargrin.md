@@ -1,6 +1,11 @@
 # Lempeck Hargrin
 
 
+
+[Lempeck Hargrin](/npc/12080) is a level 20 Human Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

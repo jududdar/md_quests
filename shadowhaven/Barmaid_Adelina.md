@@ -1,6 +1,11 @@
 # Barmaid Adelina
 
 
+
+[Barmaid Adelina](/npc/150215) is a level 20 Half Elf Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Pius Truthtaker
 
 
+
+[Pius Truthtaker](/npc/159292) is a level 65 Dwarf GM Cleric that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

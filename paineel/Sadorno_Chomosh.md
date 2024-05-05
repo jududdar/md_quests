@@ -1,6 +1,11 @@
 # Sadorno Chomosh
 
 
+
+[Sadorno Chomosh](/npc/75016) is a level 61 Erudite GM Cleric that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

@@ -1,6 +1,11 @@
 # Kafal
 
 
+
+[Kafal](/npc/155172) is a level 12 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

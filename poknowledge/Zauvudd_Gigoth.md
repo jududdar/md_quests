@@ -2,6 +2,11 @@
 
 
 
+[Zauvudd Gigoth](/npc/202045) is a level 60 Troll Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

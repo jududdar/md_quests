@@ -1,6 +1,11 @@
 # Marsha Stonepenner
 
 
+
+[Marsha Stonepenner](/npc/67058) is a level 25 Dwarf Shopkeeper that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `hail`

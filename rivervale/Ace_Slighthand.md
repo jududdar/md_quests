@@ -2,6 +2,11 @@
 
 
 
+[Ace Slighthand](/npc/19090) is a level 15 Halfling Rogue that spawns in [Rivervale](/zone/19).
+
+
+
+
 
 
 ## Dialog

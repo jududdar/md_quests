@@ -2,6 +2,11 @@
 
 
 
+[an undead knight ](/npc/80001) is a level 40 Skeleton Warrior that spawns in [Temple of Solusek Ro](/zone/80).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Veteran Vadrel
 
 
+
+[Veteran Vadrel](/npc/167194) is a level 45 Vah Shir Warrior that spawns in [Grimling Forest](/zone/167).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Yumik Gropa
 
 
+
+[Yumik Gropa](/npc/159060) is a level 44 Halfling Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

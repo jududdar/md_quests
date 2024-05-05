@@ -1,6 +1,11 @@
 # Guard Baldvin
 
 
+
+[Guard Baldvin](/npc/115132) is a level 38 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

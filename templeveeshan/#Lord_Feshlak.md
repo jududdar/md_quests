@@ -2,6 +2,11 @@
 
 
 
+[Lord Feshlak](/npc/124008) is a level 66 Dragon Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## On NPC Spawn
 

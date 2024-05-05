@@ -2,6 +2,11 @@
 
 
 
+[Trantor Everhot](/npc/67033) is a level 35 Dwarf Warrior that spawns in [North Kaladim](/zone/67).
+
+
+
+
 
 ## Dialog
 

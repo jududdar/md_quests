@@ -1,6 +1,11 @@
 # Deputy Sertlin
 
 
+
+[Deputy Sertlin](/npc/19011) is a level 20 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

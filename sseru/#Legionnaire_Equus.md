@@ -1,6 +1,11 @@
 # Legionnaire Equus
 
 
+
+[Legionnaire Equus](/npc/159625) is a level 50 Human Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

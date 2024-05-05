@@ -1,6 +1,11 @@
 # Sariliz Grizka
 
 
+
+[Sariliz Grizka](/npc/203410) is a level 46 Iksar Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Noilgin Mindtune](/npc/84162) is a level 30 Half Elf Bard that spawns in [Firiona Vie](/zone/84).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

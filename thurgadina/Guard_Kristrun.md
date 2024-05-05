@@ -1,6 +1,11 @@
 # Guard Kristrun
 
 
+
+[Guard Kristrun](/npc/115130) is a level 35 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

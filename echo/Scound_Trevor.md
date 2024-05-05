@@ -1,6 +1,11 @@
 # Scound Trevor
 
 
+
+[Scound Trevor](/npc/153075) is a level 45 Human Warrior that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

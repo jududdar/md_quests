@@ -1,6 +1,11 @@
 # Guard Ginton
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

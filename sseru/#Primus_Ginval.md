@@ -1,6 +1,11 @@
 # Primus Ginval
 
 
+
+[Primus Ginval](/npc/159070) is a level 55 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

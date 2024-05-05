@@ -1,6 +1,11 @@
 # Riley Shplots
 
 
+
+[Riley Shplots](/npc/1183) is a level 10 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

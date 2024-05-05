@@ -1,6 +1,11 @@
 # Jahsohn Aksot
 
 
+
+[Jahsohn Aksot](/npc/21043) is a level 29 Human Magician that spawns in [West Commonlands](/zone/21).
+
+
+
 ## Dialog
 
 **You say:** `hail`

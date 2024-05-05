@@ -2,6 +2,11 @@
 
 
 
+[Polzin Mrid](/npc/39063) is a level 55 Ghost Enchanter that spawns in [The Hole](/zone/39).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

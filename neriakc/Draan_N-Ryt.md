@@ -1,4 +1,9 @@
-# Draan N-Ryt
+# Draan N\`Ryt
+
+
+
+[Draan N\`Ryt](/npc/42086) is a level 50 Dark Elf Shopkeeper that spawns in [Neriak - 3rd Gate](/zone/42).
+
 
 
 ## Dialog

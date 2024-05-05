@@ -1,6 +1,11 @@
 # a Kromzek Captain
 
 
+
+[a Kromzek Captain](/npc/120115) is a level 58 Giant Warrior that spawns in [Western Wastes](/zone/120).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

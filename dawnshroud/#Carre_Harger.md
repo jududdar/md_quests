@@ -1,6 +1,11 @@
 # Carre Harger
 
 
+
+[Carre Harger](/npc/174033) is a level 44 Half Elf Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Turn-Ins
 
 

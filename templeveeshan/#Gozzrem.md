@@ -2,6 +2,11 @@
 
 
 
+[Gozzrem](/npc/124105) is a level 66 Dragon Cleric that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 
 ## Dialog
 

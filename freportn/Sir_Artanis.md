@@ -1,6 +1,11 @@
 # Sir Artanis
 
 
+
+[Sir Artanis](/npc/8074) is a level 30 Guard Paladin that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 **You say:** `befallen`

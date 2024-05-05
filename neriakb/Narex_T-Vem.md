@@ -1,4 +1,9 @@
-# Narex T-Vem
+# Narex T\`Vem
+
+
+
+[Narex T\`Vem](/npc/41030) is a level 61 Dark Elf GM Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 

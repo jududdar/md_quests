@@ -2,6 +2,11 @@
 
 
 
+[Assassin Mirot](/npc/202321) is a level 61 Dark Elf GM Rogue that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 
 ## Dialog
 

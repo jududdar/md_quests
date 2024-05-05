@@ -2,6 +2,11 @@
 
 
 
+[The Toilmaster](/npc/106066) is a level 40 Iksar Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
+
 
 ## Dialog
 

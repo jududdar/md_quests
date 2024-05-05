@@ -2,6 +2,11 @@
 
 
 
+[Sir Morgan](/npc/15045) is a level 30 Human Warrior that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
+
 
 
 

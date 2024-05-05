@@ -1,6 +1,11 @@
 # Guard Allmayn
 
 
+
+[Guard Allmayn](/npc/61005) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

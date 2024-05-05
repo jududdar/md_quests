@@ -2,6 +2,11 @@
 
 
 
+[Phiz Frugrin](/npc/56115) is a level 25 Gnome Wizard that spawns in [Steamfont Mountains](/zone/56).
+
+
+
+
 
 
 

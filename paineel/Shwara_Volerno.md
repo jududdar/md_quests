@@ -1,6 +1,11 @@
 # Shwara Volerno
 
 
+
+[Shwara Volerno](/npc/75015) is a level 61 Erudite GM Necromancer that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

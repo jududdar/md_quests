@@ -2,6 +2,11 @@
 
 
 
+[The Great Oowomp](/npc/96004) is a level 34 Ogre Shaman that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # A Vigilum Seniori
 
 
+
+[A Vigilum Seniori](/npc/159093) is a level 60 Half Elf Ranger that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

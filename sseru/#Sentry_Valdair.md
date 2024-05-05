@@ -1,6 +1,11 @@
 # Sentry Valdair
 
 
+
+[Sentry Valdair](/npc/159029) is a level 38 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

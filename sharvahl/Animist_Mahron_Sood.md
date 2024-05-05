@@ -2,6 +2,11 @@
 
 
 
+[Animist Mahron Sood](/npc/155055) is a level 50 Vah Shir Beastlord that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

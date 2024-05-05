@@ -2,6 +2,11 @@
 
 
 
+[Ajorek the Crimson Fang](/npc/124088) is a level 63 Drake Warrior that spawns in [Temple of Veeshan](/zone/124).
+
+
+
+
 ## Combat
 
 if  Ajorek the Crimson Fang enters combat  then

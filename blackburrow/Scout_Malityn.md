@@ -1,6 +1,11 @@
 # Scout Malityn
 
 
+
+[Scout Malityn](/npc/17028) is a level 10 Human Warrior that spawns in [Blackburrow](/zone/17).
+
+
+
 ## Turn-Ins
 
 local expansion_flag = eq.get_current_expansion();

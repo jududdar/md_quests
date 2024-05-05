@@ -1,6 +1,11 @@
 # Vevina Velweaver
 
 
+
+[Vevina Velweaver](/npc/121081) is a level 30 Coldain Warrior that spawns in [Crystal Caverns](/zone/121).
+
+
+
 ## Dialog
 
 **You say:** `hail`

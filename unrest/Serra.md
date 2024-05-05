@@ -1,6 +1,11 @@
 # Serra
 
 
+
+[Serra](/npc/63029) is a level 1 Zombie Warrior that spawns in [The Estate of Unrest](/zone/63).
+
+
+
 ## Dialog
 
 **You say:** `hail`

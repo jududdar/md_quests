@@ -1,6 +1,11 @@
 # Palatos Kynarn
 
 
+
+[Palatos Kynarn](/npc/10112) is a level 22 Erudite Enchanter that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

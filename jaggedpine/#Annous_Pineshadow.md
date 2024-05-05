@@ -2,6 +2,11 @@
 
 
 
+[Annous Pineshadow](/npc/181166) is a level 60 Human Cleric that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Supreme Laochsmith Psorin
 
 
+
+[Supreme Laochsmith Psorin](/npc/114014) is a level 59 Wyvern Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

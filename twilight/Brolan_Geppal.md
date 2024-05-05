@@ -1,6 +1,11 @@
 # Brolan Geppal
 
 
+
+[Brolan Geppal](/npc/170051) is a level 40 Half Elf Bard that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

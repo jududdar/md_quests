@@ -1,6 +1,11 @@
 # Kirran Mirrah
 
 
+
+[Kirran Mirrah](/npc/74000) is a level 14 Kerran Wizard that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Turn-Ins
 
 

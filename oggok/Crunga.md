@@ -1,6 +1,11 @@
 # Crunga
 
 
+
+[Crunga](/npc/49063) is a level 40 Ogre Shopkeeper that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

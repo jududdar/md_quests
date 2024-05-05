@@ -1,6 +1,11 @@
 # an Iksar foreman
 
 
+
+[an Iksar foreman](/npc/162134) is a level 30 Iksar Warrior that spawns in [Ssraeshza Temple](/zone/162).
+
+
+
 ## Dialog
 
 **You say:** `glanoxx sent me`

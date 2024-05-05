@@ -1,6 +1,11 @@
 # an Iksar prisoner
 
 
+
+[an Iksar prisoner](/npc/104053) is a level 28 Iksar Shadow Knight that spawns in [The Crypt of Dalnir](/zone/104).
+
+
+
 ## Dialog
 
 **You say:** `hail`

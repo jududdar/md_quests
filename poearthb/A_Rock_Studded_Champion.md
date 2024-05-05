@@ -1,4 +1,9 @@
 # A Rock Studded Champion
+
+
+
+[A Rock Studded Champion](/npc/222010) is a level 66 Giant Warrior that spawns in [Plane of Earth](/zone/222).
+
 local INVIS_MAN_ID = 369488;
 local GALRONAR_TYPE = 222036;
 local GALRONAR_SPAWNID = 369494;

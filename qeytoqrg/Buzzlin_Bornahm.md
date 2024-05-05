@@ -1,6 +1,11 @@
 # Buzzlin Bornahm
 
 
+
+[Buzzlin Bornahm](/npc/4204) is a level 24 Dwarf Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

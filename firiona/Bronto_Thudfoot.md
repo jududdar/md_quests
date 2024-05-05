@@ -1,6 +1,11 @@
 # Bronto Thudfoot
 
 
+
+[Bronto Thudfoot](/npc/10135) is a level 30 Ogre Warrior that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

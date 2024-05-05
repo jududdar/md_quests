@@ -2,6 +2,11 @@
 
 
 
+[Klok Sargin](/npc/85140) is a level 30 Iksar Shopkeeper that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
+
 ## Dialog
 
 **You say:** `Sisters of Scale`

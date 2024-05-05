@@ -2,6 +2,11 @@
 
 
 
+[Sonsa Fromp](/npc/33088) is a level 25 Halfling Shopkeeper that spawns in [Misty Thicket](/zone/33).
+
+
+
+
 
 ## On NPC Spawn
 

@@ -1,6 +1,11 @@
 # A Praetorian Veneratius
 
 
+
+[A Praetorian Veneratius](/npc/159098) is a level 61 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

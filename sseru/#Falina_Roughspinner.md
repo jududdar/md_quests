@@ -1,6 +1,11 @@
 # Falina Roughspinner
 
 
+
+[Falina Roughspinner](/npc/159474) is a level 42 Halfling Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

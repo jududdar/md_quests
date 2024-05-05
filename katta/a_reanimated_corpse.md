@@ -1,6 +1,11 @@
 # a reanimated corpse
 
 
+
+[a reanimated corpse](/npc/160096) is a level 33 Zombie Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 120 seconds

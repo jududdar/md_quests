@@ -1,6 +1,11 @@
 # Garl
 
 
+
+[Garl](/npc/155192) is a level 10 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *1* for 110 seconds

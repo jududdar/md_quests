@@ -1,6 +1,11 @@
 # Basher Zabaak
 
 
+
+[Basher Zabaak](/npc/52020) is a level 33 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

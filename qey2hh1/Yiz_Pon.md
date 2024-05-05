@@ -2,6 +2,11 @@
 
 
 
+[Yiz Pon](/npc/12006) is a level 5 Human Wizard that spawns in [Western Plains of Karana](/zone/12).
+
+
+
+
 
 ## Dialog
 

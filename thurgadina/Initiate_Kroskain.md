@@ -2,6 +2,11 @@
 
 
 
+[Initiate Kroskain](/npc/115203) is a level 34 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## On NPC Spawn
 

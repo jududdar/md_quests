@@ -1,6 +1,11 @@
 # Guard Gonin
 
 
+
+[Guard Gonin](/npc/68217) is a level 26 Dwarf Warrior that spawns in [Butcherblock Mountains](/zone/68).
+
+
+
 ## Signals
 
 >**Guard Gonin says:** You mean your stench will soon march upon the land!

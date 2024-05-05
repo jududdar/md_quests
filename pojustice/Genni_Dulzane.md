@@ -2,6 +2,11 @@
 
 
 
+[Genni Dulzane](/npc/201410) is a level 44 Ghost Warrior that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

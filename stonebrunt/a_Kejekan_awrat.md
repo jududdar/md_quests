@@ -1,6 +1,11 @@
 # a Kejekan awrat
 
 
+
+[a Kejekan awrat](/npc/100159) is a level 16 Kerran Shaman that spawns in [Stonebrunt Mountains](/zone/100).
+
+
+
 ## Dialog
 
 **You say:** `hail`

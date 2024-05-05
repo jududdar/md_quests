@@ -1,6 +1,11 @@
 # Opal Leganyn
 
 
+
+[Opal Leganyn](/npc/61048) is a level 40 High Elf Shopkeeper that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Elsa McGornit
 
 
+
+[Elsa McGornit](/npc/159040) is a level 48 Barbarian Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

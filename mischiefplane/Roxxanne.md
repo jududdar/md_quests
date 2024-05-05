@@ -1,6 +1,11 @@
 # Roxxanne
 
 
+
+[Roxxanne](/npc/126184) is a level 55 Sphinx Wizard that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## Dialog
 
 Brittina = eq.get_entity_list():GetMobByNpcTypeID(126213);

@@ -1,6 +1,11 @@
 # Auliffe Chaoswind
 
 
+
+[Auliffe Chaoswind](/npc/209059) is a level 67 Giant Cleric that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Auliffe Chaoswind enters combat  then

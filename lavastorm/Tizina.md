@@ -1,6 +1,11 @@
 # Tizina
 
 
+
+[Tizina](/npc/27018) is a level 30 Human Enchanter that spawns in [Lavastorm Mountains](/zone/27).
+
+
+
 ## Turn-Ins
 
 

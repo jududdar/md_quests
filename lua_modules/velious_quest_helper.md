@@ -1,4 +1,9 @@
 # velious quest helper
+
+
+
+
+
 local helper = {}
 
 helper.ARMOR_GEMS = {

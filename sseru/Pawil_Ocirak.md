@@ -1,6 +1,11 @@
 # Pawil Ocirak
 
 
+
+[Pawil Ocirak](/npc/159411) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

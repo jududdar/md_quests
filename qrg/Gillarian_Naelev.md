@@ -1,6 +1,11 @@
 # Gillarian Naelev
 
 
+
+[Gillarian Naelev](/npc/3025) is a level 61 Human GM Ranger that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

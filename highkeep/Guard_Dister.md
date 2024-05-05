@@ -1,6 +1,11 @@
 # Guard Dister
 
 
+
+[Guard Dister](/npc/6165) is a level 22 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

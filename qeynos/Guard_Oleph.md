@@ -1,6 +1,11 @@
 # Guard Oleph
 
 
+
+[Guard Oleph](/npc/1307) is a level 9 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

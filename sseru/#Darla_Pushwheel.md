@@ -1,6 +1,11 @@
 # Darla Pushwheel
 
 
+
+[Darla Pushwheel](/npc/159440) is a level 48 Halfling Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

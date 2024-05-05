@@ -1,6 +1,11 @@
 # Noresa Sparkle
 
 
+
+[Noresa Sparkle](/npc/21069) is a level 16 Human Shopkeeper that spawns in [West Commonlands](/zone/21).
+
+
+
 ## Dialog
 
 **You say:** `hail`

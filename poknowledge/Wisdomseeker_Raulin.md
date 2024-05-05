@@ -1,6 +1,11 @@
 # Wisdomseeker Raulin
 
 
+
+[Wisdomseeker Raulin](/npc/202167) is a level 40 Wood Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

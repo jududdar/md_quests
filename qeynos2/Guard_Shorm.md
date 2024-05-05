@@ -1,6 +1,11 @@
 # Guard Shorm
 
 
+
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -2,6 +2,11 @@
 
 
 
+[Tacar Tissleplay](/npc/61069) is a level 25 Wood Elf Bard that spawns in [Northern Felwithe](/zone/61).
+
+
+
+
 
 ## Dialog
 

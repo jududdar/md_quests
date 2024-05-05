@@ -1,6 +1,11 @@
 # Brenthalion Aleslammer
 
 
+
+[Brenthalion Aleslammer](/npc/67004) is a level 61 Dwarf GM Paladin that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

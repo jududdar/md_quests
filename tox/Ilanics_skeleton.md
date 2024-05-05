@@ -2,6 +2,11 @@
 
 
 
+[Ilanics skeleton](/npc/38150) is a level 4 Skeleton Warrior that spawns in [Toxxulia Forest](/zone/38).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

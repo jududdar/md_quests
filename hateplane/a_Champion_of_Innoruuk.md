@@ -1,4 +1,9 @@
 # a Champion of Innoruuk
+
+
+
+[a Champion of Innoruuk](/npc/76087) is a level 54 Dark Elf Warrior that spawns in [Plane of Hate](/zone/76).
+
 function event_signal(event)
 
 

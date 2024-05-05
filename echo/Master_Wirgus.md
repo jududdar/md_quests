@@ -1,6 +1,11 @@
 # Master Wirgus
 
 
+
+[Master Wirgus](/npc/153096) is a level 61 Gnome GM Enchanter that spawns in [Echo Caverns](/zone/153).
+
+
+
 ## Dialog
 
 **You say:** `hail`

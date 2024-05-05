@@ -1,6 +1,11 @@
 # Triblix Tikbok
 
 
+
+[Triblix Tikbok](/npc/160128) is a level 44 Gnome Enchanter that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Rifkin
 
 
+
+[Rifkin](/npc/150070) is a level 32 Half Elf Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

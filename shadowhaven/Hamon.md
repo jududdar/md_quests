@@ -1,6 +1,11 @@
 # Hamon
 
 
+
+[Hamon](/npc/150212) is a level 8 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

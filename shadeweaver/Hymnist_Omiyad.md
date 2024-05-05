@@ -1,6 +1,11 @@
 # Hymnist Omiyad
 
 
+
+[Hymnist Omiyad](/npc/165125) is a level 61 Vah Shir GM Bard that spawns in [Shadeweaver's Thicket](/zone/165).
+
+
+
 ## Dialog
 
 **You say:** `hail`

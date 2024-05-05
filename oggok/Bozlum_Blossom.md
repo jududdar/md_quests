@@ -1,6 +1,11 @@
 # Bozlum Blossom
 
 
+
+[Bozlum Blossom](/npc/49023) is a level 60 Ogre Shaman that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

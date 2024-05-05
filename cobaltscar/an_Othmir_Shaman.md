@@ -1,6 +1,11 @@
 # an Othmir Shaman
 
 
+
+[an Othmir Shaman](/npc/117067) is a level 42 Othmir Shaman that spawns in [Cobaltscar](/zone/117).
+
+
+
 ## Dialog
 
 **You say:** `hail`

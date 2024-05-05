@@ -1,6 +1,11 @@
 # a confused castaway
 
 
+
+[a confused castaway](/npc/210461) is a level 65 Recuso Warrior that spawns in [Plane of Storms](/zone/210).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *lie* for 1 seconds

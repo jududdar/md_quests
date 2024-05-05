@@ -1,6 +1,11 @@
 # Paralin Notion
 
 
+
+[Paralin Notion](/npc/208066) is a level 66 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 

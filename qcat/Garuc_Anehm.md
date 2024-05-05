@@ -1,6 +1,11 @@
 # Garuc Anehm
 
 
+
+[Garuc Anehm](/npc/45069) is a level 61 Human GM Shadow Knight that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Clockwork XIIIB
 
 
+
+[Clockwork XIIIB](/npc/55043) is a level 29 Spider Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## On NPC Death
 
 local rand = math.random(2);

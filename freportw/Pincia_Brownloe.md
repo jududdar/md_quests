@@ -1,6 +1,11 @@
 # Pincia Brownloe
 
 
+
+[Pincia Brownloe](/npc/9088) is a level 45 Human Shopkeeper that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Horiel Gaeslania
 
 
+
+[Horiel Gaeslania](/npc/150149) is a level 40 Erudite Shopkeeper that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

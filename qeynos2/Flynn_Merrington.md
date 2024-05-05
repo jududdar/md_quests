@@ -1,6 +1,11 @@
 # Flynn Merrington
 
 
+
+[Flynn Merrington](/npc/2091) is a level 15 Halfling Rogue that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

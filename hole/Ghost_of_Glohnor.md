@@ -2,6 +2,11 @@
 
 
 
+[Ghost of Glohnor](/npc/39054) is a level 50 Ghost Warrior that spawns in [The Hole](/zone/39).
+
+
+
+
 ## Turn-Ins
 
 

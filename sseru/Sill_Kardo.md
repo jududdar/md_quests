@@ -1,6 +1,11 @@
 # Sill Kardo
 
 
+
+[Sill Kardo](/npc/159019) is a level 60 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

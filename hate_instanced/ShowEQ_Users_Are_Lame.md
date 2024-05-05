@@ -1,4 +1,9 @@
 # ShowEQ Users Are Lame
+
+
+
+
+
 function event_spawn(event)
 
 local xloc = event.self:GetX();

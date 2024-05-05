@@ -1,6 +1,11 @@
 # Miklos Tiost
 
 
+
+[Miklos Tiost](/npc/159042) is a level 60 Human Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

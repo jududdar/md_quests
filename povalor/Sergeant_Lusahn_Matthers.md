@@ -1,6 +1,11 @@
 # Sergeant Lusahn Matthers
 
 
+
+[Sergeant Lusahn Matthers](/npc/208054) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+
+
 ## Dialog
 
 **You say:** `hail`

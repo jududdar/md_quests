@@ -1,6 +1,11 @@
 # an erudite prisoner
 
 
+
+[an erudite prisoner](/npc/101068) is a level 6 Erudite Wizard that spawns in [The Warrens](/zone/101).
+
+
+
 ## Dialog
 
 **You say:** `hail`

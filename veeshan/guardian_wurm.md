@@ -1,4 +1,9 @@
 # guardian wurm
+
+
+
+[guardian wurm](/npc/108506) is a level 60 Wurm Warrior that spawns in [Veeshan's Peak](/zone/108).
+
 function event_death_complete(event)
 
 

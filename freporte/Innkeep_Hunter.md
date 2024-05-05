@@ -2,6 +2,11 @@
 
 
 
+[Innkeep Hunter](/npc/10059) is a level 45 Guard Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
+
 ## Turn-Ins
 
 

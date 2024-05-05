@@ -2,6 +2,11 @@
 
 
 
+[Timtok Tonsmith](/npc/21040) is a level 29 Dwarf Warrior that spawns in [West Commonlands](/zone/21).
+
+
+
+
 
 ## Dialog
 

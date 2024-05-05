@@ -1,6 +1,11 @@
 # Helia BlueHawk
 
 
+
+[Helia BlueHawk](/npc/24067) is a level 20 Erudite Shopkeeper that spawns in [Erudin](/zone/24).
+
+
+
 ## Dialog
 
 **You say:** `hail`

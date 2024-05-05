@@ -1,6 +1,11 @@
 # Dionin Needlespin
 
 
+
+[Dionin Needlespin](/npc/84190) is a level 40 Wood Elf Shopkeeper that spawns in [Firiona Vie](/zone/84).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -2,6 +2,11 @@
 
 
 
+[Jhassad Oceanson](/npc/96074) is a level 50 Erudite Cleric that spawns in [Timorous Deep](/zone/96).
+
+
+
+
 ## Turn-Ins
 
 

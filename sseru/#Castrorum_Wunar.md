@@ -1,6 +1,11 @@
 # Castrorum Wunar
 
 
+
+[Castrorum Wunar](/npc/159391) is a level 45 Gnome Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

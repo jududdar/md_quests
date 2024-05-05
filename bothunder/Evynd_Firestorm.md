@@ -1,6 +1,11 @@
 # Evynd Firestorm
 
 
+
+[Evynd Firestorm](/npc/209054) is a level 70 Giant Warrior that spawns in [Bastion of Thunder](/zone/209).
+
+
+
 ## Combat
 
 if  Evynd Firestorm enters combat  then

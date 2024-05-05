@@ -1,6 +1,11 @@
 # Queen Klicnik
 
 
+
+[Queen Klicnik](/npc/2108) is a level 8 Beetle Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## On NPC Death
 
 local rand = math.random(4);

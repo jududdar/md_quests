@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Altira Mamar](/npc/24035) is a level 1 Erudite Warrior that spawns in [Erudin](/zone/24).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Kirthor Faldyr
 
 
+
+[Kirthor Faldyr](/npc/174084) is a level 44 Human Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

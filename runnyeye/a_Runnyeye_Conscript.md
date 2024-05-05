@@ -1,4 +1,9 @@
-# a Runnyeye Conscript
+# a Runnyeye conscript
+
+
+
+[a Runnyeye conscript](/npc/11028) is a level 4 Goblin Wizard that spawns in [Runnyeye](/zone/11).
+
 
 
 ## Arrive at Waypoint Script

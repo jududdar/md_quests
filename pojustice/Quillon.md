@@ -2,6 +2,11 @@
 
 
 
+[Quillon](/npc/201407) is a level 44 Gargoyle Magician that spawns in [Plane of Justice](/zone/201).
+
+
+
+
 
 
 

@@ -1,6 +1,11 @@
 # Volunteer Renlor
 
 
+
+[Volunteer Renlor](/npc/5003) is a level 5 Human Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 **You say:** `hail`

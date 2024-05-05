@@ -1,6 +1,11 @@
 # Basher Razbaz
 
 
+
+[Basher Razbaz](/npc/52014) is a level 38 Troll Warrior that spawns in [Grobb](/zone/52).
+
+
+
 ## Dialog
 
 **You say:** `armor`

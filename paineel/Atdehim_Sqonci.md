@@ -1,6 +1,11 @@
 # Atdehim Sqonci
 
 
+
+[Atdehim Sqonci](/npc/75019) is a level 45 Erudite Cleric that spawns in [Paineel](/zone/75).
+
+
+
 ## Dialog
 
 if **Faction** >= Apprehensive then 

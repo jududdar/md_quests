@@ -1,6 +1,11 @@
 # A Vigilum of the Eye
 
 
+
+[A Vigilum of the Eye](/npc/159668) is a level 45 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

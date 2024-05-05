@@ -1,4 +1,9 @@
-# avatar of terror
+# Avatar of Terror
+
+
+
+[Avatar of Terror](/npc/48393) is a level 60 Golem Warrior that spawns in [Paineel](/zone/75).
+
 count = 0;
 
 

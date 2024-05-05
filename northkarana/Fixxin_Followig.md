@@ -2,6 +2,11 @@
 
 
 
+[Fixxin Followig](/npc/13063) is a level 30 Gnome Enchanter that spawns in [Northern Plains of Karana](/zone/13).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *follow* for 1 seconds

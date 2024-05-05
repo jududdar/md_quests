@@ -2,6 +2,11 @@
 
 
 
+[Torin Krentar](/npc/45074) is a level 35 Human Cleric that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
+
 
 ## Dialog
 

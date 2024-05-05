@@ -1,6 +1,11 @@
 # Guard Fireblight
 
 
+
+[Guard Fireblight](/npc/54099) is a level 50 Guard Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
 ## Dialog
 
 **You say:** `soldiers`

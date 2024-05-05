@@ -2,6 +2,11 @@
 
 
 
+[Alchemist Granika](/npc/93075) is a level 25 Iksar Shaman that spawns in [The Overthere](/zone/93).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *sit* for 10 seconds

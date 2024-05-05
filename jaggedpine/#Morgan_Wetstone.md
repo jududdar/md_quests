@@ -1,6 +1,11 @@
 # Morgan Wetstone
 
 
+
+[Morgan Wetstone](/npc/181203) is a level 25 Human Shopkeeper that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

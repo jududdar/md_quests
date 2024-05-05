@@ -1,6 +1,11 @@
 # Teepa Berrytoe
 
 
+
+[Teepa Berrytoe](/npc/160116) is a level 62 Halfling Rogue that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sentinel Knox
 
 
+
+[Sentinel Knox](/npc/23066) is a level 30 Erudite Paladin that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `kerra isle`

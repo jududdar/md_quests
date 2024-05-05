@@ -1,6 +1,11 @@
 # Lerin Sardor
 
 
+
+[Lerin Sardor](/npc/161008) is a level 18 Human Warrior that spawns in [Netherbian Lair](/zone/161).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1 or e.wp == 2) then

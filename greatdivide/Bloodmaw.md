@@ -1,6 +1,11 @@
 # Bloodmaw
 
 
+
+[Bloodmaw](/npc/118027) is a level 1 Ulthork Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Turn-Ins
 
 

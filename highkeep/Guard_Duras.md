@@ -1,6 +1,11 @@
 # Guard Duras
 
 
+
+[Guard Duras](/npc/6151) is a level 25 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

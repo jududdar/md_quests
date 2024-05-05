@@ -2,6 +2,11 @@
 
 
 
+[a clockwork receptionist](/npc/55087) is a level 40 Clockwork Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

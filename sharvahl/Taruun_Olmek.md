@@ -1,6 +1,11 @@
 # Taruun Olmek
 
 
+
+[Taruun Olmek](/npc/155124) is a level 50 Vah Shir Rogue that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

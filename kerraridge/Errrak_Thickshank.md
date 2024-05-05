@@ -1,6 +1,11 @@
 # Errrak Thickshank
 
 
+
+[Errrak Thickshank](/npc/74055) is a level 17 Kerran Monk that spawns in [Kerra Isle](/zone/74).
+
+
+
 ## Dialog
 
 if **Faction** >= Dubious then

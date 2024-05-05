@@ -1,4 +1,9 @@
-# War Priestess T-zan
+# War Priestess T\`zan
+
+
+
+[War Priestess T\`zan](/npc/20064) is a level 59 Dark Elf Cleric that spawns in [Kithicor Forest](/zone/20).
+
 
 
 

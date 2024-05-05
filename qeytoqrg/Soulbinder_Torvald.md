@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Torvald](/npc/60047) is a level 1 Dwarf Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Drella Stonegrinder
 
 
+
+[Drella Stonegrinder](/npc/112033) is a level 35 Coldain Warrior that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## Dialog
 
 **You say:** `hail`

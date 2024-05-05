@@ -2,6 +2,11 @@
 
 
 
+[Usbak the Old](/npc/67089) is a level 55 Dwarf Warrior that spawns in [North Kaladim](/zone/67).
+
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

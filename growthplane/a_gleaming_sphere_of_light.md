@@ -1,6 +1,11 @@
 # a gleaming sphere of light
 
 
+
+[a gleaming sphere of light](/npc/127034) is a level 65 Will-O-Wisp Warrior that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Dialog
 
 if(**Your level** >= 55) then

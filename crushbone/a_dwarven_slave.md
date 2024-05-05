@@ -1,6 +1,11 @@
 # a dwarven slave
 
 
+
+[a dwarven slave](/npc/58050) is a level 3 Dwarf Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Dialog
 
 **You say:** `hail`

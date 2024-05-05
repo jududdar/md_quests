@@ -1,6 +1,11 @@
 # Velena Corgtec
 
 
+
+[Velena Corgtec](/npc/55119) is a level 61 Gnome GM Wizard that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Turn-Ins
 
 

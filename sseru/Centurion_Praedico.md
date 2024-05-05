@@ -1,6 +1,11 @@
 # Centurion Praedico
 
 
+
+[Centurion Praedico](/npc/159079) is a level 50 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

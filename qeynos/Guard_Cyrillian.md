@@ -1,6 +1,11 @@
 # Guard Cyrillian
 
 
+
+[Guard Cyrillian](/npc/1006) is a level 5 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Signals
 
 >**Guard Cyrillian says:** Hey!  Quit pestering Mezzt!  Can't you see he has no tongue?  And before you ask, it is none of your business what happened to him.  Bug off!

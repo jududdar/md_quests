@@ -1,6 +1,11 @@
 # Optio Morgani
 
 
+
+[Optio Morgani](/npc/159026) is a level 52 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Whysia Flock
 
 
+
+[Whysia Flock](/npc/2111) is a level 25 Human Shopkeeper that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

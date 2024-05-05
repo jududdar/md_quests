@@ -1,6 +1,11 @@
 # A Castrorum Vigilum
 
 
+
+[A Castrorum Vigilum](/npc/159008) is a level 39 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

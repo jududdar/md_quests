@@ -2,6 +2,11 @@
 
 
 
+[Soulbinder Oakstout](/npc/54179) is a level 1 Wood Elf Warrior that spawns in [Greater Faydark](/zone/54).
+
+
+
+
 
 ## Dialog
 

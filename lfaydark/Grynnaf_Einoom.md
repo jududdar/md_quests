@@ -1,6 +1,11 @@
 # Grynnaf Einoom
 
 
+
+[Grynnaf Einoom](/npc/57102) is a level 18 Gnome Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## Dialog
 
 **You say:** `hail`

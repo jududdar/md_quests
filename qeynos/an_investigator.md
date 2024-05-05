@@ -1,6 +1,11 @@
 # an investigator
 
 
+
+[an investigator](/npc/1031) is a level 10 Human Warrior that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 local qglobals = eq.get_qglobals(e.self);

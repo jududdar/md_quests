@@ -1,6 +1,11 @@
 # Legionnaire Claudius
 
 
+
+[Legionnaire Claudius](/npc/160136) is a level 1 Human Warrior that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 local vahn = eq.get_entity_list():GetMobByNpcTypeID( [Vahn](/npc/160137));

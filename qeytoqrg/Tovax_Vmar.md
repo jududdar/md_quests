@@ -1,6 +1,11 @@
 # Tovax Vmar
 
 
+
+[Tovax Vmar](/npc/4020) is a level 10 Human Necromancer that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `hail`

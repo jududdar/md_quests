@@ -1,6 +1,11 @@
 # Hendi Mrubble
 
 
+
+[Hendi Mrubble](/npc/19063) is a level 61 Halfling GM Cleric that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

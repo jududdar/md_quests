@@ -2,6 +2,11 @@
 
 
 
+[Kelkim Menkia](/npc/14082) is a level 51 Wood Elf Bard that spawns in [Southern Plains of Karana](/zone/14).
+
+
+
+
 
 ## Dialog
 

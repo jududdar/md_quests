@@ -1,6 +1,11 @@
 # Tukk
 
 
+
+[Tukk](/npc/12085) is a level 5 Human Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

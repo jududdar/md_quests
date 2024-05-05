@@ -2,6 +2,11 @@
 
 
 
+[Scrubber IV](/npc/55221) is a level 8 Rat Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## On NPC Spawn
 

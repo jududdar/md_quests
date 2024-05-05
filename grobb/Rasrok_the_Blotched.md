@@ -2,6 +2,11 @@
 
 
 
+[Rasrok the Blotched](/npc/52071) is a level 61 Troll Shadow Knight that spawns in [Grobb](/zone/52).
+
+
+
+
 
 ## Dialog
 

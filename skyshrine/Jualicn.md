@@ -1,6 +1,11 @@
 # Jualicn
 
 
+
+[Jualicn](/npc/114614) is a level 65 Wurm Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

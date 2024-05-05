@@ -1,6 +1,11 @@
 # Trooper Vaurk
 
 
+
+[Trooper Vaurk](/npc/85158) is a level 40 Iksar Warrior that spawns in [Lake of Ill Omen](/zone/85).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Sister of Erollisi
 
 
+
+[Sister of Erollisi](/npc/69043) is a level 7 Wood Elf Warrior that spawns in [Ocean of Tears](/zone/69).
+
+
+
 ## Dialog
 
 **You say:** `hail`

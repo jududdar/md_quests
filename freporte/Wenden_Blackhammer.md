@@ -1,6 +1,11 @@
 # Wenden Blackhammer
 
 
+
+[Wenden Blackhammer](/npc/10116) is a level 50 Dwarf Shadow Knight that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

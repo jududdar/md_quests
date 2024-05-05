@@ -1,6 +1,11 @@
 # Milea Clothspinner
 
 
+
+[Milea Clothspinner](/npc/15118) is a level 14 Human Warrior that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## Dialog
 
 if **Faction** >= Indifferent then

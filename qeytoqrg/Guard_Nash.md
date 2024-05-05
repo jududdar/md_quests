@@ -1,6 +1,11 @@
 # Guard Nash
 
 
+
+[Guard Nash](/npc/4066) is a level 40 Human Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## Dialog
 
 **You say:** `blackburrow`

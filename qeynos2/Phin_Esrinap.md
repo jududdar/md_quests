@@ -1,6 +1,11 @@
 # Phin Esrinap
 
 
+
+[Phin Esrinap](/npc/2075) is a level 61 Human GM Monk that spawns in [North Qeynos](/zone/2).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *konem* for 4100 seconds

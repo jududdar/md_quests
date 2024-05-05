@@ -2,6 +2,11 @@
 
 
 
+[Warlord Korehan](/npc/202012) is a level 61 Dwarf GM Warrior that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

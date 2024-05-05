@@ -1,6 +1,11 @@
 # Dugaas Helpyre
 
 
+
+[Dugaas Helpyre](/npc/71084) is a level 55 Human Necromancer that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

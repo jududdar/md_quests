@@ -1,4 +1,9 @@
-# Dragoon V-Resh
+# Dragoon V\`Resh
+
+
+
+[Dragoon V\`Resh](/npc/93086) is a level 50 Dark Elf Warrior that spawns in [The Overthere](/zone/93).
+
 
 
 ## Signals

@@ -1,6 +1,11 @@
 # Rodrick Marslett
 
 
+
+[Rodrick Marslett](/npc/6056) is a level 13 High Elf Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

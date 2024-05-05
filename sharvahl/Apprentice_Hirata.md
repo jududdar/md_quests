@@ -1,6 +1,11 @@
 # Apprentice Hirata
 
 
+
+[Apprentice Hirata](/npc/155044) is a level 50 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

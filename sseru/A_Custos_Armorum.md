@@ -1,6 +1,11 @@
 # A Custos Armorum
 
 
+
+[A Custos Armorum](/npc/159527) is a level 60 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

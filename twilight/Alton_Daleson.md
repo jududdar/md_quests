@@ -1,6 +1,11 @@
 # Alton Daleson
 
 
+
+[Alton Daleson](/npc/170151) is a level 50 Human Ranger that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

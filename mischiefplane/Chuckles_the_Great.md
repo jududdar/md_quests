@@ -1,6 +1,11 @@
 # Chuckles the Great
 
 
+
+[Chuckles the Great](/npc/126281) is a level 55 Ratman Warrior that spawns in [Plane of Mischief](/zone/126).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *dance* for 1 seconds

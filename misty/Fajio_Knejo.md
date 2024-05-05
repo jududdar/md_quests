@@ -1,6 +1,11 @@
 # Fajio Knejo
 
 
+
+[Fajio Knejo](/npc/33092) is a level 55 Wood Elf Warrior that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

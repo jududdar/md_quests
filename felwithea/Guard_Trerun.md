@@ -1,6 +1,11 @@
 # Guard Trerun
 
 
+
+[Guard Trerun](/npc/61082) is a level 38 Guard Paladin that spawns in [Northern Felwithe](/zone/61).
+
+
+
 ## Dialog
 
 **You say:** `supplies`

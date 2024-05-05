@@ -2,6 +2,11 @@
 
 
 
+[Rallic Aristos](/npc/160146) is a level 60 Human Rogue that spawns in [Katta Castellum](/zone/160).
+
+
+
+
 
 ## Dialog
 

@@ -1,6 +1,11 @@
 # Questioner Finhorn
 
 
+
+[Questioner Finhorn](/npc/159343) is a level 52 Erudite Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Mils McMarrin
 
 
+
+[Mils McMarrin](/npc/29073) is a level 40 Barbarian Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

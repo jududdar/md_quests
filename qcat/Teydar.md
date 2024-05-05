@@ -2,6 +2,11 @@
 
 
 
+[Teydar](/npc/45044) is a level 60 Human Shadow Knight that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
+
 
 ## Dialog
 

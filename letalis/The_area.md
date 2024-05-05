@@ -1,6 +1,11 @@
 # The area
 
 
+
+
+
+
+
 ## On NPC Spawn
 
 local ex = e.self:GetX();

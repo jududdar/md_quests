@@ -2,6 +2,11 @@
 
 
 
+[Glyssa Sonshaw](/npc/9067) is a level 61 Erudite GM Enchanter that spawns in [West Freeport](/zone/9).
+
+
+
+
 ## Dialog
 
 local enchant_bars_lib = require("self_found_enchant_bars");

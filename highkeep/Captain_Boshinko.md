@@ -1,6 +1,11 @@
 # Captain Boshinko
 
 
+
+[Captain Boshinko](/npc/6042) is a level 40 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 local fac = e.other:GetFaction(e.self);

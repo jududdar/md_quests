@@ -1,6 +1,11 @@
 # Bouncer Druk
 
 
+
+[Bouncer Druk](/npc/49124) is a level 33 Ogre Warrior that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `healer`

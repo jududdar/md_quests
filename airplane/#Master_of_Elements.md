@@ -1,6 +1,11 @@
 # Master of Elements
 
 
+
+[Master of Elements](/npc/71040) is a level 60 Elemental Magician that spawns in [Plane of Sky](/zone/71).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 5400 seconds

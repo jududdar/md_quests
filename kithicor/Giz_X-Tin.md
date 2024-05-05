@@ -1,4 +1,9 @@
-# Giz X-Tin
+# Giz X\`Tin
+
+
+
+[Giz X\`Tin](/npc/20058) is a level 50 Dark Elf Rogue that spawns in [Kithicor Forest](/zone/20).
+
 
 
 ## Turn-Ins

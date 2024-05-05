@@ -1,6 +1,11 @@
 # The Prophet
 
 
+
+[The Prophet](/npc/58031) is a level 17 Orc Shaman that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if The Prophet enters combat  then

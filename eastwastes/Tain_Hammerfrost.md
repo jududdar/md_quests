@@ -1,6 +1,11 @@
 # Tain Hammerfrost
 
 
+
+[Tain Hammerfrost](/npc/116005) is a level 1 Coldain Cleric that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Turn-Ins
 
 

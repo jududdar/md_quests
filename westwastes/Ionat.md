@@ -1,6 +1,11 @@
 # Ionat
 
 
+
+[Ionat](/npc/120017) is a level 56 Dragon Warrior that spawns in [Western Wastes](/zone/120).
+
+
+
 ## Dialog
 
 **You say:** `hail`

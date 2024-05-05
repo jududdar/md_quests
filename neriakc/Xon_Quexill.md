@@ -1,6 +1,11 @@
 # Xon Quexill
 
 
+
+[Xon Quexill](/npc/42063) is a level 61 Dark Elf GM Necromancer that spawns in [Neriak - 3rd Gate](/zone/42).
+
+
+
 ## Dialog
 
 **You say:** `hail`

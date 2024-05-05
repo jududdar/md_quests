@@ -1,6 +1,11 @@
 # A Hand Centurion
 
 
+
+[A Hand Centurion](/npc/159308) is a level 38 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

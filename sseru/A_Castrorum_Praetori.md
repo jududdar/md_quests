@@ -1,6 +1,11 @@
 # A Castrorum Praetori
 
 
+
+[A Castrorum Praetori](/npc/159359) is a level 60 High Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

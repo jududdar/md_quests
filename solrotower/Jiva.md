@@ -1,4 +1,9 @@
 # Jiva
+
+
+
+[Jiva](/npc/212014) is a level 75 Efreeti Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
 local TYPES = { 212404, 212399, 212403, 212406, 212405, 212400, 212401, 212402 };
 local LOCS = {
 

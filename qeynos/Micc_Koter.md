@@ -1,6 +1,11 @@
 # Micc Koter
 
 
+
+[Micc Koter](/npc/1072) is a level 10 Human Rogue that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

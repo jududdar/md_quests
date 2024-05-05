@@ -1,4 +1,9 @@
 # thread manager
+
+
+
+
+
 local TM = { };
 local ThreadManager = { StateFirstRun = 0, StateRunning = 1, StateSuspended = 2, StateWaiting = 3, threads = { } }
 setmetatable(ThreadManager, { __index = TM });

@@ -1,4 +1,9 @@
 # The
+
+
+
+
+
 local INVIS_MEN_SPAWNIDS = { 369487, 369488, 369489 };
 local GINTO_SPAWNID = 369491;
 

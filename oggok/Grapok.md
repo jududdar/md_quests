@@ -1,6 +1,11 @@
 # Grapok
 
 
+
+[Grapok](/npc/49047) is a level 50 Ogre Beastlord that spawns in [Oggok](/zone/49).
+
+
+
 ## Dialog
 
 **You say:** `hail`

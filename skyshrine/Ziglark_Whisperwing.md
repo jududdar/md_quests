@@ -1,6 +1,11 @@
 # Ziglark Whisperwing
 
 
+
+[Ziglark Whisperwing](/npc/114343) is a level 27 Drake Paladin that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

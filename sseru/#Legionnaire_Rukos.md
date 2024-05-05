@@ -1,6 +1,11 @@
 # Legionnaire Rukos
 
 
+
+[Legionnaire Rukos](/npc/159063) is a level 47 Dwarf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

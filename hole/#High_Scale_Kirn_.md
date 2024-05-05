@@ -1,6 +1,11 @@
 # High Scale Kirn 
 
 
+
+[High Scale Kirn ](/npc/39161) is a level 53 Iksar Shadow Knight that spawns in [The Hole](/zone/39).
+
+
+
 ## Turn-Ins
 
 

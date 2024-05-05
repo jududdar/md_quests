@@ -1,6 +1,11 @@
 # Guard Eyvindur
 
 
+
+[Guard Eyvindur](/npc/115131) is a level 37 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
 ## Dialog
 
 **You say:** `hail`

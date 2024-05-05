@@ -1,6 +1,11 @@
 # Iceberg
 
 
+
+[Iceberg](/npc/30062) is a level 35 Bear Warrior that spawns in [Everfrost Peaks](/zone/30).
+
+
+
 ## Dialog
 
 **You say:** `hail`

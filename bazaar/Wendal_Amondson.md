@@ -1,6 +1,11 @@
 # Wendal Amondson
 
 
+
+[Wendal Amondson](/npc/151206) is a level 35 Human Warrior that spawns in [The Bazaar](/zone/151).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

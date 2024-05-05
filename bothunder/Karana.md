@@ -1,4 +1,9 @@
 # Karana
+
+
+
+[Karana](/npc/209136) is a level 75 Karana Warrior that spawns in [Bastion of Thunder](/zone/209).
+
 local FLAG_LIMIT = 72;
 
 local flags = 0;

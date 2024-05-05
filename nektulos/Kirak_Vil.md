@@ -1,6 +1,11 @@
 # Kirak Vil
 
 
+
+[Kirak Vil](/npc/25301) is a level 56 Dark Elf Warrior that spawns in [Nektulos Forest](/zone/25).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Rizlona
 
 
+
+[Rizlona](/npc/212407) is a level 70 Dragon Warrior that spawns in [Tower of Solusek Ro](/zone/212).
+
+
+
 ## On NPC Death
 
 **Spawn NPC:**  [a flaming cauldron](/npc/212413) at (**y:** 2717, **x:** -980)

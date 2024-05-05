@@ -1,6 +1,11 @@
 # Markus Jaevins
 
 
+
+[Markus Jaevins](/npc/23037) is a level 61 Erudite GM Magician that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `hail`

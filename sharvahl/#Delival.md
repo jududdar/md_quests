@@ -1,6 +1,11 @@
 # Delival
 
 
+
+[Delival](/npc/155041) is a level 60 Vah Shir Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *worry* for 120 seconds

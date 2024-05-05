@@ -1,6 +1,11 @@
 # Guard Donlan
 
 
+
+[Guard Donlan](/npc/12147) is a level 29 Human Warrior that spawns in [Western Plains of Karana](/zone/12).
+
+
+
 ## Dialog
 
 **You say:** `hail`

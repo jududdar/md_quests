@@ -1,4 +1,9 @@
-# Modani Qu-Loni
+# Modani Qu\`Loni
+
+
+
+[Modani Qu\`Loni](/npc/93001) is a level 55 Scorpion Enchanter that spawns in [The Overthere](/zone/93).
+
 
 
 

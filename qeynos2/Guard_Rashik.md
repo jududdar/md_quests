@@ -1,6 +1,11 @@
 # Guard Rashik
 
 
+
+[Guard Rashik](/npc/2008) is a level 10 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

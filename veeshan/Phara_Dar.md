@@ -1,6 +1,11 @@
 # Phara Dar
 
 
+
+[Phara Dar](/npc/108510) is a level 65 Dragon Cleric that spawns in [Veeshan's Peak](/zone/108).
+
+
+
 ## Signals
 
 if ( e.signal == 1 ) then

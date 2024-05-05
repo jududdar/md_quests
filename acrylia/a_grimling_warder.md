@@ -1,6 +1,11 @@
 # a grimling warder
 
 
+
+[a grimling warder](/npc/154111) is a level 57 Grimling Warrior that spawns in [Acrylia Caverns](/zone/154).
+
+
+
 ## Combat
 
 if a grimling warder enters combat  then

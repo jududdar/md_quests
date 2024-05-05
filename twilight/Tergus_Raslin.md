@@ -1,6 +1,11 @@
 # Tergus Raslin
 
 
+
+[Tergus Raslin](/npc/170002) is a level 40 Half Elf Warrior that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

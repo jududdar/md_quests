@@ -1,6 +1,11 @@
 # Drenic Garrison
 
 
+
+[Drenic Garrison](/npc/160173) is a level 60 Human Wizard that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

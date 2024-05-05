@@ -1,6 +1,11 @@
 # Condor
 
 
+
+[Condor](/npc/160138) is a level 51 High Elf Paladin that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *attack* for 1 seconds

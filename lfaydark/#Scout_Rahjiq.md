@@ -1,6 +1,11 @@
 # Scout Rahjiq
 
 
+
+[Scout Rahjiq](/npc/57005) is a level 15 Vah Shir Warrior that spawns in [Lesser Faydark](/zone/57).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 3600 seconds

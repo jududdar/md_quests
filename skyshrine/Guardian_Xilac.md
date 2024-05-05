@@ -1,6 +1,11 @@
 # Guardian Xilac
 
 
+
+[Guardian Xilac](/npc/114559) is a level 35 Gargoyle Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

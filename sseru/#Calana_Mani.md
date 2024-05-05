@@ -1,6 +1,11 @@
 # Calana Mani
 
 
+
+[Calana Mani](/npc/159606) is a level 44 Gnome Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

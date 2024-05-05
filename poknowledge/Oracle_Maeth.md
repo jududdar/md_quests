@@ -2,6 +2,11 @@
 
 
 
+[Oracle Maeth](/npc/202246) is a level 61 Barbarian GM Shaman that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

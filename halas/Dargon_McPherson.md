@@ -1,6 +1,11 @@
 # Dargon McPherson
 
 
+
+[Dargon McPherson](/npc/29055) is a level 61 Barbarian GM Warrior that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

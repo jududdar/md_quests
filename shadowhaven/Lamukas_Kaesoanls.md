@@ -1,6 +1,11 @@
 # Lamukas Kaesoanls
 
 
+
+[Lamukas Kaesoanls](/npc/150082) is a level 65 Human GM Wizard that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

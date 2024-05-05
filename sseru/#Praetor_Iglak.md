@@ -1,6 +1,11 @@
 # Praetor Iglak
 
 
+
+[Praetor Iglak](/npc/159027) is a level 54 Human Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

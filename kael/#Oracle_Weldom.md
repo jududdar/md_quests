@@ -1,6 +1,11 @@
 # Oracle Weldom
 
 
+
+[Oracle Weldom](/npc/113016) is a level 46 Giant Wizard that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Dialog
 
 **You say:** `hail`

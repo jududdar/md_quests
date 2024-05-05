@@ -1,6 +1,11 @@
 # Bryma Loftaxe
 
 
+
+[Bryma Loftaxe](/npc/112036) is a level 35 Coldain Warrior that spawns in [Velketor's Labyrinth](/zone/112).
+
+
+
 ## Dialog
 
 **You say:** `hail`

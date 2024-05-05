@@ -1,6 +1,11 @@
 # Vigilum Naillo
 
 
+
+[Vigilum Naillo](/npc/159306) is a level 61 Half Elf GM Rogue that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

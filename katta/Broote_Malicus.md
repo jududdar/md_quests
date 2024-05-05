@@ -1,6 +1,11 @@
 # Broote Malicus
 
 
+
+[Broote Malicus](/npc/160156) is a level 62 Barbarian Beastlord that spawns in [Katta Castellum](/zone/160).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Cathleen Goodroot
 
 
+
+[Cathleen Goodroot](/npc/181180) is a level 25 Human Druid that spawns in [Jaggedpine Forest](/zone/181).
+
+
+
 ## Dialog
 
 **You say:** `hail`

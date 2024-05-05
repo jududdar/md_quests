@@ -1,6 +1,11 @@
 # Primus Rasha
 
 
+
+[Primus Rasha](/npc/159294) is a level 55 Barbarian Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

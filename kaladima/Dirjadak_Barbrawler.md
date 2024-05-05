@@ -1,6 +1,11 @@
 # Dirjadak Barbrawler
 
 
+
+[Dirjadak Barbrawler](/npc/60018) is a level 61 Dwarf GM Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 if(eq.get_current_expansion() >= 4.0) then

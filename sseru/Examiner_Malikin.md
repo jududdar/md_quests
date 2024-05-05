@@ -1,6 +1,11 @@
 # Examiner Malikin
 
 
+
+[Examiner Malikin](/npc/159574) is a level 37 Half Elf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

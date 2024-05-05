@@ -1,6 +1,11 @@
 # Omat Vastsea
 
 
+
+[Omat Vastsea](/npc/96033) is a level 60 Erudite Cleric that spawns in [Timorous Deep](/zone/96).
+
+
+
 ## Dialog
 
 **You say:** `hail`

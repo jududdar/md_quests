@@ -1,6 +1,11 @@
 # Clerk Doval
 
 
+
+[Clerk Doval](/npc/87154) is a level 30 Iksar Warrior that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Elder Gelok
 
 
+
+[Elder Gelok](/npc/203399) is a level 46 Gnome Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 local RanGem;
 
 function DoRandomGem(e)

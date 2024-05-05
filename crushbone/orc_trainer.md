@@ -1,6 +1,11 @@
 # orc trainer
 
 
+
+[orc trainer](/npc/58035) is a level 9 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if orc trainer enters combat  then

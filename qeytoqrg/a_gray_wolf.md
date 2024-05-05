@@ -1,4 +1,9 @@
 # a gray wolf
+
+
+
+[a gray wolf](/npc/4034) is a level 2 Wolf Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

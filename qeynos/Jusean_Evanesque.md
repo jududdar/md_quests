@@ -1,6 +1,11 @@
 # Jusean Evanesque
 
 
+
+[Jusean Evanesque](/npc/1049) is a level 61 Human GM Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

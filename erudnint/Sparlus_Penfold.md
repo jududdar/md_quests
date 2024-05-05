@@ -1,6 +1,11 @@
 # Sparlus Penfold
 
 
+
+[Sparlus Penfold](/npc/23017) is a level 25 Erudite Shopkeeper that spawns in [Erudin Palace](/zone/23).
+
+
+
 ## Dialog
 
 **You say:** `hail`

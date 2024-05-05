@@ -1,6 +1,11 @@
 # orc emissary
 
 
+
+[orc emissary](/npc/58041) is a level 11 Orc Warrior that spawns in [Crushbone](/zone/58).
+
+
+
 ## Combat
 
 if orc emissary enters combat  then

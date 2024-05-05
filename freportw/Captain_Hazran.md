@@ -1,6 +1,11 @@
 # Captain Hazran
 
 
+
+[Captain Hazran](/npc/9109) is a level 61 Guard GM Warrior that spawns in [West Freeport](/zone/9).
+
+
+
 ## Dialog
 
 **You say:** `hail`

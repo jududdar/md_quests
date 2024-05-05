@@ -1,4 +1,9 @@
 # a decaying skeleton
+
+
+
+[a decaying skeleton](/npc/2104) is a level 1 Skeleton Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

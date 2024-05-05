@@ -2,6 +2,11 @@
 
 
 
+[Sorcerer Farin](/npc/202243) is a level 61 Erudite GM Wizard that spawns in [Plane of Knowledge](/zone/202).
+
+
+
+
 ## Dialog
 
 **You say:** `Hail`

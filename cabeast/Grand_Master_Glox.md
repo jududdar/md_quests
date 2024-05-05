@@ -1,6 +1,11 @@
 # Grand Master Glox
 
 
+
+[Grand Master Glox](/npc/106100) is a level 61 Iksar GM Monk that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

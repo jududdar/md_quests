@@ -1,6 +1,11 @@
 # Lookout Nelorin
 
 
+
+[Lookout Nelorin](/npc/150024) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Dialog
 
 **You say:** `hail`

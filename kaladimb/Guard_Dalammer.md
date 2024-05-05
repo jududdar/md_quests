@@ -1,6 +1,11 @@
 # Guard Dalammer
 
 
+
+[Guard Dalammer](/npc/67072) is a level 38 Dwarf Warrior that spawns in [North Kaladim](/zone/67).
+
+
+
 ## Dialog
 
 **You say:** `armor`

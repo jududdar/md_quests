@@ -1,6 +1,11 @@
 # Royal Guard Jinjiq
 
 
+
+[Royal Guard Jinjiq](/npc/155286) is a level 50 Guard Warrior that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `training camp`

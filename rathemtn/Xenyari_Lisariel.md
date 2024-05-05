@@ -1,6 +1,11 @@
 # Xenyari Lisariel
 
 
+
+[Xenyari Lisariel](/npc/50271) is a level 40 Half Elf Druid that spawns in [Rathe Mountains](/zone/50).
+
+
+
 ## Dialog
 
 **You say:** `hail`

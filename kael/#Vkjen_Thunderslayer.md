@@ -1,6 +1,11 @@
 # Vkjen Thunderslayer
 
 
+
+[Vkjen Thunderslayer](/npc/113036) is a level 66 Giant Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
 ## Combat
 
 

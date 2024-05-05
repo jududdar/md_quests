@@ -1,6 +1,11 @@
 # Scruffy
 
 
+
+[Scruffy](/npc/4155) is a level 1 Rat Warrior that spawns in [Qeynos Hills](/zone/4).
+
+
+
 ## On NPC Spawn
 
 e.self:SetRunning(true);

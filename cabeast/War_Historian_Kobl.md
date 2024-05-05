@@ -1,6 +1,11 @@
 # War Historian Kobl
 
 
+
+[War Historian Kobl](/npc/106037) is a level 30 Iksar Shopkeeper that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

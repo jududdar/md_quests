@@ -1,6 +1,11 @@
 # Legionnaire Wraeni
 
 
+
+[Legionnaire Wraeni](/npc/159131) is a level 47 Erudite Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

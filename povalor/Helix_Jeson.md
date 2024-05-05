@@ -1,4 +1,9 @@
 # Helix Jeson
+
+
+
+[Helix Jeson](/npc/208063) is a level 66 Human Warrior that spawns in [Plane of Valor](/zone/208).
+
 local clientIDs = {};
 
 

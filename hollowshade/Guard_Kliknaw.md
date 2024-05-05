@@ -1,6 +1,11 @@
 # Guard Kliknaw
 
 
+
+[Guard Kliknaw](/npc/166078) is a level 55 Vah Shir Warrior that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Turn-Ins
 
 

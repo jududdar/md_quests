@@ -1,4 +1,9 @@
 # a spiroc expulser
+
+
+
+[a spiroc expulser](/npc/71011) is a level 52 Aviak Druid that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
 local arrive = false;
 
 

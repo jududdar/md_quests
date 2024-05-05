@@ -1,4 +1,9 @@
 # Seilaen
+
+
+
+[Seilaen](/npc/204047) is a level 50 Human Druid that spawns in [Plane of Nightmares](/zone/204).
+
 local DEYID_TYPE = 204461; 
 
 local ports = 0;

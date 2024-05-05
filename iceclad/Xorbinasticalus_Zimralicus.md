@@ -1,6 +1,11 @@
 # Xorbinasticalus Zimralicus
 
 
+
+[Xorbinasticalus Zimralicus](/npc/110039) is a level 40 Gnome Shopkeeper that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Dialog
 
 **You say:** `hail`

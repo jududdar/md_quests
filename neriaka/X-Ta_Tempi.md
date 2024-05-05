@@ -1,4 +1,9 @@
-# X-Ta Tempi
+# X\`Ta Tempi
+
+
+
+[X\`Ta Tempi](/npc/40044) is a level 40 Dark Elf Necromancer that spawns in [Neriak - Foreign Quarter](/zone/40).
+
 
 
 

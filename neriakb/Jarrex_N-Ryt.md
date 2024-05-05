@@ -1,4 +1,9 @@
-# Jarrex N-Ryt
+# Jarrex N\`Ryt
+
+
+
+[Jarrex N\`Ryt](/npc/41082) is a level 61 Dark Elf GM Warrior that spawns in [Neriak - Commons](/zone/41).
+
 
 
 

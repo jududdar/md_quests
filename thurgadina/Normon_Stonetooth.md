@@ -2,6 +2,11 @@
 
 
 
+[Normon Stonetooth](/npc/115050) is a level 40 Coldain Warrior that spawns in [The City of Thurgadin](/zone/115).
+
+
+
+
 
 ## Dialog
 

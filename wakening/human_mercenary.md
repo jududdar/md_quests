@@ -1,6 +1,11 @@
 # human mercenary
 
 
+
+[human mercenary](/npc/119148) is a level 34 Human Necromancer that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

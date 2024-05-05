@@ -2,6 +2,11 @@
 
 
 
+[a freed soul](/npc/88093) is a level 1 Iksar Spirit Warrior that spawns in [Kaesora](/zone/88).
+
+
+
+
 
 
 ## On NPC Spawn

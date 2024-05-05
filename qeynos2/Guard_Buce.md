@@ -1,6 +1,11 @@
 # Guard Buce
 
 
+
+[Guard Buce](/npc/2016) is a level 10 Human Warrior that spawns in [North Qeynos](/zone/2).
+
+
+
 ## Dialog
 
 **You say:** `hail`

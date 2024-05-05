@@ -1,4 +1,9 @@
 # Kuanbyr Hailstorm
+
+
+
+[Kuanbyr Hailstorm](/npc/209061) is a level 67 Giant Warrior that spawns in [Bastion of Thunder](/zone/209).
+
 local TYPES = { 209058, 209057, 209056 }; 
 
 

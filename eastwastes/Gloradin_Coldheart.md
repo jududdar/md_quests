@@ -1,6 +1,11 @@
 # Gloradin Coldheart
 
 
+
+[Gloradin Coldheart](/npc/116169) is a level 41 Coldain Cleric that spawns in [Eastern Wastes](/zone/116).
+
+
+
 ## Turn-Ins
 
 

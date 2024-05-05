@@ -1,6 +1,11 @@
 # Amber
 
 
+
+[Amber](/npc/8064) is a level 45 Human Shopkeeper that spawns in [North Freeport](/zone/8).
+
+
+
 ## Dialog
 
 if(e.other:IsSelfFound() == 1 or e.other:IsSoloOnly() == 1) then

@@ -1,6 +1,11 @@
 # Guide II
 
 
+
+[Guide II](/npc/55181) is a level 31 Clockwork Gnome Warrior that spawns in [Ak'Anon](/zone/55).
+
+
+
 ## Dialog
 
 **You say:** `hail`

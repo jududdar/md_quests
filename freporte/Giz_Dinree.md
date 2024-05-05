@@ -1,6 +1,11 @@
 # Giz Dinree
 
 
+
+[Giz Dinree](/npc/10177) is a level 17 Dark Elf Rogue that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

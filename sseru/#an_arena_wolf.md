@@ -1,6 +1,11 @@
 # an arena wolf
 
 
+
+[an arena wolf](/npc/159103) is a level 38 Wolf Warrior that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 300 seconds

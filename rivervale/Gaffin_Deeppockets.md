@@ -1,6 +1,11 @@
 # Gaffin Deeppockets
 
 
+
+[Gaffin Deeppockets](/npc/19070) is a level 45 Halfling Shopkeeper that spawns in [Rivervale](/zone/19).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *lenny* for 950 seconds

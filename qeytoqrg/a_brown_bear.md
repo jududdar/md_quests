@@ -1,4 +1,9 @@
 # a brown bear
+
+
+
+[a brown bear](/npc/3028) is a level 3 Bear Warrior that spawns in [Qeynos Hills](/zone/4).
+
 local despawntime;
 
 

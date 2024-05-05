@@ -1,6 +1,11 @@
 # Vin Moltor
 
 
+
+[Vin Moltor](/npc/45111) is a level 24 Beggar Warrior that spawns in [Qeynos Aqueduct System](/zone/45).
+
+
+
 ## Dialog
 
 **You say:** `hail`

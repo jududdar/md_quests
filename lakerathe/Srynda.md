@@ -1,6 +1,11 @@
 # Srynda
 
 
+
+[Srynda](/npc/51070) is a level 35 Human Shopkeeper that spawns in [Lake Rathetear](/zone/51).
+
+
+
 ## Dialog
 
 **You say:** `hail`

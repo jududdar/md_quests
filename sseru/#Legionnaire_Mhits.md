@@ -1,6 +1,11 @@
 # Legionnaire Mhits
 
 
+
+[Legionnaire Mhits](/npc/159179) is a level 47 Half Elf Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

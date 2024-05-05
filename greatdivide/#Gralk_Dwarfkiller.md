@@ -1,6 +1,11 @@
 # Gralk Dwarfkiller
 
 
+
+[Gralk Dwarfkiller](/npc/118012) is a level 40 Giant Warrior that spawns in [The Great Divide](/zone/118).
+
+
+
 ## Dialog
 
 **You say:** `hail`

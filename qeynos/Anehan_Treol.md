@@ -1,6 +1,11 @@
 # Anehan Treol
 
 
+
+[Anehan Treol](/npc/1158) is a level 23 Human Bard that spawns in [South Qeynos](/zone/1).
+
+
+
 ## Dialog
 
 **You say:** `hail`

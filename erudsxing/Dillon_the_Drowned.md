@@ -1,6 +1,11 @@
 # Dillon the Drowned
 
 
+
+[Dillon the Drowned](/npc/98051) is a level 20 Zombie Warrior that spawns in [Erud's Crossing](/zone/98).
+
+
+
 ## On NPC Spawn
 
 >**Dillon the Drowned says:** Well met again, Srafen. How goes it?

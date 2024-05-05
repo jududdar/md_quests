@@ -1,6 +1,11 @@
 # Broon
 
 
+
+[Broon](/npc/15051) is a level 23 Giant Warrior that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## On NPC Death
 
 if(math.random(100) < 50) then

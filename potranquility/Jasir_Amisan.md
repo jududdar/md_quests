@@ -1,6 +1,11 @@
 # Jasir Amisan
 
 
+
+[Jasir Amisan](/npc/203426) is a level 46 Erudite Shopkeeper that spawns in [Plane of Tranquility](/zone/203).
+
+
+
 ## Dialog
 
 **You say:** `hail`

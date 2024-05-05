@@ -2,6 +2,11 @@
 
 
 
+[Derthix Gibblix](/npc/55020) is a level 61 Gnome GM Cleric that spawns in [Ak'Anon](/zone/55).
+
+
+
+
 
 ## Dialog
 

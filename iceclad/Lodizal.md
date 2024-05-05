@@ -1,6 +1,11 @@
 # Lodizal
 
 
+
+[Lodizal](/npc/110003) is a level 60 Sea Turtle Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## Arrive at Waypoint Script
 
 if(e.wp == 1) then

@@ -1,4 +1,9 @@
 # player
+
+
+
+
+
 function event_enter_zone(e)
 
 if ( e.self:GetY() < -500 and e.self:GetY() > -1000 and e.self:GetX() < -150 and e.self:GetX() > -500 ) then

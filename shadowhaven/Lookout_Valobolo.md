@@ -1,6 +1,11 @@
 # Lookout Valobolo
 
 
+
+[Lookout Valobolo](/npc/150036) is a level 55 Halfling Warrior that spawns in [Shadow Haven](/zone/150).
+
+
+
 ## Signals
 
 >**Lookout Valobolo says:** Oi there General! No im not squintin in the least just was testing my eyes on somethin. Im in tip top shape 100 percent!

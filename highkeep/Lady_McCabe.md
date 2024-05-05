@@ -1,6 +1,11 @@
 # Lady McCabe
 
 
+
+[Lady McCabe](/npc/6067) is a level 37 Erudite Necromancer that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `hail`

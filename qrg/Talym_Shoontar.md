@@ -1,6 +1,11 @@
 # Talym Shoontar
 
 
+
+[Talym Shoontar](/npc/1166) is a level 15 Barbarian Warrior that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

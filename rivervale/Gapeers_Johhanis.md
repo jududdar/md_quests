@@ -2,6 +2,11 @@
 
 
 
+[Gapeers Johhanis](/npc/19065) is a level 61 Halfling GM Cleric that spawns in [Rivervale](/zone/19).
+
+
+
+
 
 
 

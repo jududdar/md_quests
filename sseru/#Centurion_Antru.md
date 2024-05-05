@@ -1,6 +1,11 @@
 # Centurion Antru
 
 
+
+[Centurion Antru](/npc/159095) is a level 50 Erudite Paladin that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

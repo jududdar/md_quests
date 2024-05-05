@@ -1,4 +1,9 @@
 # Froham the Forgotten
+
+
+
+[Froham the Forgotten](/npc/98047) is a level 20 Skeleton Warrior that spawns in [Erud's Crossing](/zone/98).
+
 local counting;
 
 

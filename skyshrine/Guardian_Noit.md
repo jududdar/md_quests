@@ -1,6 +1,11 @@
 # Guardian Noit
 
 
+
+[Guardian Noit](/npc/114528) is a level 33 Gargoyle Warrior that spawns in [Skyshrine](/zone/114).
+
+
+
 ## Dialog
 
 **You say:** `hail`

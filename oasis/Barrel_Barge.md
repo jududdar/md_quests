@@ -1,6 +1,11 @@
 # Barrel Barge
 
 
+
+[Barrel Barge](/npc/840) is a level 50 Launch Warrior that spawns in [Oasis of Marr](/zone/37).
+
+
+
 ## On NPC Spawn
 
 local zone_time = eq.get_zone_time();

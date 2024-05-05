@@ -2,6 +2,11 @@
 
 
 
+[The Statue of Rallos Zek](/npc/113000) is a level 59 Rallos Zek Warrior that spawns in [Kael Drakkel](/zone/113).
+
+
+
+
 
 ## On NPC Death
 

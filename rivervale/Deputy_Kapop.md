@@ -1,6 +1,11 @@
 # Deputy Kapop
 
 
+
+[Deputy Kapop](/npc/19003) is a level 31 Halfling Warrior that spawns in [Rivervale](/zone/19).
+
+
+
 ## Dialog
 
 **You say:** `nice hat`

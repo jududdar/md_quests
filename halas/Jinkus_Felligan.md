@@ -1,6 +1,11 @@
 # Jinkus Felligan
 
 
+
+[Jinkus Felligan](/npc/29023) is a level 61 Barbarian GM Shaman that spawns in [Halas](/zone/29).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # rabid snow cougar
 
 
+
+[rabid snow cougar](/npc/110012) is a level 35 Puma Warrior that spawns in [Iceclad Ocean](/zone/110).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *attack* for 1 seconds

@@ -1,4 +1,9 @@
 # Lord Mithaniel Marr
+
+
+
+[Lord Mithaniel Marr](/npc/220020) is a level 77 Mithaniel Marr Paladin that spawns in [Temple of Marr](/zone/220).
+
 local PLANAR_PROJECTION_TYPE = 220025;
 
 local SPAWNIDS = { 367227, 366604, 367163 };

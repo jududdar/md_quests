@@ -1,6 +1,11 @@
 # Librarian Zimor
 
 
+
+[Librarian Zimor](/npc/106061) is a level 61 Iksar Necromancer that spawns in [Cabilis East](/zone/106).
+
+
+
 ## Dialog
 
 **You say:** `hail`

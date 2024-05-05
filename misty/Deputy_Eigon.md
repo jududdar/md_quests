@@ -1,6 +1,11 @@
 # Deputy Eigon
 
 
+
+[Deputy Eigon](/npc/33070) is a level 30 Halfling Warrior that spawns in [Misty Thicket](/zone/33).
+
+
+
 ## Dialog
 
 **You say:** `hail`

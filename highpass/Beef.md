@@ -1,6 +1,11 @@
 # Beef
 
 
+
+[Beef](/npc/5055) is a level 40 Ogre Warrior that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Signals
 
 if(e.signal == 1) then

@@ -1,6 +1,11 @@
 # Oraculum Yalkin
 
 
+
+[Oraculum Yalkin](/npc/159376) is a level 61 Human GM Wizard that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

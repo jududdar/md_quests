@@ -2,6 +2,11 @@
 
 
 
+[Tin Banker I](/npc/93128) is a level 40 Clockwork Gnome Banker that spawns in [The Overthere](/zone/93).
+
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Vesteri Nomanoi
 
 
+
+[Vesteri Nomanoi](/npc/3038) is a level 61 Human GM Druid that spawns in [Surefall Glade](/zone/3).
+
+
+
 ## Dialog
 
 **You say:** `hail`

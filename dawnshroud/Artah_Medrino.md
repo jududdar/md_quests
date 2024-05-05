@@ -1,6 +1,11 @@
 # Artah Medrino
 
 
+
+[Artah Medrino](/npc/174076) is a level 44 Barbarian Warrior that spawns in [The Dawnshroud Peaks](/zone/174).
+
+
+
 ## Dialog
 
 **You say:** `hail`

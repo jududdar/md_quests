@@ -1,6 +1,11 @@
 # tortured librarian
 
 
+
+[tortured librarian](/npc/88001) is a level 35 Iksar Spirit Warrior that spawns in [Kaesora](/zone/88).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

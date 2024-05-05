@@ -1,6 +1,11 @@
 # Guard Qanyl
 
 
+
+[Guard Qanyl](/npc/6166) is a level 26 Human Warrior that spawns in [High Keep](/zone/6).
+
+
+
 ## Dialog
 
 **You say:** `who.* mistress anna`

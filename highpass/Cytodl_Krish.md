@@ -1,6 +1,11 @@
 # Cytodl Krish
 
 
+
+[Cytodl Krish](/npc/5005) is a level 25 Dark Elf Shadow Knight that spawns in [Highpass Hold](/zone/5).
+
+
+
 ## Dialog
 
 

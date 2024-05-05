@@ -1,6 +1,11 @@
 # Innkeep Rastle
 
 
+
+[Innkeep Rastle](/npc/10043) is a level 45 Guard Shopkeeper that spawns in [East Freeport](/zone/10).
+
+
+
 ## Dialog
 
 **You say:** `hail`

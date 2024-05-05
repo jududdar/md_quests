@@ -1,6 +1,11 @@
 # Dason Goldblade
 
 
+
+[Dason Goldblade](/npc/71037) is a level 55 Efreeti Warrior that spawns in [Plane of Sky (Instanced)](/zone/1071).
+
+
+
 ## Dialog
 
 **You say:** `hail`

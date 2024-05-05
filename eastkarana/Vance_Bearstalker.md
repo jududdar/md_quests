@@ -1,6 +1,11 @@
 # Vance Bearstalker
 
 
+
+[Vance Bearstalker](/npc/15183) is a level 53 Human Warrior that spawns in [Eastern Plains of Karana](/zone/15).
+
+
+
 ## On NPC Spawn
 
 **Set a timer** named *depop* for 1800 seconds

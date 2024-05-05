@@ -1,6 +1,11 @@
 # Kogar
 
 
+
+[Kogar](/npc/155179) is a level 11 Vah Shir Shopkeeper that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

@@ -1,6 +1,11 @@
 # Ahom Guzhin
 
 
+
+[Ahom Guzhin](/npc/166007) is a level 4 Vah Shir Warrior that spawns in [Hollowshade Moor](/zone/166).
+
+
+
 ## Dialog
 
 **You say:** `hail`

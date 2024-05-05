@@ -1,6 +1,11 @@
 # Lord Gossimerwind
 
 
+
+[Lord Gossimerwind](/npc/119155) is a level 44 Fay Drake Warrior that spawns in [The Wakening Land](/zone/119).
+
+
+
 ## Dialog
 
 **You say:** `hail`

@@ -1,6 +1,11 @@
 # Manaetic Prototype X
 
 
+
+[Manaetic Prototype X](/npc/206053) is a level 66 Clockwork Brain Warrior that spawns in [Plane of Innovation](/zone/206).
+
+
+
 ## Timer(s)
 
 

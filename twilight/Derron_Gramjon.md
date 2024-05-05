@@ -1,6 +1,11 @@
 # Derron Gramjon
 
 
+
+[Derron Gramjon](/npc/170126) is a level 60 Human Cleric that spawns in [Twilight](/zone/170).
+
+
+
 ## Dialog
 
 **You say:** `hail`

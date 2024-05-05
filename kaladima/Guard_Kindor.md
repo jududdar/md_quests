@@ -1,6 +1,11 @@
 # Guard Kindor
 
 
+
+[Guard Kindor](/npc/60013) is a level 38 Dwarf Warrior that spawns in [South Kaladim](/zone/60).
+
+
+
 ## Dialog
 
 **You say:** `armor`

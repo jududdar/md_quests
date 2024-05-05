@@ -1,6 +1,11 @@
 # Banker Naudi
 
 
+
+[Banker Naudi](/npc/155196) is a level 15 Vah Shir Banker that spawns in [The City of Shar Vahl](/zone/155).
+
+
+
 ## Dialog
 
 **You say:** `Hail`

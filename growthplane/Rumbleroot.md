@@ -1,6 +1,11 @@
 # Rumbleroot
 
 
+
+[Rumbleroot](/npc/127019) is a level 60 Treant Druid that spawns in [Plane of Growth](/zone/127).
+
+
+
 ## Combat
 
 if Rumbleroot enters combat  then

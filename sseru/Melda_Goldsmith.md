@@ -1,6 +1,11 @@
 # Melda Goldsmith
 
 
+
+[Melda Goldsmith](/npc/159017) is a level 60 Gnome Shopkeeper that spawns in [Sanctus Seru](/zone/159).
+
+
+
 ## Dialog
 
 **You say:** `hail`

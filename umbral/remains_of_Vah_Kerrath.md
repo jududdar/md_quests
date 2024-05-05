@@ -1,6 +1,11 @@
 # remains of Vah Kerrath
 
 
+
+[remains of Vah Kerrath](/npc/176013) is a level 1 Vah Shir Skeleton Shopkeeper that spawns in [The Umbral Plains](/zone/176).
+
+
+
 ## Dialog
 
 **You say:** `hail`

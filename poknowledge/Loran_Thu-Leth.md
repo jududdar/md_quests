@@ -1,4 +1,9 @@
-# Loran Thu-Leth
+# Loran Thu\`Leth
+
+
+
+[Loran Thu\`Leth](/npc/202078) is a level 60 Dark Elf Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
+
 
 
 ## Dialog
