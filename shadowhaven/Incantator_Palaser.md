@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Midst](/faction/1511).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Incantator Palaser says:** Well met my friend, I am Palaser. Please let me know if I can be of any assistance.
+
+
 

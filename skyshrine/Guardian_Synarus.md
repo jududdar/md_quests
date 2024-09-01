@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Guardian Synarus scowls at you and goes back to watching the door.*
+
+
 

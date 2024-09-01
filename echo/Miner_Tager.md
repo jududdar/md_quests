@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Stout](/faction/1512).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Miner Tager grumbles something incoherent while he continues to dig.*
+
+
 

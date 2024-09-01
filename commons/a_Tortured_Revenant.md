@@ -4,7 +4,13 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Signaled to:**  [Simon Aldicott](/npc/21011)
+
+
+
 
 

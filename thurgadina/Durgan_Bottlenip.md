@@ -4,8 +4,14 @@
 
 Their primary faction is [Coldain](/faction/406).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Durgan Bottlenip says:** Ye need a swig of some fine dwarven ale!
+
+
 

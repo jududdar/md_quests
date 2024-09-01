@@ -4,8 +4,14 @@
 
 Their primary faction is [Kromzek](/faction/448).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Sentinel Harzok silenty watches you.*
+
+
 

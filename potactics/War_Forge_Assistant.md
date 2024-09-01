@@ -5,5 +5,10 @@
 Their primary faction is [Beta Dubious](/faction/686).
 
 
+
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

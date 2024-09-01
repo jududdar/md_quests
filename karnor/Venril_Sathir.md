@@ -5,7 +5,14 @@
 Their primary faction is [Venril-KoS](/faction/5047).
 
 
+
+
+
 ## On NPC Spawn
+
 if(**spawned NPC:**  [Venril Sathirs remains](/npc/102099)) then 
+
 **Despawn NPC:**  [Venril Sathirs remains](/npc/102099)
+
+
 

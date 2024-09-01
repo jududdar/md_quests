@@ -4,11 +4,17 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Guard Shar Aziz says:** Greetings, Soandso. Welcome to Shar Vahl.
+
 **You say:** `brother`
+
 
 >**Guard Shar Aziz says:** My brother has set up camp along with the others. You can find his tent just below.
 
@@ -16,9 +22,21 @@ Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

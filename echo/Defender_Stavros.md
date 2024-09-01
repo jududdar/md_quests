@@ -4,8 +4,14 @@
 
 Their primary faction is [Haven Defenders](/faction/1509).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Defender Stavros says:** I had better not catch you trying to smuggle goods through Shadow Haven.  Everything must go through the trade commission.
+
+
 

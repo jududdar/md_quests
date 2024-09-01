@@ -4,11 +4,19 @@
 
 Their primary faction is [dubiously](/faction/5043).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *laugh* for 3100 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 >*Gharg Oberbord laughs heartily at one of the skeletons.*
+

@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Tranquility](/faction/1650).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Elder Jal-Amra greets you with a nod and quietly says. 'Welcome to our study. Please refrain from venturing in beyond this lobby. The elders are involved in maintaining a deep meditative state. They must not be disturbed. If an elder wishes to speak to you. one of their aids will fetch you.'*
+
+
 

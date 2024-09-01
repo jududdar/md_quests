@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Tranquility](/faction/1650).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Saluk Tramuj says:** Excuse me. I am trying to finish my meal.
+
+
 

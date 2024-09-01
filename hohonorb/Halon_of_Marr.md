@@ -4,11 +4,19 @@
 
 Their primary faction is [Battalion of Marr](/faction/1656).
 
+
+
 ## On NPC Spawn
+
 **Signaled to:**  [Lord Mithaniel Marr](/npc/220020)
+
+
+
 
 
 
 
 ## On NPC Death
+
 **Signaled to:**  [Lord Mithaniel Marr](/npc/220020)
+

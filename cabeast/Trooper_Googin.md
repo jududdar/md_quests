@@ -4,10 +4,21 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >*Trooper Googin gnashes his teeth and gives you a threatening look.*
+
+
+
+
+
+
+
 
 
 

@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 e.self:Say("Hail and well met. my friend! If you have come searching for supplies needed to fish out of the fair waters of Norrath. than you have come to the right place. Please. search my inventory as you wish 
 
@@ -13,9 +17,21 @@ e.self:Say("Hail and well met. my friend! If you have come searching for supplie
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

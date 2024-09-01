@@ -4,9 +4,16 @@
 
 Their primary faction is [House of Stout](/faction/1512).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Peacekeeper Deralokor looks at you sternly and nods as he continues his watch.*
+
 e.self:DoAnim(48);
+
+
 

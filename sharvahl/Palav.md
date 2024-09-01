@@ -4,17 +4,28 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 if( **Faction is** > Indifferent) then
+
 **You say:** `hail`
 
+
 >*Palav purrs at Soandso.*
+
 **You say:** `play dead`
 
+
 >*Palav rolls over and plays dead.*
+
 e.self:DoAnim(16);
 
+
+
 else
+
 **Palav says one of the following:**
 
 >I didn't know Slime could speak common.  Go back to the sewer before I lose my temper.
@@ -27,13 +38,24 @@ else
 
 
 
+
+
+
+
 ## Signals
+
 >*Palav purrs at Warder Keeper Jyk.*
+
+
+
 
 
 
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

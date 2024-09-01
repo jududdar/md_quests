@@ -4,8 +4,14 @@
 
 Their primary faction is [Kerra Isle](/faction/382).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Graalf Sharpclaw says:** Rrrrrrrr...
+
+
 

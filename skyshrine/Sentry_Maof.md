@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Sentry Maof says:** I'd watch out for the cubes. They've been getting hostile lately.
+
+
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Trooper Nilzik sniffs the air around you.  'I thought I smelled something horrible.*
+
+
 

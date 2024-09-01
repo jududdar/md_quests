@@ -4,7 +4,13 @@
 
 Their primary faction is [Haven Defenders](/faction/1509).
 
+
+
 ## Combat
+
 if A Haven Guard enters combat  then
+
 >**A Haven Guard says:** Oh, Soandso, you made a big mistake!
+
+
 

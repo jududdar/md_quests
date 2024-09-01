@@ -4,7 +4,11 @@
 
 Their primary faction is [Gem Choppers](/faction/255).
 
+
+
 ## Turn-Ins
+
+
 
 **This NPC *should* return incorrect items given.**
 
@@ -12,9 +16,21 @@ Their primary faction is [Gem Choppers](/faction/255).
 
 
 
+
+
+
 ## Signals
+
 >**Watchman Halv says:** What a glorious machine the cargo clockwork is!!
+
 **Signaled to:**  [Cargo Clockwork](/npc/56105)
+
+
+
+
+
+
+
 
 
 

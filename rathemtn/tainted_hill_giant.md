@@ -4,5 +4,9 @@
 
 Their primary faction is [Cyclops](/faction/68).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [corrupted hill giant](/npc/50322) at this location.
+

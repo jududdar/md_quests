@@ -4,11 +4,19 @@
 
 Their primary faction is [Unrest Inhabitants](/faction/386).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 1200 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 **Khrixs Abomination despawns.**
+

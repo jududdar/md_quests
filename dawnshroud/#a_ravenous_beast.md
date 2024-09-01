@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS_animal](/faction/5018).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#a bloodthirsty wolf](/npc/174036) at (**y:** , **x:** )
+

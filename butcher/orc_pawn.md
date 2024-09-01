@@ -4,8 +4,17 @@
 
 Their primary faction is [Death Fist Orcs](/faction/375).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+
+
+
+
+
+
 
 
 

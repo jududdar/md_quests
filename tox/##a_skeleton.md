@@ -3,13 +3,19 @@
 [a skeleton](/npc/38010) is a level 7 Skeleton Warrior that spawns in [Toxxulia Forest](/zone/38).
 
 ## On NPC Spawn
+
 eq.set_timer("rant",math.random(180000,450000));
 
 
 
 
+
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**a skeleton says:** Can't you see we're busy here?!
 
@@ -17,11 +23,19 @@ eq.set_timer("rant",math.random(180000,450000));
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
                                 href="/item/13894" data-url="13894" class="tooltip-link link">Useless Cloth Cap</a> ) then
+
 >**a skeleton says:** Aye.. You cut out the middleman..  I shall reward you.. hmm..  I have not found anything. how about..  <CRACK!! SNAP!! RIPP!!>  How about something off meself?
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_974.png" alt="" /> <a
                                 href="/item/9304" data-url="9304" class="tooltip-link link">Bone Shield</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_905.png" alt="" /> <a
                                 href="/item/12195" data-url="12195" class="tooltip-link link">Fractured Femur</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
@@ -30,14 +44,24 @@ if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
 
 
 
 
 
+
+
+
 ## Timer(s)
+
 if(e.timer == "rant") then
+
 >**a skeleton says:** Yo ho. No sun!
+
 eq.set_timer("rant",math.random(180000,450000));
+
+
 

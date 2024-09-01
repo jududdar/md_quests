@@ -4,8 +4,12 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Trainee Sabra says:** There is little time to talk. We must stop the shak dratha raiders from invading. They gather within the tunnels beyond the trade route to Shadow haven.
 
@@ -13,9 +17,21 @@ Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

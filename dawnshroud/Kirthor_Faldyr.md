@@ -4,8 +4,14 @@
 
 Their primary faction is [DawnshroudFive](/faction/5059).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Kirthor Faldyr says:** Would you mind backing away from me please. I can smell the ale on your breathe. It's not very pleasant.
+
+
 

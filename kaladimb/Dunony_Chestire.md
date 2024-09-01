@@ -4,8 +4,12 @@
 
 Their primary faction is [Clerics of Underfoot](/faction/227).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Dunony Chestire says:** Hello. I am the guild master.
 
@@ -13,9 +17,21 @@ Their primary faction is [Clerics of Underfoot](/faction/227).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

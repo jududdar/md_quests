@@ -4,8 +4,12 @@
 
 Their primary faction is [Circle of Unseen Hands](/faction/223).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Lartin says:** You have no business here. Get lost!
 
@@ -13,7 +17,13 @@ Their primary faction is [Circle of Unseen Hands](/faction/223).
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 **This NPC *should* return incorrect items given.**
 
@@ -21,5 +31,10 @@ Their primary faction is [Circle of Unseen Hands](/faction/223).
 
 
 
+
+
+
 ## Signals
+
 **Lartin despawns.**
+

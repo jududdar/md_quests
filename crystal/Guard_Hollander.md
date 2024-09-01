@@ -4,8 +4,12 @@
 
 Their primary faction is [Citizens of Froststone](/faction/460).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Guard Hollander says:** Ahh...Come to join me on the watch, eh? Be sure to check in with the Captain. He will have no problem finding work to chill your bones.
 
@@ -13,7 +17,14 @@ Their primary faction is [Citizens of Froststone](/faction/460).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

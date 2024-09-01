@@ -4,9 +4,20 @@
 
 Their primary faction is [Venril Sathir](/faction/318).
 
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

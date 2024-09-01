@@ -6,8 +6,16 @@ Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
 
+
+
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Guardian Drendle says:** Welcome to the Selia district of New Tanaan. Be sure to help us to keep it clean!
+
+
 

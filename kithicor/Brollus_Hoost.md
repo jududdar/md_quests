@@ -4,8 +4,14 @@
 
 Their primary faction is [Coalition of Tradefolk Underground](/faction/336).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Brollus Hoost says:** Hello, friend.
+
+
 

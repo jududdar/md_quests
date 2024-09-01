@@ -4,5 +4,9 @@
 
 Their primary faction is [Shadowed Men](/faction/416).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [Ytyrs Reborn](/npc/50353) at this location.
+

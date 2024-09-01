@@ -4,7 +4,13 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 for i = 2, 4 do
+
 **Spawn NPC:**  [A Phoenix Scorchlet](/npc/215431) at this location.
+
+
 

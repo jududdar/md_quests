@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Primalist Uliag says:** Hello Soandso!
 
@@ -13,9 +17,22 @@ Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

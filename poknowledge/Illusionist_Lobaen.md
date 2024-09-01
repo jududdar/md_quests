@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 e.self:Say("Good day to you. Soandso. Despite your purpose among us in New Tanaan. know that we bear no ill will toward any for mere distinctions of race or religious preference. We are all equals 
 
@@ -13,9 +17,21 @@ e.self:Say("Good day to you. Soandso. Despite your purpose among us in New Tanaa
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

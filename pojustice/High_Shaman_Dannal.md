@@ -9,8 +9,19 @@ Their primary faction is [Prisoners of Justice](/faction/1627).
 
 
 
+
+
+
+
+
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 e.self:Emote("narrows his eyes in a hardened stare. You see something in his face that you had formerly believed to be vanquished from this place 
+
+
 

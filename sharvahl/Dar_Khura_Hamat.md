@@ -4,8 +4,12 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Dar Khura Hamat says:** How may I help you? What are you looking for?
 
@@ -13,9 +17,21 @@ Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Valor](/faction/1655).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Rammoc Mills grumbles under his breath.*
+
+
 

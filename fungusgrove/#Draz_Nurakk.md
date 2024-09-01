@@ -4,32 +4,59 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 3600 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 if(e.timer == "depop") then
+
 **Stop timer** named *depop*
+
 **Despawn NPC:**  [\#Draz Nurakks Warder](/npc/157069)
+
 **Draz Nurakk despawns.**
 
 
 
 
 
+
+
+
+
 ## Combat
+
 if Draz Nurakk enters combat  then
+
 eq.get_entity_list():GetMobByNpcTypeID(157069):AddToHateList(e.other,1);
+
 if(not eq.is_paused_timer("depop")) then
+
 eq.pause_timer("depop");
 
+
+
 else
+
 eq.resume_timer("depop");
 
 
 
+
+
+
+
 function event_death(e)
+
 **Signaled to:**  [\#Draz Nurakks Warder](/npc/157069)
+

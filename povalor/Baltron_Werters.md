@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Valor](/faction/1655).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Baltron Werters says:** Sorry, I am a bit tired.  Been working all night.
+
+
 

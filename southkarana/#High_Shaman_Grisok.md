@@ -4,5 +4,9 @@
 
 Their primary faction is [Split Paw Clan](/faction/321).
 
+
+
 ## On NPC Spawn
+
 e.self:AI_SetRoambox(1000,880,-3568,-5548,-7470,15000,30000);
+

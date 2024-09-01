@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Lemsen Frostherb says:** Hi there, Soandso. If you are in need of any Alchemy supplies, please have a look at my goods.
+
+
 

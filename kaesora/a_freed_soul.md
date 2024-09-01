@@ -7,13 +7,28 @@ Their primary faction is [KOS](/faction/5017).
 
 
 
+
+
+
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 300 seconds
 
 
+
+
+
 function event_death(e)
+
 if(math.random(1,100) < 75) then
+
 **a freed soul casts:** [Fishnova](/spell/1017) on target.
+
+
+
+
 
 
 
@@ -21,15 +36,28 @@ if(math.random(1,100) < 75) then
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
 
 
 
 
 
+
+
+
 ## Timer(s)
+
 **Stop timer** named *depop*
+
 **a freed soul despawns.**
+
+
+
+
+
+
 
 
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Horsal Bittrosas says:** Greetings. Students progressing along a Shamanistic path will find some of my scrolls valuable.
+
+
 

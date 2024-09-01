@@ -4,5 +4,9 @@
 
 Their primary faction is [Sabertooths of Blackburrow](/faction/306).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

@@ -4,8 +4,14 @@
 
 Their primary faction is [Kingdom of Above and Below](/faction/1576).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Harold the Herald says:** All hail Soandso, who wishes an audience with our glorious kings.
+
+
 

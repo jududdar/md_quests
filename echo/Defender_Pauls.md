@@ -4,8 +4,14 @@
 
 Their primary faction is [Haven Defenders](/faction/1509).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Defender Pauls says:** Argh.  I can't take being posted here in these blasted caverns anymore.  Even these card games are getting boring.
+
+
 

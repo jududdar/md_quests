@@ -7,8 +7,21 @@ Their primary faction is [KOS](/faction/5017).
 
 
 
+
+
+
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [a failed apprentice](/npc/51152) at (**y:** 347.6, **x:** -1518.9)
+
+
+
+
+
+
+
 
 
 

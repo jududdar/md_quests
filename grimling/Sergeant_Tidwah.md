@@ -4,8 +4,14 @@
 
 Their primary faction is [Vah Shir Crusaders](/faction/1552).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Sergeant Tidwah says:** Well met, friend. May I be of assistance?
+
+
 

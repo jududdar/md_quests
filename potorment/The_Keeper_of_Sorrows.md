@@ -4,6 +4,11 @@
 
 Their primary faction is [Servants of Saryrn](/faction/1624).
 
+
+
 ## On NPC Death
+
 **Despawn NPC:**  [Tylis Newleaf](/npc/207014)
+
 **Spawn NPC:**  [\#Tylis Newleaf](/npc/207318) at (**y:** 368, **x:** -176)
+

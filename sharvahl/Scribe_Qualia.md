@@ -4,8 +4,12 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Scribe Qualia says:** Take a look at my selection of songs and let me know if you have any questions.
 
@@ -13,9 +17,21 @@ Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

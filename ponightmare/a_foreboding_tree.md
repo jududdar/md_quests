@@ -4,9 +4,14 @@
 
 ## Signals
 
+
+
 if ( e.signal == 1 ) then
 
+
+
 e.self:SetAppearance(3);
+
 **Set a timer** named *depop* for 3600 seconds
 
 
@@ -14,7 +19,16 @@ e.self:SetAppearance(3);
 
 
 
+
+
+
+
+
 ## Timer(s)
+
 if ( e.timer == "depop" ) then
+
 **a foreboding tree despawns.**
+
+
 

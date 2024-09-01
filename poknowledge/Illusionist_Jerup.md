@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 e.self:Say("Greetings traveler and welcome to the Plane of Knowledge! I am so pleased to see so many eager minds among us 
 
@@ -13,17 +17,29 @@ e.self:Say("Greetings traveler and welcome to the Plane of Knowledge! I am so pl
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 local ethereal =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
                                 href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a> x 1
+
 local spectral =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
                                 href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a> x 1
+
 local glyphed =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
                                 href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a> x 1
+
 if(ethereal > 0) then
+
 repeat
+
 e.self:Emote("accepts the item quite eagerly. With wide-eyes, the enchanter carefully examines every aspect of the fledgling arcane item. Eventually, she begins to weave a soft chant of arcane words 
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/26944" data-url="26944" class="tooltip-link link">Spell: Greater Fetter</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/28413" data-url="28413" class="tooltip-link link">Spell: Shield of the Arcane</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
@@ -40,12 +56,19 @@ e.self:Emote("accepts the item quite eagerly. With wide-eyes, the enchanter care
                                 href="/item/21639" data-url="21639" class="tooltip-link link">Spell: Aeldorb's Animation</a>) 
 
  
+
 ethereal = ethereal - 1;
+
 until ethereal == 0;
 
+
+
 if(spectral > 0) then
+
 repeat
+
 e.self:Emote("accepts the item quite eagerly. With wide-eyes, the enchanter carefully examines every aspect of the fledgling arcane item. Eventually, she begins to weave a soft chant of arcane words 
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/21666" data-url="21666" class="tooltip-link link">Spell: Night's Dark Terror</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/28458" data-url="28458" class="tooltip-link link">Spell: Torment of Scio</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
@@ -58,22 +81,40 @@ e.self:Emote("accepts the item quite eagerly. With wide-eyes, the enchanter care
                                 href="/item/28468" data-url="28468" class="tooltip-link link">Spell: Bliss</a>) 
 
  
+
 spectral = spectral - 1;
+
 until spectral == 0;
 
+
+
 if(glyphed > 0) then
+
 repeat
+
 e.self:Emote("accepts the item quite eagerly. With wide-eyes, the enchanter carefully examines every aspect of the fledgling arcane item. Eventually, she begins to weave a soft chant of arcane words 
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/21648" data-url="21648" class="tooltip-link link">Spell: Illusion Froglok</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/21664" data-url="21664" class="tooltip-link link">Spell: Vallon's Quickening</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/28470" data-url="28470" class="tooltip-link link">Spell: Voice of Quellious</a>) 
 
  
+
 glyphed = glyphed - 1;
+
 until glyphed == 0;
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

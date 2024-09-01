@@ -4,8 +4,12 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Scribe Kaleej says:** If you can't find what you need. please let me know.
 
@@ -13,9 +17,21 @@ Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

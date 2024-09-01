@@ -4,9 +4,20 @@
 
 Their primary faction is [Clockworks of Ak`Anon](/faction/138).
 
+
+
 ## Arrive at Waypoint Script
+
 if(e.wp == 5) then
+
 e.self:SetRunning(true);
+
+
+
+
+
+
+
 
 
 

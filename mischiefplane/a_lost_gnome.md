@@ -4,8 +4,14 @@
 
 Their primary faction is [Denizens of Mischief](/faction/437).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**a lost gnome says:** Don't look at me. I'm as lost as you look.
+
+
 

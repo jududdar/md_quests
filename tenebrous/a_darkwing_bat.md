@@ -4,8 +4,14 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*a darkwing bat emits a barely audible screech and flutters around Soandso.*
+
+
 

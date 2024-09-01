@@ -4,5 +4,9 @@
 
 Their primary faction is [Sporali](/faction/474).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [a sporeling](/npc/11000) at this location.
+

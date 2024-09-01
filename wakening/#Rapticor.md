@@ -4,7 +4,13 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## Combat
+
 if Rapticor enters combat  then
+
 >*Rapticor pounces on Soandso in a flurry of deadly claws and teeth.*
+
+
 

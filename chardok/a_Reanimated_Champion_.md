@@ -4,11 +4,19 @@
 
 Their primary faction is [Brood of Di`Zok](/faction/451).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 900 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 **a Reanimated Champion  despawns.**
+

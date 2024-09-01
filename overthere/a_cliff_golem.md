@@ -5,9 +5,18 @@
 Their primary faction is [Venril Sathir](/faction/318).
 
 
+
+
+
 ## Signals
+
 if(e.signal == 0) then
+
 **a cliff golem despawns.**
+
+
+
+
 
 
 
@@ -15,7 +24,16 @@ if(e.signal == 0) then
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

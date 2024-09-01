@@ -4,17 +4,28 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Dialog
+
 if( **Faction is** > Indifferent) then
+
 **You say:** `hail`
 
+
 >*Rajyk purrs at Soandso.*
+
 **You say:** `play dead`
 
+
 >*Rajyk rolls over and plays dead.*
+
 e.self:DoAnim(16);
 
+
+
 else
+
 **Rajyk says one of the following:**
 
 >I didn't know Slime could speak common.  Go back to the sewer before I lose my temper.
@@ -27,13 +38,24 @@ else
 
 
 
+
+
+
+
 ## Signals
+
 >*Rajyk purrs at Warder Keeper Jyk.*
+
+
+
 
 
 
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

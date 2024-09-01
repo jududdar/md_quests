@@ -4,5 +4,9 @@
 
 Their primary faction is [Heretics](/faction/265).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

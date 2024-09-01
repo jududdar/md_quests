@@ -4,18 +4,30 @@
 
 Their primary faction is [Green Blood Knights](/faction/261).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Grevak says:** Need new members we do not. Powerful enough are we with Grevak. Still. peons needed. Are you a [new peon] or are you an [outsider]? Speak up!! Fool!! No time Grevak has!!
+
 **You say:** `new peon`
 
+
 if **Faction** >= Indifferent then
+
 >**Grevak says:** So you think you can be greater than Grevak!! Touch you not and still I can smash you. I am a Greenblood shadowknight!! Peon are you. Peons go to swamps and slay lizardmen. You return with four lizardmen tails and a reward is yours. You return with two lizardman shaman dolls and a great reward is yours.
+
 else
+
 >**Grevak says:** Foe of Greenbloods you are. In two I will rip you. Best if run.
 
+
+
 **You say:** `i am an outsider`
+
 
 >**Grevak says:** Go away or soon your pain will find you.
 
@@ -23,20 +35,34 @@ else
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 local text = "This enough is not! Two is what Grevak spoke!";
+
+
 
 if  ( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
                                 href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
                                 href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
                                 href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1132.png" alt="" /> <a
                                 href="/item/13354" data-url="13354" class="tooltip-link link">Lizard Tail</a> ) then
+
 >**Grevak says:** Now I shall take the lizard tails to shamans I will.  Healing spells will help create. You continue to slay. Continue to be the peon. Continue to live
+
 Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+10</span>)
+
 Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+5</span>)
+
 Your faction standing with [Storm Guard](/faction/312) got worse (<span class='text-danger'>-1</span>)
+
 Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-1</span>)
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
                                 href="/item/2125" data-url="2125" class="tooltip-link link">Large Tattered Skullcap</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
                                 href="/item/2126" data-url="2126" class="tooltip-link link">Large Tattered Mask</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
@@ -47,14 +73,21 @@ Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse
                                 href="/item/9016" data-url="9016" class="tooltip-link link">Large Buckler</a>) (+500 exp)
 
  
+
 elseif **Faction** >= Amiable and  **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
                                 href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_720.png" alt="" /> <a
                                 href="/item/13367" data-url="13367" class="tooltip-link link">Mystic Doll</a> ) then
+
 >**Grevak says:** A shaman doll! A great knight you some day become. A gift I give to help you on your way. The fight will continue. All hail the Greenbloods!
+
 Your faction standing with [Green Blood Knights](/faction/261) got better (<span class='text-success'>+10</span>)
+
 Your faction standing with [Clurg](/faction/228) got better (<span class='text-success'>+5</span>)
+
 Your faction standing with [Storm Guard](/faction/312) got worse (<span class='text-danger'>-1</span>)
+
 Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse (<span class='text-danger'>-1</span>)
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1018.png" alt="" /> <a
                                 href="/item/13453" data-url="13453" class="tooltip-link link">Pickled Lizard</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
                                 href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
@@ -69,7 +102,16 @@ Your faction standing with [Shadowknights of Night Keep](/faction/308) got worse
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

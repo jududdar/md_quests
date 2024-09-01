@@ -4,13 +4,23 @@
 
 Their primary faction is [Askr the Lost](/faction/1609).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 3300 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 if ( e.timer == "depop" ) then
+
 **A Chaotic Vortex despawns.**
+
+
 

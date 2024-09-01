@@ -4,9 +4,14 @@
 
 Their primary faction is [Inhabitants of Valor](/faction/1655).
 
+
+
 ## Dialog
 
+
+
 **You say:** `hail`
+
 
 >**Genii Rolfs says:** We don't want to get into any more trouble than we are already in, go away!
 
@@ -14,7 +19,15 @@ Their primary faction is [Inhabitants of Valor](/faction/1655).
 
 
 
+
+
+
+
 ## Signals
+
 if ( e.signal == 1 ) then
+
 >**Genii Rolfs says:** Sir! Yes Sir!
+
+
 

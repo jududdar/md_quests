@@ -4,8 +4,14 @@
 
 Their primary faction is [Katta Castellum Citizens](/faction/1502).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Evonna Songslinger says:** Hail! Care to sing a song with us?
+
+
 

@@ -4,17 +4,30 @@
 
 Their primary faction is [King Tormax](/faction/429).
 
+
+
 ## Combat
 
+
+
 if (not e.joined) then
+
 e.self:SetRunning(false);
 
 
 
 
 
+
+
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Vkjen Thunderslayer says:** Greater ones than you have stood before King Tormax.  Show respect fool.
+
+
 

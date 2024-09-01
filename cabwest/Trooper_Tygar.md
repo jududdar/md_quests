@@ -4,10 +4,21 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Trooper Tygar says:** Can't you see I'm on duty?!!  If you wish to converse. Might I suggest the Tink N' Babble tavern near the Temple of Terror?
+
+
+
+
+
+
+
 
 
 

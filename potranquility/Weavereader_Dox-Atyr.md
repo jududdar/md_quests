@@ -4,14 +4,24 @@
 
 Their primary faction is [Inhabitants of Tranquility](/faction/1650).
 
+
+
 ## On NPC Spawn
+
 e.self:CastToNPC():SetNoQuestPause(true);
 
 
 
 
+
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Weavereader Dox-Atyr mumbles an inaudible phrase and continues to stare at the large table in front of him.*
+
+
 

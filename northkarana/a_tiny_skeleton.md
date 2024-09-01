@@ -4,13 +4,23 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 3600 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 if(e.timer == "depop") then
+
 **a tiny skeleton despawns.**
+
+
 

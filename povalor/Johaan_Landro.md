@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Valor](/faction/1655).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Johaan Landro says:** Fall in line, soldier!  Hrmm... You are a soldier, aren't you?
+
+
 

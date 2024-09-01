@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Spawn
+
 **a halfling skeleton attacks NPC:** 33080
+

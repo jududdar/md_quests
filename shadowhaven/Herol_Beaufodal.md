@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Herol Beaufodal says:** Hello, Soandso. I have spell scrolls for only the most experienced Spiritweavers.
+
+
 

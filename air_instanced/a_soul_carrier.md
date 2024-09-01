@@ -4,10 +4,21 @@
 
 Their primary faction is [Inhabitants of Sky](/faction/424).
 
+
+
 ## On NPC Death
 
+
+
 **Spawn NPC:**  [an essence carrier](/npc/71070) at this location.
+
 **Spawn NPC:**  [an essence carrier](/npc/71070) at this location.
+
+
+
+
+
+
 
 
 

@@ -6,12 +6,21 @@ Their primary faction is [Qeynos Citizen (Race)](/faction/693).
 
 
 
+
+
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 if **Faction** >= Indifferent then
+
 >**Cynthia says:** Hello. I am Cynthia.
+
 else
+
 **Cynthia says one of the following:**
 
 >I didn't know Slime could speak common.  Go back to the sewer before I lose my temper.
@@ -27,19 +36,39 @@ else
 
 
 
+
+
+
+
+
 ## Turn-Ins
+
+
+
+
 
 
 
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
                                 href="/item/10085" data-url="10085" class="tooltip-link link">A Shining Stone</a>,  <img src='/static/icons/item_645.png' width='14' height='14'/>  50 gold ) then
+
 >**Cynthia says:** I've done what I can to enchant your stone, but you will need to find Tarn Visilin in Highpass Keep to finish the enchantments.  Don't forget to pay him the same fee you gave me, or he may decide to keep the stone for himself!
+
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_945.png" alt="" /> <a
                                 href="/item/10086" data-url="10086" class="tooltip-link link">A Glamour Stone</a> 
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

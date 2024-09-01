@@ -4,9 +4,16 @@
 
 Their primary faction is [Inhabitants of Valor](/faction/1655).
 
+
+
 ## Dialog
+
+
 
 **You say:** `hail`
 
+
 >**Lieutenant Aiden Finn says:** We have no time for interruptions. Please leave at once.
+
+
 

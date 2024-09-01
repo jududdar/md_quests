@@ -4,5 +4,9 @@
 
 Their primary faction is [Goblins of Fire Peak](/faction/258).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

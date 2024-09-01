@@ -4,12 +4,26 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 local sirranName = "sirran";
+
 sirranName = sirranName .. eq.get_zone_guild_id();
+
 if(**spawned NPC:**  [Sirran the Lunatic](/npc/71058) == false) then
+
 eq.set_global(sirranName,"7",3,"M20");
+
 **Spawn NPC:**  [Sirran the Lunatic](/npc/71058) at (**y:** , **x:** )
+
+
+
+
+
+
+
 
 
 

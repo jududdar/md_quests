@@ -4,8 +4,14 @@
 
 Their primary faction is [Katta Castellum Citizens](/faction/1502).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Lyneea Doyle says:** Greetings! You look like a healthy " .. e.other:Race() .. ". We should play a game of coppers some time! You wouldn't be afraid to drink against a woman would ya?
+
+
 

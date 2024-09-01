@@ -4,9 +4,17 @@
 
 Their primary faction is [Ring of Scale](/faction/304).
 
+
+
 ## On NPC Spawn
+
 if(**spawned NPC:**  [\#Faydedar](/npc/96073)) then
+
 **Faydedar despawns.**
+
+
+
+
 
 
 
@@ -14,7 +22,15 @@ if(**spawned NPC:**  [\#Faydedar](/npc/96073)) then
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

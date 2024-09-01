@@ -4,6 +4,11 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#a tar goo](/npc/119035) at this location.
+
 **Spawn NPC:**  [\#a tar goo](/npc/119035) at this location.
+

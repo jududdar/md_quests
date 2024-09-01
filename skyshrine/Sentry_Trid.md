@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Sentry Trid says:** Can you not see we have our duties to perform, begone.
+
+
 

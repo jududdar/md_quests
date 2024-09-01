@@ -4,8 +4,14 @@
 
 Their primary faction is [Kingdom of Above and Below](/faction/1576).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Guard Cyren says:** Welcome, Soandso, to the Kingdom of Above.
+
+
 

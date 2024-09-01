@@ -4,8 +4,14 @@
 
 Their primary faction is [Paebala](/faction/463).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**an escaped worker says:** Chita ve ni ne, ni ne Neb!
+
+
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Kromrif](/faction/419).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*a domesticated direwolf sniffs at you and wags its tail.*
+
+
 

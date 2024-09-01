@@ -4,5 +4,9 @@
 
 Their primary faction is [The Freeport Militia](/faction/330).
 
+
+
 ## Signals
+
 **Guard Lithnon attacks NPC:** 9141
+

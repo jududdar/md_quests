@@ -4,8 +4,14 @@
 
 Their primary faction is [Pirates of Iceclad](/faction/447).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Relit says:** Oooerrrr.  Avast yer bilge, uh, brain.  How was that, Traboh?
+
+
 

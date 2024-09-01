@@ -4,5 +4,9 @@
 
 Their primary faction is [The Sambata Tribe](/faction/1563).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#Carre Harger](/npc/174033) at (**y:** 1502, **x:** 1180)
+

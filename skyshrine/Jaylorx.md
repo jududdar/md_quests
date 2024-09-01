@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Jaylorx says:** Watch out in the water. Yelinak keeps a few small fish there.
+
+
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Sentry Hubniq says:** Move along stranger, I have no time to chatter with you.
+
+
 

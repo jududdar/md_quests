@@ -4,10 +4,18 @@
 
 Their primary faction is [High Guard of Erudin](/faction/267).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Chief Adair says:** Hail, citizen!! Have you business with me? If so, please speak quickly and be on your way.
+
+
+
+
 
 
 

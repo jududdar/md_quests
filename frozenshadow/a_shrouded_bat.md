@@ -4,5 +4,9 @@
 
 Their primary faction is [Tserrina Syl`Tor](/faction/409).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#an enraged vampire](/npc/111024) at this location.
+

@@ -4,5 +4,9 @@
 
 Their primary faction is [Eldritch Collective](/faction/245).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [Driver Bryggin](/npc/56005) at (**y:** -1644, **x:** 600)
+

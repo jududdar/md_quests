@@ -4,5 +4,9 @@
 
 Their primary faction is [Tserrina Syl`Tor](/faction/409).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#a large undead gnoll](/npc/111012) at this location.
+

@@ -4,8 +4,14 @@
 
 Their primary faction is [Kingdom of Above and Below](/faction/1576).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Court Jester says:** Above or Below?  Does it truly matter?  We rule all either way.
+
+
 

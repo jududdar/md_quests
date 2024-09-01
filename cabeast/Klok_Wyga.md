@@ -4,10 +4,21 @@
 
 Their primary faction is [Cabilis Residents](/faction/440).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Klok Wyga says:** Do not complain to me of the prices.  I charge what the Haggle Baron instructs me to charge.
+
+
+
+
+
+
+
 
 
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Milasar Husnalsn says:** Nice to meet you Soandso, don't mind me I've had a lot to drink.
+
+
 

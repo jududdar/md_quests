@@ -4,5 +4,9 @@
 
 Their primary faction is [Mammoth](/faction/157).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [corrupted wooly mammoth](/npc/30090) at this location.
+

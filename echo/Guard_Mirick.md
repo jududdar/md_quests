@@ -4,8 +4,14 @@
 
 Their primary faction is [Kingdom of Above and Below](/faction/1576).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Guard Mirick says:** Proceed on back to King Gromklin's throne room.  But mind your manners or I'll have to teach you a lesson.
+
+
 

@@ -4,10 +4,18 @@
 
 Their primary faction is [Denizens of Mischief](/faction/437).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Peachy D-Vicci says:** Hey there! Wanna test your luck? I have here my mystery satchel filled with gifts. Sometimes you get something nice, and sometimes ya get nothing at all. Wanna give it a shot? It only costs four funnies.
+
+
+
+
 
 
 
@@ -16,12 +24,17 @@ Their primary faction is [Denizens of Mischief](/faction/437).
 ## Turn-Ins
 
 
+
+
+
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
                                 href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
                                 href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
                                 href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_644.png" alt="" /> <a
                                 href="/item/9504" data-url="9504" class="tooltip-link link">Funny Money</a> ) then
+
 >*Peachy D-Vicci reaches into her satchel and pulls out a small box. 'Here ya go! Enjoy it. Come back soon. Just a warning though, I cant give you a box that you already have. There isn't enough for everyone you know!'*
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
                                 href="/item/9505" data-url="9505" class="tooltip-link link">a red gift box</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
                                 href="/item/9506" data-url="9506" class="tooltip-link link">a blue gift box</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_836.png" alt="" /> <a
@@ -35,5 +48,8 @@ if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

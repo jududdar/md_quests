@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS_animal](/faction/5018).
 
+
+
 ## On NPC Death
+
 **Signaled to:**  [croc trigger](/npc/65150)
+

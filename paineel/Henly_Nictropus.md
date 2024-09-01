@@ -4,10 +4,22 @@
 
 Their primary faction is [Heretics](/faction/265).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Henly Nictropus says:** The Dark Truth reports the news without all the usual propaganda and lies spewed by the mouthpieces of other Kingdoms and principalities. Buy a copy today for just a few silver and find out the real truth behind current events.
+
+
+
+
+
+
+
+
 
 
 

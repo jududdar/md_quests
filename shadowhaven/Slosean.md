@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Fordel](/faction/1510).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Slosean says:** Have you seen my short ale?
+
+
 

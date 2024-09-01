@@ -5,8 +5,13 @@
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
+
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 e.self:Say("Greetings, traveler! I am Somat, Elementalist extraordinaire and one of several of my trade here in New Tanaan. We have all spent much time preparing for your arrival and hope that our time is not in vain. If you are a wielder of the elemental forces, then come and browse my inventory, friend! I may hold a spell or two that might pique your interest. Also, if you perhaps hold a seemingly mundane item of arcane relation that you found in your travels upon the planes, then do not hesitate to let me have a look at it. Don't worry 
 
@@ -14,17 +19,29 @@ e.self:Say("Greetings, traveler! I am Somat, Elementalist extraordinaire and one
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 local ethereal =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_862.png" alt="" /> <a
                                 href="/item/29112" data-url="29112" class="tooltip-link link">Ethereal Parchment</a> x 1
+
 local spectral =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_683.png" alt="" /> <a
                                 href="/item/29131" data-url="29131" class="tooltip-link link">Spectral Parchment</a> x 1
+
 local glyphed =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_967.png" alt="" /> <a
                                 href="/item/29132" data-url="29132" class="tooltip-link link">Glyphed Rune Word</a> x 1
+
 if(ethereal > 0) then
+
 repeat
+
 e.self:Emote("takes the planar arcane item and examines it with a strange glance in his eye. At first he seems overly excited 
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/21641" data-url="21641" class="tooltip-link link">Spell: Belt of Magi'Kot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/21642" data-url="21642" class="tooltip-link link">Spell: Blade of Walnan</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
@@ -45,12 +62,19 @@ e.self:Emote("takes the planar arcane item and examines it with a strange glance
                                 href="/item/28431" data-url="28431" class="tooltip-link link">Spell: Servant of Marr</a>) 
 
  
+
 ethereal = ethereal - 1;
+
 until ethereal == 0;
 
+
+
 if(spectral > 0) then
+
 repeat
+
 e.self:Emote("takes the planar arcane item and examines it with a strange glance in his eye. At first he seems overly excited 
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/21644" data-url="21644" class="tooltip-link link">Spell: Blade of The Kedge</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/29362" data-url="29362" class="tooltip-link link">Spell: Summon Jewelry Bag</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
@@ -66,22 +90,40 @@ e.self:Emote("takes the planar arcane item and examines it with a strange glance
                                 href="/item/28434" data-url="28434" class="tooltip-link link">Spell: Maelstrom of Thunder</a>) 
 
  
+
 spectral = spectral - 1;
+
 until spectral == 0;
 
+
+
 if(glyphed > 0) then
+
 repeat
+
 e.self:Emote("takes the planar arcane item and examines it with a strange glance in his eye. At first he seems overly excited 
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/28435" data-url="28435" class="tooltip-link link">Spell: Rathe's Son</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/28436" data-url="28436" class="tooltip-link link">Spell: Sun Vortex</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/16342" data-url="16342" class="tooltip-link link">Spell: Call of the Arch Mage</a>) 
 
  
+
 glyphed = glyphed - 1;
+
 until glyphed == 0;
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

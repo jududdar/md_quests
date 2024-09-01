@@ -4,8 +4,12 @@
 
 Their primary faction is [Storm Reapers](/faction/355).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >*Tholris stares in contemplation at the landscape.*
 
@@ -13,10 +17,24 @@ Their primary faction is [Storm Reapers](/faction/355).
 
 
 
+
+
+
+
 ## Signals
+
 if(e.signal == 1) then
+
 >*Tholris breathes quickly and sweats as he channels his spirit into the sky.*
+
 **Tholris casts:** [Call of the Earth](/spell/791) on themselves.
+
+
+
+
+
+
+
 
 
 

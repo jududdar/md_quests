@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Guardian Ulaurd says:** Welcome to the Kartis district of [New Tanaan]. comrade.  May you gain power through knowledge.
+
+
 

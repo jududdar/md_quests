@@ -4,8 +4,14 @@
 
 Their primary faction is [Kromrif](/faction/419).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Sentinel Fyjrael watches you but does not say a word.*
+
+
 

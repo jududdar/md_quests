@@ -4,7 +4,13 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## Arrive at Waypoint Script
+
 if(e.wp >= 0) then
+
 e.self:SetAppearance(3);
+
+
 

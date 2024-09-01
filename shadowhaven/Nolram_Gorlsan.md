@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Fordel](/faction/1510).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Nolram Gorlsan says:** Hey there Soandso, how about you get lost!
+
+
 

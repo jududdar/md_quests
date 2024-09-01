@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Sentry Plaxgc says:** Beware the cubes.  They have gotten a very hostile since the new arrivals.
+
+
 

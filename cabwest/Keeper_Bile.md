@@ -4,18 +4,34 @@
 
 Their primary faction is [Brood of Kotiz](/faction/443).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Keeper Bile bows before you as a gesture of kindness and respect. 'Greetings. I am Bile, Keeper of the Apprentice Ranks. My knowledge is that of the first circle of necromancy. I was once a great necromancer, but now i have a greater calling to protect the words of Kotiz. I also Conduct many tests to ensure the spells are deciphered correctly. I am in need of an apprentice to [collect components.]*
+
 **You say:** `collect components`
 
+
 if **Faction** >= Amiable then
+
 >*Keeper Bile takes out a tattered scroll and looks upon its words.'Hmm. Yes. I will need the following; One large scorpion pincer, one sabertooth cub canine and two brittle skulls. Bring these to me and I shall pay you and if I have an overscribed spell, I shall give you that also.*
+
 elseif **Faction** >= Indifferent then
+
 >**Keeper Bile says:** No Iksar resident will have anything to do with you!
+
 else
+
 >**Keeper Bile says:** No Iksar resident will have anything to do with you!   Away from here before you find yourself dead.
+
+
+
+
+
 
 
 
@@ -25,14 +41,21 @@ else
 ## Turn-Ins
 
 
+
+
+
 if **Faction** >= Amiable and  **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
                                 href="/item/12739" data-url="12739" class="tooltip-link link">Brittle Iksar Skull</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_1070.png" alt="" /> <a
                                 href="/item/12739" data-url="12739" class="tooltip-link link">Brittle Iksar Skull</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_807.png" alt="" /> <a
                                 href="/item/12659" data-url="12659" class="tooltip-link link">Large Scorpion Pincer</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_801.png" alt="" /> <a
                                 href="/item/12426" data-url="12426" class="tooltip-link link">Sabertooth Cub Canine</a> ) then
+
 >*Keeper Bile tosses the items into a nearby box and reaches into a sack at his feet. He hands you your reward. 'This spell is going to need some major testing. I can always use more of the same components.'*
+
 Your faction standing with [Brood of Kotiz](/faction/443) got better (<span class='text-success'>+2</span>)
+
 Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+1</span>)
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/15338" data-url="15338" class="tooltip-link link">Spell: Cavorting Bones</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/15344" data-url="15344" class="tooltip-link link">Spell: Clinging Darkness</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
@@ -53,5 +76,8 @@ Your faction standing with [Legion of Cabilis](/faction/441) got better (<span c
 
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 1-10 <img src='/static/icons/item_646.png' width='14' height='14'/> 0 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

@@ -5,11 +5,18 @@
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
+
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 e.self:Emote("gives a stiff nod in proper greetings to Soandso. 'The light of Selia shines in welcoming, friend. If you seek supplies or training, know that Selia will accommodate your every need in these specific areas most efficiently 
+
 **You say:** `black lava powder`
+
 
 >**Oracle Cador says:** You are most astute. I do have a stock of black lava powder with me, but I will only share it with those who prove themselves worthy. Onirelin Gali is currently in possession of an artifact I need to better commune with the spirits. Please recover it for me.
 
@@ -17,22 +24,37 @@ e.self:Emote("gives a stiff nod in proper greetings to Soandso. 'The light of Se
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 local count =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
                                 href="/item/4871" data-url="4871" class="tooltip-link link">Rune Etched Helm</a>, 4872, 4873, 4874, 4875, 4876, 4877 x 1
+
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_894.png" alt="" /> <a
                                 href="/item/28089" data-url="28089" class="tooltip-link link">Cadors Artifact</a> ) then
+
 >**Oracle Cador says:** The spirits are restful now that this piece of legend is in safe hands. You may take this to Mirao for whatever purpose he desires it for. May your vision always be clear!
+
+
 
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_733.png" alt="" /> <a
                                 href="/item/28090" data-url="28090" class="tooltip-link link">Black Lava Powder</a> (+100 exp)
 
  
 
+
+
 if(count > 0) then
+
 repeat
+
 >**Oracle Cador says:** Thank you, Soandso.
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
                                 href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
                                 href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
@@ -40,8 +62,13 @@ repeat
                                 href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
 
  
+
 count = count - 1;
+
 until count == 0;
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

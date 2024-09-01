@@ -4,8 +4,12 @@
 
 Their primary faction is [Haven Defenders](/faction/1509).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Defender Salur says:** Hello, Soandso, the path beyond leads to the bazaar as well as the commons area. If you are looking for a certain destination in particular please do not be afraid to ask.
 
@@ -13,21 +17,39 @@ Their primary faction is [Haven Defenders](/faction/1509).
 
 
 
+
+
+
+
 ## Combat
+
 if Defender Salur enters combat  then
+
 **Set a timer** named *combatsay* for 300 seconds
+
 else
+
 **Stop timer** named *combatsay*
+
+
+
+
 
 
 
 
 
 ## Timer(s)
+
 >**Defender Salur says:** A fool you are indeed to test your fighting skills to mine!  You shall now die by my blade!
 
 
 
 
+
+
+
 ## On NPC Death
+
 **Stop timer** named *combatsay*
+

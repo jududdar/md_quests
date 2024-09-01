@@ -4,11 +4,19 @@
 
 Their primary faction is [Inhabitants of Firiona Vie](/faction/248).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 2100 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 **Frode despawns.**
+

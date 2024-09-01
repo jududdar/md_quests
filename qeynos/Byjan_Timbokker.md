@@ -4,15 +4,24 @@
 
 Their primary faction is [Merchants of Qeynos](/faction/291).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *pick_up* for 2 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 if ( e.timer == "pick_up" ) then
+
 while ( e.self:CheckGround() ) do
+
 >*Byjan Timbokker picks up a discarded item from the ground and says, 'Don't people have enough respect for our grand city to not throw things onto the streets?!*
 
 
@@ -20,8 +29,17 @@ while ( e.self:CheckGround() ) do
 
 
 
+
+
+
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Byjan Timbokker says:** Greetings!  Please do not ask me to donate to the Knights of Truth or the Priests of Life.  I have enough gold going to the city of Qeynos with all these new taxes!
+
+
 

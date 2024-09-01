@@ -9,8 +9,19 @@ Their primary faction is [Prisoners of Justice](/faction/1627).
 
 
 
+
+
+
+
+
+
+
 ## Dialog
+
 **You say:** ``
 
+
 e.self:Message(15,"You can't think of any reason why you would be here.");
+
+
 

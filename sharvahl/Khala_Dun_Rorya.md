@@ -4,15 +4,29 @@
 
 Their primary faction is [Jharin](/faction/1531).
 
+
+
 ## Signals
+
 e.self:DoAnim(51); 
+
+
+
 
 
 
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

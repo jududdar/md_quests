@@ -4,8 +4,14 @@
 
 Their primary faction is [DawnshroudOne](/faction/5055).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Kenta Renlas says:** Careful of those dawnhoppers. I heard they spit a venom that can cause blindness.
+
+
 

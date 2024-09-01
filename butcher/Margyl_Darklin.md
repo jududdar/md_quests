@@ -4,11 +4,24 @@
 
 Their primary faction is [Butcherblock Bandits](/faction/379).
 
+
+
 ## Arrive at Waypoint Script
+
 if(e.wp == 1 or e.wp == 7) then
+
 e.self:SetRunning(true);
+
 elseif(e.wp == 4 or e.wp == 10) then
+
 e.self:SetRunning(false);
+
+
+
+
+
+
+
 
 
 

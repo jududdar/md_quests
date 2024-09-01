@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Frewin Strongpaw says:** I am currently quite busy with my studies Soandso, however, if you need any of my scrolls, just let me know.
+
+
 

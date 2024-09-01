@@ -4,8 +4,12 @@
 
 Their primary faction is [Citizens of Froststone](/faction/460).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Guard Kristen says:** It looks like we have ourselves another visitor. This here is Froststone. The last Coldain stronghold on this icy rock.
 
@@ -13,7 +17,14 @@ Their primary faction is [Citizens of Froststone](/faction/460).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

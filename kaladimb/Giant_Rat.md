@@ -4,9 +4,20 @@
 
 Their primary faction is [Giant Rat](/faction/86).
 
+
+
 ## Arrive at Waypoint Script
+
 if(e.wp == 5) then
+
 e.self:SetRunning(true);
+
+
+
+
+
+
+
 
 
 

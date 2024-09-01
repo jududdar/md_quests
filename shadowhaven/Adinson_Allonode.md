@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Adinson Allonode says:** Hello there. I run this jewelry shop with my husband Garn. Please let me know how I can be of assistance.
+
+
 

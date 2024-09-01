@@ -4,5 +4,9 @@
 
 Their primary faction is [Gladiators of Drunder](/faction/1647).
 
+
+
 ## On NPC Spawn
+
 **Signaled to:**  [Glykus Helmir](/npc/214053)
+

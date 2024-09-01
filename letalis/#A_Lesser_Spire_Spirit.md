@@ -4,25 +4,45 @@
 
 Their primary faction is [Spire Spirits](/faction/1527).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 120 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 if(e.timer == "depop") then
+
 **A Lesser Spire Spirit despawns.**
 
 
 
 
 
+
+
+
+
 ## Combat
+
 if A Lesser Spire Spirit enters combat  then
+
 if(not eq.is_paused_timer("depop")) then
+
 eq.pause_timer("depop");
 
+
+
 else
+
 eq.resume_timer("depop");
+
+
 

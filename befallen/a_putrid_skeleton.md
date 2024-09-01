@@ -4,9 +4,17 @@
 
 Their primary faction is [Skeleton](/faction/110).
 
+
+
 ## Arrive at Waypoint Script
+
 if(e.wp == 55 or e.wp == 117) then
+
 e.self:SetRunning(true);
+
 elseif(e.wp == 82) then
+
 e.self:SetRunning(false);
+
+
 

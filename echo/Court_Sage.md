@@ -4,8 +4,14 @@
 
 Their primary faction is [Kingdom of Above and Below](/faction/1576).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Court Sage says:** Please, Soandso, I'm a little busy right now.  Perhaps I can chat with you later.
+
+
 

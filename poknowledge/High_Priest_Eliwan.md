@@ -5,8 +5,13 @@
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
+
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 e.self:Emote("makes an almost unearthly graceful gesture as he bows politely at the waist in formal greetings. 'May the light of Tunare shine brightly upon your fate, my friend, and may the purity of goodly virtues guide your convictions. I am High Priest Eliwan, former scholar, historian, and spiritual leader in the faith dedicated toward the Mother of All. In the era that housed my life, Takish`Hiz was my home in the beautiful forest of Elddar, the shining crown jewel of Tunare's grace and infinite splendor. We were at peace then 
 
@@ -14,13 +19,23 @@ e.self:Emote("makes an almost unearthly graceful gesture as he bows politely at 
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 local count =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
                                 href="/item/4881" data-url="4881" class="tooltip-link link">Ethereal Mist Helm</a>, 4882, 4883, 4884, 4885, 4886, 4887 x 1
+
 if(count > 0) then
+
 repeat
+
 >**High Priest Eliwan says:** Thank you, Soandso.
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
                                 href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
                                 href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
@@ -28,10 +43,20 @@ repeat
                                 href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
 
  
+
 count = count - 1;
+
 until count == 0;
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

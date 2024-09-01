@@ -4,15 +4,29 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Spawn
+
 **Hector the highway bandit attacks NPC:** 56105
 
 
 
 
+
+
+
 ## Signals
+
 >**Hector the highway bandit says:** Victory is mine!
+
 **Hector the highway bandit despawns.**
+
+
+
+
+
+
 
 
 

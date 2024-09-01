@@ -4,10 +4,21 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Trooper Hylpik says:** You look a bit encumbered.  You should visit The Block.
+
+
+
+
+
+
+
 
 
 

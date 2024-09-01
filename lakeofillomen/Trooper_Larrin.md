@@ -4,8 +4,12 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Trooper Larrin says:** The babble in the gatehouse has been the appearance of sarnak hatchlings in the surrounding area.  Where are they coming from?
 
@@ -13,9 +17,21 @@ Their primary faction is [Legion of Cabilis](/faction/441).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

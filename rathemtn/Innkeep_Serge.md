@@ -4,10 +4,22 @@
 
 Their primary faction is [Merchants of Highpass](/faction/331).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Innkeep Serge says:** Welcome to the Rathe Mountains hideaway!
+
+
+
+
+
+
+
+
 
 
 

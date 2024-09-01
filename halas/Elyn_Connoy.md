@@ -4,11 +4,20 @@
 
 Their primary faction is [Rogues of the White Rose](/faction/305).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Elyn Connoy says:** Hail Soandso.
+
 e.self:DoAnim(2);
+
+
+
+
 
 
 
@@ -16,7 +25,15 @@ e.self:DoAnim(2);
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

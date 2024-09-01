@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [corrupted seahorse](/npc/64050) at this location.
+

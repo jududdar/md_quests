@@ -4,15 +4,29 @@
 
 Their primary faction is [Priests of Innoruuk](/faction/340).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+
+
+
 
 
 
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

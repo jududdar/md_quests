@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Stout](/faction/1512).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Lookout Belorop says:** Hi there Soandso. Enjoying your stay? Great! It's nice to have some new faces around these parts.
+
+
 

@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 e.self:Say("Good day to you. traveler. and may the gods be with you in your quest for knowledge. New Tanaan shall not hinder your quest. my friend 
 
@@ -13,9 +17,21 @@ e.self:Say("Good day to you. traveler. and may the gods be with you in your ques
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

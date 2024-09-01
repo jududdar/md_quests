@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Guardian Lyaric 'grumbles and sighs "They always have me watch the dead end hallway.  Nothing exciting ever happens here.'*
+
+
 

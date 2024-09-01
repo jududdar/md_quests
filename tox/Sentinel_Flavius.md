@@ -4,10 +4,22 @@
 
 Their primary faction is [High Guard of Erudin](/faction/267).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Sentinel Flavius says:** Hail, good citizen! You are safe when you are near a sentinel of the High Guard. Feel free to rest and recuperate.
+
+
+
+
+
+
+
+
 
 
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Skalopar says:** Hello, Soandso, grab an ale and take a seat if you can find one.
+
+
 

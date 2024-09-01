@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Merec says:** Hah! Can you beleve Osino is trying to teach his pet to sit!
+
+
 

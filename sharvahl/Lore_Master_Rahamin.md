@@ -4,9 +4,17 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Arrive at Waypoint Script
+
 if(e.wp == 1) then
+
 e.self:SetAppearance(3);
+
+
+
+
 
 
 
@@ -14,7 +22,15 @@ e.self:SetAppearance(3);
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

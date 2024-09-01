@@ -4,8 +4,12 @@
 
 Their primary faction is [amiable](/faction/5052).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Eslof Runsalark says:** No time to talk I gotta get my brother out! Im coming Lareso!
 
@@ -13,9 +17,21 @@ Their primary faction is [amiable](/faction/5052).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

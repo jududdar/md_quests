@@ -4,10 +4,21 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Trooper Byzin says:** I have no time for conversation.  Go. and leave me to my duties.
+
+
+
+
+
+
+
 
 
 

@@ -6,5 +6,11 @@ Their primary faction is [Disciples of Rhag`Zadune](/faction/1562).
 
 
 
+
+
+
+
 ## On NPC Death
+
 eq.delete_global("Lich");
+

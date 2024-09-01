@@ -4,8 +4,14 @@
 
 Their primary faction is [Guardians of the Vale](/faction/263).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Leatherfoot Deputy says:** Leatherfoot Raider Hitchel, number 25705. How may I assist you?
+
+
 

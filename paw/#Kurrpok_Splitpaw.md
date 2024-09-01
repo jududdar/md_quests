@@ -4,5 +4,9 @@
 
 Their primary faction is [Split Paw Clan](/faction/321).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [Zixx Nenix](/npc/18026) at (**y:** 623, **x:** -189)
+

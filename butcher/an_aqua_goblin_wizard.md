@@ -4,5 +4,9 @@
 
 Their primary faction is [Riptide Goblins](/faction/398).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

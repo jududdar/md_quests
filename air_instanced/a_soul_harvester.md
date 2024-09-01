@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [a soul tamer](/npc/71100) at this location.
+

@@ -4,8 +4,17 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [Bazzt Zzzt](/npc/71572) at this location.
+
+
+
+
+
+
 
 
 

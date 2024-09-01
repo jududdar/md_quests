@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Oxon Essencebinder says:** Hello there, stranger. If you're in need of any given pottery sketch then you came to the right place.
+
+
 

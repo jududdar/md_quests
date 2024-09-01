@@ -4,11 +4,17 @@
 
 Their primary faction is [Gor Taku](/faction/1500).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Guard Yuk Tuk says:** You take slook to Shak Dratha heart. Make Gor Taku happy happy. You go! GO NOW!
+
 **You say:** `slook`
+
 
 >**Guard Yuk Tuk says:** Slook for pokey pokey.
 
@@ -16,9 +22,21 @@ Their primary faction is [Gor Taku](/faction/1500).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

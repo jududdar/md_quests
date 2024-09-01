@@ -4,8 +4,14 @@
 
 Their primary faction is [Askr the Lost](/faction/1609).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*a storm drenched nophtan froaks.*
+
+
 

@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#Garzicor\`s Wraith](/npc/123002) at this location.
+

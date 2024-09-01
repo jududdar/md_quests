@@ -4,8 +4,12 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**A Firefall Saurek says:** Hi there!
 
@@ -13,9 +17,21 @@ Their primary faction is [KOS](/faction/5017).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

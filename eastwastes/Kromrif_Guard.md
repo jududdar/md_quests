@@ -4,11 +4,19 @@
 
 Their primary faction is [Kromrif](/faction/419).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 280 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 **Kromrif Guard despawns.**
+

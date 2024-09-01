@@ -4,11 +4,19 @@
 
 Their primary faction is [Phinigel Autropos](/faction/299).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 900 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 **a golden haired mermaid despawns.**
+

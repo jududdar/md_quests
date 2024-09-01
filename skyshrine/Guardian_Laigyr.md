@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Guardian Laigyr says:** The Guardians' sole purpose is to protect the shrine and all creatures that dwell here.
+
+
 

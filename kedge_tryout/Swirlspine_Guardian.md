@@ -4,11 +4,19 @@
 
 Their primary faction is [Phinigel Autropos](/faction/299).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 1500 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 **Swirlspine Guardian despawns.**
+

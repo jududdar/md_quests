@@ -4,12 +4,21 @@
 
 Their primary faction is [Karana Bandits](/faction/366).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *depop* for 1800 seconds
+
 e.self:AI_SetRoambox(300,-400,-2300,-2205,-3310);
 
 
 
 
+
+
+
 ## Timer(s)
+
 **Vance Bearstalker despawns.**
+

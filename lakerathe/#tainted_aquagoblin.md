@@ -4,8 +4,17 @@
 
 Their primary faction is [Riptide Goblins](/faction/398).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [corrupted shaman](/npc/51002) at (**y:** , **x:** )
+
+
+
+
+
+
 
 
 

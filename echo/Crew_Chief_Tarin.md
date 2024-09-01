@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Stout](/faction/1512).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Crew Chief Tarin says:** 'nstead of chitchattin', why'n't you grab a pick over there and put yerself to some use?
+
+
 

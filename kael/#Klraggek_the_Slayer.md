@@ -4,17 +4,30 @@
 
 Their primary faction is [King Tormax](/faction/429).
 
+
+
 ## Combat
 
+
+
 if (not e.joined) then
+
 e.self:SetRunning(false);
 
 
 
 
 
+
+
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Klraggek the Slayer stares down at you and tightens his sword grip.*
+
+
 

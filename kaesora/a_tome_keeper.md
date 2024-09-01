@@ -3,11 +3,16 @@
 [a tome keeper](/npc/88047) is a level 40 Iksar Spirit Warrior that spawns in [Kaesora](/zone/88).
 
 
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*a tome keeper shows awareness of you, but ignores you completely.*
+
 **You say:** `peace of mind`
+
 
 >*a tome keeper begins to speak to you without movement of his rotted mouth, you realize his words are pouring into your mind. 'You seek peace of mind, and may you have it. First though, your Shackle of Steel. One Shackle for one tome.'*
 
@@ -15,11 +20,19 @@
 
 
 
+
+
+
+
 ## Turn-Ins
+
+
 
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_620.png" alt="" /> <a
                                 href="/item/4196" data-url="4196" class="tooltip-link link">Shackle of Steel</a> ) then
+
 >*a tome keeper drops a tattered tome at your feet and says nothing more. You pick it up and place it among your things.*
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
                                 href="/item/18359" data-url="18359" class="tooltip-link link">Dark Black Tome</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
                                 href="/item/18462" data-url="18462" class="tooltip-link link">Solid Black Tome</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_789.png" alt="" /> <a
@@ -34,7 +47,16 @@ if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
 
 
 

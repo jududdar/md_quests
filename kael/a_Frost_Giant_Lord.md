@@ -4,8 +4,14 @@
 
 Their primary faction is [Kromrif](/faction/419).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**a Frost Giant Lord says:** Welcome to Iceshard Manor, home of the Iceshard brothers, Klaggen and Vorken.
+
+
 

@@ -4,8 +4,12 @@
 
 Their primary faction is [Citizens of Froststone](/faction/460).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Guard Solistak says:** Halt! Halt! If you be thinking about going past this here post, you had best be mindful of the horrors roaming these passageways!
 
@@ -13,7 +17,14 @@ Their primary faction is [Citizens of Froststone](/faction/460).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

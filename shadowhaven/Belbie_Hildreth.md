@@ -4,8 +4,14 @@
 
 Their primary faction is [Traders of the Haven](/faction/1508).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Belbie Hildreth says:** Hello there, Soandso. If you need anything you don't see, just ask.
+
+
 

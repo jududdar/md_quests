@@ -4,8 +4,12 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Trooper Fodcod says:** Hail. adventurer!  Watch your step and don't get lost in the swamplands.  The frogloks will have you for stew.
 
@@ -13,9 +17,21 @@ Their primary faction is [Legion of Cabilis](/faction/441).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

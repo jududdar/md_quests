@@ -4,9 +4,19 @@
 
 Their primary faction is [The Dead](/faction/239).
 
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

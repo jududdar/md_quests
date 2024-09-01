@@ -4,13 +4,23 @@
 
 Their primary faction is [Legion of Cabilis](/faction/441).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Trooper Neozite says:** What I wouldn't do for a [Legion Lager] right now.
+
 **You say:** `lager`
 
+
 >**Trooper Neozite says:** It's my favorite drink, and the Legion took it away from me. They said it was becoming a problem amongst the guards. Maybe you can ask the bartender in East Cabilis about it. If you find me one, I'd be forever grateful!
+
+
+
+
 
 
 
@@ -19,14 +29,24 @@ Their primary faction is [Legion of Cabilis](/faction/441).
 ## Turn-Ins
 
 
+
+
+
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_830.png" alt="" /> <a
                                 href="/item/12463" data-url="12463" class="tooltip-link link">Legion Lager</a> ) then 
+
 >*Trooper Neozite begins to weep. 'My favorite ale! Oh what a happy day! Please take this for your troubles.*
+
 Your faction standing with [Legion of Cabilis](/faction/441) got better (<span class='text-success'>+5</span>)
+
 Your faction standing with [Cabilis Residents](/faction/440) got better (<span class='text-success'>+2</span>)
+
 Your faction standing with [Scaled Mystics](/faction/445) got better (<span class='text-success'>+2</span>)
+
 Your faction standing with [Crusaders of Greenmist](/faction/442) got better (<span class='text-success'>+2</span>)
+
 Your faction standing with [Swift Tails](/faction/444) got better (<span class='text-success'>+2</span>)
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_639.png" alt="" /> <a
                                 href="/item/4270" data-url="4270" class="tooltip-link link">Curscale Skullcap</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_677.png" alt="" /> <a
                                 href="/item/4271" data-url="4271" class="tooltip-link link">Curscale Snout Mount</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_500.png" alt="" /> <a
@@ -42,5 +62,8 @@ Your faction standing with [Swift Tails](/faction/444) got better (<span class='
 
 **You receive coin:** 0 <img src='/static/icons/item_644.png' width='14' height='14'/> 0 <img src='/static/icons/item_645.png' width='14' height='14'/> 0-9 <img src='/static/icons/item_646.png' width='14' height='14'/> 0-9 <img src='/static/icons/item_647.png' width='14' height='14'/> 
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

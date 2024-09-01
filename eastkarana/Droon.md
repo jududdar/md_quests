@@ -4,5 +4,9 @@
 
 Their primary faction is [Cyclops](/faction/68).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

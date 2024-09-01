@@ -4,11 +4,17 @@
 
 Their primary faction is [Inhabitants of Firiona Vie](/faction/248).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Scout Treekill has a helm tied to his belt.  He is chewing something.  He spits some shells out and they land on your chest.  'Sorry about that.  Hehe.*
+
 **You say:** `chew`
+
 
 >**Scout Treekill says:** Can't you tell?!  It's on your chest.  Heh!  What a dim one!  They're flarefire seeds.  Only good thing about this land.  Trackers find 'em in the Field of Bone near some lizard city.
 
@@ -16,9 +22,21 @@ Their primary faction is [Inhabitants of Firiona Vie](/faction/248).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

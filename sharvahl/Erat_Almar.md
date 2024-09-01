@@ -4,12 +4,23 @@
 
 Their primary faction is [Guardians of Shar Vahl](/faction/1513).
 
+
+
 ## Signals
+
 if(e.signal == 1) then
+
 >**Erat Almar says:** Eh, what do you mean by peculiar?
 
+
+
 if(e.signal == 2) then
+
 >**Erat Almar says:** Whoa! What did you do?
+
+
+
+
 
 
 
@@ -17,7 +28,15 @@ if(e.signal == 2) then
 
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

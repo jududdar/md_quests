@@ -6,8 +6,20 @@ Their primary faction is [Pirates of Gunthak](/faction/313).
 
 
 
+
+
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [a lesser spirit](/npc/69149) at (**y:** , **x:** )
+
+
+
+
+
+
+
 
 
 

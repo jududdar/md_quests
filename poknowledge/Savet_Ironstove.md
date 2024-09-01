@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 e.self:Say("Greetings. Soandso. and welcome to New Tanaan. This city holds a great variety of supplies for all tradesmen 
 
@@ -13,9 +17,21 @@ e.self:Say("Greetings. Soandso. and welcome to New Tanaan. This city holds a gre
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

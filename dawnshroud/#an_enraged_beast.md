@@ -4,5 +4,9 @@
 
 Their primary faction is [KOS_animal](/faction/5018).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#a rabid beast](/npc/174037) at (**y:** , **x:** )
+

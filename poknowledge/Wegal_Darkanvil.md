@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 e.self:Say("An' a blessed day t'ye. friend. New Tanaan 'as not seen this level of excitement in quite some time 
 
@@ -13,9 +17,21 @@ e.self:Say("An' a blessed day t'ye. friend. New Tanaan 'as not seen this level o
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

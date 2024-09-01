@@ -4,6 +4,11 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [\#Spirit of Garzicor](/npc/123003) at (**y:** 1518, **x:** 983)
+
 **Spawn NPC:**  [\#Spirit of Garzicor ](/npc/123004) at (**y:** 1433, **x:** 1045)
+

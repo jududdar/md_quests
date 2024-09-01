@@ -4,8 +4,14 @@
 
 Their primary faction is [DawnshroudFive](/faction/5059).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Thariza Spiritis says:** Hello there, Soandso. Be sure to speak to Kanthek if you're in need of any armor.
+
+
 

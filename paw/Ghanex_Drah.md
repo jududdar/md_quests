@@ -4,5 +4,9 @@
 
 Their primary faction is [Bloodsabers](/faction/221).
 
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [Ghanex the Resurrected](/npc/18032) at (**y:** 1263, **x:** -172)
+

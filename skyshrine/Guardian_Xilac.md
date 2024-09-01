@@ -4,8 +4,14 @@
 
 Their primary faction is [Claws of Veeshan](/faction/430).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Guardian Xilac says:** Hello, " .. e.other:Race() .. ", don't mind the other velium they are mighty suspicious of the new flesh dashing about.
+
+
 

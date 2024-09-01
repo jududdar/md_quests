@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Stout](/faction/1512).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Miner Corin says:** The boss catches me slackin' and I'm dead meat.  I'm already behind on my quota fer the day.
+
+
 

@@ -4,10 +4,22 @@
 
 Their primary faction is [Heretics](/faction/265).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Nedorl Ipabrun says:** Buy. or leave.  Make up your mind.  I have no time for idle chitchat.
+
+
+
+
+
+
+
+
 
 
 

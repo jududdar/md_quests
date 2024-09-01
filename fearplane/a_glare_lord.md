@@ -4,7 +4,13 @@
 
 Their primary faction is [Denizens of Fear](/faction/5007).
 
+
+
 ## Signals
+
 if(e.signal == 1) then
+
 >**a glare lord says:** Such is the will of Cazic-Thule!
+
+
 

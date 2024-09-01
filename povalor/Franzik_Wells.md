@@ -4,8 +4,14 @@
 
 Their primary faction is [Inhabitants of Valor](/faction/1655).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Franzik Wells says:** Good day.  Although I do not mind your presence, I do ask to be left alone, for I am trying to concentrate.  Please forgive my lack of gregariousness.  Do come another time.
+
+
 

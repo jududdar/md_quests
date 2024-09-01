@@ -4,9 +4,19 @@
 
 Their primary faction is [Green Blood Knights](/faction/261).
 
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

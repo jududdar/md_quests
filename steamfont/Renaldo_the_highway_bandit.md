@@ -4,15 +4,29 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Spawn
+
 **Renaldo the highway bandit attacks NPC:** 56105
 
 
 
 
+
+
+
 ## Signals
+
 >**Renaldo the highway bandit says:** Your servos belong to me!
+
 **Renaldo the highway bandit despawns.**
+
+
+
+
+
+
 
 
 

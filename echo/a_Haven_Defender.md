@@ -4,8 +4,14 @@
 
 Their primary faction is [Haven Defenders](/faction/1509).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**a Haven Defender says:** Be careful Soandso.  The mines aren't safe since the underbulks broke through.
+
+
 

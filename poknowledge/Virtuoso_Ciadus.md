@@ -5,19 +5,32 @@
 Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
+
+
+
 ## Dialog
+
 e.self:Emote("raises a brow sharply, his Teir'Dal heritage perfectly displayed in his sharp features twisted in a glare of flawless contempt. 'The district of Kartis 
+
+
+
 
 
 
 
 ## Turn-Ins
 
+
+
 local count =  **You turn in:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_746.png" alt="" /> <a
                                 href="/item/4861" data-url="4861" class="tooltip-link link">Imbrued Platemail Helm</a>, 4862, 4863, 4864, 4865, 4866, 4867 x 1
+
 if(count > 0) then
+
 repeat
+
 >**Virtuoso Ciadus says:** Thank you, Soandso.
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_957.png" alt="" /> <a
                                 href="/item/10028" data-url="10028" class="tooltip-link link">Peridot</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
                                 href="/item/10037" data-url="10037" class="tooltip-link link">Diamond</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_966.png" alt="" /> <a
@@ -25,10 +38,20 @@ repeat
                                 href="/item/15981" data-url="15981" class="tooltip-link link">Raw Diamond</a>) (+300000 exp)
 
  
+
 count = count - 1;
+
 until count == 0;
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

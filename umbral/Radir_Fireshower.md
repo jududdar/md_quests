@@ -6,5 +6,11 @@ Their primary faction is [KOS](/faction/5017).
 
 
 
+
+
+
+
 ## On NPC Death
+
 **Spawn NPC:**  [Spirit of Radir](/npc/176019) at (**y:** -765, **x:** -2037)
+

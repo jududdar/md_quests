@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Midst](/faction/1511).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Goesl Sealsonich says:** Greetings. I keep spells for those that deal in only the most powerful magics of teleportation and translocation.
+
+
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Katta Castellum Citizens](/faction/1502).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Vanessa Rutledge says:** Welcome to the Nectar of Unity Tavern! My family has been running this establishment since the very birth of Katta Castellum. Please stay and sample our fine selection of imported and house brews! I am sure you will find the company here in the tavern quite pleasant as well.
+
+
 

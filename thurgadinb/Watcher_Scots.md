@@ -4,8 +4,14 @@
 
 Their primary faction is [Coldain](/faction/406).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*Watcher Scots points at his throat and shakes his head sadly.*
+
+
 

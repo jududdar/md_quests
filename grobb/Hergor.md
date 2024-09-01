@@ -4,18 +4,34 @@
 
 Their primary faction is [Da Bashers](/faction/235).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Hergor says:** Whats you wants!!  Me great master of da bashers.  Me tinks yooz must be lookin' fer trainin'.  Yooz looks like a weaklin'.  Me train yooz and yooz helps me get fatter.  Well!!  Are yooz gonna [helps Hergor get fatter]?!!
+
 **You say:** `get fatter`
 
+
 if **Faction** >= Amiable then
+
 >**Hergor says:** Yooz makes da good choice.  Me nevers get enuff ta eats.  Eats more and gets more stronger. me always say.  Yooz gos and speaks wit carver Cagrek.  Yooz tell him [Hergor wants his fungus dung pie].  Yooz duz dis and me gives you sum rawhide armer or tatters armer.
+
 elseif **Faction** >= Indifferent then
+
 >**Hergor says:** More service to da bashers, den me listen.
+
 else
+
 >**Hergor says:** Me smell death coming your way!  Da bashers no like you. Hey!  Me am basher!
+
+
+
+
+
 
 
 
@@ -25,11 +41,18 @@ else
 ## Turn-Ins
 
 
+
+
+
 if  **Faction** >= Amiable and  **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_783.png" alt="" /> <a
                                 href="/item/12210" data-url="12210" class="tooltip-link link">Fungus Spore Pie</a> ) then 
+
 >**Hergor says:** Mmmmm... Mm... Mmm! Dat smells gud! Me gets more fat and gets more strength. You dus gud job weekling. Me gives you dis armer. It keeps you from getting bashed gud. Now gos away. Me no share pie wit weekling.
+
 Your faction standing with [Da Bashers](/faction/235) got better (<span class='text-success'>+5</span>)
+
 Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span class='text-danger'>-1</span>)
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_640.png" alt="" /> <a
                                 href="/item/2161" data-url="2161" class="tooltip-link link">Large Raw-hide Skullcap</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_771.png" alt="" /> <a
                                 href="/item/2162" data-url="2162" class="tooltip-link link">Large Raw-hide Mask</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_643.png" alt="" /> <a
@@ -46,5 +69,8 @@ Your faction standing with [Broken Skull Clan](/faction/222) got worse (<span cl
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
+
 

@@ -4,8 +4,14 @@
 
 Their primary faction is [Kerra Isle](/faction/382).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Erfer Longclaw says:** Erfer not on duty.  Is Erfer's time off.  Please leave Erfer to buy his drinks.
+
+
 

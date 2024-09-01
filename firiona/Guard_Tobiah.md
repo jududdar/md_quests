@@ -4,8 +4,12 @@
 
 Their primary faction is [Inhabitants of Firiona Vie](/faction/248).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
+
 
 >**Guard Tobiah says:** Hail.  I urge you not to venture too far from the outpost.  We may not hear your cries for help.
 
@@ -13,9 +17,21 @@ Their primary faction is [Inhabitants of Firiona Vie](/faction/248).
 
 
 
+
+
+
+
 ## Turn-Ins
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
+
+
+
 
 
 

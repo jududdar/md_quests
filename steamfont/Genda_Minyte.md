@@ -4,10 +4,23 @@
 
 Their primary faction is [Deepmuses](/faction/240).
 
+
+
 ## Dialog
+
 **You say:** `Hail`
 
+
 >**Genda Minyte says:** Hello.  I love to come out and gaze at the sky.  Isn't it beautiful?
+
+
+
+
+
+
+
+
+
 
 
 

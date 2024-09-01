@@ -4,5 +4,9 @@
 
 Their primary faction is [Butcherblock Bandits](/faction/379).
 
+
+
 ## On NPC Spawn
+
 e.self:SetRunning(true);
+

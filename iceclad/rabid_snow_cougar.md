@@ -4,18 +4,33 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Spawn
+
 **Set a timer** named *attack* for 1 seconds
+
 **Set a timer** named *depop* for 120 seconds
 
 
 
 
+
+
+
 ## Timer(s)
+
 if(e.timer == "attack") then
+
 **rabid snow cougar attacks NPC:** 110057
+
 **Stop timer** named *attack*
+
 elseif(e.timer == "depop") then
+
 **Stop timer** named *depop*
+
 **rabid snow cougar despawns.**
+
+
 

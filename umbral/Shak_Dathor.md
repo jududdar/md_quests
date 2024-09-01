@@ -4,7 +4,13 @@
 
 Their primary faction is [KOS](/faction/5017).
 
+
+
 ## On NPC Death
+
 if(math.random(1,100) < 3) then
+
 **Spawn NPC:**  [Shak Dathor Warlord](/npc/176100) at this location.
+
+
 

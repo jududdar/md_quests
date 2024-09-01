@@ -4,14 +4,23 @@
 
 Their primary faction is [Emerald Warriors](/faction/326).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 if **Faction** >= Amiable then
+
 >**Regren says:** Welcome, warrior! Show the Emerald Warriors your mettle and bring me a ruined wolf pelt, some bat fur, some bone chips, and a spiderling eye from the depths of Greater Faydark. If you succeed, my admiration and a reward will be yours. To battle!
+
 elseif( **Faction is** == Indifferent) then
+
 >**Regren says:** You need to prove your dedication to our cause before I can discuss such matters with you.
+
 else
+
 **Regren says one of the following:**
 
 >I didn't know Slime could speak common.  Go back to the sewer before I lose my temper.
@@ -27,31 +36,53 @@ else
 
 
 
+
+
+
+
+
 ## Turn-Ins
+
+
 
 local text = "Impressive, do you have the rest?";
 
+
+
 if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_504.png" alt="" /> <a
                                 href="/item/18782" data-url="18782" class="tooltip-link link">Recruitment Letter</a> ) then 
+
 >**Regren says:** Welcome to the Emerald Warriors. Hmmm, you have a lot of training to do, so let's get started right away. Here's our guild tunic, represent us well, young Soandso.
+
 Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+100</span>)
+
 Your faction standing with [Indigo Brotherhood](/faction/270) got worse (<span class='text-danger'>-15</span>)
+
 Your faction standing with [Merchants of Felwithe](/faction/325) got better (<span class='text-success'>+10</span>)
+
 Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+10</span>)
+
  &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_678.png" alt="" /> <a
                                 href="/item/13533" data-url="13533" class="tooltip-link link">Old Green Tunic*</a> (+20 exp)
 
  
+
 elseif **Faction** >= Amiable and  **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_804.png" alt="" /> <a
                                 href="/item/13073" data-url="13073" class="tooltip-link link">Bone Chips</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_553.png" alt="" /> <a
                                 href="/item/13782" data-url="13782" class="tooltip-link link">Ruined Wolf Pelt</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_885.png" alt="" /> <a
                                 href="/item/13253" data-url="13253" class="tooltip-link link">Spiderling Eye</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_792.png" alt="" /> <a
                                 href="/item/13069" data-url="13069" class="tooltip-link link">Bat Fur</a> ) then
+
 >**Regren says:** Fine work! You are on your way to becoming an adequate combatant.
+
 Your faction standing with [Emerald Warriors](/faction/326) got better (<span class='text-success'>+10</span>)
+
 Your faction standing with [Indigo Brotherhood](/faction/270) got worse (<span class='text-danger'>-1</span>)
+
 Your faction standing with [Kelethin Merchants](/faction/276) got better (<span class='text-success'>+1</span>)
+
 Your faction standing with [Merchants of Felwithe](/faction/325) got better (<span class='text-success'>+1</span>)
+
  &#127873; **You receive:** eq.ChooseRandom( <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_580.png" alt="" /> <a
                                 href="/item/5013" data-url="5013" class="tooltip-link link">Rusty Short Sword</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_569.png" alt="" /> <a
                                 href="/item/5014" data-url="5014" class="tooltip-link link">Rusty Axe</a>,  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_579.png" alt="" /> <a
@@ -94,7 +125,12 @@ Your faction standing with [Merchants of Felwithe](/faction/325) got better (<sp
 
  
 
+
+
 **This NPC *should* return incorrect items given.**
+
+
+
 
 
 

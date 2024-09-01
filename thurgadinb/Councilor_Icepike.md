@@ -4,8 +4,14 @@
 
 Their primary faction is [Coldain](/faction/406).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Councilor Icepike says:** King Tormax must be stopped, no matter what the cost.
+
+
 

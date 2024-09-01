@@ -4,8 +4,12 @@
 
 Their primary faction is [Coldain](/faction/406).
 
+
+
 ## Dialog
+
 **You say:** `hail`
+
 
 >**Bjoron Axefall says:** I am not the beginning.
 
@@ -13,8 +17,17 @@ Their primary faction is [Coldain](/faction/406).
 
 
 
+
+
+
+
 ## Signals
+
 if(e.signal == 1) then
+
 >**Bjoron Axefall says:** A beginning, a
+
 **Signaled to:**  [Khlem Alestone](/npc/112032)
+
+
 

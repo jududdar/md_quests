@@ -4,8 +4,14 @@
 
 Their primary faction is [Tizmak Clan](/faction/465).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >*a tizmak warrior makes a strange gurgling sound and nods at you.*
+
+
 

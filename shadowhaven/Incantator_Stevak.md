@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Midst](/faction/1511).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Incantator Stevak says:** Welcome to the Midst quarter Soandso. Should you encounter any shady fellows around here make sure you let someone know.
+
+
 

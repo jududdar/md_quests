@@ -4,8 +4,14 @@
 
 Their primary faction is [House of Midst](/faction/1511).
 
+
+
 ## Dialog
+
 **You say:** `hail`
 
+
 >**Desaliar Ter-Fediskian says:** Hello, Soandso, I carry spells for those that study the magics of mind alteration.
+
+
 
