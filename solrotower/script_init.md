@@ -1,7 +1,59 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("JivaAdds");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+J
+
+i
+
+v
+
+a
+
+A
+
+d
+
+d
+
+s
+
+"
+
+)
+
+;

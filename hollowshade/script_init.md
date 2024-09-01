@@ -1,7 +1,49 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("war");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+w
+
+a
+
+r
+
+"
+
+)
+
+;

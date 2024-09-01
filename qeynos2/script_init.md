@@ -1,8 +1,61 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("research");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+r
+
+e
+
+s
+
+e
+
+a
+
+r
+
+c
+
+h
+
+"
+
+)
+
+;
+
 

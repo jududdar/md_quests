@@ -1,7 +1,57 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("FMCycle");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+F
+
+M
+
+C
+
+y
+
+c
+
+l
+
+e
+
+"
+
+)
+
+;

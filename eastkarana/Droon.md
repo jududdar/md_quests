@@ -1,11 +1,92 @@
 # Droon
 
-
-
 [Droon](/npc/15138) is a level 30 Giant Warrior that spawns in [Eastern Plains of Karana](/zone/15).
 
+Their primary faction is [Cyclops](/faction/68).
 
 
-## On NPC Spawn
-  e.self:SetRunning(true);
-end
+
+
+
+#
+
+#
+
+ 
+
+O
+
+n
+
+ 
+
+N
+
+P
+
+C
+
+ 
+
+S
+
+p
+
+a
+
+w
+
+n
+
+
+
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+S
+
+e
+
+t
+
+R
+
+u
+
+n
+
+n
+
+i
+
+n
+
+g
+
+(
+
+t
+
+r
+
+u
+
+e
+
+)
+
+;
+
+

@@ -1,126 +1,156 @@
 # Lady Vox
 
-
-
 [Lady Vox](/npc/73057) is a level 55 Dragon Cleric that spawns in [Permafrost Caverns](/zone/73).
 
+Their primary faction is [Vox](/faction/319).l
 
+o
 
-local SpawnX = 0;
-local SpawnY = 0;
-local SpawnZ = 0;
-local SpawnH = 0;
+c
 
+a
 
+l
 
-## On NPC Spawn
+ 
 
-SpawnX = e.self:GetX();
+S
 
-SpawnY = e.self:GetY();
+p
 
-SpawnZ = e.self:GetZ();
+a
 
-SpawnH = e.self:GetHeading();
+w
 
-local range = 210;
+n
 
-local range2 = 98;
+X
 
-eq.set_proximity(SpawnX - range, SpawnX + range, SpawnY - range2, SpawnY + range, SpawnZ - 20, SpawnZ + 50);
-function event_enter(e)
+ 
 
-if(**Your level** > 52 and e.other:Admin() < 80) then
+=
 
+ 
 
-**Message:** <span class="text-warning">*I will not fight you, but I shall banish you!*</span>
+0
 
+;
 
-e.other:MovePC(30,-7024,2020,-60.7,0); 
-end
 
 
 
-## Combat
+l
 
-if Lady Vox enters combat  then
+o
 
+c
 
-**Set a timer** named *1* for 1 seconds
+a
 
-else
+l
 
+ 
 
-**Stop timer** named *1*
+S
 
+p
 
-e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
-end
+a
 
+w
 
+n
 
-## Timer(s)
+Y
 
-if(e.timer == "1") then
+ 
 
+=
 
-if(e.self:GetX() < -431 or e.self:GetX() > -85 or e.self:GetY() < 770 or e.self:GetY() > 1090 or e.self:GetZ()  < -50) then
+ 
 
+0
 
+;
 
-e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
 
 
-elseif(e.self:CountHateList() > 0) then
 
+l
 
+o
 
-e.self:ForeachHateList(
+c
 
+a
 
+l
 
+ 
 
-function(ent, hate, damage, frenzy)
+S
 
+p
 
+a
 
+w
 
+n
 
-if(ent:IsClient()) then
+Z
 
+ 
 
+=
 
+ 
 
+0
 
+;
 
-ent:CastToClient():Message(4,"I will not fight you, but I shall banish you!");
 
 
 
+l
 
+o
 
+c
 
-if(ent:CastToClient():GetBindZoneID() == 73) then
+a
 
+l
 
+ 
 
+S
 
+p
 
+a
 
+w
 
-ent:CastToClient():SetBindPoint(30,-7024,2020,-60);
+n
 
+H
 
+ 
 
+=
 
+ 
 
+0
 
+;
 
 
 
 
 
-ent:CastToClient():MovePC(30,-7024,2020,-60.7,0);
 
 
 
@@ -129,63 +159,1405 @@ ent:CastToClient():MovePC(30,-7024,2020,-60.7,0);
 
 
 
+#
 
+#
 
+ 
 
+O
 
-function(ent, hate, damage, frenzy)
+n
 
+ 
 
+N
 
+P
 
+C
 
-if(ent:IsClient()) then
+ 
 
+S
 
+p
 
+a
 
+w
 
+n
 
-if(ent:CastToClient():GetLevel() > 52) then
 
 
 
+S
 
+p
 
+a
 
+w
 
-return true;
+n
 
+X
 
+ 
 
+=
 
+ 
 
+e
 
+.
 
+s
 
+e
 
+l
 
+f
 
+:
 
+G
 
+e
 
-return false;
+t
 
+X
 
+(
 
+)
 
+;
 
 
-);
 
-end
 
+S
 
+p
 
-## Signals
+a
 
-if ( e.signal == 1 ) then
+w
 
+n
 
-**Lady Vox shouts:** <span class="text-danger">The Sleeper stirs!  A glorious new age for Norrath is about to begin, and my exile is about to</span>
-end
+Y
+
+ 
+
+=
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Y
+
+(
+
+)
+
+;
+
+
+
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Z
+
+ 
+
+=
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Z
+
+(
+
+)
+
+;
+
+
+
+
+S
+
+p
+
+a
+
+w
+
+n
+
+H
+
+ 
+
+=
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+H
+
+e
+
+a
+
+d
+
+i
+
+n
+
+g
+
+(
+
+)
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+ 
+
+C
+
+o
+
+m
+
+b
+
+a
+
+t
+
+
+
+
+i
+
+f
+
+ 
+
+L
+
+a
+
+d
+
+y
+
+ 
+
+V
+
+o
+
+x
+
+ 
+
+e
+
+n
+
+t
+
+e
+
+r
+
+s
+
+ 
+
+c
+
+o
+
+m
+
+b
+
+a
+
+t
+
+ 
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+*
+
+*
+
+S
+
+e
+
+t
+
+ 
+
+a
+
+ 
+
+t
+
+i
+
+m
+
+e
+
+r
+
+*
+
+*
+
+ 
+
+n
+
+a
+
+m
+
+e
+
+d
+
+ 
+
+*
+
+1
+
+*
+
+ 
+
+f
+
+o
+
+r
+
+ 
+
+1
+
+ 
+
+s
+
+e
+
+c
+
+o
+
+n
+
+d
+
+s
+
+
+
+
+e
+
+l
+
+s
+
+e
+
+
+
+
+*
+
+*
+
+S
+
+t
+
+o
+
+p
+
+ 
+
+t
+
+i
+
+m
+
+e
+
+r
+
+*
+
+*
+
+ 
+
+n
+
+a
+
+m
+
+e
+
+d
+
+ 
+
+*
+
+1
+
+*
+
+
+
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+M
+
+M
+
+o
+
+v
+
+e
+
+(
+
+S
+
+p
+
+a
+
+w
+
+n
+
+X
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Y
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Z
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+H
+
+)
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+ 
+
+T
+
+i
+
+m
+
+e
+
+r
+
+(
+
+s
+
+)
+
+
+
+
+i
+
+f
+
+(
+
+e
+
+.
+
+t
+
+i
+
+m
+
+e
+
+r
+
+ 
+
+=
+
+=
+
+ 
+
+"
+
+1
+
+"
+
+)
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+i
+
+f
+
+(
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+X
+
+(
+
+)
+
+ 
+
+<
+
+ 
+
+-
+
+4
+
+3
+
+1
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+X
+
+(
+
+)
+
+ 
+
+>
+
+ 
+
+-
+
+8
+
+5
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Y
+
+(
+
+)
+
+ 
+
+<
+
+ 
+
+7
+
+7
+
+0
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Y
+
+(
+
+)
+
+ 
+
+>
+
+ 
+
+1
+
+0
+
+9
+
+0
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Z
+
+(
+
+)
+
+ 
+
+ 
+
+<
+
+ 
+
+-
+
+5
+
+0
+
+)
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+M
+
+M
+
+o
+
+v
+
+e
+
+(
+
+S
+
+p
+
+a
+
+w
+
+n
+
+X
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Y
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Z
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+H
+
+)
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+ 
+
+S
+
+i
+
+g
+
+n
+
+a
+
+l
+
+s
+
+
+
+
+i
+
+f
+
+ 
+
+(
+
+ 
+
+e
+
+.
+
+s
+
+i
+
+g
+
+n
+
+a
+
+l
+
+ 
+
+=
+
+=
+
+ 
+
+1
+
+ 
+
+)
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+*
+
+*
+
+L
+
+a
+
+d
+
+y
+
+ 
+
+V
+
+o
+
+x
+
+ 
+
+s
+
+h
+
+o
+
+u
+
+t
+
+s
+
+:
+
+*
+
+*
+
+ 
+
+<
+
+s
+
+p
+
+a
+
+n
+
+ 
+
+c
+
+l
+
+a
+
+s
+
+s
+
+=
+
+"
+
+t
+
+e
+
+x
+
+t
+
+-
+
+d
+
+a
+
+n
+
+g
+
+e
+
+r
+
+"
+
+>
+
+T
+
+h
+
+e
+
+ 
+
+S
+
+l
+
+e
+
+e
+
+p
+
+e
+
+r
+
+ 
+
+s
+
+t
+
+i
+
+r
+
+s
+
+!
+
+ 
+
+ 
+
+A
+
+ 
+
+g
+
+l
+
+o
+
+r
+
+i
+
+o
+
+u
+
+s
+
+ 
+
+n
+
+e
+
+w
+
+ 
+
+a
+
+g
+
+e
+
+ 
+
+f
+
+o
+
+r
+
+ 
+
+N
+
+o
+
+r
+
+r
+
+a
+
+t
+
+h
+
+ 
+
+i
+
+s
+
+ 
+
+a
+
+b
+
+o
+
+u
+
+t
+
+ 
+
+t
+
+o
+
+ 
+
+b
+
+e
+
+g
+
+i
+
+n
+
+,
+
+ 
+
+a
+
+n
+
+d
+
+ 
+
+m
+
+y
+
+ 
+
+e
+
+x
+
+i
+
+l
+
+e
+
+ 
+
+i
+
+s
+
+ 
+
+a
+
+b
+
+o
+
+u
+
+t
+
+ 
+
+t
+
+o
+
+ 
+
+e
+
+n
+
+d
+
+!
+
+<
+
+/
+
+s
+
+p
+
+a
+
+n
+
+>
+
+
+
+
+

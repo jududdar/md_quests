@@ -1,7 +1,55 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("Tunare");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+T
+
+u
+
+n
+
+a
+
+r
+
+e
+
+"
+
+)
+
+;

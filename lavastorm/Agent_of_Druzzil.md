@@ -1,22 +1,32 @@
 # Agent of Druzzil
 
-
-
 [Agent of Druzzil](/npc/1200021) is a level 80 Human Enchanter that spawns in [Lavastorm Mountains](/zone/27).
 
 
 
-## Dialog
+
+
+#
+
+#
+
+ 
+
+D
+
+i
+
+a
+
+l
+
+o
+
+g
 
 
 
 
->**Agent of Druzzil says:** Hail, mortal. If you are wishing to embark on a tryout for your guild to enter the Guild Rotation, please inform Druzzil if you wish to enter [Nagafen's Lair]. No experience or loot will be present here.
-
-
-
-
->**Agent of Druzzil says:** Do not interfere with others' attempts lest you be actioned.
 
 
 
@@ -24,17 +34,156 @@
 
 
 
->**Agent of Druzzil says:** Hail, mortal. You are lacking friends. Please gather some, then come back and approach me.
 
 
 
->**Agent of Druzzil says:** Hail, mortal. You are lacking friends. Please gather some, then come back and approach me.
 
 
 
-**You say:** `hail`
 
 
 
->**Agent of Druzzil says:** Hail, mortal.
-end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*
+
+*
+
+Y
+
+o
+
+u
+
+ 
+
+s
+
+a
+
+y
+
+:
+
+*
+
+*
+
+ 
+
+`
+
+h
+
+a
+
+i
+
+l
+
+`
+
+
+
+
+
+
+
+>
+
+*
+
+*
+
+A
+
+g
+
+e
+
+n
+
+t
+
+ 
+
+o
+
+f
+
+ 
+
+D
+
+r
+
+u
+
+z
+
+z
+
+i
+
+l
+
+ 
+
+s
+
+a
+
+y
+
+s
+
+:
+
+*
+
+*
+
+ 
+
+H
+
+a
+
+i
+
+l
+
+,
+
+ 
+
+m
+
+o
+
+r
+
+t
+
+a
+
+l
+
+.
+
+
+
+
+

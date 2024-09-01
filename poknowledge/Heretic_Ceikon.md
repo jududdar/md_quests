@@ -1,16 +1,157 @@
 # Heretic Ceikon
 
-
-
 [Heretic Ceikon](/npc/202201) is a level 60 Erudite Shopkeeper that spawns in [Plane of Knowledge](/zone/202).
 
+Their primary faction is [Inhabitants of Tanaan](/faction/1636).
 
 
-## Turn-Ins
 
 
 
-**This NPC *should* return incorrect items given.**
+#
+
+#
+
+ 
+
+T
+
+u
+
+r
+
+n
+
+-
+
+I
+
+n
+
+s
+
+
+
+
+
+
+
+*
+
+*
+
+T
+
+h
+
+i
+
+s
+
+ 
+
+N
+
+P
+
+C
+
+ 
+
+*
+
+s
+
+h
+
+o
+
+u
+
+l
+
+d
+
+*
+
+ 
+
+r
+
+e
+
+t
+
+u
+
+r
+
+n
+
+ 
+
+i
+
+n
+
+c
+
+o
+
+r
+
+r
+
+e
+
+c
+
+t
+
+ 
+
+i
+
+t
+
+e
+
+m
+
+s
+
+ 
+
+g
+
+i
+
+v
+
+e
+
+n
+
+.
+
+*
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

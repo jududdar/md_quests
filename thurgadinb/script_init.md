@@ -1,7 +1,59 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("krystorf");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+k
+
+r
+
+y
+
+s
+
+t
+
+o
+
+r
+
+f
+
+"
+
+)
+
+;

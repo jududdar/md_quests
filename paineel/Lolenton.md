@@ -1,22 +1,41 @@
 # Lolenton
 
-
-
 [Lolenton](/npc/75092) is a level 50 Skeleton Warrior that spawns in [Paineel](/zone/75).
 
+Their primary faction is [Heretics](/faction/265).
 
 
 
 
-## On NPC Spawn
-
--
 
 
 
-## Timer(s)
 
--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

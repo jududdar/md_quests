@@ -1,124 +1,155 @@
 # Lord Nagafen
 
-
-
 [Lord Nagafen](/npc/32040) is a level 55 Dragon Warrior that spawns in [Nagafen's Lair](/zone/32).
 
+Their primary faction is [Nagafen](/faction/249).l
 
+o
 
-local SpawnX = 0;
-local SpawnY = 0;
-local SpawnZ = 0;
-local SpawnH = 0;
+c
 
+a
 
+l
 
-## On NPC Spawn
+ 
 
-SpawnX = e.self:GetX();
+S
 
-SpawnY = e.self:GetY();
+p
 
-SpawnZ = e.self:GetZ();
+a
 
-SpawnH = e.self:GetHeading();
+w
 
-local range = 230;
+n
 
-eq.set_proximity(SpawnX - range, SpawnX + range, SpawnY - range, SpawnY + range);
-function event_enter(e)
+X
 
-if(**Your level** > 52 and e.other:Admin() < 80) then
+ 
 
+=
 
-**Message:** <span class="text-warning">*I will not fight you, but I shall banish you!*</span>
+ 
 
+0
 
-e.other:MovePC(27,534,913,55,0); 
-end
+;
 
 
 
-## Combat
 
-if Lord Nagafen enters combat  then
+l
 
+o
 
-**Set a timer** named *1* for 1 seconds
+c
 
-else
+a
 
+l
 
-**Stop timer** named *1*
+ 
 
+S
 
-e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
-end
+p
 
+a
 
+w
 
-## Timer(s)
+n
 
-if(e.timer == "1") then
+Y
 
+ 
 
-if(e.self:GetX() < -1000 or e.self:GetX() > -650 or e.self:GetY() < -1500 or e.self:GetY() > -1170) then
+=
 
+ 
 
+0
 
-e.self:GMMove(SpawnX,SpawnY,SpawnZ,SpawnH);
+;
 
 
-elseif(e.self:CountHateList() > 0) then
 
 
+l
 
-e.self:ForeachHateList(
+o
 
+c
 
+a
 
+l
 
-function(ent, hate, damage, frenzy)
+ 
 
+S
 
+p
 
+a
 
+w
 
-if(ent:IsClient()) then
+n
 
+Z
 
+ 
 
+=
 
+ 
 
+0
 
-ent:CastToClient():Message(4,"I will not fight you, but I shall banish you!");
+;
 
 
 
 
+l
 
+o
 
-if(ent:CastToClient():GetBindZoneID() == 32) then
+c
 
+a
 
+l
 
+ 
 
+S
 
+p
 
+a
 
-ent:CastToClient():SetBindPoint(27,534,913,55);
+w
 
+n
 
+H
 
+ 
 
+=
 
+ 
 
+0
 
+;
 
 
 
 
-ent:CastToClient():MovePC(27,534,913,55,0);
 
 
 
@@ -128,62 +159,1511 @@ ent:CastToClient():MovePC(27,534,913,55,0);
 
 
 
+#
 
+#
 
+ 
 
-function(ent, hate, damage, frenzy)
+O
 
+n
 
+ 
 
+N
 
+P
 
-if(ent:IsClient()) then
+C
 
+ 
 
+S
 
+p
 
+a
 
+w
 
-if(ent:CastToClient():GetLevel() > 52) then
+n
 
 
 
 
+S
 
+p
 
+a
 
-return true;
+w
 
+n
 
+X
 
+ 
 
+=
 
+ 
 
+e
 
+.
 
+s
 
+e
 
+l
 
+f
 
+:
 
+G
 
-return false;
+e
 
+t
 
+X
 
+(
 
+)
 
+;
 
-);
 
-end
 
 
+S
 
-## Signals
+p
 
-if ( e.signal == 1 ) then
+a
 
+w
 
-**Lord Nagafen shouts:** <span class="text-danger">Ha!  The Ring and Claws are doomed!  The Sleeper has been awakened, what a glorious day!  Lady Vox, I will see you soon, our long delayed nuptials can now proceed!</span>
-end
+n
+
+Y
+
+ 
+
+=
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Y
+
+(
+
+)
+
+;
+
+
+
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Z
+
+ 
+
+=
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Z
+
+(
+
+)
+
+;
+
+
+
+
+S
+
+p
+
+a
+
+w
+
+n
+
+H
+
+ 
+
+=
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+H
+
+e
+
+a
+
+d
+
+i
+
+n
+
+g
+
+(
+
+)
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+ 
+
+C
+
+o
+
+m
+
+b
+
+a
+
+t
+
+
+
+
+i
+
+f
+
+ 
+
+L
+
+o
+
+r
+
+d
+
+ 
+
+N
+
+a
+
+g
+
+a
+
+f
+
+e
+
+n
+
+ 
+
+e
+
+n
+
+t
+
+e
+
+r
+
+s
+
+ 
+
+c
+
+o
+
+m
+
+b
+
+a
+
+t
+
+ 
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+*
+
+*
+
+S
+
+e
+
+t
+
+ 
+
+a
+
+ 
+
+t
+
+i
+
+m
+
+e
+
+r
+
+*
+
+*
+
+ 
+
+n
+
+a
+
+m
+
+e
+
+d
+
+ 
+
+*
+
+1
+
+*
+
+ 
+
+f
+
+o
+
+r
+
+ 
+
+1
+
+ 
+
+s
+
+e
+
+c
+
+o
+
+n
+
+d
+
+s
+
+
+
+
+e
+
+l
+
+s
+
+e
+
+
+
+
+*
+
+*
+
+S
+
+t
+
+o
+
+p
+
+ 
+
+t
+
+i
+
+m
+
+e
+
+r
+
+*
+
+*
+
+ 
+
+n
+
+a
+
+m
+
+e
+
+d
+
+ 
+
+*
+
+1
+
+*
+
+
+
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+M
+
+M
+
+o
+
+v
+
+e
+
+(
+
+S
+
+p
+
+a
+
+w
+
+n
+
+X
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Y
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Z
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+H
+
+)
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+ 
+
+T
+
+i
+
+m
+
+e
+
+r
+
+(
+
+s
+
+)
+
+
+
+
+i
+
+f
+
+(
+
+e
+
+.
+
+t
+
+i
+
+m
+
+e
+
+r
+
+ 
+
+=
+
+=
+
+ 
+
+"
+
+1
+
+"
+
+)
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+i
+
+f
+
+(
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+X
+
+(
+
+)
+
+ 
+
+<
+
+ 
+
+-
+
+1
+
+0
+
+0
+
+0
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+X
+
+(
+
+)
+
+ 
+
+>
+
+ 
+
+-
+
+6
+
+5
+
+0
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Y
+
+(
+
+)
+
+ 
+
+<
+
+ 
+
+-
+
+1
+
+5
+
+0
+
+0
+
+ 
+
+o
+
+r
+
+ 
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+e
+
+t
+
+Y
+
+(
+
+)
+
+ 
+
+>
+
+ 
+
+-
+
+1
+
+1
+
+7
+
+0
+
+)
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+e
+
+.
+
+s
+
+e
+
+l
+
+f
+
+:
+
+G
+
+M
+
+M
+
+o
+
+v
+
+e
+
+(
+
+S
+
+p
+
+a
+
+w
+
+n
+
+X
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Y
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+Z
+
+,
+
+S
+
+p
+
+a
+
+w
+
+n
+
+H
+
+)
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+ 
+
+S
+
+i
+
+g
+
+n
+
+a
+
+l
+
+s
+
+
+
+
+i
+
+f
+
+ 
+
+(
+
+ 
+
+e
+
+.
+
+s
+
+i
+
+g
+
+n
+
+a
+
+l
+
+ 
+
+=
+
+=
+
+ 
+
+1
+
+ 
+
+)
+
+ 
+
+t
+
+h
+
+e
+
+n
+
+
+
+
+*
+
+*
+
+L
+
+o
+
+r
+
+d
+
+ 
+
+N
+
+a
+
+g
+
+a
+
+f
+
+e
+
+n
+
+ 
+
+s
+
+h
+
+o
+
+u
+
+t
+
+s
+
+:
+
+*
+
+*
+
+ 
+
+<
+
+s
+
+p
+
+a
+
+n
+
+ 
+
+c
+
+l
+
+a
+
+s
+
+s
+
+=
+
+"
+
+t
+
+e
+
+x
+
+t
+
+-
+
+d
+
+a
+
+n
+
+g
+
+e
+
+r
+
+"
+
+>
+
+H
+
+a
+
+!
+
+ 
+
+ 
+
+T
+
+h
+
+e
+
+ 
+
+R
+
+i
+
+n
+
+g
+
+ 
+
+a
+
+n
+
+d
+
+ 
+
+C
+
+l
+
+a
+
+w
+
+s
+
+ 
+
+a
+
+r
+
+e
+
+ 
+
+d
+
+o
+
+o
+
+m
+
+e
+
+d
+
+!
+
+ 
+
+ 
+
+T
+
+h
+
+e
+
+ 
+
+S
+
+l
+
+e
+
+e
+
+p
+
+e
+
+r
+
+ 
+
+h
+
+a
+
+s
+
+ 
+
+b
+
+e
+
+e
+
+n
+
+ 
+
+a
+
+w
+
+a
+
+k
+
+e
+
+n
+
+e
+
+d
+
+,
+
+ 
+
+w
+
+h
+
+a
+
+t
+
+ 
+
+a
+
+ 
+
+g
+
+l
+
+o
+
+r
+
+i
+
+o
+
+u
+
+s
+
+ 
+
+d
+
+a
+
+y
+
+!
+
+ 
+
+ 
+
+L
+
+a
+
+d
+
+y
+
+ 
+
+V
+
+o
+
+x
+
+,
+
+ 
+
+I
+
+ 
+
+w
+
+i
+
+l
+
+l
+
+ 
+
+s
+
+e
+
+e
+
+ 
+
+y
+
+o
+
+u
+
+ 
+
+s
+
+o
+
+o
+
+n
+
+,
+
+ 
+
+o
+
+u
+
+r
+
+ 
+
+l
+
+o
+
+n
+
+g
+
+ 
+
+d
+
+e
+
+l
+
+a
+
+y
+
+e
+
+d
+
+ 
+
+n
+
+u
+
+p
+
+t
+
+i
+
+a
+
+l
+
+s
+
+ 
+
+c
+
+a
+
+n
+
+ 
+
+n
+
+o
+
+w
+
+ 
+
+p
+
+r
+
+o
+
+c
+
+e
+
+e
+
+d
+
+!
+
+<
+
+/
+
+s
+
+p
+
+a
+
+n
+
+>
+
+
+
+
+

@@ -1,7 +1,57 @@
-# script init
+e
 
+q
 
+.
 
+l
 
+o
 
-eq.load_encounter("Callers");
+a
+
+d
+
+_
+
+e
+
+n
+
+c
+
+o
+
+u
+
+n
+
+t
+
+e
+
+r
+
+(
+
+"
+
+C
+
+a
+
+l
+
+l
+
+e
+
+r
+
+s
+
+"
+
+)
+
+;
