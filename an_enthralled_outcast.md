@@ -1,0 +1,54 @@
+# an enthralled outcast
+
+[an enthralled outcast](/npc/164001) is a level 51 Wretch Warrior that spawns in [The Deep](/zone/164).
+
+Their primary faction is [Deepshade Collective](/faction/1568).rand = 0;
+
+
+
+
+
+## Arrive at Waypoint Script
+
+rand = math.random(1,2);
+
+if(e.wp > 0 and e.self:GetWaypointPause() > 1) then
+
+if(rand == 1) then
+
+>*an enthralled outcast sniffs the air around them.  Apparently it smells an intruder.*
+
+else
+
+>*an enthralled outcast peers around the cavern.  You get the distinct impression it knows you're here.*
+
+
+
+
+
+
+
+
+
+
+
+## Depart from Waypoint Script
+
+if(e.wp > 0 and e.self:GetWaypointPause() > 1) then
+
+if(rand == 1) then
+
+>*an enthralled outcast gives an indication of indifference and goes back to searching for food.*
+
+else
+
+>*an enthralled outcast gives up on what ever it was looking for and goes back into the caves.*
+
+
+
+
+
+rand = 0;
+
+
+

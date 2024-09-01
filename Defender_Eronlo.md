@@ -1,0 +1,53 @@
+# Defender Eronlo
+
+[Defender Eronlo](/npc/150003) is a level 55 Dwarf Warrior that spawns in [Shadow Haven](/zone/150).
+
+Their primary faction is [Haven Defenders](/faction/1509).
+
+## Dialog
+
+**You say:** `hail`
+
+
+>**Defender Eronlo says:** Lo dere, Soandso.  Da Shadowhaven can be a confusin place at times, but it can be quite easy to git around once ya know what quarter you are in. The city consists of four of these quarters being da Commons quarter which is here, along with the House of Stout, House of Fordel and House of Midst.
+
+
+
+
+
+
+
+
+
+## Combat
+
+if Defender Eronlo enters combat  then
+
+**Set a timer** named *combatsay* for 300 seconds
+
+else
+
+**Stop timer** named *combatsay*
+
+
+
+
+
+
+
+
+
+## Timer(s)
+
+>**Defender Eronlo says:** A fool you are indeed to test your fighting skills to mine!  You shall now die by my blade!
+
+
+
+
+
+
+
+## On NPC Death
+
+**Stop timer** named *combatsay*
+

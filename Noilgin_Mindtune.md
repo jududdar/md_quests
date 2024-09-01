@@ -1,0 +1,52 @@
+# Noilgin Mindtune
+
+[Noilgin Mindtune](/npc/84162) is a level 30 Half Elf Bard that spawns in [Firiona Vie](/zone/84).
+
+Their primary faction is [Inhabitants of Firiona Vie](/faction/248).
+
+
+
+## Dialog
+
+**You say:** `hail`
+
+
+>**Noilgin Mindtune says:** Hello there, Soandso! I hope you are enjoying your visit to the outpost. I know I sure am.
+
+
+
+
+
+
+
+
+
+## Turn-Ins
+
+
+
+if( **You turn in:**   <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_777.png" alt="" /> <a
+                                href="/item/6067" data-url="6067" class="tooltip-link link">Bound Research Notes</a> ) then
+
+>**Noilgin Mindtune says:** Oh no! I have been tracked down. Can't I have a moment's peace? I'm sorry you went through all the trouble to get this to me, but I'm not delivering mail right now. I'm trying to take a vacation. You'll have to deliver it to Lanivon Baxer in the Toxxulia Forest yourself. Here, take it back. I have packaged it up nicely for the journey.
+
+ &#127873; **You receive:**  <img style="background:url(/static/icons/blank_slot.gif);width:20px;height:20px;" src="/static/icons/item_609.png" alt="" /> <a
+                                href="/item/6069" data-url="6069" class="tooltip-link link">Packaged Research Notes</a> 
+
+ 
+
+
+
+**This NPC *should* return incorrect items given.**
+
+
+
+
+
+
+
+
+
+
+
+

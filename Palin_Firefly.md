@@ -1,0 +1,49 @@
+# Palin Firefly
+
+[Palin Firefly](/npc/203393) is a level 46 Half Elf Warrior that spawns in [Plane of Tranquility](/zone/203).
+
+Their primary faction is [Inhabitants of Tranquility](/faction/1650).
+
+## On NPC Spawn
+
+e.self:CastToNPC():SetNoQuestPause(true);
+
+eq.set_timer("inifish",math.random(1,32000));
+
+
+
+
+
+
+
+## Dialog
+
+**You say:** `hail`
+
+
+>*Palin Firefly continues to stare out at the ocean, completely lost in his thoughts.*
+
+
+
+
+
+
+
+
+
+## Timer(s)
+
+if(e.timer == "inifish") then
+
+**Stop timer** named *inifish*
+
+**Set a timer** named *fish* for 32 seconds
+
+e.self:DoAnim(5);
+
+elseif(e.timer == "fish") then
+
+e.self:DoAnim(5);
+
+
+

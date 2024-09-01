@@ -1,0 +1,16 @@
+# a shimmering sailfin
+
+[a shimmering sailfin](/npc/64075) is a level 5 Fish Wizard that spawns in [Kedge Keep (Instance)](/zone/1064).
+
+Their primary faction is [Phinigel Autropos](/faction/299).function event_death(e)
+
+if(math.random(1,100) < 75) then
+
+**a shimmering sailfin casts:** [Fishnova](/spell/1017) on target.
+
+
+
+
+
+
+

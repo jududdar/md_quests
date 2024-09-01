@@ -1,0 +1,15 @@
+# Salic Whispersong
+
+[Salic Whispersong](/npc/160155) is a level 62 Half Elf Bard that spawns in [Katta Castellum](/zone/160).
+
+Their primary faction is [Concilium Universus](/faction/1561).
+
+## Dialog
+
+**You say:** `hail`
+
+
+>**Salic Whispersong says:** Well met Soandso! I am Magistrate Salic Whispersong of Katta Castellum and the Empire of the Loyalist Combine. I assist the scholars of Katta Castellum with study and documentation of the rich and detailed history of our grand city. Should you find the need to discover a tid bit of information regarding our city or empires past I will be of service of point you in the right direction.
+
+
+

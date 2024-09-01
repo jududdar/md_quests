@@ -1,0 +1,42 @@
+# Reggit
+
+[Reggit](/npc/20277) is a level 23 Tiger Druid that spawns in [Kithicor Forest](/zone/20).
+
+Their primary faction is [Kithicor Residents](/faction/269).
+
+## On NPC Spawn
+
+eq.set_timer("depop",math.random(1800000,7200000));
+
+
+
+
+
+
+
+## Timer(s)
+
+**Reggit despawns.**
+
+
+
+
+
+
+
+## Combat
+
+if Reggit enters combat  then
+
+if(not eq.is_paused_timer("depop")) then
+
+eq.pause_timer("depop");
+
+
+
+else
+
+eq.resume_timer("depop");
+
+
+

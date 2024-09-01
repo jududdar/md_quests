@@ -1,0 +1,64 @@
+# High Priest of Ssraeshza
+
+[High Priest of Ssraeshza](/npc/162076) is a level 66 Shissar Cleric that spawns in [Ssraeshza Temple](/zone/162).
+
+Their primary faction is [Brood of Ssraeshza](/faction/1535).
+
+
+
+local ADD_TYPES = { 162115, 162112, 162114, 162113, 162121, 162119, 162122, 162120, 162118, 162116, 162117, 162111 };
+
+
+
+
+
+## Combat
+
+if  High Priest of Ssraeshza enters combat  then
+
+**Set a timer** named *check* for 10 seconds
+
+else
+
+**Stop timer** named *check*
+
+
+
+
+
+
+
+
+
+## Timer(s)
+
+if ( e.timer == "check" ) then
+
+
+
+local elist = eq.get_entity_list();
+
+local npc;
+
+
+
+for _, typ in ipairs(ADD_TYPES) do
+
+npc = elist:GetMobByNpcTypeID(typ):CastToNPC();
+
+if ( npc and npc.valid and npc:GetZ() < 240 ) then
+
+npc:GMMove(npc:GetSpawnPointX(), npc:GetSpawnPointY(), npc:GetSpawnPointZ(), npc:GetSpawnPointH());
+
+npc:CastSpell(3230, npc:GetID()); 
+
+npc:WipeHateList();
+
+return; 
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+# Gomo Limerin
+
+[Gomo Limerin](/npc/12155) is a level 4 Human Paladin that spawns in [Western Plains of Karana](/zone/12).
+
+Their primary faction is [Knights of Thunder](/faction/280).
+
+## On NPC Spawn
+
+e.self:SetRunning(true);
+
+
+
+
+
+
+
+## Dialog
+
+**You say:** `hail`
+
+
+>**Gomo Limerin says:** No time to talk!! I must be on my way. I am in a race with the paladins from the Temple of Life.
+
+
+
+
+
+
+
+function event_death(e)
+
+local sp = e.self:GetSpawnPointID();
+
+local spawn = eq.get_entity_list():GetSpawnByID(sp);
+
+spawn:SetRespawnTimer(840);
+

@@ -1,0 +1,19 @@
+# Sergeant Sikfaun Bowah
+
+[Sergeant Sikfaun Bowah](/npc/208020) is a level 67 Valorian Warrior that spawns in [Plane of Valor](/zone/208).
+
+Their primary faction is [Inhabitants of Valor](/faction/1655).
+
+## Dialog
+
+
+
+**You say:** `hail`
+
+
+>**Sergeant Sikfaun Bowah says:** Leave immediately.
+
+**Signaled to:**  [Helix Jeson](/npc/208063)
+
+
+

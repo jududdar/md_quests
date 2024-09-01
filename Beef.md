@@ -1,0 +1,45 @@
+# Beef
+
+[Beef](/npc/5055) is a level 40 Ogre Warrior that spawns in [Highpass Hold](/zone/5).
+
+Their primary faction is [Coalition of Tradefolk Underground](/faction/336).
+
+## Signals
+
+if(e.signal == 1) then
+
+>**Beef says:** The boss might need some help!
+
+local stanos = eq.get_entity_list():GetMobByNpcTypeID(5088); 
+
+if ( stanos.valid ) then
+
+e.self:MoveTo(stanos:GetX(), stanos:GetY(), stanos:GetZ(), -1, false);
+
+
+
+elseif(e.signal == 2) then
+
+>**Beef says:** Gets moving before me smash yu to pulp!!
+
+elseif(e.signal == 3) then
+
+>**Beef says:** BWAHAHA HA!! Yoo werk fer Mister Axe now. Hehehe!!
+
+
+
+
+
+
+
+
+
+## Dialog
+
+**You say:** `hail`
+
+
+>**Beef says:** Yu be getting going. Dis here is da boss' table!!
+
+
+
