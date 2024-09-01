@@ -4,55 +4,7 @@
 
 Their primary faction is [KOS](/faction/5017).
 
-
-
-
-
-#
-
-#
-
- 
-
-O
-
-n
-
- 
-
-N
-
-P
-
-C
-
- 
-
-D
-
-e
-
-a
-
-t
-
-h
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## On NPC Death
 
 
 

@@ -4,41 +4,5 @@
 
 Their primary faction is [Inhabitants of Sky](/faction/424).
 
-
-
-
-
-#
-
-#
-
- 
-
-O
-
-n
-
- 
-
-N
-
-P
-
-C
-
- 
-
-D
-
-e
-
-a
-
-t
-
-h
-
-
-
-
+## On NPC Death
 
